@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21T11:41-03:00",
+ "actualizado": "2026-10-21T16:29-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -1551,113 +1551,14 @@
    "camara_actual": "Senado"
   },
   {
-   "boletin": "18623-07",
-   "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
-   "fecha_ingreso": "2026-09-01",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Suma",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-01",
-     "retiro": "2026-09-08",
-     "camara": "",
-     "oficio": "110-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-01",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "290-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-08",
-     "retiro": "2026-09-22",
-     "camara": "Senado",
-     "oficio": "309-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-22",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "334-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "376-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda en su caso",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Cuenta del Mensaje 290-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 309-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-22",
-     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18623-07",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18623-07",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19307&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 4,
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-10-06",
-    "vence": "2026-10-21"
-   },
-   "dias_tramite": 50,
-   "camara_actual": "Senado"
-  },
-  {
    "boletin": "18436-15",
    "titulo": "Modifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado",
    "fecha_ingreso": "2026-07-08",
    "iniciativa": "Mensaje",
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Suma",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Transportes y Telecomunicaciones",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -1807,6 +1708,24 @@
      "descripcion": "Cuenta del Mensaje 382-374 que retira y hace presente la urgencia Suma",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Discusión única . Aprobado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Transportes y Telecomunicaciones y a Comisiï¿½n de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -1821,7 +1740,7 @@
     "vence": "2026-10-22"
    },
    "dias_tramite": 105,
-   "camara_actual": "Cámara de Diputados"
+   "camara_actual": "Senado"
   },
   {
    "boletin": "18644-14",
@@ -4177,8 +4096,8 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Discusión inmediata",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -4244,6 +4163,24 @@
      "descripcion": "Cuenta de primer informe de comisión .",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -4258,7 +4195,7 @@
     "vence": "2026-10-25"
    },
    "dias_tramite": 16,
-   "camara_actual": "Cámara de Diputados"
+   "camara_actual": "Senado"
   },
   {
    "boletin": "18525-06",
@@ -4512,6 +4449,118 @@
     "vence": "2026-10-26"
    },
    "dias_tramite": 78,
+   "camara_actual": "Senado"
+  },
+  {
+   "boletin": "18623-07",
+   "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
+   "fecha_ingreso": "2026-09-01",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-01",
+     "retiro": "2026-09-08",
+     "camara": "",
+     "oficio": "110-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-01",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "290-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-08",
+     "retiro": "2026-09-22",
+     "camara": "Senado",
+     "oficio": "309-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-22",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "334-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-06",
+     "retiro": "2026-10-21",
+     "camara": "Senado",
+     "oficio": "376-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-21",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "397-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda en su caso",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta del Mensaje 290-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 309-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta del Mensaje 397-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18623-07",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18623-07",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19307&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 5,
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-10-21",
+    "vence": "2026-10-27"
+   },
+   "dias_tramite": 50,
    "camara_actual": "Senado"
   },
   {
