@@ -277,8 +277,16 @@
       h += '<section aria-labelledby="h-r"><div class="seccion-cabeza"><h2 id="h-r">Riesgos y antecedentes</h2></div><ol class="historial">' +
         L.riesgos.map(function (r) { return '<li><b>' + esc(r.titulo) + '</b><span>' + esc(r.texto) + '</span></li>'; }).join('') + '</ol></section>';
     }
+    if (L.fuentes && L.fuentes.length) {
+      h += '<section aria-labelledby="h-fl"><div class="seccion-cabeza"><h2 id="h-fl">Fuentes de esta lectura</h2></div><ul class="lista-enlaces">' +
+        L.fuentes.map(function (f) {
+          var url = /^https?:\/\//.test(f.url || '') ? f.url : '';
+          return '<li>' + (url ? '<a href="' + esc(url) + '" rel="noopener">' + esc(f.titulo || url) + '</a>' : esc(f.titulo || '')) +
+            (f.respalda ? ' <span class="fuente">· ' + esc(f.respalda) + '</span>' : '') + '</li>';
+        }).join('') + '</ul></section>';
+    }
     if (L.autor || L.actualizado) {
-      h += '<p class="nota">Lectura elaborada por ' + esc(L.autor || 'Ruta Crece') + (L.actualizado ? ', actualizada el ' + fCorta(L.actualizado) : '') + '. Las proyecciones se identifican como tales.</p>';
+      h += '<p class="nota">Lectura elaborada por ' + esc(L.autor || 'Ruta Crece') + (L.revisada ? ' y revisada por su equipo' : '') + (L.actualizado ? ', actualizada el ' + fCorta(L.actualizado) : '') + '. Las proyecciones se identifican como tales.</p>';
     }
     $('#lectura-cuerpo').innerHTML = h;
   }
