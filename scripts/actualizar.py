@@ -181,6 +181,17 @@ def detalle(boletin):
     }
 
 
+ETAPAS_FUERA = ('tramitación terminada', 'tribunal constitucional', 'aprobacion presidencial', 'aprobación presidencial', 'archivad', 'retirad')
+
+
+def en_congreso(p):
+    estado = (p.get('estado') or '').lower()
+    etapa = (p.get('etapa') or '').lower()
+    if estado and estado != 'en tramitación' and estado != 'en tramitacion':
+        return False
+    return not any(x in etapa for x in ETAPAS_FUERA)
+
+
 def completar(p):
     inicio = INICIO.isoformat()
     del_gobierno = [u for u in p['urgencias'] if (u['ingreso'] or '') >= inicio]
@@ -215,6 +226,8 @@ def principal():
             continue
         if p['urgencia_actual'] not in NIVELES:
             continue
+        if not en_congreso(p):
+            continue  # ya despachado, publicado, archivado o fuera del Congreso
         p = completar(p)
         if not any((u['ingreso'] or '') >= INICIO.isoformat() for u in p['urgencias']):
             continue  # urgencia puesta antes de este gobierno

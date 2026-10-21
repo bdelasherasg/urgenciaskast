@@ -95,11 +95,16 @@
       return n !== null && n >= 0 && n <= 7;
     }).length;
     var renov = ps.reduce(function (a, p) { return a + (p.renovaciones || 0); }, 0);
+    var vencidos = ps.filter(function (p) {
+      var n = p.urgencia_vigente && p.urgencia_vigente.vence ? diasHasta(p.urgencia_vigente.vence) : null;
+      return n !== null && n < 0;
+    }).length;
 
     $('#c-total').textContent = ps.length;
     $('#c-di').textContent = di;
     $('#c-renov').textContent = renov;
     $('#c-semana').textContent = semana;
+    $('#c-vencidos').textContent = vencidos;
     if (datos.actualizado) {
       var d = new Date(datos.actualizado);
       $('#fecha-act').textContent = 'Actualizado el ' + fLarga(d) + ' a las ' +
