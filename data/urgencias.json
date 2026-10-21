@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21T05:44-03:00",
+ "actualizado": "2026-10-21T11:41-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -1551,334 +1551,6 @@
    "camara_actual": "Senado"
   },
   {
-   "boletin": "18259-08",
-   "titulo": "Modifica el Código de Minería y las leyes números 21.420 y 21.649, en materia de amparo minero y otras materias que indica",
-   "fecha_ingreso": "2026-05-18",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Discusión inmediata",
-   "etapa": "Tercer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión única",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-05-19",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "102"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-06-02",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "120-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-06-15",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "145-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-06-22",
-     "retiro": "2026-07-07",
-     "camara": "Cámara de Diputados",
-     "oficio": "162-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-07-06",
-     "retiro": "2026-07-21",
-     "camara": "Cámara de Diputados",
-     "oficio": "182-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-07-21",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "212-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-05",
-     "retiro": "2026-08-18",
-     "camara": "Senado",
-     "oficio": "242-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-18",
-     "retiro": "2026-09-01",
-     "camara": "Senado",
-     "oficio": "268-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-01",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "284-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-29",
-     "retiro": "2026-09-30",
-     "camara": "Senado",
-     "oficio": "350-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-09-30",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "359-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "373-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-05-18",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-19",
-     "descripcion": "Texto del mensaje",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-19",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Minería y Energía, y a la Comisión de Hacienda en lo que corresponda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-19",
-     "descripcion": "Cuenta del Mensaje 102 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-02",
-     "descripcion": "Cuenta del Mensaje 120-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-15",
-     "descripcion": "Cuenta del Mensaje 145-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-22",
-     "descripcion": "Cuenta del Mensaje 162-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-06",
-     "descripcion": "Cuenta del Mensaje 182-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (096-374). Incluye informe financiero complementario N° 154/06.07.2026.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-13",
-     "descripcion": "Primer informe de comisión de Minería y Energía. Pasa a Comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-13",
-     "descripcion": "Cuenta de primer informe de comisión .  (Minería). Pasa a Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-20",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-20",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-21",
-     "descripcion": "Cuenta del Mensaje 212-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-22",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-22",
-     "descripcion": ".",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-22",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-04",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Minería y Energía y a Comisión de Hacienda en su caso",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Cuenta del Mensaje 242-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-18",
-     "descripcion": "Cuenta del Mensaje 268-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Cuenta del Mensaje 284-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Primer informe de comisión de Minería y Energía.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 28/09/2026 a las 12:00 horas.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-23",
-     "descripcion": "La Sala acuerda ampliar el plazo para presentar indicaciones a este proyecto de ley hasta las 12.00 horas del día 5 de octubre de 2026, en la Secretaría del Senado",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-29",
-     "descripcion": "Cuenta del Mensaje 350-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-30",
-     "descripcion": "Cuenta del Mensaje 359-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Oficio N° I.F. 238.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 373-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Segundo informe de comisión de Minería y Energía. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Segundo informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Cuenta de segundo informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Discusión particular . Aprobado con modificaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18259-08",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18259-08",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18922&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 11,
-   "urgencia_vigente": {
-    "tipo": "Discusión inmediata",
-    "desde": "2026-10-06",
-    "vence": "2026-10-12"
-   },
-   "dias_tramite": 156,
-   "camara_actual": "Cámara de Diputados"
-  },
-  {
    "boletin": "18623-07",
    "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
    "fecha_ingreso": "2026-09-01",
@@ -2916,7 +2588,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Discusión inmediata",
    "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
-   "subetapa": "Cuenta oficio aprobación de informe de Comisión Mixta",
+   "subetapa": "Oficio de ley al Ejecutivo",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -3896,6 +3568,12 @@
      "descripcion": "Oficio aprobación de informe de Comisión Mixta a C.de Origen .",
      "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -3910,7 +3588,7 @@
     "vence": "2026-10-25"
    },
    "dias_tramite": 891,
-   "camara_actual": "Senado"
+   "camara_actual": "Cámara de Diputados"
   },
   {
    "boletin": "17535-25",
@@ -4837,6 +4515,136 @@
    "camara_actual": "Senado"
   },
   {
+   "boletin": "18643-05",
+   "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+   "fecha_ingreso": "2026-09-09",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Hacienda",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-09",
+     "retiro": null,
+     "camara": "",
+     "oficio": "166-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-09",
+     "retiro": "2026-09-21",
+     "camara": "Cámara de Diputados",
+     "oficio": "318-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-21",
+     "retiro": "2026-10-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "326-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-05",
+     "retiro": "2026-10-19",
+     "camara": "Cámara de Diputados",
+     "oficio": "369-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-19",
+     "retiro": "2026-10-21",
+     "camara": "Cámara de Diputados",
+     "oficio": "385-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-21",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "397-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Ingreso de proyecto .  Incluye IF N° 225/09.09.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Texto del Mensaje",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Cuenta, Informe de impacto regulatorio relativo al proyecto.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Cuenta del Mensaje 318-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Cuenta del Mensaje 326-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 369-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Indicación del Ejecutivo, N° 193-374",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 385-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta del Mensaje 397-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18643-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18643-05",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19325&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 5,
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-10-21",
+    "vence": "2026-10-27"
+   },
+   "dias_tramite": 42,
+   "camara_actual": "Cámara de Diputados"
+  },
+  {
    "boletin": "18208-25",
    "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
    "fecha_ingreso": "2026-04-20",
@@ -5717,123 +5525,6 @@
     "vence": "2026-11-03"
    },
    "dias_tramite": 92,
-   "camara_actual": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18643-05",
-   "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
-   "fecha_ingreso": "2026-09-09",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Suma",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Hacienda",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-09",
-     "retiro": null,
-     "camara": "",
-     "oficio": "166-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-09",
-     "retiro": "2026-09-21",
-     "camara": "Cámara de Diputados",
-     "oficio": "318-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-21",
-     "retiro": "2026-10-05",
-     "camara": "Cámara de Diputados",
-     "oficio": "326-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-05",
-     "retiro": "2026-10-19",
-     "camara": "Cámara de Diputados",
-     "oficio": "369-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-19",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "385-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Ingreso de proyecto .  Incluye IF N° 225/09.09.2026.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Texto del Mensaje",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Cuenta, Informe de impacto regulatorio relativo al proyecto.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Cuenta del Mensaje 318-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-09-21",
-     "descripcion": "Cuenta del Mensaje 326-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Cuenta del Mensaje 369-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Indicación del Ejecutivo, N° 193-374",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta del Mensaje 385-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18643-05",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18643-05",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19325&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 4,
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-10-19",
-    "vence": "2026-11-03"
-   },
-   "dias_tramite": 42,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -10936,6 +10627,347 @@
    },
    "dias_tramite": 65,
    "camara_actual": "Senado"
+  },
+  {
+   "boletin": "18259-08",
+   "titulo": "Modifica el Código de Minería y las leyes números 21.420 y 21.649, en materia de amparo minero y otras materias que indica",
+   "fecha_ingreso": "2026-05-18",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Tercer trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión única",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-19",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "102"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "120-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-15",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "145-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-22",
+     "retiro": "2026-07-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "162-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-06",
+     "retiro": "2026-07-21",
+     "camara": "Cámara de Diputados",
+     "oficio": "182-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-07-21",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "212-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-05",
+     "retiro": "2026-08-18",
+     "camara": "Senado",
+     "oficio": "242-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-18",
+     "retiro": "2026-09-01",
+     "camara": "Senado",
+     "oficio": "268-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-01",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "284-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-29",
+     "retiro": "2026-09-30",
+     "camara": "Senado",
+     "oficio": "350-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-09-30",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "359-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-06",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "373-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-21",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "399-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-05-18",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-19",
+     "descripcion": "Texto del mensaje",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-19",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Minería y Energía, y a la Comisión de Hacienda en lo que corresponda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-19",
+     "descripcion": "Cuenta del Mensaje 102 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-02",
+     "descripcion": "Cuenta del Mensaje 120-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-15",
+     "descripcion": "Cuenta del Mensaje 145-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Cuenta del Mensaje 162-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "Cuenta del Mensaje 182-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-07",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (096-374). Incluye informe financiero complementario N° 154/06.07.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-13",
+     "descripcion": "Primer informe de comisión de Minería y Energía. Pasa a Comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-13",
+     "descripcion": "Cuenta de primer informe de comisión .  (Minería). Pasa a Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-20",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-20",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-21",
+     "descripcion": "Cuenta del Mensaje 212-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-22",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-22",
+     "descripcion": ".",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-22",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Minería y Energía y a Comisión de Hacienda en su caso",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Cuenta del Mensaje 242-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-18",
+     "descripcion": "Cuenta del Mensaje 268-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta del Mensaje 284-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Primer informe de comisión de Minería y Energía.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 28/09/2026 a las 12:00 horas.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-23",
+     "descripcion": "La Sala acuerda ampliar el plazo para presentar indicaciones a este proyecto de ley hasta las 12.00 horas del día 5 de octubre de 2026, en la Secretaría del Senado",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-29",
+     "descripcion": "Cuenta del Mensaje 350-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Cuenta del Mensaje 359-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Oficio N° I.F. 238.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 373-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Segundo informe de comisión de Minería y Energía. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Segundo informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Discusión particular . Aprobado con modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta del Mensaje 399-374 que hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18259-08",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18259-08",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18922&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 12,
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-21",
+    "vence": "2026-11-05"
+   },
+   "dias_tramite": 156,
+   "camara_actual": "Cámara de Diputados"
   }
  ],
  "errores_de_consulta": 0
