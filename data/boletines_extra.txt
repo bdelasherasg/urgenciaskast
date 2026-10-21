@@ -1,0 +1,3 @@
+# Boletines que el sitio debe revisar aunque no aparezcan en las búsquedas automáticas.
+# Uno por línea, con su sufijo. Ejemplo:
+# 18623-07

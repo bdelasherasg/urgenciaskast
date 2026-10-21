@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="es" data-base="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Urgencias Kast · Qué proyectos apura el gobierno y qué pasa con ellos</title>
+<meta name="description" content="Seguimiento diario de las urgencias que el gobierno de José Antonio Kast pone a sus proyectos de ley: plazos, renovaciones, tramitación y lectura política.">
+<meta property="og:title" content="Urgencias Kast">
+<meta property="og:description" content="Qué proyectos apura el gobierno, cuántas veces renueva sus urgencias y qué pasa con ellos en el Congreso.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/estilo.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%2315202B'/%3E%3Ctext x='16' y='23' font-family='Georgia' font-size='20' text-anchor='middle' fill='%23F2C48D'%3EU%3C/text%3E%3C/svg%3E">
+<script src="assets/config.js"></script>
+<script src="assets/app.js" defer></script>
+</head>
+<body data-pagina="portada">
+
+<header class="cabecera">
+  <div class="contenedor">
+    <a class="marca" href="index.html">
+      <span class="marca-nombre">Urgencias <span>Kast</span></span>
+      <span class="marca-autor">por Ruta Crece: Laboratorio de Relato y Producción Narrativa</span>
+    </a>
+    <nav class="menu" aria-label="Principal">
+      <a href="index.html" aria-current="page">Urgencias</a>
+      <a href="analisis.html">Análisis</a>
+      <a href="metodo.html">Método</a>
+      <a href="metodo.html#aportar" class="boton boton-acento">Aportar</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="portada">
+    <div class="contenedor">
+      <p class="fecha" id="fecha-act">Cargando datos…</p>
+      <h1 class="titular">Qué proyectos apura el gobierno, cuántas veces renueva el apuro y qué pasa con ellos.</h1>
+      <p class="bajada">Cada urgencia del Ejecutivo fija un plazo al Congreso. Aquí seguimos todas las de discusión inmediata y suma desde el 11 de marzo de 2026: cuándo vencen, cuántas veces se renovaron y en qué etapa está cada proyecto, con la lectura política de Ruta Crece.</p>
+    </div>
+  </section>
+
+  <section aria-label="Cifras clave">
+    <div class="contenedor">
+      <div class="cifras">
+        <div class="cifra"><span class="cifra-num" id="c-total">–</span><span class="cifra-txt">proyectos con urgencia vigente</span></div>
+        <div class="cifra"><span class="cifra-num" id="c-di">–</span><span class="cifra-txt">con discusión inmediata</span></div>
+        <div class="cifra"><span class="cifra-num" id="c-renov">–</span><span class="cifra-txt">renovaciones acumuladas</span></div>
+        <div class="cifra"><span class="cifra-num alerta" id="c-semana">–</span><span class="cifra-txt">plazos vencen en 7 días</span></div>
+      </div>
+      <div class="reloj" id="reloj">
+        <div>
+          <div class="reloj-etiqueta">Próximo plazo que vence</div>
+          <div class="reloj-proyecto" id="reloj-proyecto">…</div>
+        </div>
+        <div class="reloj-cuenta" role="timer" aria-live="off">
+          <div><strong id="r-d">0</strong><span>días</span></div>
+          <div><strong id="r-h">00</strong><span>horas</span></div>
+          <div><strong id="r-m">00</strong><span>min</span></div>
+          <div><strong id="r-s">00</strong><span>seg</span></div>
+        </div>
+      </div>
+      <p class="nota" id="mas-renovada" style="margin-top:14px"></p>
+    </div>
+  </section>
+
+  <section class="seccion" id="proyectos">
+    <div class="contenedor">
+      <div class="seccion-cabeza">
+        <h2>Todos los proyectos con urgencia</h2>
+        <a class="nota" href="data/urgencias.json" download>Descargar datos (JSON)</a>
+      </div>
+      <form class="filtros" aria-label="Filtros" onsubmit="return false">
+        <label>Buscar
+          <input id="f-texto" type="search" placeholder="Proyecto o boletín">
+        </label>
+        <label>Urgencia
+          <select id="f-nivel"><option value="">Todas</option><option>Discusión inmediata</option><option>Suma</option></select>
+        </label>
+        <label>Cámara donde está
+          <select id="f-camara"><option value="">Ambas</option><option>Cámara de Diputados</option><option>Senado</option></select>
+        </label>
+        <label>Ordenar por
+          <select id="f-orden"><option value="vence">Plazo más próximo</option><option value="renov">Más renovadas</option><option value="dias">Más días en trámite</option></select>
+        </label>
+      </form>
+      <div class="tabla-caja">
+        <table class="tabla-proyectos">
+          <thead>
+            <tr>
+              <th scope="col">Boletín</th>
+              <th scope="col">Proyecto</th>
+              <th scope="col">Urgencia y plazo</th>
+              <th scope="col">Etapa</th>
+              <th scope="col" class="num">Renovaciones</th>
+              <th scope="col" class="num">Días en trámite</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-cuerpo"><tr><td colspan="6" class="vacio">Cargando…</td></tr></tbody>
+        </table>
+      </div>
+      <p class="nota" style="margin-top:12px">Fuentes: servicios de datos abiertos del Senado y de la Cámara de Diputadas y Diputados. Plazos calculados según la Ley Orgánica Constitucional del Congreso Nacional. <a href="metodo.html">Ver método</a>.</p>
+    </div>
+  </section>
+
+  <section class="seccion" aria-labelledby="h-sigue">
+    <div class="contenedor">
+      <div class="seccion-cabeza">
+        <h2 id="h-sigue">Lo que viene en Urgencias Kast</h2>
+        <span class="nota">Cada etapa se activa con los aportes de quienes usan el sitio</span>
+      </div>
+      <div class="expansion">
+        <div><span class="estado-hoy">Hoy</span><strong>Urgencias de discusión inmediata y suma</strong><span>Plazos, renovaciones, historial y etapa de cada proyecto, actualizados varias veces al día.</span></div>
+        <div><span class="estado-prox">Próximo</span><strong>Urgencias simples</strong><span>El resto de la agenda del Ejecutivo, con el mismo seguimiento de plazos y renovaciones.</span></div>
+        <div><span class="estado-prox">Próximo</span><strong>Indicaciones del Ejecutivo</strong><span>Qué cambia el gobierno a sus propios proyectos durante la tramitación, con comparado de versiones.</span></div>
+        <div><span class="estado-prox">Próximo</span><strong>Avisos por correo</strong><span>Un aviso cuando vence una urgencia, se renueva o un proyecto cambia de etapa.</span></div>
+      </div>
+      <p style="margin-top:20px"><a class="boton boton-alerta" href="metodo.html#aportar">Aportar para sumar la próxima etapa</a></p>
+    </div>
+  </section>
+
+  <section class="seccion" aria-labelledby="h-analisis">
+    <div class="contenedor">
+      <div class="destacado">
+        <div>
+          <span class="serie">Análisis · Prueba pública N° 1</span>
+          <h3 id="h-analisis"><a href="analisis/falsabilidad-kast.html">Falsabilidad y discurso político: una prueba pública a los primeros siete meses del gobierno de Kast</a></h3>
+          <span class="nota">Bernardo de Las Heras · 20 de octubre de 2026</span>
+        </div>
+        <div>
+          <p>Una afirmación política tiene valor de conocimiento cuando indica qué hechos la dejarían en evidencia. El artículo aplica el criterio de falsabilidad de Karl Popper a las principales afirmaciones del gobierno entre marzo y octubre de 2026.</p>
+          <a href="analisis/falsabilidad-kast.html">Leer el análisis completo</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="pie">
+  <div class="contenedor">
+    <div><span class="pie-marca">Urgencias Kast</span><p style="margin:8px 0 0">Producción pública de Ruta Crece: Laboratorio de Relato y Producción Narrativa. Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" rel="license">CC BY-SA 4.0</a>.</p></div>
+    <div><strong>Fuentes</strong>Senado y Cámara de Diputadas y Diputados (datos abiertos), Biblioteca del Congreso Nacional. Cada dato enlaza a su fuente oficial.</div>
+    <nav aria-label="Pie de página"><strong>Transparencia</strong><a href="metodo.html">Método</a><br><a href="metodo.html#aportar">Cómo se financia</a><br><a href="metodo.html#contacto">Contacto y errores</a></nav>
+  </div>
+</footer>
+</body>
+</html>

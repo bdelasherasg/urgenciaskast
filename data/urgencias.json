@@ -1,0 +1,379 @@
+{
+ "actualizado": "2026-10-20T22:31-03:00",
+ "muestra": true,
+ "inicio_gobierno": "2026-03-11",
+ "niveles": [
+  "Discusión inmediata",
+  "Suma"
+ ],
+ "fuentes": [],
+ "proyectos": [
+  {
+   "boletin": "00000-03",
+   "titulo": "Agiliza los permisos sectoriales para proyectos de inversión (ejemplo)",
+   "fecha_ingreso": "2026-04-14",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Primer informe de comisión",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-23",
+     "retiro": "2026-06-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "1"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-07",
+     "retiro": "2026-06-22",
+     "camara": "Cámara de Diputados",
+     "oficio": "2"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-22",
+     "retiro": "2026-07-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "3"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-07",
+     "retiro": "2026-07-22",
+     "camara": "Cámara de Diputados",
+     "oficio": "4"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-22",
+     "retiro": "2026-08-06",
+     "camara": "Cámara de Diputados",
+     "oficio": "5"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-06",
+     "retiro": "2026-08-21",
+     "camara": "Cámara de Diputados",
+     "oficio": "6"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-21",
+     "retiro": "2026-09-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "7"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-05",
+     "retiro": "2026-09-20",
+     "camara": "Cámara de Diputados",
+     "oficio": "8"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-20",
+     "retiro": "2026-10-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "9"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-07",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "10"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-04-14",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-13",
+     "descripcion": "Cuenta de proyecto. Pasa a Comisión de Economía",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Hace presente urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=00000-03",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=00000-03",
+    "mensaje": ""
+   },
+   "renovaciones": 9,
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-07",
+    "vence": "2026-10-22"
+   },
+   "dias_tramite": 189,
+   "camara_actual": "Cámara de Diputados"
+  },
+  {
+   "boletin": "00000-05",
+   "titulo": "Modernización del sistema de compras públicas (ejemplo)",
+   "fecha_ingreso": "2026-03-14",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Segundo trámite constitucional",
+   "subetapa": "Discusión en sala",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-12",
+     "retiro": "2026-09-10",
+     "camara": "Senado",
+     "oficio": "1"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-16",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "2"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-03-14",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-21",
+     "descripcion": "Oficio a Cámara revisora",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-16",
+     "descripcion": "Hace presente urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=00000-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=00000-05",
+    "mensaje": ""
+   },
+   "renovaciones": 1,
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-10-16",
+    "vence": "2026-10-22"
+   },
+   "dias_tramite": 220,
+   "camara_actual": "Cámara de Diputados"
+  },
+  {
+   "boletin": "00000-11",
+   "titulo": "Reforma al sistema de licencias médicas (ejemplo)",
+   "fecha_ingreso": "2026-06-22",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Discusión en sala",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-07-02",
+     "retiro": "2026-09-30",
+     "camara": "Cámara de Diputados",
+     "oficio": "1"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-18",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "2"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-18",
+     "descripcion": "Hace presente urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=00000-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=00000-11",
+    "mensaje": ""
+   },
+   "renovaciones": 1,
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-10-18",
+    "vence": "2026-10-24"
+   },
+   "dias_tramite": 120,
+   "camara_actual": "Cámara de Diputados"
+  },
+  {
+   "boletin": "00000-25",
+   "titulo": "Fortalecimiento de las policías municipales (ejemplo)",
+   "fecha_ingreso": "2026-08-01",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Primer informe de comisión",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-11",
+     "retiro": "2026-08-26",
+     "camara": "Cámara de Diputados",
+     "oficio": "1"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-26",
+     "retiro": "2026-09-10",
+     "camara": "Cámara de Diputados",
+     "oficio": "2"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-10",
+     "retiro": "2026-09-25",
+     "camara": "Cámara de Diputados",
+     "oficio": "3"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-25",
+     "retiro": "2026-10-10",
+     "camara": "Cámara de Diputados",
+     "oficio": "4"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-10",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "5"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-08-01",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-10",
+     "descripcion": "Hace presente urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=00000-25",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=00000-25",
+    "mensaje": ""
+   },
+   "renovaciones": 4,
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-10",
+    "vence": "2026-10-25"
+   },
+   "dias_tramite": 80,
+   "camara_actual": "Cámara de Diputados"
+  },
+  {
+   "boletin": "00000-13",
+   "titulo": "Flexibilidad de jornada en pequeñas y medianas empresas (ejemplo)",
+   "fecha_ingreso": "2026-09-05",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Suma",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Primer informe de comisión",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-20",
+     "retiro": "2026-10-05",
+     "camara": "Senado",
+     "oficio": "1"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-05",
+     "retiro": "2026-10-19",
+     "camara": "Senado",
+     "oficio": "2"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-19",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "3"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-09-05",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Hace presente urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=00000-13",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=00000-13",
+    "mensaje": ""
+   },
+   "renovaciones": 2,
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-19",
+    "vence": "2026-11-03"
+   },
+   "dias_tramite": 45,
+   "camara_actual": "Senado"
+  }
+ ],
+ "errores_de_consulta": 0
+}
