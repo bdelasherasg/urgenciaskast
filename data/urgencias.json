@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T08:51-03:00",
+ "actualizado": "2026-10-23T14:18-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -1496,12 +1496,6 @@
     {
      "fecha": "2026-10-07",
      "descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta .",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Minuta Presidente de la Comisión Mixta",
      "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
      "camara": "Senado"
     },
