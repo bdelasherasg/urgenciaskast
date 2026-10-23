@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T14:18-03:00",
+ "actualizado": "2026-10-23T18:35-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -3619,7 +3619,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Discusión inmediata",
    "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Boletín de indicaciones de Gobierno, Descentralización y Regionalización",
+   "subetapa": "Segundo informe de comisión de Gobierno, Descentralización y Regionalización",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -3872,6 +3872,12 @@
     {
      "fecha": "2026-10-21",
      "descripcion": "Cuenta del Mensaje 402-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-23",
+     "descripcion": "Boletín de indicaciones .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }
@@ -9141,7 +9147,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Suma",
    "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de la Familia",
+   "subetapa": "Cuenta de primer informe de comisión",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -9309,6 +9315,12 @@
     {
      "fecha": "2026-10-20",
      "descripcion": "Cuenta del Mensaje 391-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-23",
+     "descripcion": "Primer informe de comisión de la Familia.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
