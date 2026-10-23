@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T02:01-03:00",
+ "actualizado": "2026-10-23T08:51-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -10470,5 +10470,5 @@
    "camara_actual": "Cámara de Diputados"
   }
  ],
- "errores_de_consulta": 1
+ "errores_de_consulta": 0
 }
