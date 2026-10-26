@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26T01:57-03:00",
+ "actualizado": "2026-10-26T10:11-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -1744,7 +1744,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Suma",
    "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Vivienda y Desarrollo Urbano",
+   "subetapa": "Cuenta de primer informe de comisión",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -1820,6 +1820,12 @@
     {
      "fecha": "2026-10-20",
      "descripcion": "Indicación del Ejecutivo (198-374)",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-23",
+     "descripcion": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
