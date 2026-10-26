@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25T20:28-03:00",
+ "actualizado": "2026-10-26T01:57-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -219,7 +219,7 @@
     "desde": "2026-09-21",
     "vence": "2026-09-27"
    },
-   "dias_tramite": 139,
+   "dias_tramite": 140,
    "camara_actual": "Senado"
   },
   {
@@ -431,7 +431,7 @@
     "desde": "2026-09-21",
     "vence": "2026-10-06"
    },
-   "dias_tramite": 139,
+   "dias_tramite": 140,
    "camara_actual": "Senado"
   },
   {
@@ -1541,7 +1541,7 @@
     "desde": "2026-10-05",
     "vence": "2026-10-11"
    },
-   "dias_tramite": 1294,
+   "dias_tramite": 1295,
    "camara_actual": "Senado"
   },
   {
@@ -1733,7 +1733,7 @@
     "desde": "2026-10-07",
     "vence": "2026-10-22"
    },
-   "dias_tramite": 109,
+   "dias_tramite": 110,
    "camara_actual": "Senado"
   },
   {
@@ -1835,7 +1835,7 @@
     "desde": "2026-10-07",
     "vence": "2026-10-22"
    },
-   "dias_tramite": 34,
+   "dias_tramite": 35,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -2490,7 +2490,7 @@
     "desde": "2026-10-19",
     "vence": "2026-10-25"
    },
-   "dias_tramite": 1755,
+   "dias_tramite": 1756,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -3500,7 +3500,7 @@
     "desde": "2026-10-19",
     "vence": "2026-10-25"
    },
-   "dias_tramite": 895,
+   "dias_tramite": 896,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -3608,7 +3608,7 @@
     "desde": "2026-10-19",
     "vence": "2026-10-25"
    },
-   "dias_tramite": 20,
+   "dias_tramite": 21,
    "camara_actual": "Senado"
   },
   {
@@ -3893,7 +3893,7 @@
     "desde": "2026-10-21",
     "vence": "2026-10-27"
    },
-   "dias_tramite": 82,
+   "dias_tramite": 83,
    "camara_actual": "Senado"
   },
   {
@@ -4005,7 +4005,7 @@
     "desde": "2026-10-21",
     "vence": "2026-10-27"
    },
-   "dias_tramite": 54,
+   "dias_tramite": 55,
    "camara_actual": "Senado"
   },
   {
@@ -4141,7 +4141,7 @@
     "desde": "2026-10-21",
     "vence": "2026-10-27"
    },
-   "dias_tramite": 46,
+   "dias_tramite": 47,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -4442,7 +4442,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 188,
+   "dias_tramite": 189,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -4616,7 +4616,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 145,
+   "dias_tramite": 146,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -4856,7 +4856,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 135,
+   "dias_tramite": 136,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5024,7 +5024,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 96,
+   "dias_tramite": 97,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5083,7 +5083,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 6,
+   "dias_tramite": 7,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5979,7 +5979,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 2687,
+   "dias_tramite": 2688,
    "camara_actual": "Senado"
   },
   {
@@ -6634,7 +6634,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 1958,
+   "dias_tramite": 1959,
    "camara_actual": "Senado"
   },
   {
@@ -7822,7 +7822,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 1180,
+   "dias_tramite": 1181,
    "camara_actual": "Senado"
   },
   {
@@ -8118,7 +8118,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 510,
+   "dias_tramite": 511,
    "camara_actual": "Senado"
   },
   {
@@ -8304,7 +8304,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 305,
+   "dias_tramite": 306,
    "camara_actual": "Senado"
   },
   {
@@ -8623,7 +8623,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 201,
+   "dias_tramite": 202,
    "camara_actual": "Senado"
   },
   {
@@ -8879,7 +8879,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 160,
+   "dias_tramite": 161,
    "camara_actual": "Senado"
   },
   {
@@ -9136,7 +9136,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 160,
+   "dias_tramite": 161,
    "camara_actual": "Senado"
   },
   {
@@ -9336,7 +9336,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 128,
+   "dias_tramite": 129,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -9580,7 +9580,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 124,
+   "dias_tramite": 125,
    "camara_actual": "Senado"
   },
   {
@@ -9796,7 +9796,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 102,
+   "dias_tramite": 103,
    "camara_actual": "Senado"
   },
   {
@@ -9971,7 +9971,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 81,
+   "dias_tramite": 82,
    "camara_actual": "Senado"
   },
   {
@@ -10131,7 +10131,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 69,
+   "dias_tramite": 70,
    "camara_actual": "Senado"
   },
   {
@@ -10472,7 +10472,7 @@
     "desde": "2026-10-21",
     "vence": "2026-11-05"
    },
-   "dias_tramite": 160,
+   "dias_tramite": 161,
    "camara_actual": "Cámara de Diputados"
   }
  ],
