@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27T06:11-03:00",
+ "actualizado": "2026-10-27T12:33-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -2757,114 +2757,6 @@
    },
    "dias_tramite": 897,
    "camara_actual": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18709-07",
-   "titulo": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
-   "fecha_ingreso": "2026-10-05",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Discusión inmediata",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-05",
-     "retiro": "2026-10-19",
-     "camara": "Cámara de Diputados",
-     "oficio": "364-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-19",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "384-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Texto del Mensaje.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Cuenta del Mensaje 364-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Primer informe de comisión de Defensa Nacional.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta del Mensaje 383-374 que retira la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta del Mensaje 384-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18709-07",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18709-07",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19390&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 1,
-   "urgencia_vigente": {
-    "tipo": "Discusión inmediata",
-    "desde": "2026-10-19",
-    "vence": "2026-10-25"
-   },
-   "dias_tramite": 22,
-   "camara_actual": "Senado"
   },
   {
    "boletin": "18525-06",
@@ -9747,181 +9639,6 @@
    "camara_actual": "Senado"
   },
   {
-   "boletin": "18551-04",
-   "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
-   "fecha_ingreso": "2026-08-05",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Suma",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Discusión general",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-05",
-     "retiro": "2026-08-18",
-     "camara": "",
-     "oficio": "127-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-05",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "238-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-18",
-     "retiro": "2026-09-01",
-     "camara": "Senado",
-     "oficio": "268-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-09-01",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "286-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-09-08",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "310-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-09-22",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "332-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-09-29",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "349-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-06",
-     "retiro": "2026-10-20",
-     "camara": "Senado",
-     "oficio": "375-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-20",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "394-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Oficio N° I.F. 188. Informe Financiero",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Educación y a Comisión de Hacienda en su caso",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Cuenta del Mensaje 238-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-18",
-     "descripcion": "Cuenta del Mensaje 268-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Cuenta del Mensaje 286-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 310-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-16",
-     "descripcion": "Primer informe de comisión de Educación. Pasa a Comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-22",
-     "descripcion": "Cuenta del Mensaje 332-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-29",
-     "descripcion": "Cuenta del Mensaje 349-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-01",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 375-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18551-04",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18551-04",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19227&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 8,
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-10-20",
-    "vence": "2026-11-04"
-   },
-   "dias_tramite": 83,
-   "camara_actual": "Senado"
-  },
-  {
    "boletin": "18585-25",
    "titulo": "Modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales",
    "fecha_ingreso": "2026-08-17",
@@ -9929,7 +9646,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Suma",
    "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
+   "subetapa": "Cuenta de primer informe de comisión",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -10063,6 +9780,12 @@
     {
      "fecha": "2026-10-20",
      "descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Primer informe de comisión de Seguridad Pública.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }
