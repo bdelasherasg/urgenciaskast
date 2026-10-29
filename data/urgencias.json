@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28T17:30-03:00",
+ "actualizado": "2026-10-28T22:10-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -220,7 +220,7 @@
     "desde": "2026-09-21",
     "vence": "2026-10-06"
    },
-   "dias_tramite": 142,
+   "dias_tramite": 143,
    "camara_actual": "Senado"
   },
   {
@@ -1336,7 +1336,7 @@
     "desde": "2026-10-05",
     "vence": "2026-10-11"
    },
-   "dias_tramite": 1297,
+   "dias_tramite": 1298,
    "camara_actual": "Senado"
   },
   {
@@ -1528,7 +1528,7 @@
     "desde": "2026-10-07",
     "vence": "2026-10-22"
    },
-   "dias_tramite": 112,
+   "dias_tramite": 113,
    "camara_actual": "Senado"
   },
   {
@@ -2544,7 +2544,7 @@
     "desde": "2026-10-19",
     "vence": "2026-10-25"
    },
-   "dias_tramite": 898,
+   "dias_tramite": 899,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -2768,7 +2768,7 @@
     "desde": "2026-10-27",
     "vence": "2026-11-02"
    },
-   "dias_tramite": 142,
+   "dias_tramite": 143,
    "camara_actual": "Senado"
   },
   {
@@ -2778,8 +2778,8 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Cuenta nuevo primer informe",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
+   "subetapa": "Cuenta de proyecto",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -2961,6 +2961,18 @@
      "descripcion": "Cuenta nuevo primer informe .",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -2974,7 +2986,7 @@
     "desde": "2026-10-27",
     "vence": "2026-11-02"
    },
-   "dias_tramite": 84,
+   "dias_tramite": 85,
    "camara_actual": "Senado"
   },
   {
@@ -3014,6 +3026,12 @@
      "descripcion": "Cuenta del Mensaje 415-374 que hace presente la urgencia Discusión inmediata",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "La Sala acuerda refundir los siguientes proyectos de ley: Boletines Nos 18.806-07, 18.779-07, 18.804-07 y 18.805-07",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -3027,7 +3045,7 @@
     "desde": "2026-10-27",
     "vence": "2026-11-02"
    },
-   "dias_tramite": 1,
+   "dias_tramite": 2,
    "camara_actual": "Senado"
   },
   {
@@ -3708,7 +3726,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 1758,
+   "dias_tramite": 1759,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -4970,7 +4988,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 1121,
+   "dias_tramite": 1122,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5271,7 +5289,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 191,
+   "dias_tramite": 192,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5445,7 +5463,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 148,
+   "dias_tramite": 149,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5685,7 +5703,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 138,
+   "dias_tramite": 139,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -5853,7 +5871,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 99,
+   "dias_tramite": 100,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -6181,7 +6199,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 85,
+   "dias_tramite": 86,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -6192,7 +6210,7 @@
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
    "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Discusión general",
+   "subetapa": "Oficio de ley a Cámara Revisora",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -6311,6 +6329,12 @@
      "descripcion": "Cuenta del Mensaje 427-374 que hace presente la urgencia Discusión inmediata",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -6324,7 +6348,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 57,
+   "dias_tramite": 58,
    "camara_actual": "Senado"
   },
   {
@@ -6509,7 +6533,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 49,
+   "dias_tramite": 50,
    "camara_actual": "Senado"
   },
   {
@@ -6643,7 +6667,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 23,
+   "dias_tramite": 24,
    "camara_actual": "Senado"
   },
   {
@@ -6714,7 +6738,7 @@
     "desde": "2026-10-19",
     "vence": "2026-11-03"
    },
-   "dias_tramite": 9,
+   "dias_tramite": 10,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -7610,7 +7634,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 2690,
+   "dias_tramite": 2691,
    "camara_actual": "Senado"
   },
   {
@@ -8265,7 +8289,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 1961,
+   "dias_tramite": 1962,
    "camara_actual": "Senado"
   },
   {
@@ -9453,7 +9477,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 1183,
+   "dias_tramite": 1184,
    "camara_actual": "Senado"
   },
   {
@@ -9749,7 +9773,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 513,
+   "dias_tramite": 514,
    "camara_actual": "Senado"
   },
   {
@@ -9935,7 +9959,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 308,
+   "dias_tramite": 309,
    "camara_actual": "Senado"
   },
   {
@@ -10254,7 +10278,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 204,
+   "dias_tramite": 205,
    "camara_actual": "Senado"
   },
   {
@@ -10510,7 +10534,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 163,
+   "dias_tramite": 164,
    "camara_actual": "Senado"
   },
   {
@@ -10767,7 +10791,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 163,
+   "dias_tramite": 164,
    "camara_actual": "Senado"
   },
   {
@@ -11011,7 +11035,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 127,
+   "dias_tramite": 128,
    "camara_actual": "Senado"
   },
   {
@@ -11227,7 +11251,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 105,
+   "dias_tramite": 106,
    "camara_actual": "Senado"
   },
   {
@@ -11399,7 +11423,7 @@
     "desde": "2026-10-20",
     "vence": "2026-11-04"
    },
-   "dias_tramite": 72,
+   "dias_tramite": 73,
    "camara_actual": "Senado"
   },
   {
@@ -11526,7 +11550,7 @@
     "desde": "2026-10-26",
     "vence": "2026-11-10"
    },
-   "dias_tramite": 37,
+   "dias_tramite": 38,
    "camara_actual": "Cámara de Diputados"
   },
   {
@@ -11705,7 +11729,7 @@
     "desde": "2026-10-27",
     "vence": "2026-11-11"
    },
-   "dias_tramite": 72,
+   "dias_tramite": 73,
    "camara_actual": "Senado"
   },
   {
@@ -11764,7 +11788,7 @@
     "desde": "2026-10-28",
     "vence": "2026-11-12"
    },
-   "dias_tramite": 0,
+   "dias_tramite": 1,
    "camara_actual": "Cámara de Diputados"
   }
  ],
