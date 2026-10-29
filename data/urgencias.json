@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T07:12-03:00",
+ "actualizado": "2026-10-29T15:41-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -6153,13 +6153,13 @@
     },
     {
      "fecha": "2026-10-27",
-     "descripcion": "Discusión particular . Aprobado sin modificaciones Al haber sido retiradas y declaradas inadmisible las indicaciones presentadas al proyecto de ley y en virtud del artículo 120 del Reglamento del Senado, la Sala da por aprobado en particular la presente iniciativa legal",
+     "descripcion": "Discusión particular . Aprobado con modificaciones Al haber sido retiradas y declaradas inadmisible las indicaciones presentadas al proyecto de ley y en virtud del artículo 120 del Reglamento del Senado, la Sala da por aprobado en particular la presente iniciativa legal",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     },
     {
      "fecha": "2026-10-27",
-     "descripcion": "Oficio aprobación sin modificaciones a Cámara de Origen .",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     },
@@ -6171,20 +6171,14 @@
     },
     {
      "fecha": "2026-10-28",
-     "descripcion": "Cuenta oficio aprobación sin modificaciones de C. Revisora .",
-     "etapa": "Trámite finalización en Cámara de Origen",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora .",
+     "etapa": "Tercer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
      "fecha": "2026-10-28",
      "descripcion": "Cuenta del Mensaje 424-374 que hace presente la urgencia Discusión inmediata",
      "etapa": "Trámite finalización en Cámara de Origen",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
    ],
@@ -6209,8 +6203,8 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Oficio de ley a Cámara Revisora",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
+   "subetapa": "Cuenta de proyecto",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -6333,6 +6327,12 @@
     {
      "fecha": "2026-10-28",
      "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-29",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
