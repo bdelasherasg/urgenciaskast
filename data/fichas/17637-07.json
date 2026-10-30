@@ -1,0 +1,183 @@
+{
+  "version": 2,
+  "boletin": "17637-07",
+  "nivel": "completa",
+  "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
+  "materia": "el delito de reclutamiento de menores por bandas criminales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores señalan que las bandas criminales usan a niños, niñas y adolescentes.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Según ellos, esto daña los derechos de la infancia y aumenta la inseguridad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Castiga al adulto que recluta a un menor para una banda criminal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Reclutar es inducir, promover, facilitar o captar a un menor para ese fin.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La pena es de 61 días a tres años y un día de cárcel.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sube hasta cinco años si hay violencia, amenazas o abuso de la debilidad del menor.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega este delito al Código Penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El sí del menor no libra de culpa al adulto.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los adultos que reclutan menores para bandas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se refiere a los menores de edad captados por esas bandas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El gobierno envió un informe financiero junto con su propuesta de cambios, en octubre de 2025.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar ese informe de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Es una moción, es decir, la presentaron diputados, en junio de 2025.",
+        "fuentes": [
+          "f4",
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Cámara lo aprobó el 25 de noviembre de 2025.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Desde ese día está en la comisión de Constitución del Senado.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Tiene suma urgencia, que da 15 días para votarlo, hasta el 4 de noviembre de 2026.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones fechadas de organizaciones de infancia, colegios profesionales, municipios ni centros de estudio sobre este proyecto entre junio de 2025 y octubre de 2026. La Tercera recoge una opinión del Centro UC para la Seguridad Pública, pero sin fecha, por lo que no se registra.",
+  "encuadre": {
+    "intro": "Encontramos poca discusión pública sobre este proyecto. Solo aparece la forma en que lo presentan sus autores.",
+    "marcos": [
+      {
+        "titulo": "Proteger a la infancia del crimen organizado",
+        "quienes": "Autores de la moción",
+        "problema": "Las bandas criminales usan a niños, niñas y adolescentes en sus operaciones.",
+        "problema_fuentes": [
+          "f1"
+        ],
+        "causa": "El avance del crimen organizado, también el que cruza fronteras.",
+        "causa_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "solucion": "Un delito propio para el adulto que recluta, con más pena si usa violencia o amenazas.",
+        "solucion_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "palabras": [
+          "reclutamiento",
+          "derechos de la infancia",
+          "inseguridad pública"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Diario Constitucional, «Sancionar el reclutamiento de menores en bandas criminales»",
+      "url": "https://www.diarioconstitucional.cl/2025/11/13/sancionar-el-reclutamiento-de-menores-en-bandas-criminales/",
+      "fecha": "13 de noviembre de 2025",
+      "nota": "Texto despachado por la Comisión de Constitución de la Cámara y fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "La Tercera, «Proyecto busca penalizar hasta con 5 años de cárcel a quienes recluten menores de edad para bandas criminales»",
+      "url": "https://www.latercera.com/nacional/noticia/proyecto-busca-penalizar-hasta-con-5-anos-de-carcel-a-quienes-recluten-menores-de-edad-para-bandas-criminales/",
+      "fecha": "Sin fecha visible (discusión en comisión de la Cámara, 2025)",
+      "nota": "Contenido y fundamentos de la moción."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, ficha de tramitación del boletín 17637-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17637-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias, según urgencias.json."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara de Diputadas y Diputados, ficha de tramitación del boletín 17637-07",
+      "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17637-07",
+      "fecha": "Consulta automática",
+      "nota": "Trámites del primer trámite, según urgencias.json."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
