@@ -1,0 +1,257 @@
+{
+  "version": 2,
+  "boletin": "18779-07",
+  "nivel": "completa",
+  "sintesis": "Quita una excepción que permite rebajar la condena a ciertos condenados por delitos sexuales contra menores. Está en el Senado, con discusión inmediata, unido a otros tres proyectos.",
+  "materia": "la exclusión de la rebaja de condena por delitos sexuales contra menores",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que la ley prohíbe esta rebaja en ciertos delitos sexuales contra menores, pero dejó una excepción.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción surge tras 56 rebajas dadas entre marzo y septiembre.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La prensa indica que no consta que se deban a esa excepción.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Hoy la rebaja procede si la sentencia usó la eximente incompleta del artículo 73 del Código Penal.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El proyecto mantiene su efecto en la pena, pero impide la rebaja posterior.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Exige que cada decisión explique sus razones y permita revisar el cálculo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia la Ley 19.856, que rebaja la pena por buena conducta.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Regiría para delitos cometidos desde su publicación.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Las exigencias de fundamentación regirían 60 días después.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "No anula en forma automática las rebajas ya dadas.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a personas condenadas por ciertos delitos sexuales contra menores.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar la moción ni un informe sobre su costo.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Lo firman los senadores Núñez, Vodanovic, Gatica, Flores y Mirosevic.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Ingresó al Senado el 23 de octubre y está en la Comisión de Constitución.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 27 de octubre, el gobierno le dio discusión inmediata, con plazo al 2 de noviembre.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 28 de octubre, la Sala lo unió con otros tres proyectos, entre ellos el del gobierno.",
+        "fuentes": [
+          "f4",
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones públicas de organizaciones sobre este proyecto entre el 21 y el 30 de octubre de 2026. Buscamos fundaciones de infancia, organizaciones de víctimas, colegios de abogados y centros de estudio. Las notas revisadas solo citan a parlamentarios y autoridades.",
+  "encuadre": {
+    "intro": "Lectura exploratoria sobre pocas notas de prensa. En ellas aparecen dos maneras de presentar el tema.",
+    "marcos": [
+      {
+        "titulo": "Una excepción que la ley debe cerrar",
+        "quienes": "Autores de la moción",
+        "problema": "La ley prohibió la rebaja en estos delitos, pero dejó una excepción.",
+        "problema_fuentes": [
+          "f1"
+        ],
+        "causa": "La excepción opera cuando la sentencia aplica la eximente incompleta del artículo 73 del Código Penal.",
+        "causa_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "solucion": "Eliminar la excepción y exigir decisiones mejor fundadas.",
+        "solucion_fuentes": [
+          "f1"
+        ],
+        "palabras": [
+          "protección de los niños",
+          "jurídicamente clara",
+          "excepción"
+        ]
+      },
+      {
+        "titulo": "Un problema de interpretación",
+        "quienes": "Gobierno",
+        "problema": "La ley tiene un problema de interpretación que permitió estas rebajas.",
+        "problema_fuentes": [
+          "f5"
+        ],
+        "causa": "Es difícil aplicar la restricción a condenados antes de 2022, y el ministerio debe cumplir las sentencias judiciales.",
+        "causa_fuentes": [
+          "f6",
+          "f7"
+        ],
+        "solucion": "Un proyecto propio, llamado «Nunca más», con una regla para resolver dudas de interpretación.",
+        "solucion_fuentes": [
+          "f5",
+          "f8"
+        ],
+        "palabras": [
+          "interpretación",
+          "irretroactividad",
+          "Nunca más"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "interpretación",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, el problema está en cómo se interpreta la ley.",
+          "fuentes": [
+            "f5"
+          ]
+        },
+        {
+          "texto": "En la comisión se preguntó por qué se eligió una interpretación «pro reo» y no una «pro niño».",
+          "fuentes": [
+            "f3"
+          ]
+        },
+        {
+          "texto": "Cada lado usa la palabra con un sentido distinto.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "G5noticias, «Presidenta del Senado anuncia ofensiva legislativa para cerrar excepción que permite rebajar condenas por delitos sexuales contra menores»",
+      "url": "https://g5noticias.cl/2026/10/21/presidenta-del-senado-anuncia-ofensiva-legislativa-para-cerrar-excepcion-que-permite-rebajar-condenas-por-delitos-sexuales-contra-menores/",
+      "fecha": "21 de octubre de 2026",
+      "nota": "Contenido y fundamentos de la propuesta de la senadora Núñez."
+    },
+    {
+      "id": "f2",
+      "titulo": "Pauta, «Senadora Núñez presenta proyecto para cerrar excepción que permite rebajas de condena por delitos sexuales contra menores»",
+      "url": "https://www.pauta.cl/actualidad/2026/10/22/senadora-nunez-presenta-proyecto-para-cerrar-excepcion-que-permite-rebajas-de-condena-por-delitos-sexuales-contra-menores.html",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Contenido, vigencia y relación con las 56 rebajas."
+    },
+    {
+      "id": "f3",
+      "titulo": "G5noticias, sesión extraordinaria de la Comisión de Constitución del Senado sobre rebaja de condenas",
+      "url": "https://g5noticias.cl/?p=929087",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Autores del boletín 18.779-07, fusión de proyectos y debate en la comisión."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, ficha de tramitación del boletín 18779-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18779-07",
+      "fecha": "Consulta automática",
+      "nota": "Ingreso, comisión, urgencia y fusión, según urgencias.json. La página no se pudo abrir directamente."
+    },
+    {
+      "id": "f5",
+      "titulo": "Emol, «Rabat defiende al gobierno por rebaja de condenas»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/27/1215375/rabat-defiende-gobierno-rebaja-condenas.html",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Postura del ministro de Justicia y proyecto «Nunca más»."
+    },
+    {
+      "id": "f6",
+      "titulo": "Pauta, «Justicia frena rebajas de condenas y prepara cambios legales tras polémica por delitos sexuales contra menores»",
+      "url": "https://www.pauta.cl/actualidad/2026/10/23/justicia-frena-rebajas-de-condenas-y-prepara-cambios-legales-tras-polemica-por-delitos-sexuales-contra-menores.html",
+      "fecha": "23 de octubre de 2026",
+      "nota": "Suspensión de decretos y dificultad para aplicar la restricción a condenados antes de 2022."
+    },
+    {
+      "id": "f7",
+      "titulo": "Emol, nota sobre la evaluación del gobierno de un proyecto sobre condenados por delitos contra menores",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/22/1214887/gobierno-evalua-proyecto-condenados-menores.html",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Argumento del ministro sobre cumplir sentencias y advertencia sobre irretroactividad."
+    },
+    {
+      "id": "f8",
+      "titulo": "T13, «Cuáles son las modificaciones que el gobierno presentó para impedir rebaja de pena»",
+      "url": "https://www.t13.cl/noticia/politica/cuales-son-las-modificaciones-gobierno-presento-para-impedir-rebaja-pena-27-10-2026",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Contenido del proyecto del gobierno (boletín 18.806-07)."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
