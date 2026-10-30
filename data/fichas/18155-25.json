@@ -1,0 +1,292 @@
+{
+  "version": 2,
+  "boletin": "18155-25",
+  "nivel": "completa",
+  "sintesis": "Sube las penas de delitos contra la comunidad educativa y de delitos contra la propiedad en colegios. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
+  "materia": "las agravantes por delitos contra la comunidad educativa",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que la seguridad en los colegios es básica para el derecho a la educación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita más de 56 mil casos policiales en colegios durante 2025.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Sube la pena de delitos contra la comunidad educativa en colegios, cerca de ellos o en el transporte escolar.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Esa comunidad incluye a alumnos, apoderados, docentes, asistentes, directivos y sostenedores.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "También sube la pena de delitos contra la propiedad con violencia o fuerza, daños e incendios en los colegios.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Las amenazas, lesiones y agresiones de apoderados contra el personal tendrán un grado más de pena.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia el artículo 12 del Código Penal, sobre agravantes, que son hechos que suben una pena.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También cambia las reglas sobre amenazas y lesiones.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quien cometa estos delitos en cualquier nivel educativo, también a los apoderados.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "La Dirección de Presupuestos dice que no tendrá efecto en el gasto fiscal.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No revisamos el informe financiero de la indicación de mayo.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 13 de mayo.",
+        "fuentes": [
+          "f4",
+          "f9"
+        ]
+      },
+      {
+        "texto": "En general tuvo 104 votos a favor, 16 en contra y 22 abstenciones.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Desde ese día está en la Comisión de Constitución del Senado.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, con plazo de 15 días, hasta el 4 de noviembre.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Colegio de Profesoras y Profesores de Chile",
+      "tipo": "Gremio docente",
+      "vocero": "Mario Aguilar, presidente",
+      "postura": "Con reparos",
+      "argumento": "Sostiene que los proyectos del gobierno sobre seguridad escolar, entre ellos este, son sanciones que apuntan a los efectos y no a las causas, aunque algunas medidas pueden ser necesarias.",
+      "fecha": "7 de abril de 2026",
+      "fuentes": [
+        "f6"
+      ]
+    },
+    {
+      "organizacion": "Escuelas Abiertas",
+      "tipo": "Organización de la sociedad civil",
+      "vocero": "María Paz Larraín, vocera",
+      "postura": "A favor",
+      "argumento": "Calificó como bienvenidas y necesarias las dos iniciativas del gobierno, entre ellas esta. Advirtió que la solución no es solo legislativa y que hay que involucrar a las familias.",
+      "fecha": "7 de abril de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Instituto Libertad",
+      "tipo": "Centro de estudios",
+      "vocero": "América Castillo, investigadora asociada",
+      "postura": "A favor",
+      "argumento": "Dice que los proyectos van en la línea correcta porque respaldan a docentes y equipos directivos, pero que las sanciones por sí solas no bastan.",
+      "fecha": "7 de abril de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Fundación Jaime Guzmán",
+      "tipo": "Centro de estudios",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "Describe el proyecto como una respuesta penal que refuerza la protección de las comunidades educativas. Sostiene que el plan Escuelas Protegidas es «una herramienta necesaria, aunque insuficiente por sí sola».",
+      "fecha": "20 de mayo de 2026",
+      "fuentes": [
+        "f8"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de asociaciones de asistentes de la educación, de sostenedores ni de municipios sobre este proyecto entre abril y octubre de 2026. Tampoco encontramos declaraciones de organizaciones desde que el proyecto llegó al Senado, en mayo de 2026.",
+  "encuadre": {
+    "intro": "En el debate de la Cámara aparecen dos maneras de presentar el proyecto. No encontramos debate público sobre él en el Senado.",
+    "marcos": [
+      {
+        "titulo": "Proteger a la comunidad educativa",
+        "quienes": "Gobierno y diputados que apoyaron el proyecto",
+        "problema": "Aumentan las agresiones contra docentes y estudiantes, y la escuela debe ser un lugar seguro.",
+        "problema_fuentes": [
+          "f4",
+          "f5"
+        ],
+        "causa": "Para el gobierno, falta un trato penal distinto para los delitos que afectan a la comunidad educativa.",
+        "causa_fuentes": [
+          "f4"
+        ],
+        "solucion": "Agravar las penas y dar una respuesta sistemática del Estado, como señal de respaldo a la comunidad educativa.",
+        "solucion_fuentes": [
+          "f4"
+        ],
+        "palabras": [
+          "lugar seguro",
+          "normalizar la violencia",
+          "trato diferenciado",
+          "señal de respaldo"
+        ]
+      },
+      {
+        "titulo": "Un problema que la pena no resuelve sola",
+        "quienes": "Diputados de oposición y el Colegio de Profesores",
+        "problema": "La violencia escolar es un fenómeno complejo que el derecho penal no resuelve por sí solo.",
+        "problema_fuentes": [
+          "f4",
+          "f10"
+        ],
+        "causa": "Según el Colegio de Profesores, las medidas apuntan a los efectos y no a las causas de la violencia.",
+        "causa_fuentes": [
+          "f6"
+        ],
+        "solucion": "Prevención, políticas de salud mental y herramientas de convivencia escolar.",
+        "solucion_fuentes": [
+          "f4",
+          "f5",
+          "f10"
+        ],
+        "palabras": [
+          "prevención",
+          "salud mental",
+          "convivencia",
+          "sistema penal adulto",
+          "burocracia judicial"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Ingresan proyecto que crea agravantes por delitos en establecimientos educacionales»",
+      "url": "https://actualidadjuridica.doe.cl/ingresan-proyecto-que-crea-agravantes-por-delitos-en-establecimientos-educacionales/",
+      "fecha": "13 de abril de 2026",
+      "nota": "Fundamentos, cifras y contenido del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Dirección de Presupuestos, Informe Financiero N° 79",
+      "url": "https://www.dipres.gob.cl/604/articles-409797_doc_pdf.pdf",
+      "fecha": "7 de abril de 2026",
+      "nota": "Efecto fiscal del proyecto (Mensaje N° 009-374)."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputadas y Diputados, «Constitución aprueba aumentar sanciones por delitos contra integrantes de comunidad educativa»",
+      "url": "https://www.camara.cl/cms/2026/05/07/constitucion-aprueba-aumentar-sanciones-por-delitos-contra-integrantes-de-comunidad-educativa/",
+      "fecha": "7 de mayo de 2026",
+      "nota": "Texto aprobado en comisión, fusión con el boletín 18161-07 y críticas."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara de Diputadas y Diputados, «Cámara aprobó aumentar penas a delitos vinculados a hechos de violencia escolar»",
+      "url": "https://www.camara.cl/cms/2026/05/13/camara-aprobo-aumentar-penas-a-delitos-vinculados-a-hechos-de-violencia-escolar/",
+      "fecha": "13 de mayo de 2026",
+      "nota": "Votación en Sala, contenido aprobado y argumentos del debate."
+    },
+    {
+      "id": "f5",
+      "titulo": "Emol, «Cámara aprueba proyecto que agrava delitos en colegios»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/05/13/1199915/camara-aprueba-agrava-delitos-colegios.html",
+      "fecha": "13 de mayo de 2026",
+      "nota": "Argumentos de oficialismo y oposición en la Sala."
+    },
+    {
+      "id": "f6",
+      "titulo": "BioBioChile, «Colegio de Profesores cuestiona proyectos de Kast sobre seguridad en recintos»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/04/07/colegio-de-profesores-cuestiona-proyectos-de-kast-sobre-seguridad-en-recintos-son-medidas-pobres.shtml",
+      "fecha": "7 de abril de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f7",
+      "titulo": "Emol, nota con opiniones de expertos sobre los proyectos de seguridad en educación",
+      "url": "https://www.emol.com/noticias/Nacional/2026/04/07/1196527/proyecto-seguridad-educacion-kast-expertos.html",
+      "fecha": "7 de abril de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f8",
+      "titulo": "Fundación Jaime Guzmán, Ideas & Propuestas N° 442, «Violencia escolar como espejo social»",
+      "url": "https://www.fjguzman.cl/wp-content/uploads/2026/05/IP-Violencia-escolar-como-espejo-social.pdf",
+      "fecha": "20 de mayo de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f9",
+      "titulo": "Senado, ficha de tramitación del boletín 18155-25",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18155-25",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias, según los datos de urgencias.json; la página no se pudo abrir."
+    },
+    {
+      "id": "f10",
+      "titulo": "Diario Estrategia, «Sala debatió proyecto que agrava sanciones penales en casos de violencia escolar»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5880146/sala-debatio-proyecto-agrava-sanciones-penales-casos-violencia-escolar",
+      "fecha": "13 de mayo de 2026",
+      "nota": "Argumentos del debate en Sala del 12 de mayo."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
