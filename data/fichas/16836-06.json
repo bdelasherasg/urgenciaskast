@@ -1,0 +1,231 @@
+{
+  "version": 2,
+  "boletin": "16836-06",
+  "nivel": "completa",
+  "sintesis": "Cambia la ley de migraciones para hacer cumplir las expulsiones administrativas. Permite entrar a domicilios con permiso judicial y sube a cinco años la prohibición de volver. El Congreso lo despachó en octubre.",
+  "materia": "la reforma de las expulsiones administrativas de extranjeros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "En 2024, el gobierno pidió mejores herramientas para cumplir las expulsiones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El gobierno actual espera avanzar en unas 40 mil órdenes pendientes.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Con permiso de un juez, la PDI podrá entrar a una casa para detener a quien tenga orden de expulsión firme.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Migraciones podrá pedir datos para ubicar a esas personas, salvo de niños, colegios y centros de salud.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Con permiso del juez, podrá expulsar de inmediato a extranjeros sin papeles acusados de delitos con pena de hasta tres años, sin condenas previas.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Sube de tres a cinco años la prohibición mínima de volver a Chile.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Baja de diez a cinco días el plazo para reclamar; el reclamo ya no frena la expulsión.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Suma las graves alteraciones del orden público como causa de expulsión.",
+        "fuentes": [
+          "f3",
+          "f7"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a extranjeros con orden de expulsión o sin papeles al día.",
+        "fuentes": [
+          "f3",
+          "f7"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El 19 de octubre, la Cámara aprobó lo acordado por la comisión mixta de diputados y senadores.",
+        "fuentes": [
+          "f3",
+          "f9"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre, el Senado lo aprobó por 37 votos y una abstención.",
+        "fuentes": [
+          "f4",
+          "f9"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre, el Presidente dijo que no hará observaciones.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Debe pasar por el Tribunal Constitucional, según la prensa.",
+        "fuentes": [
+          "f5",
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto entre julio y octubre de 2026: ni de organizaciones de migrantes o de derechos humanos, ni de colegios profesionales, gremios o municipios. Las declaraciones halladas del Servicio Jesuita a Migrantes se refieren a otras iniciativas.",
+  "encuadre": {
+    "intro": "En las pocas notas revisadas aparecen dos maneras de presentar el proyecto. Es una lectura exploratoria.",
+    "marcos": [
+      {
+        "titulo": "Hacer cumplir las expulsiones",
+        "quienes": "Gobiernos de 2024 y de 2026",
+        "problema": "Muchas órdenes de expulsión no se cumplen; el gobierno habla de unas 40 mil pendientes.",
+        "problema_fuentes": [
+          "f7"
+        ],
+        "causa": "Cuesta ubicar, notificar y detener a las personas con orden de expulsión.",
+        "causa_fuentes": [
+          "f6",
+          "f10"
+        ],
+        "solucion": "Dar más herramientas a la PDI y a Migraciones, con control de un juez.",
+        "solucion_fuentes": [
+          "f1",
+          "f6"
+        ],
+        "palabras": [
+          "herramientas más efectivas",
+          "seguridad jurídica",
+          "efectividad"
+        ]
+      },
+      {
+        "titulo": "Resguardar el debido proceso",
+        "quienes": "Parte de la oposición en la Cámara",
+        "problema": "Plazos más cortos para reclamar afectan el debido proceso y el derecho a defensa.",
+        "problema_fuentes": [
+          "f8"
+        ],
+        "causa": "El proyecto baja de diez a cinco días el plazo para reclamar una expulsión.",
+        "causa_fuentes": [
+          "f8"
+        ],
+        "solucion": "Anunció una reserva de constitucionalidad, que deja constancia de dudas sobre si la norma respeta la Constitución.",
+        "solucion_fuentes": [
+          "f8"
+        ],
+        "palabras": [
+          "debido proceso",
+          "derecho a defensa"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Ministerio del Interior, «Cámara aprueba proyecto que fortalece procedimiento de expulsiones migratorias administrativas»",
+      "url": "https://interior.gob.cl/noticias/2024/12/10/camara-aprueba-proyecto-que-fortalece-procedimiento-de-expulsiones-migratorias-administrativas-ministra-toha-destaca-aumento-en-las-cifras/",
+      "fecha": "10 de diciembre de 2024",
+      "nota": "Fundamentos declarados por el gobierno que presentó el mensaje."
+    },
+    {
+      "id": "f3",
+      "titulo": "Diario Estrategia, «Cámara: Nuevas reglas para expulsiones administrativas a pasos de ser ley»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6058747/camara-nuevas-reglas-expulsiones-administrativas-pasos-ley",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Votación de la Cámara sobre el informe de Comisión Mixta y contenido acordado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Emol, «Senado despacha proyecto para agilizar expulsiones»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/20/1214714/senado-despacha-proyecto-agilizar-expulsiones.html",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Votación del Senado."
+    },
+    {
+      "id": "f5",
+      "titulo": "El Mostrador, «Nuevas reglas para expulsiones administrativas quedan a un paso de convertirse en ley»",
+      "url": "https://www.elmostrador.cl/noticias/pais/2026/10/20/nuevas-reglas-para-expulsiones-administrativas-quedan-a-un-paso-de-convertirse-en-ley/",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Contenido final y paso pendiente por el Tribunal Constitucional."
+    },
+    {
+      "id": "f6",
+      "titulo": "Pauta, «Congreso despacha proyecto que agiliza expulsiones y eleva a cinco años la prohibición de reingreso»",
+      "url": "https://www.pauta.cl/actualidad/2026/10/21/congreso-despacha-proyecto-que-agiliza-expulsiones-y-eleva-a-cinco-anos-la-prohibicion-de-reingreso.html",
+      "fecha": "21 de octubre de 2026",
+      "nota": "Objetivo declarado por el gobierno y pasos pendientes."
+    },
+    {
+      "id": "f7",
+      "titulo": "Emol, nota sobre la ley de expulsiones de migrantes irregulares",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/21/1214762/ley-expulsiones-migrantes-irregulares.html",
+      "fecha": "21 de octubre de 2026",
+      "nota": "Expulsión inmediata en causas penales y órdenes pendientes según el Ejecutivo."
+    },
+    {
+      "id": "f8",
+      "titulo": "El Mostrador, «Cámara envía a comisión mixta proyecto de expulsiones por plazo de reingreso»",
+      "url": "https://www.elmostrador.cl/noticias/pais/2026/07/13/camara-envia-a-comision-mixta-proyecto-de-expulsiones-por-plazo-de-reingreso/",
+      "fecha": "13 de julio de 2026",
+      "nota": "Argumentos de oficialismo y oposición en el tercer trámite."
+    },
+    {
+      "id": "f9",
+      "titulo": "Senado, ficha de tramitación del boletín 16836-06",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16836-06",
+      "fecha": "Consulta automática",
+      "nota": "Etapas, trámites y urgencias (datos de urgencias.json)."
+    },
+    {
+      "id": "f10",
+      "titulo": "Infobae, «Chile agiliza la expulsión de migrantes irregulares: el Congreso aprobó la ley surgida de un proyecto multipartidista»",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/21/chile-agiliza-la-expulsion-de-migrantes-irregulares-el-congreso-aprobo-la-ley-surgida-de-un-proyecto-multipartidista/",
+      "fecha": "21 de octubre de 2026",
+      "nota": "Declaraciones del ministro Segpres."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
