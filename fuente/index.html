@@ -1,0 +1,103 @@
+<!--meta {"titulo": "Urgencias Kast · Lo que el gobierno apura y lo que el Congreso discute", "og_titulo": "Urgencias Kast: lo que el gobierno apura y lo que el Congreso discute, explicado", "descripcion": "Seguimiento diario de las urgencias del Ejecutivo y de la agenda del Congreso para las próximas dos semanas, con resúmenes verificables y lenguaje claro. Una producción de Lo Común.", "pagina": "portada", "nav": ""}-->
+<section class="envoltura heroe" aria-labelledby="h-portada">
+  <p class="actualizado" id="actualizado"><span class="vivo" aria-hidden="true"></span>Datos oficiales actualizados cada tres horas</p>
+  <h1 id="h-portada">Lo que el gobierno apura y lo que el Congreso discute, <em>explicado</em>.</h1>
+  <p class="bajada">Urgencias Kast sigue cada proyecto que el Ejecutivo prioriza y la agenda de ambas cámaras para las próximas dos semanas. Cada proyecto tiene un resumen verificable, las posiciones públicas de las organizaciones y la explicación de sus plazos, en lenguaje claro y con la fuente de cada dato.</p>
+  <nav class="publicos" aria-label="Para quién es Urgencias Kast">
+    <a href="#usos">Equipos parlamentarios y asesores</a><a href="#usos">Partidos y centros de estudio</a><a href="#usos">Empresas y gremios</a><a href="#usos">Sindicatos y organizaciones sociales</a><a href="#usos">Periodistas e investigadores</a>
+  </nav>
+  <div class="heroe-acciones"><a class="boton" href="{{BASE}}agenda.html">Ver la agenda de dos semanas</a><a class="boton boton-vidrio" href="#urgencias">Ver los proyectos con urgencia</a></div>
+  <div class="vidrio por-que">
+    <div><p class="eyebrow">Por qué seguimos las urgencias</p><h2>En Chile, el gobierno conduce la agenda del Congreso con las urgencias.</h2></div>
+    <p>En un régimen presidencial, el Ejecutivo decide qué proyectos se discuten primero poniéndoles una <button type="button" class="termino" data-t="urgencia">urgencia</button>: un plazo que obliga a una cámara a votarlos. Seguir las urgencias es seguir las prioridades del gobierno, y por eso cada una tiene aquí su plazo, sus renovaciones y su historia. Como el trabajo diario no se agota en ellas, sumamos todo lo que el Congreso discutirá en las próximas dos semanas.</p>
+  </div>
+</section>
+
+<section class="envoltura seccion" aria-labelledby="h-cifras">
+  <h2 class="solo-lector" id="h-cifras">Cifras del día</h2>
+  <div class="cifras" id="cifras"><p class="vacio">Cargando…</p></div>
+  <div class="vidrio reloj-caja" id="reloj">
+    <div><p class="eyebrow">Próximo plazo que vence</p><h2 id="reloj-titulo">Cargando…</h2><div class="chips" id="reloj-meta"></div></div>
+    <div class="reloj" role="timer" aria-live="off" aria-label="Tiempo que falta para el vencimiento">
+      <div><strong id="r-d">0</strong><span>días</span></div><div><strong id="r-h">00</strong><span>horas</span></div><div><strong id="r-m">00</strong><span>min</span></div><div><strong id="r-s">00</strong><span>seg</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="envoltura seccion" aria-labelledby="h-agenda">
+  <p class="eyebrow">Agenda</p>
+  <h2 class="titulo-seccion" id="h-agenda">Lo que se discute en los próximos días</h2>
+  <p class="bajada-seccion">Sesiones de comisión citadas por el Senado y la Cámara que tratan proyectos de ley, y plazos de urgencia que vencen sin citación publicada, marcados como probables.</p>
+  <div id="agenda-resumen"><p class="vacio">Cargando…</p></div>
+  <p style="margin-top:22px"><a class="boton boton-vidrio" href="{{BASE}}agenda.html">Ver la agenda completa</a></p>
+</section>
+
+<section class="envoltura seccion" id="urgencias" aria-labelledby="h-urg">
+  <p class="eyebrow">Urgencias</p>
+  <h2 class="titulo-seccion" id="h-urg">Los proyectos que el gobierno apura</h2>
+  <p class="bajada-seccion">Cada proyecto con su urgencia, el plazo y las veces que el gobierno la renovó. Cuando ya tiene ficha verificada, aparece su frase de síntesis. Toque un proyecto para ver su ficha.</p>
+  <form class="vidrio filtros" onsubmit="return false" aria-label="Filtrar proyectos">
+    <label for="f-texto">Buscar<input id="f-texto" type="search" placeholder="Tema, palabra o boletín" autocomplete="off"></label>
+    <label for="f-tipo">Urgencia<select id="f-tipo"><option value="">Todas</option><option>Discusión inmediata</option><option>Suma</option></select></label>
+    <label for="f-camara">Dónde está<select id="f-camara"><option value="">Ambas cámaras</option><option value="Cámara de Diputados">Cámara</option><option value="Senado">Senado</option></select></label>
+    <label for="f-orden">Ordenar<select id="f-orden"><option value="vence">Plazo más próximo</option><option value="renov">Más renovadas</option><option value="dias">Más días en trámite</option></select></label>
+    <label class="check" for="f-todas"><input id="f-todas" type="checkbox"> Incluir plazos vencidos y proyectos que cambiaron de cámara</label>
+  </form>
+  <p class="nota" id="n-urgencias" aria-live="polite"></p>
+  <div class="lista-urgencias" id="lista-urgencias"><p class="vacio">Cargando…</p></div>
+  <p class="nota" style="margin-top:16px">Fuentes: servicio de tramitación del Senado y datos abiertos de la Cámara de Diputadas y Diputados. Plazos según la Ley 18.918. <a href="{{BASE}}como-leer.html">Cómo leer estos datos</a> · <a href="{{BASE}}data/urgencias.json">Descargar los datos</a></p>
+</section>
+
+<section class="envoltura seccion" id="usos" aria-labelledby="h-usos">
+  <p class="eyebrow">Para su trabajo</p>
+  <h2 class="titulo-seccion" id="h-usos">Una herramienta diaria para quien trabaja con el Congreso</h2>
+  <p class="bajada-seccion">Urgencias Kast es gratuito y sus datos son abiertos. Así lo usan las organizaciones que siguen la tramitación de un proyecto.</p>
+  <div class="usos">
+    <div class="vidrio uso"><h3>Equipos parlamentarios y asesores</h3><p>Preparar la semana: qué comisión verá cada proyecto, qué plazo vence y qué dice el proyecto en un minuto, con la fuente de cada dato para citarla en un informe.</p><a href="{{BASE}}agenda.html">Ver la agenda</a></div>
+    <div class="vidrio uso"><h3>Partidos y centros de estudio</h3><p>Seguir las prioridades del gobierno: qué proyectos apura, cuántas veces renovó cada urgencia y qué posiciones públicas tomaron las organizaciones de cada sector.</p><a href="#urgencias">Ver las urgencias</a></div>
+    <div class="vidrio uso"><h3>Empresas y gremios</h3><p>Anticipar cuándo se discute un proyecto que toca a su sector, leer qué cambia en la ley vigente y sumar la posición pública de su organización al registro de la ficha.</p><a href="{{BASE}}asesoria.html#posiciones">Enviar una posición</a></div>
+    <div class="vidrio uso"><h3>Sindicatos y organizaciones sociales</h3><p>Saber dónde y cuándo se discute lo que afecta a sus representados, para pedir audiencia en la comisión a tiempo y llevar la posición de su organización.</p><a href="{{BASE}}agenda.html">Ver qué se discute</a></div>
+    <div class="vidrio uso"><h3>Periodistas e investigadores</h3><p>Descargar el historial de cada urgencia, sus renovaciones y sus plazos, con la fuente oficial de cada dato, actualizado cada tres horas y bajo licencia CC BY-SA 4.0.</p><a href="{{BASE}}como-leer.html">Cómo leer los datos</a></div>
+  </div>
+</section>
+
+<section class="envoltura seccion" aria-labelledby="h-analisis">
+  <p class="eyebrow">Prueba pública</p>
+  <h2 class="titulo-seccion" id="h-analisis">Análisis de fondo, con el hecho que los refutaría</h2>
+  <p class="bajada-seccion">Cada dos semanas, Lo Común toma afirmaciones del debate público, declara qué hecho las refutaría y busca ese hecho.</p>
+  {{DESTACADO}}
+</section>
+
+<section class="envoltura seccion" id="locomun" aria-labelledby="h-locomun">
+  <p class="eyebrow">Monitor económico de Lo Común</p>
+  <h2 class="titulo-seccion" id="h-locomun">Cuánto está en juego, y para quién</h2>
+  <p class="bajada-seccion">Estudios de mercado y de empleo sobre materias que discute el Congreso, elaborados por Lo Común con datos públicos y sin encargo de terceros. Sirven a equipos parlamentarios, gremios, empresas y organizaciones que necesitan dimensionar un proyecto.</p>
+  <div class="estudios"><p class="vacio">Cargando…</p></div>
+  <p class="nota" style="margin-top:16px">Más producción pública en <a href="https://locomun.cl" rel="noopener">locomun.cl</a>.</p>
+</section>
+
+<section class="envoltura seccion">
+  <div class="vidrio banda">
+    <div>
+      <p class="eyebrow">Asesoría de Lo Común · para parlamentarios, bancadas y partidos</p>
+      <h2>Del dato a la posición, y de la posición a la noticia</h2>
+      <p>Urgencias Kast muestra qué dice cada proyecto. La asesoría de Lo Común entrega lo que se necesita para conducir su discusión: las posturas que de verdad existen, el costo político de cada una, el potencial mediático del tema y las palabras para ganar el debate. Lo hacemos con herramientas de las ciencias sociales modernas y posmodernas, y cada recomendación lleva su fundamento.</p>
+    </div>
+    <div class="acciones"><a class="boton" href="{{BASE}}asesoria.html#solicitar">Solicitar una asesoría</a><a class="boton boton-vidrio" href="{{BASE}}asesoria.html">Cómo trabajamos</a></div>
+  </div>
+</section>
+
+<section class="envoltura seccion" style="padding-bottom:64px">
+  <div class="dos-bandas">
+    <div class="vidrio banda">
+      <div><p class="eyebrow">Para organizaciones</p><h2>¿Su organización se pronunció sobre un proyecto?</h2>
+      <p>Gremios, empresas, sindicatos y organizaciones sociales pueden enviarnos el enlace a su declaración pública. La revisamos y la sumamos al registro de posiciones del proyecto, con las mismas reglas para todos.</p></div>
+      <div class="acciones"><a class="boton boton-vidrio" href="{{BASE}}asesoria.html#posiciones">Enviar una posición</a></div>
+    </div>
+    <div class="vidrio banda">
+      <div><p class="eyebrow">Aportes</p><h2>Gratuito, independiente y sostenido por quienes lo usan</h2>
+      <p>Urgencias Kast no recibe financiamiento de actores políticos. Con aportes voluntarios sumaremos las urgencias simples, las indicaciones del Ejecutivo y avisos por correo.</p></div>
+      <div class="acciones"><a class="boton boton-vidrio" href="{{BASE}}aportar.html">Cómo aportar</a></div>
+    </div>
+  </div>
+</section>

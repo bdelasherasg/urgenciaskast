@@ -1,0 +1,15 @@
+{
+  "entregas": [
+    {
+      "serie": "Prueba pública",
+      "numero": 1,
+      "titulo": "Falsabilidad y discurso político: una prueba pública a los primeros siete meses del gobierno de Kast",
+      "autor": "Bernardo de Las Heras",
+      "fecha": "2026-10-20",
+      "fecha_texto": "20 de octubre de 2026",
+      "minutos": 30,
+      "ruta": "analisis/falsabilidad-kast.html",
+      "resumen": "Una afirmación política tiene valor de conocimiento cuando indica qué hechos la dejarían en evidencia. El artículo explica el criterio de falsabilidad de Karl Popper y lo aplica a las principales afirmaciones del gobierno entre marzo y octubre de 2026."
+    }
+  ]
+}

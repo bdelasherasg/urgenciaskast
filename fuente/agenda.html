@@ -1,0 +1,21 @@
+<!--meta {"titulo": "Agenda legislativa de dos semanas · Urgencias Kast", "og_titulo": "Lo que el Congreso discutirá en las próximas dos semanas", "descripcion": "Citaciones de comisiones del Senado y la Cámara, y los plazos de urgencia que vencen, para las próximas dos semanas. Con el resumen verificado de cada proyecto.", "pagina": "agenda", "nav": "agenda"}-->
+<section class="envoltura pagina-cabeza" aria-labelledby="h-agenda">
+  <p class="eyebrow">Agenda legislativa</p>
+  <h1 id="h-agenda">Lo que el Congreso discutirá en dos semanas</h1>
+  <p class="bajada" id="rango"></p>
+  <p class="bajada">Sesiones de comisión citadas por el Senado y la Cámara, y los plazos de urgencia que vencen sin citación publicada, marcados como <button type="button" class="termino" data-t="probable">probables</button>. Toque un proyecto para ver su ficha.</p>
+</section>
+<section class="envoltura seccion" style="padding-top:18px">
+  <form class="vidrio filtros" onsubmit="return false" aria-label="Filtrar la agenda">
+    <label for="a-texto">Buscar<input id="a-texto" type="search" placeholder="Tema, comisión o boletín" autocomplete="off"></label>
+    <label for="a-camara">Cámara<select id="a-camara"><option value="">Ambas</option><option value="Cámara de Diputados">Cámara de Diputadas y Diputados</option><option value="Senado">Senado</option></select></label>
+    <label class="check" for="a-urgencia"><input id="a-urgencia" type="checkbox"> Solo proyectos con urgencia</label>
+  </form>
+  <div class="estado-fuentes" id="estado-fuentes"></div>
+  <div id="agenda"><p class="vacio">Cargando…</p></div>
+  <div class="vidrio" style="padding:22px;margin-top:30px">
+    <p class="eyebrow">Qué incluye esta agenda</p>
+    <p style="margin:0 0 10px">La parte confirmada reúne las <button type="button" class="termino" data-t="citacion">citaciones</button> de comisiones publicadas por cada cámara, con los proyectos que tratarán. La parte probable reúne los proyectos cuya urgencia vence en el periodo y que aún no tienen citación publicada: un vencimiento muestra la prioridad del gobierno, pero el gobierno suele renovar las urgencias en lugar de dejarlas vencer.</p>
+    <p style="margin:0" class="nota">Las citaciones pueden cambiar o quedar sin efecto. La tabla de Sala de ambas cámaras se sumará en una próxima etapa. Ante una duda, revise la citación oficial en el sitio de cada cámara.</p>
+  </div>
+</section>

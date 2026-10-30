@@ -1,14 +1,18 @@
-/* Urgencias Kast · lógica del sitio (JavaScript sin dependencias). */
+/* Urgencias Kast · lógica del sitio (JavaScript sin dependencias).
+   Todo texto que viene de los datos se escapa antes de insertarlo. */
 (function () {
   'use strict';
 
   var CFG = window.UK_CONFIG || {};
+  var GLO = window.UK_GLOSARIO || {};
   var BASE = document.documentElement.getAttribute('data-base') || '';
-  var PLAZOS = { 'Discusión inmediata': 6, 'Suma': 15, 'Simple': 30 };
   var DIA = 24 * 60 * 60 * 1000;
+  var MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+  var MESES_L = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+  var DIAS_L = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'];
 
   /* ---------- utilidades ---------- */
-  function $(sel, ctx) { return (ctx || document).querySelector(sel); }
+  function $(s, c) { return (c || document).querySelector(s); }
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
@@ -16,34 +20,21 @@
   }
   function fecha(iso) {
     if (!iso) return null;
-    var p = iso.split('-');
+    var p = String(iso).slice(0, 10).split('-');
+    if (p.length < 3) return null;
     return new Date(Number(p[0]), Number(p[1]) - 1, Number(p[2]));
   }
-  var MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
-  var MESES_LARGOS = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
-  function fCorta(iso) { var d = fecha(iso); return d ? d.getDate() + ' ' + MESES[d.getMonth()] + ' ' + d.getFullYear() : 'sin fecha'; }
-  function fLarga(d) { return d.getDate() + ' de ' + MESES_LARGOS[d.getMonth()] + ' de ' + d.getFullYear(); }
   function hoy() { var d = new Date(); return new Date(d.getFullYear(), d.getMonth(), d.getDate()); }
-  function diasHasta(iso) { var d = fecha(iso); return d ? Math.round((d - hoy()) / DIA) : null; }
-  function diasDesde(iso) { var d = fecha(iso); return d ? Math.round((hoy() - d) / DIA) : null; }
-  function claseChip(tipo) {
-    if (tipo === 'Discusión inmediata') return 'chip chip-di';
-    if (tipo === 'Suma') return 'chip chip-suma';
-    return 'chip chip-simple';
-  }
-  function textoVence(p) {
-    var v = p.urgencia_vigente && p.urgencia_vigente.vence;
-    if (!v) return { txt: 'sin plazo informado', pronto: false };
-    var n = diasHasta(v);
-    if (n < 0) return { txt: 'plazo vencido el ' + fCorta(v), pronto: true };
-    if (n === 0) return { txt: 'vence hoy', pronto: true };
-    if (n === 1) return { txt: 'vence mañana', pronto: true };
-    return { txt: 'vence en ' + n + ' días (' + fCorta(v) + ')', pronto: n <= 3 };
-  }
-  function barra(n) {
-    var h = '<span class="renov-barra" aria-hidden="true">';
-    for (var i = 0; i < Math.min(n, 20); i++) h += '<i></i>';
-    return h + '</span>';
+  function isoDe(d) { return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); }
+  function dias(iso) { var d = fecha(iso); return d ? Math.round((d - hoy()) / DIA) : null; }
+  function fCorta(iso) { var d = fecha(iso); return d ? d.getDate() + ' ' + MESES[d.getMonth()] + ' ' + d.getFullYear() : 'sin fecha'; }
+  function fLarga(iso) { var d = fecha(iso); return d ? d.getDate() + ' de ' + MESES_L[d.getMonth()] + ' de ' + d.getFullYear() : ''; }
+  function fDia(iso) { var d = fecha(iso); return d ? cap(DIAS_L[d.getDay()]) + ' ' + d.getDate() + ' de ' + MESES_L[d.getMonth()] : ''; }
+  function cap(s) { s = String(s || ''); return s.charAt(0).toUpperCase() + s.slice(1); }
+  function t(clave, texto) {
+    var g = GLO[clave];
+    if (!g) return esc(texto || clave);
+    return '<button type="button" class="termino" data-t="' + esc(clave) + '">' + esc(texto || g[0]) + '</button>';
   }
   function cargar(ruta) {
     return fetch(BASE + ruta, { cache: 'no-cache' }).then(function (r) {
@@ -51,258 +42,605 @@
       return r.json();
     });
   }
-  function enNiveles(p) { return (CFG.niveles || []).indexOf(p.urgencia_actual) !== -1; }
-
-  /* ---------- banner de aporte ---------- */
-  function bannerAporte() {
-    var clave = 'uk-aporte-cerrado';
-    try {
-      var cerrado = localStorage.getItem(clave);
-      if (cerrado && Date.now() - Number(cerrado) < 7 * DIA) return;
-    } catch (e) { /* almacenamiento no disponible */ }
-    var url = CFG.donacionUrl || (BASE + 'metodo.html#aportar');
-    var div = document.createElement('aside');
-    div.className = 'aporte';
-    div.setAttribute('aria-label', 'Aporte');
-    div.innerHTML =
-      '<div class="contenedor">' +
-      '<p><strong>Urgencias Kast es gratuito e independiente.</strong> Hoy seguimos las urgencias de discusión inmediata y suma. ' +
-      'Con tu aporte sumaremos las urgencias simples, las indicaciones del Ejecutivo y avisos por correo.</p>' +
-      '<div class="aporte-acciones"><a class="boton boton-alerta" href="' + esc(url) + '">Aportar</a>' +
-      '<button type="button" class="boton aporte-cerrar">Ahora no</button></div></div>';
-    document.body.appendChild(div);
-    div.querySelector('.aporte-cerrar').addEventListener('click', function () {
-      div.hidden = true;
-      try { localStorage.setItem(clave, String(Date.now())); } catch (e) { /* sin almacenamiento */ }
-    });
+  function cargarOpc(ruta) { return cargar(ruta).catch(function () { return null; }); }
+  function urlFicha(b) { return BASE + 'p/' + encodeURIComponent(b) + '.html'; }
+  function urlAsesoria(ancla) { return BASE + 'asesoria.html' + (ancla ? '#' + ancla : ''); }
+  function claveTipo(tipo) { return tipo === 'Discusión inmediata' ? 'discusion' : (tipo === 'Suma' ? 'suma' : 'simple'); }
+  function chipUrg(tipo, claro, conTermino) {
+    if (!tipo) return '';
+    var c = 'chip ' + (claro ? 'chip-claro ' : '') + (tipo === 'Discusión inmediata' ? 'chip-di' : (tipo === 'Suma' ? 'chip-suma' : 'chip-simple'));
+    return '<span class="' + c + '"><span class="punto"></span>' + (conTermino ? t(claveTipo(tipo), tipo) : esc(tipo)) + '</span>';
   }
+  function estadoUrg(p) {
+    var v = (p && p.urgencia_vigente) || {};
+    var n = dias(v.vence);
+    if (v.estado === 'vigente' && n !== null && n >= 0) {
+      if (n === 0) return { txt: 'Vence hoy', corto: 'Vence hoy', pronto: true };
+      if (n === 1) return { txt: 'Vence mañana', corto: 'Vence mañana', pronto: true };
+      return { txt: 'Vence en ' + n + ' días · ' + fCorta(v.vence), corto: 'Vence en ' + n + ' días', pronto: n <= 3 };
+    }
+    if (v.estado === 'vigente' || v.estado === 'vencida') return { txt: 'Plazo vencido el ' + fCorta(v.vence) + ', sin urgencia nueva registrada', corto: 'Plazo vencido', pronto: true };
+    if (v.estado === 'en_espera') return { txt: 'Pasó a la otra cámara: el plazo corre cuando allí se dé cuenta de una urgencia', corto: 'En espera en la otra cámara' };
+    if (v.estado === 'finalizado') return { txt: 'El Congreso terminó de votarlo', corto: 'Votación terminada' };
+    return { txt: 'Sin plazo informado', corto: 'Sin plazo informado' };
+  }
+  function camaraCorta(c) { return c === 'Cámara de Diputados' ? 'Cámara' : (c || ''); }
+  function tramiteDe(etapa) {
+    var e = (etapa || '').toLowerCase();
+    if (e.indexOf('primer trámite') > -1) return 'Primer trámite';
+    if (e.indexOf('segundo trámite') > -1) return 'Segundo trámite';
+    if (e.indexOf('tercer trámite') > -1) return 'Tercer trámite';
+    if (e.indexOf('mixta') > -1) return 'Comisión mixta';
+    if (e.indexOf('insistencia') > -1) return 'Insistencia';
+    if (e.indexOf('finaliz') > -1) return 'Trámite de finalización';
+    return cap(etapa || '');
+  }
+  function etapaExplicada(p) {
+    var e = (p.etapa || '').toLowerCase();
+    if (e.indexOf('primer trámite') > -1) return t('primer') + ': se discute en la cámara donde ingresó.';
+    if (e.indexOf('segundo trámite') > -1) return t('segundo') + ': lo revisa la otra cámara.';
+    if (e.indexOf('tercer trámite') > -1) return t('tercer') + ': la cámara de origen vota los cambios de la otra.';
+    if (e.indexOf('mixta') > -1) return 'En ' + t('mixta', 'comisión mixta') + ': ambas cámaras buscan un acuerdo.';
+    if (e.indexOf('insistencia') > -1) return t('insistencia') + ': una cámara mantiene su versión con quórum especial.';
+    if (e.indexOf('finaliz') > -1) return t('finalizacion') + ': el Congreso terminó de votarlo.';
+    return esc(p.etapa || '');
+  }
+  function nombreProyecto(b, U, A, IDX) {
+    var i = IDX && IDX[b];
+    var p = buscar(b, U, A);
+    return { sintesis: i ? i.sintesis : '', oficial: p ? p.titulo : '', p: p };
+  }
+  function buscar(b, U, A) {
+    var p = null;
+    if (U) (U.proyectos || []).some(function (x) { if (x.boletin === b) { p = x; return true; } return false; });
+    if (!p && A && A.proyectos && A.proyectos[b]) p = A.proyectos[b];
+    return p;
+  }
+  function plural(n, uno, varios) { return n + ' ' + (n === 1 ? uno : varios); }
+  function recortar(s, n) { s = String(s || ''); return s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : s; }
 
-  function avisoMuestra(datos) {
-    if (!datos.muestra) return;
-    var a = document.createElement('div');
-    a.className = 'aviso-muestra';
-    a.textContent = 'Datos de muestra: el sitio mostrará datos reales tras la primera actualización automática.';
-    document.body.insertBefore(a, document.body.firstChild);
+  /* ---------- explicaciones de términos ---------- */
+  function iniciarGlosario() {
+    var globo = null, origen = null;
+    function cerrar() { if (globo) { globo.remove(); globo = null; } if (origen) origen.setAttribute('aria-expanded', 'false'); origen = null; }
+    function abrir(btn) {
+      var clave = btn.getAttribute('data-t'), d = GLO[clave];
+      if (!d) return;
+      cerrar();
+      globo = document.createElement('div');
+      globo.className = 'globo'; globo.setAttribute('role', 'tooltip');
+      globo.innerHTML = '<b></b><span></span><br><a href="' + BASE + 'glosario.html#' + encodeURIComponent(clave) + '">Ver en el glosario</a>';
+      globo.querySelector('b').textContent = d[0];
+      globo.querySelector('span').textContent = d[1];
+      document.body.appendChild(globo);
+      var r = btn.getBoundingClientRect(), w = globo.offsetWidth;
+      var izq = Math.min(Math.max(16, r.left + window.scrollX), window.scrollX + document.documentElement.clientWidth - w - 16);
+      globo.style.left = izq + 'px';
+      globo.style.top = (r.bottom + window.scrollY + 8) + 'px';
+      origen = btn; btn.setAttribute('aria-expanded', 'true');
+    }
+    document.addEventListener('click', function (e) {
+      var b = e.target.closest ? e.target.closest('.termino') : null;
+      if (b) { e.preventDefault(); e.stopPropagation(); if (origen === b) cerrar(); else abrir(b); return; }
+      if (!e.target.closest || !e.target.closest('.globo')) cerrar();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') cerrar(); });
+    window.addEventListener('resize', cerrar);
   }
 
   /* ---------- portada ---------- */
-  function portada(datos) {
-    var todos = datos.proyectos || [];
-    var ps = todos.filter(enNiveles);
-    var di = ps.filter(function (p) { return p.urgencia_actual === 'Discusión inmediata'; }).length;
-    var semana = ps.filter(function (p) {
-      var n = p.urgencia_vigente && p.urgencia_vigente.vence ? diasHasta(p.urgencia_vigente.vence) : null;
-      return n !== null && n >= 0 && n <= 7;
-    }).length;
-    var renov = ps.reduce(function (a, p) { return a + (p.renovaciones || 0); }, 0);
-    var vencidos = ps.filter(function (p) {
-      var n = p.urgencia_vigente && p.urgencia_vigente.vence ? diasHasta(p.urgencia_vigente.vence) : null;
-      return n !== null && n < 0;
-    }).length;
+  function portada(U, A, IDX) {
+    var ps = U.proyectos || [];
+    var vigentes = ps.filter(function (p) { var n = dias(p.urgencia_vigente && p.urgencia_vigente.vence); return p.urgencia_vigente && p.urgencia_vigente.estado === 'vigente' && n !== null && n >= 0; });
+    var di = vigentes.filter(function (p) { return p.urgencia_vigente.tipo === 'Discusión inmediata'; });
+    var semana = vigentes.filter(function (p) { return dias(p.urgencia_vigente.vence) <= 7; });
+    var limite = isoDe(new Date(hoy().getTime() + 6 * DIA));
+    var citas = A ? (A.sesiones || []).filter(function (s) { return s.estado !== 'sin efecto' && s.boletines && s.boletines.length && s.fecha <= limite; }) : [];
 
-    $('#c-total').textContent = ps.length;
-    $('#c-di').textContent = di;
-    $('#c-renov').textContent = renov;
-    $('#c-semana').textContent = semana;
-    $('#c-vencidos').textContent = vencidos;
-    if (datos.actualizado) {
-      var d = new Date(datos.actualizado);
-      $('#fecha-act').textContent = 'Actualizado el ' + fLarga(d) + ' a las ' +
-        String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0');
+    if (U.actualizado) {
+      var d = new Date(U.actualizado);
+      $('#actualizado').innerHTML = '<span class="vivo" aria-hidden="true"></span>Datos oficiales actualizados el ' + d.getDate() + ' de ' + MESES_L[d.getMonth()] + ' a las ' + String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0');
     }
+    var cifras = [
+      [vigentes.length, 'Proyectos con ' + t('urgencia') + ' vigente', 'Los que el gobierno apura hoy: una cámara debe despacharlos dentro de un plazo.'],
+      [di.length, 'Con ' + t('discusion', 'discusión inmediata'), 'El plazo más corto, seis días. Es la máxima prioridad del gobierno.'],
+      [semana.length, 'Plazos que vencen en 7 días', 'Proyectos que esta semana deberían votarse o recibir una nueva urgencia.'],
+      (A && Object.keys(A.fuentes || {}).some(function (k) { return A.fuentes[k].estado === 'ok'; })) ? [citas.length, 'Sesiones de comisión citadas en 7 días', 'Citaciones publicadas por el Senado y la Cámara que tratan proyectos de ley.']
+        : [ps.filter(function (p) { return p.urgencia_vigente && p.urgencia_vigente.estado === 'en_espera'; }).length, 'Proyectos en espera en la otra cámara', 'Pasaron de cámara y esperan que allí se dé cuenta de una urgencia.']
+    ];
+    $('#cifras').innerHTML = cifras.map(function (c) {
+      return '<div class="cifra vidrio"><strong>' + c[0] + '</strong><span class="que">' + c[1] + '</span><span class="por">' + c[2] + '</span></div>';
+    }).join('');
 
-    // Reloj del próximo vencimiento
-    var futuros = ps.filter(function (p) { return p.urgencia_vigente && p.urgencia_vigente.vence && diasHasta(p.urgencia_vigente.vence) >= 0; })
-      .sort(function (a, b) { return a.urgencia_vigente.vence < b.urgencia_vigente.vence ? -1 : 1; });
-    var reloj = $('#reloj');
-    if (futuros.length && reloj) {
-      var p0 = futuros[0];
-      $('#reloj-proyecto').innerHTML = '<a href="proyecto.html?b=' + encodeURIComponent(p0.boletin) + '">' + esc(p0.titulo) + '</a>';
-      var limite = fecha(p0.urgencia_vigente.vence); limite.setHours(23, 59, 59);
+    // Reloj del próximo plazo
+    var proximo = vigentes.slice().sort(function (a, b) { return a.urgencia_vigente.vence < b.urgencia_vigente.vence ? -1 : 1; })[0];
+    var caja = $('#reloj');
+    if (proximo && caja) {
+      var nom = nombreProyecto(proximo.boletin, U, A, IDX);
+      $('#reloj-titulo').innerHTML = '<a href="' + urlFicha(proximo.boletin) + '">' + esc(recortar(nom.sintesis || nom.oficial, 170)) + '</a>';
+      $('#reloj-meta').innerHTML = chipUrg(proximo.urgencia_vigente.tipo) + ' <span class="chip">Boletín ' + esc(proximo.boletin) + '</span> <span class="chip">' + esc(camaraCorta(proximo.camara_actual)) + '</span>';
+      var fin = fecha(proximo.urgencia_vigente.vence); fin.setHours(23, 59, 59);
       var tic = function () {
-        var ms = Math.max(0, limite - new Date());
-        var d = Math.floor(ms / DIA), h = Math.floor(ms % DIA / 3600000), m = Math.floor(ms % 3600000 / 60000), s = Math.floor(ms % 60000 / 1000);
-        $('#r-d').textContent = d; $('#r-h').textContent = String(h).padStart(2, '0');
-        $('#r-m').textContent = String(m).padStart(2, '0'); $('#r-s').textContent = String(s).padStart(2, '0');
+        var ms = Math.max(0, fin - new Date());
+        $('#r-d').textContent = Math.floor(ms / DIA);
+        $('#r-h').textContent = String(Math.floor(ms % DIA / 3600000)).padStart(2, '0');
+        $('#r-m').textContent = String(Math.floor(ms % 3600000 / 60000)).padStart(2, '0');
+        $('#r-s').textContent = String(Math.floor(ms % 60000 / 1000)).padStart(2, '0');
       };
       tic(); setInterval(tic, 1000);
-    } else if (reloj) { reloj.hidden = true; }
+    } else if (caja) { caja.hidden = true; }
 
-    // Más renovada
-    var top = ps.slice().sort(function (a, b) { return (b.renovaciones || 0) - (a.renovaciones || 0); })[0];
-    if (top && $('#mas-renovada')) {
-      $('#mas-renovada').innerHTML = 'La urgencia más renovada: <a href="proyecto.html?b=' + encodeURIComponent(top.boletin) + '">' +
-        esc(top.titulo) + '</a>, renovada ' + (top.renovaciones || 0) + ' veces.';
+    // Agenda de los próximos días
+    var cont = $('#agenda-resumen');
+    if (cont) {
+      if (!A) { cont.innerHTML = '<p class="vacio">La agenda de comisiones se está cargando. Mientras tanto, revise los plazos de las urgencias.</p>'; }
+      else {
+        var porDia = {};
+        (A.sesiones || []).forEach(function (s) {
+          if (s.estado === 'sin efecto' || !s.boletines || !s.boletines.length) return;
+          (porDia[s.fecha] = porDia[s.fecha] || []).push(s);
+        });
+        // Plazos de urgencia que vencen sin citación publicada, marcados como probables.
+        agregarProbables(porDia, A.probables || [], U, A, null);
+        Object.keys(porDia).forEach(function (f) { porDia[f].sort(function (a, b) { return (a._probable ? 1 : 0) - (b._probable ? 1 : 0) || String(a.hora || '99').localeCompare(String(b.hora || '99')); }); });
+        var fechas = Object.keys(porDia).sort().slice(0, 3);
+        // En la portada, cada grupo de plazos muestra hasta cuatro proyectos; el resto está en la agenda completa.
+        fechas.forEach(function (f) { porDia[f].forEach(function (s) { if (s._probable && s.boletines.length > 4) { s._mas = s.boletines.length - 4; s._dia = f; s.boletines = s.boletines.slice(0, 4); } }); });
+        cont.innerHTML = fechas.length ? '<div class="agenda-dias">' + fechas.map(function (f) {
+          return diaHTML(f, porDia[f].slice(0, 5), U, A, IDX, porDia[f].length > 5 ? porDia[f].length - 5 : 0);
+        }).join('') + '</div>' : '<p class="vacio">No hay citaciones publicadas con proyectos de ley para los próximos días.</p>';
+      }
     }
 
-    // Filtros
-    var selCamara = $('#f-camara'), selNivel = $('#f-nivel'), selOrden = $('#f-orden'), txt = $('#f-texto');
+    listaUrgencias(U, A, IDX);
+  }
+
+  function listaUrgencias(U, A, IDX) {
+    var ps = U.proyectos || [];
+    var fTexto = $('#f-texto'), fTipo = $('#f-tipo'), fCamara = $('#f-camara'), fOrden = $('#f-orden'), fTodas = $('#f-todas');
+    if (!fTexto) return;
     function pintar() {
-      var q = (txt.value || '').toLowerCase().trim();
+      var q = (fTexto.value || '').toLowerCase().trim();
       var lista = ps.filter(function (p) {
-        if (selNivel.value && p.urgencia_actual !== selNivel.value) return false;
-        if (selCamara.value && p.camara_actual !== selCamara.value) return false;
-        if (q && (p.titulo + ' ' + p.boletin).toLowerCase().indexOf(q) === -1) return false;
+        var v = p.urgencia_vigente || {};
+        var activo = v.estado === 'vigente' && dias(v.vence) >= 0;
+        if (!fTodas.checked && !activo) return false;
+        if (fTipo.value && v.tipo !== fTipo.value) return false;
+        if (fCamara.value && p.camara_actual !== fCamara.value) return false;
+        if (q) {
+          var nom = nombreProyecto(p.boletin, U, A, IDX);
+          if ((nom.sintesis + ' ' + p.titulo + ' ' + p.boletin).toLowerCase().indexOf(q) === -1) return false;
+        }
         return true;
       });
-      var orden = selOrden.value;
+      var o = fOrden.value;
       lista.sort(function (a, b) {
-        if (orden === 'renov') return (b.renovaciones || 0) - (a.renovaciones || 0);
-        if (orden === 'dias') return (b.dias_tramite || 0) - (a.dias_tramite || 0);
-        var va = a.urgencia_vigente && a.urgencia_vigente.vence || '9999', vb = b.urgencia_vigente && b.urgencia_vigente.vence || '9999';
+        if (o === 'renov') return (b.renovaciones || 0) - (a.renovaciones || 0);
+        if (o === 'dias') return (b.dias_tramite || 0) - (a.dias_tramite || 0);
+        var va = (a.urgencia_vigente.estado === 'vigente' ? '0' : '1') + (a.urgencia_vigente.vence || '9999');
+        var vb = (b.urgencia_vigente.estado === 'vigente' ? '0' : '1') + (b.urgencia_vigente.vence || '9999');
         return va < vb ? -1 : 1;
       });
-      var cuerpo = $('#tabla-cuerpo');
-      if (!lista.length) { cuerpo.innerHTML = '<tr><td colspan="6" class="vacio">No hay proyectos con esos filtros.</td></tr>'; return; }
-      cuerpo.innerHTML = lista.map(function (p) {
-        var v = textoVence(p);
-        return '<tr>' +
-          '<td class="boletin">' + esc(p.boletin) + '</td>' +
-          '<td><a class="titulo-proyecto" href="proyecto.html?b=' + encodeURIComponent(p.boletin) + '">' + esc(p.titulo) + '</a></td>' +
-          '<td><span class="' + claseChip(p.urgencia_actual) + '">' + esc(p.urgencia_actual) + '</span><div class="vence' + (v.pronto ? ' pronto' : '') + '">' + esc(v.txt) + '</div></td>' +
-          '<td>' + esc(p.etapa || '') + (p.camara_actual ? '<div class="vence">' + esc(p.camara_actual) + '</div>' : '') + '</td>' +
-          '<td class="num"><span class="renov">' + barra(p.renovaciones || 0) + '<span>' + (p.renovaciones || 0) + '</span></span></td>' +
-          '<td class="num">' + (p.dias_tramite != null ? p.dias_tramite : '') + '</td>' +
-          '</tr>';
-      }).join('');
+      $('#n-urgencias').textContent = lista.length + (lista.length === 1 ? ' proyecto' : ' proyectos');
+      $('#lista-urgencias').innerHTML = lista.length ? lista.map(function (p) {
+        var nom = nombreProyecto(p.boletin, U, A, IDX), e = estadoUrg(p);
+        return '<a class="urg" href="' + urlFicha(p.boletin) + '">' +
+          '<span><span class="bol">Boletín ' + esc(p.boletin) + (p.iniciativa && p.iniciativa.toLowerCase().indexOf('moci') === 0 ? ' · Moción' : '') + '</span>' +
+          '<span class="titulo">' + esc(nom.sintesis || recortar(p.titulo, 220)) + '</span>' +
+          (nom.sintesis ? '<span class="oficial">' + esc(recortar(p.titulo, 160)) + '</span>' : '') + '</span>' +
+          '<span class="plazo">' + chipUrg(p.urgencia_vigente.tipo, true) + '<span class="' + (e.pronto ? 'pronto' : '') + '">' + esc(e.corto) + '</span></span>' +
+          '<span><span class="etapa">' + esc(tramiteDe(p.etapa)) + ' · ' + esc(camaraCorta(p.camara_actual)) + '</span><br><span class="renov">' + plural(p.renovaciones || 0, 'renovación', 'renovaciones') + '</span></span>' +
+          '</a>';
+      }).join('') : '<p class="vacio">No hay proyectos con esos filtros.</p>';
     }
-    [selCamara, selNivel, selOrden].forEach(function (s) { s.addEventListener('change', pintar); });
-    txt.addEventListener('input', pintar);
+    [fTipo, fCamara, fOrden, fTodas].forEach(function (s) { s.addEventListener('change', pintar); });
+    fTexto.addEventListener('input', pintar);
     pintar();
   }
 
-  /* ---------- ficha de proyecto ---------- */
-  function ficha(datos) {
-    var b = new URLSearchParams(location.search).get('b');
-    var p = (datos.proyectos || []).filter(function (x) { return x.boletin === b; })[0];
-    var main = $('#ficha');
-    if (!p) {
-      main.innerHTML = '<div class="contenedor"><p class="vacio">No encontramos el boletín ' + esc(b || '') + '. <a href="index.html">Volver a la portada</a>.</p></div>';
-      return;
+  /* ---------- agenda ---------- */
+  // Agrupa por día y por cámara los plazos de urgencia que vencen sin citación publicada.
+  function agregarProbables(porDia, probables, U, A, filtro) {
+    var grupos = {};
+    probables.forEach(function (pr) {
+      if (filtro && !filtro(pr)) return;
+      var p = buscar(pr.boletin, U, A);
+      var cam = p ? p.camara_actual : (pr.camara || '');
+      var k = pr.vence + '|' + cam;
+      if (!grupos[k]) {
+        grupos[k] = { _probable: true, fecha: pr.vence, hora: 'Plazo', camara: cam, organo: 'Vencen urgencias sin citación publicada', boletines: [], estado: 'citada' };
+        (porDia[pr.vence] = porDia[pr.vence] || []).push(grupos[k]);
+      }
+      grupos[k].boletines.push(pr.boletin);
+    });
+    Object.keys(grupos).forEach(function (k) { if (grupos[k].boletines.length === 1) grupos[k].organo = 'Vence la urgencia, aún sin citación publicada'; });
+  }
+  function sesionHTML(s, U, A, IDX, probable) {
+    var materias = '';
+    if (s.boletines && s.boletines.length) {
+      materias = '<ul>' + s.boletines.map(function (b) {
+        var nom = nombreProyecto(b, U, A, IDX);
+        var p = nom.p;
+        var urg = p && p.urgencia_vigente && p.urgencia_vigente.estado === 'vigente' ? ' ' + chipUrg(p.urgencia_vigente.tipo, !probable) : '';
+        var titulo = nom.sintesis || nom.oficial || 'Proyecto de ley';
+        return '<li><a href="' + urlFicha(b) + '"><span class="bol">' + esc(b) + '</span>' + esc(recortar(titulo, 190)) + '</a>' + urg + '</li>';
+      }).join('') + (s._mas ? '<li class="mas"><a href="' + BASE + 'agenda.html#d' + s._dia + '">' + plural(s._mas, 'proyecto más', 'proyectos más') + ' con plazo ese día</a></li>' : '') + '</ul>';
+    } else if (s.materias && s.materias.length) {
+      materias = '<ul><li class="materia-libre">' + esc(recortar(s.materias.join(' '), 240)) + '</li></ul>';
     }
-    document.title = p.titulo + ' · Urgencias Kast';
-    var v = textoVence(p);
-    var urg = (p.urgencias || []).slice().reverse();
-    var tram = (p.tramites || []).slice(-12).reverse();
+    var meta = '<div class="meta">' + (s.camara ? '<span class="chip' + (probable ? '' : ' chip-claro') + '">' + esc(camaraCorta(s.camara)) + '</span>' : '') +
+      (s.estado === 'sin efecto' ? '<span class="chip chip-claro">Sin efecto</span>' : '') +
+      (probable ? '<span class="chip">' + t('probable', 'Probable') + '</span>' : '') + '</div>';
+    return '<article class="sesion' + (s.estado === 'sin efecto' ? ' sin-efecto' : '') + (probable ? ' probable' : '') + '">' +
+      '<span class="hora">' + esc(s.hora || (probable ? 'Plazo' : '')) + '</span>' +
+      '<div><div class="organo">' + esc(s.organo) + '</div>' + meta + materias + '</div></article>';
+  }
+  function diaHTML(f, sesiones, U, A, IDX, mas) {
+    var n = dias(f);
+    var etiqueta = n === 0 ? '<span class="hoy">Hoy</span>' : (n === 1 ? '<span class="hoy">Mañana</span>' : '<span>' + esc(DIAS_L[fecha(f).getDay()]) + '</span>');
+    var d = fecha(f);
+    return '<section class="dia"><div class="dia-fecha">' + etiqueta + '<strong>' + d.getDate() + ' ' + MESES[d.getMonth()] + '</strong></div>' +
+      '<div class="sesiones">' + sesiones.map(function (s) { return sesionHTML(s, U, A, IDX, s._probable); }).join('') +
+      (mas ? '<a class="nota" href="' + BASE + 'agenda.html#d' + f + '">Y ' + mas + ' sesiones más ese día</a>' : '') + '</div></section>';
+  }
 
-    var html = '<div class="contenedor">' +
-      '<nav class="migas" aria-label="Ruta"><a href="index.html">Urgencias</a><span aria-hidden="true">/</span><span class="boletin">Boletín ' + esc(p.boletin) + '</span></nav>' +
-      '<div class="ficha-cabeza">' +
-      '<div class="ficha-meta"><span class="' + claseChip(p.urgencia_actual) + '">' + esc(p.urgencia_actual) + '</span>' +
-      '<span class="' + (v.pronto ? 'vence pronto' : '') + '">' + esc(v.txt) + '</span>' +
-      '<span>· ' + esc(p.iniciativa || '') + ' · Ingresó el ' + fCorta(p.fecha_ingreso) + ' · ' + (p.dias_tramite != null ? p.dias_tramite + ' días en trámite' : '') + '</span></div>' +
-      '<h1 class="ficha-titulo">' + esc(p.titulo) + '</h1></div>' +
-      '<div id="lectura-frase"></div>' +
-      '<div class="ficha-cuerpo"><div class="ficha-principal" id="ficha-principal">' +
-      '<section aria-labelledby="h-urg"><div class="seccion-cabeza"><h2 id="h-urg">Historial de urgencias</h2>' +
-      '<span class="nota">Renovada ' + (p.renovaciones || 0) + ' veces desde el ' + fCorta(urg.length ? urg[urg.length - 1].ingreso : null) + '</span></div>' +
-      '<ol class="historial">' + urg.map(function (u) {
-        return '<li><time datetime="' + esc(u.ingreso) + '">' + fCorta(u.ingreso) + '</time><span><span class="' + claseChip(u.tipo) + '">' + esc(u.tipo) + '</span> ' +
-          (u.retiro ? 'retirada el ' + fCorta(u.retiro) : '<b>vigente</b>') + (u.camara ? ' · ' + esc(u.camara) : '') + '</span></li>';
-      }).join('') + '</ol></section>' +
-      '<div id="lectura-cuerpo"></div>' +
-      '<section aria-labelledby="h-tram"><div class="seccion-cabeza"><h2 id="h-tram">Últimos trámites</h2><span class="nota">Fuente: Senado</span></div>' +
-      '<ol class="historial">' + tram.map(function (t) {
-        return '<li><time datetime="' + esc(t.fecha) + '">' + fCorta(t.fecha) + '</time><span>' + esc(t.descripcion) +
-          '<span class="vence">' + esc([t.etapa, t.camara].filter(Boolean).join(' · ')) + '</span></span></li>';
-      }).join('') + '</ol></section>' +
-      '</div>' +
-      '<aside class="ficha-lateral">' +
-      '<section class="caja-lateral" aria-labelledby="h-datos"><h2 id="h-datos" class="etiqueta-lateral">Datos clave</h2><dl class="datos">' +
-      '<dt>Boletín</dt><dd class="boletin">' + esc(p.boletin) + '</dd>' +
-      '<dt>Iniciativa</dt><dd>' + esc(p.iniciativa || '') + '</dd>' +
-      '<dt>Cámara de origen</dt><dd>' + esc(p.camara_origen || '') + '</dd>' +
-      '<dt>Etapa</dt><dd>' + esc(p.etapa || '') + '</dd>' +
-      (p.subetapa ? '<dt>Subetapa</dt><dd>' + esc(p.subetapa) + '</dd>' : '') +
-      '<dt>Urgencias puestas</dt><dd>' + (p.urgencias || []).length + '</dd>' +
-      '</dl></section>' +
-      '<section class="caja-lateral" aria-labelledby="h-fuentes"><h2 id="h-fuentes" class="etiqueta-lateral">Fuentes oficiales</h2><ul class="lista-enlaces">' +
-      (p.enlaces && p.enlaces.senado ? '<li><a href="' + esc(p.enlaces.senado) + '" rel="noopener">Tramitación en el Senado</a></li>' : '') +
-      (p.enlaces && p.enlaces.camara ? '<li><a href="' + esc(p.enlaces.camara) + '" rel="noopener">Tramitación en la Cámara</a></li>' : '') +
-      (p.enlaces && p.enlaces.mensaje ? '<li><a href="' + esc(p.enlaces.mensaje) + '" rel="noopener">Texto del mensaje</a></li>' : '') +
-      '<li><a href="https://www.bcn.cl/asesoriasparlamentarias" rel="noopener">Asesoría Técnica Parlamentaria, BCN</a></li>' +
-      '</ul><p class="fuente" style="margin-top:14px">Datos actualizados automáticamente. <a href="mailto:' + esc(CFG.correo || '') + '?subject=Error%20en%20' + encodeURIComponent(p.boletin) + '">Reportar un error</a>.</p></section>' +
-      '</aside></div></div>';
-    main.innerHTML = html;
+  function agenda(U, A, IDX) {
+    var cont = $('#agenda');
+    if (!A) { cont.innerHTML = '<p class="vacio">La agenda aún no está disponible. Vuelva en unos minutos.</p>'; return; }
+    var fC = $('#a-camara'), fU = $('#a-urgencia'), fT = $('#a-texto');
+    var est = [];
+    Object.keys(A.fuentes || {}).forEach(function (k) {
+      var f = A.fuentes[k];
+      var nombre = k === 'senado' ? 'Senado' : 'Cámara';
+      est.push('<span class="chip">' + nombre + ': ' + (f.estado === 'ok' ? f.citaciones + ' citaciones, consultadas el ' + esc(fCorta(f.consultado)) : (f.conservadas ? 'sin actualizar; se muestran las últimas citaciones obtenidas' : 'citaciones no disponibles por ahora; se muestran los plazos de urgencia')) + '</span>');
+    });
+    $('#estado-fuentes').innerHTML = est.join('');
+    $('#rango').textContent = 'Del ' + fLarga(A.desde) + ' al ' + fLarga(A.hasta);
+    function pintar() {
+      var q = (fT.value || '').toLowerCase().trim();
+      var porDia = {};
+      (A.sesiones || []).forEach(function (s) {
+        if (fC.value && s.camara !== fC.value) return;
+        if (fU.checked && !(s.boletines || []).some(function (b) { var p = buscar(b, U, A); return p && p.urgencia_vigente && p.urgencia_vigente.estado === 'vigente'; })) return;
+        if (q) {
+          var txt = (s.organo + ' ' + (s.materias || []).join(' ') + ' ' + (s.boletines || []).map(function (b) { var n = nombreProyecto(b, U, A, IDX); return b + ' ' + n.sintesis + ' ' + n.oficial; }).join(' ')).toLowerCase();
+          if (txt.indexOf(q) === -1) return;
+        }
+        (porDia[s.fecha] = porDia[s.fecha] || []).push(s);
+      });
+      agregarProbables(porDia, A.probables || [], U, A, function (pr) {
+        var p = buscar(pr.boletin, U, A);
+        if (fC.value && p && p.camara_actual !== fC.value) return false;
+        if (q) { var n = nombreProyecto(pr.boletin, U, A, IDX); if ((pr.boletin + ' ' + n.sintesis + ' ' + n.oficial).toLowerCase().indexOf(q) === -1) return false; }
+        return true;
+      });
+      var fechas = Object.keys(porDia).sort();
+      cont.innerHTML = fechas.length ? '<div class="agenda-dias">' + fechas.map(function (f) {
+        var lista = porDia[f].sort(function (a, b) { return (a._probable ? 1 : 0) - (b._probable ? 1 : 0) || String(a.hora || '99').localeCompare(String(b.hora || '99')); });
+        return '<div id="d' + f + '">' + diaHTML(f, lista, U, A, IDX, 0) + '</div>';
+      }).join('') + '</div>' : '<p class="vacio">No hay sesiones con esos filtros.</p>';
+      if (location.hash && location.hash.length > 2) { var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }
+    }
+    [fC, fU].forEach(function (s) { s.addEventListener('change', pintar); });
+    fT.addEventListener('input', pintar);
+    pintar();
+  }
 
-    cargar('data/lecturas/' + p.boletin + '.json').then(lectura).catch(function () {
-      $('#lectura-cuerpo').innerHTML = '<section><h2>Lectura política</h2><p class="en-preparacion" style="margin-top:16px">La lectura política de este proyecto ' +
-        '(correlación de fuerzas, posiciones declaradas, quién gana y quién pierde) está en preparación. Ruta Crece la publica con fuentes y con las proyecciones identificadas como tales.</p></section>';
+  /* ---------- ficha ---------- */
+  var EXPLICA = [
+    [/ingreso de proyecto/i, 'El proyecto entra al Congreso.'],
+    [/cuenta del mensaje.*urgencia|retira.*urgencia|hace presente la urgencia/i, null],
+    [/cuenta de proyecto.*pasa a comisi/i, 'La Sala toma conocimiento del proyecto y lo envía a comisión.'],
+    [/cuenta de primer informe|cuenta de segundo informe|cuenta de informe/i, 'La Sala recibe el informe de la comisión.'],
+    [/primer informe de comisi[oó]n de hacienda|informe de comisi[oó]n de hacienda/i, 'La Comisión de Hacienda revisa las normas que afectan el gasto o los ingresos públicos.'],
+    [/primer informe de comisi/i, 'La comisión entrega su primer informe: votó la idea de legislar y propone un texto.'],
+    [/segundo informe/i, 'La comisión revisó las indicaciones y entrega su segundo informe.'],
+    [/aprobado en general y particular/i, 'La Sala aprueba la idea de legislar y el texto completo en una sola votación.'],
+    [/discusi[oó]n general.*aprobado/i, 'La Sala aprueba la idea de legislar.'],
+    [/discusi[oó]n general/i, 'La Sala discute la idea de legislar.'],
+    [/discusi[oó]n particular/i, 'La Sala vota el texto artículo por artículo.'],
+    [/plazo de indicaciones|plazo para presentar indicaciones/i, 'Se abre un plazo para proponer cambios al texto.'],
+    [/oficio de ley a c[aá]mara revisora/i, 'La cámara de origen terminó y envía el proyecto a la otra cámara.'],
+    [/comisi[oó]n mixta/i, 'Una comisión con integrantes de ambas cámaras busca un acuerdo.'],
+    [/c[aá]mara de origen/i, 'El proyecto vuelve a la cámara donde ingresó.']
+  ];
+  function explicarTramite(d) {
+    for (var i = 0; i < EXPLICA.length; i++) if (EXPLICA[i][0].test(d)) return EXPLICA[i][1];
+    return '';
+  }
+
+  function ficha(U, A, IDX) {
+    var b = document.body.getAttribute('data-boletin') || new URLSearchParams(location.search).get('b') || '';
+    var main = $('#ficha');
+    // Solo pide la ficha verificada si el índice dice que existe, para no generar errores 404.
+    (IDX && IDX[b] ? cargarOpc('data/fichas/' + encodeURIComponent(b) + '.json') : Promise.resolve(null)).then(function (F) {
+      var p = buscar(b, U, A);
+      if (!p && !F) {
+        main.innerHTML = '<div class="envoltura pagina-cabeza"><p class="eyebrow">Boletín ' + esc(b) + '</p><h1>Este proyecto no está en seguimiento</h1>' +
+          '<p class="bajada">No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el ' +
+          '<a href="https://portallegislativo.senado.cl/proyectos-ley?boletin=' + encodeURIComponent(b) + '" rel="noopener">sitio del Senado</a>.</p>' +
+          '<p><a class="boton" href="' + BASE + 'index.html">Ver los proyectos con urgencia</a></p></div>';
+        return;
+      }
+      pintarFicha(b, p, F, U, A, IDX, main);
     });
   }
 
-  function lectura(L) {
-    if (L.frase) {
-      $('#lectura-frase').innerHTML = '<section class="lectura-frase" aria-labelledby="h-frase"><div><h2 id="h-frase" class="reloj-etiqueta">Lectura política en una frase</h2><p>' + esc(L.frase) + '</p></div>' +
-        (L.votos ? '<div class="lectura-cifras">' +
-          '<div><strong>' + esc(L.votos.necesarios) + '</strong><span>votos necesarios</span></div>' +
-          '<div><strong>' + esc(L.votos.a_favor) + '</strong><span>a favor, estimados</span></div>' +
-          '<div><strong>' + esc(L.votos.indecisos) + '</strong><span>indecisos</span></div>' +
-          '<div><strong style="color:#F2C48D">' + esc(L.riesgo || '') + '</strong><span>riesgo de tramitación</span></div></div>' : '') +
-        '</section>';
+  function pintarFicha(b, p, F, U, A, IDX, main) {
+    var completa = F && F.nivel === 'completa';
+    var fuentes = [], porId = {};
+    function agregarFuente(f) { fuentes.push(f); porId[f.id] = fuentes.length; return fuentes.length; }
+    (F && F.fuentes || []).forEach(agregarFuente);
+    var urls = fuentes.map(function (f) { return f.url; });
+    var nSenado = null;
+    if (p && p.enlaces) {
+      if (p.enlaces.senado && urls.indexOf(p.enlaces.senado) === -1) nSenado = agregarFuente({ id: '_senado', titulo: 'Senado, ficha de tramitación del boletín ' + b, url: p.enlaces.senado, fecha: 'Consulta automática', nota: 'Etapas, trámites y urgencias.' });
+      else if (p.enlaces.senado) nSenado = urls.indexOf(p.enlaces.senado) + 1;
+      if (p.enlaces.camara) agregarFuente({ id: '_camara', titulo: 'Cámara de Diputadas y Diputados, tramitación del boletín ' + b, url: p.enlaces.camara, fecha: 'Consulta automática', nota: '' });
+      if (p.enlaces.mensaje) agregarFuente({ id: '_texto', titulo: 'Texto del ' + ((p.iniciativa || '').toLowerCase().indexOf('moci') === 0 ? 'proyecto (moción)' : 'mensaje presidencial'), url: p.enlaces.mensaje, fecha: '', nota: 'Documento original del proyecto.' });
     }
-    var h = '';
-    if (L.votos) {
-      var t = L.votos.total || (L.votos.a_favor + L.votos.indecisos + L.votos.en_contra);
-      var pos = (L.votos.necesarios / t * 100).toFixed(1);
-      h += '<section aria-labelledby="h-fuerzas"><div class="seccion-cabeza"><h2 id="h-fuerzas">Correlación de fuerzas</h2><span class="nota">' + esc(L.votos.camara || '') + '</span></div>' +
-        (L.votos.nota ? '<p style="margin:0 0 16px;color:#36414D">' + esc(L.votos.nota) + '</p>' : '') +
-        '<div class="barra-votos" role="img" aria-label="' + L.votos.a_favor + ' a favor, ' + L.votos.indecisos + ' indecisos, ' + L.votos.en_contra + ' en contra">' +
-        '<span style="flex:' + L.votos.a_favor + ' 1 0;background:#1D5E55"></span><span style="flex:' + L.votos.indecisos + ' 1 0;background:#C2CAD1"></span>' +
-        '<span style="flex:' + L.votos.en_contra + ' 1 0;background:#9A5B0B"></span><span class="linea-mayoria" style="left:' + pos + '%"></span></div>' +
-        '<div class="leyenda-votos"><span><b style="color:#1D5E55">' + L.votos.a_favor + '</b> a favor</span><span><b>' + L.votos.indecisos + '</b> indecisos</span>' +
-        '<span class="nota">Se necesitan ' + L.votos.necesarios + ' de ' + t + '</span><span><b style="color:#9A5B0B">' + L.votos.en_contra + '</b> en contra</span></div>';
-      if (L.bancadas && L.bancadas.length) {
-        h += '<div class="tabla-caja" style="margin-top:28px"><table style="min-width:640px"><thead><tr><th>Bancada</th><th class="num">Escaños</th><th>Posición</th><th>Base de la estimación</th></tr></thead><tbody>' +
-          L.bancadas.map(function (x) {
-            var c = x.posicion === 'A favor' ? 'chip chip-suma' : (x.posicion === 'En contra' ? 'chip chip-di' : 'chip chip-simple');
-            return '<tr><td><b>' + esc(x.nombre) + '</b></td><td class="num">' + esc(x.escanos) + '</td><td><span class="' + c + '">' + esc(x.posicion) + '</span></td><td>' + esc(x.base) + '</td></tr>';
-          }).join('') + '</tbody></table></div>';
-      }
-      h += '</section>';
+    function refs(ids) {
+      return (ids || []).map(function (id) {
+        var n = porId[id]; if (!n) return '';
+        return '<a class="ref" href="#f' + n + '" title="' + esc(fuentes[n - 1].titulo) + '">' + n + '</a>';
+      }).join('');
     }
-    if (L.actores && L.actores.length) {
-      h += '<section aria-labelledby="h-act"><div class="seccion-cabeza"><h2 id="h-act">Quién se ha pronunciado</h2></div><div class="tabla-caja"><table style="min-width:600px"><tbody>' +
-        L.actores.map(function (a) {
-          return '<tr><td><b>' + esc(a.actor) + '</b><div class="vence">' + esc(a.posicion) + '</div></td><td>' + esc(a.argumento) + '<div class="fuente">' + esc(a.fuente) + '</div></td></tr>';
-        }).join('') + '</tbody></table></div></section>';
+    function oraciones(lista) {
+      return (lista || []).map(function (o) {
+        if (o.pendiente) return '<p class="pendiente"><span class="et et-pend">Dato pendiente</span> ' + esc(o.texto) + '</p>';
+        return esc(o.texto) + refs(o.fuentes);
+      }).join(' ');
     }
-    if ((L.ganan && L.ganan.length) || (L.pierden && L.pierden.length)) {
-      var item = function (x) { return '<p>' + esc(x.texto) + ' <span class="fuente">' + esc(x.fuente || '') + '</span></p>'; };
-      h += '<section aria-labelledby="h-gp"><div class="seccion-cabeza"><h2 id="h-gp">Quién gana, quién pierde</h2><span class="nota">Lectura de consecuencias de Ruta Crece</span></div>' +
-        '<div class="dos-col"><div class="gana"><h3>Ganan</h3>' + (L.ganan || []).map(item).join('') + '</div>' +
-        '<div class="pierde"><h3>Pierden o asumen costos</h3>' + (L.pierden || []).map(item).join('') + '</div></div></section>';
+    function franja(herr, nombre, por, limite, para) {
+      return '<div class="franja"><details><summary><span class="herr"><span>' + herr + '</span><span>' + nombre + '</span></span><span class="abrir"><span class="abrir-txt"></span></span></summary>' +
+        '<div class="franja-grilla"><div><b>Por qué la usamos</b><p>' + por + '</p></div><div><b>Qué no puede decir</b><p>' + limite + '</p></div><div><b>Para qué sirve</b><p>' + para + '</p></div></div></details></div>';
     }
-    if (L.riesgos && L.riesgos.length) {
-      h += '<section aria-labelledby="h-r"><div class="seccion-cabeza"><h2 id="h-r">Riesgos y antecedentes</h2></div><ol class="historial">' +
-        L.riesgos.map(function (r) { return '<li><b>' + esc(r.titulo) + '</b><span>' + esc(r.texto) + '</span></li>'; }).join('') + '</ol></section>';
+    function masCta(texto) {
+      return '<div class="mas-cta"><p>' + texto + '</p><a href="' + urlAsesoria('solicitar') + '">Solicitar asesoría</a></div>';
     }
-    if (L.fuentes && L.fuentes.length) {
-      h += '<section aria-labelledby="h-fl"><div class="seccion-cabeza"><h2 id="h-fl">Fuentes de esta lectura</h2></div><ul class="lista-enlaces">' +
-        L.fuentes.map(function (f) {
-          var url = /^https?:\/\//.test(f.url || '') ? f.url : '';
-          return '<li>' + (url ? '<a href="' + esc(url) + '" rel="noopener">' + esc(f.titulo || url) + '</a>' : esc(f.titulo || '')) +
-            (f.respalda ? ' <span class="fuente">· ' + esc(f.respalda) + '</span>' : '') + '</li>';
-        }).join('') + '</ul></section>';
+
+    var mocion = p && (p.iniciativa || '').toLowerCase().indexOf('moci') === 0;
+    var e = p ? estadoUrg(p) : null;
+    var v = p ? p.urgencia_vigente || {} : {};
+    var citas = A ? (A.sesiones || []).filter(function (s) { return s.estado !== 'sin efecto' && (s.boletines || []).indexOf(b) > -1; }) : [];
+    var titulo = (F && F.sintesis) || (p && p.titulo) || ('Boletín ' + b);
+    document.title = recortar(titulo, 90) + ' · Urgencias Kast';
+
+    var bloques = [], n = 0, indice = [];
+    function bloque(id, nombre, html) { n++; indice.push('<li><a href="#' + id + '">' + n + '. ' + esc(nombre) + '</a></li>'); bloques.push(html.replace('{{N}}', n)); }
+
+    // 1. Resumen
+    if (F && F.resumen) {
+      var R = F.resumen;
+      var ap = [
+        ['problema', mocion ? 'Problema que declara la moción' : 'Problema que declara el ' + t('mensaje', 'mensaje')],
+        ['propone', 'Qué propone'], ['cambia', 'Qué cambia en la ley vigente'], ['afecta', 'A quién afecta, según el texto'],
+        ['costo', 'Costo fiscal, según el ' + t('informe_financiero', 'informe financiero')], ['estado', 'Estado de tramitación']
+      ];
+      bloque('resumen', 'Qué propone el proyecto', '<article class="tarjeta" id="resumen" aria-labelledby="h-resumen">' +
+        franja('Herramienta', t('resumen_estructurado'),
+          'Es el formato de los artículos científicos: los mismos apartados, en el mismo orden, para todos los proyectos. Así se pueden comparar y nada importante queda fuera. Se basa en Haynes y colaboradores (1990) y en las guías de resumen en lenguaje sencillo de Cochrane.',
+          'No evalúa ni opina. Cada oración repite lo que dice un documento y enlaza a él. Si un documento no estaba disponible, lo decimos en lugar de suponer su contenido.',
+          'Para explicar el proyecto en un minuto a un parlamentario, un directorio, una asamblea o una redacción, y para saber qué documento abrir si se necesita el detalle.') +
+        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p><h2 id="h-resumen">Qué propone el proyecto</h2>' +
+        ap.filter(function (a) { return R[a[0]] && R[a[0]].length; }).map(function (a) {
+          return '<div class="apartado"><h3>' + a[1] + '</h3><div><p>' + oraciones(R[a[0]]) + '</p></div></div>';
+        }).join('') +
+        masCta('¿Qué se juega en este proyecto para su bancada o su partido, y qué posición conviene tomar? La lectura política de Lo Común lo responde con las posturas en juego, el costo de cada alternativa y su fundamento por escrito.') +
+        '</div></article>');
+    } else {
+      bloque('resumen', 'Resumen del proyecto', '<article class="tarjeta" id="resumen" aria-labelledby="h-resumen"><div class="tarjeta-cuerpo preparacion">' +
+        '<p class="num-bloque">Bloque {{N}}</p><h2 id="h-resumen">Resumen en preparación</h2>' +
+        '<p>Este proyecto todavía no tiene un ' + t('resumen_estructurado') + ' verificado. Lo publicamos cuando una persona del equipo revisó cada oración contra su fuente.</p>' +
+        (p && p.enlaces && p.enlaces.mensaje ? '<p>Mientras tanto, puede leer el <a href="' + esc(p.enlaces.mensaje) + '" rel="noopener">texto original del proyecto</a> o los informes de la ' + t('atp') + ' de la Biblioteca del Congreso.</p>' : '') +
+        '<p class="aviso">¿Necesita este análisis antes? <a href="' + urlAsesoria('solicitar') + '">Lo Común puede prepararlo para su equipo</a>.</p>' +
+        '</div></article>');
     }
-    if (L.autor || L.actualizado) {
-      h += '<p class="nota">Lectura elaborada por ' + esc(L.autor || 'Ruta Crece') + (L.revisada ? ' y revisada por su equipo' : '') + (L.actualizado ? ', actualizada el ' + fCorta(L.actualizado) : '') + '. Las proyecciones se identifican como tales.</p>';
+
+    // 2. Posiciones
+    if (completa && F.posiciones) {
+      var cls = { 'A favor': 'p-favor', 'En contra': 'p-contra', 'Con reparos': 'p-reparos' };
+      bloque('posiciones', 'Qué han dicho las organizaciones', '<article class="tarjeta" id="posiciones" aria-labelledby="h-pos">' +
+        franja('Herramienta', t('posiciones', 'Registro de posiciones públicas'),
+          'Un proyecto se decide en el Congreso, pero se discute fuera de él. Registrar qué piden gremios, empresas, sindicatos y organizaciones sociales muestra qué intereses están en juego. Es la primera parte del mapa de actores que usan los estudios de ciencia política.',
+          'Solo registra lo que una organización dijo en público, con fecha. Que no encontremos una declaración no significa que esa organización no tenga posición. No incluye a parlamentarios ni a particulares.',
+          'Para saber qué organizaciones se han pronunciado, qué argumentos traen y con quién conviene conversar antes de que el proyecto se vote.') +
+        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p><h2 id="h-pos">Qué han dicho las organizaciones</h2>' +
+        '<p>Posiciones de gremios y organizaciones de la sociedad civil, según lo que publicaron o declararon a la prensa.</p><div class="posiciones">' +
+        F.posiciones.map(function (x) {
+          return '<div class="posicion"><div><h4>' + esc(x.organizacion) + '</h4><span class="tipo-org">' + esc([x.tipo, x.vocero ? 'vocería: ' + x.vocero : ''].filter(Boolean).join(' · ')) + '</span></div>' +
+            '<span class="postura ' + (cls[x.postura] || 'p-reparos') + '">' + esc(x.postura) + '</span><p>' + esc(x.argumento) + '</p>' +
+            '<span class="cita">' + esc(cap(x.fecha)) + refs(x.fuentes) + '</span></div>';
+        }).join('') + '</div>' +
+        (F.posiciones_sin_registro ? '<p class="sin-registro">' + esc(F.posiciones_sin_registro) + '</p>' : '') +
+        '<p class="nota" style="margin-top:14px">¿Su organización se pronunció sobre este proyecto y no aparece aquí? <a href="' + urlAsesoria('posiciones') + '">Envíenos el enlace a su declaración pública</a>.</p>' +
+        masCta('Para saber qué piden los grupos que este proyecto toca, desde dónde interpretan la discusión y cómo hablarles, Lo Común elabora el mapa de identidades y demandas de un distrito, una región o un sector.') +
+        '</div></article>');
     }
-    $('#lectura-cuerpo').innerHTML = h;
+
+    // 3. Encuadre
+    if (completa && F.encuadre && F.encuadre.marcos && F.encuadre.marcos.length) {
+      var E = F.encuadre;
+      bloque('encuadre', 'Cómo se habla del proyecto', '<article class="tarjeta" id="encuadre" aria-labelledby="h-enc">' +
+        franja('Herramienta', 'Análisis del ' + t('encuadre'),
+          'Quien habla de un problema siempre elige qué mostrar: cuál es el problema, quién es responsable y qué solución propone. Esa elección se llama encuadre (Entman, 1993). Saber cómo encuadra cada lado ayuda a entender por qué no se ponen de acuerdo.',
+          'Es una ' + t('exploratoria', 'lectura exploratoria') + ': la hizo una persona sobre un conjunto acotado de notas. Un análisis completo exige que dos personas clasifiquen el material por separado y medir cuánto coinciden. No mide qué piensa la población.',
+          'Para conocer las palabras que ya usa cada lado antes de intervenir en el debate, y no repetir sin querer el lenguaje del otro.') +
+        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-interp">' + t('interpretacion', 'Interpretación') + '</span></p><h2 id="h-enc">Cómo se habla del proyecto</h2>' +
+        (E.intro ? '<p>' + esc(E.intro) + '</p>' : '') + '<div class="encuadres">' +
+        E.marcos.map(function (m) {
+          return '<div class="encuadre"><h4>' + esc(m.titulo) + '</h4><p class="quien">' + esc(m.quienes) + '</p><dl>' +
+            '<dt>El problema</dt><dd>' + esc(m.problema) + refs(m.problema_fuentes) + '</dd>' +
+            '<dt>La causa</dt><dd>' + esc(m.causa) + refs(m.causa_fuentes) + '</dd>' +
+            '<dt>La solución</dt><dd>' + esc(m.solucion) + refs(m.solucion_fuentes) + '</dd>' +
+            ((m.palabras || []).length ? '<dt>Palabras que usa</dt><dd><div class="palabras">' + m.palabras.map(function (w) { return '<span>' + esc(w) + '</span>'; }).join('') + '</div></dd>' : '') +
+            '</dl></div>';
+        }).join('') + '</div>' +
+        (E.disputa && E.disputa.palabra ? '<div class="disputa"><h4>Palabra en disputa: «' + esc(E.disputa.palabra) + '»</h4><p>' + oraciones(E.disputa.oraciones) + '</p></div>' : '') +
+        masCta('Para disputar este debate con palabras propias, Lo Común hace el análisis completo del campo discursivo, define la idea central con una ficha de significante y prepara respuestas a los ataques previsibles.') +
+        '</div></article>');
+    }
+
+    // 4. Urgencia y tramitación
+    if (p) {
+      var hitos = (p.tramites || []).map(function (x) { return { f: x.fecha, d: x.descripcion, c: x.camara, exp: explicarTramite(x.descripcion || '') }; })
+        .filter(function (x) { return x.exp !== null; });
+      var vistos = {};
+      hitos = hitos.filter(function (x) { var k = x.f + x.d; if (vistos[k]) return false; vistos[k] = 1; return true; }).slice(-8);
+      var urgs = (p.urgencias || []).filter(function (u) { return (u.ingreso || '') >= ((U && U.inicio_gobierno) || '2026-03-11'); });
+      var filas = urgs.map(function (u, i) {
+        var prev = urgs[i - 1];
+        var que = !prev ? 'Pone urgencia <b>' + esc(u.tipo.toLowerCase()) + '</b>' : (prev.tipo === u.tipo ? 'Renueva la ' + esc(u.tipo.toLowerCase()) : 'Cambia a <b>' + esc(u.tipo.toLowerCase()) + '</b>');
+        var plazo = (v.mixta && i === urgs.length - 1 ? ({ 'Discusión inmediata': 2, 'Suma': 5, 'Simple': 10 }) : ({ 'Discusión inmediata': 6, 'Suma': 15, 'Simple': 30 }))[u.tipo];
+        return '<tr><td class="num">' + esc(fCorta(u.ingreso)) + '</td><td>' + que + (u.camara ? ' · ' + esc(camaraCorta(u.camara)) : '') + '</td><td class="num">' + (plazo ? plazo + ' días' : '') + '</td></tr>';
+      }).reverse();
+      var estadoTxt = '';
+      if (v.estado === 'vigente' && dias(v.vence) >= 0) estadoTxt = '<b>' + esc(e.txt) + '.</b> La ' + esc((v.tipo || '').toLowerCase()) + ' corre en ' + (v.camara === 'Senado' ? 'el Senado' : 'la Cámara') + ' desde el ' + esc(fLarga(v.desde)) + (v.mixta ? ', con el ' + t('mixta_plazo', 'plazo de comisión mixta') : '') + '.';
+      else if (v.estado === 'en_espera') estadoTxt = '<b>' + t('en_espera', 'Urgencia en espera') + '.</b> El proyecto pasó a ' + (p.camara_actual === 'Senado' ? 'el Senado' : 'la Cámara') + ' después de la última urgencia, del ' + esc(fLarga(v.desde)) + '. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.';
+      else if (v.estado === 'finalizado') estadoTxt = '<b>El Congreso terminó de votar este proyecto.</b> Está en el ' + t('finalizacion') + ', por lo que la urgencia ya no fija plazos.';
+      else if (v.vence) estadoTxt = '<b>Plazo vencido el ' + esc(fLarga(v.vence)) + '.</b> No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.';
+      bloque('urgencia', 'Urgencia y tramitación', '<article class="tarjeta" id="urgencia" aria-labelledby="h-urg">' +
+        franja('Datos oficiales', 'Urgencia, plazos y tramitación',
+          'Las urgencias son la herramienta con que el Ejecutivo ordena la agenda del Congreso. Los datos vienen del servicio del Senado y de los datos abiertos de la Cámara, que consultamos cada tres horas. Los plazos se calculan según la ley orgánica del Congreso (Ley 18.918, artículos 27, 28 y 70).',
+          'Los plazos son de días corridos desde que la cámara da cuenta de la urgencia. El Congreso no siempre los cumple, y el gobierno suele renovarlos en lugar de dejarlos vencer.',
+          'Para ordenar la agenda de trabajo y anticipar cuándo el proyecto volverá a discutirse.') +
+        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p><h2 id="h-urg">Cuánto apura el gobierno este proyecto</h2>' +
+        '<p>Una ' + t('urgencia') + ' es un plazo que el Presidente fija a una cámara para despachar un proyecto. ' +
+        (v.tipo ? 'Este proyecto tiene ' + (v.tipo === 'Discusión inmediata' ? t('discusion', 'discusión inmediata') + ', la más corta' : (v.tipo === 'Suma' ? t('suma', 'suma urgencia') + ', de quince días' : t('simple', 'urgencia simple') + ', de treinta días')) + '.' : '') + '</p>' +
+        '<div class="estado-urgencia">' + estadoTxt + (nSenado ? '<a class="ref" href="#f' + nSenado + '">' + nSenado + '</a>' : '') + '</div>' +
+        '<div class="marcadores"><div><strong>' + (p.urgencias_gobierno || urgs.length) + '</strong><span>urgencias desde marzo de 2026</span></div>' +
+        '<div><strong>' + (p.renovaciones || 0) + '</strong><span>' + t('renovacion', 'renovaciones') + '</span></div>' +
+        '<div><strong>' + (p.cambios_tipo || 0) + '</strong><span>' + t('cambio_tipo', 'cambios de tipo') + '</span></div></div>' +
+        '<p><b>Qué indica una renovación.</b> Renovar es retirar la urgencia y volver a ponerla para que el plazo empiece de nuevo. Muestra que el gobierno mantiene su prioridad aunque el plazo anterior no se cumplió. Un cambio de tipo que acorta el plazo indica que la prioridad subió.</p>' +
+        (filas.length ? '<h3>Historial de urgencias</h3><div class="tabla-caja"><table><thead><tr><th>Fecha</th><th>Qué hizo el gobierno</th><th>Plazo</th></tr></thead><tbody>' + filas.join('') + '</tbody></table></div>' : '') +
+        '<h3>Tramitación</h3><p>' + etapaExplicada(p) + '</p><ol class="linea">' +
+        hitos.map(function (h, i) {
+          return '<li' + (i === hitos.length - 1 ? ' class="ultimo"' : '') + '><time>' + esc(fCorta(h.f)) + (h.c ? ' · ' + esc(camaraCorta(h.c)) : '') + '</time><b>' + esc(h.d.replace(/\s+\./g, '.').replace(/\s+/g, ' ')) + '</b>' + (h.exp ? '<span class="exp">' + esc(h.exp) + '</span>' : '') + '</li>';
+        }).join('') +
+        citas.map(function (s) { return '<li class="proximo"><time>' + esc(fCorta(s.fecha)) + (s.hora ? ' · ' + esc(s.hora) : '') + '</time><b>Citado: ' + esc(s.organo) + ', ' + esc(camaraCorta(s.camara)) + '</b><span class="exp">Según la ' + t('citacion', 'citación') + ' publicada.</span></li>'; }).join('') +
+        '</ol>' +
+        masCta('Cada hito de la tramitación es una oportunidad para comunicar una posición clara. Lo Común diseña las piezas para cada uno, con frases y cuñas listas para usar.') +
+        '</div></article>');
+    }
+
+    // Invitación
+    var invitacion = '<aside class="vidrio invitacion" aria-labelledby="h-inv">' +
+      '<p class="eyebrow">Asesoría de Lo Común</p>' +
+      '<h2 id="h-inv">Para conducir la discusión de ' + esc((F && F.materia) || 'este proyecto') + '</h2>' +
+      '<p class="para">Para parlamentarios, bancadas y partidos</p>' +
+      '<p>Esta ficha muestra qué dice el proyecto. La asesoría entrega lo necesario para intervenir con ventaja: las posturas que de verdad existen, lo que cuesta asumir cada una, el espacio que el tema tiene en los medios y las palabras con que se puede hacer propio. Lo hacemos con herramientas de las ciencias sociales modernas y posmodernas: teoría del discurso, estudios de identidad y estudios de circulación en redes.</p>' +
+      '<ul><li><b>Las posturas que de verdad existen</b>Qué se discute en realidad, quién sostiene cada postura y con qué argumentos. Se sabe con quién se habla y qué van a responder.</li>' +
+      '<li><b>El costo político de cada postura</b>Qué se gana y qué se arriesga con cada alternativa ante la bancada, la base y los grupos que el proyecto toca.</li>' +
+      '<li><b>El potencial mediático del tema</b>Qué parte de la discusión puede volverse noticia o circular en redes, y en qué momento de la tramitación.</li>' +
+      '<li><b>Las palabras para ganar el debate</b>La idea central con que se hace propio el tema y se aprovecha la contingencia, con frases y cuñas listas para usar.</li></ul>' +
+      '<div class="acciones"><a class="boton" href="' + urlAsesoria('solicitar') + '">Solicitar una asesoría</a><a class="boton boton-vidrio" href="' + urlAsesoria() + '">Cómo trabajamos</a></div>' +
+      '<p class="letra-chica">Informes originales, con todas sus fuentes, financiables con la asignación de asesoría externa; el diseño de piezas, con gastos operacionales de comunicación. No incluye asesoría de imagen, encuestas ni contenido electoral. Esta ficha no recomienda posiciones a nadie.</p></aside>';
+
+    var fuentesHTML = '<article class="tarjeta" id="fuentes" aria-labelledby="h-fuentes"><div class="tarjeta-cuerpo">' +
+      '<p class="num-bloque">Fuentes' + (F && F.consultado ? ' · consultadas el ' + esc(fLarga(F.consultado)) : '') + '</p><h2 id="h-fuentes">De dónde sale cada dato</h2><ol class="fuentes">' +
+      fuentes.map(function (f, i) {
+        var url = /^https?:\/\//.test(f.url || '') ? f.url : '';
+        return '<li id="f' + (i + 1) + '"><span>' + (i + 1) + '</span><span>' + (url ? '<a href="' + esc(url) + '" rel="noopener">' + esc(f.titulo) + '</a>' : esc(f.titulo)) +
+          '<small>' + esc([f.fecha, f.nota].filter(Boolean).join('. ')) + '</small></span></li>';
+      }).join('') + '</ol>' +
+      (F && F.revision ? '<p class="nota" style="margin-top:16px;color:var(--tinta-suave)">' + esc(F.revision) + '</p>' : '') +
+      '<p class="nota" style="margin-top:8px;color:var(--tinta-suave)">¿Encontró un error? Escríbanos a <b>' + esc(CFG.correo || '') + '</b> indicando el boletín. Las correcciones se publican con fecha.</p>' +
+      '</div></article>';
+
+    indice.push('<li><a href="#fuentes">Fuentes</a></li>');
+    var proxima = citas[0];
+    var datos = '<dl>' +
+      '<dt>Boletín</dt><dd>' + esc(b) + '</dd>' +
+      (p ? '<dt>Origen</dt><dd>' + (mocion ? t('mocion', 'Moción parlamentaria') : t('mensaje', 'Mensaje del Presidente')) + '</dd>' : '') +
+      (p && p.fecha_ingreso ? '<dt>Ingreso</dt><dd>' + esc(fCorta(p.fecha_ingreso)) + ', ' + esc(p.camara_origen === 'Senado' ? 'Senado' : 'Cámara') + '</dd>' : '') +
+      (p ? '<dt>Etapa</dt><dd>' + esc(tramiteDe(p.etapa)) + (p.camara_actual ? ', ' + esc(camaraCorta(p.camara_actual)) : '') + '</dd>' : '') +
+      (v.tipo ? '<dt>Urgencia</dt><dd>' + esc(v.tipo) + ' · ' + esc(e.corto) + '</dd>' : '') +
+      (proxima ? '<dt>Próxima citación</dt><dd>' + esc(fCorta(proxima.fecha)) + (proxima.hora ? ', ' + esc(proxima.hora) : '') + ' · ' + esc(proxima.organo) + '</dd>' : '') +
+      (p && p.dias_tramite != null ? '<dt>En trámite</dt><dd>' + p.dias_tramite + ' días</dd>' : '') +
+      '</dl>';
+
+    var chips = '';
+    if (v.tipo) chips += chipUrg(v.tipo, false, true);
+    if (e) chips += '<span class="chip">' + esc(e.corto) + '</span>';
+    if (p && p.camara_actual) chips += '<span class="chip">Ahora en ' + esc(p.camara_actual === 'Senado' ? 'el Senado' : 'la Cámara') + '</span>';
+    if (proxima) chips += '<span class="chip">Citado el ' + esc(fCorta(proxima.fecha)) + '</span>';
+
+    main.innerHTML =
+      '<section class="envoltura ficha-encabezado" aria-labelledby="titulo">' +
+      '<nav class="migas" aria-label="Ruta"><a href="' + BASE + 'index.html">Urgencias</a><span aria-hidden="true">/</span><span>Boletín ' + esc(b) + '</span></nav>' +
+      '<div class="chips">' + chips + '</div>' +
+      ((F && F.sintesis && p) ? '<p class="titulo-oficial"><b>Título oficial</b>' + esc(p.titulo) + '</p>' : '<p class="titulo-oficial"><b>Título oficial del proyecto</b></p>') +
+      '<h1 id="titulo">' + esc(titulo) + '</h1>' +
+      (completa ? '<section class="vidrio csa" aria-labelledby="h-csa"><div><p class="eyebrow">Antes de leer</p><h2 id="h-csa">Esta ficha es un trabajo de ' + t('csa', 'ciencias sociales aplicadas') + '</h2>'
+        : '<details class="vidrio csa csa-breve"><summary><span class="eyebrow">Antes de leer</span><span class="csa-titulo">Cómo se hacen las fichas: ciencias sociales aplicadas</span><span class="abrir"></span></summary><div>') +
+      '<p>Las ciencias sociales estudian cómo actúan las personas, los grupos y las instituciones. Son <i>aplicadas</i> cuando usan esos conocimientos para responder una pregunta práctica con un método que cualquiera puede revisar. Aquí la pregunta es simple: qué propone este proyecto, quién se ha pronunciado sobre él y cómo se discute en público.</p>' +
+      '<p>Cada parte de la ficha usa una herramienta distinta. Al abrir cada bloque verá cuál es, por qué la usamos, qué no puede decir y para qué sirve. Cada afirmación lleva una de estas tres etiquetas:</p></div>' +
+      '<div class="tipos"><div class="tipo"><strong><span class="et et-hecho">Hecho</span></strong><p>Consta en un documento que se puede revisar: el proyecto, una votación, una declaración publicada. Siempre enlaza a su fuente.</p></div>' +
+      '<div class="tipo"><strong><span class="et et-estim">Estimación</span></strong><p>Una inferencia a partir de hechos. Puede fallar, por eso declara su margen de error y se verifica después.</p></div>' +
+      '<div class="tipo"><strong><span class="et et-interp">Interpretación</span></strong><p>Una lectura argumentada de los hechos. Muestra en qué se apoya para que el lector pueda discutirla.</p></div></div>' + (completa ? '</section>' : '</details>') +
+      '</section>' +
+      '<div class="envoltura ficha-cuerpo con-flotante">' +
+      '<aside class="ficha-lateral" aria-label="Resumen de la ficha"><section class="vidrio"><h2>En esta ficha</h2><ol class="indice">' + indice.join('') + '</ol></section>' +
+      '<section class="vidrio"><h2>Datos clave</h2>' + datos + '</section></aside>' +
+      bloques.join('') + invitacion + fuentesHTML + '</div>' +
+      '<a class="boton flotante oculto" href="' + urlAsesoria('solicitar') + '">Solicitar asesoría</a>';
+    botonFlotante();
+    if (location.hash) { var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }
+  }
+
+  /* El botón flotante aparece después del primer bloque y se oculta cuando la invitación
+     completa o el pie están a la vista, para no tapar lo que se lee. */
+  function botonFlotante() {
+    var btn = $('.flotante');
+    if (!btn) return;
+    var tapan = 0, bajo = false;
+    function aplicar() { btn.classList.toggle('oculto', !bajo || tapan > 0); }
+    window.addEventListener('scroll', function () { var b = window.scrollY > 480; if (b !== bajo) { bajo = b; aplicar(); } }, { passive: true });
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (es) {
+        es.forEach(function (e) { tapan += e.isIntersecting ? 1 : (e.target._visto ? -1 : 0); e.target._visto = e.isIntersecting; });
+        tapan = Math.max(0, tapan); aplicar();
+      });
+      document.querySelectorAll('.invitacion, .pie').forEach(function (x) { io.observe(x); });
+    }
+  }
+
+  /* ---------- producción de Lo Común ----------
+     Lee el resumen que publica locomun.cl; si no responde, usa la copia que la acción de
+     actualización guarda cada tres horas en data/locomun.json. */
+  function loComun() {
+    var cont = $('#locomun');
+    if (!cont) return;
+    var url = (CFG.locomunUrl || 'https://locomun.cl') + '/contenido/feed.json';
+    fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+      .catch(function () { return cargarOpc('data/locomun.json'); })
+      .then(function (L) {
+        if (!L || !(L.monitor || []).length) { cont.hidden = true; return; }
+        cont.querySelector('.estudios').innerHTML = L.monitor.slice(0, 3).map(function (m) {
+          var url = /^https?:\/\//.test(m.url || '') ? m.url : (CFG.locomunUrl || 'https://locomun.cl') + '/#monitor';
+          return '<article class="tarjeta estudio"><div class="tarjeta-cuerpo"><p class="num-bloque">Monitor económico · Estudio ' + esc(m.numero) + '</p>' +
+            '<h3>' + esc(m.titulo) + '</h3><p>' + esc(m.resumen) + '</p>' +
+            ((m.cifras || []).length ? '<ul class="cifras-estudio">' + m.cifras.slice(0, 3).map(function (c) { return '<li><b>' + esc(c[0]) + '</b><span>' + esc(c[1]) + '</span></li>'; }).join('') + '</ul>' : '') +
+            '<p class="nota" style="color:var(--tinta-suave)">' + esc([m.autor, m.fecha_texto].filter(Boolean).join(' · ')) + '</p>' +
+            '<a class="boton boton-indigo" href="' + esc(url) + '" rel="noopener">Ver el estudio</a></div></article>';
+        }).join('');
+      });
   }
 
   /* ---------- arranque ---------- */
   document.addEventListener('DOMContentLoaded', function () {
-    bannerAporte();
+    iniciarGlosario();
+    document.querySelectorAll('[data-correo]').forEach(function (x) { x.textContent = CFG.correo || ''; });
     var pagina = document.body.getAttribute('data-pagina');
-    if (pagina === 'portada' || pagina === 'ficha') {
-      cargar('data/urgencias.json').then(function (datos) {
-        avisoMuestra(datos);
-        if (pagina === 'portada') portada(datos); else ficha(datos);
-      }).catch(function () {
-        var t = $('#tabla-cuerpo') || $('#ficha');
-        if (t) t.innerHTML = '<p class="vacio">No pudimos cargar los datos. Intenta de nuevo en unos minutos.</p>';
-      });
-    }
+    if (['portada', 'ficha', 'agenda'].indexOf(pagina) === -1) return;
+    Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json')]).then(function (r) {
+      var U = r[0], A = r[1], IDX = r[2] || {};
+      if (pagina === 'portada') { portada(U, A, IDX); loComun(); }
+      else if (pagina === 'agenda') agenda(U, A, IDX);
+      else ficha(U, A, IDX);
+    }).catch(function () {
+      var m = $('main');
+      if (m) m.insertAdjacentHTML('afterbegin', '<div class="envoltura"><p class="aviso" style="margin-top:20px">No pudimos cargar los datos. Intente de nuevo en unos minutos.</p></div>');
+    });
   });
 })();

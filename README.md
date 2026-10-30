@@ -1,34 +1,43 @@
 # Urgencias Kast
 
-Sitio de seguimiento de las urgencias que el gobierno pone a sus proyectos de ley.
-Producción pública de Ruta Crece: Laboratorio de Relato y Producción Narrativa.
+Sitio público de seguimiento legislativo: los proyectos que el Ejecutivo apura con urgencias y la agenda del
+Congreso para las próximas dos semanas, con fichas verificadas y lenguaje claro.
+Una producción de Lo Común: Laboratorio de Relato y Producción Narrativa. Dirección: https://urgenciaskast.cl
+
+## No borrar
+
+- **`CNAME`** (raíz de `main`): fija el dominio `urgenciaskast.cl`. La acción de actualización nunca lo toca.
+- **Registro TXT de verificación de GitHub** en Cloudflare: mantiene el dominio verificado.
 
 ## Cómo funciona
 
-- El sitio es HTML, CSS y JavaScript, sin servidor ni base de datos. Se publica gratis con GitHub Pages.
-- Cada 3 horas, GitHub ejecuta `scripts/actualizar.py`, que consulta los datos abiertos del Senado y de la Cámara
-  y guarda el resultado en `data/urgencias.json`. El sitio lee ese archivo.
-- Si una consulta falla, el archivo anterior se mantiene, para que el sitio nunca quede vacío.
+Todo es HTML, CSS y JavaScript estático, publicado con GitHub Pages desde la rama `main`. Cada 3 horas, y cada vez
+que se publica una ficha o se edita una página, la acción **Actualizar urgencias** (`.github/workflows/actualizar.yml`):
 
-## Tareas habituales (sin programar)
+1. `scripts/actualizar.py`: consulta el Senado y la Cámara y escribe `data/urgencias.json`. Quita urgencias
+   duplicadas, separa renovaciones de cambios de tipo y calcula plazos según la Ley 18.918 (artículos 27, 28 y 70).
+2. `scripts/agenda.py`: arma `data/agenda.json` con las citaciones de comisiones de ambas cámaras para dos semanas
+   (confirmado) y los plazos de urgencia que vencen sin citación (probable).
+3. Copia `https://locomun.cl/contenido/feed.json` en `data/locomun.json` (estudios y publicaciones de Lo Común).
+4. `scripts/paginas.py --sitio`: genera las páginas desde `fuente/`, una página por proyecto en `p/` (con título y
+   descripción propios para compartir), `data/feed.json` (resumen que muestra locomun.cl) y `sitemap.xml`.
 
-Todas se hacen desde la web de GitHub: abrir el archivo, presionar el lápiz (Edit), cambiar y presionar "Commit changes".
+Si una fuente falla, se conservan los datos anteriores y el sitio sigue funcionando.
 
-| Quiero… | Archivo |
+## Contenido
+
+| Qué | Dónde |
 |---|---|
-| Poner el enlace de aportes o el correo de contacto | `assets/config.js` |
-| Publicar la lectura política de un proyecto | Crear `data/lecturas/NUMERO-BOLETIN.json` copiando `data/lecturas/00000-03.json` |
-| Seguir un boletín que el sitio no encontró solo | Agregarlo en `data/boletines_extra.txt` |
-| Sumar las urgencias simples | Agregar `'Simple'` en `assets/config.js` y en `NIVELES` de `scripts/actualizar.py` |
-| Forzar una actualización ahora | Pestaña Actions → "Actualizar urgencias" → "Run workflow" |
+| Textos de las páginas | `fuente/*.html` (se publican solos al guardar) |
+| Fichas verificadas de proyectos | `data/fichas/BOLETIN.json`, que publica el panel de revisión |
+| Serie Prueba pública | `data/analisis.json` y `fuente/analisis/` |
+| Glosario | `data/glosario.json` |
+| Correo y enlace de aportes | `assets/config.js` |
+| Boletines que se quieran seguir siempre | `data/boletines_extra.txt` |
 
-## Primera puesta en marcha
-
-1. Settings → Pages → Source: "Deploy from a branch", rama `main`, carpeta `/ (root)`.
-2. Actions → "Actualizar urgencias" → "Run workflow". Al terminar, el aviso de "datos de muestra" desaparece.
-3. Dominio propio: Settings → Pages → Custom domain, y en el proveedor del dominio un registro CNAME hacia `USUARIO.github.io`.
-4. Antes de publicar, borrar `data/lecturas/00000-03.json` o reemplazarlo por lecturas reales.
+Ninguna ficha se publica sin revisión humana: los borradores se redactan y se aprueban en el repositorio privado
+`urgenciaskast-revision`, cuyo panel escribe aquí solo después de completar la lista de verificación.
 
 ## Licencia
 
-Contenido: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).
+Contenido y datos: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).

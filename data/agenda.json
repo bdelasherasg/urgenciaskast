@@ -1,0 +1,161 @@
+{
+ "actualizado": "2026-10-29T23:21-03:00",
+ "desde": "2026-10-29",
+ "hasta": "2026-11-11",
+ "fuentes": {
+  "senado": {
+   "estado": "sin_actualizar",
+   "detalle": "Primera consulta pendiente.",
+   "conservadas": 0,
+   "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
+  },
+  "camara": {
+   "estado": "sin_actualizar",
+   "detalle": "Primera consulta pendiente.",
+   "conservadas": 0,
+   "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-44"
+  }
+ },
+ "sesiones": [],
+ "probables": [
+  {
+   "boletin": "16335-14",
+   "vence": "2026-10-30",
+   "tipo": "Discusión inmediata",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18314-07",
+   "vence": "2026-11-02",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18806-07",
+   "vence": "2026-11-02",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "14782-13",
+   "vence": "2026-11-03",
+   "tipo": "Discusión inmediata",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18208-25",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18286-03",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18341-25",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18478-13",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18643-05",
+   "vence": "2026-11-03",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18709-07",
+   "vence": "2026-11-03",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18754-17",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "12712-24",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "16143-02",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17567-11",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18029-17",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18155-25",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18255-31",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18258-07",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18389-04",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18464-14",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18585-25",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18644-14",
+   "vence": "2026-11-10",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18584-25",
+   "vence": "2026-11-11",
+   "tipo": "Suma",
+   "camara": "Senado"
+  }
+ ],
+ "proyectos": {}
+}

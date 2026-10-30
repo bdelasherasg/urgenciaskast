@@ -1,9 +1,20 @@
 name: Actualizar urgencias
 
+# Corre cada 3 horas y también cuando se publica una ficha, se edita una página en fuente/
+# o cambia el código del sitio. Nunca borra ni modifica el archivo CNAME del dominio.
 on:
   schedule:
     # Cada 3 horas, en el minuto 17 (hora UTC).
     - cron: '17 */3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'fuente/**'
+      - 'data/fichas/**'
+      - 'data/analisis.json'
+      - 'data/glosario.json'
+      - 'assets/**'
+      - 'scripts/**'
   workflow_dispatch: {}
 
 permissions:
@@ -16,7 +27,7 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -24,17 +35,34 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Consultar Senado y Cámara
-        run: python scripts/actualizar.py
+      - name: Urgencias (Senado y Cámara)
+        # Si ninguna consulta responde, el archivo anterior se conserva y el resto sigue.
+        run: python scripts/actualizar.py || echo "::warning::No se actualizaron las urgencias; se conserva el archivo anterior."
 
-      - name: Publicar datos nuevos
+      - name: Agenda de dos semanas
+        run: python scripts/agenda.py
+
+      - name: Producción de Lo Común
+        run: |
+          if curl -fsSL --max-time 30 https://locomun.cl/contenido/feed.json -o /tmp/locomun.json \
+             && python -m json.tool /tmp/locomun.json > /dev/null; then
+            cp /tmp/locomun.json data/locomun.json
+          else
+            echo "::warning::No se pudo leer locomun.cl; se conserva la copia anterior."
+          fi
+
+      - name: Páginas, fichas, resumen y mapa del sitio
+        run: python scripts/paginas.py --sitio
+
+      - name: Publicar
         run: |
           git config user.name "urgencias-bot"
           git config user.email "urgencias-bot@users.noreply.github.com"
-          git add data/urgencias.json
+          git add data p sitemap.xml assets/glosario.js ./*.html analisis
           if git diff --cached --quiet; then
-            echo "Sin cambios en los datos."
+            echo "Sin cambios."
           else
-            git commit -m "Actualiza urgencias"
+            git commit -m "Actualiza urgencias, agenda y fichas"
+            git pull --rebase origin main
             git push
           fi

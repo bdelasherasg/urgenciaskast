@@ -1,0 +1,81 @@
+{
+ "sitio": "https://urgenciaskast.cl",
+ "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
+ "actualizado": "2026-10-29T22:13-03:00",
+ "conteos": {
+  "urgencias_vigentes": 24,
+  "discusion_inmediata": 6,
+  "vencen_7_dias": 21,
+  "citaciones_7_dias": 0
+ },
+ "proximos_vencimientos": [
+  {
+   "boletin": "16335-14",
+   "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/16335-14.html"
+  },
+  {
+   "boletin": "18314-07",
+   "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-02",
+   "url": "https://urgenciaskast.cl/p/18314-07.html"
+  },
+  {
+   "boletin": "18806-07",
+   "titulo": "Proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-02",
+   "url": "https://urgenciaskast.cl/p/18806-07.html"
+  },
+  {
+   "boletin": "14782-13",
+   "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-03",
+   "url": "https://urgenciaskast.cl/p/14782-13.html"
+  },
+  {
+   "boletin": "18208-25",
+   "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-03",
+   "url": "https://urgenciaskast.cl/p/18208-25.html"
+  },
+  {
+   "boletin": "18286-03",
+   "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-03",
+   "url": "https://urgenciaskast.cl/p/18286-03.html"
+  }
+ ],
+ "agenda": [],
+ "fichas_recientes": [
+  {
+   "boletin": "18623-07",
+   "sintesis": "Posterga hasta el 15 de octubre de 2027 la ley de datos personales y amplía de tres a cinco el consejo de la Agencia. El Senado lo aprobó; ahora lo revisa la Cámara.",
+   "publicado": "2026-10-29",
+   "url": "https://urgenciaskast.cl/p/18623-07.html"
+  }
+ ],
+ "analisis": [
+  {
+   "serie": "Prueba pública",
+   "numero": 1,
+   "titulo": "Falsabilidad y discurso político: una prueba pública a los primeros siete meses del gobierno de Kast",
+   "autor": "Bernardo de Las Heras",
+   "fecha": "2026-10-20",
+   "resumen": "Una afirmación política tiene valor de conocimiento cuando indica qué hechos la dejarían en evidencia. El artículo explica el criterio de falsabilidad de Karl Popper y lo aplica a las principales afirmaciones del gobierno entre marzo y octubre de 2026.",
+   "url": "https://urgenciaskast.cl/analisis/falsabilidad-kast.html"
+  }
+ ]
+}

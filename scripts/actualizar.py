@@ -7,6 +7,7 @@ Fuentes:
     historial de urgencias (servicio público wspublico).
   - data/boletines_extra.txt: boletines que se quieran seguir aunque no aparezcan arriba.
 
+Incluye mensajes y mociones: la urgencia la pone el Ejecutivo en ambos casos.
 Usa solo la biblioteca estándar de Python. Si no logra obtener ningún proyecto,
 no sobrescribe el archivo existente y termina con error, para no publicar un sitio vacío.
 """
@@ -26,7 +27,10 @@ EXTRA = os.path.join(RAIZ, 'data', 'boletines_extra.txt')
 # Niveles de urgencia que se publican. Para sumar las simples, agregar 'Simple'
 # aquí y en assets/config.js.
 NIVELES = ['Discusión inmediata', 'Suma']
+# Ley 18.918, art. 27: plazo en la cámara requerida, en días corridos (art. 70), desde que se da cuenta.
 PLAZOS = {'Discusión inmediata': 6, 'Suma': 15, 'Simple': 30}
+# Ley 18.918, art. 28: plazos en comisión mixta y en cada cámara al tratar su informe.
+PLAZOS_MIXTA = {'Discusión inmediata': 2, 'Suma': 5, 'Simple': 10}
 INICIO = dt.date(2026, 3, 11)          # inicio del gobierno
 DIAS_MOVIMIENTO = 21                    # días hacia atrás para buscar proyectos con movimiento
 
@@ -192,25 +196,112 @@ def en_congreso(p):
     return not any(x in etapa for x in ETAPAS_FUERA)
 
 
-def completar(p):
+def depurar_urgencias(urgencias):
+    """Quita duplicados del servicio del Senado.
+
+    - Entradas idénticas (mismo tipo, fecha y oficio).
+    - Entradas sin cámara que repiten el tipo y la fecha de otra con cámara: corresponden al
+      número del mensaje de ingreso, no a una urgencia distinta.
+    """
+    vistos, salida = set(), []
+    for u in urgencias:
+        clave = (u.get('tipo'), u.get('ingreso'), u.get('oficio'))
+        if clave in vistos:
+            continue
+        vistos.add(clave)
+        salida.append(u)
+    con_camara = {(u['tipo'], u['ingreso']) for u in salida if u.get('camara')}
+    salida = [u for u in salida if u.get('camara') or (u['tipo'], u['ingreso']) not in con_camara]
+    salida.sort(key=lambda u: (u.get('ingreso') or '', u.get('oficio') or ''))
+    return salida
+
+
+RE_DESPACHO = re.compile(r'oficio\s+de\s+ley|c[aá]mara\s+revisora|c[aá]mara\s+de\s+origen', re.I)
+
+
+def otra_camara(c):
+    return {'Senado': 'Cámara de Diputados', 'Cámara de Diputados': 'Senado'}.get(c, '')
+
+
+def completar(p, hoy=None):
+    hoy = hoy or dt.date.today()
     inicio = INICIO.isoformat()
+    p['urgencias'] = depurar_urgencias(p.get('urgencias') or [])
     del_gobierno = [u for u in p['urgencias'] if (u['ingreso'] or '') >= inicio]
-    p['renovaciones'] = max(0, len(del_gobierno) - 1)
-    vigentes = [u for u in p['urgencias'] if not u['retiro'] and u['tipo'] == p['urgencia_actual']]
-    vig = vigentes[-1] if vigentes else (del_gobierno[-1] if del_gobierno else None)
+
+    # Renovación: el gobierno vuelve a poner una urgencia del mismo tipo.
+    # Cambio de tipo: pasa de una urgencia a otra (por ejemplo, de suma a discusión inmediata).
+    renovaciones = cambios = 0
+    for a, b in zip(del_gobierno, del_gobierno[1:]):
+        if a['tipo'] == b['tipo']:
+            renovaciones += 1
+        else:
+            cambios += 1
+    p['renovaciones'] = renovaciones
+    p['cambios_tipo'] = cambios
+    p['urgencias_gobierno'] = len(del_gobierno)
+
+    actual = p.get('urgencia_actual') or ''
+    del_tipo = [u for u in p['urgencias'] if u['tipo'] == actual]
+    abiertas = [u for u in del_tipo if not u['retiro']]
+    vig = abiertas[-1] if abiertas else (del_tipo[-1] if del_tipo else (del_gobierno[-1] if del_gobierno else None))
+
+    ultimo = next((t for t in reversed(p.get('tramites') or []) if t.get('camara')), None)
+    p['camara_actual'] = ultimo['camara'] if ultimo else p.get('camara_origen', '')
+    texto_etapa = ((p.get('etapa') or '') + ' ' + (p.get('subetapa') or '')).lower()
+    mixta = 'mixta' in texto_etapa
+
+    vigente = {'tipo': actual, 'desde': None, 'vence': None, 'camara': '', 'estado': 'sin_dato', 'plazo_dias': None}
     if vig and vig['ingreso']:
+        plazo = (PLAZOS_MIXTA if mixta else PLAZOS).get(actual or vig['tipo'], 0)
         desde = dt.date.fromisoformat(vig['ingreso'])
-        vence = desde + dt.timedelta(days=PLAZOS.get(p['urgencia_actual'], 0))
-        p['urgencia_vigente'] = {'tipo': p['urgencia_actual'], 'desde': vig['ingreso'], 'vence': vence.isoformat()}
-    else:
-        p['urgencia_vigente'] = {'tipo': p['urgencia_actual'], 'desde': None, 'vence': None}
-    if p['fecha_ingreso']:
-        p['dias_tramite'] = (dt.date.today() - dt.date.fromisoformat(p['fecha_ingreso'])).days
+        vence = desde + dt.timedelta(days=plazo)
+        vigente.update({'tipo': actual or vig['tipo'], 'desde': vig['ingreso'], 'vence': vence.isoformat(),
+                        'camara': vig.get('camara') or '', 'plazo_dias': plazo, 'oficio': vig.get('oficio') or ''})
+        # El proyecto salió de la cámara donde corría la urgencia: el plazo se cuenta de nuevo
+        # cuando la otra cámara dé cuenta de una urgencia (art. 27).
+        despachado = any(
+            (t.get('fecha') or '') >= vig['ingreso'] and RE_DESPACHO.search(t.get('descripcion') or '')
+            and (not vig.get('camara') or t.get('camara') == vig.get('camara'))
+            for t in (p.get('tramites') or [])
+        )
+        if not despachado and 'revisora' in (p.get('subetapa') or '').lower():
+            despachado = normalizar_camara(p.get('etapa') or '') == vig.get('camara')
+        if 'finaliz' in texto_etapa:
+            # Ambas cámaras terminaron de votarlo; la cámara de origen lo comunica.
+            vigente['estado'] = 'finalizado'
+        elif despachado and not mixta:
+            vigente['estado'] = 'en_espera'
+            if vig.get('camara'):
+                p['camara_actual'] = otra_camara(vig['camara'])
+        else:
+            vigente['estado'] = 'vigente' if vence >= hoy else 'vencida'
+        vigente['mixta'] = mixta
+    p['urgencia_vigente'] = vigente
+    if p.get('fecha_ingreso'):
+        p['dias_tramite'] = (hoy - dt.date.fromisoformat(p['fecha_ingreso'])).days
     else:
         p['dias_tramite'] = None
-    ultimo = next((t for t in reversed(p['tramites']) if t['camara']), None)
-    p['camara_actual'] = ultimo['camara'] if ultimo else p['camara_origen']
     return p
+
+
+def orden(p):
+    v = p['urgencia_vigente']
+    grupo = {'vigente': 0, 'vencida': 1, 'en_espera': 2, 'finalizado': 3}.get(v.get('estado'), 4)
+    return (grupo, v.get('vence') or '9999', p['boletin'])
+
+
+def recalcular():
+    """Recalcula los campos derivados del archivo existente, sin consultar fuentes."""
+    with open(SALIDA, encoding='utf-8') as f:
+        datos = json.load(f)
+    for p in datos['proyectos']:
+        completar(p)
+    datos['proyectos'] = [p for p in datos['proyectos'] if p['urgencias_gobierno']]
+    datos['proyectos'].sort(key=orden)
+    with open(SALIDA, 'w', encoding='utf-8') as f:
+        json.dump(datos, f, ensure_ascii=False, indent=1)
+    print(f'Recalculado: {len(datos["proyectos"])} proyectos.')
 
 
 def principal():
@@ -222,14 +313,12 @@ def principal():
         time.sleep(0.4)
         if not p:
             continue
-        if not p['iniciativa'].lower().startswith('mensaje'):
-            continue
         if p['urgencia_actual'] not in NIVELES:
             continue
         if not en_congreso(p):
             continue  # ya despachado, publicado, archivado o fuera del Congreso
         p = completar(p)
-        if not any((u['ingreso'] or '') >= INICIO.isoformat() for u in p['urgencias']):
+        if not p['urgencias_gobierno']:
             continue  # urgencia puesta antes de este gobierno
         proyectos.append(p)
         print(f'  [{i}/{len(lista)}] {p["boletin"]} · {p["urgencia_actual"]}')
@@ -240,7 +329,7 @@ def principal():
             print('  ' + e, file=sys.stderr)
         sys.exit(1)
 
-    proyectos.sort(key=lambda p: (p['urgencia_vigente']['vence'] or '9999', p['boletin']))
+    proyectos.sort(key=orden)
     zona = dt.timezone(dt.timedelta(hours=-3))
     salida = {
         'actualizado': dt.datetime.now(zona).isoformat(timespec='minutes'),
@@ -248,6 +337,7 @@ def principal():
         'inicio_gobierno': INICIO.isoformat(),
         'niveles': NIVELES,
         'fuentes': ['Senado, servicio wspublico de tramitación', 'Cámara de Diputadas y Diputados, datos abiertos'],
+        'plazos': {'normal': PLAZOS, 'comision_mixta': PLAZOS_MIXTA},
         'proyectos': proyectos,
         'errores_de_consulta': len(errores),
     }
@@ -258,4 +348,7 @@ def principal():
 
 
 if __name__ == '__main__':
-    principal()
+    if '--recalcular' in sys.argv:
+        recalcular()
+    else:
+        principal()
