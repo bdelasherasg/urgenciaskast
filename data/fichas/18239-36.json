@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "boletin": "18239-36",
+  "nivel": "completa",
+  "sintesis": "Crea un delito y un juicio especial para sancionar denuncias falsas, sobre todo en causas de familia y delitos sexuales. Está en su primer trámite, en la Comisión de Constitución del Senado.",
+  "materia": "la sanción de las denuncias falsas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Sus autores dicen que crecen las denuncias usadas para ganar ventaja en juicios de familia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agregan que la ley no tiene una vía propia para reparar el daño al denunciado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea un juicio especial para declarar que una denuncia fue falsa.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Lo puede pedir quien fue absuelto o sobreseído, es decir, liberado de la causa.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El juez puede ordenar pagar los daños y retractarse en público.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea un delito para quien hizo una denuncia que un juez declaró falsa.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La pena sería de 541 días a cinco años de cárcel, más multa.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Sube si la denuncia trata de delitos sexuales o de una causa de familia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes denuncian, a los denunciados, a sus hijos y a los peritos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar un informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Corte Suprema dijo que el juicio especial no es adecuado.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En agosto, la Comisión de Familia del Senado lo aprobó.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 5 de octubre, la Comisión de la Mujer rechazó la idea de legislar.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Ahora lo revisa la Comisión de Constitución, con urgencia de discusión inmediata.",
+        "fuentes": [
+          "f4",
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Fundación para la Confianza",
+      "tipo": "Organización de protección de la infancia",
+      "vocero": "José Andrés Murillo, director ejecutivo",
+      "postura": "En contra",
+      "argumento": "Rechaza el proyecto en su forma actual. Advierte que podría desalentar denuncias legítimas de violencia sexual y recuerda que el artículo 211 del Código Penal ya castiga la acusación calumniosa. Si el proyecto sigue, pide sancionar solo a quien conoce la falsedad y excluir a niños y a quienes denuncian por obligación legal.",
+      "fecha": "Octubre de 2026 (informada el 18 de octubre de 2026)",
+      "fuentes": [
+        "f4",
+        "f5"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "Entre mayo y octubre de 2026 no encontramos declaraciones públicas con una postura clara de colegios profesionales, gremios de abogados, sindicatos ni municipios. La Fundación Falsas Denuncias, Corporación Humanas, la Red Chilena contra la Violencia hacia las Mujeres, la Asociación de Abogadas Feministas y la Asociación de Magistradas y Magistrados expusieron ante la Comisión de la Mujer, pero no encontramos el contenido de sus exposiciones.",
+  "encuadre": {
+    "intro": "En la prensa revisada aparecen dos maneras de presentar el mismo proyecto.",
+    "marcos": [
+      {
+        "titulo": "Sancionar el uso instrumental de las denuncias",
+        "quienes": "Autores de la moción",
+        "problema": "Hay denuncias falsas que se usan para ganar ventaja en juicios de familia y que separan a hijos de un padre o madre.",
+        "problema_fuentes": [
+          "f1",
+          "f4"
+        ],
+        "causa": "La ley no tiene una vía propia para declarar la falsedad y reparar el daño.",
+        "causa_fuentes": [
+          "f1"
+        ],
+        "solucion": "Un juicio especial, un delito nuevo y medidas de reparación.",
+        "solucion_fuentes": [
+          "f1"
+        ],
+        "palabras": [
+          "uso instrumental",
+          "presunción de inocencia",
+          "mentira instrumental"
+        ]
+      },
+      {
+        "titulo": "Proteger a quienes denuncian",
+        "quienes": "Fundación para la Confianza y la mayoría de la Comisión de la Mujer",
+        "problema": "El proyecto podría desalentar denuncias legítimas de violencia sexual.",
+        "problema_fuentes": [
+          "f5",
+          "f6"
+        ],
+        "causa": "Una denuncia sin condena no es por eso falsa, y la mayoría de las causas de abuso sexual infantil terminan por falta de pruebas.",
+        "causa_fuentes": [
+          "f4",
+          "f6"
+        ],
+        "solucion": "Usar las normas que ya existen o, si sigue, sancionar solo a quien conoce la falsedad.",
+        "solucion_fuentes": [
+          "f4",
+          "f5"
+        ],
+        "palabras": [
+          "debido proceso",
+          "denuncias legítimas",
+          "falta de pruebas"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "falsa",
+      "oraciones": [
+        {
+          "texto": "Para los autores, se castiga la mentira consciente y no la falta de pruebas.",
+          "fuentes": [
+            "f6"
+          ]
+        },
+        {
+          "texto": "Para los críticos, una denuncia que no termina en condena no se vuelve falsa por eso.",
+          "fuentes": [
+            "f6",
+            "f5"
+          ]
+        },
+        {
+          "texto": "Los dos lados discuten qué denuncia se puede llamar falsa.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Diario Constitucional, «Proyecto de ley crea sanciones penales y procedimiento especial para denuncias falsas en causas de familia y delitos sexuales»",
+      "url": "https://www.diarioconstitucional.cl/2026/05/20/proyecto-de-ley-crea-sanciones-penales-y-procedimiento-especial-para-denuncias-falsas-en-causas-de-familia-y-delitos-sexuales/",
+      "fecha": "20 de mayo de 2026",
+      "nota": "Fundamentos y contenido de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Poder Judicial, noticia sobre el informe de la Corte Suprema al Senado (boletín 18.239-36)",
+      "url": "https://www.pjud.cl/prensa-y-comunicaciones/noticias-del-poder-judicial/145907",
+      "fecha": "11 de junio de 2026",
+      "nota": "Observaciones de la Corte Suprema al procedimiento del artículo 3."
+    },
+    {
+      "id": "f3",
+      "titulo": "El Dínamo, «Cárcel y multas: las sanciones que establece el proyecto contra denuncias falsas»",
+      "url": "https://www.eldinamo.cl/politica/2026/05/11/carcel-y-multas-las-sanciones-que-establece-el-proyecto-contra-denuncias-falsas/",
+      "fecha": "11 de mayo de 2026",
+      "nota": "Penas y multas propuestas."
+    },
+    {
+      "id": "f4",
+      "titulo": "Emol, «Sanciones por denuncias falsas: El proyecto de la senadora Kaiser y el rechazo de grupos de protección de la infancia»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/18/1214265/proyecto-falsas-denuncias-senadora-kaiser.html",
+      "fecha": "18 de octubre de 2026",
+      "nota": "Estado, indicación sobre dolo directo y posición de la Fundación para la Confianza."
+    },
+    {
+      "id": "f5",
+      "titulo": "Nuevo Poder, «Proyecto sobre denuncias falsas divide Senado por posibles efectos en víctimas de violencia sexual»",
+      "url": "https://www.nuevopoder.cl/proyecto-sobre-denuncias-falsas-divide-senado-por-posibles-efectos-en-victimas-de-violencia-sexual/",
+      "fecha": "18 de octubre de 2026",
+      "nota": "Argumentos de ambos lados."
+    },
+    {
+      "id": "f6",
+      "titulo": "Duplos, «Rechazan sanciones por denuncias falsas y el proyecto sigue su ruta en el Senado»",
+      "url": "https://duplos.cl/actualidad/comision-constitucion-comision-mujer-equidad-genero-mocion-sanciones-97/281311/2026/10/06/",
+      "fecha": "6 de octubre de 2026",
+      "nota": "Rechazo en la Comisión de la Mujer y argumentos del debate."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, ficha de tramitación del boletín 18239-36",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18239-36",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias (según urgencias.json)."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
