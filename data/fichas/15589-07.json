@@ -1,0 +1,198 @@
+{
+  "version": 2,
+  "boletin": "15589-07",
+  "nivel": "completa",
+  "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
+  "materia": "la reforma de la ley de responsabilidad penal adolescente",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El autor de la moción dice que la ley actual es permisiva.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que los jóvenes que cometen delitos violentos salen pronto en libertad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Endurece las reglas para fijar la pena de los adolescentes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea un listado de conductas violentas con sanciones más severas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Da a las víctimas un papel en el proceso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El gobierno anunció cambios al texto, llamados indicaciones.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Uno de ellos trata la reincidencia, es decir, volver a delinquir, como agravante.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley 20.084, que regula la responsabilidad penal adolescente.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Quita la rebaja por buena conducta anterior a quienes ya cumplieron 18 años.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según el gobierno, algunos jóvenes cumplirían su pena en secciones juveniles de cárceles.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los adolescentes acusados de delitos graves.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "También afecta a las víctimas, que podrán participar en el proceso.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El gobierno acompañó un informe de costo en diciembre de 2024.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar los informes financieros de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 17 de septiembre de 2025.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El Senado lo aprobó en general el 7 de julio de 2026, por 37 votos contra 3.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Ahora la comisión de Constitución del Senado lo estudia en detalle.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma desde el 20 de octubre de 2026.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones (gremios, colegios profesionales, centros de estudio ni organizaciones sociales) sobre este proyecto en las notas revisadas, de julio a octubre de 2026. La búsqueda fue incompleta.",
+  "encuadre": {
+    "intro": "Las notas revisadas recogen sobre todo la mirada del autor y del gobierno. No encontramos en ellas argumentos de quienes se oponen.",
+    "marcos": [
+      {
+        "titulo": "Una respuesta más firme ante delitos graves",
+        "quienes": "Autor de la moción y gobierno",
+        "problema": "La ley actual es permisiva y los jóvenes que cometen delitos violentos recuperan pronto la libertad.",
+        "problema_fuentes": [
+          "f1"
+        ],
+        "causa": "Las reglas actuales para fijar la pena no logran una pena proporcional.",
+        "causa_fuentes": [
+          "f1"
+        ],
+        "solucion": "Penas más duras, un listado de delitos violentos y separar a los jóvenes mayores en secciones juveniles.",
+        "solucion_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "palabras": [
+          "permisivo",
+          "endurecimiento",
+          "contaminación criminológica",
+          "reinserción",
+          "seguridad"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "BioBioChile, «Senado aprueba en general proyecto que endurece penas de la Ley de Responsabilidad Adolescente»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/07/senado-aprueba-en-general-proyecto-que-endurece-penas-de-la-ley-de-responsabilidad-adolescente.shtml",
+      "fecha": "7 de julio de 2026",
+      "nota": "Votación en general, contenido de la moción y de las indicaciones anunciadas."
+    },
+    {
+      "id": "f2",
+      "titulo": "Emol, nota sobre la aprobación en general en el Senado",
+      "url": "https://www.emol.com/noticias/Nacional/2026/07/07/1204985/senadro-aprueba-general-responsabilidad-adolescente.html",
+      "fecha": "8 de julio de 2026",
+      "nota": "Votación e indicaciones del gobierno."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, ficha de tramitación del boletín 15589-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15589-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas, trámites y urgencias (vía urgencias.json)."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara de Diputadas y Diputados, ficha de tramitación del boletín 15589-07",
+      "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=15589-07",
+      "fecha": "Consulta automática",
+      "nota": "Primer trámite (vía urgencias.json)."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
