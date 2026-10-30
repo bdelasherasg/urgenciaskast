@@ -1,0 +1,313 @@
+{
+  "version": 2,
+  "boletin": "18525-06",
+  "nivel": "completa",
+  "sintesis": "Ajusta la ley de seguridad municipal: deja a los municipios gastar más en inspectores y da más plazo para cumplir requisitos. El Senado lo aprobó con cambios y la Cámara los revisa.",
+  "materia": "la ley corta de seguridad municipal",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que muchos municipios no podrían cumplir la Ley 21.802.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esa ley suma el sueldo de su personal de seguridad al tope de 42% de gasto en personal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La comisión de la Cámara aprobó pasar ese tope en hasta 5% de los ingresos propios.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También aprobó usar 15% o 25% para inspectores en casos especiales, con permiso previo.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El texto del Senado también permite, en casos especiales, un porcentaje mayor para inspectores.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Las pruebas físicas y psicológicas podrán hacerse en clínicas públicas o privadas.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión del Senado sumó seis meses de plazo para cumplir la ley.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia la Ley 21.802 y el límite de gasto en personal municipal.",
+        "fuentes": [
+          "f2",
+          "f7"
+        ]
+      },
+      {
+        "texto": "Los inspectores podrán tener contrato según el Código del Trabajo.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los municipios, a sus inspectores y a quienes manejan sus autos de seguridad.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Un informe de Presupuestos dice que los cambios del gobierno no tienen costo fiscal.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar los otros dos informes financieros.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 18 de agosto de 2026.",
+        "fuentes": [
+          "f8",
+          "f4"
+        ]
+      },
+      {
+        "texto": "El Senado lo aprobó el 27 de octubre, con cambios.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "La Cámara empezó a ver esos cambios el 28 de octubre.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia de discusión inmediata: seis días para votarlo.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Municipalidades de Puerto Montt, Mulchén y Quilaco",
+      "tipo": "Municipios",
+      "vocero": "Rodrigo Wainraihgt, José Miguel Muñoz y Pablo Urrutia, alcaldes",
+      "postura": "A favor",
+      "argumento": "Respaldan la ley corta como un ajuste necesario. Sostienen que aplicar la ley sin un reglamento claro habría perjudicado sobre todo a comunas pequeñas y rurales, y piden que el Congreso la despache pronto.",
+      "fecha": "12 de agosto de 2026",
+      "fuentes": [
+        "f9"
+      ]
+    },
+    {
+      "organizacion": "Municipalidades de Independencia y San Bernardo",
+      "tipo": "Municipios",
+      "vocero": "Agustín Iglesias y Christopher White, alcaldes",
+      "postura": "Con reparos",
+      "argumento": "Critican la demora del Senado. Sostienen que contratar inspectores con recursos propios no equivale a recibir recursos nuevos, y piden fondos para seguridad municipal en el Presupuesto 2027.",
+      "fecha": "23 de septiembre de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    },
+    {
+      "organizacion": "Confederación Unión de Funcionarios Municipales de Chile (UFEMUCH)",
+      "tipo": "Organización de trabajadores municipales",
+      "vocero": "Eduardo Pastene, presidente",
+      "postura": "Con reparos",
+      "argumento": "Expresó reparos centrados en la seguridad de los trabajadores municipales y sus familias, y recordó agresiones graves sufridas por funcionarios que hacen tareas de seguridad.",
+      "fecha": "9 de septiembre de 2026",
+      "fuentes": [
+        "f11"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones propias de la Asociación Chilena de Municipalidades ni de AMUCH sobre este proyecto, ni de gremios empresariales, centros de estudio u organizaciones vecinales, entre agosto y octubre de 2026.",
+  "encuadre": {
+    "intro": "En las pocas notas de prensa revisadas aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Una ley que hay que ajustar para aplicarla",
+        "quienes": "Gobierno y alcaldes de Puerto Montt, Mulchén y Quilaco",
+        "problema": "Muchos municipios no podrían cumplir la ley de seguridad municipal tal como está.",
+        "problema_fuentes": [
+          "f1"
+        ],
+        "causa": "La ley suma el sueldo del personal de seguridad al tope de gasto en personal y exige una licencia que no se puede obtener.",
+        "causa_fuentes": [
+          "f1"
+        ],
+        "solucion": "Una ley corta con un tope de gasto especial y más plazo para cumplir requisitos.",
+        "solucion_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "palabras": [
+          "ley corta",
+          "ajuste necesario",
+          "improvisaciones"
+        ]
+      },
+      {
+        "titulo": "Más tareas sin recursos nuevos",
+        "quienes": "Alcaldes de Independencia y San Bernardo",
+        "problema": "Cada municipio debe financiar con sus propios ingresos las nuevas tareas de seguridad.",
+        "problema_fuentes": [
+          "f10"
+        ],
+        "causa": "Se traspasan responsabilidades sin recursos nuevos, y la seguridad pasa a depender de la riqueza de cada comuna.",
+        "causa_fuentes": [
+          "f10"
+        ],
+        "solucion": "Recursos nuevos para seguridad municipal en el Presupuesto 2027 y un despacho más rápido.",
+        "solucion_fuentes": [
+          "f10"
+        ],
+        "palabras": [
+          "recursos nuevos",
+          "capacidad financiera",
+          "lentitud"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "recursos",
+      "oraciones": [
+        {
+          "texto": "Para el ministro de Seguridad Pública, los municipios necesitarán más recursos y personal, y el proyecto amplía sus opciones de contratación.",
+          "fuentes": [
+            "f12"
+          ]
+        },
+        {
+          "texto": "Para el alcalde de Independencia, contratar más inspectores con recursos propios no equivale a recibir recursos nuevos.",
+          "fuentes": [
+            "f10"
+          ]
+        },
+        {
+          "texto": "Un lado habla de margen para gastar y el otro de dinero adicional.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "BioBioChile, «Gobierno presenta ley corta de seguridad municipal y aplaza exigencias de la nueva normativa»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/gobierno-presenta-ley-corta-de-seguridad-municipal-y-aplaza-exigencias-de-la-nueva-normativa.shtml",
+      "fecha": "4 de agosto de 2026",
+      "nota": "Fundamentos y contenido del mensaje; lo que dice el informe financiero sobre el costo."
+    },
+    {
+      "id": "f2",
+      "titulo": "DOE Actualidad Jurídica, «Gobierno ingresa proyecto de ley para modificar la Ley N° 21.802 sobre seguridad municipal»",
+      "url": "https://actualidadjuridica.doe.cl/gobierno-ingresa-proyecto-de-ley-para-modificar-la-ley-n-21-802-sobre-seguridad-municipal/",
+      "fecha": "6 de agosto de 2026",
+      "nota": "Mensaje N° 125-374: problema declarado, contenido y afectados."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputadas y Diputados, «Remiten a Sala norma que fortalece institucionalidad de seguridad municipal»",
+      "url": "https://www.camara.cl/cms/2026/08/12/remiten-a-sala-norma-que-fortalece-institucionalidad-de-seguridad-municipal/",
+      "fecha": "12 de agosto de 2026",
+      "nota": "Texto aprobado por la Comisión de Gobierno Interior."
+    },
+    {
+      "id": "f4",
+      "titulo": "G5noticias, «Ley corta de seguridad municipal: proyecto que facilita su implementación avanza al Senado»",
+      "url": "https://g5noticias.cl/2026/08/21/ley-corta-de-seguridad-municipal-proyecto-que-facilita-su-implementacion-avanza-al-senado/",
+      "fecha": "21 de agosto de 2026",
+      "nota": "Aprobación en la Cámara y despacho al Senado."
+    },
+    {
+      "id": "f5",
+      "titulo": "Dirección de Presupuestos, Informe Financiero Complementario N° 194",
+      "url": "https://www.dipres.gob.cl/604/articles-423340_doc_pdf.pdf",
+      "fecha": "10 de agosto de 2026",
+      "nota": "Efecto fiscal de las indicaciones N° 135-374."
+    },
+    {
+      "id": "f6",
+      "titulo": "G5noticias, nota sobre el avance de la ley corta en la Comisión de Gobierno del Senado",
+      "url": "https://g5noticias.cl/?p=919938",
+      "fecha": "6 de octubre de 2026",
+      "nota": "Cambios acordados en la comisión del Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Diario Estrategia, «Seguridad pública y prevención del delito: respaldan proyecto que fortalece institucionalidad municipal»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6063545/seguridad-publica-prevencion-delito-respaldan-proyecto-fortalece-institucionalidad-municipal",
+      "fecha": "23 de octubre de 2026",
+      "nota": "Aprobación en general en la Sala del Senado y contenido."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, ficha de tramitación del boletín 18525-06",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18525-06",
+      "fecha": "Consulta automática",
+      "nota": "Etapas, trámites y urgencias (datos de urgencias.json)."
+    },
+    {
+      "id": "f9",
+      "titulo": "G5noticias, «Ad portas de su promulgación, alcaldes respaldan ley corta de seguridad municipal…»",
+      "url": "https://g5noticias.cl/2026/08/12/ad-portas-de-su-promulgacion-alcaldes-respaldan-ley-corta-de-seguridad-municipal-y-advierten-que-aplicar-la-norma-sin-reglamento-habria-sido-un-freno-para-el-combate-del-delito/",
+      "fecha": "12 de agosto de 2026",
+      "nota": "Declaraciones de los alcaldes de Puerto Montt, Mulchén y Quilaco."
+    },
+    {
+      "id": "f10",
+      "titulo": "G5noticias, «Iglesias y White por ley corta de seguridad municipal: “La llamaron ley corta, pero el Senado la está haciendo eterna…”»",
+      "url": "https://g5noticias.cl/2026/09/23/iglesias-y-white-por-ley-corta-de-seguridad-municipal-la-llamaron-ley-corta-pero-el-senado-la-esta-haciendo-eterna-la-lentitud-es-desesperante/",
+      "fecha": "23 de septiembre de 2026",
+      "nota": "Declaraciones de los alcaldes de Independencia y San Bernardo."
+    },
+    {
+      "id": "f11",
+      "titulo": "G5noticias, «UFEMUCH enciende las alarmas ante Comisión de Gobierno Interior del Senado…»",
+      "url": "https://g5noticias.cl/2026/09/09/ufemuch-enciende-las-alarmas-ante-comision-de-gobierno-interior-del-senado-por-proyecto-que-fortaleceria-la-institucionalidad-municipal-en-materia-de-seguridad-publica/",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Reparos de la Confederación Unión de Funcionarios Municipales de Chile."
+    },
+    {
+      "id": "f12",
+      "titulo": "Emol, nota sobre la ley corta de seguridad municipal",
+      "url": "https://www.emol.com/noticias/Nacional/2026/08/11/1208199/ley-corta-seguridad-municipal.html",
+      "fecha": "11 de agosto de 2026",
+      "nota": "Declaraciones del ministro de Seguridad Pública."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
