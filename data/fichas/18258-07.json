@@ -1,0 +1,198 @@
+{
+  "version": 2,
+  "boletin": "18258-07",
+  "nivel": "completa",
+  "sintesis": "Permite que militares hagan controles de identidad, registros y detenciones en flagrancia durante estados de emergencia o catástrofe. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
+  "materia": "el control de identidad por las Fuerzas Armadas en estados de excepción",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Hoy los militares cuidan lugares e infraestructura durante los estados de excepción.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La ley actual no les permite hacer controles de identidad ni detener a alguien sorprendido en un delito.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Una reforma de 2023 les dio esa facultad solo en zonas de frontera.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El gobierno dice que esa reforma no sirve en estados de emergencia o catástrofe.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los militares podrán pedir la identificación de una persona y revisar su ropa, su equipaje o su vehículo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También podrán detener a quien sorprendan cometiendo un delito. Eso se llama detención en flagrancia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Deben entregar a la persona detenida a Carabineros o a la PDI lo antes posible.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo nuevo a la ley de estados de excepción, la Ley 18.415.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los militares que salen a la calle en un estado de emergencia o catástrofe.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También afecta a las personas que ellos controlen o detengan en esas zonas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No encontramos el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El gobierno presentó el proyecto el 18 de mayo de 2026.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Cámara lo aprobó el 4 de agosto de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Ahora lo estudia la Comisión de Constitución del Senado, con urgencia suma.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones públicas de organizaciones sobre este proyecto entre mayo y octubre de 2026. Esto incluye organizaciones de derechos humanos, asociaciones de abogados, gremios y municipios. Las opiniones publicadas son de ministros y parlamentarios.",
+  "encuadre": {
+    "intro": "En las pocas notas de prensa revisadas aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Más apoyo para la seguridad",
+        "quienes": "Gobierno y diputados que apoyan el proyecto",
+        "problema": "Los militares desplegados en un estado de excepción no pueden controlar identidad ni detener.",
+        "problema_fuentes": [
+          "f2"
+        ],
+        "causa": "Faltan policías, y la reforma de 2023 solo sirve en zonas de frontera.",
+        "causa_fuentes": [
+          "f3",
+          "f4"
+        ],
+        "solucion": "Dar a los militares esas facultades, con la entrega rápida del detenido a las policías.",
+        "solucion_fuentes": [
+          "f1"
+        ],
+        "palabras": [
+          "orden y seguridad pública",
+          "escasez de personal"
+        ]
+      },
+      {
+        "titulo": "Tareas policiales para militares",
+        "quienes": "Diputados que pidieron cambios al proyecto",
+        "problema": "Los militares están preparados para la defensa del país y no para tareas policiales.",
+        "problema_fuentes": [
+          "f3"
+        ],
+        "causa": "Una capacitación insuficiente puede llevar a que se afecten derechos de las personas.",
+        "causa_fuentes": [
+          "f3"
+        ],
+        "solucion": "Que los militares actúen solo en apoyo de las policías y con los mismos requisitos y garantías.",
+        "solucion_fuentes": [
+          "f3"
+        ],
+        "palabras": [
+          "extrema cautela",
+          "capacitación",
+          "control democrático"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Gobierno ingresa proyecto sobre control de identidad en estados de excepción»",
+      "url": "https://actualidadjuridica.doe.cl/gobierno-ingresa-proyecto-sobre-control-de-identidad-en-estados-de-excepcion/",
+      "fecha": "25 de mayo de 2026",
+      "nota": "Contenido del mensaje: nuevo artículo 7° bis de la Ley 18.415."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara de Diputadas y Diputados, «Comisión analiza propuesta que faculta a FFAA a controlar identidad en estados de excepción»",
+      "url": "https://www.camara.cl/cms/2026/06/04/comision-analiza-propuesta-que-faculta-a-ffaa-a-controlar-identidad-en-estados-de-excepcion/",
+      "fecha": "4 de junio de 2026",
+      "nota": "Situación actual y reparos en la comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputadas y Diputados, «FFAA: A Sala proyecto que los faculta para control de identidad en estados de excepción»",
+      "url": "https://www.camara.cl/cms/2026/07/14/ffaa-a-sala-proyecto-que-los-faculta-para-control-de-identidad-en-estados-de-excepcion/",
+      "fecha": "14 de julio de 2026",
+      "nota": "Despacho de la Comisión de Constitución y argumentos."
+    },
+    {
+      "id": "f4",
+      "titulo": "BioBioChile, «El proyecto de ley que permitiría a militares hacer control de identidad durante estados de excepción»",
+      "url": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/06/30/el-proyecto-de-ley-que-permitiria-a-militares-hacer-control-de-identidad-durante-estados-de-excepcion.shtml",
+      "fecha": "30 de junio de 2026",
+      "nota": "Relación con la reforma constitucional de 2023 (Ley 21.542) y argumentos del Ejecutivo."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, ficha de tramitación del boletín 18258-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18258-07",
+      "fecha": "Consulta automática, 30 de octubre de 2026",
+      "nota": "Etapas, votación en la Cámara y urgencias."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
