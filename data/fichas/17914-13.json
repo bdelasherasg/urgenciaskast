@@ -1,0 +1,224 @@
+{
+  "version": 2,
+  "boletin": "17914-13",
+  "nivel": "completa",
+  "sintesis": "Busca que usar mal una licencia médica sea una falta de probidad que permite despedir al trabajador. La Cámara lo aprobó; ahora lo revisa la Comisión de Trabajo del Senado.",
+  "materia": "el uso indebido de licencias médicas como causal de despido",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La autora dice que hay un uso fraudulento de licencias médicas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Hoy la ley castiga ese uso con penas, pero no lo nombra como causa de despido.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También dice que la protección de datos impide al empleador revisar si una licencia es real.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Una licencia que no corresponde a la enfermedad, o que es falsa, sería una falta de probidad. Probidad significa actuar con honradez.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "No cumplir el reposo en el lugar indicado se presumiría como falta de probidad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El empleador podría pedir datos de la licencia a la institución de salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esos datos serían reservados y solo se usarían en un juicio por el despido.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia el artículo 160 del Código del Trabajo, que lista las causas de despido.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los trabajadores y empleadores del sector privado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No encontramos un informe financiero sobre este proyecto.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La diputada Ximena Ossandón presentó el proyecto el 10 de octubre de 2025.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Comisión de Trabajo de la Cámara lo aprobó en general por 8 votos a favor, 2 en contra y 3 abstenciones.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La Cámara lo aprobó el 1 de septiembre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Ahora lo estudia la Comisión de Trabajo del Senado, con urgencia suma.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Colegio Médico de Chile",
+      "tipo": "Colegio profesional",
+      "vocero": "Ana María Arriagada, presidenta",
+      "postura": "Con reparos",
+      "argumento": "Respalda combatir el fraude, pero pide precisar las conductas que se sancionan y resguardar los datos clínicos y el debido proceso.",
+      "fecha": "3 de junio de 2026",
+      "fuentes": [
+        "f3"
+      ]
+    },
+    {
+      "organizacion": "Confederación Fenats Unitaria, Multigremial G7",
+      "tipo": "Organización sindical de trabajadores de la salud",
+      "vocero": "Ricardo Ruiz, presidente",
+      "postura": "En contra",
+      "argumento": "Se opone al proyecto en los términos planteados. Sostiene que no debe reducir derechos laborales ni castigar a quien de verdad se enferma, y pide más fiscalización.",
+      "fecha": "8 de julio de 2026",
+      "fuentes": [
+        "f4"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de la CUT, de otros sindicatos del sector privado ni de gremios empresariales sobre este proyecto.",
+  "encuadre": {
+    "intro": "En las notas revisadas aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Una herramienta contra el fraude",
+        "quienes": "La autora del proyecto y diputados que lo apoyan",
+        "problema": "Hay personas que usan licencias falsas o no cumplen el reposo.",
+        "problema_fuentes": [
+          "f1",
+          "f3"
+        ],
+        "causa": "El empleador no tiene cómo comprobar si una licencia es real.",
+        "causa_fuentes": [
+          "f2"
+        ],
+        "solucion": "Que el mal uso de una licencia sea causa de despido.",
+        "solucion_fuentes": [
+          "f1"
+        ],
+        "palabras": [
+          "probidad",
+          "uso fraudulento",
+          "licencia falsa"
+        ]
+      },
+      {
+        "titulo": "Fiscalizar sin castigar al enfermo",
+        "quienes": "Organizaciones de trabajadores de la salud y diputados con reparos",
+        "problema": "El proyecto puede castigar a personas que de verdad están enfermas.",
+        "problema_fuentes": [
+          "f4"
+        ],
+        "causa": "Las conductas que se sancionan no están bien definidas.",
+        "causa_fuentes": [
+          "f3",
+          "f4"
+        ],
+        "solucion": "Más fiscalización de las licencias, sin reducir derechos laborales.",
+        "solucion_fuentes": [
+          "f4"
+        ],
+        "palabras": [
+          "fiscalización",
+          "derechos laborales",
+          "estigmatización"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Ingresa proyecto de ley que modifica el Código del Trabajo por uso fraudulento de licencias médicas»",
+      "url": "https://actualidadjuridica.doe.cl/ingresa-proyecto-de-ley-que-modifica-el-codigo-del-trabajo-por-uso-fraudulento-de-licencias-medicas/",
+      "fecha": "24 de octubre de 2025",
+      "nota": "Contenido de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Diario Constitucional, «Proyecto de ley busca sancionar uso fraudulento de licencias médicas laborales»",
+      "url": "https://www.diarioconstitucional.cl/2025/11/14/proyecto-de-ley-busca-sancionar-uso-fraudulento-de-licencias-medicas-laborales/",
+      "fecha": "14 de noviembre de 2025",
+      "nota": "Texto propuesto para el artículo 160."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputadas y Diputados, «Trabajo revisa proyecto que fomenta la probidad en licencias médicas»",
+      "url": "https://www.camara.cl/cms/2026/06/03/trabajo-revisa-proyecto-que-fomenta-la-probidad-en-licencias-medicas/",
+      "fecha": "3 de junio de 2026",
+      "nota": "Exposiciones del gobierno, la Suseso, la Compin y el Colegio Médico."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara de Diputadas y Diputados, «Trabajo legislará para calificar como falta de probidad el uso indebido de licencias médicas»",
+      "url": "https://www.camara.cl/cms/2026/07/08/trabajo-legislara-para-calificar-como-falta-de-probidad-el-uso-indebido-de-licencias-medicas/",
+      "fecha": "8 de julio de 2026",
+      "nota": "Votación en general en la comisión y posición de la Fenats Unitaria."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, ficha de tramitación del boletín 17914-13",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17914-13",
+      "fecha": "Consulta automática, 30 de octubre de 2026",
+      "nota": "Etapas, votaciones y urgencias, según los datos de tramitación de urgencias.json."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
