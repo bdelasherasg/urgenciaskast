@@ -1,0 +1,371 @@
+{
+  "version": 2,
+  "boletin": "18643-05",
+  "nivel": "completa",
+  "sintesis": "Crea un fondo estatal para créditos de vivienda y una cuenta de ahorro para el pie, y cambia reglas del mercado financiero. La Cámara lo aprobó; ahora lo revisa el Senado.",
+  "materia": "la reforma al mercado de capitales y a la compra de la primera vivienda",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que cuesta juntar el pie y pagar las tasas de los créditos para vivienda.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea el Fondo Nacional para la Vivienda (Fonavi), que lleva BancoEstado.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El fondo compra a los bancos créditos para casas de hasta 6.000 UF.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Quien ahorra 30 meses en una nueva cuenta pone el 7% del precio, y el Estado el 3%.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Sube el bono al ahorro extra para la pensión (APV) de 6 a 8 UTM al año.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cambia reglas de impuestos, de bonos y de sociedades anónimas.",
+        "fuentes": [
+          "f1",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El texto inicial pedía más cuidado a los clientes ante fraudes.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quien compra su única casa con un crédito.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "También a bancos, cooperativas y cajas que lleven las cuentas.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      },
+      {
+        "texto": "El Fisco pondrá hasta 2.000 millones de dólares en el Fonavi.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Según Emol, el informe no calculó el costo de la garantía del Estado.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 27 de octubre de 2026, por 100 votos contra 35.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Rechazó que las AFP lleven las cuentas de ahorro.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Ahora lo ve la Comisión de Hacienda del Senado.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "Tiene discusión inmediata, un plazo que vence el 3 de noviembre.",
+        "fuentes": [
+          "f11"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Cámara Chilena de la Construcción (CChC)",
+      "tipo": "Gremio empresarial",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "Sostiene que las medidas atacan las dos barreras principales, reunir el pie y obtener mejor financiamiento hipotecario. Valora que el ahorro vuelva a ser central en la política de vivienda y pide apoyo transversal en el Congreso.",
+      "fecha": "10 de septiembre de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Confederación de la Producción y del Comercio (CPC)",
+      "tipo": "Gremio empresarial",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "Destaca que el Fonavi puede ampliar el acceso al crédito hipotecario y bajar su costo. Pide revisar con atención el diseño y el costo fiscal del apoyo al pie.",
+      "fecha": "10 de septiembre de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Asociación de Bancos e Instituciones Financieras (Abif)",
+      "tipo": "Gremio bancario",
+      "vocero": "José Manuel Mena, presidente",
+      "postura": "Con reparos",
+      "argumento": "Apoya el Fonavi, pero pide reglas detalladas sobre cómo se reparten riesgos y costos. En fraudes, pide repartir la responsabilidad en toda la cadena de pagos y aplicar culpa leve en operaciones con autenticación reforzada.",
+      "fecha": "10 y 29 de septiembre de 2026",
+      "fuentes": [
+        "f7",
+        "f8"
+      ]
+    },
+    {
+      "organizacion": "Asociación de Fondos Mutuos (AFM)",
+      "tipo": "Gremio financiero",
+      "vocero": "Macarena Ossa, gerente general",
+      "postura": "A favor",
+      "argumento": "Valora la cuenta de ahorro para la vivienda y el alza del beneficio del APV de 6 a 8 UTM anuales, porque benefician a los aportantes.",
+      "fecha": "10 de septiembre de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Asociación Chilena de Administradoras de Fondos de Inversión (ACAFI)",
+      "tipo": "Gremio financiero",
+      "vocero": "María José Montero, presidenta",
+      "postura": "A favor",
+      "argumento": "Considera positivo vincular el mercado de capitales con objetivos concretos para las personas. Advierte que queda espacio para avanzar en ahorro de largo plazo, inversión e innovación.",
+      "fecha": "10 de septiembre de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "FinteChile",
+      "tipo": "Gremio de empresas tecnológicas financieras",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "Valora la búsqueda de un mercado de capitales más profundo y competitivo. Pide que la discusión técnica se base en evidencia, diálogo y certeza regulatoria.",
+      "fecha": "10 de septiembre de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Organización de Consumidores y Usuarios de Chile (ODECU)",
+      "tipo": "Organización de consumidores",
+      "vocero": "Stefan Larenas, presidente",
+      "postura": "Con reparos",
+      "argumento": "Rechaza la presunción de culpa leve en operaciones con autenticación reforzada, porque autenticar una operación no significa consentirla. Valora la denuncia electrónica, la declaración jurada estandarizada y la responsabilidad compartida de otros actores de la cadena de pagos.",
+      "fecha": "5 y 8 de octubre de 2026",
+      "fuentes": [
+        "f9",
+        "f10"
+      ]
+    },
+    {
+      "organizacion": "Corporación Nacional de Consumidores y Usuarios (Conadecus)",
+      "tipo": "Organización de consumidores",
+      "vocero": "",
+      "postura": "Con reparos",
+      "argumento": "Rechaza eliminar la prohibición de vender seguros que cubren riesgos que hoy asume el emisor, porque ve un doble traslado del riesgo al consumidor. Advierte que aumentará la carga de los Juzgados de Policía Local.",
+      "fecha": "8 de octubre de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "En la prensa revisada no encontramos declaraciones de sindicatos, de la Asociación de AFP ni de organizaciones de deudores habitacionales o comités de vivienda sobre este proyecto entre el 9 de septiembre y el 30 de octubre de 2026.",
+  "encuadre": {
+    "intro": "En la discusión pública aparecen dos maneras de presentar el proyecto. Es una lectura exploratoria sobre pocas notas de prensa.",
+    "marcos": [
+      {
+        "titulo": "El acceso a la casa propia",
+        "quienes": "Gobierno y gremios de la construcción y del sector financiero",
+        "problema": "Juntar el pie y pagar las tasas de los créditos hipotecarios son trabas para comprar la primera casa.",
+        "problema_fuentes": [
+          "f1",
+          "f7"
+        ],
+        "causa": "Según la CChC, faltan ahorro para el pie y mejor financiamiento hipotecario.",
+        "causa_fuentes": [
+          "f7"
+        ],
+        "solucion": "Un fondo estatal que compre créditos hipotecarios y un aporte del Estado al pie.",
+        "solucion_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "palabras": [
+          "sueño de la casa propia",
+          "emergencia creciente",
+          "centro de inversión"
+        ]
+      },
+      {
+        "titulo": "Menos protección para los usuarios",
+        "quienes": "Organizaciones de consumidores y parte de la oposición",
+        "problema": "Los cambios a la ley de fraudes dejan más expuestos a los clientes que son engañados.",
+        "problema_fuentes": [
+          "f6",
+          "f9",
+          "f10"
+        ],
+        "causa": "El texto inicial baja el estándar para culpar al cliente, de culpa grave a culpa leve.",
+        "causa_fuentes": [
+          "f10"
+        ],
+        "solucion": "Que los emisores expliquen cómo operó la autenticación y qué alertas activaron.",
+        "solucion_fuentes": [
+          "f9"
+        ],
+        "palabras": [
+          "debilita la protección de los usuarios",
+          "doble traslado del riesgo",
+          "desequilibra la balanza"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "responsabilidad",
+      "oraciones": [
+        {
+          "texto": "Para la Abif, la responsabilidad por fraudes debe repartirse en toda la cadena de pagos, con culpa leve del usuario cuando hay autenticación reforzada.",
+          "fuentes": [
+            "f8"
+          ]
+        },
+        {
+          "texto": "Para ODECU, la autenticación no prueba que el cliente consintió, y el emisor debe responder por la seguridad digital del servicio.",
+          "fuentes": [
+            "f9"
+          ]
+        },
+        {
+          "texto": "Ambos lados usan la palabra para pedir que la carga recaiga en actores distintos.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Meganoticias, «Gobierno presenta reforma al mercado de capitales para facilitar acceso a casa propia: Estos son los ejes principales»",
+      "url": "https://www.meganoticias.cl/nacional/531278-gobierno-reforma-mercado-capitales-acceso-casa-propia-ejes-principales-09-09-2026.html",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Fundamentos y ejes del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Emol, nota sobre el Fonavi y el Ahorro Voluntario para la Vivienda",
+      "url": "https://www.emol.com/noticias/Economia/2026/09/09/1211003/fonavi-avv-reforma-casa-propia.html",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Diseño del Fonavi y de la cuenta de ahorro para el pie."
+    },
+    {
+      "id": "f3",
+      "titulo": "Emol, nota sobre el impacto fiscal de la reforma según el informe financiero",
+      "url": "https://www.emol.com/noticias/Economia/2026/09/09/1211021/reforma-casa-propia-impacto-fiscal.html",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Prensa sobre el informe financiero; el informe no se abrió."
+    },
+    {
+      "id": "f4",
+      "titulo": "Emol, nota sobre el despacho de la reforma por la Cámara",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/27/1215376/camara-despacha-reforma-mercado-capitales.html",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Votación en Sala y rechazo de la norma sobre las AFP."
+    },
+    {
+      "id": "f5",
+      "titulo": "Diario Estrategia, «Cámara respaldó reforma que facilita acceso a primera vivienda»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6069461/camara-respaldo-reforma-facilita-acceso-primera-vivienda",
+      "fecha": "28 de octubre de 2026",
+      "nota": "Texto aprobado por la Cámara, votación y paso al Senado."
+    },
+    {
+      "id": "f6",
+      "titulo": "Emol, nota sobre la aprobación en general en la Comisión de Hacienda de la Cámara",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/01/1212974/reforma-mercado-capitales-congreso-aprobada.html",
+      "fecha": "1 de octubre de 2026",
+      "nota": "Argumentos del gobierno y de la oposición."
+    },
+    {
+      "id": "f7",
+      "titulo": "Chócale, «Gremios respaldan el MK4: diseño, costo fiscal y reglas de implementación»",
+      "url": "https://chocale.cl/2026/09/gremios-respaldan-el-mk4-diseno-costo-fiscal-y-reglas-implementacion/",
+      "fecha": "10 de septiembre de 2026",
+      "nota": "Declaraciones de Abif, CChC, CPC, FinteChile, ACAFI y AFM."
+    },
+    {
+      "id": "f8",
+      "titulo": "Emol, nota sobre la exposición de la banca ante la reforma",
+      "url": "https://www.emol.com/noticias/Economia/2026/09/29/1212732/banca-reforma-mk4.html",
+      "fecha": "29 de septiembre de 2026",
+      "nota": "Exposición de la Abif en la Comisión de Hacienda de la Cámara."
+    },
+    {
+      "id": "f9",
+      "titulo": "G5noticias, «ODECU advierte que reforma a la ley de fraudes debilita la protección de los consumidores»",
+      "url": "https://g5noticias.cl/2026/10/05/odecu-advierte-que-reforma-a-la-ley-de-fraudes-debilita-la-proteccion-de-los-consumidores/",
+      "fecha": "5 de octubre de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f10",
+      "titulo": "Chócale, «Ley de Fraudes: qué cambia con MK4 y por qué preocupa a las organizaciones de consumidores»",
+      "url": "https://chocale.cl/2026/10/ley-de-fraudes-que-cambia-con-mk4-y-por-que-preocupa-a-las-organizaciones-de-consumidores/",
+      "fecha": "8 de octubre de 2026",
+      "nota": "Cambios a la ley de fraudes y posiciones de Conadecus y ODECU."
+    },
+    {
+      "id": "f11",
+      "titulo": "Senado, ficha de tramitación del boletín 18643-05",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18643-05",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias, según urgencias.json."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
