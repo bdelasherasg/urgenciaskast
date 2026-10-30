@@ -1,0 +1,284 @@
+{
+  "version": 2,
+  "boletin": "15261-25",
+  "nivel": "completa",
+  "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
+  "materia": "el delito de ingreso clandestino al país",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Sus autores citan un alza de los ingresos clandestinos en la última década.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Según la moción, en 2020 hubo 16.848 de esos ingresos.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea el delito de entrar al país por un paso no habilitado o sin control.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La pena es cárcel de 61 a 540 días o multa de 5 a 10 UTM.",
+        "fuentes": [
+          "f3",
+          "f11"
+        ]
+      },
+      {
+        "texto": "La cárcel sube hasta 5 años si la persona tenía prohibido entrar o usa papeles falsos.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Tras cumplir la pena, la persona siempre es expulsada.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley 21.325, de migración y extranjería.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Hoy, entrar sin autorización es una falta y no un delito.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a extranjeros que entran sin control, salvo niños, sus padres o cuidadores y ciertos refugiados.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 17 de enero de 2024, por 88 votos contra 34.",
+        "fuentes": [
+          "f3",
+          "f1"
+        ]
+      },
+      {
+        "texto": "En abril de 2026, una comisión del Senado lo rechazó por 3 votos contra 2.",
+        "fuentes": [
+          "f5",
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 5 de mayo de 2026, el Senado lo aprobó en general por 24 votos contra 20.",
+        "fuentes": [
+          "f7",
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ahora la comisión de Gobierno prepara su segundo informe.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Tiene suma urgencia, un plazo de 15 días que vence el 4 de noviembre.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Amnistía Internacional Chile",
+      "tipo": "Organización de derechos humanos",
+      "vocero": "Rodrigo Bustos, director ejecutivo (2026)",
+      "postura": "En contra",
+      "argumento": "Pidió eliminar los artículos que crean el delito. Sostiene que la entrada irregular debe tratarse como falta administrativa, que sancionarla puede afectar a solicitantes de asilo y que unir migración y delito genera discriminación. En 2026 reiteró que tratar la migración como delito es un enfoque erróneo.",
+      "fecha": "17 de abril de 2023 y 4 de junio de 2026",
+      "fuentes": [
+        "f9",
+        "f10"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "Entre abril y octubre de 2026 no encontramos declaraciones con fuente abierta de gremios empresariales, sindicatos, colegios profesionales, centros de estudio ni organizaciones de migrantes sobre este proyecto. El Servicio Jesuita a Migrantes expuso ante la comisión del Senado, pero no encontramos una fuente que informe su postura.",
+  "encuadre": {
+    "intro": "En la discusión pública aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Control de la frontera",
+        "quienes": "Gobierno y partidarios del proyecto",
+        "problema": "Hay una crisis de migración irregular en las zonas de frontera.",
+        "problema_fuentes": [
+          "f8"
+        ],
+        "causa": "Hoy entrar sin autorización es solo una falta administrativa.",
+        "causa_fuentes": [
+          "f4"
+        ],
+        "solucion": "Convertir el ingreso clandestino en delito, para sancionar y disuadir.",
+        "solucion_fuentes": [
+          "f8",
+          "f7"
+        ],
+        "palabras": [
+          "crisis migratoria",
+          "control fronterizo",
+          "disuadir"
+        ]
+      },
+      {
+        "titulo": "Una pena que no resuelve",
+        "quienes": "Oposición en el Senado y Amnistía Internacional Chile",
+        "problema": "El proyecto puede sobrecargar a la PDI, a las Fuerzas Armadas y a los tribunales.",
+        "problema_fuentes": [
+          "f7",
+          "f6"
+        ],
+        "causa": "Tratar la migración como delito es un enfoque equivocado y estigmatiza a los migrantes.",
+        "causa_fuentes": [
+          "f10",
+          "f9"
+        ],
+        "solucion": "Fortalecer el Servicio Nacional de Migraciones, asegurar el acceso al asilo y coordinar la acción contra el crimen organizado.",
+        "solucion_fuentes": [
+          "f9",
+          "f7"
+        ],
+        "palabras": [
+          "criminalizar",
+          "sobrecarga",
+          "derechos humanos"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "disuadir",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, el delito busca un efecto preventivo y disuasivo.",
+          "fuentes": [
+            "f8"
+          ]
+        },
+        {
+          "texto": "Para la presidenta de la comisión de Gobierno, que votó en contra, penalizar el ingreso no disuade.",
+          "fuentes": [
+            "f6"
+          ]
+        },
+        {
+          "texto": "Ambos lados usan la misma palabra para llegar a conclusiones opuestas.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, ficha de tramitación del boletín 15261-25",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15261-25",
+      "fecha": "Consulta automática",
+      "nota": "Etapas, trámites y urgencias (datos de urgencias.json)."
+    },
+    {
+      "id": "f2",
+      "titulo": "Diario Constitucional, «Proyecto de ley de delito de ingreso clandestino», columna de Gabriela Hilliger Carrasco y Constanza Castillo",
+      "url": "https://www.diarioconstitucional.cl/2024/01/20/proyecto-de-ley-de-delito-de-ingreso-clandestino-por-gabriela-hilliger-carrasco/",
+      "fecha": "20 de enero de 2024",
+      "nota": "Columna de opinión; se usa solo por las cifras que cita de la moción."
+    },
+    {
+      "id": "f3",
+      "titulo": "BioBioChile, «Con división oficialista, Cámara aprueba proyecto que tipifica y sanciona ingreso clandestino a Chile»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2024/01/17/con-division-oficialista-camara-aprueba-proyecto-que-tipifica-y-sanciona-ingreso-clandestino-a-chile.shtml",
+      "fecha": "17 de enero de 2024",
+      "nota": "Votación en la Cámara y contenido del texto aprobado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Servicio Nacional de Migraciones, «Senado aprueba en general proyecto que tipifica como delito el ingreso irregular a Chile»",
+      "url": "https://serviciomigraciones.cl/senado-aprueba-en-general-proyecto-que-tipifica-como-delito-el-ingreso-irregular-a-chile/",
+      "fecha": "5 de mayo de 2026",
+      "nota": "Situación actual del ingreso clandestino (falta administrativa) y plazo de indicaciones."
+    },
+    {
+      "id": "f5",
+      "titulo": "El Dínamo, «Comisión del Senado rechaza proyecto que tipifica el ingreso clandestino al país»",
+      "url": "https://www.eldinamo.cl/politica/2026/04/21/comision-del-senado-rechaza-proyecto-que-tipifica-el-ingreso-clandestino-al-pais/",
+      "fecha": "21 de abril de 2026",
+      "nota": "Votación en la comisión de Gobierno y postura del Ministerio del Interior."
+    },
+    {
+      "id": "f6",
+      "titulo": "Radio Universidad de Chile, «Comisión del Senado rechazó proyecto que crea delito de ingreso ilegal al país»",
+      "url": "https://radio.uchile.cl/2026/04/22/comision-del-senado-rechazo-proyecto-que-crea-delito-de-ingreso-ilegal-al-pais/",
+      "fecha": "22 de abril de 2026",
+      "nota": "Argumentos expuestos en la comisión."
+    },
+    {
+      "id": "f7",
+      "titulo": "BioBioChile, «Senado aprueba en general proyecto que tipifica como delito el ingreso irregular a Chile»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/05/05/senado-aprueba-en-general-proyecto-que-tipifica-como-delito-el-ingreso-irregular-a-chile.shtml",
+      "fecha": "5 de mayo de 2026",
+      "nota": "Votación en Sala y argumentos de ambos lados."
+    },
+    {
+      "id": "f8",
+      "titulo": "Ministerio del Interior, «Senado aprobó en general el proyecto que tipifica como delito el ingreso clandestino al país»",
+      "url": "https://interior.gob.cl/noticias/2026/05/06/senado-aprobo-en-general-el-proyecto-que-tipifica-como-delito-el-ingreso-clandestino-al-pais/",
+      "fecha": "6 de mayo de 2026",
+      "nota": "Argumentos del gobierno."
+    },
+    {
+      "id": "f9",
+      "titulo": "Amnistía Internacional Chile, opinión sobre el proyecto de ley boletín 15261-25 ante la Comisión de Seguridad Ciudadana de la Cámara",
+      "url": "https://amnistia.cl/wp-content/uploads/2023/12/Presentacion-AI_PL-15261-25.pdf",
+      "fecha": "17 de abril de 2023",
+      "nota": ""
+    },
+    {
+      "id": "f10",
+      "titulo": "Radio Universidad de Chile, «Amnistía Internacional cuestiona agenda migratoria del Gobierno: \"Criminaliza la inmigración\"»",
+      "url": "https://radio.uchile.cl/2026/06/04/amnistia-internacional-cuestiona-agenda-migratoria-del-gobierno-criminaliza-la-inmigracion/",
+      "fecha": "4 de junio de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f11",
+      "titulo": "G5noticias, nota sobre el llamado a votar en el Senado el proyecto que sanciona el ingreso clandestino",
+      "url": "https://g5noticias.cl/2026/09/30/diputado-fabian-ossandon-emplaza-al-senado-a-destrabar-proyecto-que-sanciona-el-ingreso-clandestino-a-chile/",
+      "fecha": "30 de septiembre de 2026",
+      "nota": "Pena básica del proyecto."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
