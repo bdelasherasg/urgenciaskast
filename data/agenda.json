@@ -1,22 +1,111 @@
 {
- "actualizado": "2026-10-29T23:21-03:00",
- "desde": "2026-10-29",
- "hasta": "2026-11-11",
+ "actualizado": "2026-10-29T23:47-03:00",
+ "desde": "2026-10-30",
+ "hasta": "2026-11-12",
  "fuentes": {
   "senado": {
-   "estado": "sin_actualizar",
-   "detalle": "Primera consulta pendiente.",
-   "conservadas": 0,
+   "estado": "ok",
+   "consultado": "2026-10-30T02:47",
+   "citaciones": 6,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
    "estado": "sin_actualizar",
-   "detalle": "Primera consulta pendiente.",
+   "detalle": "Sin citaciones con boletín reconocibles en la página.",
    "conservadas": 0,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-44"
   }
  },
- "sesiones": [],
+ "sesiones": [
+  {
+   "fecha": "2026-11-02",
+   "hora": "10:00",
+   "horario": "10:00 a 13:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial Mixta de Presupuestos -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
+   "materias": [
+    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027.",
+    ".- ( Bol.N° 2 ) Partida 02 Congreso Nacional"
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-02",
+   "hora": "15:00",
+   "horario": "15:00 a 20:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial Mixta de Presupuestos -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
+   "materias": [
+    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora": "12:30",
+   "horario": "12:30 a 14:00",
+   "camara": "Senado",
+   "organo": "Comisión de Trabajo y Previsión Social -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "lugar": "Sala N°9 Tercer Piso Senado Valparaíso",
+   "materias": [
+    "1.- Para recibir en audiencia al Superintendente de Pensiones y al Presidente de la Asociación de AFP, para que se dé cuenta ante la Comisión de lo sucedido con los criterios de inversión, las inversiones y pérdidas del Fondo E.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-05",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Senado",
+   "organo": "Comisión de Vivienda y Urbanismo -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "lugar": "sede Chiloé de la Universidad de Los Lagos, calle Ubaldo Mansilla 131, Castro",
+   "materias": [
+    "1.- Analizar los avances y dificultades de la política habitacional y urbana en las regiones del país, especialmente, en la provincia de Chiloé.",
+    "A esta sesión ha sido invitado el Ministro de Vivienda y Urbanismo, señor Iván Poduje.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "15:00",
+   "horario": "15:00 a 16:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial de Zonas Extremas y Territorios Especiales -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "lugar": "Sala 11, Valparaíso.",
+   "materias": [
+    "1.- ( Bol.N° 17293-27 ) Proyecto de ley que modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica.",
+    "2.- Abordar distintas temáticas relacionadas con el territorio antártico chileno y Campos de Hielo Sur.",
+    "A esta sesión se invitará al Ministro de Relaciones Exteriores; al Ministro de Defensa Nacional; al Director Nacional de Fronteras y Límites del Estado, y al Jefe de la División de Asuntos Antárticos de la Cancillería.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [
+    "17293-27"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  }
+ ],
  "probables": [
   {
    "boletin": "16335-14",
@@ -25,7 +114,37 @@
    "camara": "Cámara de Diputados"
   },
   {
+   "boletin": "18788-07",
+   "vence": "2026-11-01",
+   "tipo": "Discusión inmediata",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18211-25",
+   "vence": "2026-11-02",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18239-36",
+   "vence": "2026-11-02",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
    "boletin": "18314-07",
+   "vence": "2026-11-02",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18779-07",
+   "vence": "2026-11-02",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18804-07",
    "vence": "2026-11-02",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
@@ -43,7 +162,19 @@
    "camara": "Cámara de Diputados"
   },
   {
+   "boletin": "16743-04",
+   "vence": "2026-11-03",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
    "boletin": "18208-25",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18282-07",
    "vence": "2026-11-03",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -61,7 +192,19 @@
    "camara": "Cámara de Diputados"
   },
   {
+   "boletin": "18434-07",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
    "boletin": "18478-13",
+   "vence": "2026-11-03",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18590-07",
    "vence": "2026-11-03",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -91,13 +234,79 @@
    "camara": "Senado"
   },
   {
+   "boletin": "15047-11",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15261-25",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15589-07",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15767-29",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15850-11",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
    "boletin": "16143-02",
    "vence": "2026-11-04",
    "tipo": "Suma",
    "camara": "Senado"
   },
   {
+   "boletin": "16725-06",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17111-07",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17125-25",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17170-07",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
    "boletin": "17567-11",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17637-07",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17914-13",
    "vence": "2026-11-04",
    "tipo": "Suma",
    "camara": "Senado"
@@ -133,10 +342,22 @@
    "camara": "Senado"
   },
   {
+   "boletin": "18427-07",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
    "boletin": "18464-14",
    "vence": "2026-11-04",
    "tipo": "Suma",
    "camara": "Senado"
+  },
+  {
+   "boletin": "18576-06",
+   "vence": "2026-11-04",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
   },
   {
    "boletin": "18585-25",
@@ -151,11 +372,232 @@
    "camara": "Cámara de Diputados"
   },
   {
+   "boletin": "12213-07",
+   "vence": "2026-11-11",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "16300-07",
+   "vence": "2026-11-11",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18189-14",
+   "vence": "2026-11-11",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
    "boletin": "18584-25",
    "vence": "2026-11-11",
    "tipo": "Suma",
    "camara": "Senado"
+  },
+  {
+   "boletin": "18819-03",
+   "vence": "2026-11-12",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
   }
  ],
- "proyectos": {}
+ "proyectos": {
+  "17293-27": {
+   "boletin": "17293-27",
+   "titulo": "Modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica",
+   "fecha_ingreso": "2024-12-10",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión Comisión Especial de Zonas Extremas y Territorios Especiales",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2024-12-10",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-11",
+     "descripcion": "Cuenta de proyecto .  Comisión Especial de Zonas Extremas y Territorios Especiales",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17293-27",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17293-27",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17929&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 689
+  },
+  "18702-05": {
+   "boletin": "18702-05",
+   "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+   "fecha_ingreso": "2026-09-30",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Comisión Mixta Ley de Presupuesto (Senado)",
+   "subetapa": "Informe de comisión Especial Mixta de Presupuestos",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 14 Ministerio de Bienes Nacionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 15 Ministerio del Trabajo y Previsión social",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 16 Ministerio de Salud",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 17 Ministerio de Minería",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 18 Ministerio de Vivienda y Urbanismo",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 19 Ministerio de Transportes y Telecomunicaciones",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 20 Ministerio Secretaría General de Gobierno",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 21 Ministerio de Desarrollo Social y Familia",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 22 Ministerio Secretaría General de la Presidencia de la República",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 23 Ministerio Público",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 24 Ministerio de Energía",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 25 Ministerio del Medio Ambiente",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 26 Ministerio del Deporte",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 27 Ministerio de la Mujer y la equidad de genero",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 28 Servicio Electoral",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 29 Ministerio de las Culturas, las Artes y el Patrimonio",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 31 Gobiernos Regionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 32 Ministerio de Seguridad Pública",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 50 Tesoro Publico",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18702-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18702-05",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19391&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 30
+  }
+ }
 }

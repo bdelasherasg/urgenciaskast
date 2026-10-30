@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-10-29T22:13-03:00",
+ "actualizado": "2026-10-29T23:47-03:00",
  "conteos": {
-  "urgencias_vigentes": 24,
-  "discusion_inmediata": 6,
-  "vencen_7_dias": 21,
-  "citaciones_7_dias": 0
+  "urgencias_vigentes": 49,
+  "discusion_inmediata": 12,
+  "vencen_7_dias": 43,
+  "citaciones_7_dias": 2
  },
  "proximos_vencimientos": [
   {
@@ -18,6 +18,30 @@
    "url": "https://urgenciaskast.cl/p/16335-14.html"
   },
   {
+   "boletin": "18788-07",
+   "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-01",
+   "url": "https://urgenciaskast.cl/p/18788-07.html"
+  },
+  {
+   "boletin": "18211-25",
+   "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-02",
+   "url": "https://urgenciaskast.cl/p/18211-25.html"
+  },
+  {
+   "boletin": "18239-36",
+   "titulo": "Establece sanciones en el caso de acusaciones, denuncias o querellas falsas y regula el procedimiento para su aplicación",
+   "sintesis": "",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-02",
+   "url": "https://urgenciaskast.cl/p/18239-36.html"
+  },
+  {
    "boletin": "18314-07",
    "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
    "sintesis": "",
@@ -26,39 +50,44 @@
    "url": "https://urgenciaskast.cl/p/18314-07.html"
   },
   {
-   "boletin": "18806-07",
-   "titulo": "Proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena",
+   "boletin": "18779-07",
+   "titulo": "Proyecto de ley que interpreta y modifica la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena por delitos sexuales cometidos contra menores de edad",
    "sintesis": "",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
-   "url": "https://urgenciaskast.cl/p/18806-07.html"
-  },
-  {
-   "boletin": "14782-13",
-   "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
-   "sintesis": "",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-03",
-   "url": "https://urgenciaskast.cl/p/14782-13.html"
-  },
-  {
-   "boletin": "18208-25",
-   "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-03",
-   "url": "https://urgenciaskast.cl/p/18208-25.html"
-  },
-  {
-   "boletin": "18286-03",
-   "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-03",
-   "url": "https://urgenciaskast.cl/p/18286-03.html"
+   "url": "https://urgenciaskast.cl/p/18779-07.html"
   }
  ],
- "agenda": [],
+ "agenda": [
+  {
+   "fecha": "2026-11-02",
+   "hora": "10:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial Mixta de Presupuestos -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "proyectos": [
+    {
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-02",
+   "hora": "15:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial Mixta de Presupuestos -- La sesión será transmitida por TV Senado y por el sitio http://tv.senado.cl. --",
+   "proyectos": [
+    {
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
+    }
+   ]
+  }
+ ],
  "fichas_recientes": [
   {
    "boletin": "18623-07",
