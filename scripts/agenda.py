@@ -50,17 +50,38 @@ def texto(datos):
     return datos.decode('utf-8', 'replace')
 
 
-def a_lineas(html):
+def a_lineas(html, abrir=False):
     html = re.sub(r'(?is)<(script|style|noscript)\b.*?</\1>', ' ', html)
+    if abrir:  # también corta al abrir bloques (útil cuando la página no cierra sus etiquetas)
+        html = re.sub(r'(?i)<(p|div|tr|li|h\d|table|dt|dd|section|article|header)\b[^>]*>', '\n', html)
     html = re.sub(r'(?i)<br\s*/?>|</(p|div|tr|td|th|li|h\d|table|caption|dt|dd|section|article|header|span)>', '\n', html)
     html = re.sub(r'<[^>]+>', ' ', html)
     lineas = [re.sub(r'\s+', ' ', l).strip() for l in htmlmod.unescape(html).split('\n')]
     return [l for l in lineas if l]
 
 
+RE_FECHA_NUM = re.compile(r'\b(\d{1,2})[/-](\d{1,2})[/-](20\d{2})\b')
+RE_FECHA_SIN_ANNO = re.compile(r'(?:lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo)\s*,?\s*(\d{1,2})\s+de\s+([a-záéíóú]+)\b', re.I)
+
+
 def fecha_de(linea):
     m = RE_FECHA.search(linea)
     if not m:
+        n = RE_FECHA_NUM.search(linea)
+        if n:
+            try:
+                return dt.date(int(n.group(3)), int(n.group(2)), int(n.group(1))).isoformat()
+            except ValueError:
+                return None
+        s = RE_FECHA_SIN_ANNO.search(linea)
+        if s and MESES.get(s.group(2).lower()):
+            hoy = dt.date.today()
+            mes = MESES[s.group(2).lower()]
+            anno = hoy.year + (1 if mes < hoy.month - 6 else 0)
+            try:
+                return dt.date(anno, mes, int(s.group(1))).isoformat()
+            except ValueError:
+                return None
         return None
     mes = MESES.get(m.group(2).lower())
     if not mes:
@@ -76,7 +97,7 @@ def boletines_en(texto_):
 
 
 def nombre_organo(valor):
-    v = valor.strip(' :')
+    v = re.split(r'\s+-{1,2}\s+|\s+–\s+|\.\s+La sesi[oó]n|\s+La sesi[oó]n ser[aá]', valor)[0].strip(' :.')
     if not v:
         return ''
     if re.match(r'(?i)comisi[oó]n\b', v):
@@ -143,32 +164,45 @@ def asignar(s, campo, valor):
         s[campo] = valor
 
 
+RE_ORGANO = re.compile(r'(?i)^(?:\d+\s*[.-]\s*)?(comisi[oó]n\b.{3,150})$')
+
+
 def parse_camara(lineas):
-    """Citaciones semanales de la Cámara. Conserva solo las citaciones que mencionan un boletín,
-    para no publicar texto que no se pueda vincular a un proyecto oficial."""
-    sesiones, fecha, actual = [], None, None
+    """Citaciones semanales de la Cámara. Recorre el texto en orden y asocia cada mención de un
+    boletín a la última fecha, comisión y hora leídas, sin depender de la estructura exacta de la
+    página. Conserva solo citaciones que mencionan un boletín, para no publicar texto que no se
+    pueda vincular a un proyecto oficial."""
+    sesiones, fecha, organo, horario = {}, None, '', ''
     for l in lineas:
-        f = fecha_de(l)
-        if f and len(l) < 90:
-            fecha, actual = f, None
+        corto = len(l) < 140
+        f = fecha_de(l) if corto else None
+        if f:
+            fecha, horario = f, ''
+        m = RE_ORGANO.match(l) if corto and not RE_BOLETIN.search(l) else None
+        if m:
+            organo, horario = nombre_organo(m.group(1)), ''
+        if corto and RE_HORA.search(l) and not RE_BOLETIN.search(l):
+            horario = l
+        if fecha is None or not organo:
             continue
-        if fecha is None:
-            continue
-        if re.match(r'(?i)^comisi[oó]n\b', l) and len(l) < 160 and not RE_BOLETIN.search(l):
-            actual = nueva_sesion(fecha, 'Cámara de Diputados', 'Cámara, citaciones de la semana')
-            actual['organo'] = nombre_organo(l)
-            sesiones.append(actual)
-            continue
-        if actual is None:
-            continue
-        if re.search(r'(?i)sin efecto|suspendid', l):
-            actual['estado'] = 'sin efecto'
-        if not actual['horario'] and RE_HORA.search(l) and len(l) < 80:
-            actual['horario'] = l
-            continue
-        if len(actual['materias']) < 10 and len(l) > 3:
-            actual['materias'].append(l)
-    return [cerrar(s) for s in sesiones if s['organo']]
+        if RE_BOLETIN.search(l) and not m:
+            clave = (fecha, organo, horario)
+            if clave not in sesiones:
+                sesiones[clave] = nueva_sesion(fecha, 'Cámara de Diputados', 'Cámara, citaciones de la semana')
+                sesiones[clave].update({'organo': organo, 'horario': horario})
+            s = sesiones[clave]
+            if len(s['materias']) < 10:
+                s['materias'].append(l)
+            if re.search(r'(?i)sin efecto|suspendid', l):
+                s['estado'] = 'sin efecto'
+    return [cerrar(s) for s in sesiones.values()]
+
+
+def diagnostico(lineas):
+    """Cifras de control de una página leída (no guarda su contenido)."""
+    return {'lineas': len(lineas), 'fechas': sum(1 for l in lineas if len(l) < 140 and fecha_de(l)),
+            'comisiones': sum(1 for l in lineas if len(l) < 140 and RE_ORGANO.match(l)),
+            'menciones_boletin': sum(1 for l in lineas if RE_BOLETIN.search(l))}
 
 
 def en_ventana(s, desde, hasta):
@@ -205,14 +239,17 @@ def principal():
                              'conservadas': len(prev), 'url': URL_SENADO_CITACIONES}
 
     # Cámara: semana en curso y siguiente
-    nuevas_c, urls = [], []
+    nuevas_c, urls, control = [], [], []
+    n_err = len(A.errores)
     for d in (hoy, hoy + dt.timedelta(days=7)):
         anno, semana, _ = d.isocalendar()
         url = URL_CAMARA_CITACIONES.format(anno=anno, semana=semana)
         urls.append(url)
         datos = A.bajar(url)
         if datos:
-            nuevas_c += [s for s in parse_camara(a_lineas(texto(datos))) if s['boletines']]
+            lineas = a_lineas(texto(datos), abrir=True)
+            nuevas_c += [s for s in parse_camara(lineas) if s['boletines']]
+            control.append(diagnostico(lineas) | {'bytes': len(datos)})
         time.sleep(0.5)
     if nuevas_c:
         fuentes['camara'] = {'estado': 'ok', 'consultado': dt.datetime.now().isoformat(timespec='minutes'), 'citaciones': len(nuevas_c), 'url': urls[0]}
@@ -220,8 +257,9 @@ def principal():
     else:
         prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Cámara de Diputados' and en_ventana(s, desde, hasta)]
         sesiones += prev
-        fuentes['camara'] = {'estado': 'sin_actualizar', 'detalle': 'Sin citaciones con boletín reconocibles en la página.',
-                             'conservadas': len(prev), 'url': urls[0]}
+        fuentes['camara'] = {'estado': 'sin_actualizar',
+                             'detalle': ('; '.join(A.errores[n_err:])[:300] or 'Sin citaciones con boletín reconocibles en la página.'),
+                             'control': control, 'conservadas': len(prev), 'url': urls[0]}
 
     sesiones = [s for s in sesiones if en_ventana(s, desde, hasta)]
     sesiones.sort(key=lambda s: (s['fecha'], s.get('hora') or '99', s['camara'], s['organo']))

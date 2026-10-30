@@ -448,3 +448,63 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .uso a { justify-self: start; align-self: end; font-family: var(--f-etiqueta); font-size: 13px; font-weight: 700; color: var(--dorado-claro); text-decoration: none; border-bottom: 1px solid rgba(247,203,94,.45); padding-bottom: 2px; margin-top: 4px; }
 .uso a:hover { border-bottom-color: var(--dorado-claro); }
 .sesion li.mas a { font-family: var(--f-etiqueta); font-size: 13px; font-weight: 700; color: var(--dorado-claro); }
+
+/* Tabla principal de proyectos */
+.tabla-marco { background: var(--crema); color: var(--tinta); border-radius: var(--r-grande); box-shadow: var(--sombra); overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.envoltura-ancha { max-width: 1280px; }
+.tabla-proyectos { width: 100%; min-width: 1000px; border-collapse: separate; border-spacing: 0; font-size: 14.5px; }
+.tabla-proyectos thead th { background: var(--crema-2); padding: 14px 12px; border-bottom: 1px solid rgba(46,34,98,.14); white-space: nowrap; vertical-align: bottom; }
+.tabla-proyectos thead th:first-child { padding-left: 22px; }
+.tabla-proyectos thead th button { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; font: inherit; letter-spacing: inherit; text-transform: inherit; color: inherit; }
+.tabla-proyectos thead th button::after { content: "↕"; font-size: 11px; opacity: .45; }
+.tabla-proyectos thead th[aria-sort="ascending"] button::after { content: "↑"; opacity: 1; }
+.tabla-proyectos thead th[aria-sort="descending"] button::after { content: "↓"; opacity: 1; }
+.tabla-proyectos thead th button:focus-visible { outline: 2px solid var(--dorado); outline-offset: 3px; border-radius: 4px; }
+.tabla-proyectos tbody td { padding: 14px 12px; border-bottom: 1px solid rgba(46,34,98,.09); vertical-align: top; line-height: 1.4; }
+.tabla-proyectos tbody tr:last-child td { border-bottom: 0; }
+.tabla-proyectos tbody tr[data-href] { cursor: pointer; transition: background .15s ease; }
+.tabla-proyectos tbody tr[data-href]:hover { background: rgba(242,180,42,.12); }
+.tabla-proyectos tbody tr[data-href]:hover .flecha { transform: translateX(3px); opacity: 1; }
+.tabla-proyectos .c-bol { padding-left: 22px; font-family: var(--f-etiqueta); font-size: 12px; font-weight: 700; color: var(--tinta-suave); white-space: nowrap; }
+.tabla-proyectos .c-bol .origen { display: block; font-weight: 600; font-size: 11px; margin-top: 3px; }
+.tabla-proyectos .c-proy { min-width: 280px; }
+.tabla-proyectos .c-proy a { color: var(--tinta); font-weight: 600; text-decoration: none; }
+.tabla-proyectos .c-proy a:hover { text-decoration: underline; text-decoration-color: var(--dorado); text-underline-offset: 3px; }
+.tabla-proyectos .c-proy .oficial { display: block; font-size: 12.5px; color: var(--tinta-suave); margin-top: 4px; }
+.tabla-proyectos .c-prox { width: 200px; }
+.tabla-proyectos .prox-fecha { display: block; font-family: var(--f-etiqueta); font-weight: 700; font-size: 13px; }
+.tabla-proyectos .prox-que, .tabla-proyectos .prox-mas, .tabla-proyectos .sub { display: block; font-size: 12.5px; color: var(--tinta-suave); margin-top: 2px; }
+.tabla-proyectos .sin-fecha, .tabla-proyectos .sin-urg { font-size: 12.5px; color: var(--tinta-suave); }
+.tabla-proyectos .c-urg { width: 170px; }
+.tabla-proyectos .c-urg .vence { display: block; font-family: var(--f-etiqueta); font-size: 12px; font-weight: 600; margin-top: 6px; }
+.tabla-proyectos .c-urg .vence.pronto { color: var(--rojo); }
+.tabla-proyectos .c-etapa { width: 140px; font-size: 13.5px; }
+.tabla-proyectos thead th.c-num { white-space: normal; width: 96px; line-height: 1.3; }
+.tabla-proyectos .c-num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.tabla-proyectos thead .c-num button { justify-content: flex-end; }
+.tabla-proyectos .renov-barra { display: inline-block; width: 34px; height: 6px; border-radius: 3px; background: rgba(46,34,98,.1); margin-right: 8px; vertical-align: middle; overflow: hidden; }
+.tabla-proyectos .renov-barra i { display: block; height: 100%; background: var(--indigo); border-radius: 3px; }
+.tabla-proyectos .c-ficha { white-space: nowrap; padding-right: 22px; }
+.tabla-proyectos .flecha { display: inline-block; margin-left: 8px; color: var(--indigo); opacity: .5; transition: transform .15s ease, opacity .15s ease; }
+.et-ficha { display: inline-block; font-family: var(--f-etiqueta); font-size: 11px; font-weight: 700; letter-spacing: .04em; padding: 3px 9px; border-radius: var(--r-pastilla); background: rgba(46,34,98,.1); color: var(--tinta); }
+.et-ficha.et-completa { background: linear-gradient(180deg, var(--dorado-claro), var(--dorado)); color: var(--tinta); }
+.et-ficha.et-datos { background: transparent; box-shadow: inset 0 0 0 1px rgba(46,34,98,.22); color: var(--tinta-suave); }
+.leyenda { margin-top: 14px; line-height: 1.9; }
+.leyenda .et-ficha { margin-right: 4px; }
+.leyenda .et-ficha.et-datos { box-shadow: inset 0 0 0 1px rgba(246,240,226,.4); color: var(--crema); }
+.leyenda .et-ficha:not(.et-completa):not(.et-datos) { background: rgba(246,240,226,.18); color: var(--crema); }
+@media (max-width: 820px) {
+  .tabla-marco { background: transparent; box-shadow: none; overflow: visible; border-radius: 0; }
+  .tabla-proyectos, .tabla-proyectos tbody, .tabla-proyectos tr, .tabla-proyectos td { display: block; min-width: 0; width: auto; max-width: none; }
+  .tabla-proyectos thead { display: none; }
+  .tabla-proyectos tbody tr { background: var(--crema); border-radius: var(--r-medio); box-shadow: var(--sombra-chica); margin-bottom: 10px; padding: 14px 16px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 10px 14px; }
+  .tabla-proyectos tbody td { padding: 0; border: 0; min-width: 0; }
+  .tabla-proyectos tbody td::before { content: attr(data-l); display: block; font-family: var(--f-etiqueta); font-size: 10px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--tinta-suave); margin-bottom: 3px; }
+  .tabla-proyectos .c-bol, .tabla-proyectos .c-proy { grid-column: 1 / -1; padding-left: 0; }
+  .tabla-proyectos .c-bol::before, .tabla-proyectos .c-proy::before { display: none; }
+  .tabla-proyectos .c-bol .origen { display: inline; margin: 0 0 0 8px; }
+  .tabla-proyectos .c-num { text-align: left; }
+  .tabla-proyectos .c-ficha { padding-right: 0; }
+  .tabla-proyectos td.vacio { grid-column: 1 / -1; }
+  .tabla-proyectos td.vacio::before { display: none; }
+}

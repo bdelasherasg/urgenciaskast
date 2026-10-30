@@ -21,10 +21,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Montserrat:wght@500;600;700&amp;family=Figtree:wght@400;500;600&amp;display=swap">
-<link rel="stylesheet" href="assets/estilo.css?v=9ca732ba">
-<script src="assets/config.js?v=9ca732ba"></script>
-<script src="assets/glosario.js?v=9ca732ba"></script>
-<script src="assets/app.js?v=9ca732ba" defer></script>
+<link rel="stylesheet" href="assets/estilo.css?v=1825edaa">
+<script src="assets/config.js?v=1825edaa"></script>
+<script src="assets/glosario.js?v=1825edaa"></script>
+<script src="assets/app.js?v=1825edaa" defer></script>
 </head>
 <body data-pagina="portada">
 <a class="saltar" href="#contenido">Ir al contenido</a>
@@ -42,7 +42,7 @@
   <nav class="publicos" aria-label="Para quién es Urgencias Kast">
     <a href="#usos">Equipos parlamentarios y asesores</a><a href="#usos">Partidos y centros de estudio</a><a href="#usos">Empresas y gremios</a><a href="#usos">Sindicatos y organizaciones sociales</a><a href="#usos">Periodistas e investigadores</a>
   </nav>
-  <div class="heroe-acciones"><a class="boton" href="agenda.html">Ver la agenda de dos semanas</a><a class="boton boton-vidrio" href="#urgencias">Ver los proyectos con urgencia</a></div>
+  <div class="heroe-acciones"><a class="boton" href="#urgencias">Ver los proyectos en discusión</a><a class="boton boton-vidrio" href="agenda.html">Agenda día por día</a></div>
   <div class="vidrio por-que">
     <div><p class="eyebrow">Por qué seguimos las urgencias</p><h2>En Chile, el gobierno conduce la agenda del Congreso con las urgencias.</h2></div>
     <p>En un régimen presidencial, el Ejecutivo decide qué proyectos se discuten primero poniéndoles una <button type="button" class="termino" data-t="urgencia">urgencia</button>: un plazo que obliga a una cámara a votarlos. Seguir las urgencias es seguir las prioridades del gobierno, y por eso cada una tiene aquí su plazo, sus renovaciones y su historia. Como el trabajo diario no se agota en ellas, sumamos todo lo que el Congreso discutirá en las próximas dos semanas.</p>
@@ -60,28 +60,36 @@
   </div>
 </section>
 
-<section class="envoltura seccion" aria-labelledby="h-agenda">
-  <p class="eyebrow">Agenda</p>
-  <h2 class="titulo-seccion" id="h-agenda">Lo que se discute en los próximos días</h2>
-  <p class="bajada-seccion">Sesiones de comisión citadas por el Senado y la Cámara que tratan proyectos de ley, y plazos de urgencia que vencen sin citación publicada, marcados como probables.</p>
-  <div id="agenda-resumen"><p class="vacio">Cargando…</p></div>
-  <p style="margin-top:22px"><a class="boton boton-vidrio" href="agenda.html">Ver la agenda completa</a></p>
-</section>
-
-<section class="envoltura seccion" id="urgencias" aria-labelledby="h-urg">
-  <p class="eyebrow">Urgencias</p>
-  <h2 class="titulo-seccion" id="h-urg">Los proyectos que el gobierno apura</h2>
-  <p class="bajada-seccion">Cada proyecto con su urgencia, el plazo y las veces que el gobierno la renovó. Cuando ya tiene ficha verificada, aparece su frase de síntesis. Toque un proyecto para ver su ficha.</p>
+<section class="envoltura envoltura-ancha seccion" id="urgencias" aria-labelledby="h-urg">
+  <p class="eyebrow">Agenda y urgencias · próximas dos semanas</p>
+  <h2 class="titulo-seccion" id="h-urg">Los proyectos que se discuten y los que el gobierno apura</h2>
+  <p class="bajada-seccion">Cada proyecto citado en comisión por el Senado o la Cámara, y cada proyecto con <button type="button" class="termino" data-t="urgencia">urgencia</button> vigente, con su próxima discusión, su plazo y su historia. Toque una fila para abrir la ficha del proyecto.</p>
   <form class="vidrio filtros" onsubmit="return false" aria-label="Filtrar proyectos">
-    <label for="f-texto">Buscar<input id="f-texto" type="search" placeholder="Tema, palabra o boletín" autocomplete="off"></label>
-    <label for="f-tipo">Urgencia<select id="f-tipo"><option value="">Todas</option><option>Discusión inmediata</option><option>Suma</option></select></label>
-    <label for="f-camara">Dónde está<select id="f-camara"><option value="">Ambas cámaras</option><option value="Cámara de Diputados">Cámara</option><option value="Senado">Senado</option></select></label>
-    <label for="f-orden">Ordenar<select id="f-orden"><option value="vence">Plazo más próximo</option><option value="renov">Más renovadas</option><option value="dias">Más días en trámite</option></select></label>
-    <label class="check" for="f-todas"><input id="f-todas" type="checkbox"> Incluir plazos vencidos y proyectos que cambiaron de cámara</label>
+    <label for="f-texto">Buscar<input id="f-texto" type="search" placeholder="Tema, comisión o boletín" autocomplete="off"></label>
+    <label for="f-vista">Mostrar<select id="f-vista"><option value="agenda">En agenda o con urgencia</option><option value="semana">Próximos 7 días</option><option value="citados">Solo citados en comisión</option><option value="todos">Todos, con plazos vencidos</option></select></label>
+    <label for="f-tipo">Urgencia<select id="f-tipo"><option value="">Todas</option><option>Discusión inmediata</option><option>Suma</option><option>Simple</option><option value="sin">Sin urgencia vigente</option></select></label>
+    <label for="f-camara">Cámara<select id="f-camara"><option value="">Ambas</option><option value="Cámara de Diputados">Cámara</option><option value="Senado">Senado</option></select></label>
+    <label class="check" for="f-ficha"><input id="f-ficha" type="checkbox"> Solo con ficha de análisis</label>
   </form>
   <p class="nota" id="n-urgencias" aria-live="polite"></p>
-  <div class="lista-urgencias" id="lista-urgencias"><p class="vacio">Cargando…</p></div>
-  <p class="nota" style="margin-top:16px">Fuentes: servicio de tramitación del Senado y datos abiertos de la Cámara de Diputadas y Diputados. Plazos según la Ley 18.918. <a href="como-leer.html">Cómo leer estos datos</a> · <a href="data/urgencias.json">Descargar los datos</a></p>
+  <div class="tabla-marco">
+    <table class="tabla-proyectos">
+      <caption class="solo-lector">Proyectos en la agenda del Congreso y con urgencia del Ejecutivo. Las columnas con botón se pueden ordenar.</caption>
+      <thead><tr>
+        <th scope="col">Boletín</th>
+        <th scope="col">Proyecto</th>
+        <th scope="col" data-orden="prox" aria-sort="ascending"><button type="button">Próxima discusión</button></th>
+        <th scope="col" data-orden="urg"><button type="button">Urgencia y plazo</button></th>
+        <th scope="col">Etapa</th>
+        <th scope="col" class="c-num" data-orden="renov"><button type="button">Renovaciones</button></th>
+        <th scope="col" class="c-num" data-orden="dias"><button type="button">Días en trámite</button></th>
+        <th scope="col">Ficha</th>
+      </tr></thead>
+      <tbody id="tabla-cuerpo"><tr><td colspan="8" class="vacio">Cargando…</td></tr></tbody>
+    </table>
+  </div>
+  <p class="nota leyenda"><span class="et-ficha et-completa">Análisis</span> resumen verificado, posiciones de organizaciones y encuadre. <span class="et-ficha">Resumen</span> resumen verificado. <span class="et-ficha et-datos">Datos</span> datos oficiales y tramitación, con el análisis en preparación. <b>Probable</b>: la urgencia vence ese día y aún no hay citación publicada.</p>
+  <p class="nota">Fuentes: citaciones de comisiones del Senado y de la Cámara, servicio de tramitación del Senado y datos abiertos de la Cámara de Diputadas y Diputados. Plazos según la Ley 18.918. <a href="agenda.html">Ver la agenda día por día</a> · <a href="como-leer.html">Cómo leer estos datos</a> · <a href="data/urgencias.json">Descargar los datos</a></p>
 </section>
 
 <section class="envoltura seccion" id="usos" aria-labelledby="h-usos">

@@ -170,70 +170,136 @@
       tic(); setInterval(tic, 1000);
     } else if (caja) { caja.hidden = true; }
 
-    // Agenda de los próximos días
-    var cont = $('#agenda-resumen');
-    if (cont) {
-      if (!A) { cont.innerHTML = '<p class="vacio">La agenda de comisiones se está cargando. Mientras tanto, revise los plazos de las urgencias.</p>'; }
-      else {
-        var porDia = {};
-        (A.sesiones || []).forEach(function (s) {
-          if (s.estado === 'sin efecto' || !s.boletines || !s.boletines.length) return;
-          (porDia[s.fecha] = porDia[s.fecha] || []).push(s);
-        });
-        // Plazos de urgencia que vencen sin citación publicada, marcados como probables.
-        agregarProbables(porDia, A.probables || [], U, A, null);
-        Object.keys(porDia).forEach(function (f) { porDia[f].sort(function (a, b) { return (a._probable ? 1 : 0) - (b._probable ? 1 : 0) || String(a.hora || '99').localeCompare(String(b.hora || '99')); }); });
-        var fechas = Object.keys(porDia).sort().slice(0, 3);
-        // En la portada, cada grupo de plazos muestra hasta cuatro proyectos; el resto está en la agenda completa.
-        fechas.forEach(function (f) { porDia[f].forEach(function (s) { if (s._probable && s.boletines.length > 4) { s._mas = s.boletines.length - 4; s._dia = f; s.boletines = s.boletines.slice(0, 4); } }); });
-        cont.innerHTML = fechas.length ? '<div class="agenda-dias">' + fechas.map(function (f) {
-          return diaHTML(f, porDia[f].slice(0, 5), U, A, IDX, porDia[f].length > 5 ? porDia[f].length - 5 : 0);
-        }).join('') + '</div>' : '<p class="vacio">No hay citaciones publicadas con proyectos de ley para los próximos días.</p>';
-      }
-    }
-
-    listaUrgencias(U, A, IDX);
+    tablaProyectos(U, A, IDX);
   }
 
-  function listaUrgencias(U, A, IDX) {
-    var ps = U.proyectos || [];
-    var fTexto = $('#f-texto'), fTipo = $('#f-tipo'), fCamara = $('#f-camara'), fOrden = $('#f-orden'), fTodas = $('#f-todas');
-    if (!fTexto) return;
+  // Tabla principal: todo proyecto con urgencia vigente o en la agenda de las próximas dos semanas.
+  function filasProyectos(U, A, IDX) {
+    var hoyIso = isoDe(hoy()), filas = {}, orden = [];
+    function fila(b) {
+      if (!filas[b]) {
+        var p = buscar(b, U, A);
+        filas[b] = { b: b, p: p, sesiones: [], probable: null, i: IDX && IDX[b] };
+        orden.push(b);
+      }
+      return filas[b];
+    }
+    (U.proyectos || []).forEach(function (p) { fila(p.boletin); });
+    if (A) {
+      (A.sesiones || []).forEach(function (s) {
+        if (s.estado === 'sin efecto' || s.fecha < hoyIso) return;
+        (s.boletines || []).forEach(function (b) { fila(b).sesiones.push(s); });
+      });
+      (A.probables || []).forEach(function (pr) { fila(pr.boletin).probable = pr; });
+    }
+    return orden.map(function (b) {
+      var f = filas[b], p = f.p || {}, v = p.urgencia_vigente || {};
+      f.sesiones.sort(function (x, y) { return (x.fecha + (x.hora || '99')) < (y.fecha + (y.hora || '99')) ? -1 : 1; });
+      var s0 = f.sesiones[0];
+      f.activa = v.estado === 'vigente' && dias(v.vence) !== null && dias(v.vence) >= 0;
+      f.prox = s0 ? { fecha: s0.fecha, hora: s0.hora, organo: s0.organo, camara: s0.camara, tipo: 'citado', mas: f.sesiones.length - 1 }
+        : (f.probable ? { fecha: f.probable.vence, camara: f.probable.camara || p.camara_actual, tipo: 'probable' } : null);
+      f.titulo = (f.i && f.i.sintesis) || p.titulo || ('Boletín ' + b);
+      f.texto = (f.titulo + ' ' + (p.titulo || '') + ' ' + b + ' ' + f.sesiones.map(function (x) { return x.organo; }).join(' ')).toLowerCase();
+      return f;
+    });
+  }
+
+  function tablaProyectos(U, A, IDX) {
+    var cuerpo = $('#tabla-cuerpo');
+    if (!cuerpo) return;
+    var todas = filasProyectos(U, A, IDX);
+    var fTexto = $('#f-texto'), fVista = $('#f-vista'), fTipo = $('#f-tipo'), fCamara = $('#f-camara'), fFicha = $('#f-ficha');
+    var orden = { k: 'prox', dir: 1 };
+    var limite7 = isoDe(new Date(hoy().getTime() + 6 * DIA));
+    var BIG = '9999-12-31';
+    var claves = {
+      prox: function (f) { return f.prox ? f.prox.fecha + (f.prox.tipo === 'citado' ? '0' : '1') + (f.prox.hora || '99') : BIG; },
+      urg: function (f) { var v = (f.p || {}).urgencia_vigente || {}; return f.activa ? v.vence : BIG; },
+      renov: function (f) { return -((f.p || {}).renovaciones || 0); },
+      dias: function (f) { return -((f.p || {}).dias_tramite || 0); }
+    };
+    var maxRenov = Math.max.apply(null, todas.map(function (f) { return (f.p || {}).renovaciones || 0; }).concat([1]));
+
+    function proxHTML(f) {
+      var x = f.prox;
+      if (!x) return '<span class="sin-fecha">Sin fecha en la agenda</span>';
+      var n = dias(x.fecha), cuando = n === 0 ? 'Hoy' : (n === 1 ? 'Mañana' : cap(DIAS_L[fecha(x.fecha).getDay()]).slice(0, 3) + ' ' + fecha(x.fecha).getDate() + ' ' + MESES[fecha(x.fecha).getMonth()]);
+      if (x.tipo === 'citado') {
+        return '<span class="prox-fecha">' + esc(cuando) + (x.hora ? ' · ' + esc(x.hora) : '') + '</span>' +
+          '<span class="prox-que">' + esc(recortar(String(x.organo || '').split(/\s+-{1,2}\s+|\s+–\s+/)[0], 64)) + ' · ' + esc(camaraCorta(x.camara)) + '</span>' +
+          (x.mas > 0 ? '<span class="prox-mas">y ' + plural(x.mas, 'sesión más', 'sesiones más') + '</span>' : '');
+      }
+      return '<span class="prox-fecha">' + esc(cuando) + '</span><span class="prox-que">' + t('probable', 'Probable') + ': vence la urgencia</span>';
+    }
+    function urgHTML(f) {
+      var p = f.p || {}, v = p.urgencia_vigente || {};
+      if (f.activa) { var e = estadoUrg(p); return chipUrg(v.tipo, true) + '<span class="vence' + (e.pronto ? ' pronto' : '') + '">' + esc(e.corto) + '</span>'; }
+      if (v.tipo && (v.estado === 'vigente' || v.estado === 'vencida' || v.estado === 'en_espera')) return '<span class="sin-urg">' + esc(estadoUrg(p).corto) + '</span>';
+      return '<span class="sin-urg">Sin urgencia</span>';
+    }
+    function fichaHTML(f) {
+      if (f.i && f.i.nivel === 'completa') return '<span class="et-ficha et-completa">Análisis</span>';
+      if (f.i) return '<span class="et-ficha">Resumen</span>';
+      return '<span class="et-ficha et-datos">Datos</span>';
+    }
+
     function pintar() {
-      var q = (fTexto.value || '').toLowerCase().trim();
-      var lista = ps.filter(function (p) {
-        var v = p.urgencia_vigente || {};
-        var activo = v.estado === 'vigente' && dias(v.vence) >= 0;
-        if (!fTodas.checked && !activo) return false;
-        if (fTipo.value && v.tipo !== fTipo.value) return false;
-        if (fCamara.value && p.camara_actual !== fCamara.value) return false;
-        if (q) {
-          var nom = nombreProyecto(p.boletin, U, A, IDX);
-          if ((nom.sintesis + ' ' + p.titulo + ' ' + p.boletin).toLowerCase().indexOf(q) === -1) return false;
-        }
+      var q = (fTexto.value || '').toLowerCase().trim(), vista = fVista.value;
+      var lista = todas.filter(function (f) {
+        var p = f.p || {}, v = p.urgencia_vigente || {};
+        var enAgenda = f.sesiones.length > 0 || !!f.probable;
+        if (vista === 'agenda' && !(enAgenda || f.activa)) return false;
+        if (vista === 'semana' && !(f.prox && f.prox.fecha <= limite7)) return false;
+        if (vista === 'citados' && !f.sesiones.length) return false;
+        if (fTipo.value === 'sin' && f.activa) return false;
+        if (fTipo.value && fTipo.value !== 'sin' && !(f.activa && v.tipo === fTipo.value)) return false;
+        if (fCamara.value) { var cam = f.prox ? f.prox.camara : p.camara_actual; if (cam !== fCamara.value) return false; }
+        if (fFicha.checked && !f.i) return false;
+        if (q && f.texto.indexOf(q) === -1) return false;
         return true;
       });
-      var o = fOrden.value;
-      lista.sort(function (a, b) {
-        if (o === 'renov') return (b.renovaciones || 0) - (a.renovaciones || 0);
-        if (o === 'dias') return (b.dias_tramite || 0) - (a.dias_tramite || 0);
-        var va = (a.urgencia_vigente.estado === 'vigente' ? '0' : '1') + (a.urgencia_vigente.vence || '9999');
-        var vb = (b.urgencia_vigente.estado === 'vigente' ? '0' : '1') + (b.urgencia_vigente.vence || '9999');
-        return va < vb ? -1 : 1;
+      var k = claves[orden.k];
+      lista.sort(function (x, y) {
+        var a = k(x), b = k(y);
+        if (a === b) { a = claves.urg(x); b = claves.urg(y); }
+        return (a < b ? -1 : a > b ? 1 : 0) * orden.dir;
       });
-      $('#n-urgencias').textContent = lista.length + (lista.length === 1 ? ' proyecto' : ' proyectos');
-      $('#lista-urgencias').innerHTML = lista.length ? lista.map(function (p) {
-        var nom = nombreProyecto(p.boletin, U, A, IDX), e = estadoUrg(p);
-        return '<a class="urg" href="' + urlFicha(p.boletin) + '">' +
-          '<span><span class="bol">Boletín ' + esc(p.boletin) + (p.iniciativa && p.iniciativa.toLowerCase().indexOf('moci') === 0 ? ' · Moción' : '') + '</span>' +
-          '<span class="titulo">' + esc(nom.sintesis || recortar(p.titulo, 220)) + '</span>' +
-          (nom.sintesis ? '<span class="oficial">' + esc(recortar(p.titulo, 160)) + '</span>' : '') + '</span>' +
-          '<span class="plazo">' + chipUrg(p.urgencia_vigente.tipo, true) + '<span class="' + (e.pronto ? 'pronto' : '') + '">' + esc(e.corto) + '</span></span>' +
-          '<span><span class="etapa">' + esc(tramiteDe(p.etapa)) + ' · ' + esc(camaraCorta(p.camara_actual)) + '</span><br><span class="renov">' + plural(p.renovaciones || 0, 'renovación', 'renovaciones') + '</span></span>' +
-          '</a>';
-      }).join('') : '<p class="vacio">No hay proyectos con esos filtros.</p>';
+      var citados = lista.filter(function (f) { return f.sesiones.length; }).length;
+      var conUrg = lista.filter(function (f) { return f.activa; }).length;
+      $('#n-urgencias').textContent = plural(lista.length, 'proyecto', 'proyectos') + ' · ' + plural(citados, 'citado', 'citados') + ' en comisión · ' + conUrg + ' con urgencia vigente';
+      cuerpo.innerHTML = lista.length ? lista.map(function (f) {
+        var p = f.p || {}, r = p.renovaciones || 0;
+        var oficial = f.i && f.i.sintesis && p.titulo ? '<span class="oficial">' + esc(recortar(p.titulo, 140)) + '</span>' : '';
+        return '<tr data-href="' + urlFicha(f.b) + '">' +
+          '<td class="c-bol" data-l="Boletín">' + esc(f.b) + (p.iniciativa && p.iniciativa.toLowerCase().indexOf('moci') === 0 ? '<span class="origen">Moción</span>' : '') + '</td>' +
+          '<td class="c-proy" data-l="Proyecto"><a href="' + urlFicha(f.b) + '">' + esc(recortar(f.titulo, 200)) + '</a>' + oficial + '</td>' +
+          '<td class="c-prox" data-l="Próxima discusión">' + proxHTML(f) + '</td>' +
+          '<td class="c-urg" data-l="Urgencia y plazo">' + urgHTML(f) + '</td>' +
+          '<td class="c-etapa" data-l="Etapa">' + esc(tramiteDe(p.etapa)) + (p.camara_actual ? '<span class="sub">' + esc(camaraCorta(p.camara_actual)) + '</span>' : '') + '</td>' +
+          '<td class="c-num" data-l="Renovaciones"><span class="renov-barra"><i style="width:' + Math.round(100 * r / maxRenov) + '%"></i></span>' + r + '</td>' +
+          '<td class="c-num" data-l="Días en trámite">' + (p.dias_tramite != null ? p.dias_tramite : '') + '</td>' +
+          '<td class="c-ficha" data-l="Ficha">' + fichaHTML(f) + '<span class="flecha" aria-hidden="true">→</span></td>' +
+          '</tr>';
+      }).join('') : '<tr><td colspan="8" class="vacio">No hay proyectos con esos filtros.</td></tr>';
     }
-    [fTipo, fCamara, fOrden, fTodas].forEach(function (s) { s.addEventListener('change', pintar); });
+    cuerpo.addEventListener('click', function (e) {
+      if (e.target.closest('a')) return;
+      var tr = e.target.closest('tr[data-href]');
+      if (tr) location.href = tr.getAttribute('data-href');
+    });
+    document.querySelectorAll('.tabla-proyectos th[data-orden]').forEach(function (th) {
+      var btn = th.querySelector('button');
+      btn.addEventListener('click', function () {
+        var k = th.getAttribute('data-orden');
+        orden = { k: k, dir: orden.k === k ? -orden.dir : 1 };
+        document.querySelectorAll('.tabla-proyectos th[data-orden]').forEach(function (x) { x.removeAttribute('aria-sort'); });
+        var invertida = k === 'renov' || k === 'dias';  // estas columnas parten de mayor a menor
+        th.setAttribute('aria-sort', (orden.dir === 1) !== invertida ? 'ascending' : 'descending');
+        pintar();
+      });
+    });
+    [fVista, fTipo, fCamara, fFicha].forEach(function (x) { x.addEventListener('change', pintar); });
     fTexto.addEventListener('input', pintar);
     pintar();
   }
