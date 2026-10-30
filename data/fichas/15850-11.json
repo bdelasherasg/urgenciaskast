@@ -1,0 +1,211 @@
+{
+  "version": 2,
+  "boletin": "15850-11",
+  "nivel": "completa",
+  "sintesis": "Crea delitos por vender medicamentos en lugares no autorizados, por falsificarlos y por robarlos, y da más facultades al ISP. Está en el Senado, en discusión particular, tras su aprobación en general.",
+  "materia": "la sanción de la venta ilegal de medicamentos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que crece la venta de remedios en ferias e internet.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Allí no se controla la temperatura ni tienen personal de salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Hoy solo es delito la venta ilegal de estupefacientes y psicotrópicos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los robos a camiones de remedios subieron más de 400% entre 2021 y 2022.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Castiga con más de 5 y hasta 10 años de cárcel vender remedios en lugares sin permiso o por internet.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "También castiga hacer, traer o vender remedios falsos.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Sanciona el robo de remedios desde camiones o bodegas.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Castiga al profesional de salud que receta de más para la venta ilegal.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El Instituto de Salud Pública podrá pedir datos de toda la cadena de venta de remedios.",
+        "fuentes": [
+          "f2",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Los fiscalizadores podrán pedir documentos o muestras en aduanas y locales.",
+        "fuentes": [
+          "f2",
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a farmacias, laboratorios, droguerías y profesionales que recetan.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien tenga condena por tráfico de drogas no podrá tener permiso sanitario ni ser director técnico de un local de salud.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero del proyecto.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de Salud entregó su segundo informe el 20 de octubre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar el texto de ese informe.",
+        "fuentes": [],
+        "pendiente": true
+      },
+      {
+        "texto": "El Senado aprobó la idea de legislar el 21 de julio de 2026.",
+        "fuentes": [
+          "f5",
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Asociación Industrial de Laboratorios Farmacéuticos (Asilfa)",
+      "tipo": "Gremio de laboratorios farmacéuticos",
+      "vocero": "Elmer Torres Cortés, vicepresidente ejecutivo",
+      "postura": "A favor",
+      "argumento": "Respalda sancionar la venta de medicamentos en lugares no autorizados, porque esos productos no tienen autorización sanitaria y son una amenaza para la salud pública.",
+      "fecha": "Agosto de 2023",
+      "fuentes": [
+        "f6"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "En una búsqueda limitada no encontramos declaraciones sobre este proyecto de colegios profesionales, gremios de farmacias, sindicatos ni organizaciones de pacientes o consumidores, entre abril de 2023 y octubre de 2026.",
+  "encuadre": {
+    "intro": "En la prensa revisada casi no hay debate público. Los autores, el gobierno y la industria presentan el proyecto de la misma manera, así que solo describimos un marco.",
+    "marcos": [
+      {
+        "titulo": "Un riesgo para la salud que la ley no castiga",
+        "quienes": "Autores de la moción, gobierno y laboratorios (Asilfa)",
+        "problema": "La venta informal de medicamentos en ferias e internet pone en riesgo la salud de las personas.",
+        "problema_fuentes": [
+          "f1",
+          "f6"
+        ],
+        "causa": "La ley vigente solo castiga la venta ilegal de estupefacientes y psicotrópicos, y existen organizaciones delictuales que abastecen este comercio.",
+        "causa_fuentes": [
+          "f1"
+        ],
+        "solucion": "Nuevos delitos en el Código Penal y más facultades al Instituto de Salud Pública. El Ministerio de Salud, según el gobierno, respalda la iniciativa.",
+        "solucion_fuentes": [
+          "f2"
+        ],
+        "palabras": [
+          "venta ilegal",
+          "comercio irregular",
+          "salud pública",
+          "organizaciones delictuales"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, boletín 15.850-11 (copia publicada por Diario Constitucional)",
+      "url": "https://www.diarioconstitucional.cl/wp-content/uploads/2023/07/15850-11-mocion.pdf",
+      "fecha": "Ingresada el 18 de abril de 2023",
+      "nota": "Fundamentos, contenido y autores de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Diario Estrategia, «Venta ilegal de medicamentos: avanza proyecto que regula la comercialización de productos farmacéuticos»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5967910/venta-ilegal-medicamentos-avanza-proyecto-regula-comercializacion-productos-farmaceuticos",
+      "fecha": "28 de julio de 2026",
+      "nota": "Aprobación en general en Sala, contenido aprobado y postura del Ejecutivo."
+    },
+    {
+      "id": "f3",
+      "titulo": "BioBioChile, «Avanza proyecto que busca frenar y sancionar la venta ilegal de medicamentos»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/29/avanza-proyecto-que-busca-frenar-y-sancionar-la-venta-ilegal-de-medicamentos.shtml",
+      "fecha": "29 de julio de 2026",
+      "nota": "Contenido aprobado y plazo de indicaciones."
+    },
+    {
+      "id": "f4",
+      "titulo": "DOE Actualidad Jurídica, «Senado aprueba en general proyecto que sanciona la venta ilegal de medicamentos»",
+      "url": "https://actualidadjuridica.doe.cl/senado-aprueba-en-general-proyecto-que-sanciona-la-venta-ilegal-de-medicamentos/",
+      "fecha": "31 de julio de 2026",
+      "nota": "Nuevas facultades del ISP y de los fiscalizadores."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, ficha de tramitación del boletín 15850-11",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15850-11",
+      "fecha": "Consulta automática",
+      "nota": "Etapas, informes y urgencias."
+    },
+    {
+      "id": "f6",
+      "titulo": "Asilfa, presentación «Seminario Venta Ilegal de Medicamentos»",
+      "url": "https://www.cnc.cl/wp-content/uploads/2023/08/10.08.23-PPT-Seminario-Venta-Ilegal-de-Medicamentos-ASILFA.pdf",
+      "fecha": "Agosto de 2023",
+      "nota": "Postura de la Asociación Industrial de Laboratorios Farmacéuticos."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
