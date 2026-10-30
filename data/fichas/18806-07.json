@@ -1,0 +1,270 @@
+{
+  "version": 2,
+  "boletin": "18806-07",
+  "nivel": "completa",
+  "sintesis": "Cambia las reglas de la rebaja de condena por buena conducta y exige los requisitos vigentes al postular. Está en primer trámite en el Senado, con discusión inmediata.",
+  "materia": "la reforma de la rebaja de condena por buena conducta",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que un vacío legal permitió rebajar penas a quienes abusaron de niños.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El ministro de Justicia habla de un problema de interpretación de la ley.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Cuesta aplicar las restricciones a los condenados antes de 2022.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Fija con claridad cada paso del trámite para pedir la rebaja.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La víctima podrá, si quiere, participar ante la comisión que decide.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pide los requisitos vigentes al postular, sin importar la fecha del delito.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Excluye del beneficio el homicidio simple de un menor de edad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Gendarmería publicará cada año un informe con datos de los casos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley 19.856, que rebaja la pena por buena conducta.",
+        "fuentes": [
+          "f1",
+          "f6"
+        ]
+      },
+      {
+        "texto": "También modifica el Código Procesal Penal.",
+        "fuentes": [
+          "f1",
+          "f6"
+        ]
+      },
+      {
+        "texto": "Agrega una regla para leer los requisitos y las exclusiones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Los nuevos pasos rigen para todos los que pidan la rebaja.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Busca impedir la rebaja a condenados por delitos sexuales contra niños.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El gobierno lo ingresó al Senado el 27 de octubre de 2026.",
+        "fuentes": [
+          "f1",
+          "f8"
+        ]
+      },
+      {
+        "texto": "Tiene discusión inmediata, que vence el 2 de noviembre.",
+        "fuentes": [
+          "f2",
+          "f8"
+        ]
+      },
+      {
+        "texto": "La comisión de Constitución lo unió con tres proyectos de senadores.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "La Sala del Senado aprobó unirlos el 28 de octubre.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "Revisamos prensa del 21 al 30 de octubre de 2026. No encontramos declaraciones de colegios de abogados, centros de estudio, organizaciones de víctimas ni gremios de Gendarmería sobre este proyecto. Hay una nota sobre la Fundación para la Confianza (22 de octubre), anterior al proyecto, que no pudimos abrir.",
+  "encuadre": {
+    "intro": "En las pocas notas revisadas aparecen dos maneras de presentar el tema.",
+    "marcos": [
+      {
+        "titulo": "Un vacío en la ley",
+        "quienes": "Gobierno",
+        "problema": "El Estado rebajó penas a condenados por abuso sexual y violación de niños.",
+        "problema_fuentes": [
+          "f3"
+        ],
+        "causa": "Un vacío legal y un problema de interpretación de la ley.",
+        "causa_fuentes": [
+          "f3",
+          "f5"
+        ],
+        "solucion": "Una ley clara, sin ambigüedades, que impida esas rebajas.",
+        "solucion_fuentes": [
+          "f9",
+          "f2"
+        ],
+        "palabras": [
+          "vacío legal",
+          "sin ambigüedades",
+          "Nunca más"
+        ]
+      },
+      {
+        "titulo": "Una decisión evitable",
+        "quienes": "Senadores críticos del Ministerio de Justicia y dos exministros",
+        "problema": "Se dieron rebajas que, con la ley vigente, eran evitables.",
+        "problema_fuentes": [
+          "f6"
+        ],
+        "causa": "El ministerio eligió una lectura favorable al condenado.",
+        "causa_fuentes": [
+          "f6"
+        ],
+        "solucion": "Pasar estas decisiones a tribunales de ejecución de penas; un exministro dice que no hace falta una ley nueva.",
+        "solucion_fuentes": [
+          "f7"
+        ],
+        "palabras": [
+          "perfectamente evitable",
+          "pro reo",
+          "pro niño"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "interpretación",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, la ley admite dudas de interpretación, y el proyecto agrega una regla para resolverlas.",
+          "fuentes": [
+            "f5",
+            "f1"
+          ]
+        },
+        {
+          "texto": "Para algunos senadores, la interpretación fue una elección del ministerio, que optó por favorecer al condenado.",
+          "fuentes": [
+            "f6"
+          ]
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "T13, «¿Cuáles son las modificaciones que el Gobierno presentó para impedir la rebaja de pena?»",
+      "url": "https://www.t13.cl/noticia/politica/cuales-son-las-modificaciones-gobierno-presento-para-impedir-rebaja-pena-27-10-2026",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Contenido del mensaje presentado al Senado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Emol, nota sobre el proyecto del gobierno y las urgencias a las iniciativas sobre rebajas de condena",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/26/1215267/gobierno-proyecto-rebajas-condenas.html",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Objetivo del proyecto y discusión inmediata."
+    },
+    {
+      "id": "f3",
+      "titulo": "Emol, nota sobre el anuncio del Presidente Kast de suspender rebajas y presentar un proyecto",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/26/1215179/kast-anuncia-suspension-rebajas-proyecto.html",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Fundamentos declarados por el Presidente."
+    },
+    {
+      "id": "f4",
+      "titulo": "Pauta, «Justicia frena rebajas de condenas y prepara cambios legales tras polémica por delitos sexuales contra menores»",
+      "url": "https://www.pauta.cl/actualidad/2026/10/23/justicia-frena-rebajas-de-condenas-y-prepara-cambios-legales-tras-polemica-por-delitos-sexuales-contra-menores.html",
+      "fecha": "23 de octubre de 2026",
+      "nota": "Dificultad para aplicar las restricciones a condenados antes de 2022."
+    },
+    {
+      "id": "f5",
+      "titulo": "Emol, nota sobre la defensa del ministro Rabat en la comisión del Senado",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/27/1215375/rabat-defiende-gobierno-rebaja-condenas.html",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Problema de interpretación según el ministro de Justicia."
+    },
+    {
+      "id": "f6",
+      "titulo": "G5 Noticias, «Rebaja de condenas: acuerdan fusionar cuatro iniciativas y tramitar proyecto de tribunales de ejecución de penas»",
+      "url": "https://g5noticias.cl/?p=929087",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Sesión de la comisión de Constitución del Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Emol, nota sobre las propuestas legislativas por las rebajas de penas",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/25/1215131/propuestas-legislativas-rebaja-penas.html",
+      "fecha": "25 de octubre de 2026",
+      "nota": "Proyecto de tribunales de ejecución de penas y opinión de exministros."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, ficha de tramitación del boletín 18806-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18806-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas, urgencia y refundición (datos de urgencias.json)."
+    },
+    {
+      "id": "f9",
+      "titulo": "Ministerio del Interior, «Gobierno impulsará proyecto de ley que revisará acceso a la rebaja de una condena»",
+      "url": "https://interior.gob.cl/noticias/2026/10/26/gobierno-impulsara-proyecto-de-ley-que-revisara-acceso-a-la-rebaja-de-una-condena/",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Declaración del Presidente Kast."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
