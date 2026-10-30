@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-10-30T08:23-03:00",
+ "actualizado": "2026-10-30T08:50-03:00",
  "conteos": {
   "urgencias_vigentes": 49,
   "discusion_inmediata": 12,
@@ -12,7 +12,7 @@
   {
    "boletin": "16335-14",
    "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
-   "sintesis": "",
+   "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-10-30",
    "url": "https://urgenciaskast.cl/p/16335-14.html"
@@ -20,7 +20,7 @@
   {
    "boletin": "18788-07",
    "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
-   "sintesis": "",
+   "sintesis": "Reforma constitucional que aplica a los beneficios de condenados por delitos sexuales la ley vigente al decidirlos. Está en la Comisión de Constitución de la Cámara, con discusión inmediata.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-01",
    "url": "https://urgenciaskast.cl/p/18788-07.html"
@@ -28,7 +28,7 @@
   {
    "boletin": "18211-25",
    "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
-   "sintesis": "",
+   "sintesis": "Sube las penas de los delitos cometidos con el rostro cubierto en desórdenes públicos. La Cámara lo aprobó y ahora lo revisa el Senado, con discusión inmediata.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
    "url": "https://urgenciaskast.cl/p/18211-25.html"
@@ -36,7 +36,7 @@
   {
    "boletin": "18239-36",
    "titulo": "Establece sanciones en el caso de acusaciones, denuncias o querellas falsas y regula el procedimiento para su aplicación",
-   "sintesis": "",
+   "sintesis": "Crea un delito y un juicio especial para sancionar denuncias falsas, sobre todo en causas de familia y delitos sexuales. Está en su primer trámite, en la Comisión de Constitución del Senado.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
    "url": "https://urgenciaskast.cl/p/18239-36.html"
@@ -44,7 +44,7 @@
   {
    "boletin": "18314-07",
    "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
-   "sintesis": "",
+   "sintesis": "Reforma la Constitución para alargar la detención de extranjeros con orden de expulsión, hoy de cinco días. La Cámara la rechazó y el gobierno insiste ahora en el Senado.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
    "url": "https://urgenciaskast.cl/p/18314-07.html"
@@ -52,7 +52,7 @@
   {
    "boletin": "18779-07",
    "titulo": "Proyecto de ley que interpreta y modifica la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena por delitos sexuales cometidos contra menores de edad",
-   "sintesis": "",
+   "sintesis": "Quita una excepción que permite rebajar la condena a ciertos condenados por delitos sexuales contra menores. Está en el Senado, con discusión inmediata, unido a otros tres proyectos.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
    "url": "https://urgenciaskast.cl/p/18779-07.html"
@@ -90,16 +90,40 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "12712-24",
+   "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
+   "publicado": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/12712-24.html"
+  },
+  {
    "boletin": "14782-13",
    "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
    "publicado": "2026-10-30",
    "url": "https://urgenciaskast.cl/p/14782-13.html"
   },
   {
-   "boletin": "18623-07",
-   "sintesis": "Posterga hasta el 15 de octubre de 2027 la ley de datos personales y amplía de tres a cinco el consejo de la Agencia. El Senado lo aprobó; ahora lo revisa la Cámara.",
-   "publicado": "2026-10-29",
-   "url": "https://urgenciaskast.cl/p/18623-07.html"
+   "boletin": "15261-25",
+   "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
+   "publicado": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/15261-25.html"
+  },
+  {
+   "boletin": "15805-07",
+   "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
+   "publicado": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/15805-07.html"
+  },
+  {
+   "boletin": "16335-14",
+   "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
+   "publicado": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/16335-14.html"
+  },
+  {
+   "boletin": "16743-04",
+   "sintesis": "Facilita abrir colegios subvencionados: permite el arriendo permanente y quita el requisito de demanda insatisfecha. La Cámara lo aprobó con cambios y ahora el Senado los revisa.",
+   "publicado": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
   }
  ],
  "analisis": [

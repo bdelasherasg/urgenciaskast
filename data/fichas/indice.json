@@ -1,9 +1,86 @@
 {
+ "12712-24": {
+  "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma de la ley de patrimonio cultural",
+  "revision": "pendiente"
+ },
  "14782-13": {
   "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
   "nivel": "completa",
   "publicado": "2026-10-30",
   "materia": "la sala cuna universal",
+  "revision": "pendiente"
+ },
+ "15261-25": {
+  "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el delito de ingreso clandestino al país",
+  "revision": "pendiente"
+ },
+ "15805-07": {
+  "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "las reglas del uso de la fuerza",
+  "revision": "pendiente"
+ },
+ "16335-14": {
+  "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la ley de prevención de incendios forestales",
+  "revision": "pendiente"
+ },
+ "16743-04": {
+  "sintesis": "Facilita abrir colegios subvencionados: permite el arriendo permanente y quita el requisito de demanda insatisfecha. La Cámara lo aprobó con cambios y ahora el Senado los revisa.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la creación de nuevos colegios subvencionados",
+  "revision": "pendiente"
+ },
+ "16836-06": {
+  "sintesis": "Cambia la ley de migraciones para hacer cumplir las expulsiones administrativas. Permite entrar a domicilios con permiso judicial y sube a cinco años la prohibición de volver. El Congreso lo despachó en octubre.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma de las expulsiones administrativas de extranjeros",
+  "revision": "pendiente"
+ },
+ "18211-25": {
+  "sintesis": "Sube las penas de los delitos cometidos con el rostro cubierto en desórdenes públicos. La Cámara lo aprobó y ahora lo revisa el Senado, con discusión inmediata.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la ley antiencapuchados",
+  "revision": "pendiente"
+ },
+ "18239-36": {
+  "sintesis": "Crea un delito y un juicio especial para sancionar denuncias falsas, sobre todo en causas de familia y delitos sexuales. Está en su primer trámite, en la Comisión de Constitución del Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la sanción de las denuncias falsas",
+  "revision": "pendiente"
+ },
+ "18314-07": {
+  "sintesis": "Reforma la Constitución para alargar la detención de extranjeros con orden de expulsión, hoy de cinco días. La Cámara la rechazó y el gobierno insiste ahora en el Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma del plazo de detención para expulsar a extranjeros",
+  "revision": "pendiente"
+ },
+ "18525-06": {
+  "sintesis": "Ajusta la ley de seguridad municipal: deja a los municipios gastar más en inspectores y da más plazo para cumplir requisitos. El Senado lo aprobó con cambios y la Cámara los revisa.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la ley corta de seguridad municipal",
+  "revision": "pendiente"
+ },
+ "18551-04": {
+  "sintesis": "Permite cambiar el calendario de los servicios locales de educación pendientes y atrasar traspasos de colegios. El Senado lo aprobó; ahora lo revisa la Cámara de Diputados.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el ajuste del traspaso de colegios a los servicios locales de educación",
   "revision": "pendiente"
  },
  "18623-07": {
@@ -12,5 +89,47 @@
   "publicado": "2026-10-29",
   "materia": "la postergación de la ley de datos personales",
   "revision": "aprobada"
+ },
+ "18643-05": {
+  "sintesis": "Crea un fondo estatal para créditos de vivienda y una cuenta de ahorro para el pie, y cambia reglas del mercado financiero. La Cámara lo aprobó; ahora lo revisa el Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma al mercado de capitales y a la compra de la primera vivienda",
+  "revision": "pendiente"
+ },
+ "18709-07": {
+  "sintesis": "Junta en dos las tres etapas de instalación del Servicio Nacional de Acceso a la Justicia, en enero de 2028 y enero de 2029. La Cámara lo aprobó; ahora lo revisa el Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el nuevo calendario del Servicio Nacional de Acceso a la Justicia",
+  "revision": "pendiente"
+ },
+ "18779-07": {
+  "sintesis": "Quita una excepción que permite rebajar la condena a ciertos condenados por delitos sexuales contra menores. Está en el Senado, con discusión inmediata, unido a otros tres proyectos.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la exclusión de la rebaja de condena por delitos sexuales contra menores",
+  "revision": "pendiente"
+ },
+ "18788-07": {
+  "sintesis": "Reforma constitucional que aplica a los beneficios de condenados por delitos sexuales la ley vigente al decidirlos. Está en la Comisión de Constitución de la Cámara, con discusión inmediata.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma constitucional sobre beneficios penales en delitos sexuales",
+  "revision": "pendiente"
+ },
+ "18804-07": {
+  "sintesis": "Moción de cinco senadores que interpreta la regla que excluye de la rebaja de condena a condenados por delitos sexuales contra menores. Está en la Comisión de Constitución del Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la interpretación de la exclusión de la rebaja de condena",
+  "revision": "pendiente"
+ },
+ "18806-07": {
+  "sintesis": "Cambia las reglas de la rebaja de condena por buena conducta y exige los requisitos vigentes al postular. Está en primer trámite en el Senado, con discusión inmediata.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma de la rebaja de condena por buena conducta",
+  "revision": "pendiente"
  }
 }
