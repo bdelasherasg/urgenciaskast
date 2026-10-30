@@ -1,0 +1,345 @@
+{
+  "version": 2,
+  "boletin": "16335-14",
+  "nivel": "completa",
+  "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
+  "materia": "la ley de prevención de incendios forestales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno que lo presentó quiere bajar el riesgo de incendios forestales y rurales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Para eso busca planificar mejor el territorio y regular más la actividad forestal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar el mensaje del proyecto.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Exige planes de prevención en los predios forestales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pone reglas más duras en la interfaz urbano-rural, donde hay casas junto a vegetación.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Allí, los dueños deben hacer cortafuegos y limpiar la vegetación.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Las multas llegan a 3.000 UTM, unos 209 millones de pesos.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia los planes que ordenan el uso del suelo y los de manejo forestal.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Fija tareas del nuevo Servicio Nacional Forestal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los dueños de predios en zonas de riesgo.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en marzo de 2024 y el Senado lo cambió en enero de 2026.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Cámara rechazó tres de esos cambios.",
+        "fuentes": [
+          "f3",
+          "f10"
+        ]
+      },
+      {
+        "texto": "Por eso los revisó una comisión mixta, de diputados y senadores.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión quitó, por 5 votos contra 3, el deber del Estado de pagar a los dueños por los cortafuegos.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Ahora la Cámara debe votar el informe, y luego el Senado.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "La urgencia vigente, de discusión inmediata, vence el 30 de octubre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Greenpeace Chile",
+      "tipo": "Organización ambiental",
+      "vocero": "Silvana Espinosa, experta en Clima y Ecosistemas",
+      "postura": "A favor",
+      "argumento": "Pidió a la Cámara aprobar el proyecto. Sostiene que responde a una demanda ciudadana por más prevención y sanciones, y criticó la demora del Congreso.",
+      "fecha": "2 de marzo de 2026",
+      "fuentes": [
+        "f8"
+      ]
+    },
+    {
+      "organizacion": "Corporación Chilena de la Madera (Corma)",
+      "tipo": "Gremio forestal",
+      "vocero": "Rodrigo O'Ryan, presidente nacional",
+      "postura": "Con reparos",
+      "argumento": "Sostiene que el proyecto se centra en sancionar. Pide una estrategia integral de prevención, combate y recuperación, y más capacidades de policías y tribunales para perseguir a quienes provocan incendios.",
+      "fecha": "20 de agosto de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Colegio de Ingenieros Forestales de Chile",
+      "tipo": "Colegio profesional",
+      "vocero": "Simón Berti, presidente",
+      "postura": "Con reparos",
+      "argumento": "Considera que la ley no tiene normas para evitar que los incendios se inicien, que falta patrullaje preventivo obligatorio y que carga la responsabilidad en pequeños y medianos propietarios rurales.",
+      "fecha": "Enero de 2026",
+      "fuentes": [
+        "f2"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de sindicatos forestales, de asociaciones de municipios ni de organizaciones de pequeños propietarios o agricultores sobre este proyecto entre agosto y octubre de 2026.",
+  "encuadre": {
+    "intro": "Esta es una lectura exploratoria sobre pocas notas de prensa. En ellas aparecen tres maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Prevenir con responsabilidad compartida",
+        "quienes": "Organizaciones ambientales y la mayoría de la Comisión Mixta",
+        "problema": "Los incendios se repiten cada año, y el riesgo es mayor donde hay casas junto a vegetación.",
+        "problema_fuentes": [
+          "f11",
+          "f2"
+        ],
+        "causa": "El Congreso tardó años en aprobar una ley centrada en la prevención.",
+        "causa_fuentes": [
+          "f8"
+        ],
+        "solucion": "Exigir cortafuegos y limpieza a los dueños, sin obligar al Estado a indemnizarlos, para priorizar la corresponsabilidad.",
+        "solucion_fuentes": [
+          "f2",
+          "f9"
+        ],
+        "palabras": [
+          "prevención",
+          "corresponsabilidad",
+          "cortafuegos"
+        ]
+      },
+      {
+        "titulo": "Compensar a los propietarios",
+        "quienes": "Gobierno (Ministerio de Agricultura)",
+        "problema": "Las medidas de prevención pueden causar un daño patrimonial a los dueños de los predios.",
+        "problema_fuentes": [
+          "f3",
+          "f6"
+        ],
+        "causa": "Según el ministro de Agricultura, sin indemnización la norma podría tener un vicio de constitucionalidad.",
+        "causa_fuentes": [
+          "f6"
+        ],
+        "solucion": "Crear un fondo para compensar a los propietarios de las zonas de interfaz.",
+        "solucion_fuentes": [
+          "f6",
+          "f4"
+        ],
+        "palabras": [
+          "indemnización",
+          "vicio de constitucionalidad",
+          "fondo indemnizatorio"
+        ]
+      },
+      {
+        "titulo": "Una ley que no evita el inicio del fuego",
+        "quienes": "Gremio forestal y colegio profesional forestal",
+        "problema": "La ley no ataca el inicio de los incendios, en especial los intencionales.",
+        "problema_fuentes": [
+          "f2",
+          "f7"
+        ],
+        "causa": "El texto se centra en sancionar y en exigir a los propietarios.",
+        "causa_fuentes": [
+          "f7",
+          "f2"
+        ],
+        "solucion": "Más patrullaje preventivo y más capacidades para perseguir a los responsables.",
+        "solucion_fuentes": [
+          "f2",
+          "f7"
+        ],
+        "palabras": [
+          "estrategia integral",
+          "persecución",
+          "patrullaje preventivo"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "prevención",
+      "oraciones": [
+        {
+          "texto": "Para Greenpeace, el proyecto tiene un enfoque preventivo, a diferencia de leyes anteriores centradas en castigar.",
+          "fuentes": [
+            "f11"
+          ]
+        },
+        {
+          "texto": "Para Corma, el proyecto castiga en vez de prevenir de forma activa.",
+          "fuentes": [
+            "f7"
+          ]
+        },
+        {
+          "texto": "Para el Colegio de Ingenieros Forestales, ningún artículo apunta a prevenir el inicio de los incendios.",
+          "fuentes": [
+            "f2"
+          ]
+        },
+        {
+          "texto": "Cada lado usa la palabra con un sentido distinto: ordenar el territorio o evitar que el fuego empiece.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Pauta, «Cámara de Diputados aprueba ley de incendios y pasa al Senado: impondrá 10 cambios para la prevención de los siniestros»",
+      "url": "https://www.pauta.cl/actualidad/2024/03/06/camara-de-diputados-aprueba-ley-de-incendios-y-pasa-al-senado-impondra-10-cambios-para-la-prevencion-de-los-siniestros.html",
+      "fecha": "6 de marzo de 2024",
+      "nota": "Objetivo declarado por el gobierno que presentó el proyecto y principales medidas."
+    },
+    {
+      "id": "f2",
+      "titulo": "La Tercera, «Ley de incendios: qué incluye y hasta dónde llega su capacidad real de prevención»",
+      "url": "https://www.latercera.com/nacional/noticia/ley-de-incendios-que-incluye-y-hasta-donde-llega-su-capacidad-real-de-prevencion/",
+      "fecha": "Enero de 2026 (tras la aprobación en el Senado)",
+      "nota": "Contenido del texto, multas y opinión del Colegio de Ingenieros Forestales."
+    },
+    {
+      "id": "f3",
+      "titulo": "Diario Estrategia, «Comisión Mixta deberá resolver últimas normas de proyecto de ley de incendios»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5794431/comision-mixta-debera-resolver-ultimas-normas-proyecto-ley-incendios",
+      "fecha": "4 de marzo de 2026",
+      "nota": "Reproduce la nota de la Cámara: contenido, tramitación y normas rechazadas en tercer trámite."
+    },
+    {
+      "id": "f4",
+      "titulo": "BioBioChile, «Ley de Incendios transita a una etapa decisiva: Informe de Comisión Mixta será votado por el Congreso»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/08/ley-de-incendios-transita-a-una-etapa-decisiva-informe-de-comision-mixta-sera-votado-por-el-congreso.shtml",
+      "fecha": "8 de octubre de 2026",
+      "nota": "Acuerdos y votaciones de la Comisión Mixta; próximos pasos."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, ficha de tramitación del boletín 16335-14",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16335-14",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias."
+    },
+    {
+      "id": "f6",
+      "titulo": "El Desconcierto, «Indemnizar a propietarios por medidas contra el fuego: el debate que enfrenta la ley de incendios en su recta final»",
+      "url": "https://eldesconcierto.cl/medio-ambiente/indemnizar-propietarios-medidas-contra-fuego-el-debate-que-enfrenta-la-ley-incendios-recta-final-n5462097",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Postura del Ministerio de Agricultura sobre la indemnización."
+    },
+    {
+      "id": "f7",
+      "titulo": "Sabes, «Tras avance de la Ley de Incendios: Corma pide reforzar la prevención y persecución de quienes provocan siniestros»",
+      "url": "https://sabes.cl/2026/08/20/tras-avance-de-la-ley-de-incendios-corma-pide-reforzar-la-prevencion-y-persecucion-de-quienes-provocan-siniestros",
+      "fecha": "20 de agosto de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f8",
+      "titulo": "Greenpeace Chile, «Al amanecer y frente al Congreso: Greenpeace exige a Diputados aprobar hoy la ley de incendios»",
+      "url": "https://www.greenpeace.org/chile/noticia/issues/bosques/al-amanecer-y-frente-al-congreso-greenpeace-exige-a-diputados-aprobar-hoy-la-ley-de-incendios/",
+      "fecha": "2 de marzo de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f9",
+      "titulo": "ADPrensa, «Comisión Mixta de incendios concluye su labor»",
+      "url": "https://adprensa.cl/comision-mixta-de-incendios-concluye-su-labor/",
+      "fecha": "9 de octubre de 2026",
+      "nota": "Acuerdos de la Comisión Mixta y fondo en estudio."
+    },
+    {
+      "id": "f10",
+      "titulo": "El Desconcierto, «Ley de incendios pasa a comisión mixta por discrepancia sobre indemnización por daño patrimonial a propietarios»",
+      "url": "https://eldesconcierto.cl/2026/03/03/ley-de-incendios-pasa-a-comision-mixta-por-discrepancia-sobre-indemnizacion-por-dano-patrimonial-a-propietarios",
+      "fecha": "3 de marzo de 2026",
+      "nota": "Normas rechazadas por la Cámara en tercer trámite."
+    },
+    {
+      "id": "f11",
+      "titulo": "Radio Nuevo Mundo, «Silvana Espinosa de Greenpeace destaca foco preventivo en proyecto de ley contra incendios»",
+      "url": "https://radionuevomundo.cl/2026/01/silvana-espinosa-de-greenpeace-destaca-foco-preventivo-en-proyecto-de-ley-contra-incendios/?print=pdf",
+      "fecha": "Enero de 2026 (día no indicado)",
+      "nota": ""
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
