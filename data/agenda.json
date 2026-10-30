@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-30T08:50-03:00",
+ "actualizado": "2026-10-30T14:12-03:00",
  "desde": "2026-10-30",
  "hasta": "2026-11-12",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-10-30T11:50",
-   "citaciones": 6,
+   "consultado": "2026-10-30T17:12",
+   "citaciones": 5,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -50,22 +50,6 @@
    "boletines": [
     "18702-05"
    ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-04",
-   "hora": "12:30",
-   "horario": "12:30 a 14:00",
-   "camara": "Senado",
-   "organo": "Comisión de Trabajo y Previsión Social",
-   "lugar": "Sala N°9 Tercer Piso Senado Valparaíso",
-   "materias": [
-    "1.- Para recibir en audiencia al Superintendente de Pensiones y al Presidente de la Asociación de AFP, para que se dé cuenta ante la Comisión de lo sucedido con los criterios de inversión, las inversiones y pérdidas del Fondo E.",
-    "%%CITACION_FECHA.COMINOMBRE%% []",
-    "-->"
-   ],
-   "boletines": [],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   },

@@ -20,11 +20,25 @@
   "materia": "el delito de ingreso clandestino al país",
   "revision": "pendiente"
  },
+ "15589-07": {
+  "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la reforma de la ley de responsabilidad penal adolescente",
+  "revision": "pendiente"
+ },
  "15805-07": {
   "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
   "nivel": "completa",
   "publicado": "2026-10-30",
   "materia": "las reglas del uso de la fuerza",
+  "revision": "pendiente"
+ },
+ "15850-11": {
+  "sintesis": "Crea delitos por vender medicamentos en lugares no autorizados, por falsificarlos y por robarlos, y da más facultades al ISP. Está en el Senado, en discusión particular, tras su aprobación en general.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "la sanción de la venta ilegal de medicamentos",
   "revision": "pendiente"
  },
  "16335-14": {
@@ -48,6 +62,27 @@
   "materia": "la reforma de las expulsiones administrativas de extranjeros",
   "revision": "pendiente"
  },
+ "17637-07": {
+  "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el delito de reclutamiento de menores por bandas criminales",
+  "revision": "pendiente"
+ },
+ "18155-25": {
+  "sintesis": "Sube las penas de delitos contra la comunidad educativa y de delitos contra la propiedad en colegios. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "las agravantes por delitos contra la comunidad educativa",
+  "revision": "pendiente"
+ },
+ "18208-25": {
+  "sintesis": "Permite seguir el juicio oral y dictar sentencia cuando el acusado no se presenta sin razón válida. El Senado lo aprobó; ahora lo estudia la Comisión de Seguridad Ciudadana de la Cámara.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el juicio oral en ausencia del acusado",
+  "revision": "pendiente"
+ },
  "18211-25": {
   "sintesis": "Sube las penas de los delitos cometidos con el rostro cubierto en desórdenes públicos. La Cámara lo aprobó y ahora lo revisa el Senado, con discusión inmediata.",
   "nivel": "completa",
@@ -62,11 +97,25 @@
   "materia": "la sanción de las denuncias falsas",
   "revision": "pendiente"
  },
+ "18258-07": {
+  "sintesis": "Permite que militares hagan controles de identidad, registros y detenciones en flagrancia durante estados de emergencia o catástrofe. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el control de identidad por las Fuerzas Armadas en estados de excepción",
+  "revision": "pendiente"
+ },
  "18314-07": {
   "sintesis": "Reforma la Constitución para alargar la detención de extranjeros con orden de expulsión, hoy de cinco días. La Cámara la rechazó y el gobierno insiste ahora en el Senado.",
   "nivel": "completa",
   "publicado": "2026-10-30",
   "materia": "la reforma del plazo de detención para expulsar a extranjeros",
+  "revision": "pendiente"
+ },
+ "18341-25": {
+  "sintesis": "Crea un registro de personas condenadas por actos vandálicos e incivilidades, que pierden por un tiempo beneficios del Estado. La comisión lo despachó; ahora va a Hacienda.",
+  "nivel": "completa",
+  "publicado": "2026-10-30",
+  "materia": "el registro de actos vandálicos e incivilidades",
   "revision": "pendiente"
  },
  "18525-06": {

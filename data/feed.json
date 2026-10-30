@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-10-30T08:50-03:00",
+ "actualizado": "2026-10-30T14:12-03:00",
  "conteos": {
   "urgencias_vigentes": 49,
   "discusion_inmediata": 12,
@@ -108,22 +108,22 @@
    "url": "https://urgenciaskast.cl/p/15261-25.html"
   },
   {
+   "boletin": "15589-07",
+   "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
+   "publicado": "2026-10-30",
+   "url": "https://urgenciaskast.cl/p/15589-07.html"
+  },
+  {
    "boletin": "15805-07",
    "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
    "publicado": "2026-10-30",
    "url": "https://urgenciaskast.cl/p/15805-07.html"
   },
   {
-   "boletin": "16335-14",
-   "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
+   "boletin": "15850-11",
+   "sintesis": "Crea delitos por vender medicamentos en lugares no autorizados, por falsificarlos y por robarlos, y da más facultades al ISP. Está en el Senado, en discusión particular, tras su aprobación en general.",
    "publicado": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/16335-14.html"
-  },
-  {
-   "boletin": "16743-04",
-   "sintesis": "Facilita abrir colegios subvencionados: permite el arriendo permanente y quita el requisito de demanda insatisfecha. La Cámara lo aprobó con cambios y ahora el Senado los revisa.",
-   "publicado": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/16743-04.html"
+   "url": "https://urgenciaskast.cl/p/15850-11.html"
   }
  ],
  "analisis": [
