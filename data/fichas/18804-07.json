@@ -1,0 +1,246 @@
+{
+  "version": 2,
+  "boletin": "18804-07",
+  "nivel": "completa",
+  "sintesis": "Moción de cinco senadores que interpreta la regla que excluye de la rebaja de condena a condenados por delitos sexuales contra menores. Está en la Comisión de Constitución del Senado.",
+  "materia": "la interpretación de la exclusión de la rebaja de condena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores quieren que se cumpla la regla que niega la rebaja de condena por delitos sexuales contra menores.",
+        "fuentes": [
+          "f3",
+          "f8"
+        ]
+      },
+      {
+        "texto": "Dos de ellos dijeron que hay un problema de interpretación de la ley.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El proyecto surge tras 56 rebajas de este tipo dadas durante el actual gobierno.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Interpreta la letra e) del artículo 17 de la Ley 19.856, que dice quién no puede tener rebaja.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      },
+      {
+        "texto": "También fija un deber de informar al Congreso.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar el texto de la moción.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Desde 2022, la letra e) excluye de la rebaja a condenados por delitos sexuales contra menores.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Hay dudas sobre si esa regla vale para delitos anteriores a 2022.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Los tribunales no coinciden en la respuesta.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a condenados por delitos sexuales contra menores que piden rebaja de condena.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También al Ministerio de Justicia, que firma los decretos de rebaja.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar un informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Entró al Senado el 27 de octubre de 2026 y pasó a la Comisión de Constitución.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El gobierno le dio discusión inmediata, un plazo de seis días que vence el 2 de noviembre.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 28 de octubre se acordó unirlo con otros tres proyectos del mismo tema.",
+        "fuentes": [
+          "f1",
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de gremios, colegios profesionales, centros de estudio ni organizaciones de defensa de la niñez sobre este proyecto entre el 21 y el 30 de octubre de 2026. La Fundación Enraizar criticó las rebajas de condena, pero no se refirió a ningún proyecto de ley.",
+  "encuadre": {
+    "intro": "En la prensa revisada aparecen dos maneras de presentar el tema que motiva este proyecto. Es una lectura exploratoria sobre pocas notas.",
+    "marcos": [
+      {
+        "titulo": "Un problema de interpretación de la ley",
+        "quienes": "Gobierno y autores de la moción",
+        "problema": "Se han dado rebajas a condenados por delitos sexuales contra menores en este y en el anterior gobierno.",
+        "problema_fuentes": [
+          "f7"
+        ],
+        "causa": "Hay diferencias en cómo se interpreta la ley vigente.",
+        "causa_fuentes": [
+          "f7",
+          "f4"
+        ],
+        "solucion": "Una ley que cierre estas rebajas sin margen de interpretación.",
+        "solucion_fuentes": [
+          "f6"
+        ],
+        "palabras": [
+          "interpretación",
+          "sin ambigüedades",
+          "Nunca más"
+        ]
+      },
+      {
+        "titulo": "Una decisión que se podía evitar",
+        "quienes": "Parlamentarios de oposición en la Comisión de Constitución",
+        "problema": "Con la ley vigente, las rebajas se podían haber evitado.",
+        "problema_fuentes": [
+          "f4"
+        ],
+        "causa": "El gobierno aplicó un criterio distinto al de gobiernos anteriores.",
+        "causa_fuentes": [
+          "f4",
+          "f5"
+        ],
+        "solucion": "Que el ministerio explique por qué cambió el criterio.",
+        "solucion_fuentes": [
+          "f4"
+        ],
+        "palabras": [
+          "perfectamente evitable",
+          "cambio de criterio",
+          "pro niño"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "interpretación",
+      "oraciones": [
+        {
+          "texto": "Para el Ministerio de Justicia, las rebajas muestran un problema de interpretación legal que la ley debe resolver.",
+          "fuentes": [
+            "f7"
+          ]
+        },
+        {
+          "texto": "Una senadora de oposición preguntó por qué se eligió una interpretación favorable al condenado y no al niño.",
+          "fuentes": [
+            "f4"
+          ]
+        },
+        {
+          "texto": "Un lado ve la interpretación como un vacío de la ley; el otro, como una decisión del ministerio.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, ficha de tramitación del boletín 18804-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18804-07",
+      "fecha": "Consulta automática",
+      "nota": "Datos de urgencias.json: ingreso, cuenta, urgencia y acuerdo de refundir."
+    },
+    {
+      "id": "f2",
+      "titulo": "Puranoticia, «Gobierno anuncia discusión inmediata a proyectos contra rebaja de penas a condenados por delitos sexuales contra menores de edad»",
+      "url": "https://puranoticia.pnt.cl/nacional/gobierno-anuncia-discusion-inmediata-a-proyectos-contra-rebaja-de-penas-a",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Título de la moción (artículo 17, letra e), autores y deber de información al Congreso."
+    },
+    {
+      "id": "f3",
+      "titulo": "Emol, nota sobre el proyecto de senadores para excluir de la reducción de pena a condenados por delitos sexuales contra menores",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/22/1214859/proyecto-senadores-reduccion-pena-delitos.html",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Autores, objetivo y contexto de los 56 decretos."
+    },
+    {
+      "id": "f4",
+      "titulo": "Diario Estrategia, «Rebaja de condenas: acuerdan fusionar cuatro iniciativas y tramitar proyecto de tribunales de ejecución de penas»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6069507/rebaja-condenas-acuerdan-fusionar-cuatro-iniciativas-tramitar-proyecto-tribunales-ejecucion-penas",
+      "fecha": "28 de octubre de 2026",
+      "nota": "Sesión de la Comisión de Constitución: fusión de cuatro iniciativas e intervenciones."
+    },
+    {
+      "id": "f5",
+      "titulo": "En Estrado, «Rebajas de condena a 56 condenados por delitos sexuales contra menores: el fondo jurídico del tenso encuentro el ministro Rabat y la Presidente de la Corte Suprema Gloria Ana Chevesich»",
+      "url": "https://enestrado.com/rebajas-de-condena-a-56-condenados-por-delitos-sexuales-contra-menores-el-fondo-juridico-del-tenso-encuentro-el-ministro-rabat-y-la-presidente-de-la-corte-suprema-gloria-ana-chevesich/",
+      "fecha": "23 de octubre de 2026",
+      "nota": "Ley 21.421, letra e) del artículo 17, procedimiento y criterios judiciales."
+    },
+    {
+      "id": "f6",
+      "titulo": "Ministerio del Interior, «Gobierno impulsará proyecto de ley que revisará acceso a la rebaja de condenas»",
+      "url": "https://interior.gob.cl/noticias/2026/10/26/gobierno-impulsara-proyecto-de-ley-que-revisara-acceso-a-la-rebaja-de-una-condena/",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Anuncio presidencial y suspensión de trámites de rebaja."
+    },
+    {
+      "id": "f7",
+      "titulo": "Emol, «Rabat defiende actuación del Gobierno por rebajas de condenas y llama a resolver \"en lo inmediato\" el problema legal»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/27/1215375/rabat-defiende-gobierno-rebaja-condenas.html",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Argumentos del Ministerio de Justicia."
+    },
+    {
+      "id": "f8",
+      "titulo": "BioBioChile, «Cinco proyectos y una polémica: Vendaval legislativo para impedir rebaja de penas a agresores sexuales»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/22/cinco-proyectos-y-una-polemica-el-vendaval-legislativo-por-rebajas-de-penas-a-agresores-sexuales.shtml",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Objetivo del proyecto de los cinco senadores."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
