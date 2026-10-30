@@ -1,0 +1,264 @@
+{
+  "version": 2,
+  "boletin": "18788-07",
+  "nivel": "completa",
+  "sintesis": "Reforma constitucional que aplica a los beneficios de condenados por delitos sexuales la ley vigente al decidirlos. Está en la Comisión de Constitución de la Cámara, con discusión inmediata.",
+  "materia": "la reforma constitucional sobre beneficios penales en delitos sexuales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que hay criterios opuestos sobre qué ley rige los beneficios en la cárcel.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Una ley de 2022 quitó la rebaja de condena en ciertos delitos sexuales contra menores.",
+        "fuentes": [
+          "f3",
+          "f6"
+        ]
+      },
+      {
+        "texto": "Algunos fallos no la aplican a delitos cometidos antes de esa ley.",
+        "fuentes": [
+          "f3",
+          "f6"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los beneficios de condenados por delitos sexuales se regirán por la ley vigente al decidirlos.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La regla se aplicará a solicitudes pendientes, sin importar la fecha del delito.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Deja sin efecto los beneficios dados por el gobierno en los seis meses previos.",
+        "fuentes": [
+          "f1",
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Según una nota de prensa, toca el artículo 19 número 3 de la Constitución.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Los autores dicen que no cambia las penas fijadas por los jueces.",
+        "fuentes": [
+          "f1",
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a condenados por delitos sexuales con solicitudes pendientes o beneficios de los últimos seis meses.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la prensa, Justicia dictó 56 decretos de rebaja entre marzo y septiembre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar un informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La moción ingresó a la Cámara el 21 de octubre de 2026.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre pasó a la Comisión de Constitución.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "Ese día el gobierno le dio discusión inmediata, que vence el 1 de noviembre.",
+        "fuentes": [
+          "f4",
+          "f9"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre esta reforma constitucional entre el 21 y el 30 de octubre de 2026. No hallamos posturas de colegios de abogados, centros de estudio, organizaciones de víctimas ni de defensa de la infancia sobre esta moción en particular. Las declaraciones de organizaciones que encontramos tratan de las rebajas de condena o del ministro de Justicia, no de este proyecto.",
+  "encuadre": {
+    "intro": "La prensa recoge poco debate sobre esta reforma en particular. En las notas revisadas aparecen dos maneras de presentar el tema.",
+    "marcos": [
+      {
+        "titulo": "Certeza ante criterios opuestos",
+        "quienes": "Diputados de RN y Evópoli que presentan la moción",
+        "problema": "Hay interpretaciones contradictorias sobre qué ley rige los beneficios, y eso acorta el tiempo real de la pena.",
+        "problema_fuentes": [
+          "f1"
+        ],
+        "causa": "Las decisiones siguen criterios previos de la Corte Suprema, y la ley de 2022 rige para condenados desde ese año.",
+        "causa_fuentes": [
+          "f1"
+        ],
+        "solucion": "Fijar en la Constitución que rige la ley vigente al resolver el beneficio.",
+        "solucion_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "palabras": [
+          "certeza jurídica",
+          "expectativa",
+          "aberración"
+        ]
+      },
+      {
+        "titulo": "Límites para revertir beneficios",
+        "quienes": "Académicos de derecho y exministros de Justicia citados por la prensa",
+        "problema": "Revertir beneficios ya concedidos encuentra límites en los derechos adquiridos de los condenados.",
+        "problema_fuentes": [
+          "f7"
+        ],
+        "causa": "La rebaja se otorga cuando se cumplen requisitos objetivos que fija la ley, no por una decisión discrecional.",
+        "causa_fuentes": [
+          "f7"
+        ],
+        "solucion": "Un exministro plantea que la ley de ejecución de penas evitaría interpretaciones dispares.",
+        "solucion_fuentes": [
+          "f8"
+        ],
+        "palabras": [
+          "derechos adquiridos",
+          "contingencias",
+          "ilegalidad"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "derecho adquirido",
+      "oraciones": [
+        {
+          "texto": "Para los autores, mientras no se concede un beneficio hay una expectativa y no un derecho adquirido.",
+          "fuentes": [
+            "f1",
+            "f2"
+          ]
+        },
+        {
+          "texto": "Para una académica de la Universidad de los Andes, los derechos adquiridos limitan la revocación de beneficios ya concedidos.",
+          "fuentes": [
+            "f7"
+          ]
+        },
+        {
+          "texto": "La Corte Suprema ha usado ambos criterios: uno trata la rebaja como mera expectativa y otro invoca la irretroactividad penal.",
+          "fuentes": [
+            "f6"
+          ]
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "G5noticias, «Reforma constitucional de bancada RN busca frenar rebajas retroactivas de condena a violadores y abusadores sexuales»",
+      "url": "https://g5noticias.cl/2026/10/21/reforma-constitucional-de-bancada-rn-busca-frenar-rebajas-retroactivas-de-condena-a-violadores-y-abusadores-sexuales/",
+      "fecha": "21 de octubre de 2026",
+      "nota": "Contenido de la moción, fundamentos de los autores y firmantes."
+    },
+    {
+      "id": "f2",
+      "titulo": "T13, «Bancada RN busca frenar rebajas retroactivas de condena a violadores y abusadores»",
+      "url": "https://www.t13.cl/noticia/politica/bancada-rn-busca-frenar-rebajas-retroactivas-condena-violadores-abusadores-22-10-2026",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Contenido de la moción y cifra de decretos de rebaja (citada de Interferencia)."
+    },
+    {
+      "id": "f3",
+      "titulo": "G5noticias, «“332 casos en los últimos 5 años es una aberración”: diputado Jorge Guzmán presenta proyecto para prohibir reducción de penas a condenados por delitos sexuales»",
+      "url": "https://g5noticias.cl/2026/10/22/332-casos-en-los-ultimos-5-anos-es-una-aberracion-diputado-jorge-guzman-presenta-proyecto-para-prohibir-reduccion-de-penas-a-condenados-por-delitos-sexuales/",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Contenido de la reforma y referencia a la Ley 21.421."
+    },
+    {
+      "id": "f4",
+      "titulo": "Emol, nota sobre el anuncio del gobierno de urgencias para proyectos sobre rebajas de condena",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/26/1215267/gobierno-proyecto-rebajas-condenas.html",
+      "fecha": "26 de octubre de 2026",
+      "nota": "El gobierno anuncia discusión inmediata para esta reforma."
+    },
+    {
+      "id": "f5",
+      "titulo": "Ex-Ante en T13, «La misión cuesta arriba de Rabat: por qué es tan difícil revertir las rebajas de penas»",
+      "url": "https://www.t13.cl/noticia/ex-ante/politica/la-mision-cuesta-arriba-rabat-por-tan-dificil-revertir-las-rebajas-penas-agreso-26-10-2026",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Artículo constitucional que modifica la reforma y riesgos jurídicos que plantean fuentes no identificadas."
+    },
+    {
+      "id": "f6",
+      "titulo": "Emol, nota sobre los criterios de la Corte Suprema en las rebajas de condena por abusos",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/24/1215064/criterios-corte-suprema-rebaja-abusos.html",
+      "fecha": "24 de octubre de 2026",
+      "nota": "Dos criterios de la Corte Suprema y norma vigente desde 2022."
+    },
+    {
+      "id": "f7",
+      "titulo": "Emol, nota sobre las dificultades para revertir las rebajas de penas",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/27/1215301/dificultades-revertir-rebaja-penas.html",
+      "fecha": "27 de octubre de 2026",
+      "nota": "Opiniones de académicos de derecho y exministros de Justicia."
+    },
+    {
+      "id": "f8",
+      "titulo": "Emol, nota sobre las propuestas legislativas ante la rebaja de penas",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/25/1215131/propuestas-legislativas-rebaja-penas.html",
+      "fecha": "25 de octubre de 2026",
+      "nota": "Otras iniciativas y opinión del exministro Luis Cordero."
+    },
+    {
+      "id": "f9",
+      "titulo": "Senado, ficha de tramitación del boletín 18788-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18788-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias (datos de urgencias.json; la página no se pudo abrir)."
+    },
+    {
+      "id": "f10",
+      "titulo": "Cámara de Diputadas y Diputados, ficha de tramitación del boletín 18788-07",
+      "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18788-07",
+      "fecha": "Consulta automática",
+      "nota": "Ingreso y cuenta del proyecto (datos de urgencias.json; la página no se pudo abrir)."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
