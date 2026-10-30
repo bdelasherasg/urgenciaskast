@@ -1,0 +1,263 @@
+{
+  "version": 2,
+  "boletin": "18709-07",
+  "nivel": "completa",
+  "sintesis": "Junta en dos las tres etapas de instalación del Servicio Nacional de Acceso a la Justicia, en enero de 2028 y enero de 2029. La Cámara lo aprobó; ahora lo revisa el Senado.",
+  "materia": "el nuevo calendario del Servicio Nacional de Acceso a la Justicia",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno pide más tiempo antes de abrir la primera etapa del servicio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que debe preparar datos, sistemas y personal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También busca evitar oficinas y trámites duplicados con las corporaciones de asistencia judicial.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Junta en dos las tres etapas de la ley.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La primera parte el 1 de enero de 2028, de Arica a Valparaíso.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La segunda suma las otras diez regiones en enero de 2029.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La convivencia con las corporaciones baja de 30 a 12 meses.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia normas transitorias de la Ley 21.780, de 2025.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La primera etapa estaba prevista para mayo de 2027.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según el gobierno, el servicio llegará a todo el país diez meses antes.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El programa de apoyo a víctimas pasa directo al servicio desde Prevención del Delito.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las corporaciones de asistencia judicial, que dan ayuda legal gratis.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La comisión de Constitución de la Cámara lo aprobó en general por 6 votos contra 1.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Sala de la Cámara lo aprobó el 21 de octubre de 2026.",
+        "fuentes": [
+          "f2",
+          "f6"
+        ]
+      },
+      {
+        "texto": "Ahora lo revisa la comisión de Constitución del Senado.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Tiene discusión inmediata, la urgencia más corta, renovada el 28 de octubre.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Federación Nacional de Acceso a la Justicia (Fenadaj)",
+      "tipo": "Federación de trabajadores de las corporaciones de asistencia judicial",
+      "vocero": "Victoria Escalante, presidenta",
+      "postura": "Con reparos",
+      "argumento": "Cuestiona el proyecto porque, a su juicio, no aborda las condiciones de fondo de la reforma. Pide resolver la falta de presupuesto y dotación, las jornadas parciales, la infraestructura y la igualdad de sueldos.",
+      "fecha": "16 de octubre de 2026",
+      "fuentes": [
+        "f4"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones de víctimas, colegios profesionales ni centros de estudio sobre este proyecto entre el 5 y el 30 de octubre de 2026.",
+  "encuadre": {
+    "intro": "En las pocas notas de prensa revisadas aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Una instalación más ordenada",
+        "quienes": "Gobierno",
+        "problema": "El servicio necesita una transición ordenada que no corte la atención legal a las personas.",
+        "problema_fuentes": [
+          "f2"
+        ],
+        "causa": "Falta tiempo para preparar información, sistemas y personal, y la convivencia con las corporaciones duplica estructuras.",
+        "causa_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "solucion": "Dos hitos en lugar de tres y una convivencia de 12 meses.",
+        "solucion_fuentes": [
+          "f2"
+        ],
+        "palabras": [
+          "transición ordenada",
+          "eficiente",
+          "anticipar"
+        ]
+      },
+      {
+        "titulo": "Una reforma que se posterga",
+        "quienes": "Trabajadores de las corporaciones (Fenadaj)",
+        "problema": "La instalación del servicio se atrasa sin resolver las condiciones de trabajo.",
+        "problema_fuentes": [
+          "f4"
+        ],
+        "causa": "Atribuye la situación al manejo del proceso por parte del Ministerio de Justicia.",
+        "causa_fuentes": [
+          "f4"
+        ],
+        "solucion": "Más presupuesto y dotación, mejor infraestructura e igualdad de sueldos.",
+        "solucion_fuentes": [
+          "f4"
+        ],
+        "palabras": [
+          "postergar",
+          "alerta máxima",
+          "precarizadas"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "postergar",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, el proyecto permite anticipar en diez meses la operación total del servicio.",
+          "fuentes": [
+            "f2"
+          ]
+        },
+        {
+          "texto": "Para Fenadaj, se trata de un proyecto para postergar la instalación del servicio.",
+          "fuentes": [
+            "f4"
+          ]
+        },
+        {
+          "texto": "El texto atrasa el primer hito de mayo de 2027 a enero de 2028.",
+          "fuentes": [
+            "f1"
+          ]
+        },
+        {
+          "texto": "Cada lado mira un hito distinto del calendario.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Ejecutivo propone postergar implementación de Defensoría de Víctimas»",
+      "url": "https://actualidadjuridica.doe.cl/ejecutivo-propone-postergar-implementacion-de-defensoria-de-victimas/",
+      "fecha": "13 de octubre de 2026",
+      "nota": "Contenido y fundamentos del mensaje: artículos transitorios modificados, nuevo calendario, traspaso del programa de víctimas."
+    },
+    {
+      "id": "f2",
+      "titulo": "Puranoticia, «Cámara aprueba proyecto que facilita la puesta en marcha del Servicio Nacional de Acceso a la Justicia y Defensoría de Víctimas»",
+      "url": "https://puranoticia.pnt.cl/nacional/camara-aprueba-proyecto-que-facilita-la-puesta-en-marcha-del-servicio",
+      "fecha": "21 de octubre de 2026",
+      "nota": "Aprobación en Sala, regiones de cada hito, convivencia con las corporaciones y declaraciones del ministro de Justicia."
+    },
+    {
+      "id": "f3",
+      "titulo": "Emol, «Comisión de Constitución aprueba proyecto que crea Servicio de Acceso a la Justicia y Defensoría de Víctimas»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/19/1214557/comision-servicio-acceso-justicia.html",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Votación en general en la comisión de la Cámara y descripción de las corporaciones."
+    },
+    {
+      "id": "f4",
+      "titulo": "G5 Noticias, «Fenadaj acusa al gobierno de \"sepultar\" la reforma de acceso a la justicia y se declara en alerta máxima»",
+      "url": "https://g5noticias.cl/?p=923384",
+      "fecha": "16 de octubre de 2026",
+      "nota": "Declaración de la Federación Nacional de Acceso a la Justicia sobre el proyecto."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, ficha de tramitación del boletín 18709-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18709-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias (según urgencias.json; la página no se pudo abrir)."
+    },
+    {
+      "id": "f6",
+      "titulo": "Cámara de Diputados, tramitación del boletín 18709-07",
+      "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18709-07",
+      "fecha": "Consulta automática",
+      "nota": "Trámites en la Cámara (según urgencias.json; la página no se pudo abrir)."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
