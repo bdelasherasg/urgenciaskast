@@ -1,0 +1,319 @@
+{
+  "version": 2,
+  "boletin": "18341-25",
+  "nivel": "completa",
+  "sintesis": "Crea un registro de personas condenadas por actos vandálicos e incivilidades, que pierden por un tiempo beneficios del Estado. La comisión lo despachó; ahora va a Hacienda.",
+  "materia": "el registro de actos vandálicos e incivilidades",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que las incivilidades y el vandalismo han aumentado.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Según el mensaje, estos actos dañan el espacio público y la vida en común.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea un registro, a cargo del Registro Civil, de condenados por ciertos delitos y faltas.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Se entra solo con una sentencia firme, que ya no admite recursos.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Los inscritos pierden por un tiempo becas, subsidios y otros beneficios estatales.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La comisión lo separó en dos registros: actos vandálicos e incivilidades.",
+        "fuentes": [
+          "f6",
+          "f7"
+        ]
+      },
+      {
+        "texto": "El gobierno redujo la lista a 14 delitos.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La comisión sumó el maltrato animal y el depósito ilegal de desechos tóxicos.",
+        "fuentes": [
+          "f5",
+          "f6"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes sean condenados por las conductas de la lista.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En los casos graves, pueden perder la gratuidad en la educación superior.",
+        "fuentes": [
+          "f3",
+          "f7"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Según Dipres, el primer año cuesta 1.363 millones de pesos.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Luego cuesta 333 millones de pesos al año.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar el informe financiero de los cambios de agosto.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La comisión lo aprobó en general el 10 de agosto, por 7 votos contra 5.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión despachó el proyecto el 19 de octubre de 2026.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Ahora pasa a la Comisión de Hacienda y luego a la Sala.",
+        "fuentes": [
+          "f6",
+          "f7"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que vence el 3 de noviembre de 2026.",
+        "fuentes": [
+          "f11"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Fundación Paz Ciudadana",
+      "tipo": "Centro de estudios privado",
+      "vocero": "Daniel Johnson, director ejecutivo",
+      "postura": "Con reparos",
+      "argumento": "Ante la comisión dijo que el proyecto no aborda las causas del problema y no tiene indicadores para medir sus resultados. Advirtió por los efectos de quitar beneficios sociales.",
+      "fecha": "Julio de 2026 (nota del 20 de julio)",
+      "fuentes": [
+        "f9"
+      ]
+    },
+    {
+      "organizacion": "Ideapaís",
+      "tipo": "Centro de estudios privado",
+      "vocero": "Emilia García Cox, directora de estudios",
+      "postura": "Con reparos",
+      "argumento": "Ante la comisión sostuvo que el proyecto se centra en aumentar sanciones y no en la prevención ni la reinserción, y que podría no reducir estas conductas.",
+      "fecha": "Julio de 2026 (nota del 20 de julio)",
+      "fuentes": [
+        "f9"
+      ]
+    },
+    {
+      "organizacion": "Amnistía Internacional Chile",
+      "tipo": "Organización de derechos humanos",
+      "vocero": "",
+      "postura": "Con reparos",
+      "argumento": "Reconoce un fin legítimo, pero sostiene que no se acredita que las herramientas actuales sean insuficientes. Ve riesgo de estigmatización por la consulta pública del registro y considera regresivo quitar la gratuidad o la PGU.",
+      "fecha": "Agosto de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de gremios, sindicatos, asociaciones de municipios ni organizaciones estudiantiles sobre este proyecto entre junio y octubre de 2026.",
+  "encuadre": {
+    "intro": "En la prensa revisada aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Orden y consecuencias",
+        "quienes": "Gobierno y diputados oficialistas",
+        "problema": "Han aumentado las incivilidades y el vandalismo.",
+        "problema_fuentes": [
+          "f2"
+        ],
+        "causa": "Para el gobierno, hace falta restablecer la cultura del orden.",
+        "causa_fuentes": [
+          "f6"
+        ],
+        "solucion": "Un registro con consecuencias, que sancione y disuada.",
+        "solucion_fuentes": [
+          "f2",
+          "f6"
+        ],
+        "palabras": [
+          "cultura del orden",
+          "consecuencias",
+          "disuadir",
+          "la mano cambió"
+        ]
+      },
+      {
+        "titulo": "Exclusión y derechos",
+        "quienes": "Diputados de oposición y organizaciones críticas",
+        "problema": "Quitar beneficios sociales puede aumentar la exclusión y afectar a personas vulnerables.",
+        "problema_fuentes": [
+          "f9",
+          "f10"
+        ],
+        "causa": "El proyecto se centra en sanciones y no en la prevención ni la reinserción.",
+        "causa_fuentes": [
+          "f9"
+        ],
+        "solucion": "Revisar si bastan las herramientas actuales y si hay medidas menos restrictivas.",
+        "solucion_fuentes": [
+          "f10"
+        ],
+        "palabras": [
+          "exclusión",
+          "reinserción",
+          "estigmatización",
+          "constitucionalidad"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "proporcionalidad",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, revisar la lista de conductas permite mantener la proporcionalidad.",
+          "fuentes": [
+            "f4"
+          ]
+        },
+        {
+          "texto": "Para Amnistía Internacional Chile, no se acredita que el registro sea necesario y proporcional.",
+          "fuentes": [
+            "f10"
+          ]
+        },
+        {
+          "texto": "La palabra tiene dos sentidos en este debate, y cada lado usa el suyo.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Gobierno ingresa proyecto que crea Registro Nacional de Actos Vandálicos e Incivilidades»",
+      "url": "https://actualidadjuridica.doe.cl/gobierno-ingresa-proyecto-que-crea-registro-nacional-de-actos-vandalicos-e-incivilidades/",
+      "fecha": "16 de junio de 2026",
+      "nota": "Fundamentos y contenido del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Emol, presentación del proyecto en la Comisión de Seguridad Ciudadana",
+      "url": "https://www.emol.com/noticias/Nacional/2026/06/22/1203565/discusion-registro-vandalos-pgu.html",
+      "fecha": "22 de junio de 2026",
+      "nota": "Datos de la ENUSC, sentencia firme, Registro Civil, plazos."
+    },
+    {
+      "id": "f3",
+      "titulo": "La Tribuna, «Registro de actos vandálicos avanza en el Congreso con foco en sanciones y restricciones a beneficios estatales»",
+      "url": "https://www.latribuna.cl/politica/2026/06/23/registro-de-actos-vandalicos-avanza-en-el-congreso-con-foco-en-sanciones-y-restricciones-a-beneficios-estatales.html",
+      "fecha": "23 de junio de 2026",
+      "nota": "Beneficios restringidos y dichos del subsecretario."
+    },
+    {
+      "id": "f4",
+      "titulo": "Emol, votación en general en la Comisión de Seguridad Ciudadana",
+      "url": "https://www.emol.com/noticias/Nacional/2026/08/10/1208099/comision-seguridad-registro-vandalos.html",
+      "fecha": "10 de agosto de 2026",
+      "nota": "Votación 7 a 5, con 1 abstención; compromisos del gobierno."
+    },
+    {
+      "id": "f5",
+      "titulo": "AD Prensa, «Aprueban catálogo de actos vandálicos con indicaciones»",
+      "url": "https://adprensa.cl/aprueban-catalogo-de-actos-vandalicos-con-indicaciones/",
+      "fecha": "22 de septiembre de 2026",
+      "nota": "Catálogo de 14 delitos de la indicación del gobierno y agregados."
+    },
+    {
+      "id": "f6",
+      "titulo": "Emol, despacho del proyecto en la Comisión de Seguridad Ciudadana",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/19/1214590/comision-seguridad-actos-vandalicos.html",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Despacho, dos registros, paso a Hacienda."
+    },
+    {
+      "id": "f7",
+      "titulo": "Diario Estrategia, «Cámara: Avanza creación de registro de actos vandálicos e incivilidades»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6061917/camara-avanza-creacion-registro-actos-vandalicos-e-incivilidades",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Contenido despachado y críticas de la oposición en la comisión."
+    },
+    {
+      "id": "f8",
+      "titulo": "Dirección de Presupuestos, Informe Financiero N.º 117",
+      "url": "https://www.dipres.gob.cl/604/articles-416574_doc_pdf.pdf",
+      "fecha": "1 de junio de 2026",
+      "nota": "Costo fiscal del mensaje original."
+    },
+    {
+      "id": "f9",
+      "titulo": "La Tribuna, «Expertos cuestionan proyecto que crea registro de actos vandálicos e incivilidades»",
+      "url": "https://www.latribuna.cl/politica/2026/07/20/expertos-cuestionan-proyecto-que-crea-registro-de-actos-vandalicos-e-incivilidades.html",
+      "fecha": "20 de julio de 2026",
+      "nota": "Exposiciones de Paz Ciudadana e Ideapaís en la comisión."
+    },
+    {
+      "id": "f10",
+      "titulo": "Amnistía Internacional Chile, informe sobre el proyecto de registro de vándalos, boletín 18.341-25",
+      "url": "https://amnistia.cl/wp-content/uploads/2026/08/Informe-Amnistia-Internacional-Pdl-Registro-de-Vandalos-Boletin-18.341-25.pdf",
+      "fecha": "Agosto de 2026",
+      "nota": "Análisis de derechos humanos."
+    },
+    {
+      "id": "f11",
+      "titulo": "Senado, ficha de tramitación del boletín 18341-25",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18341-25",
+      "fecha": "Consulta automática",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
