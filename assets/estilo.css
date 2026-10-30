@@ -508,3 +508,10 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
   .tabla-proyectos td.vacio { grid-column: 1 / -1; }
   .tabla-proyectos td.vacio::before { display: none; }
 }
+
+/* Fichas del piloto con revisión pendiente */
+.aviso-piloto { margin: 18px 0 6px; max-width: 760px; padding: 16px 20px; border-radius: var(--r-medio); background: rgba(242,180,42,.14); border: 1px solid rgba(242,180,42,.45); }
+.aviso-piloto .eyebrow { margin: 0 0 6px; }
+.aviso-piloto p:last-child { margin: 0; font-size: 15px; line-height: 1.55; color: var(--crema); }
+.tabla-proyectos .en-revision { display: block; font-family: var(--f-etiqueta); font-size: 10.5px; font-weight: 600; color: var(--tinta-suave); margin-top: 4px; }
+.tabla-proyectos .c-ficha .flecha { vertical-align: top; }

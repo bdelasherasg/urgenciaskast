@@ -231,7 +231,7 @@ def indice_fichas():
         f = leer_json(r)
         if f and f.get('version') == 2 and f.get('boletin'):
             idx[f['boletin']] = {'sintesis': f.get('sintesis', ''), 'nivel': f.get('nivel', ''), 'publicado': f.get('publicado', ''),
-                                 'materia': f.get('materia', '')}
+                                 'materia': f.get('materia', ''), 'revision': f.get('estado_revision', 'aprobada')}
     escribir(ruta('data', 'fichas', 'indice.json'), json.dumps(idx, ensure_ascii=False, indent=1) + '\n')
     return idx
 

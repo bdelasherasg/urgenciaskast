@@ -239,8 +239,9 @@
       return '<span class="sin-urg">Sin urgencia</span>';
     }
     function fichaHTML(f) {
-      if (f.i && f.i.nivel === 'completa') return '<span class="et-ficha et-completa">Análisis</span>';
-      if (f.i) return '<span class="et-ficha">Resumen</span>';
+      var rev = f.i && f.i.revision === 'pendiente' ? '<span class="en-revision">en revisión</span>' : '';
+      if (f.i && f.i.nivel === 'completa') return '<span class="et-ficha et-completa">Análisis</span>' + rev;
+      if (f.i) return '<span class="et-ficha">Resumen</span>' + rev;
       return '<span class="et-ficha et-datos">Datos</span>';
     }
 
@@ -497,7 +498,7 @@
     } else {
       bloque('resumen', 'Resumen del proyecto', '<article class="tarjeta" id="resumen" aria-labelledby="h-resumen"><div class="tarjeta-cuerpo preparacion">' +
         '<p class="num-bloque">Bloque {{N}}</p><h2 id="h-resumen">Resumen en preparación</h2>' +
-        '<p>Este proyecto todavía no tiene un ' + t('resumen_estructurado') + ' verificado. Lo publicamos cuando una persona del equipo revisó cada oración contra su fuente.</p>' +
+        '<p>Este proyecto todavía no tiene un ' + t('resumen_estructurado') + '. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.</p>' +
         (p && p.enlaces && p.enlaces.mensaje ? '<p>Mientras tanto, puede leer el <a href="' + esc(p.enlaces.mensaje) + '" rel="noopener">texto original del proyecto</a> o los informes de la ' + t('atp') + ' de la Biblioteca del Congreso.</p>' : '') +
         '<p class="aviso">¿Necesita este análisis antes? <a href="' + urlAsesoria('solicitar') + '">Lo Común puede prepararlo para su equipo</a>.</p>' +
         '</div></article>');
@@ -637,6 +638,8 @@
       '<div class="chips">' + chips + '</div>' +
       ((F && F.sintesis && p) ? '<p class="titulo-oficial"><b>Título oficial</b>' + esc(p.titulo) + '</p>' : '<p class="titulo-oficial"><b>Título oficial del proyecto</b></p>') +
       '<h1 id="titulo">' + esc(titulo) + '</h1>' +
+      (F && F.estado_revision === 'pendiente' ? '<div class="aviso-piloto" role="note"><p class="eyebrow">Revisión pendiente · piloto de prueba</p>' +
+        '<p>Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a <b>' + esc(CFG.correo || '') + '</b> indicando el boletín.</p></div>' : '') +
       (completa ? '<section class="vidrio csa" aria-labelledby="h-csa"><div><p class="eyebrow">Antes de leer</p><h2 id="h-csa">Esta ficha es un trabajo de ' + t('csa', 'ciencias sociales aplicadas') + '</h2>'
         : '<details class="vidrio csa csa-breve"><summary><span class="eyebrow">Antes de leer</span><span class="csa-titulo">Cómo se hacen las fichas: ciencias sociales aplicadas</span><span class="abrir"></span></summary><div>') +
       '<p>Las ciencias sociales estudian cómo actúan las personas, los grupos y las instituciones. Son <i>aplicadas</i> cuando usan esos conocimientos para responder una pregunta práctica con un método que cualquiera puede revisar. Aquí la pregunta es simple: qué propone este proyecto, quién se ha pronunciado sobre él y cómo se discute en público.</p>' +
