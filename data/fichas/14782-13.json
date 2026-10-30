@@ -1,0 +1,367 @@
+{
+  "version": 2,
+  "boletin": "14782-13",
+  "nivel": "completa",
+  "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
+  "materia": "la sala cuna universal",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Hoy solo las empresas con 20 o más trabajadoras deben dar sala cuna.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El gobierno dice que esa regla frena la contratación de mujeres.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Quita el límite de 20 trabajadoras.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Da el derecho a hijos de trabajadoras, trabajadores e independientes.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Crea un Fondo de Sala Cuna para pagar el beneficio.",
+        "fuentes": [
+          "f5",
+          "f6"
+        ]
+      },
+      {
+        "texto": "El Senado aprobó que el derecho sea del niño menor de dos años.",
+        "fuentes": [
+          "f5",
+          "f6"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código del Trabajo.",
+        "fuentes": [
+          "f15"
+        ]
+      },
+      {
+        "texto": "Si la sala cuna cuesta más que el aporte, la familia paga la diferencia, llamada copago.",
+        "fuentes": [
+          "f5",
+          "f13"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Según las indicaciones del gobierno, el primer año entran hijos de trabajadoras con contrato.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El segundo año entran independientes y trabajadoras de casa particular.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      },
+      {
+        "texto": "El gobierno propuso una cotización del empleador de 0,35%, compensada con menos pago al Seguro de Cesantía.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El Senado rechazó esa fórmula por falta de votos.",
+        "fuentes": [
+          "f4",
+          "f6"
+        ]
+      },
+      {
+        "texto": "También propuso un aporte del Estado de unos 10.000 millones de pesos en dos años.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado despachó el proyecto el 8 de septiembre de 2026.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "En octubre, la Comisión de Trabajo de la Cámara aprobó la idea de legislar por unanimidad.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia de discusión inmediata hasta el 3 de noviembre.",
+        "fuentes": [
+          "f15"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Confederación de la Producción y del Comercio (CPC)",
+      "tipo": "Gremio empresarial",
+      "vocero": "Susana Jiménez, presidenta",
+      "postura": "A favor",
+      "argumento": "Valoró que las indicaciones del gobierno no creen nuevos costos para contratar mujeres. También apoyó la gradualidad y la libertad para elegir entre salas cuna públicas y privadas.",
+      "fecha": "15 y 16 de junio de 2026",
+      "fuentes": [
+        "f2",
+        "f8"
+      ]
+    },
+    {
+      "organizacion": "Central Unitaria de Trabajadores (CUT)",
+      "tipo": "Central sindical",
+      "vocero": "José Manuel Díaz, presidente, y Karen Palma, vicepresidenta de la Mujer",
+      "postura": "Con reparos",
+      "argumento": "Comparte que hay que actuar ante el desempleo de las mujeres. Rechaza que el costo se pague con el Seguro de Cesantía de los trabajadores, y se opone al copago y a la gradualidad.",
+      "fecha": "16 y 19 de junio de 2026",
+      "fuentes": [
+        "f8",
+        "f9"
+      ]
+    },
+    {
+      "organizacion": "ChileMujeres",
+      "tipo": "Organización de la sociedad civil",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "En una carta pidió apoyo de todos los sectores en el Senado. Sostiene que el proyecto amplía la cobertura sin subir el costo laboral y sin afectar las prestaciones de cesantía.",
+      "fecha": "1 de septiembre de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    },
+    {
+      "organizacion": "Sala Cuna Hoy",
+      "tipo": "Movimiento de organizaciones sociales",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "Entregó una carta al gobierno y al Congreso para pedir que el proyecto avance.",
+      "fecha": "8 de septiembre de 2026",
+      "fuentes": [
+        "f11"
+      ]
+    },
+    {
+      "organizacion": "Cámara Regional del Comercio de Valparaíso (CRCP)",
+      "tipo": "Gremio empresarial regional",
+      "vocero": "Marcela Pastenes, gerenta general, y Gustavo González, director",
+      "postura": "A favor",
+      "argumento": "Apoya quitar el límite de 20 trabajadoras. Pide una garantía de financiamiento del Estado, sin costos de contratación para las empresas, aportes según el costo de cada zona y trámites simples para las pymes.",
+      "fecha": "7 de octubre de 2026",
+      "fuentes": [
+        "f12"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de municipios, de gremios nacionales de pymes ni de sostenedores de salas cuna sobre este proyecto entre junio y octubre de 2026. Tampoco encontramos declaraciones de organizaciones sobre los cambios de financiamiento que el gobierno anunció para la Cámara en octubre de 2026.",
+  "encuadre": {
+    "intro": "En la prensa revisada aparecen dos maneras de presentar el financiamiento del proyecto. Es una lectura exploratoria sobre pocas notas.",
+    "marcos": [
+      {
+        "titulo": "Quitar una barrera al empleo de las mujeres",
+        "quienes": "Gobierno y gremios empresariales",
+        "problema": "La regla actual encarece contratar mujeres.",
+        "problema_fuentes": [
+          "f1",
+          "f13"
+        ],
+        "causa": "La obligación de dar sala cuna depende de cuántas mujeres contrata cada empresa.",
+        "causa_fuentes": [
+          "f1",
+          "f10"
+        ],
+        "solucion": "Un fondo común, pagado con una cotización que se compensa con el Seguro de Cesantía, sin subir el costo laboral.",
+        "solucion_fuentes": [
+          "f1",
+          "f2"
+        ],
+        "palabras": [
+          "barrera",
+          "costo laboral",
+          "contratación de mujeres"
+        ]
+      },
+      {
+        "titulo": "Un beneficio pagado por los trabajadores",
+        "quienes": "CUT y sectores de oposición",
+        "problema": "El financiamiento propuesto quita recursos al Seguro de Cesantía de los trabajadores.",
+        "problema_fuentes": [
+          "f9",
+          "f13"
+        ],
+        "causa": "La nueva cotización se compensa bajando los aportes a las cuentas de cesantía.",
+        "causa_fuentes": [
+          "f9"
+        ],
+        "solucion": "Un financiamiento que no recaiga en los trabajadores, sin copago y sin gradualidad.",
+        "solucion_fuentes": [
+          "f8",
+          "f9"
+        ],
+        "palabras": [
+          "bolsillo de la fuerza laboral",
+          "mercantilización",
+          "copago"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "costo",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, el diseño no sube el costo de contratar.",
+          "fuentes": [
+            "f1"
+          ]
+        },
+        {
+          "texto": "Para la CUT, el costo del beneficio sale del bolsillo de los trabajadores.",
+          "fuentes": [
+            "f9"
+          ]
+        },
+        {
+          "texto": "Cada lado mide el costo desde un punto distinto: el empleador o el trabajador.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Ministerio del Trabajo, «¿De qué se trata el proyecto de Sala Cuna Universal?»",
+      "url": "https://www.mintrab.gob.cl/sala-cuna-universal/",
+      "fecha": "Sin fecha (consultado el 30 de octubre de 2026)",
+      "nota": "Problema que declara el gobierno, fondo, cotización, aporte fiscal y gradualidad de las indicaciones."
+    },
+    {
+      "id": "f2",
+      "titulo": "BioBioChile, «Gran empresariado valora indicaciones a Sala Cuna Universal: no aumenta la carga de los empleadores»",
+      "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/06/15/gran-empresariado-valora-indicaciones-a-sala-cuna-universal-no-aumenta-la-carga-de-los-empleadores.shtml",
+      "fecha": "15 de junio de 2026",
+      "nota": "Postura de la CPC; cotización de 0,35% y su compensación; gradualidad en cuatro años."
+    },
+    {
+      "id": "f3",
+      "titulo": "El Dínamo, «Implementación en cuatro años y cotización adicional del 0,35%: las indicaciones al proyecto de sala cuna que ingresó el gobierno»",
+      "url": "https://www.eldinamo.cl/pais/2026/06/15/implementacion-en-cuatro-anos-y-cotizacion-adicional-del-035-las-indicaciones-al-proyecto-de-sala-cuna-que-ingreso-el-gobierno/",
+      "fecha": "15 de junio de 2026",
+      "nota": "Gradualidad en cuatro años y aporte fiscal de cerca de 10.000 millones de pesos."
+    },
+    {
+      "id": "f4",
+      "titulo": "Buk, «Sala Cuna Universal: cómo queda el proyecto tras pasar por el Senado»",
+      "url": "https://www.buk.cl/blog/sala-cuna-universal-como-queda-el-proyecto-tras-pasar-por-el-senado",
+      "fecha": "14 de septiembre de 2026",
+      "nota": "Fin del límite de 20 trabajadoras; rechazo de los artículos de financiamiento."
+    },
+    {
+      "id": "f5",
+      "titulo": "T13, nota sobre cómo quedó el proyecto de Sala Cuna Universal tras el Senado",
+      "url": "https://www.t13.cl/noticia/politica/como-quedo-proyecto-sala-cuna-universal-avanzo-congreso-9-9-2026",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Beneficiarios, Fondo de Sala Cuna, titularidad del niño y copago."
+    },
+    {
+      "id": "f6",
+      "titulo": "Chilevisión, «Sala Cuna Universal: avanza en el Senado pero rechazaron fórmula de financiamiento del Gobierno»",
+      "url": "https://www.chilevision.cl/noticias/nacional/sala-cuna-universal-avanza-en-el-senado-pero-rechazaron-formula-de-financiamiento-del-gobierno/",
+      "fecha": "9 de septiembre de 2026",
+      "nota": "Despacho del Senado el 8 de septiembre; financiamiento rechazado por no alcanzar quórum calificado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Ministerio del Trabajo, «Ministro Tomás Rau destaca unanimidad en avance de proyecto de Sala Cuna Universal»",
+      "url": "https://www.mintrab.gob.cl/ministro-tomas-rau-destaca-unanimidad-en-avance-de-proyecto-de-sala-cuna-universal/",
+      "fecha": "20 de octubre de 2026",
+      "nota": "La Comisión de Trabajo de la Cámara aprobó por unanimidad la idea de legislar; el gobierno anuncia indicaciones de financiamiento."
+    },
+    {
+      "id": "f8",
+      "titulo": "Cooperativa, «Sala Cuna Universal: CUT manifestó sus reparos a indicaciones del Gobierno, mientras CPC los aplaude»",
+      "url": "https://www.cooperativa.cl/noticias/site/artic/20260616/pags-amp/20260616144937.html",
+      "fecha": "16 de junio de 2026",
+      "nota": "Posturas de la CUT y de la CPC."
+    },
+    {
+      "id": "f9",
+      "titulo": "El Ciudadano, «Sala Cuna Universal con tijera al Seguro de Cesantía: CUT advierte que beneficio no puede salir del bolsillo trabajador»",
+      "url": "https://www.elciudadano.com/trabajo/sala-cuna-universal-con-tijera-al-seguro-de-cesantia-cut-advierte-que-beneficio-no-puede-salir-del-bolsillo-trabajador/06/19/",
+      "fecha": "19 de junio de 2026",
+      "nota": "Argumentos de la CUT sobre el financiamiento."
+    },
+    {
+      "id": "f10",
+      "titulo": "Emol, carta de ChileMujeres por la sala cuna",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/01/1210148/chilemujeres-por-sala-cuna.html",
+      "fecha": "1 de septiembre de 2026",
+      "nota": "Postura de ChileMujeres antes de la votación en el Senado."
+    },
+    {
+      "id": "f11",
+      "titulo": "Pauta, «Senado retoma este martes votación de Sala Cuna Universal bajo presión de organizaciones y críticas de trabajadoras»",
+      "url": "https://www.pauta.cl/actualidad/2026/09/08/senado-retoma-este-martes-votacion-de-sala-cuna-universal-bajo-presion-de-organizaciones-y-criticas-de-trabajadoras.html",
+      "fecha": "8 de septiembre de 2026",
+      "nota": "Movimiento Sala Cuna Hoy; críticas de la CUT y de asociaciones de trabajadoras de jardines infantiles."
+    },
+    {
+      "id": "f12",
+      "titulo": "G5 Noticias, «CRCP: Sala Cuna Universal debe contar con garantía estatal para su financiamiento y no encarecer la contratación de mujeres»",
+      "url": "https://g5noticias.cl/2026/10/07/crcp-sala-cuna-universal-debe-contar-con-garantia-estatal-para-su-financiamiento-y-no-encarecer-la-contratacion-de-mujeres/",
+      "fecha": "7 de octubre de 2026",
+      "nota": "Exposición de la Cámara Regional del Comercio de Valparaíso ante la Comisión de Trabajo de la Cámara."
+    },
+    {
+      "id": "f13",
+      "titulo": "Diario Financiero, «Rau admite que habría preferido “otro esquema de financiamiento” para sala cuna en medio de defensa del proyecto»",
+      "url": "https://www.df.cl/economia-y-politica/laboral-personas/rau-admite-que-habria-preferido-otro-esquema-de-financiamiento-para-sala",
+      "fecha": "18 de junio de 2026",
+      "nota": "Argumentos del gobierno y de críticos en la Comisión de Educación del Senado; copago."
+    },
+    {
+      "id": "f15",
+      "titulo": "Senado, ficha de tramitación del boletín 14782-13",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=14782-13",
+      "fecha": "Consulta automática",
+      "nota": "Título, etapas y urgencias, según urgencias.json. La página no se pudo abrir directamente."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
