@@ -1,0 +1,312 @@
+{
+  "version": 2,
+  "boletin": "15805-07",
+  "nivel": "completa",
+  "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
+  "materia": "las reglas del uso de la fuerza",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno de 2023 dijo que Chile no tenía una ley general sobre el uso de la fuerza.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dijo que faltaban reglas claras para proteger la labor policial.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La ley fija cuatro principios: legalidad, necesidad, responsabilidad y racionalidad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Define cinco grados de fuerza, desde la presencia hasta la fuerza que puede matar.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Esa fuerza solo se usa si las medidas previas no bastan.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Para las Fuerzas Armadas fija ocho reglas propias.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El mensaje de 2023 incluía la proporcionalidad entre los principios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La ley publicada no la nombra entre sus principios.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Rige para Carabineros, la PDI y la policía marítima.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "También rige para las Fuerzas Armadas cuando cuidan el orden público o sus recintos.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar los informes financieros de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Una comisión mixta, de diputados y senadores, resolvió las diferencias entre las cámaras.",
+        "fuentes": [
+          "f4",
+          "f7"
+        ]
+      },
+      {
+        "texto": "La Cámara aprobó ese acuerdo el 7 de octubre de 2026, por 111 votos contra 23.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El Senado lo aprobó el mismo día, por 29 votos contra 15.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Es la Ley 21.849, publicada el 16 de octubre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El Tribunal Constitucional no aceptó un reclamo de senadores, porque llegó fuera de plazo.",
+        "fuentes": [
+          "f6",
+          "f7"
+        ]
+      },
+      {
+        "texto": "Los reglamentos deben dictarse dentro de un año.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Amnistía Internacional Chile",
+      "tipo": "Organización de derechos humanos",
+      "vocero": "Rodrigo Bustos Bottai, director ejecutivo",
+      "postura": "En contra",
+      "argumento": "Sostiene que las reglas aprobadas no cumplen los estándares internacionales de derechos humanos. Critica que falten la proporcionalidad y la rendición de cuentas, y que se amplíen los casos de fuerza potencialmente letal. Pide restablecer esos principios y acotar esos casos.",
+      "fecha": "8 de octubre de 2026",
+      "fuentes": [
+        "f8"
+      ]
+    },
+    {
+      "organizacion": "Libertad y Desarrollo",
+      "tipo": "Centro de estudios",
+      "vocero": "",
+      "postura": "A favor",
+      "argumento": "Presenta la ley como un marco útil que da respaldo legal a los funcionarios que actúan dentro de ella. Advierte que su efecto dependerá de los reglamentos, que deben traducirse en protocolos, formación y supervisión.",
+      "fecha": "23 de octubre de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de gremios, sindicatos, municipios ni colegios profesionales sobre el texto final entre el 1 y el 30 de octubre de 2026.",
+  "encuadre": {
+    "intro": "En la prensa revisada aparecen dos maneras de presentar la misma ley.",
+    "marcos": [
+      {
+        "titulo": "Reglas claras para quienes usan la fuerza",
+        "quienes": "Gobierno y Libertad y Desarrollo",
+        "problema": "Las policías necesitaban más claridad sobre cómo usar la fuerza.",
+        "problema_fuentes": [
+          "f5"
+        ],
+        "causa": "Las reglas sobre el uso de la fuerza no tenían rango de ley.",
+        "causa_fuentes": [
+          "f5"
+        ],
+        "solucion": "Una ley común, con grados de fuerza y reglamentos que bajen los principios a protocolos y formación.",
+        "solucion_fuentes": [
+          "f2",
+          "f10"
+        ],
+        "palabras": [
+          "certeza jurídica",
+          "racionalidad",
+          "respaldo institucional"
+        ]
+      },
+      {
+        "titulo": "Unas garantías que se debilitan",
+        "quienes": "Organizaciones de derechos humanos y parte de la oposición",
+        "problema": "La ley daría un margen excesivo a policías y Fuerzas Armadas y dejaría menos protegida a la población.",
+        "problema_fuentes": [
+          "f8"
+        ],
+        "causa": "Se quitó la proporcionalidad y se ampliaron los casos de fuerza potencialmente letal.",
+        "causa_fuentes": [
+          "f8",
+          "f12",
+          "f13"
+        ],
+        "solucion": "Incorporar la proporcionalidad y la rendición de cuentas, y acotar los casos de fuerza letal.",
+        "solucion_fuentes": [
+          "f8"
+        ],
+        "palabras": [
+          "proporcionalidad",
+          "estándares internacionales",
+          "margen excesivo"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "certeza jurídica",
+      "oraciones": [
+        {
+          "texto": "Para el gobierno, la ley entrega mayor certeza jurídica a los funcionarios y a la ciudadanía.",
+          "fuentes": [
+            "f11"
+          ]
+        },
+        {
+          "texto": "Para dos exministros del gobierno anterior, quitar la proporcionalidad debilita la certeza jurídica que la ley busca.",
+          "fuentes": [
+            "f12"
+          ]
+        },
+        {
+          "texto": "Cada lado usa la misma expresión para defender una conclusión distinta.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje presidencial N° 025-371 sobre normas generales de uso de la fuerza (copia publicada por Diario Constitucional)",
+      "url": "https://www.diarioconstitucional.cl/wp-content/uploads/2023/06/15805-07.pdf",
+      "fecha": "10 de abril de 2023",
+      "nota": "Fundamentos y contenido del proyecto original."
+    },
+    {
+      "id": "f2",
+      "titulo": "Diario Oficial N° 44.575, Ley 21.849",
+      "url": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/16/44575/01/2887541.pdf",
+      "fecha": "16 de octubre de 2026",
+      "nota": "Texto de la ley publicada, ámbito, principios, grados de fuerza y plazo de reglamentos."
+    },
+    {
+      "id": "f3",
+      "titulo": "CNN Chile, nota sobre la publicación de la Ley RUF para Carabineros, PDI y Fuerzas Armadas",
+      "url": "https://www.cnnchile.com/pais/ley-ruf-reglas-uso-fuerza-carabineros-pdi-fuerzas-armadas/",
+      "fecha": "16 de octubre de 2026",
+      "nota": "Niveles de fuerza y reglas para las Fuerzas Armadas."
+    },
+    {
+      "id": "f4",
+      "titulo": "Emol, «Cámara aprueba RUF con votos en contra del PC»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/07/1213512/ruf-aprueba-votos-contra-pc.html",
+      "fecha": "7 de octubre de 2026",
+      "nota": "Votación del informe de Comisión Mixta en la Cámara."
+    },
+    {
+      "id": "f5",
+      "titulo": "Emol, «Senado aprueba RUF y despacha a ley»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/07/1213556/senado-aprueba-ruf-despacha-ley.html",
+      "fecha": "7 de octubre de 2026",
+      "nota": "Votación en el Senado y declaraciones del ministro de Seguridad Pública."
+    },
+    {
+      "id": "f6",
+      "titulo": "T13, «Tribunal Constitucional declara inadmisible recurso de senadores contra ley de uso de la fuerza»",
+      "url": "https://www.t13.cl/noticia/politica/tribunal-constitucional-declara-inadmisible-recurso-senadores-ley-uso-fuerza-22-10-2026",
+      "fecha": "22 de octubre de 2026",
+      "nota": "Resolución del Tribunal Constitucional y su fundamento."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, ficha de tramitación del boletín 15805-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15805-07",
+      "fecha": "Consulta automática",
+      "nota": "Trámites, informes financieros adjuntos y resolución del Tribunal Constitucional (datos de urgencias.json)."
+    },
+    {
+      "id": "f8",
+      "titulo": "Amnistía Internacional Chile, «Amnistía Internacional advierte que las RUF no cumplen estándares de derechos humanos»",
+      "url": "https://amnistia.cl/amnistia-internacional-advierte-que-las-ruf-no-cumplen-estandares-de-derechos-humanos/",
+      "fecha": "8 de octubre de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f10",
+      "titulo": "Libertad y Desarrollo, «Alerta conceptual: Uso de la fuerza: decidir con racionalidad, proteger con razonabilidad»",
+      "url": "https://lyd.org/otros-contenidos/2026/10/alerta-conceptual-uso-de-la-fuerza-decidir-con-racionalidad-proteger-con-razonabilidad/",
+      "fecha": "23 de octubre de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f11",
+      "titulo": "Emol, nota sobre el debate entre proporcionalidad y racionalidad en las RUF",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/13/1213977/proporcionalidad-y-racionalidad-ruf.html",
+      "fecha": "13 de octubre de 2026",
+      "nota": "Posición del gobierno sobre la racionalidad y la certeza jurídica."
+    },
+    {
+      "id": "f12",
+      "titulo": "Emol, «Tohá y Cordero cuestionan las reglas de uso de la fuerza»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/11/1213858/toha-cordero-reglas-uso-fuerza.html",
+      "fecha": "11 de octubre de 2026",
+      "nota": "Críticas de dos exministros sobre proporcionalidad y certeza jurídica."
+    },
+    {
+      "id": "f13",
+      "titulo": "El Clarín, «Reglas de Uso de la Fuerza: oposición recurre al TC por ley RUF»",
+      "url": "https://www.elclarin.cl/2026/10/15/reglas-uso-fuerza-ruf-oposicion-tribunal-constitucional/",
+      "fecha": "15 de octubre de 2026",
+      "nota": "Normas impugnadas ante el Tribunal Constitucional."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
