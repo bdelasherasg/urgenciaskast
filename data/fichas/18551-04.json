@@ -1,0 +1,314 @@
+{
+  "version": 2,
+  "boletin": "18551-04",
+  "nivel": "completa",
+  "sintesis": "Permite cambiar el calendario de los servicios locales de educación pendientes y atrasar traspasos de colegios. El Senado lo aprobó; ahora lo revisa la Cámara de Diputados.",
+  "materia": "el ajuste del traspaso de colegios a los servicios locales de educación",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno quiere repartir en el tiempo el gasto de los traspasos de colegios.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Con cada traspaso, el Estado asume las deudas de pensiones del municipio.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Cree que las reglas para que un municipio mantenga sus colegios son muy estrictas.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los servicios locales son los entes que reciben los colegios municipales.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El mensaje fijaba 2040 como plazo final para crear los 12 servicios pendientes.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "La Comisión de Educación bajó ese plazo al 31 de diciembre de 2030.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El Presidente podrá atrasar hasta un año el traspaso a un servicio ya creado.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia la Ley 21.040, que creó el sistema de educación pública.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Para seguir a cargo, el municipio debe cumplir solo uno de los requisitos de calidad.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Uno es una asistencia promedio de 90% o más en tres años.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Los requisitos de dinero se mantienen.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los municipios que aún deben traspasar sus colegios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      },
+      {
+        "texto": "Presupuestos dijo que el gasto no sube de forma permanente.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado lo aprobó el 28 de octubre de 2026 y lo envió a la Cámara.",
+        "fuentes": [
+          "f5",
+          "f10"
+        ]
+      },
+      {
+        "texto": "No pudimos revisar el texto que aprobó el Senado.",
+        "fuentes": [],
+        "pendiente": true
+      },
+      {
+        "texto": "Tiene urgencia de discusión inmediata: seis días de plazo.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Colegio de Profesoras y Profesores de Chile",
+      "tipo": "Gremio docente",
+      "vocero": "",
+      "postura": "En contra",
+      "argumento": "Sostiene que el proyecto introduce una lógica subsidiaria y frena la educación pública sin resolver problemas de infraestructura ni de financiamiento.",
+      "fecha": "2 de septiembre de 2026",
+      "fuentes": [
+        "f6"
+      ]
+    },
+    {
+      "organizacion": "Municipalidad de Las Condes",
+      "tipo": "Municipio",
+      "vocero": "Catalina San Martín, alcaldesa",
+      "postura": "A favor",
+      "argumento": "Considera necesaria la reforma, porque los servicios locales han tenido resultados muy dispares.",
+      "fecha": "6 de agosto de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Municipalidad de Ñuñoa",
+      "tipo": "Municipio",
+      "vocero": "Sebastián Sichel, alcalde",
+      "postura": "A favor",
+      "argumento": "Sostiene que sus colegios públicos están entre los mejores del país y que nada muestra que estarían mejor en un servicio local.",
+      "fecha": "6 de agosto de 2026",
+      "fuentes": [
+        "f7",
+        "f8"
+      ]
+    },
+    {
+      "organizacion": "Municipalidad de La Reina",
+      "tipo": "Municipio",
+      "vocero": "José Manuel Palacios, alcalde",
+      "postura": "A favor",
+      "argumento": "Señala que hoy no hay incentivos para invertir en colegios que de todos modos serán traspasados.",
+      "fecha": "6 de agosto de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    },
+    {
+      "organizacion": "Municipalidad de Vitacura",
+      "tipo": "Municipio",
+      "vocero": "Camila Merino, alcaldesa",
+      "postura": "Con reparos",
+      "argumento": "Pide que la reforma se siga revisando y propone un sistema mixto, en que cada municipio decida si mantiene o traspasa sus colegios.",
+      "fecha": "6 de agosto de 2026",
+      "fuentes": [
+        "f8"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "Organizaciones de asistentes de la educación, como Confemuch y AEFEN, y centros de estudio, como Educación 2020 y Acción Educar, fueron invitados a la Comisión de Educación del Senado, pero no encontramos su postura publicada entre agosto y octubre de 2026. Tampoco encontramos declaraciones de asociaciones de municipios.",
+  "encuadre": {
+    "intro": "En la discusión pública aparecen dos maneras de presentar el proyecto. Es una lectura exploratoria sobre pocas notas de prensa.",
+    "marcos": [
+      {
+        "titulo": "Un traspaso más gradual",
+        "quienes": "Gobierno y municipios que quieren mantener sus colegios",
+        "problema": "Los traspasos tienen un alto costo para el Estado, y las reglas para que un municipio siga a cargo son muy estrictas.",
+        "problema_fuentes": [
+          "f2"
+        ],
+        "causa": "Las deudas de pensiones de los municipios pasan al Estado con cada traspaso, y no hay pruebas de que los colegios estén mejor en un servicio local.",
+        "causa_fuentes": [
+          "f2",
+          "f8"
+        ],
+        "solucion": "Un calendario más flexible y requisitos más simples para los municipios con buenos resultados.",
+        "solucion_fuentes": [
+          "f2",
+          "f4"
+        ],
+        "palabras": [
+          "distribuir de manera más ordenada",
+          "mejor sostenedor",
+          "demasiado restrictivos"
+        ]
+      },
+      {
+        "titulo": "Una postergación de la educación pública",
+        "quienes": "Colegio de Profesores e investigadores en educación",
+        "problema": "El proyecto frena la educación pública sin resolver problemas de infraestructura ni de financiamiento.",
+        "problema_fuentes": [
+          "f6"
+        ],
+        "causa": "Un investigador del CIAE de la Universidad de Chile atribuye la medida al ajuste fiscal del gobierno.",
+        "causa_fuentes": [
+          "f9"
+        ],
+        "solucion": "Usar la ley vigente, que ya permite postergar los servicios locales que no están preparados.",
+        "solucion_fuentes": [
+          "f9"
+        ],
+        "palabras": [
+          "lógica subsidiaria",
+          "postergación",
+          "enorme incertidumbre"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Proyecto de ley propone extender hasta 2040 instalación y traspaso de SLEP»",
+      "url": "https://actualidadjuridica.doe.cl/proyecto-de-ley-propone-extender-hasta-2040-instalacion-y-traspaso-de-slep/",
+      "fecha": "10 de agosto de 2026",
+      "nota": "Contenido del mensaje: normas que modifica y a quiénes afecta."
+    },
+    {
+      "id": "f2",
+      "titulo": "El Mostrador, «Proyecto del gobierno postergará hasta 2040 el traspaso total de colegios a los SLEP»",
+      "url": "https://www.elmostrador.cl/noticias/pais/2026/08/05/proyecto-del-gobierno-postergara-hasta-2040-el-traspaso-total-de-colegios-a-los-slep/",
+      "fecha": "5 de agosto de 2026",
+      "nota": "Fundamentos del Mineduc y cifras de SLEP."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pauta, «Comisión de Educación del Senado despacha proyecto que permite postergar el traspaso de colegios a los SLEP»",
+      "url": "https://www.pauta.cl/actualidad/2026/09/10/comision-de-educacion-del-senado-despacha-proyecto-que-permite-postergar-el-traspaso-de-colegios-a-los-slep.html",
+      "fecha": "10 de septiembre de 2026",
+      "nota": "Texto despachado por la Comisión de Educación."
+    },
+    {
+      "id": "f4",
+      "titulo": "Diario Estrategia, «Proyecto que ajusta la instalación de los SLEP pasa a la Sala»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6038115/proyecto-ajusta-instalacion-slep-pasa-sala",
+      "fecha": "2 de octubre de 2026",
+      "nota": "Contenido del texto, empate en Hacienda y declaración de la Dipres."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, ficha de tramitación del boletín 18551-04",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18551-04",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias (datos de urgencias.json)."
+    },
+    {
+      "id": "f6",
+      "titulo": "Diario Estrategia, «Implementación de los SLEP hasta el 2040: Comisión de Educación aprueba idea de legislar»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6002489/implementacion-slep-hasta-2040-comision-educacion-aprueba-idea-legislar",
+      "fecha": "3 de septiembre de 2026",
+      "nota": "Sesión del 2 de septiembre; postura del Colegio de Profesores e invitados."
+    },
+    {
+      "id": "f7",
+      "titulo": "BioBioChile, nota sobre la reunión de alcaldes con la ministra Arzola por los cambios al cronograma de los SLEP",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/08/06/postergan-calendario-hasta-2040-alcaldes-se-reunen-con-ministra-arzola-por-cambios-a-cronograma-slep.shtml",
+      "fecha": "6 de agosto de 2026",
+      "nota": "Posturas de municipios."
+    },
+    {
+      "id": "f8",
+      "titulo": "Cooperativa, «Gobierno busca ampliar implementación de los SLEP hasta el año 2040»",
+      "url": "https://cooperativa.cl/noticias/pais/educacion/gobierno-busca-ampliar-implementacion-de-los-slep-hasta-el-ano-2040/2026-08-06/143354.html",
+      "fecha": "6 de agosto de 2026",
+      "nota": "Posturas del Mineduc y de municipios."
+    },
+    {
+      "id": "f9",
+      "titulo": "Radio Universidad de Chile, «“No es razonable ni comprensible”: Xavier Vanni cuestiona recalendarización del traspaso a los SLEP»",
+      "url": "https://radio.uchile.cl/2026/08/06/no-es-razonable-ni-comprensible-xavier-vanni-por-recalendarizacion-del-traspaso-a-los-slep/",
+      "fecha": "6 de agosto de 2026",
+      "nota": "Lectura crítica de un investigador del CIAE de la Universidad de Chile."
+    },
+    {
+      "id": "f10",
+      "titulo": "Diario El Heraldo, «Despachan a la Cámara ley corta que ajusta la instalación de los SLEP»",
+      "url": "https://www.diarioelheraldo.cl/noticia/despachan-a-la-camara-ley-corta-que-ajusta-la-instalacion-de-los-slep",
+      "fecha": "30 de octubre de 2026",
+      "nota": "Despacho a la Cámara de Diputados."
+    },
+    {
+      "id": "f11",
+      "titulo": "BioBioChile, «Ley corta de los SLEP: los cuatro cambios que propone el gobierno para la nueva educación pública»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/05/ley-corta-de-los-slep-los-cuatro-cambios-que-propone-el-gobierno-para-la-nueva-educacion-publica.shtml",
+      "fecha": "5 de agosto de 2026",
+      "nota": "Fundamentos y contenido del mensaje."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
