@@ -1,0 +1,286 @@
+{
+  "version": 2,
+  "boletin": "18314-07",
+  "nivel": "completa",
+  "sintesis": "Reforma la Constitución para alargar la detención de extranjeros con orden de expulsión, hoy de cinco días. La Cámara la rechazó y el gobierno insiste ahora en el Senado.",
+  "materia": "la reforma del plazo de detención para expulsar a extranjeros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que cinco días de detención no bastan para expulsar a una persona.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El mensaje cita un alza sostenida de ingresos irregulares.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que expulsar exige identificar, notificar, revisar papeles y coordinar con el consulado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El mensaje fija un plazo de detención de entre 5 y 60 días.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite renovarlo dos veces, hasta un total de 180 días.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión de la Cámara bajó el máximo a 30 días.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "En ese texto, cada renovación necesita el permiso de un juez.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia el artículo 19, número 7, letra c de la Constitución.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Una ley posterior fijará el plazo exacto y los lugares de detención.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas extranjeras que ya tienen un decreto de expulsión.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara rechazó el proyecto el 22 de septiembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Tuvo 88 votos a favor y necesitaba 89.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "En octubre, el Presidente pidió que lo revise el Senado.",
+        "fuentes": [
+          "f5",
+          "f11"
+        ]
+      },
+      {
+        "texto": "La presidenta del Senado fijó en 29 los votos que se exigen.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Parte de la oposición cuestiona ese número.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Hoy está en la comisión de Constitución del Senado.",
+        "fuentes": [
+          "f11",
+          "f12"
+        ]
+      },
+      {
+        "texto": "Desde el 27 de octubre tiene discusión inmediata: seis días para despacharlo.",
+        "fuentes": [
+          "f11"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Red Nacional de Organizaciones Migrantes y Pro Migrantes",
+      "tipo": "Red de organizaciones sociales de migrantes",
+      "vocero": "Eduardo Cardoza, vocero del Movimiento Acción Migrante",
+      "postura": "En contra",
+      "argumento": "Sostiene que la migración irregular es una falta administrativa y no un delito, por lo que la detención debe ser el último recurso. Propone fortalecer la regularización, la cooperación regional y la integración.",
+      "fecha": "12 de junio de 2026",
+      "fuentes": [
+        "f8"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos declaraciones de gremios, colegios profesionales, centros de estudio ni municipios sobre este proyecto entre junio y octubre de 2026.",
+  "encuadre": {
+    "intro": "En la discusión pública aparecen dos maneras de presentar el proyecto.",
+    "marcos": [
+      {
+        "titulo": "Un plazo que no alcanza",
+        "quienes": "Gobierno",
+        "problema": "En cinco días es muy difícil ubicar, retener y expulsar a las personas con orden de expulsión.",
+        "problema_fuentes": [
+          "f10"
+        ],
+        "causa": "La regla actual limita la detención a cinco días, y expulsar exige gestiones con los países de origen.",
+        "causa_fuentes": [
+          "f2",
+          "f10"
+        ],
+        "solucion": "Ampliar el plazo como herramienta administrativa, con revisión judicial de las extensiones.",
+        "solucion_fuentes": [
+          "f2"
+        ],
+        "palabras": [
+          "herramienta administrativa",
+          "sentido común",
+          "extender ese plazo"
+        ]
+      },
+      {
+        "titulo": "Una detención sin garantías suficientes",
+        "quienes": "Oposición en la Cámara y organizaciones de migrantes",
+        "problema": "Se usa la privación de libertad para responder a problemas de gestión del Estado.",
+        "problema_fuentes": [
+          "f9"
+        ],
+        "causa": "Para la red de organizaciones migrantes, el Estado no facilita la regularización de quienes quieren quedarse legalmente.",
+        "causa_fuentes": [
+          "f8"
+        ],
+        "solucion": "Fortalecer la regularización, la cooperación regional y las políticas de integración.",
+        "solucion_fuentes": [
+          "f8"
+        ],
+        "palabras": [
+          "enfoque punitivo",
+          "garantías judiciales",
+          "grupos vulnerables",
+          "último recurso"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "DOE Actualidad Jurídica, «Ejecutivo ingresa reforma constitucional sobre detención para expulsiones administrativas»",
+      "url": "https://actualidadjuridica.doe.cl/ejecutivo-ingresa-reforma-constitucional-sobre-detencion-para-expulsiones-administrativas/",
+      "fecha": "10 de junio de 2026",
+      "nota": "Fundamentos y contenido del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Pauta, «Gobierno impulsa reforma para ampliar hasta 180 días la retención de migrantes con orden de expulsión»",
+      "url": "https://www.pauta.cl/actualidad/2026/06/08/gobierno-impulsa-reforma-para-ampliar-hasta-180-dias-la-retencion-de-migrantes-con-orden-de-expulsion.html",
+      "fecha": "8 de junio de 2026",
+      "nota": "Anuncio del gobierno, plazos y revisión judicial."
+    },
+    {
+      "id": "f3",
+      "titulo": "Diario Estrategia, «Cámara: Constitución visa aumento de plazo de detención para expulsión administrativa»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6003879/camara-constitucion-visa-aumento-plazo-detencion-expulsion-administrativa",
+      "fecha": "4 de septiembre de 2026",
+      "nota": "Texto aprobado por la comisión de Constitución de la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Meganoticias, «Cámara de Diputados rechaza reforma que buscaba ampliar plazo de detención de personas extranjeras»",
+      "url": "https://www.meganoticias.cl/nacional/532243-camara-de-diputados-rechaza-reforma-buscaba-ampliar-plazo-de-detencion-de-personas-extranjeras-22-09-2026.html",
+      "fecha": "22 de septiembre de 2026",
+      "nota": "Votación en la Sala de la Cámara."
+    },
+    {
+      "id": "f5",
+      "titulo": "BioBioChile, «Gobierno insiste con reforma para expulsar migrantes y la lleva al Senado tras duro revés en la Cámara»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/06/gobierno-insiste-en-el-senado-con-reforma-para-expulsar-migrantes-que-perdio-por-un-voto-en-la-camara.shtml",
+      "fecha": "6 de octubre de 2026",
+      "nota": "Oficio de insistencia del artículo 68 y recintos."
+    },
+    {
+      "id": "f6",
+      "titulo": "Pauta, «Reforma migratoria: Núñez fija en 29 los votos para la insistencia en el Senado»",
+      "url": "https://www.pauta.cl/actualidad/2026/09/30/senadora-nunez-fija-en-29-los-votos-para-reactivar-reforma-sobre-detencion-de-migrantes.html",
+      "fecha": "30 de septiembre de 2026",
+      "nota": "Quórum fijado por la Mesa del Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "BioBioChile, «Agenda de seguridad de Kast enfrenta nueva batalla en el TC por reforma migratoria y RUF»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/15/agenda-de-seguridad-de-kast-enfrenta-nueva-batalla-en-el-tc-por-reforma-migratoria-y-ruf.shtml",
+      "fecha": "15 de octubre de 2026",
+      "nota": "Cuestionamiento del quórum por parte de la oposición."
+    },
+    {
+      "id": "f8",
+      "titulo": "Radio Universidad de Chile, «Red Nacional de Organizaciones Migrantes: “Blindar constitucionalmente la detención prolongada no nos hará más seguros”»",
+      "url": "https://radio.uchile.cl/2026/06/12/red-nacional-de-organizaciones-migrantes-blindar-constitucionalmente-la-detencion-prolongada-no-nos-hara-mas-seguros/",
+      "fecha": "12 de junio de 2026",
+      "nota": "Declaración de la Red Nacional de Organizaciones Migrantes y Pro Migrantes."
+    },
+    {
+      "id": "f9",
+      "titulo": "El Desconcierto, nota sobre el rechazo de la reforma en la Cámara y los reparos de la oposición",
+      "url": "https://eldesconcierto.cl/actualidad/camara-frena-reforma-expulsion-inmigrantes-oposicion-advierte-falta-especificidad-casos-ninos-n5462462",
+      "fecha": "22 de septiembre de 2026",
+      "nota": "Argumentos de la oposición."
+    },
+    {
+      "id": "f10",
+      "titulo": "Emol, «\"Necesitamos extender ese plazo\": Gobierno emplaza al Congreso por reforma para detención de migrantes»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/13/1214014/gobierno--emplaza-aprobacion-reforma.html",
+      "fecha": "13 de octubre de 2026",
+      "nota": "Argumentos del gobierno."
+    },
+    {
+      "id": "f11",
+      "titulo": "Senado, ficha de tramitación del boletín 18314-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18314-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias (tomadas de urgencias.json)."
+    },
+    {
+      "id": "f12",
+      "titulo": "Cooperativa, «Congreso despachó a ley el proyecto que agiliza expulsiones administrativas»",
+      "url": "https://www.cooperativa.cl/noticias/pais/poblacion/inmigrantes/congreso-despacho-a-ley-el-proyecto-que-agiliza-expulsiones/2026-10-20/232214.html",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Indica que el Senado sigue analizando la insistencia."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
