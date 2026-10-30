@@ -1,0 +1,248 @@
+{
+  "version": 2,
+  "boletin": "18211-25",
+  "nivel": "completa",
+  "sintesis": "Sube las penas de los delitos cometidos con el rostro cubierto en desórdenes públicos. La Cámara lo aprobó y ahora lo revisa el Senado, con discusión inmediata.",
+  "materia": "la ley antiencapuchados",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "No pudimos leer el texto de la moción.",
+        "fuentes": [],
+        "pendiente": true
+      },
+      {
+        "texto": "Según la prensa, el proyecto dice que ocultar la cara ayuda a la impunidad.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción, de diputados del PDG, castigaba ocultar la cara en reuniones en lugares públicos.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La pena era de 61 a 540 días de cárcel.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Excluía razones de salud, de culto u otras justificadas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El texto que aprobó la Cámara sube un grado la pena de los delitos contra el orden público cometidos con capucha.",
+        "fuentes": [
+          "f3",
+          "f9"
+        ]
+      },
+      {
+        "texto": "Así, una pena de hasta 540 días pasa a ser de 541 días a 3 años.",
+        "fuentes": [
+          "f3",
+          "f9"
+        ]
+      },
+      {
+        "texto": "En un saqueo con la cara cubierta, el juez debe dar la pena máxima.",
+        "fuentes": [
+          "f3",
+          "f9",
+          "f10"
+        ]
+      },
+      {
+        "texto": "Suma una agravante, es decir, un motivo para subir la pena: cubrir la cara para huir de la justicia.",
+        "fuentes": [
+          "f3",
+          "f10"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes cometan delitos con la cara cubierta.",
+        "fuentes": [
+          "f3",
+          "f10"
+        ]
+      },
+      {
+        "texto": "Según una nota, no castiga usar capucha por sí solo.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No pudimos revisar un informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 24 de junio de 2026, por 100 votos contra 36.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "En el Senado lo ven juntas las comisiones de Constitución y de Seguridad Pública.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Tiene discusión inmediata desde el 27 de octubre, con plazo hasta el 2 de noviembre.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones públicas de gremios, sindicatos, organizaciones sociales o de derechos humanos, colegios profesionales ni municipios sobre este proyecto entre abril y octubre de 2026. En la comisión de la Cámara opinaron Carabineros, la Defensoría Penal Pública y el INDH, que son organismos del Estado y por eso no se registran aquí.",
+  "encuadre": {
+    "intro": "En las pocas notas de prensa revisadas aparecen dos maneras de presentar el proyecto. Es una lectura exploratoria.",
+    "marcos": [
+      {
+        "titulo": "Terminar con la impunidad",
+        "quienes": "Gobierno y diputados que apoyaron el proyecto",
+        "problema": "Hay personas que cubren su cara para atacar, saquear o agredir, y buscan quedar impunes.",
+        "problema_fuentes": [
+          "f6",
+          "f7",
+          "f3"
+        ],
+        "causa": "Las capuchas y máscaras dificultan identificar a los autores de los delitos.",
+        "causa_fuentes": [
+          "f3",
+          "f9"
+        ],
+        "solucion": "Subir las penas a quienes cometen delitos con la cara cubierta, sin castigar las manifestaciones.",
+        "solucion_fuentes": [
+          "f3"
+        ],
+        "palabras": [
+          "impunidad",
+          "cobardía",
+          "recuperar el orden"
+        ]
+      },
+      {
+        "titulo": "Una respuesta desproporcionada",
+        "quienes": "Diputados de oposición del Frente Amplio y del Partido Comunista",
+        "problema": "El proyecto sube penas de forma desproporcionada y no define qué bien protege la ley.",
+        "problema_fuentes": [
+          "f5",
+          "f3"
+        ],
+        "causa": "El texto responde a hechos puntuales y se cerró sin escuchar a expertos.",
+        "causa_fuentes": [
+          "f3",
+          "f5"
+        ],
+        "solucion": "Mejorar la identificación de los responsables y la persecución penal, en vez de solo subir penas.",
+        "solucion_fuentes": [
+          "f5"
+        ],
+        "palabras": [
+          "proporcionalidad",
+          "arbitrariedad",
+          "improvisada",
+          "bien jurídico"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "T13, «Ley anti encapuchados: comisión de Seguridad aprueba proyecto para sancionar…»",
+      "url": "https://www.t13.cl/noticia/nacional/ley-anti-encapuchados-comision-seguridad-aprueba-proyecto-para-sancionar-9-6-2026",
+      "fecha": "9 de junio de 2026",
+      "nota": "Contenido de la moción, excepciones y votación en general en la Comisión de Seguridad Ciudadana."
+    },
+    {
+      "id": "f2",
+      "titulo": "G5 Noticias, «Comisión de Seguridad de la Cámara aprueba en general proyecto anti encapuchados»",
+      "url": "https://g5noticias.cl/2026/06/08/comision-de-seguridad-de-la-camara-aprueba-en-general-proyecto-anti-encapuchados/",
+      "fecha": "8 de junio de 2026",
+      "nota": "Autoría (diputados del PDG) y pena de 61 a 540 días."
+    },
+    {
+      "id": "f3",
+      "titulo": "Diario Estrategia, «Cámara respalda subir sanciones a quienes delinquen encapuchados»",
+      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5932513/camara-respalda-subir-sanciones-quienes-delinquen-encapuchados",
+      "fecha": "25 de junio de 2026",
+      "nota": "Texto aprobado por la Sala de la Cámara y argumentos del debate."
+    },
+    {
+      "id": "f4",
+      "titulo": "Pauta, «¿Qué cambia con la ley anti encapuchados? Cámara aprueba proyecto que crea un nuevo delito y aumenta las penas»",
+      "url": "https://www.pauta.cl/actualidad/2026/06/24/que-cambia-con-la-ley-anti-encapuchados-camara-aprueba-proyecto-que-crea-un-nuevo-delito-y-aumenta-las-penas.html",
+      "fecha": "24 de junio de 2026",
+      "nota": "Votación en Sala y paso al Senado."
+    },
+    {
+      "id": "f5",
+      "titulo": "Emol, «Cámara aprueba proyecto \"antiencapuchados\" y lo despacha al Senado: FA y PC se opusieron»",
+      "url": "https://www.emol.com/noticias/Nacional/2026/06/24/1203785/camara-proyecto-antiencapuchados-aprueba.html",
+      "fecha": "24 de junio de 2026",
+      "nota": "Votación y argumentos de la oposición."
+    },
+    {
+      "id": "f6",
+      "titulo": "BioBioChile, «Arrau valora avance de ley antiencapuchados y hace llamado a la reflexión a quienes la rechazaron»",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/06/24/arrau-valora-avance-de-ley-antiencapuchados-y-hace-llamado-a-la-reflexion-a-quienes-la-rechazaron.shtml",
+      "fecha": "24 de junio de 2026",
+      "nota": "Argumentos del Ministerio de Seguridad Pública."
+    },
+    {
+      "id": "f7",
+      "titulo": "El Dínamo, «Fue aprobada por la Cámara: en qué consiste la ley anti encapuchados, proyecto que sanciona el ocultamiento de identidad»",
+      "url": "https://www.eldinamo.cl/pais/2026/06/24/fue-aprobada-por-la-camara-en-que-consiste-la-ley-anti-encapuchados-proyecto-que-sanciona-el-ocultamiento-de-identidad/",
+      "fecha": "24 de junio de 2026",
+      "nota": "Palabras del gobierno."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, ficha de tramitación del boletín 18211-25",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18211-25",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias (datos de urgencias.json)."
+    },
+    {
+      "id": "f9",
+      "titulo": "El Ciudadano, «Anti-Hood Law: Congress Approves Stricter Penalties for Public Disorder Crimes Committed Concealing Identity»",
+      "url": "https://www.elciudadano.com/en/anti-hood-law-congress-approves-stricter-penalties-for-public-disorder-crimes-committed-concealing-identity/06/24/",
+      "fecha": "24 de junio de 2026",
+      "nota": "Texto aprobado y propósito declarado en el boletín."
+    },
+    {
+      "id": "f10",
+      "titulo": "24 Horas, nota sobre la aprobación de la ley antiencapuchados en la Cámara",
+      "url": "https://www.24horas.cl/actualidad/politica/ley-antiencapuchados-camara-aprueba-penas-rostro-cubierto-senado",
+      "fecha": "24 de junio de 2026",
+      "nota": "Alcance del texto aprobado."
+    }
+  ],
+  "consultado": "2026-10-30",
+  "publicado": "2026-10-30",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
