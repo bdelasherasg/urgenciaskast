@@ -126,7 +126,7 @@ RE_META = re.compile(r'<!--meta\s+(\{.*?\})\s*-->', re.S)
 
 
 def construir_sitio(v):
-    analisis = leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']
+    analisis = entregas_todas()
     reemplazos = {'{{DESTACADO}}': destacado(analisis), '{{LISTA_ANALISIS}}': lista_analisis(analisis),
                   '{{GLOSARIO}}': glosario_html()}
     for fuente in sorted(glob.glob(ruta('fuente', '**', '*.html'), recursive=True)):
@@ -147,23 +147,55 @@ def construir_sitio(v):
         print('Página', rel)
 
 
+def entregas_todas():
+    """Entregas de la serie: las alojadas aquí (data/analisis.json) y las que publica locomun.cl
+    (data/locomun.json, copia del feed de Lo Común que la acción renueva cada tres horas)."""
+    locales = leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']
+    externas = (leer_json(ruta('data', 'locomun.json'), {}) or {}).get('publicaciones') or []
+    todas = [dict(a) for a in locales]
+    for e in externas:
+        if not e.get('titulo') or not str(e.get('url', '')).startswith('https://'):
+            continue
+        if any(a.get('serie') == e.get('serie') and a.get('numero') == e.get('numero') for a in todas):
+            continue
+        todas.append({'serie': e.get('serie', 'Prueba pública'), 'numero': e.get('numero', ''), 'titulo': e['titulo'],
+                      'autor': e.get('autor', ''), 'fecha': e.get('fecha', ''), 'fecha_texto': e.get('fecha_texto', ''),
+                      'minutos': e.get('minutos'), 'resumen': e.get('resumen', ''), 'url': e['url']})
+    todas.sort(key=lambda a: (a.get('fecha') or '', str(a.get('numero'))), reverse=True)
+    return todas
+
+
+def enlace_entrega(a):
+    return ('{{BASE}}' + esc(a['ruta'])) if a.get('ruta') else esc(a['url'])
+
+
+def tarjeta_entrega(a):
+    externo = not a.get('ruta')
+    rel = ' rel="noopener"' if externo else ''
+    meta = ' · '.join(x for x in [a.get('autor'), a.get('fecha_texto'), f'Lectura de {a["minutos"]} minutos' if a.get('minutos') else '',
+                                  'en locomun.cl' if externo else ''] if x)
+    return (f'<article class="tarjeta destacado-analisis"><div class="lado"><p class="num-bloque">{esc(a["serie"])} · N.° {esc(a["numero"])}</p>'
+            f'<h3><a href="{enlace_entrega(a)}"{rel}>{esc(a["titulo"])}</a></h3>'
+            f'<p class="nota" style="color:var(--tinta-suave)">{esc(meta)}</p></div>'
+            f'<div class="lado"><p>{esc(a["resumen"])}</p><a class="boton boton-indigo" href="{enlace_entrega(a)}"{rel}>Leer el análisis</a></div></article>')
+
+
 def destacado(entregas):
     if not entregas:
         return ''
-    a = entregas[0]
-    return (f'<article class="tarjeta destacado-analisis"><div class="lado"><p class="num-bloque">{esc(a["serie"])} · N.° {esc(a["numero"])}</p>'
-            f'<h3><a href="{{{{BASE}}}}{esc(a["ruta"])}">{esc(a["titulo"])}</a></h3>'
-            f'<p class="nota" style="color:var(--tinta-suave)">{esc(a["autor"])} · {esc(a["fecha_texto"])} · Lectura de {esc(a["minutos"])} minutos</p></div>'
-            f'<div class="lado"><p>{esc(a["resumen"])}</p><a class="boton boton-indigo" href="{{{{BASE}}}}{esc(a["ruta"])}">Leer el análisis</a></div></article>')
+    anteriores = ''
+    if len(entregas) > 1:
+        enlaces = []
+        for a in entregas[1:4]:
+            rel = '' if a.get('ruta') else ' rel="noopener"'
+            enlaces.append(f'<a href="{enlace_entrega(a)}"{rel}>N.° {esc(a["numero"])}, {esc(recortar(a["titulo"], 70))}</a>')
+        anteriores = ('<p class="nota" style="margin-top:14px">Entregas anteriores: ' + ' · '.join(enlaces)
+                      + ' · <a href="{{BASE}}analisis.html">Ver la serie</a></p>')
+    return tarjeta_entrega(entregas[0]) + anteriores
 
 
 def lista_analisis(entregas):
-    return ''.join(
-        f'<article class="tarjeta destacado-analisis"><div class="lado"><p class="num-bloque">{esc(a["serie"])} · N.° {esc(a["numero"])}</p>'
-        f'<h3><a href="{{{{BASE}}}}{esc(a["ruta"])}">{esc(a["titulo"])}</a></h3>'
-        f'<p class="nota" style="color:var(--tinta-suave)">{esc(a["autor"])} · {esc(a["fecha_texto"])} · Lectura de {esc(a["minutos"])} minutos</p></div>'
-        f'<div class="lado"><p>{esc(a["resumen"])}</p><a class="boton boton-indigo" href="{{{{BASE}}}}{esc(a["ruta"])}">Leer el análisis</a></div></article>'
-        for a in entregas)
+    return ''.join(tarjeta_entrega(a) for a in entregas)
 
 
 def glosario_datos():
@@ -243,7 +275,7 @@ def construir_feed(urg, ag, idx):
     vig = [p for p in ps if (p.get('urgencia_vigente') or {}).get('estado') == 'vigente' and (p['urgencia_vigente'].get('vence') or '') >= hoy.isoformat()]
     vig.sort(key=lambda p: p['urgencia_vigente']['vence'])
     sesiones = [s for s in (ag.get('sesiones') or []) if s.get('estado') != 'sin efecto' and s.get('boletines') and s['fecha'] <= lim]
-    analisis = leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']
+    analisis = leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']  # solo las alojadas aquí
     feed = {
         'sitio': SITIO,
         'descripcion': 'Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.',
