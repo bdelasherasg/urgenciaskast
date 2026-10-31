@@ -28,6 +28,8 @@ SALIDA = os.path.join(RAIZ, 'data', 'agenda.json')
 URGENCIAS = A.SALIDA
 DIAS_VENTANA = 14
 MAX_CONSULTAS = 150
+CITACIONES_ASISTIDAS = os.path.join(RAIZ, 'data', 'citaciones_camara.json')
+DIAS_VIGENCIA_ASISTIDA = 8
 
 URL_SENADO_CITACIONES = 'https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1'
 URL_CAMARA_CITACIONES = 'https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana={anno}-{semana:02d}'
@@ -103,6 +105,41 @@ def nombre_organo(valor):
     if re.match(r'(?i)comisi[oó]n\b', v):
         return v[0].upper() + v[1:]
     return 'Comisión ' + v
+
+
+def citaciones_asistidas(desde, hasta, hoy):
+    """Citaciones de la Cámara leídas por el asistente de borradores cuando el sitio de la Cámara
+    rechaza la lectura automática. Se aceptan solo si el archivo es reciente y cada citación
+    tiene fecha ISO dentro de la ventana y boletines con formato válido."""
+    try:
+        with open(CITACIONES_ASISTIDAS, encoding='utf-8') as f:
+            datos = json.load(f)
+        leido = dt.datetime.fromisoformat(str(datos.get('leido', ''))[:19])
+    except (OSError, ValueError, TypeError):
+        return [], None
+    if (dt.datetime.combine(hoy, dt.time()) - leido).days > DIAS_VIGENCIA_ASISTIDA:
+        return [], None
+    salida = []
+    for c in datos.get('sesiones', []):
+        fecha = str(c.get('fecha', ''))
+        try:
+            dt.date.fromisoformat(fecha)
+        except ValueError:
+            continue
+        bols = [b for b in c.get('boletines', []) if isinstance(b, str) and re.fullmatch(r'\d{4,6}-\d{2}', b)]
+        if not bols or not (desde <= fecha <= hasta):
+            continue
+        s = nueva_sesion(fecha, 'Cámara de Diputados', 'Cámara, citaciones leídas por el asistente (confirme en camara.cl)')
+        s['organo'] = str(c.get('organo', ''))[:200]
+        s['lugar'] = str(c.get('lugar', ''))[:200]
+        s['horario'] = str(c.get('horario', ''))[:60]
+        h = RE_HORA.search(s['horario'] or str(c.get('hora', '')))
+        s['hora'] = f'{int(h.group(1)):02d}:{h.group(2)}' if h else ''
+        s['materias'] = [str(m)[:500] for m in c.get('materias', [])][:10]
+        s['boletines'] = bols
+        s['asistida'] = True
+        salida.append(s)
+    return salida, datos.get('leido')
 
 
 def nueva_sesion(fecha, camara, fuente):
@@ -255,11 +292,17 @@ def principal():
         fuentes['camara'] = {'estado': 'ok', 'consultado': dt.datetime.now().isoformat(timespec='minutes'), 'citaciones': len(nuevas_c), 'url': urls[0]}
         sesiones += nuevas_c
     else:
-        prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Cámara de Diputados' and en_ventana(s, desde, hasta)]
-        sesiones += prev
-        fuentes['camara'] = {'estado': 'sin_actualizar',
-                             'detalle': ('; '.join(A.errores[n_err:])[:300] or 'Sin citaciones con boletín reconocibles en la página.'),
-                             'control': control, 'conservadas': len(prev), 'url': urls[0]}
+        detalle = ('; '.join(A.errores[n_err:])[:300] or 'Sin citaciones con boletín reconocibles en la página.')
+        asistidas, leido = citaciones_asistidas(desde, hasta, hoy)
+        if asistidas:
+            sesiones += asistidas
+            fuentes['camara'] = {'estado': 'asistida', 'consultado': str(leido)[:16], 'citaciones': len(asistidas),
+                                 'detalle': detalle, 'control': control, 'url': urls[0]}
+        else:
+            prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Cámara de Diputados' and en_ventana(s, desde, hasta)]
+            sesiones += prev
+            fuentes['camara'] = {'estado': 'sin_actualizar', 'detalle': detalle,
+                                 'control': control, 'conservadas': len(prev), 'url': urls[0]}
 
     sesiones = [s for s in sesiones if en_ventana(s, desde, hasta)]
     sesiones.sort(key=lambda s: (s['fecha'], s.get('hora') or '99', s['camara'], s['organo']))

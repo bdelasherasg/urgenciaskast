@@ -337,6 +337,7 @@
     }
     var meta = '<div class="meta">' + (s.camara ? '<span class="chip' + (probable ? '' : ' chip-claro') + '">' + esc(camaraCorta(s.camara)) + '</span>' : '') +
       (s.estado === 'sin efecto' ? '<span class="chip chip-claro">Sin efecto</span>' : '') +
+      (s.asistida ? '<span class="chip chip-claro" title="La Cámara no entregó esta citación al sistema automático. Un asistente la leyó en camara.cl. Confirme la fecha en camara.cl.">Lectura asistida</span>' : '') +
       (probable ? '<span class="chip">' + t('probable', 'Probable') + '</span>' : '') + '</div>';
     return '<article class="sesion' + (s.estado === 'sin efecto' ? ' sin-efecto' : '') + (probable ? ' probable' : '') + '">' +
       '<span class="hora">' + esc(s.hora || (probable ? 'Plazo' : '')) + '</span>' +
@@ -359,7 +360,7 @@
     Object.keys(A.fuentes || {}).forEach(function (k) {
       var f = A.fuentes[k];
       var nombre = k === 'senado' ? 'Senado' : 'Cámara';
-      est.push('<span class="chip">' + nombre + ': ' + (f.estado === 'ok' ? f.citaciones + ' citaciones, consultadas el ' + esc(fCorta(f.consultado)) : (f.conservadas ? 'sin actualizar; se muestran las últimas citaciones obtenidas' : 'citaciones no disponibles por ahora; se muestran los plazos de urgencia')) + '</span>');
+      est.push('<span class="chip">' + nombre + ': ' + (f.estado === 'ok' ? plural(f.citaciones, 'citación', 'citaciones') + ', consultadas el ' + esc(fCorta(f.consultado)) : f.estado === 'asistida' ? plural(f.citaciones, 'citación leída', 'citaciones leídas') + ' por un asistente el ' + esc(fCorta(f.consultado)) + ' (el sitio de la Cámara no entrega los datos al sistema; confirme en camara.cl)' : (f.conservadas ? 'sin actualizar; se muestran las últimas citaciones obtenidas' : 'citaciones no disponibles por ahora; se muestran los plazos de urgencia')) + '</span>');
     });
     $('#estado-fuentes').innerHTML = est.join('');
     $('#rango').textContent = 'Del ' + fLarga(A.desde) + ' al ' + fLarga(A.hasta);
