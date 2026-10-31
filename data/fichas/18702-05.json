@@ -1,0 +1,315 @@
+{
+  "version": 2,
+  "boletin": "18702-05",
+  "nivel": "completa",
+  "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
+  "materia": "el presupuesto del Estado para 2027",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno presenta un presupuesto con poco aumento del gasto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone un déficit estructural de 1,8% del producto, un punto menos que este año.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El gasto sube 1,5% sobre lo que se estima gastar en 2026.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pide autorizar deuda de hasta 25 mil millones de dólares.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Prioriza niñez, seguridad y empleo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Suspende en 2027 el traspaso de colegios a cinco servicios locales de educación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite reponer un cargo por cada tres vacantes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La partida de gobiernos regionales baja 4,8% real, según Dipres.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Seguridad crece 9,1% y niñez 4,1%.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Educación queda sin alza real.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Emol informa un gasto neto de 105,8 billones de pesos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Otra nota da 91,2 billones y no pudimos conciliar ambas cifras.",
+        "fuentes": [
+          "f2"
+        ],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 30 de septiembre de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Está en la Comisión Especial Mixta de Presupuestos.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El Congreso tiene 60 días para despacharlo.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [
+    {
+      "organizacion": "Confederación de la Producción y del Comercio (CPC)",
+      "tipo": "Gremio empresarial",
+      "vocero": "Susana Jiménez, presidenta",
+      "postura": "A favor",
+      "argumento": "Valora las medidas a favor del empleo y el crecimiento. Dice que falta conocer el monto total de inversión.",
+      "fecha": "1 de octubre de 2026",
+      "fuentes": [
+        "f3"
+      ]
+    },
+    {
+      "organizacion": "Sociedad Nacional de Agricultura (SNA)",
+      "tipo": "Gremio empresarial",
+      "vocero": "Antonio Walker, presidente",
+      "postura": "A favor",
+      "argumento": "Dice que el presupuesto va en la dirección correcta, porque equilibra orden fiscal con reactivación, seguridad y salud.",
+      "fecha": "1 de octubre de 2026",
+      "fuentes": [
+        "f3"
+      ]
+    },
+    {
+      "organizacion": "Cámara Chilena de la Construcción (CChC)",
+      "tipo": "Gremio empresarial",
+      "vocero": "Raimundo Rencoret, presidente",
+      "postura": "A favor",
+      "argumento": "Valora el foco en inversión y empleo y destaca que lo importante será la ejecución.",
+      "fecha": "1 de octubre de 2026",
+      "fuentes": [
+        "f3"
+      ]
+    },
+    {
+      "organizacion": "Asociación Chilena de Municipalidades (comité ejecutivo)",
+      "tipo": "Asociación de municipios",
+      "vocero": "Comité ejecutivo, 33 alcaldes",
+      "postura": "En contra",
+      "argumento": "Dice que el proyecto genera incertidumbre y reduce recursos para salud primaria, programas rurales, educación y leyes que los municipios deben aplicar. Pide una mesa de trabajo con el Ejecutivo.",
+      "fecha": "20 de octubre de 2026",
+      "fuentes": [
+        "f4"
+      ]
+    },
+    {
+      "organizacion": "Asociación de Gobernadores y Gobernadoras Regionales (Agorechi)",
+      "tipo": "Asociación de gobiernos regionales",
+      "vocero": "Rodrigo Mundaca, presidente subrogante",
+      "postura": "En contra",
+      "argumento": "Estima en unos 250 mil millones de pesos la baja de la partida de gobiernos regionales y pide al Congreso rechazarla.",
+      "fecha": "16 de octubre de 2026",
+      "fuentes": [
+        "f6"
+      ]
+    },
+    {
+      "organizacion": "Confech, CUT y Colegio de Profesores",
+      "tipo": "Organizaciones estudiantiles, sindicales y docentes",
+      "vocero": "Laura Mlynarz (Confech)",
+      "postura": "En contra",
+      "argumento": "Convocaron un paro nacional el 1 de octubre con el lema «Ni un peso menos para la educación».",
+      "fecha": "28 de septiembre de 2026",
+      "fuentes": [
+        "f5"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "Esta lectura usó pocas notas. No revisamos pronunciamientos de universidades ni de organizaciones de salud como instituciones.",
+  "encuadre": {
+    "intro": "En la discusión pública aparecen dos maneras de presentar el mismo presupuesto.",
+    "marcos": [
+      {
+        "titulo": "Gasto acotado para reactivar",
+        "quienes": "Gobierno y gremios empresariales",
+        "problema": "El gasto público creció durante años sin que creciera la economía al mismo ritmo.",
+        "problema_fuentes": [
+          "f3"
+        ],
+        "causa": "Atribuyen el problema a una larga alza del gasto que no se vio acompañada por el crecimiento.",
+        "causa_fuentes": [
+          "f3"
+        ],
+        "solucion": "Un alza mesurada del gasto, obras públicas adelantadas a enero y apoyo a la contratación formal.",
+        "solucion_fuentes": [
+          "f3",
+          "f2"
+        ],
+        "palabras": [
+          "expansión mesurada",
+          "reactivación",
+          "empleo"
+        ]
+      },
+      {
+        "titulo": "Recursos que bajan para servicios locales",
+        "quienes": "Municipios, gobiernos regionales y organizaciones de educación",
+        "problema": "Dicen que bajan los recursos para salud primaria, regiones y educación.",
+        "problema_fuentes": [
+          "f4",
+          "f6",
+          "f5"
+        ],
+        "causa": "Atribuyen la baja a la propuesta del Ejecutivo, que compara con el presupuesto de 2026.",
+        "causa_fuentes": [
+          "f6"
+        ],
+        "solucion": "Rechazar la partida de gobiernos regionales, abrir una mesa de trabajo con los municipios y no reducir el gasto en educación.",
+        "solucion_fuentes": [
+          "f6",
+          "f4",
+          "f5"
+        ],
+        "palabras": [
+          "incertidumbre",
+          "recorte",
+          "precarización"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "recorte",
+      "oraciones": [
+        {
+          "texto": "Los gobernadores estiman la baja de su partida en unos 250 mil millones de pesos.",
+          "fuentes": [
+            "f6"
+          ]
+        },
+        {
+          "texto": "El informe de Dipres indica una baja de 90.884 millones de pesos, equivalente a 4,8% real.",
+          "fuentes": [
+            "f6"
+          ]
+        },
+        {
+          "texto": "Las cifras difieren porque se comparan con bases distintas.",
+          "fuentes": [
+            "f6"
+          ]
+        },
+        {
+          "texto": "La palabra recorte cambia de tamaño según el año que se use de comparación.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Emol, «Gobierno ingresa el Presupuesto 2027 y pide autorizar endeudamiento por hasta US$25 mil millones»",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/05/1213323/gobierno-presupuesto-2027.html",
+      "fecha": "5 de octubre de 2026",
+      "nota": "Gasto, deuda, déficit, prioridades y medidas de ahorro."
+    },
+    {
+      "id": "f2",
+      "titulo": "Emol, «Presupuesto 2027: Las seis claves del primer proyecto de Kast, los ruidos y las primeras batallas en el Congreso»",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/11/1213781/claves-presupuesto-gobierno-kast-recortes.html",
+      "fecha": "11 de octubre de 2026",
+      "nota": "Variaciones por sector, plazos y primeras votaciones en subcomisiones."
+    },
+    {
+      "id": "f3",
+      "titulo": "Emol, «Gremios empresariales valoran Presupuesto 2027, pero urgen que anuncios se traduzcan pronto en resultados»",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/01/1212946/presupuesto-2027-gremios-valoran-urgencia.html",
+      "fecha": "1 de octubre de 2026",
+      "nota": "Declaraciones de CPC, SNA y CChC."
+    },
+    {
+      "id": "f4",
+      "titulo": "T13, «Alcaldes de oficialismo y oposición rechazan proyecto de Ley Presupuestos 2027»",
+      "url": "https://www.t13.cl/noticia/nacional/alcaldes-oficialismo-oposicion-rechazan-proyecto-presupuesto-2027-20-10-2026",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Comunicado del comité ejecutivo de la Asociación Chilena de Municipalidades."
+    },
+    {
+      "id": "f5",
+      "titulo": "El Desconcierto, «Paro nacional del 1 de octubre suma a la CUT, profesores y sindicatos por el Presupuesto 2027»",
+      "url": "https://eldesconcierto.cl/actualidad/paro-nacional-del-1-octubre-suma-la-cut-profesores-y-sindicatos-el-presupuesto-2027-n5462613",
+      "fecha": "28 de septiembre de 2026",
+      "nota": "Convocatoria de la Confech y organizaciones adherentes."
+    },
+    {
+      "id": "f6",
+      "titulo": "Emol, «Diálogo de sordos: Gobernadores piden rechazar el presupuesto para regiones tras reunión con Dipres»",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/16/1214359/gobernadores-dipres-recortes-ley-presupuestos.html",
+      "fecha": "16 de octubre de 2026",
+      "nota": "Partida de gobiernos regionales y postura de Agorechi."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, ficha de tramitación del boletín 18702-05",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18702-05",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y trámites."
+    }
+  ],
+  "consultado": "2026-10-31",
+  "publicado": "2026-10-31",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-31 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
