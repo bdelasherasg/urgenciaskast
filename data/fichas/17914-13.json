@@ -7,7 +7,7 @@
   "resumen": {
     "problema": [
       {
-        "texto": "La autora dice que hay un uso fraudulento de licencias médicas.",
+        "texto": "La autora, la diputada Ximena Ossandón,  dice que hay un uso fraudulento de licencias médicas.",
         "fuentes": [
           "f1"
         ]
@@ -218,7 +218,7 @@
     }
   ],
   "consultado": "2026-10-30",
-  "publicado": "2026-10-30",
-  "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "publicado": "2026-10-31",
+  "estado_revision": "aprobada",
+  "revision": "Revisada y aprobada por una persona del equipo de Lo Común el 2026-10-31, con lista de verificación."
 }
