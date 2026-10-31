@@ -76,7 +76,10 @@ p { text-wrap: pretty; }
 .marca { display: flex; align-items: center; gap: 12px; text-decoration: none; min-width: 0; }
 .marca svg { flex: none; width: 38px; height: 38px; }
 .marca-nombre { display: block; font-family: var(--f-display); font-size: 28px; line-height: 1; letter-spacing: 0; }
-.marca-firma { display: block; font-family: var(--f-etiqueta); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--t-suave); margin-top: 5px; }
+.marca-logo { display: flex; flex: none; color: inherit; text-decoration: none; }
+.marca-textos { display: block; min-width: 0; }
+.marca-nombre { color: inherit; text-decoration: none; }
+.marca-firma { text-decoration: none; display: block; font-family: var(--f-etiqueta); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--t-suave); margin-top: 5px; }
 .menu { display: flex; gap: 4px; font-family: var(--f-etiqueta); font-size: 13px; font-weight: 600; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
 .menu::-webkit-scrollbar { display: none; }
 .menu a { text-decoration: none; padding: 8px 13px; border-radius: var(--r-pastilla); color: var(--t-base); white-space: nowrap; }
@@ -577,3 +580,6 @@ body { overflow-x: clip; }
   .marca-firma { font-size: 9px; letter-spacing: .08em; }
   .menu a { padding: 8px 10px; }
 }
+
+/* La firma lleva a locomun.cl */
+.cabecera .marca-firma:hover, .cabecera .marca-firma:focus-visible { color: var(--indigo); text-decoration: underline; text-underline-offset: 3px; }

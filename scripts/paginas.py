@@ -102,7 +102,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <a class="saltar" href="#contenido">Ir al contenido</a>
 <header class="cabecera">
   <div class="envoltura">
-    <a class="marca" href="{base}index.html" aria-label="Urgencias Kast, inicio">{SIMBOLO}<span><span class="marca-nombre">Urgencias Kast</span><span class="marca-firma">Una producción de Lo Común · Laboratorio Político y Estratégico</span></span></a>
+    <div class="marca"><a class="marca-logo" href="{base}index.html" aria-label="Urgencias Kast, inicio">{SIMBOLO}</a><span class="marca-textos"><a class="marca-nombre" href="{base}index.html">Urgencias Kast</a><a class="marca-firma" href="{LOCOMUN}" target="_blank" rel="noopener" title="Ir a locomun.cl (se abre en otra pestaña)">Una producción de Lo Común · Laboratorio Político y Estratégico</a></span></div>
     <nav class="menu" aria-label="Principal">{menu}</nav>
   </div>
 </header>
