@@ -6,37 +6,148 @@
   "materia": "la postergación de la ley de datos personales",
   "resumen": {
     "problema": [
-      {"texto": "El gobierno sostiene que faltan condiciones para aplicar la ley de datos personales el 1 de diciembre de 2026.", "fuentes": ["f1"]},
-      {"texto": "Dice que el Estado, los municipios y las empresas necesitan un año más para adaptar sus sistemas.", "fuentes": ["f1"]},
-      {"texto": "También quiere que el consejo de la Agencia de Protección de Datos funcione aunque falte uno de sus miembros.", "fuentes": ["f2"]}
+      {
+        "texto": "El gobierno sostiene que faltan condiciones para aplicar la ley de datos personales el 1 de diciembre de 2026.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el Estado, los municipios y las empresas necesitan un año más para adaptar sus sistemas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También quiere que el consejo de la Agencia de Protección de Datos funcione aunque falte uno de sus miembros.",
+        "fuentes": [
+          "f2"
+        ]
+      }
     ],
     "propone": [
-      {"texto": "El texto que aprobó el Senado posterga la ley hasta el 15 de octubre de 2027.", "fuentes": ["f3"]},
-      {"texto": "El gobierno había pedido el 1 de diciembre de 2027.", "fuentes": ["f1"]},
-      {"texto": "Sube de tres a cinco los miembros del consejo de la Agencia, que duran seis años.", "fuentes": ["f3"]}
+      {
+        "texto": "El texto que aprobó el Senado posterga la ley hasta el 15 de octubre de 2027.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El gobierno había pedido el 1 de diciembre de 2027.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sube de tres a cinco los miembros del consejo de la Agencia, que duran seis años.",
+        "fuentes": [
+          "f3"
+        ]
+      }
     ],
     "cambia": [
-      {"texto": "Cambia la fecha en que rige la Ley 21.719 y las reglas del consejo.", "fuentes": ["f3"]},
-      {"texto": "Las obligaciones de la ley no cambian.", "fuentes": ["f4"]}
+      {
+        "texto": "Cambia la fecha en que rige la Ley 21.719 y las reglas del consejo.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Las obligaciones de la ley no cambian.",
+        "fuentes": [
+          "f4"
+        ]
+      }
     ],
     "afecta": [
-      {"texto": "Afecta a todos los que usan datos personales, públicos y privados, de cualquier tamaño.", "fuentes": ["f2"]},
-      {"texto": "También afecta a la Agencia y al Senado, que aprueba a los consejeros.", "fuentes": ["f3"]}
+      {
+        "texto": "Afecta a todos los que usan datos personales, públicos y privados, de cualquier tamaño.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "También afecta a la Agencia y al Senado, que aprueba a los consejeros.",
+        "fuentes": [
+          "f3"
+        ]
+      }
     ],
     "costo": [
-      {"texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.", "fuentes": [], "pendiente": true}
+      {
+        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
+        "fuentes": [],
+        "pendiente": true
+      }
     ],
     "estado": [
-      {"texto": "El Senado aprobó el proyecto el 28 de octubre de 2026, por 33 votos contra 6.", "fuentes": ["f3", "f11"]},
-      {"texto": "Ahora lo revisa la Cámara de Diputadas y Diputados.", "fuentes": ["f3"]},
-      {"texto": "La ley de datos personales tiene hoy como fecha de vigencia el 1 de diciembre de 2026.", "fuentes": ["f5"]}
+      {
+        "texto": "El Senado aprobó el proyecto el 28 de octubre de 2026, por 33 votos contra 6.",
+        "fuentes": [
+          "f3",
+          "f11"
+        ]
+      },
+      {
+        "texto": "Ahora lo revisa la Cámara de Diputadas y Diputados.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La ley de datos personales tiene hoy como fecha de vigencia el 1 de diciembre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      }
     ]
   },
   "posiciones": [
-    {"organizacion": "CPC, Sofofa y Abif", "tipo": "Gremios empresariales", "vocero": "Susana Jiménez (CPC) y Rosario Navarro (Sofofa)", "postura": "A favor", "argumento": "Pidieron aplazar la vigencia hasta que la Agencia funcione y existan criterios claros, para una transición ordenada.", "fecha": "26 de agosto de 2026", "fuentes": ["f10"]},
-    {"organizacion": "Asociación de Emprendedores de Chile (Asech)", "tipo": "Gremio de emprendedores y pequeñas empresas", "vocero": "Nicolás Shea", "postura": "En contra", "argumento": "Reconoce que la mayoría de las pymes no está preparada, pero sostiene que eso no justifica postergar, porque la ley ya da a las empresas pequeñas un régimen especial durante el primer año.", "fecha": "26 de agosto de 2026", "fuentes": ["f10"]},
-    {"organizacion": "Asociación Chilena de Profesionales en Protección de Datos Personales", "tipo": "Asociación profesional", "vocero": "Marcelo Drago, presidente", "postura": "Con reparos", "argumento": "Propone postergar seis meses como máximo. Advierte que una postergación mayor afecta la certeza jurídica y a las organizaciones que ya invirtieron en prepararse, y sostiene que la solución era instalar pronto la Agencia.", "fecha": "10 de agosto y 20 de octubre de 2026", "fuentes": ["f8", "f9"]},
-    {"organizacion": "Conadecus", "tipo": "Organización de consumidores", "vocero": "", "postura": "Con reparos", "argumento": "Entiende las dificultades administrativas, pero pide que una postergación no debilite ni atrase los derechos de las personas, y que el gobierno aclare si afecta solo a la Agencia o también a esos derechos.", "fecha": "5 de agosto de 2026", "fuentes": ["f7"]}
+    {
+      "organizacion": "CPC, Sofofa y Abif",
+      "tipo": "Gremios empresariales",
+      "vocero": "Susana Jiménez (CPC) y Rosario Navarro (Sofofa)",
+      "postura": "A favor",
+      "argumento": "Pidieron aplazar la vigencia hasta que la Agencia funcione y existan criterios claros, para una transición ordenada.",
+      "fecha": "26 de agosto de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    },
+    {
+      "organizacion": "Asociación de Emprendedores de Chile (Asech)",
+      "tipo": "Gremio de emprendedores y pequeñas empresas",
+      "vocero": "Nicolás Shea",
+      "postura": "En contra",
+      "argumento": "Reconoce que la mayoría de las pymes no está preparada, pero sostiene que eso no justifica postergar, porque la ley ya da a las empresas pequeñas un régimen especial durante el primer año.",
+      "fecha": "26 de agosto de 2026",
+      "fuentes": [
+        "f10"
+      ]
+    },
+    {
+      "organizacion": "Asociación Chilena de Profesionales en Protección de Datos Personales",
+      "tipo": "Asociación profesional",
+      "vocero": "Marcelo Drago, presidente",
+      "postura": "Con reparos",
+      "argumento": "Propone postergar seis meses como máximo. Advierte que una postergación mayor afecta la certeza jurídica y a las organizaciones que ya invirtieron en prepararse, y sostiene que la solución era instalar pronto la Agencia.",
+      "fecha": "10 de agosto y 20 de octubre de 2026",
+      "fuentes": [
+        "f8",
+        "f9"
+      ]
+    },
+    {
+      "organizacion": "Conadecus",
+      "tipo": "Organización de consumidores",
+      "vocero": "",
+      "postura": "Con reparos",
+      "argumento": "Entiende las dificultades administrativas, pero pide que una postergación no debilite ni atrase los derechos de las personas, y que el gobierno aclare si afecta solo a la Agencia o también a esos derechos.",
+      "fecha": "5 de agosto de 2026",
+      "fuentes": [
+        "f7"
+      ]
+    }
   ],
   "posiciones_sin_registro": "No encontramos declaraciones de sindicatos ni de movimientos sociales sobre este proyecto entre agosto y octubre de 2026.",
   "encuadre": {
@@ -45,43 +156,151 @@
       {
         "titulo": "Una implementación ordenada",
         "quienes": "Gobierno y gremios empresariales",
-        "problema": "El Estado y las empresas necesitan más tiempo para adaptarse, y la Agencia aún no tiene consejo.", "problema_fuentes": ["f1", "f6"],
-        "causa": "Ha costado encontrar personas para el consejo, y el Senado rechazó en mayo la propuesta del gobierno.", "causa_fuentes": ["f6", "f5"],
-        "solucion": "Un año más de plazo y un consejo más grande.", "solucion_fuentes": ["f1"],
-        "palabras": ["incertidumbre", "costos innecesarios", "transición ordenada"]
+        "problema": "El Estado y las empresas necesitan más tiempo para adaptarse, y la Agencia aún no tiene consejo.",
+        "problema_fuentes": [
+          "f1",
+          "f6"
+        ],
+        "causa": "Ha costado encontrar personas para el consejo, y el Senado rechazó en mayo la propuesta del gobierno.",
+        "causa_fuentes": [
+          "f6",
+          "f5"
+        ],
+        "solucion": "Un año más de plazo y un consejo más grande.",
+        "solucion_fuentes": [
+          "f1"
+        ],
+        "palabras": [
+          "incertidumbre",
+          "costos innecesarios",
+          "transición ordenada"
+        ]
       },
       {
         "titulo": "Unos derechos que se atrasan",
         "quienes": "Organizaciones de consumidores y de profesionales de datos",
-        "problema": "Las personas esperan más tiempo por una protección que ya es ley.", "problema_fuentes": ["f7"],
-        "causa": "La Agencia no se instaló a tiempo.", "causa_fuentes": ["f9"],
-        "solucion": "Una postergación corta, de seis meses como máximo.", "solucion_fuentes": ["f8"],
-        "palabras": ["derechos", "certeza jurídica", "consumidores"]
+        "problema": "Las personas esperan más tiempo por una protección que ya es ley.",
+        "problema_fuentes": [
+          "f7"
+        ],
+        "causa": "La Agencia no se instaló a tiempo.",
+        "causa_fuentes": [
+          "f9"
+        ],
+        "solucion": "Una postergación corta, de seis meses como máximo.",
+        "solucion_fuentes": [
+          "f8"
+        ],
+        "palabras": [
+          "derechos",
+          "certeza jurídica",
+          "consumidores"
+        ]
       }
     ],
     "disputa": {
       "palabra": "certeza",
       "oraciones": [
-        {"texto": "Para el gobierno, postergar reduce la incertidumbre de quienes deben cumplir.", "fuentes": ["f1"]},
-        {"texto": "Para la asociación de profesionales, una postergación larga pone en riesgo la certeza jurídica y perjudica a quienes ya se prepararon.", "fuentes": ["f8"]},
-        {"texto": "La palabra tiene dos sentidos en este debate, y cada lado usa el suyo.", "fuentes": []}
+        {
+          "texto": "Para el gobierno, postergar reduce la incertidumbre de quienes deben cumplir.",
+          "fuentes": [
+            "f1"
+          ]
+        },
+        {
+          "texto": "Para la asociación de profesionales, una postergación larga pone en riesgo la certeza jurídica y perjudica a quienes ya se prepararon.",
+          "fuentes": [
+            "f8"
+          ]
+        },
+        {
+          "texto": "La palabra tiene dos sentidos en este debate, y cada lado usa el suyo.",
+          "fuentes": []
+        }
       ]
     }
   },
   "fuentes": [
-    {"id": "f1", "titulo": "La Tercera, «Protección de datos personales: gobierno ingresa proyecto que posterga en un año entrada en vigencia de la ley»", "url": "https://www.latercera.com/pulso/noticia/proteccion-de-datos-personales-gobierno-ingresa-proyecto-que-posterga-en-un-ano-entrada-en-vigencia-de-la-ley/", "fecha": "Septiembre de 2026", "nota": "Fundamentos y contenido del mensaje."},
-    {"id": "f2", "titulo": "Aylwin Abogados, newsletter legal sobre el ingreso del proyecto", "url": "https://www.aylwinasociados.cl/post/newsletter-legal-se-ingresa-proyecto-de-ley-que-tiene-por-objeto-postergar-la-entrada-en-vigencia-d", "fecha": "Septiembre de 2026", "nota": "Alcance del proyecto y fundamentos del consejo directivo."},
-    {"id": "f3", "titulo": "El América, «A segundo trámite proyecto que posterga entrada en vigencia de Ley de Protección de Datos Personales»", "url": "https://elamerica.cl/2026/10/29/a-segundo-tramite-proyecto-que-posterga-entrada-en-vigencia-de-ley-de-proteccion-de-datos-personales/", "fecha": "29 de octubre de 2026", "nota": "Votación en Sala y texto aprobado por el Senado."},
-    {"id": "f4", "titulo": "DOE Actualidad Jurídica, «Postergación de Ley de Protección de Datos Personales avanza en el Senado y abre debate sobre plazos de implementación»", "url": "https://actualidadjuridica.doe.cl/postergacion-de-ley-de-proteccion-de-datos-personales-avanza-en-el-senado-y-abre-debate-sobre-plazos-de-implementacion/", "fecha": "20 de octubre de 2026", "nota": ""},
-    {"id": "f5", "titulo": "Pauta, «Ley de datos personales: senadores proponen prórroga de seis meses frente al año que pide el gobierno»", "url": "https://www.pauta.cl/actualidad/2026/10/02/ley-de-datos-personales-senadores-proponen-prorroga-de-seis-meses-frente-al-ano-que-pide-el-gobierno.html", "fecha": "2 de octubre de 2026", "nota": "Fecha de vigencia actual y propuestas de consejeros."},
-    {"id": "f6", "titulo": "Emol, «Gobierno evalúa postergar ley de datos personales»", "url": "https://www.emol.com/noticias/Economia/2026/08/04/1207539/gobierno-postergar-ley-datos-personales.html", "fecha": "4 de agosto de 2026", "nota": "Dificultades para conformar el consejo de la Agencia."},
-    {"id": "f7", "titulo": "Conadecus, «Conadecus advierte que eventual postergación de la Ley de Protección de Datos Personales no debe debilitar los derechos de los consumidores»", "url": "https://www.conadecus.cl/conadecus-advierte-que-eventual-postergacion-de-la-ley-de-proteccion-de-datos-personales-no-debe-debilitar-los-derechos-de-los-consumidores/", "fecha": "5 de agosto de 2026", "nota": ""},
-    {"id": "f8", "titulo": "DOE Actualidad Jurídica, «Profesionales en protección de datos advierten riesgos de postergar la nueva ley y proponen un aplazamiento máximo de seis meses»", "url": "https://actualidadjuridica.doe.cl/profesionales-en-proteccion-de-datos-advierten-riesgos-de-postergar-la-nueva-ley-y-proponen-un-aplazamiento-maximo-de-seis-meses/", "fecha": "10 de agosto de 2026", "nota": ""},
-    {"id": "f9", "titulo": "Poder y Liderazgo, «Comisión del Senado respalda postergar Ley de Datos hasta diciembre de 2027»", "url": "https://www.poderyliderazgo.cl/senado-postergacion-ley-proteccion-datos-2027/", "fecha": "20 de octubre de 2026", "nota": ""},
-    {"id": "f10", "titulo": "El Desconcierto, nota sobre la postergación de la ley de datos personales y la posición de los gremios", "url": "https://eldesconcierto.cl/actualidad/ley-proteccion-datos-personales-al-congelador-gobierno-kast-escucha-gremio-grandes-empresarios-n5461694", "fecha": "26 de agosto de 2026", "nota": ""},
-    {"id": "f11", "titulo": "Senado, ficha de tramitación del boletín 18623-07", "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18623-07", "fecha": "Consulta automática", "nota": "Etapas y urgencias."}
+    {
+      "id": "f1",
+      "titulo": "La Tercera, «Protección de datos personales: gobierno ingresa proyecto que posterga en un año entrada en vigencia de la ley»",
+      "url": "https://www.latercera.com/pulso/noticia/proteccion-de-datos-personales-gobierno-ingresa-proyecto-que-posterga-en-un-ano-entrada-en-vigencia-de-la-ley/",
+      "fecha": "Septiembre de 2026",
+      "nota": "Fundamentos y contenido del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Aylwin Abogados, newsletter legal sobre el ingreso del proyecto",
+      "url": "https://www.aylwinasociados.cl/post/newsletter-legal-se-ingresa-proyecto-de-ley-que-tiene-por-objeto-postergar-la-entrada-en-vigencia-d",
+      "fecha": "Septiembre de 2026",
+      "nota": "Alcance del proyecto y fundamentos del consejo directivo."
+    },
+    {
+      "id": "f3",
+      "titulo": "El América, «A segundo trámite proyecto que posterga entrada en vigencia de Ley de Protección de Datos Personales»",
+      "url": "https://elamerica.cl/2026/10/29/a-segundo-tramite-proyecto-que-posterga-entrada-en-vigencia-de-ley-de-proteccion-de-datos-personales/",
+      "fecha": "29 de octubre de 2026",
+      "nota": "Votación en Sala y texto aprobado por el Senado."
+    },
+    {
+      "id": "f4",
+      "titulo": "DOE Actualidad Jurídica, «Postergación de Ley de Protección de Datos Personales avanza en el Senado y abre debate sobre plazos de implementación»",
+      "url": "https://actualidadjuridica.doe.cl/postergacion-de-ley-de-proteccion-de-datos-personales-avanza-en-el-senado-y-abre-debate-sobre-plazos-de-implementacion/",
+      "fecha": "20 de octubre de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f5",
+      "titulo": "Pauta, «Ley de datos personales: senadores proponen prórroga de seis meses frente al año que pide el gobierno»",
+      "url": "https://www.pauta.cl/actualidad/2026/10/02/ley-de-datos-personales-senadores-proponen-prorroga-de-seis-meses-frente-al-ano-que-pide-el-gobierno.html",
+      "fecha": "2 de octubre de 2026",
+      "nota": "Fecha de vigencia actual y propuestas de consejeros."
+    },
+    {
+      "id": "f6",
+      "titulo": "Emol, «Gobierno evalúa postergar ley de datos personales»",
+      "url": "https://www.emol.com/noticias/Economia/2026/08/04/1207539/gobierno-postergar-ley-datos-personales.html",
+      "fecha": "4 de agosto de 2026",
+      "nota": "Dificultades para conformar el consejo de la Agencia."
+    },
+    {
+      "id": "f7",
+      "titulo": "Conadecus, «Conadecus advierte que eventual postergación de la Ley de Protección de Datos Personales no debe debilitar los derechos de los consumidores»",
+      "url": "https://www.conadecus.cl/conadecus-advierte-que-eventual-postergacion-de-la-ley-de-proteccion-de-datos-personales-no-debe-debilitar-los-derechos-de-los-consumidores/",
+      "fecha": "5 de agosto de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f8",
+      "titulo": "DOE Actualidad Jurídica, «Profesionales en protección de datos advierten riesgos de postergar la nueva ley y proponen un aplazamiento máximo de seis meses»",
+      "url": "https://actualidadjuridica.doe.cl/profesionales-en-proteccion-de-datos-advierten-riesgos-de-postergar-la-nueva-ley-y-proponen-un-aplazamiento-maximo-de-seis-meses/",
+      "fecha": "10 de agosto de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f9",
+      "titulo": "Poder y Liderazgo, «Comisión del Senado respalda postergar Ley de Datos hasta diciembre de 2027»",
+      "url": "https://www.poderyliderazgo.cl/senado-postergacion-ley-proteccion-datos-2027/",
+      "fecha": "20 de octubre de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f10",
+      "titulo": "El Desconcierto, nota sobre la postergación de la ley de datos personales y la posición de los gremios",
+      "url": "https://eldesconcierto.cl/actualidad/ley-proteccion-datos-personales-al-congelador-gobierno-kast-escucha-gremio-grandes-empresarios-n5461694",
+      "fecha": "26 de agosto de 2026",
+      "nota": ""
+    },
+    {
+      "id": "f11",
+      "titulo": "Senado, ficha de tramitación del boletín 18623-07",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18623-07",
+      "fecha": "Consulta automática",
+      "nota": "Etapas y urgencias."
+    }
   ],
   "consultado": "2026-10-29",
-  "publicado": "2026-10-29",
-  "revision": "Aprobada por la dirección de Lo Común el 29 de octubre de 2026. Fuentes abiertas y verificadas ese día."
+  "publicado": "2026-10-31",
+  "estado_revision": "aprobada",
+  "revision": "Revisada y aprobada por una persona del equipo de Lo Común el 2026-10-31, con lista de verificación."
 }
