@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-10-30T23:00-03:00",
+ "actualizado": "2026-10-30T23:25-03:00",
  "conteos": {
   "urgencias_vigentes": 48,
   "discusion_inmediata": 11,
@@ -68,7 +68,7 @@
     {
      "boletin": "18702-05",
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
@@ -82,7 +82,7 @@
     {
      "boletin": "18702-05",
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
@@ -90,10 +90,22 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "17914-13",
+   "sintesis": "Busca que usar mal una licencia médica sea una falta de probidad que permite despedir al trabajador. La Cámara lo aprobó; ahora lo revisa la Comisión de Trabajo del Senado.",
+   "publicado": "2026-10-31",
+   "url": "https://urgenciaskast.cl/p/17914-13.html"
+  },
+  {
    "boletin": "18623-07",
    "sintesis": "Posterga hasta el 15 de octubre de 2027 la ley de datos personales y amplía de tres a cinco el consejo de la Agencia. El Senado lo aprobó; ahora lo revisa la Cámara.",
    "publicado": "2026-10-31",
    "url": "https://urgenciaskast.cl/p/18623-07.html"
+  },
+  {
+   "boletin": "18702-05",
+   "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
+   "publicado": "2026-10-31",
+   "url": "https://urgenciaskast.cl/p/18702-05.html"
   },
   {
    "boletin": "12712-24",
@@ -112,18 +124,6 @@
    "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
    "publicado": "2026-10-30",
    "url": "https://urgenciaskast.cl/p/15261-25.html"
-  },
-  {
-   "boletin": "15589-07",
-   "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
-   "publicado": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/15589-07.html"
-  },
-  {
-   "boletin": "15805-07",
-   "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
-   "publicado": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/15805-07.html"
   }
  ],
  "analisis": [
