@@ -88,7 +88,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="es_CL">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#1d1640">
+<meta name="theme-color" content="#e4def7">
 <link rel="icon" href="{base}assets/simbolo.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -111,7 +111,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 </main>
 <footer class="pie">
   <div class="envoltura">
-    <div class="firma-pie">{SIMBOLO}<div><p><b style="color:var(--crema)">Urgencias Kast</b> es una producción pública de Lo Común: Laboratorio de Relato y Producción Narrativa.</p><p>No recibe financiamiento de actores políticos. Se sostiene con aportes voluntarios.</p><p>Contenido bajo licencia <a style="display:inline" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" rel="license">CC BY-SA 4.0</a>.</p></div></div>
+    <div class="firma-pie">{SIMBOLO}<div><p><b style="color:var(--t-base)">Urgencias Kast</b> es una producción pública de Lo Común: Laboratorio de Relato y Producción Narrativa.</p><p>No recibe financiamiento de actores políticos. Se sostiene con aportes voluntarios.</p><p>Contenido bajo licencia <a style="display:inline" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" rel="license">CC BY-SA 4.0</a>.</p></div></div>
     <nav aria-label="El sitio"><strong>El sitio</strong><a href="{base}agenda.html">Agenda de dos semanas</a><a href="{base}index.html#urgencias">Proyectos con urgencia</a><a href="{base}como-leer.html">Cómo leer Urgencias Kast</a><a href="{base}glosario.html">Glosario</a></nav>
     <nav aria-label="Lo Común"><strong>Lo Común</strong><a href="{base}asesoria.html">Asesoría</a><a href="{base}analisis.html">Prueba pública</a><a href="{base}aportar.html">Aportar</a><a href="{LOCOMUN}" rel="noopener">Sitio de Lo Común</a></nav>
     <div><strong>Datos y contacto</strong><a href="{base}data/urgencias.json">Urgencias (JSON)</a><a href="{base}data/agenda.json">Agenda (JSON)</a><p style="margin-top:8px">Correcciones y contacto: <b data-correo style="color:var(--crema)"></b></p></div>
