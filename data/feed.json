@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-10-31T01:22-03:00",
+ "actualizado": "2026-10-31T01:42-03:00",
  "conteos": {
   "urgencias_vigentes": 48,
   "discusion_inmediata": 11,
   "vencen_7_dias": 42,
-  "citaciones_7_dias": 2
+  "citaciones_7_dias": 13
  },
  "proximos_vencimientos": [
   {
@@ -84,6 +84,254 @@
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
      "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "proyectos": [
+    {
+     "boletin": "18788-07",
+     "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
+     "sintesis": "Reforma constitucional que aplica a los beneficios de condenados por delitos sexuales la ley vigente al decidirlos. Está en la Comisión de Constitución de la Cámara, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18788-07.html"
+    },
+    {
+     "boletin": "18413-07",
+     "titulo": "Modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18413-07.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Deportes y Recreación",
+   "proyectos": [
+    {
+     "boletin": "12760-29",
+     "titulo": "Denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/12760-29.html"
+    },
+    {
+     "boletin": "18730-29",
+     "titulo": "Modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18730-29.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Educación",
+   "proyectos": [
+    {
+     "boletin": "18551-04",
+     "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
+     "sintesis": "Permite cambiar el calendario de los servicios locales de educación pendientes y atrasar traspasos de colegios. El Senado lo aprobó; ahora lo revisa la Cámara de Diputados.",
+     "url": "https://urgenciaskast.cl/p/18551-04.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+   "proyectos": [
+    {
+     "boletin": "18576-06",
+     "titulo": "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18576-06.html"
+    },
+    {
+     "boletin": "18537-06",
+     "titulo": "Tipifica la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18537-06.html"
+    },
+    {
+     "boletin": "18544-06",
+     "titulo": "Sanciona la celebración de matrimonios y acuerdos de unión civil destinados a obtener beneficios estatales o residencia en el país",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18544-06.html"
+    },
+    {
+     "boletin": "18383-06",
+     "titulo": "Modifica ley N° 10.336, de organización y atribuciones de la Contraloría General de la República, con el objeto de delimitar el régimen de exclusiva confianza en dicha institución",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18383-06.html"
+    },
+    {
+     "boletin": "18728-06",
+     "titulo": "Modifica la ley N° 10.336, sobre organización y atribuciones de la Contraloría General de la República, en materia de régimen funcionario",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18728-06.html"
+    },
+    {
+     "boletin": "18713-11",
+     "titulo": "Modifica el Decreto con Fuerza de Ley N°1, de 1989, del Ministerio de Salud, para activar y precisar el régimen de autorización sanitaria aplicable a actividades económicas de bajo riesgo",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18713-11.html"
+    },
+    {
+     "boletin": "18721-06",
+     "titulo": "Modifica el decreto ley Nº 3.063, de 1979, sobre Rentas Municipales, para agilizar el otorgamiento de la patente municipal a la micro y pequeña empresa",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18721-06.html"
+    },
+    {
+     "boletin": "18655-06",
+     "titulo": "Modifica la ley N° 18.695, orgánica constitucional de Municipalidades, con el objeto de facultar a dichas entidades para requerir la clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18655-06.html"
+    },
+    {
+     "boletin": "18781-06",
+     "titulo": "Modifica la ley N° 19.995 con el objeto de entregar igualdad de condiciones de competencia a los casinos y otras entidades establecidas por ley",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18781-06.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Defensa Nacional",
+   "proyectos": [
+    {
+     "boletin": "18530-02",
+     "titulo": "Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18530-02.html"
+    },
+    {
+     "boletin": "14773-02",
+     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/14773-02.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo",
+   "proyectos": [
+    {
+     "boletin": "18819-03",
+     "titulo": "Fomenta la industria de capital de riesgo, mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18819-03.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Emergencia, Desastres y Bomberos",
+   "proyectos": [
+    {
+     "boletin": "18693-06",
+     "titulo": "Incorpora la dimensión animal en la gestión del riesgo de desastres",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18693-06.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "proyectos": [
+    {
+     "boletin": "17820-09",
+     "titulo": "Modifica la ley N° 21.473, sobre publicidad visible desde caminos, vías o espacios públicos, para facilitar la instalación de elementos publicitarios",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17820-09.html"
+    },
+    {
+     "boletin": "16397-15",
+     "titulo": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/16397-15.html"
+    },
+    {
+     "boletin": "18680-15",
+     "titulo": "Modifica la ley N° 18.290, de Tránsito, con el objeto de elevar las sanciones por alteración de sistemas de escape y emisiones de vehículos motorizados",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18680-15.html"
+    },
+    {
+     "boletin": "18729-15",
+     "titulo": "Modifica la ley N° 18.290, de Tránsito, para sancionar las alteraciones de los sistemas de escape y el uso de dispositivos destinados a aumentar el ruido de vehículos motorizados, y establecer su retiro de circulación",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18729-15.html"
+    },
+    {
+     "boletin": "18744-15",
+     "titulo": "Modifica el DFL 1 de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito, con el fin de prohibir y sancionar la circulación de vehículos motorizados con ¿tronadores¿ o que mantengan modificaciones para aumentar el ruido de sus motores o sistemas de escape.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18744-15.html"
+    },
+    {
+     "boletin": "18223-15",
+     "titulo": "Establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros, hasta la entrada en vigencia de la ley N° 21.553",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18223-15.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Personas Mayores y Discapacidad",
+   "proyectos": [
+    {
+     "boletin": "18448-25",
+     "titulo": "Modifica la ley N°18.961, orgánica constitucional de Carabineros de Chile, en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18448-25.html"
+    },
+    {
+     "boletin": "18509-35",
+     "titulo": "Modifica la ley N°20.422, sobre igualdad de oportunidades e inclusión social de personas con discapacidad, para especificar el deber de señalización auditiva de estaciones y paradas en los servicios de transporte público",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18509-35.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Salud",
+   "proyectos": [
+    {
+     "boletin": "16709-11",
+     "titulo": "Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/16709-11.html"
+    },
+    {
+     "boletin": "17800-11",
+     "titulo": "Modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17800-11.html"
     }
    ]
   }

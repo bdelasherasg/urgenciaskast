@@ -1,19 +1,20 @@
 {
- "actualizado": "2026-10-31T01:23-03:00",
+ "actualizado": "2026-10-31T01:43-03:00",
  "desde": "2026-10-31",
  "hasta": "2026-11-13",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-10-31T04:22",
+   "consultado": "2026-10-31T04:42",
    "citaciones": 5,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
-   "estado": "sin_actualizar",
+   "estado": "asistida",
+   "consultado": "2026-10-31T01:50",
+   "citaciones": 11,
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-44: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-45: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 0,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-44"
   }
  },
@@ -51,6 +52,224 @@
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "lugar": "Sala Francisco Bulnes Sanfuentes, tercer nivel (Presencial)",
+   "materias": [
+    "Continuar la discusión general del proyecto que modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales. Boletín N° 18788-07. Discusión inmediata.",
+    "Continuar la discusión en general del proyecto que modifica la Constitución en materia de admisibilidad y efectos de las acusaciones constitucionales. Boletín N° 18413-07. Simple urgencia."
+   ],
+   "boletines": [
+    "18788-07",
+    "18413-07"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Deportes y Recreación",
+   "lugar": "Sala Octavio Jara Wolff, tercer nivel (Presencial)",
+   "materias": [
+    "Fácil despacho: moción que denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud, boletín N° 12760-29.",
+    "Continuar con la discusión general del proyecto, iniciado en mensaje, que modifica el Código del Trabajo para ampliar la relación especial de trabajo a deportistas de modalidades distintas al fútbol profesional, boletín N° 18730-29, con urgencia calificada de simple."
+   ],
+   "boletines": [
+    "12760-29",
+    "18730-29"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Educación",
+   "lugar": "Sala de Conferencias Inés Enríquez, segundo nivel (Presencial)",
+   "materias": [
+    "Iniciar la tramitación del proyecto de ley, originado en mensaje, que modifica la ley N° 21.040, que crea el sistema de educación pública, para ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación (boletín N° 18551-04), en segundo trámite constitucional."
+   ],
+   "boletines": [
+    "18551-04"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+   "lugar": "Sala Arturo Longton Guerrero, tercer nivel (Presencial)",
+   "materias": [
+    "Continuar la discusión general del proyecto que modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias (Boletín N° 18576-06), urgencia suma, vence el 4 de noviembre. Luego de audiencia se votará en general y en particular.",
+    "Continuar la discusión general de los proyectos refundidos que tipifican la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios (Boletín N° 18537-06) y sancionan la celebración de matrimonios y acuerdos de unión civil para obtener beneficios estatales o residencia (Boletín N° 18544-06, urgencia simple, vence el 18 de noviembre).",
+    "Votar en particular los proyectos refundidos que modifican la ley N° 10.336 de la Contraloría General de la República: régimen de exclusiva confianza (Boletín N° 18383-06) y régimen funcionario (Boletín N° 18728-06).",
+    "Iniciar la discusión general de los proyectos que modifican el DFL N° 1, de 1989, del Ministerio de Salud, sobre autorización sanitaria de actividades económicas de bajo riesgo (Boletín N° 18713-11) y el decreto ley N° 3.063 sobre Rentas Municipales para agilizar la patente municipal a la micro y pequeña empresa (Boletín N° 18721-06).",
+    "Iniciar la discusión general del proyecto que modifica la ley N° 18.695, orgánica constitucional de Municipalidades, para facultar el requerimiento de clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves (Boletín N° 18655-06).",
+    "Iniciar la discusión general del proyecto que modifica la ley N° 19.995 para entregar igualdad de condiciones de competencia a los casinos y otras entidades establecidas por ley (Boletín N° 18781-06)."
+   ],
+   "boletines": [
+    "18576-06",
+    "18537-06",
+    "18544-06",
+    "18383-06",
+    "18728-06",
+    "18713-11",
+    "18721-06",
+    "18655-06",
+    "18781-06"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Defensa Nacional",
+   "lugar": "Sala N° 408, cuarto nivel (Presencial)",
+   "materias": [
+    "Comenzar la tramitación del proyecto que modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado. BOLETÍN N° 18530-02. Urgencia simple.",
+    "Discusión y votación, en segundo trámite constitucional, del proyecto que crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa. BOLETÍN N° 14773-02(S). Urgencia simple."
+   ],
+   "boletines": [
+    "18530-02",
+    "14773-02"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo",
+   "lugar": "Sala Ramón Pérez Opazo, tercer nivel (Presencial)",
+   "materias": [
+    "Comenzar la discusión general del proyecto, iniciado en mensaje, que fomenta la industria de capital de riesgo mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo, boletín N° 18819-03, con urgencia calificada de suma."
+   ],
+   "boletines": [
+    "18819-03"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Emergencia, Desastres y Bomberos",
+   "lugar": "Sala N° 410, cuarto nivel (Presencial)",
+   "materias": [
+    "Iniciar la discusión general del proyecto que incorpora la dimensión animal en la gestión del riesgo de desastres (Boletín N° 18693-06)."
+   ],
+   "boletines": [
+    "18693-06"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "lugar": "Sala de Conferencias Inés Enríquez, segundo nivel (Presencial)",
+   "materias": [
+    "Proyecto que perfecciona la ley N° 21.473, sobre publicidad visible desde caminos, vías o espacios públicos. Boletín N° 17820-09. Urgencia simple.",
+    "Proyecto que modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil. Boletín N° 16397-15. Urgencia simple.",
+    "Proyectos que modifican la ley de Tránsito en materia de alteración de sistemas de escape y ruido de vehículos: Boletines N° 18680-15 (urgencia simple), 18729-15 y 18744-15.",
+    "Moción que establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros. Boletín N° 18223-15."
+   ],
+   "boletines": [
+    "17820-09",
+    "16397-15",
+    "18680-15",
+    "18729-15",
+    "18744-15",
+    "18223-15"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Personas Mayores y Discapacidad",
+   "lugar": "Sala Octavio Jara Wolff, tercer nivel (Presencial)",
+   "materias": [
+    "Continuar el estudio, en general, del proyecto que modifica la ley orgánica constitucional de Carabineros de Chile en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal. Boletín N° 18448-25.",
+    "Iniciar la discusión en general del proyecto que modifica la ley N° 20.422 para especificar el deber de señalización auditiva de estaciones y paradas en el transporte público. Boletín N° 18509-35."
+   ],
+   "boletines": [
+    "18448-25",
+    "18509-35"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Salud",
+   "lugar": "Sala Juan Lobos Krause, tercer nivel (Presencial)",
+   "materias": [
+    "Iniciar discusión y votación particular, en segundo trámite constitucional, del proyecto que modifica la ley N° 20.418 para promover la información y educación sobre la infertilidad. Boletín N° 16.709-11(S). Urgencia simple.",
+    "Continuar la discusión del proyecto que modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel. Boletín N° 17.800-11. Urgencia simple."
+   ],
+   "boletines": [
+    "16709-11",
+    "17800-11"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "17:30",
+   "horario": "17:30 a 19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Trabajo y Seguridad Social",
+   "lugar": "Sala Manuel Bustos Huerta, tercer nivel (Presencial)",
+   "materias": [
+    "Iniciar el estudio en particular del proyecto, originado en mensaje, que equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica y crea un fondo solidario de sala cuna, boletín N° 14.782-13, en segundo trámite constitucional, con urgencia calificada de discusión inmediata."
+   ],
+   "boletines": [
+    "14782-13"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones leídas por el asistente (confirme en camara.cl)",
+   "asistida": true
   },
   {
    "fecha": "2026-11-05",
@@ -92,12 +311,6 @@
  ],
  "probables": [
   {
-   "boletin": "18788-07",
-   "vence": "2026-11-01",
-   "tipo": "Discusión inmediata",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18211-25",
    "vence": "2026-11-02",
    "tipo": "Discusión inmediata",
@@ -132,12 +345,6 @@
    "vence": "2026-11-02",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
-  },
-  {
-   "boletin": "14782-13",
-   "vence": "2026-11-03",
-   "tipo": "Discusión inmediata",
-   "camara": "Cámara de Diputados"
   },
   {
    "boletin": "16743-04",
@@ -332,12 +539,6 @@
    "camara": "Senado"
   },
   {
-   "boletin": "18576-06",
-   "vence": "2026-11-04",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18585-25",
    "vence": "2026-11-04",
    "tipo": "Suma",
@@ -372,15 +573,730 @@
    "vence": "2026-11-11",
    "tipo": "Suma",
    "camara": "Senado"
-  },
-  {
-   "boletin": "18819-03",
-   "vence": "2026-11-12",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
   }
  ],
  "proyectos": {
+  "12760-29": {
+   "boletin": "12760-29",
+   "titulo": "Denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud",
+   "fecha_ingreso": "2019-07-03",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Deportes y Recreación",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2019-07-03",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2019-07-09",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Deportes y Recreación.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=12760-29",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=12760-29",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=13299&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 2677
+  },
+  "14773-02": {
+   "boletin": "14773-02",
+   "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+   "fecha_ingreso": "2022-01-04",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Simple",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
+   "subetapa": "Segundo informe de comisión de Defensa Nacional",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2022-01-04",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "334-369"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2022-11-08",
+     "retiro": "2022-11-29",
+     "camara": "Senado",
+     "oficio": "871-370"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-06-13",
+     "retiro": "2023-06-20",
+     "camara": "Senado",
+     "oficio": "530-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-06-20",
+     "retiro": "2023-07-05",
+     "camara": "Senado",
+     "oficio": "612-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-07-05",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "681-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-07-25",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "794-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-08-09",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "892-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-08-23",
+     "retiro": "2023-09-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "977-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-09-05",
+     "retiro": "2023-09-11",
+     "camara": "Cámara de Diputados",
+     "oficio": "1068-371"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2023-09-11",
+     "retiro": "2023-10-04",
+     "camara": "Cámara de Diputados",
+     "oficio": "1117-371"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2023-10-04",
+     "retiro": "2023-10-25",
+     "camara": "Cámara de Diputados",
+     "oficio": "1250-371"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2023-10-25",
+     "retiro": "2023-11-22",
+     "camara": "Cámara de Diputados",
+     "oficio": "1348-371"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2023-11-22",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "1500-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-01-06",
+     "retiro": "2025-01-13",
+     "camara": "Cámara de Diputados",
+     "oficio": "2450-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-08-11",
+     "retiro": "2025-09-10",
+     "camara": "Cámara de Diputados",
+     "oficio": "925-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-09-10",
+     "retiro": "2025-10-08",
+     "camara": "Cámara de Diputados",
+     "oficio": "1056-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-10-08",
+     "retiro": "2025-11-04",
+     "camara": "Cámara de Diputados",
+     "oficio": "1135-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-11-04",
+     "retiro": "2025-12-03",
+     "camara": "Cámara de Diputados",
+     "oficio": "1226-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-12-03",
+     "retiro": "2026-01-06",
+     "camara": "Cámara de Diputados",
+     "oficio": "1307-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-01-06",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "1455-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-03-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "1603-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-02",
+     "retiro": "2026-09-30",
+     "camara": "Cámara de Diputados",
+     "oficio": "295-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-30",
+     "retiro": "2026-10-26",
+     "camara": "Cámara de Diputados",
+     "oficio": "355-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-26",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "406-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2024-01-03",
+     "descripcion": "Cuenta de oficio N° 336-2023, de la Corte Suprema, por el cual remite opinión sobre el proyecto (informe N° 60-2023).",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-01-06",
+     "descripcion": "Cuenta del Mensaje 2450-372 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-01-13",
+     "descripcion": "Cuenta del Mensaje 2568-372 que retira la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-08-11",
+     "descripcion": "Cuenta del Mensaje 925-373 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-09-10",
+     "descripcion": "Cuenta del Mensaje 1056-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-10-08",
+     "descripcion": "Cuenta del Mensaje 1135-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-11-04",
+     "descripcion": "Cuenta del Mensaje 1226-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-12-03",
+     "descripcion": "Cuenta del Mensaje 1307-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-01-06",
+     "descripcion": "Cuenta del Mensaje 1455-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-03-02",
+     "descripcion": "Cuenta del Mensaje 1603-373 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-12",
+     "descripcion": "Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-31",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta de primer informe de comisión .  (Hacienda). Queda para tabla.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-02",
+     "descripcion": "Cuenta del Mensaje 295-374 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (145-374).",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "Discusión general . Queda pendiente .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Discusión general . Aprobado en general",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Oficio N°21.584. Remite las indicaciones presentadas durante la discusión general en Sala.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Cuenta del Mensaje 355-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=14773-02",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=14773-02",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15272&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 2,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 3,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-26",
+    "vence": "2026-11-25",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "406-374",
+    "mixta": false
+   },
+   "dias_tramite": 1761
+  },
+  "16397-15": {
+   "boletin": "16397-15",
+   "titulo": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros",
+   "fecha_ingreso": "2023-10-31",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-04-08",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "24-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-05-04",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "69-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-06-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "121-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-06-22",
+     "retiro": "2026-07-20",
+     "camara": "Cámara de Diputados",
+     "oficio": "163-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-07-20",
+     "retiro": "2026-08-17",
+     "camara": "Cámara de Diputados",
+     "oficio": "211-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-17",
+     "retiro": "2026-09-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "262-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-07",
+     "retiro": "2026-10-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "302-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-05",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "368-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2023-10-31",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2023-11-06",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-04-08",
+     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-04",
+     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-02",
+     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Cuenta del Mensaje 163-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-20",
+     "descripcion": "Cuenta del Mensaje 211-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-23",
+     "descripcion": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Discusión pendiente.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-17",
+     "descripcion": "Cuenta del Mensaje 262-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Discusión general . Aprobado en general .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Oficio N° 2152. Remite las indicaciones presentadas durante la discusión general en Sala.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "Cuenta del Mensaje 302-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 368-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16397-15",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16397-15",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16958&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 7,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 8,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-05",
+    "vence": "2026-11-04",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "368-374",
+    "mixta": false
+   },
+   "dias_tramite": 1096
+  },
+  "16709-11": {
+   "boletin": "16709-11",
+   "titulo": "Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad",
+   "fecha_ingreso": "2024-04-03",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Simple",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
+   "subetapa": "Segundo informe de comisión de Salud",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-06-08",
+     "retiro": "2026-07-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "131-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-07-06",
+     "retiro": "2026-08-03",
+     "camara": "Cámara de Diputados",
+     "oficio": "183-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-03",
+     "retiro": "2026-08-31",
+     "camara": "Cámara de Diputados",
+     "oficio": "226-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-31",
+     "retiro": "2026-09-28",
+     "camara": "Cámara de Diputados",
+     "oficio": "282-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-28",
+     "retiro": "2026-10-26",
+     "camara": "Cámara de Diputados",
+     "oficio": "346-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-26",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "406-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2024-04-03",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-09",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-27",
+     "descripcion": "Primer informe de comisión de Salud.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-27",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-29",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-29",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-03",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-08",
+     "descripcion": "Cuenta del Mensaje 131-374 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "Cuenta del Mensaje 183-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Cuenta del Mensaje 226-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-18",
+     "descripcion": "Primer informe de comisión de Salud.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-31",
+     "descripcion": "Cuenta del Mensaje 282-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-02",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Discusión general . Aprobado en general .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-28",
+     "descripcion": "Cuenta del Mensaje 346-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16709-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16709-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17284&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 5,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 6,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-26",
+    "vence": "2026-11-25",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "406-374",
+    "mixta": false
+   },
+   "dias_tramite": 941
+  },
   "17293-27": {
    "boletin": "17293-27",
    "titulo": "Modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica",
@@ -424,6 +1340,870 @@
     "plazo_dias": null
    },
    "dias_tramite": 690
+  },
+  "17800-11": {
+   "boletin": "17800-11",
+   "titulo": "Modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel",
+   "fecha_ingreso": "2025-08-20",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Salud",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-07-06",
+     "retiro": "2026-08-03",
+     "camara": "Cámara de Diputados",
+     "oficio": "184-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-03",
+     "retiro": "2026-08-31",
+     "camara": "Cámara de Diputados",
+     "oficio": "226-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-31",
+     "retiro": "2026-09-28",
+     "camara": "Cámara de Diputados",
+     "oficio": "282-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-28",
+     "retiro": "2026-10-26",
+     "camara": "Cámara de Diputados",
+     "oficio": "346-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2025-08-20",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-09-02",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-09-02",
+     "descripcion": "A petición del diputado señor Manouchehri, la Sala acordó remitir el proyecto a la Comisión de Pesca, Acuicultura e Intereses Marítimos, una vez despachado por la de Salud.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-09-03",
+     "descripcion": "Oficio N° 20757. Comunica a la Comisión de Salud el acuerdo de la Sala para remitir el proyecto de ley  a la Comisión de Pesca, Acuicultura e Intereses Marítimos, con posterioridad a su despacho,",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-09-03",
+     "descripcion": "Oficio N° 20760. Comunica a la Comisión de Pesca, Acuicultura e Intereses  Marítimos",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "Cuenta del Mensaje 184-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Cuenta del Mensaje 226-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-31",
+     "descripcion": "Cuenta del Mensaje 282-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-28",
+     "descripcion": "Cuenta del Mensaje 346-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17800-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17800-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18452&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 3,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 4,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-09-28",
+    "vence": "2026-10-28",
+    "camara": "Cámara de Diputados",
+    "estado": "vencida",
+    "plazo_dias": 30,
+    "oficio": "346-374",
+    "mixta": false
+   },
+   "dias_tramite": 437
+  },
+  "17820-09": {
+   "boletin": "17820-09",
+   "titulo": "Modifica la ley N° 21.473, sobre publicidad visible desde caminos, vías o espacios públicos, para facilitar la instalación de elementos publicitarios",
+   "fecha_ingreso": "2025-09-02",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-21",
+     "retiro": "2026-10-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "328-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-05",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "368-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2025-09-02",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-09-09",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Cuenta del Mensaje 328-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 368-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17820-09",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17820-09",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18474&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 1,
+   "urgencias_gobierno": 2,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-05",
+    "vence": "2026-11-04",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "368-374",
+    "mixta": false
+   },
+   "dias_tramite": 424
+  },
+  "18223-15": {
+   "boletin": "18223-15",
+   "titulo": "Establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros, hasta la entrada en vigencia de la ley N° 21.553",
+   "fecha_ingreso": "2026-04-25",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-04-25",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-04",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18223-15",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18223-15",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18889&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 189
+  },
+  "18383-06": {
+   "boletin": "18383-06",
+   "titulo": "Modifica ley N° 10.336, de organización y atribuciones de la Contraloría General de la República, con el objeto de delimitar el régimen de exclusiva confianza en dicha institución",
+   "fecha_ingreso": "2026-06-22",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18383-06 y 18728-06. Acordado.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18383-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18383-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19065&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 131
+  },
+  "18413-07": {
+   "boletin": "18413-07",
+   "titulo": "Modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales",
+   "fecha_ingreso": "2026-06-22",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-28",
+     "retiro": "2026-10-26",
+     "camara": "Cámara de Diputados",
+     "oficio": "347-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-26",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "406-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-28",
+     "descripcion": "Cuenta del Mensaje 347-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18413-07",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18413-07",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19103&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 1,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 2,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-26",
+    "vence": "2026-11-25",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "406-374",
+    "mixta": false
+   },
+   "dias_tramite": 131
+  },
+  "18448-25": {
+   "boletin": "18448-25",
+   "titulo": "Modifica la ley N°18.961, orgánica constitucional de Carabineros de Chile, en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal",
+   "fecha_ingreso": "2026-07-01",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Seguridad Ciudadana",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-07-01",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-13",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Cuenta, Oficio de la Comisión de Personas Mayores y Discapacidad (N° 438/27/2026), por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto en calidad de comisión técnica. ACORDADO.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Oficio N°21.427. Comunica que la Cámara de Diputados acordó remitir el proyecto de ley a la Comisión de Personas Mayores y Discapacidad.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18448-25",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18448-25",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19131&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 122
+  },
+  "18509-35": {
+   "boletin": "18509-35",
+   "titulo": "Modifica la ley N°20.422, sobre igualdad de oportunidades e inclusión social de personas con discapacidad, para especificar el deber de señalización auditiva de estaciones y paradas en los servicios de transporte público",
+   "fecha_ingreso": "2026-07-21",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Personas Mayores y Discapacidad",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-07-21",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Personas Mayores y Discapacidad.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "A petición del diputado Cristián Araya, la Sala acordó remitir el proyecto a la Comisión de Obras Públicas, Transportes y Telecomunicaciones, una vez despachado por la de Personas Mayores.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Oficio N° 21431. Comunica a la Comisión de Personas Mayores y Discapacidad el acuerdo de la Sala, en orden a remitir el proyecto de ley a  la Comisión de Obras Públicas, Transportes, con posterioridad a su despacho.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Oficio N° 21432. Comunica a la Comisión de Obras Públicas, Transporte y Telecomunicaciones la asignación del proyecto de ley, una vez despachado por la Comisión de Personas Mayores.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18509-35",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18509-35",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19192&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 102
+  },
+  "18530-02": {
+   "boletin": "18530-02",
+   "titulo": "Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado",
+   "fecha_ingreso": "2026-07-29",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Defensa Nacional",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-07",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "378-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-07-29",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Defensa Nacional",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta del Mensaje 378-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18530-02",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18530-02",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19209&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-07",
+    "vence": "2026-11-06",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "378-374",
+    "mixta": false
+   },
+   "dias_tramite": 94
+  },
+  "18537-06": {
+   "boletin": "18537-06",
+   "titulo": "Tipifica la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios",
+   "fecha_ingreso": "2026-07-31",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-19",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "387-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-07-31",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Cuenta, Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18537-06 y 18544-06. (375/1/2026). ACORDADO.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Oficio N°21.579. Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización para refundir los proyectos de ley correspondientes a los boletines Nos.  18.537-06 y 18.544-06.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 387-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18537-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18537-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19221&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-19",
+    "vence": "2026-11-18",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "387-374",
+    "mixta": false
+   },
+   "dias_tramite": 92
+  },
+  "18544-06": {
+   "boletin": "18544-06",
+   "titulo": "Sanciona la celebración de matrimonios y acuerdos de unión civil destinados a obtener beneficios estatales o residencia en el país",
+   "fecha_ingreso": "2026-08-04",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-18",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "272-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-19",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "387-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-10",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-18",
+     "descripcion": "Cuenta del Mensaje 272-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Cuenta, Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18537-06 y 18544-06. ACORDADO.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 387-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18544-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18544-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19244&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 1,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 2,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-19",
+    "vence": "2026-11-18",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "387-374",
+    "mixta": false
+   },
+   "dias_tramite": 88
+  },
+  "18655-06": {
+   "boletin": "18655-06",
+   "titulo": "Modifica la ley N° 18.695, orgánica constitucional de Municipalidades, con el objeto de facultar a dichas entidades para requerir la clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves",
+   "fecha_ingreso": "2026-08-21",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-08-21",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad,Ciudadanía y Regionalización. Se remite el proyecto a la Corte Suprema.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Oficio N° a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18655-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18655-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19340&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 71
+  },
+  "18680-15": {
+   "boletin": "18680-15",
+   "titulo": "Modifica la ley N° 18.290, de Tránsito, con el objeto de elevar las sanciones por alteración de sistemas de escape y emisiones de vehículos motorizados",
+   "fecha_ingreso": "2026-09-03",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-05",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "367-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-09-03",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-29",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 367-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18680-15, 18729-15 y 18744-15. Aprobado.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18680-15",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18680-15",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19360&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-05",
+    "vence": "2026-11-04",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "367-374",
+    "mixta": false
+   },
+   "dias_tramite": 58
+  },
+  "18693-06": {
+   "boletin": "18693-06",
+   "titulo": "Incorpora la dimensión animal en la gestión del riesgo de desastres",
+   "fecha_ingreso": "2026-09-09",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-09-09",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "A petición del diputado Fernando Ugarte, la Sala acordó radicar el proyecto en la Comisión de Emergencia, Desastres y Bomberos.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Oficio N°21.608. Comunica que la Cámara de Diputados acordó remitir el proyecto a la Comisión de \nEmergencia, Desastres y Bomberos, en lugar de a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18693-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18693-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19375&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 52
   },
   "18702-05": {
    "boletin": "18702-05",
@@ -576,6 +2356,372 @@
     "plazo_dias": null
    },
    "dias_tramite": 31
+  },
+  "18713-11": {
+   "boletin": "18713-11",
+   "titulo": "Modifica el Decreto con Fuerza de Ley N°1, de 1989, del Ministerio de Salud, para activar y precisar el régimen de autorización sanitaria aplicable a actividades económicas de bajo riesgo",
+   "fecha_ingreso": "2026-09-16",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Salud",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-09-16",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "A solicitud del diputado Olivares la Sala acordó radicar el proyecto en la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Oficio N° 21636. Comunica a la Comisión de Gobierno Interior el acuerdo de la Sala en orden a remitirle el proyecto de ley, originalmente asignado a la Comisión de Salud.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18713-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18713-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19398&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 45
+  },
+  "18721-06": {
+   "boletin": "18721-06",
+   "titulo": "Modifica el decreto ley Nº 3.063, de 1979, sobre Rentas Municipales, para agilizar el otorgamiento de la patente municipal a la micro y pequeña empresa",
+   "fecha_ingreso": "2026-10-06",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18721-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18721-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19405&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 25
+  },
+  "18728-06": {
+   "boletin": "18728-06",
+   "titulo": "Modifica la ley N° 10.336, sobre organización y atribuciones de la Contraloría General de la República, en materia de régimen funcionario",
+   "fecha_ingreso": "2026-09-22",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18383-06 y 18728-06. Acordado.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18728-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18728-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19402&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 39
+  },
+  "18729-15": {
+   "boletin": "18729-15",
+   "titulo": "Modifica la ley N° 18.290, de Tránsito, para sancionar las alteraciones de los sistemas de escape y el uso de dispositivos destinados a aumentar el ruido de vehículos motorizados, y establecer su retiro de circulación",
+   "fecha_ingreso": "2026-09-23",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-09-23",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18680-15, 18729-15 y 18744-15.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18729-15",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18729-15",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19409&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 38
+  },
+  "18730-29": {
+   "boletin": "18730-29",
+   "titulo": "Modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional",
+   "fecha_ingreso": "2026-10-07",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Simple",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Deportes y Recreación",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-10-07",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "380-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Ingreso de proyecto .  Incluye IF N° 237/02.10.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Texto del Mensaje",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Deportes y Recreación, y a la de Trabajo y Seguridad Social.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta del Mensaje 380-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18730-29",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18730-29",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19411&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-10-07",
+    "vence": "2026-11-06",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "380-374",
+    "mixta": false
+   },
+   "dias_tramite": 24
+  },
+  "18744-15": {
+   "boletin": "18744-15",
+   "titulo": "Modifica el DFL 1 de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito, con el fin de prohibir y sancionar la circulación de vehículos motorizados con ¿tronadores¿ o que mantengan modificaciones para aumentar el ruido de sus motores o sistemas de escape.",
+   "fecha_ingreso": "2026-09-28",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-09-28",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18680-15, 18729-15 y 18744-15.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18744-15",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18744-15",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19433&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 33
+  },
+  "18781-06": {
+   "boletin": "18781-06",
+   "titulo": "Modifica la ley N° 19.995 con el objeto de entregar igualdad de condiciones de competencia a los casinos y otras entidades establecidas por ley",
+   "fecha_ingreso": "2026-10-22",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-10-22",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "A solicitud del diputado Felipe Ross la Sala acordó remitir el proyecto a la Comisión de Economía una vez informado por la de Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18781-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18781-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19464&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 9
   }
  }
 }
