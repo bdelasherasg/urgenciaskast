@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-10-31T10:33-03:00",
+ "actualizado": "2026-10-31T11:08-03:00",
  "desde": "2026-10-31",
  "hasta": "2026-11-13",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-10-31T13:32",
+   "consultado": "2026-10-31T14:08",
    "citaciones": 5,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
    "estado": "asistida",
-   "consultado": "2026-10-31T01:50",
+   "consultado": "2026-10-31T10:55",
    "citaciones": 11,
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-44: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-45: HTTP Error 403: Forbidden",
    "control": [],
@@ -61,8 +61,8 @@
    "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
    "lugar": "Sala Francisco Bulnes Sanfuentes, tercer nivel (Presencial)",
    "materias": [
-    "Continuar la discusión general del proyecto que modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales. Boletín N° 18788-07. Discusión inmediata.",
-    "Continuar la discusión en general del proyecto que modifica la Constitución en materia de admisibilidad y efectos de las acusaciones constitucionales. Boletín N° 18413-07. Simple urgencia."
+    "Continuar la discusión general del proyecto, iniciado en moción de las diputadas señoras Ossandón, doña Ximena; Mora; y de los diputados señores Orrego, Guzmán, Beltrán, Schalper, González, don Mauro; Durán, Chandía y Valenzuela, don Daniel, que \"modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales\". BOLETÍN N° 18788-07. Discusión inmediata. Ha sido invitado el profesor de Derecho Público de la Pontificia Universidad Católica de Chile,",
+    "Continuar la discusión en general del proyecto, iniciado en moción de los diputados Alejandro Bernales, Carlos Cuadrado, Jorge Guzmán, Raúl Leiva, Jaime Mulet, Luis Pardo, Joanna Pérez, Guillermo Ramírez, Diego Schalper (A) y Gael Yeomans, que modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales. BOLETÍN N° 18.413-07. Simple urgencia. Ha sido invitado el profesor de Derecho Público de la Pontificia Universidad Católica de Chi"
    ],
    "boletines": [
     "18788-07",
@@ -80,8 +80,8 @@
    "organo": "Comisión de Deportes y Recreación",
    "lugar": "Sala Octavio Jara Wolff, tercer nivel (Presencial)",
    "materias": [
-    "Fácil despacho: moción que denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud, boletín N° 12760-29.",
-    "Continuar con la discusión general del proyecto, iniciado en mensaje, que modifica el Código del Trabajo para ampliar la relación especial de trabajo a deportistas de modalidades distintas al fútbol profesional, boletín N° 18730-29, con urgencia calificada de simple."
+    "Fácil despacho: Moción de los exdiputados Gabriel Ascencio Mansilla, Fidel Espinoza Sandoval, Sebastián Keitel Bianchi, Pablo Prieto Lorca y Alejandro Santana Tirachini; del diputado Marcos Ilabaca Cerda, y de las exdiputadas Jenny Álvarez Vera y Erika Olivera De La Fuente, que denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud, correspondiente al boletín N°12760-29.",
+    "Continuar con la discusión general del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, que modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional, correspondiente al boletín N° 18730-29, con urgencia calificada de “simple”."
    ],
    "boletines": [
     "12760-29",
@@ -99,7 +99,7 @@
    "organo": "Comisión de Educación",
    "lugar": "Sala de Conferencias Inés Enríquez, segundo nivel (Presencial)",
    "materias": [
-    "Iniciar la tramitación del proyecto de ley, originado en mensaje, que modifica la ley N° 21.040, que crea el sistema de educación pública, para ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación (boletín N° 18551-04), en segundo trámite constitucional."
+    "Sesión ordinaria citada con objeto de iniciar la tramitación del proyecto de ley, originado en mensaje de S.E. el Presidente de la República, que modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación (boletín N° 18551-04), en segundo trámite constitucional."
    ],
    "boletines": [
     "18551-04"
@@ -116,12 +116,12 @@
    "organo": "Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
    "lugar": "Sala Arturo Longton Guerrero, tercer nivel (Presencial)",
    "materias": [
-    "Continuar la discusión general del proyecto que modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias (Boletín N° 18576-06), urgencia suma, vence el 4 de noviembre. Luego de audiencia se votará en general y en particular.",
-    "Continuar la discusión general de los proyectos refundidos que tipifican la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios (Boletín N° 18537-06) y sancionan la celebración de matrimonios y acuerdos de unión civil para obtener beneficios estatales o residencia (Boletín N° 18544-06, urgencia simple, vence el 18 de noviembre).",
-    "Votar en particular los proyectos refundidos que modifican la ley N° 10.336 de la Contraloría General de la República: régimen de exclusiva confianza (Boletín N° 18383-06) y régimen funcionario (Boletín N° 18728-06).",
-    "Iniciar la discusión general de los proyectos que modifican el DFL N° 1, de 1989, del Ministerio de Salud, sobre autorización sanitaria de actividades económicas de bajo riesgo (Boletín N° 18713-11) y el decreto ley N° 3.063 sobre Rentas Municipales para agilizar la patente municipal a la micro y pequeña empresa (Boletín N° 18721-06).",
-    "Iniciar la discusión general del proyecto que modifica la ley N° 18.695, orgánica constitucional de Municipalidades, para facultar el requerimiento de clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves (Boletín N° 18655-06).",
-    "Iniciar la discusión general del proyecto que modifica la ley N° 19.995 para entregar igualdad de condiciones de competencia a los casinos y otras entidades establecidas por ley (Boletín N° 18781-06)."
+    "Continuar la discusión general del proyecto de ley, de origen en moción, en primer trámite constitucional y con urgencia calificada de “suma”, que modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias (Boletín N° 18.576-06). Vencimiento de la urgencia: 4 de noviembre. Luego de audiencia se votará en general y en particular.",
+    "Continuar la discusión general de los siguientes proyectos de ley, refundidos, de origen en sendas mociones y que cumplen su primer trámite constitucional y reglamentario: a) tipifica la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios (Boletín N°18.537-06); y b) sanciona la celebración de matrimonios y acuerdos de unión civil destinados a obtener beneficios estatales o residencia en el país (Boletín N°18.544-06), este último con urgencia calificada de “simple”,",
+    "Votar en particular los siguientes proyectos de ley refundidos, de origen en sendas mociones, que cumplen su primer trámite constitucional y reglamentario: a) modifica la ley N°10.336 de organización y atribuciones de la Contraloría General de la República con el objeto de delimitar el régimen de exclusiva confianza en dicha institución (Boletín N°18.383-06); y b) modifica la ley N°10.336 sobre organización y atribuciones de la Contraloría General de la República en materia de régimen funcionari",
+    "Iniciar la discusión general de los siguientes proyectos de ley, de origen en sendas mociones y que cumplen su primer trámite constitucional y reglamentario: a) modifica el Decreto con Fuerza de Ley N°1, de 1989, del Ministerio de Salud para activar y precisar el régimen de autorización sanitaria aplicable a actividades económicas de bajo riesgo (Boletín N° 18.713-11); y b) modifica el decreto ley N°3.063, de 1979, sobre Rentas Municipales para agilizar el otorgamiento de la patente municipal a ",
+    "Iniciar la discusión general del proyecto de ley, de origen en moción, en primer trámite constitucional y reglamentario, que modifica la ley N°18.695, orgánica constitucional de Municipalidades, con el objeto de facultar a dichas entidades para requerir la clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves (Boletín N° 18.655-06).",
+    "Iniciar la discusión general del proyecto de ley, de origen en moción, en primer trámite constitucional y reglamentario, que modifica la ley N°19.995, con el objeto de entregar igualdad de condiciones de competencia a los casinos y otras entidades establecidas por ley (Boletín N° 18.781-06)."
    ],
    "boletines": [
     "18576-06",
@@ -146,8 +146,8 @@
    "organo": "Comisión de Defensa Nacional",
    "lugar": "Sala N° 408, cuarto nivel (Presencial)",
    "materias": [
-    "Comenzar la tramitación del proyecto que modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado. BOLETÍN N° 18530-02. Urgencia simple.",
-    "Discusión y votación, en segundo trámite constitucional, del proyecto que crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa. BOLETÍN N° 14773-02(S). Urgencia simple."
+    "Comenzar la tramitación del proyecto de ley iniciado en moción, en primer trámite constitucional y reglamentario, que ''Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado''. BOLETÍN N° 18530-02. Urgencia simple.",
+    "Proceder a la discusión y votación en segundo trámite constitucional y segundo trámite reglamentario, del proyecto de ley iniciado en mensaje que “Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.\". BOLETÍN N° 14773-02(S). Urgencia simple."
    ],
    "boletines": [
     "18530-02",
@@ -165,7 +165,7 @@
    "organo": "Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo",
    "lugar": "Sala Ramón Pérez Opazo, tercer nivel (Presencial)",
    "materias": [
-    "Comenzar la discusión general del proyecto, iniciado en mensaje, que fomenta la industria de capital de riesgo mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo, boletín N° 18819-03, con urgencia calificada de suma."
+    "comenzar la discusión general del proyecto de ley iniciado en mensaje de S. E. el Presidente de la República que Fomenta la industria de capital de riesgo, mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo, boletín N° 18819-03, con urgencia calificada de “suma”, en primer trámite constitucional y primero reglamentario."
    ],
    "boletines": [
     "18819-03"
@@ -182,7 +182,7 @@
    "organo": "Comisión de Emergencia, Desastres y Bomberos",
    "lugar": "Sala N° 410, cuarto nivel (Presencial)",
    "materias": [
-    "Iniciar la discusión general del proyecto que incorpora la dimensión animal en la gestión del riesgo de desastres (Boletín N° 18693-06)."
+    "Iniciar la discusión general del proyecto de ley, de origen en moción, de la diputada señora Carolina Cucumides; y de los diputados señores Carlos Carvajal, Cristián Mella, Patricio Pinilla, José Antonio Rivas (A) y Bernardo Salinas, en primer trámite constitucional y reglamentario, que incorpora la dimensión animal en la gestión del riesgo de desastres (Boletín N° 18.693-06)."
    ],
    "boletines": [
     "18693-06"
@@ -199,10 +199,12 @@
    "organo": "Comisión de Obras Públicas, Transportes y Telecomunicaciones",
    "lugar": "Sala de Conferencias Inés Enríquez, segundo nivel (Presencial)",
    "materias": [
-    "Proyecto que perfecciona la ley N° 21.473, sobre publicidad visible desde caminos, vías o espacios públicos. Boletín N° 17820-09. Urgencia simple.",
-    "Proyecto que modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil. Boletín N° 16397-15. Urgencia simple.",
-    "Proyectos que modifican la ley de Tránsito en materia de alteración de sistemas de escape y ruido de vehículos: Boletines N° 18680-15 (urgencia simple), 18729-15 y 18744-15.",
-    "Moción que establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros. Boletín N° 18223-15."
+    "Proyecto de Ley con urgencia calificada de simple, que perfecciona la Ley N°21.473, sobre publicidad visible desde caminos, vías o espacios públicos, en el sentido de facilitar la instalación de elementos publicitarios. BOLETÍN N°17.820-09.",
+    "Proyecto de ley, en segundo trámite reglamentario, y con urgencia calificada de simple, que \"Modifica la ley N°18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros\". BOLETÍN N°16397-15.",
+    "Proyecto iniciado en moción de los diputados señores Riquelme, Sánchez, Kunstmann, Menchaca, Vergara, Ross; Kast, don José Antonio, y Lorca; y de la diputada señora Del Real, con urgencia calificada de simple, que \"modifica la ley N°18.290, de Tránsito, con el objeto de elevar las sanciones por alteración de sistemas de escape y emisiones de vehículos motorizados\". BOLETÍN N°18680-15.",
+    "Proyecto que modifica la ley N° 18.290, de Tránsito, para sancionar las alteraciones de los sistemas de escape y al uso de dispositivos destinados a aumentar el ruido de vehículos motorizados, y establecer su retiro de circulación, Boletín N°18.729-15",
+    "Proyecto que modifica el DFL 1 de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito, con el fin de prohibir y sancionar la circulación de vehículos motorizados con “tronadores” o que mantengan modificaciones para aumentar el ruido de sus motores o sistemas de escape, Boletín N°18.744-15.",
+    "Moción, copatrocinada por los congresistas Alejandro Bernales, Felipe Camaño, Pier Karlezi, Patricio Pinilla (A) y Cristián Tapia, que establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros, hasta la entrada en vigencia de la ley N° 21.553. BOLETÍN N°18.223-15."
    ],
    "boletines": [
     "17820-09",
@@ -224,8 +226,8 @@
    "organo": "Comisión de Personas Mayores y Discapacidad",
    "lugar": "Sala Octavio Jara Wolff, tercer nivel (Presencial)",
    "materias": [
-    "Continuar el estudio, en general, del proyecto que modifica la ley orgánica constitucional de Carabineros de Chile en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal. Boletín N° 18448-25.",
-    "Iniciar la discusión en general del proyecto que modifica la ley N° 20.422 para especificar el deber de señalización auditiva de estaciones y paradas en el transporte público. Boletín N° 18509-35."
+    "Continuar el estudio, en general, de la iniciativa que \"Modifica la ley N°18.961, orgánica constitucional de Carabineros de Chile, en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal\". Boletín N° 18448-25.",
+    "Iniciar la discusión en general del proyecto de ley que \"Modifica la ley N° 20.422, sobre igualdad de oportunidades e inclusión social de personas con discapacidad, para especificar el deber de señalización auditiva de estaciones y paradas en los servicios de transporte público.\". Boletín N° 18509-35."
    ],
    "boletines": [
     "18448-25",
@@ -243,8 +245,8 @@
    "organo": "Comisión de Salud",
    "lugar": "Sala Juan Lobos Krause, tercer nivel (Presencial)",
    "materias": [
-    "Iniciar discusión y votación particular, en segundo trámite constitucional, del proyecto que modifica la ley N° 20.418 para promover la información y educación sobre la infertilidad. Boletín N° 16.709-11(S). Urgencia simple.",
-    "Continuar la discusión del proyecto que modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel. Boletín N° 17.800-11. Urgencia simple."
+    "Iniciar discusión y votación particular, en segundo trámite reglamentario, y en segundo trámite constitucional, del proyecto de ley que \"Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad \". Boletín N° 16.709-11(S). Urgencia simple.",
+    "Continuar la discusión del proyecto de ley que \"Modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel\". Boletín N° 17.800-11. Urgencia Simple."
    ],
    "boletines": [
     "16709-11",
@@ -262,7 +264,7 @@
    "organo": "Comisión de Trabajo y Seguridad Social",
    "lugar": "Sala Manuel Bustos Huerta, tercer nivel (Presencial)",
    "materias": [
-    "Iniciar el estudio en particular del proyecto, originado en mensaje, que equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica y crea un fondo solidario de sala cuna, boletín N° 14.782-13, en segundo trámite constitucional, con urgencia calificada de discusión inmediata."
+    "La sesión tiene por objeto iniciar el estudio en particular del proyecto de ley, originado en mensaje de S.E. el Presidente de la República, que equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna, correspondiente al boletín N° 14.782-13, en segundo trámite constitucional y primer trámite reglamentario, con urgencia calif"
    ],
    "boletines": [
     "14782-13"
