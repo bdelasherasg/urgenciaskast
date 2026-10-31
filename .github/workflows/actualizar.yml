@@ -11,6 +11,7 @@ on:
     paths:
       - 'fuente/**'
       - 'data/fichas/**'
+      - 'data/citaciones_camara.json'
       - 'data/analisis.json'
       - 'data/glosario.json'
       - 'assets/**'
