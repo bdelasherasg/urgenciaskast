@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-10-30T23:53-03:00",
+ "actualizado": "2026-10-31T00:21-03:00",
  "desde": "2026-10-31",
  "hasta": "2026-11-13",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-10-31T02:53",
+   "consultado": "2026-10-31T03:20",
    "citaciones": 5,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
