@@ -553,15 +553,18 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 body { overflow-x: clip; }
 .heroe, .cabeza-ilu { position: relative; }
 .heroe > *, .cabeza-ilu > * { position: relative; z-index: 1; }
-.heroe::after, .cabeza-ilu::after { content: ""; position: absolute; z-index: 0; left: 46%; right: calc(50% - 50vw); background: var(--ilu) right bottom / cover no-repeat; pointer-events: none;
-  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 38%), linear-gradient(0deg, transparent 0, #000 22%); -webkit-mask-composite: source-in;
-  mask-image: linear-gradient(90deg, transparent 0, #000 38%), linear-gradient(0deg, transparent 0, #000 22%); mask-composite: intersect; }
+.heroe::after, .cabeza-ilu::after { content: ""; position: absolute; z-index: 0; left: 55%; right: calc(50% - 50vw); background: var(--ilu) right bottom / contain no-repeat; pointer-events: none;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 32%), linear-gradient(0deg, transparent 0, #000 16%); -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(90deg, transparent 0, #000 32%), linear-gradient(0deg, transparent 0, #000 16%); mask-composite: intersect; }
 .heroe { --ilu: url(ilu-moneda.svg); }
 .heroe::after { top: -52px; height: 680px; }
-.cabeza-congreso { --ilu: url(ilu-congreso.svg); }
+.cabeza-congreso, .pagina-cabeza:has(.heroe-acciones a[href="#solicitar"]) { --ilu: url(ilu-congreso.svg); }
+.pagina-cabeza:has(.heroe-acciones a[href="#solicitar"]) { position: relative; }
+.pagina-cabeza:has(.heroe-acciones a[href="#solicitar"]) > * { position: relative; z-index: 1; }
+.pagina-cabeza:has(.heroe-acciones a[href="#solicitar"])::after { content: ""; position: absolute; z-index: 0; left: 55%; right: calc(50% - 50vw); top: -44px; height: 560px; background: var(--ilu) right bottom / contain no-repeat; pointer-events: none; -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 32%), linear-gradient(0deg, transparent 0, #000 16%); -webkit-mask-composite: source-in; mask-image: linear-gradient(90deg, transparent 0, #000 32%), linear-gradient(0deg, transparent 0, #000 16%); mask-composite: intersect; }
 .cabeza-ilu::after { top: -44px; height: 560px; }
 @media (max-width: 760px) {
-  .heroe::after, .cabeza-ilu::after { left: 0; right: 0; height: 460px; opacity: .3; -webkit-mask-image: linear-gradient(0deg, transparent 0, #000 40%); mask-image: linear-gradient(0deg, transparent 0, #000 40%); }
+  .heroe::after, .cabeza-ilu::after, .pagina-cabeza:has(.heroe-acciones a[href="#solicitar"])::after { left: 0; right: 0; height: 460px; opacity: .3; background-size: cover; -webkit-mask-image: linear-gradient(0deg, transparent 0, #000 40%); mask-image: linear-gradient(0deg, transparent 0, #000 40%); }
   .heroe::after { top: 0; }
   .cabeza-ilu::after { top: 0; }
 }
