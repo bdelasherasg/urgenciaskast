@@ -1,22 +1,14 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-10-30T19:32-03:00",
+ "actualizado": "2026-10-30T23:00-03:00",
  "conteos": {
-  "urgencias_vigentes": 49,
-  "discusion_inmediata": 12,
-  "vencen_7_dias": 43,
+  "urgencias_vigentes": 48,
+  "discusion_inmediata": 11,
+  "vencen_7_dias": 42,
   "citaciones_7_dias": 2
  },
  "proximos_vencimientos": [
-  {
-   "boletin": "16335-14",
-   "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
-   "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/16335-14.html"
-  },
   {
    "boletin": "18788-07",
    "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
@@ -56,6 +48,14 @@
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
    "url": "https://urgenciaskast.cl/p/18779-07.html"
+  },
+  {
+   "boletin": "18804-07",
+   "titulo": "Proyecto de ley que, interpreta el artículo 17 de la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena",
+   "sintesis": "Moción de cinco senadores que interpreta la regla que excluye de la rebaja de condena a condenados por delitos sexuales contra menores. Está en la Comisión de Constitución del Senado.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-02",
+   "url": "https://urgenciaskast.cl/p/18804-07.html"
   }
  ],
  "agenda": [
@@ -90,6 +90,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "18623-07",
+   "sintesis": "Posterga hasta el 15 de octubre de 2027 la ley de datos personales y amplía de tres a cinco el consejo de la Agencia. El Senado lo aprobó; ahora lo revisa la Cámara.",
+   "publicado": "2026-10-31",
+   "url": "https://urgenciaskast.cl/p/18623-07.html"
+  },
+  {
    "boletin": "12712-24",
    "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
    "publicado": "2026-10-30",
@@ -118,12 +124,6 @@
    "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
    "publicado": "2026-10-30",
    "url": "https://urgenciaskast.cl/p/15805-07.html"
-  },
-  {
-   "boletin": "15850-11",
-   "sintesis": "Crea delitos por vender medicamentos en lugares no autorizados, por falsificarlos y por robarlos, y da más facultades al ISP. Está en el Senado, en discusión particular, tras su aprobación en general.",
-   "publicado": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/15850-11.html"
   }
  ],
  "analisis": [
