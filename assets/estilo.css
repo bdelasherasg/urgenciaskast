@@ -1,6 +1,8 @@
 /* Urgencias Kast · sistema visual
    Una producción de Lo Común. Fondo índigo del kit, tarjetas crema para leer, superficies
-   translúcidas para explicar el método y dorado solo para plazos y acciones. Un solo tema. */
+   translúcidas para explicar el método y dorado solo para plazos y acciones. Un solo tema.
+   Identidad propia respecto de locomun.cl: cabecera y portada en lavanda pastel con texto índigo,
+   y el índigo oscuro como fondo del resto del sitio. */
 :root {
   color-scheme: dark;
   --indigo: #2e2262;
@@ -21,6 +23,9 @@
   --vidrio-2: rgba(255, 255, 255, 0.12);
   --vidrio-borde: rgba(255, 255, 255, 0.18);
   --interp: #6b4fc2;
+  --pastel-cab: #e4def7;
+  --pastel-fondo: #d9d1f3;
+  --pastel-tarjeta: #fbf1c8;
   --f-display: "Instrument Serif", "Iowan Old Style", Georgia, serif;
   --f-etiqueta: "Montserrat", "Segoe UI", system-ui, sans-serif;
   --f-texto: "Figtree", "Segoe UI", system-ui, sans-serif;
@@ -515,3 +520,31 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .aviso-piloto p:last-child { margin: 0; font-size: 15px; line-height: 1.55; color: var(--crema); }
 .tabla-proyectos .en-revision { display: block; font-family: var(--f-etiqueta); font-size: 10.5px; font-weight: 600; color: var(--tinta-suave); margin-top: 4px; }
 .tabla-proyectos .c-ficha .flecha { vertical-align: top; }
+
+/* ---------- identidad pastel de Urgencias Kast (cabecera y portada) ---------- */
+.marca svg polyline { stroke: var(--indigo); }
+.marca svg circle[fill="#f6f0e2"] { fill: var(--indigo); }
+.cabecera { background: var(--pastel-cab); border-bottom: 1px solid rgba(35, 27, 77, .14); backdrop-filter: none; -webkit-backdrop-filter: none; }
+body::before { background: var(--pastel-cab); }
+.cabecera .marca, .cabecera .marca-nombre, .cabecera .menu a { color: var(--tinta); }
+.cabecera .marca-firma { color: var(--indigo-medio); }
+.cabecera .menu a:hover, .cabecera .menu a[aria-current="page"] { background: rgba(35, 27, 77, .1); box-shadow: none; }
+.cabecera .menu .destacado { background: var(--indigo); color: var(--crema); box-shadow: none; }
+.cabecera .menu .destacado:hover { background: var(--indigo-medio); }
+.heroe { background: var(--pastel-fondo); color: var(--tinta); box-shadow: 0 0 0 100vmax var(--pastel-fondo); clip-path: inset(0 -100vmax); padding-bottom: 44px; }
+.heroe h1 em { color: var(--interp); }
+.heroe .bajada { color: var(--tinta); }
+.heroe .actualizado { color: var(--indigo-medio); }
+.heroe .actualizado .vivo { background: #4aa97a; box-shadow: 0 0 0 4px rgba(74, 169, 122, .2); }
+.heroe .publicos a, .heroe .publicos span { background: rgba(255, 255, 255, .55); border-color: rgba(35, 27, 77, .16); color: var(--tinta); }
+.heroe .boton { background: var(--indigo); color: var(--crema) !important; box-shadow: 0 8px 20px rgba(35, 27, 77, .22); }
+.heroe .boton:hover { background: var(--indigo-medio); }
+.heroe .boton-vidrio { background: rgba(255, 255, 255, .55); color: var(--tinta) !important; box-shadow: inset 0 0 0 1px rgba(35, 27, 77, .25); }
+.heroe .boton-vidrio:hover { background: rgba(255, 255, 255, .8); }
+.heroe .vidrio { background: var(--pastel-tarjeta); border: 1px solid rgba(35, 27, 77, .12); color: var(--tinta); backdrop-filter: none; -webkit-backdrop-filter: none; }
+.heroe .vidrio::after { display: none; }
+.heroe .vidrio .eyebrow { color: var(--dorado-hondo); }
+.heroe .vidrio p { color: var(--tinta-suave); }
+.heroe .termino, .heroe .vidrio .termino { border-bottom-color: var(--indigo-medio); }
+.heroe .nota, .heroe .eyebrow { color: var(--dorado-hondo); }
+.cabecera .menu .destacado, .cabecera .menu .destacado[aria-current="page"] { background: var(--indigo); color: var(--crema); box-shadow: none; }
