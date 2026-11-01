@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "boletin": "18383-06",
+  "nivel": "completa",
+  "sintesis": "Excluye del régimen de exclusiva confianza a los funcionarios de ciertas plantas de la Contraloría. Es una moción en primer trámite en la Cámara, refundida con el boletín 18728-06.",
+  "materia": "el régimen de exclusiva confianza en la Contraloría",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Según los autores, hoy todos los funcionarios de la Contraloría están en un régimen de exclusiva confianza.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Eso permite que el Contralor los remueva de forma discrecional, sin procedimiento disciplinario.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción agrega un inciso final al artículo 3° de la ley 10.336.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Excluye del régimen de exclusiva confianza a las plantas administrativa, técnica, auxiliar y de mayordomía.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La permanencia y la cesación de esos funcionarios pasarían a regirse por el Estatuto Administrativo, ley 18.834.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El régimen de exclusiva confianza seguiría para los cargos que requieren relación directa de confianza.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los funcionarios de esas cuatro plantas de la Contraloría.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 22 de junio de 2026 y pasó a la Comisión de Gobierno Interior.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre de 2026 la Sala acordó refundirlo con el boletín 18728-06.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
+  "encuadre": {
+    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
+    "marcos": [],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 18383-06",
+      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/19065",
+      "fecha": "Consulta del 31 de octubre de 2026",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f2",
+      "titulo": "Buscan delimitar el régimen de exclusiva confianza en Contraloría",
+      "url": "https://www.diarioconstitucional.cl/2026/07/07/buscan-delimitar-el-regimen-de-exclusiva-confianza-en-contraloria/",
+      "fecha": "2026-07-07",
+      "nota": "Contenido y fundamentos de la moción, según sus autores."
+    }
+  ],
+  "consultado": "2026-10-31",
+  "publicado": "2026-11-01",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
