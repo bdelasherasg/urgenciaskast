@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-01T03:16-03:00",
+ "actualizado": "2026-11-01T06:39-03:00",
  "conteos": {
   "urgencias_vigentes": 48,
   "discusion_inmediata": 11,
@@ -116,7 +116,7 @@
     {
      "boletin": "12760-29",
      "titulo": "Denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud",
-     "sintesis": "",
+     "sintesis": "Pone el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que está en primer trámite en la Cámara de Diputados.",
      "url": "https://urgenciaskast.cl/p/12760-29.html"
     },
     {
@@ -338,6 +338,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "12760-29",
+   "sintesis": "Pone el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que está en primer trámite en la Cámara de Diputados.",
+   "publicado": "2026-11-01",
+   "url": "https://urgenciaskast.cl/p/12760-29.html"
+  },
+  {
    "boletin": "17914-13",
    "sintesis": "Busca que usar mal una licencia médica sea una falta de probidad que permite despedir al trabajador. La Cámara lo aprobó; ahora lo revisa la Comisión de Trabajo del Senado.",
    "publicado": "2026-10-31",
@@ -366,12 +372,6 @@
    "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
    "publicado": "2026-10-30",
    "url": "https://urgenciaskast.cl/p/14782-13.html"
-  },
-  {
-   "boletin": "15261-25",
-   "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
-   "publicado": "2026-10-30",
-   "url": "https://urgenciaskast.cl/p/15261-25.html"
   }
  ],
  "analisis": [
