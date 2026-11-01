@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "boletin": "18448-25",
+  "nivel": "completa",
+  "sintesis": "Cambia la ley orgánica de Carabineros en los procedimientos de evaluación médica que fundamentan el retiro de personal. Es una moción en primer trámite en la Cámara de Diputados.",
+  "materia": "los procedimientos de evaluación médica que fundamentan retiros en Carabineros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El texto de la moción no está disponible; no se conoce el motivo que dan sus autores.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El proyecto modifica la ley 18.961, orgánica constitucional de Carabineros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cambia los procedimientos de evaluación médica que fundamentan retiros de personal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "No se conoce el detalle de los cambios, porque falta el texto de la moción.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Se refiere al personal de Carabineros cuyo retiro se funda en una evaluación médica.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 1 de julio de 2026 como moción.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 13 de julio de 2026 pasó a la Comisión de Seguridad Ciudadana.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 3 de agosto de 2026 la Sala acordó enviarlo también a la Comisión de Personas Mayores y Discapacidad, como comisión técnica.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
+  "encuadre": {
+    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
+    "marcos": [],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 18448-25",
+      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/19131",
+      "fecha": "Consulta del 31 de octubre de 2026",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    }
+  ],
+  "consultado": "2026-10-31",
+  "publicado": "2026-11-01",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
