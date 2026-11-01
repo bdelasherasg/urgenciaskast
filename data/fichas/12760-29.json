@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "boletin": "12760-29",
+  "nivel": "completa",
+  "sintesis": "Pone el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que está en primer trámite en la Cámara de Diputados.",
+  "materia": "el nombre del gimnasio fiscal de Ancud",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El texto de la moción no está disponible; no se conoce el motivo que dan sus autores.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El proyecto denomina al gimnasio fiscal de Ancud como Gimnasio Fiscal Luis Caco Suárez de Ancud.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia el nombre oficial de ese gimnasio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "No se conoce el detalle de a quiénes afecta, porque falta el texto de la moción.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 3 de julio de 2019 como moción.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 9 de julio de 2019 se dio cuenta en la Sala y pasó a la Comisión de Deportes y Recreación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
+  "encuadre": {
+    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
+    "marcos": [],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 12760-29",
+      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/13299",
+      "fecha": "Consulta del 31 de octubre de 2026",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    }
+  ],
+  "consultado": "2026-10-31",
+  "publicado": "2026-11-01",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
