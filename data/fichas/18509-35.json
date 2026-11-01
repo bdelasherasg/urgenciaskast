@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "boletin": "18509-35",
+  "nivel": "completa",
+  "sintesis": "Obliga a anunciar por voz las próximas estaciones o paradas del transporte público que tenga sistema de sonido. Es una moción en primer trámite en la Cámara de Diputados.",
+  "materia": "la señalización auditiva de estaciones y paradas en el transporte público",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Según la diputada Irací Hassler, la norma actual no obliga expresamente a informar por voz la próxima estación o parada.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Dice que eso dificulta los viajes de las personas con discapacidad visual.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El proyecto modifica la ley 20.422, de igualdad de oportunidades e inclusión de personas con discapacidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Establece el deber de señalizar por voz las próximas estaciones o paradas en los servicios de transporte con sistema de sonido.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Especifica el deber de señalización auditiva de estaciones y paradas en el transporte público.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Se refiere a las personas con discapacidad visual y a los servicios de transporte con sonorización, como el metro.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 21 de julio de 2026 y pasó a la Comisión de Personas Mayores y Discapacidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Después deberá verlo la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre de 2026 la diputada Hassler presentó el proyecto a la gerencia general de Metro.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
+  "encuadre": {
+    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
+    "marcos": [],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 18509-35",
+      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/19192",
+      "fecha": "Consulta del 31 de octubre de 2026",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f2",
+      "titulo": "Diputada Irací Hassler se reúne con Metro para avanzar en accesibilidad del transporte público para personas con discapacidad visual",
+      "url": "https://g5noticias.cl/2026/10/26/diputada-iraci-hassler-se-reune-con-metro-para-avanzar-en-accesibilidad-del-transporte-publico-para-personas-con-discapacidad-visual/",
+      "fecha": "2026-10-26",
+      "nota": "Objetivo del proyecto y reunión con Metro, según la diputada autora."
+    }
+  ],
+  "consultado": "2026-10-31",
+  "publicado": "2026-11-01",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
