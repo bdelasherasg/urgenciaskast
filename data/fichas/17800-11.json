@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "boletin": "17800-11",
+  "nivel": "completa",
+  "sintesis": "Cambia el Código Sanitario en la rotulación y el etiquetado del jurel. Es una moción en primer trámite en la Cámara de Diputados, en la Comisión de Salud.",
+  "materia": "la rotulación y el etiquetado del jurel",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Según la nota de prensa, a fines de julio de 2025 un gremio de pescadores denunció que cuatro marcas vendían como jurel un producto distinto.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La Seremi de Salud confirmó que era caballa y ordenó retirar las latas y corregir la rotulación.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El proyecto modifica el Código Sanitario en la rotulación y el etiquetado del jurel.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según su autora, la diputada Marlene Pérez, obliga a informar en el envase el país de origen y el nombre científico y común.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Según la autora, ratifica que solo puede venderse como jurel la especie que corresponde.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Según la nota, se refiere a las marcas que venden jurel en conserva.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 20 de agosto de 2025 como moción.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 2 de septiembre de 2025 pasó a la Comisión de Salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Sala acordó enviarlo después a la Comisión de Pesca, Acuicultura e Intereses Marítimos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
+  "encuadre": {
+    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
+    "marcos": [],
+    "disputa": {
+      "palabra": "",
+      "oraciones": []
+    }
+  },
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 17800-11",
+      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/18452",
+      "fecha": "Consulta del 31 de octubre de 2026",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f2",
+      "titulo": "Presentan proyecto de ley que obliga a informar el país de origen en los envases de conservas",
+      "url": "https://www.radioagricultura.cl/noticias/nacional/presentan-proyecto-de-ley-que-obliga-a-informar-el-pais-de-origen-en-los-envases-de-conservas_20250830/",
+      "fecha": "2025-08-30",
+      "nota": "Motivo del proyecto y datos que indica su autora. La nota no cita el número de boletín."
+    }
+  ],
+  "consultado": "2026-10-31",
+  "publicado": "2026-11-01",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
