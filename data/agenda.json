@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-02T08:19-03:00",
+ "actualizado": "2026-11-02T18:55-03:00",
  "desde": "2026-11-02",
  "hasta": "2026-11-15",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-02T11:19",
-   "citaciones": 5,
+   "consultado": "2026-11-02T21:54",
+   "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -27,7 +27,9 @@
    "organo": "Comisión Especial Mixta de Presupuestos",
    "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
    "materias": [
-    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027."
+    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027.",
+    ".- ( Bol.N° 2 ) Partida 02 Congreso Nacional",
+    ".- ( Bol.N° 1 ) Partida 01 Presidencia de la Republica"
    ],
    "boletines": [
     "18702-05"
@@ -39,6 +41,43 @@
    "fecha": "2026-11-02",
    "hora": "15:00",
    "horario": "15:00 a 20:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial Mixta de Presupuestos",
+   "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
+   "materias": [
+    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027.",
+    ".- ( Bol.N° 15 ) Partida 15 Ministerio del Trabajo y Previsión Social",
+    ".- ( Bol.N° 2 ) Partida 02 Congreso Nacional",
+    ".- ( Bol.N° 17 ) Partida 17 Ministerio de Minería",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "10:00",
+   "horario": "10:00 a 13:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial Mixta de Presupuestos",
+   "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "14:00",
+   "horario": "14:00 a 20:00",
    "camara": "Senado",
    "organo": "Comisión Especial Mixta de Presupuestos",
    "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
@@ -291,6 +330,28 @@
    "fuente": "Senado, citaciones por fecha"
   },
   {
+   "fecha": "2026-11-09",
+   "hora": "15:30",
+   "horario": "15:30 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación",
+   "lugar": "Sala N° 144 de Comisiones, Ex Congreso Nacional, Santiago",
+   "materias": [
+    "1.- Recibir a diversos rectores para que se refieran a modificaciones en los programas de BecasChile.",
+    "A este punto se encuentran especialmente invitados la rectora de la Universidad de Chile, señora Alejandra Mizala; la rectora de la Universidad Tecnológica Metropolitana (UTEM), señora Marisol Durán; el rector de la Universidad Diego Portales (UDP), señor Carlos Peña; el rector de la Pontificia Universidad Católica de Chile (PUC), señor Juan Carlos de la Llera, y el rector de la Pontificia Universidad Católica de Valparaíso (PUCV), señor Nelson Vásquez.",
+    "2.- Recibir a la Secretaria Ejecutiva del Consejo del Futuro, señora Carolina Muñoz, para la presentación anual del Consejo del Futuro.",
+    "3.- ( Bol.N° 17590-05 ) Continuar con la discusión en general del proyecto de ley, en primer trámite constitucional, que crea el Sistema Nacional de Gestión de Datos y modifica los cuerpos legales que indica (Boletín Nº 17.590-05).",
+    "A este punto han sido especialmente invitados el Subsecretario de Hacienda, señor Sebastián Vallebona y el Director de la Dirección de Presupuestos, señor José Pablo Gómez.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [
+    "17590-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
    "fecha": "2026-11-11",
    "hora": "15:00",
    "horario": "15:00 a 16:00",
@@ -298,15 +359,10 @@
    "organo": "Comisión Especial de Zonas Extremas y Territorios Especiales",
    "lugar": "Sala 11, Valparaíso.",
    "materias": [
-    "1.- ( Bol.N° 17293-27 ) Proyecto de ley que modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica.",
-    "2.- Abordar distintas temáticas relacionadas con el territorio antártico chileno y Campos de Hielo Sur.",
-    "A esta sesión se invitará al Ministro de Relaciones Exteriores; al Ministro de Defensa Nacional; al Director Nacional de Fronteras y Límites del Estado, y al Jefe de la División de Asuntos Antárticos de la Cancillería.",
-    "%%CITACION_FECHA.COMINOMBRE%% []",
-    "-->"
+    "1.- Analizar la situación presupuestaria de las universidades del Estado, de las regiones extremas del norte y sur del país.",
+    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes."
    ],
-   "boletines": [
-    "17293-27"
-   ],
+   "boletines": [],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   }
@@ -355,48 +411,6 @@
    "camara": "Senado"
   },
   {
-   "boletin": "18208-25",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18282-07",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18286-03",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18341-25",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18434-07",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18478-13",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18590-07",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18643-05",
    "vence": "2026-11-03",
    "tipo": "Discusión inmediata",
@@ -407,12 +421,6 @@
    "vence": "2026-11-03",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
-  },
-  {
-   "boletin": "18754-17",
-   "vence": "2026-11-03",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
   },
   {
    "boletin": "12712-24",
@@ -545,6 +553,12 @@
    "vence": "2026-11-04",
    "tipo": "Suma",
    "camara": "Senado"
+  },
+  {
+   "boletin": "18623-07",
+   "vence": "2026-11-08",
+   "tipo": "Discusión inmediata",
+   "camara": "Cámara de Diputados"
   },
   {
    "boletin": "18644-14",
@@ -1008,9 +1022,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-10-05",
-     "retiro": null,
+     "retiro": "2026-11-02",
      "camara": "Cámara de Diputados",
      "oficio": "368-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
     }
    ],
    "tramites": [
@@ -1103,6 +1124,12 @@
      "descripcion": "Cuenta del Mensaje 368-374 que retira y hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -1110,18 +1137,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16397-15",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16958&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 7,
+   "renovaciones": 8,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 8,
+   "urgencias_gobierno": 9,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-05",
-    "vence": "2026-11-04",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "368-374",
+    "oficio": "438-374",
     "mixta": false
    },
    "dias_tramite": 1098
@@ -1299,35 +1326,185 @@
    },
    "dias_tramite": 943
   },
-  "17293-27": {
-   "boletin": "17293-27",
-   "titulo": "Modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica",
-   "fecha_ingreso": "2024-12-10",
-   "iniciativa": "Moción",
+  "17590-05": {
+   "boletin": "17590-05",
+   "titulo": "Crea el Sistema Nacional de Gestión de Datos, y modifica los cuerpos legales que indica.",
+   "fecha_ingreso": "2025-06-10",
+   "iniciativa": "Mensaje",
    "camara_origen": "Senado",
    "urgencia_actual": "",
    "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión Comisión Especial de Zonas Extremas y Territorios Especiales",
+   "subetapa": "Primer informe de comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación",
    "estado": "En tramitación",
-   "urgencias": [],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-06-10",
+     "retiro": "2025-07-09",
+     "camara": "Senado",
+     "oficio": "639-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-07-09",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "798-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-08-12",
+     "retiro": "2025-09-10",
+     "camara": "Senado",
+     "oficio": "944-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-09-10",
+     "retiro": "2025-10-08",
+     "camara": "Senado",
+     "oficio": "1062-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-10-08",
+     "retiro": "2025-10-14",
+     "camara": "Senado",
+     "oficio": "1140-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-10-14",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1167-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-11-04",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1217-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-11-25",
+     "retiro": "2025-12-10",
+     "camara": "Senado",
+     "oficio": "1269-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-12-10",
+     "retiro": "2025-12-16",
+     "camara": "Senado",
+     "oficio": "1362-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-12-16",
+     "retiro": "2026-01-14",
+     "camara": "Senado",
+     "oficio": "1406-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-01-14",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1525-373"
+    }
+   ],
    "tramites": [
     {
-     "fecha": "2024-12-10",
+     "fecha": "2025-06-10",
      "descripcion": "Ingreso de proyecto .",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     },
     {
-     "fecha": "2024-12-11",
-     "descripcion": "Cuenta de proyecto .  Comisión Especial de Zonas Extremas y Territorios Especiales",
+     "fecha": "2025-06-10",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-06-10",
+     "descripcion": "Cuenta del Mensaje 639-373 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-06-11",
+     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido, en primer lugar, por la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación y, posteriormente, por la Comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-07-09",
+     "descripcion": "Cuenta del Mensaje 798-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-08-12",
+     "descripcion": "Cuenta del Mensaje 944-373 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-09-10",
+     "descripcion": "Cuenta del Mensaje 1062-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-10-08",
+     "descripcion": "Cuenta del Mensaje 1140-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-10-14",
+     "descripcion": "Cuenta del Mensaje 1167-373 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-11-04",
+     "descripcion": "Cuenta del Mensaje 1217-373 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-11-25",
+     "descripcion": "Cuenta del Mensaje 1269-373 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-10",
+     "descripcion": "Cuenta del Mensaje 1362-373 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-16",
+     "descripcion": "Cuenta del Mensaje 1406-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-14",
+     "descripcion": "Cuenta del Mensaje 1525-373 que retira y hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
    ],
    "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17293-27",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17293-27",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17929&tipodoc=mensaje_mocion"
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17590-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17590-05",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18234&tipodoc=mensaje_mocion"
    },
    "renovaciones": 0,
    "cambios_tipo": 0,
@@ -1341,7 +1518,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 692
+   "dias_tramite": 510
   },
   "17800-11": {
    "boletin": "17800-11",
@@ -1487,9 +1664,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-10-05",
-     "retiro": null,
+     "retiro": "2026-11-02",
      "camara": "Cámara de Diputados",
      "oficio": "368-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
     }
    ],
    "tramites": [
@@ -1516,6 +1700,12 @@
      "descripcion": "Cuenta del Mensaje 368-374 que retira y hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -1523,18 +1713,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17820-09",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18474&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 0,
+   "renovaciones": 1,
    "cambios_tipo": 1,
-   "urgencias_gobierno": 2,
+   "urgencias_gobierno": 3,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-05",
-    "vence": "2026-11-04",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "368-374",
+    "oficio": "438-374",
     "mixta": false
    },
    "dias_tramite": 426
@@ -1838,9 +2028,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-10-07",
-     "retiro": null,
+     "retiro": "2026-11-02",
      "camara": "Cámara de Diputados",
      "oficio": "378-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
     }
    ],
    "tramites": [
@@ -1861,6 +2058,12 @@
      "descripcion": "Cuenta del Mensaje 378-374 que hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -1868,18 +2071,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18530-02",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19209&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 0,
+   "renovaciones": 1,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 1,
+   "urgencias_gobierno": 2,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-07",
-    "vence": "2026-11-06",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "378-374",
+    "oficio": "438-374",
     "mixta": false
    },
    "dias_tramite": 96
@@ -2099,9 +2302,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-10-05",
-     "retiro": null,
+     "retiro": "2026-11-02",
      "camara": "Cámara de Diputados",
      "oficio": "367-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
     }
    ],
    "tramites": [
@@ -2128,6 +2338,12 @@
      "descripcion": "Cuenta oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18680-15, 18729-15 y 18744-15. Aprobado.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -2135,18 +2351,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18680-15",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19360&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 0,
+   "renovaciones": 1,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 1,
+   "urgencias_gobierno": 2,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-05",
-    "vence": "2026-11-04",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "367-374",
+    "oficio": "438-374",
     "mixta": false
    },
    "dias_tramite": 60
@@ -2515,11 +2731,19 @@
    "fecha_ingreso": "2026-09-23",
    "iniciativa": "Moción",
    "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "",
+   "urgencia_actual": "Simple",
    "etapa": "Primer trámite constitucional (C.Diputados)",
    "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
    "estado": "En tramitación",
-   "urgencias": [],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
+    }
+   ],
    "tramites": [
     {
      "fecha": "2026-09-23",
@@ -2538,6 +2762,12 @@
      "descripcion": "Cuenta oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18680-15, 18729-15 y 18744-15.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -2547,15 +2777,17 @@
    },
    "renovaciones": 0,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
+   "urgencias_gobierno": 1,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
+    "tipo": "Simple",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "438-374",
+    "mixta": false
    },
    "dias_tramite": 40
   },
@@ -2576,6 +2808,13 @@
      "retiro": null,
      "camara": "Cámara de Diputados",
      "oficio": "380-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
     }
    ],
    "tramites": [
@@ -2602,6 +2841,12 @@
      "descripcion": "Cuenta del Mensaje 380-374 que hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -2609,18 +2854,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18730-29",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19411&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 0,
+   "renovaciones": 1,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 1,
+   "urgencias_gobierno": 2,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-07",
-    "vence": "2026-11-06",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "380-374",
+    "oficio": "438-374",
     "mixta": false
    },
    "dias_tramite": 26
@@ -2631,11 +2876,19 @@
    "fecha_ingreso": "2026-09-28",
    "iniciativa": "Moción",
    "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "",
+   "urgencia_actual": "Simple",
    "etapa": "Primer trámite constitucional (C.Diputados)",
    "subetapa": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
    "estado": "En tramitación",
-   "urgencias": [],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "438-374"
+    }
+   ],
    "tramites": [
     {
      "fecha": "2026-09-28",
@@ -2654,6 +2907,12 @@
      "descripcion": "Cuenta oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18680-15, 18729-15 y 18744-15.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -2663,15 +2922,17 @@
    },
    "renovaciones": 0,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
+   "urgencias_gobierno": 1,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
+    "tipo": "Simple",
+    "desde": "2026-11-02",
+    "vence": "2026-12-02",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "438-374",
+    "mixta": false
    },
    "dias_tramite": 35
   },
