@@ -1,22 +1,14 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-01T16:51-03:00",
+ "actualizado": "2026-11-01T21:55-03:00",
  "conteos": {
-  "urgencias_vigentes": 48,
-  "discusion_inmediata": 11,
-  "vencen_7_dias": 42,
+  "urgencias_vigentes": 47,
+  "discusion_inmediata": 10,
+  "vencen_7_dias": 41,
   "citaciones_7_dias": 13
  },
  "proximos_vencimientos": [
-  {
-   "boletin": "18788-07",
-   "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
-   "sintesis": "Reforma constitucional que aplica a los beneficios de condenados por delitos sexuales la ley vigente al decidirlos. Está en la Comisión de Constitución de la Cámara, con discusión inmediata.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/18788-07.html"
-  },
   {
    "boletin": "18211-25",
    "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
@@ -56,6 +48,14 @@
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-02",
    "url": "https://urgenciaskast.cl/p/18804-07.html"
+  },
+  {
+   "boletin": "18806-07",
+   "titulo": "Proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena",
+   "sintesis": "Cambia las reglas de la rebaja de condena por buena conducta y exige los requisitos vigentes al postular. Está en primer trámite en el Senado, con discusión inmediata.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-02",
+   "url": "https://urgenciaskast.cl/p/18806-07.html"
   }
  ],
  "agenda": [
