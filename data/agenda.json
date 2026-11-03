@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-02T18:55-03:00",
- "desde": "2026-11-02",
- "hasta": "2026-11-15",
+ "actualizado": "2026-11-03T04:01-03:00",
+ "desde": "2026-11-03",
+ "hasta": "2026-11-16",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-02T21:54",
-   "citaciones": 8,
+   "consultado": "2026-11-03T07:00",
+   "citaciones": 6,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -20,48 +20,9 @@
  },
  "sesiones": [
   {
-   "fecha": "2026-11-02",
-   "hora": "10:00",
-   "horario": "10:00 a 13:00",
-   "camara": "Senado",
-   "organo": "Comisión Especial Mixta de Presupuestos",
-   "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
-   "materias": [
-    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027.",
-    ".- ( Bol.N° 2 ) Partida 02 Congreso Nacional",
-    ".- ( Bol.N° 1 ) Partida 01 Presidencia de la Republica"
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-02",
-   "hora": "15:00",
-   "horario": "15:00 a 20:00",
-   "camara": "Senado",
-   "organo": "Comisión Especial Mixta de Presupuestos",
-   "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso.",
-   "materias": [
-    "1.- ( Bol.N° 18702-05 ) Ley de Presupuestos para el Sector Público correspondiente al año 2027.",
-    ".- ( Bol.N° 15 ) Partida 15 Ministerio del Trabajo y Previsión Social",
-    ".- ( Bol.N° 2 ) Partida 02 Congreso Nacional",
-    ".- ( Bol.N° 17 ) Partida 17 Ministerio de Minería",
-    "%%CITACION_FECHA.COMINOMBRE%% []",
-    "-->"
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
    "fecha": "2026-11-03",
-   "hora": "10:00",
-   "horario": "10:00 a 13:00",
+   "hora": "10:30",
+   "horario": "10:30 a 13:00",
    "camara": "Senado",
    "organo": "Comisión Especial Mixta de Presupuestos",
    "lugar": "Sala de Sesiones, segundo piso, Senado en Valparaíso",
@@ -360,7 +321,9 @@
    "lugar": "Sala 11, Valparaíso.",
    "materias": [
     "1.- Analizar la situación presupuestaria de las universidades del Estado, de las regiones extremas del norte y sur del país.",
-    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes."
+    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
    ],
    "boletines": [],
    "estado": "citada",
@@ -368,42 +331,6 @@
   }
  ],
  "probables": [
-  {
-   "boletin": "18211-25",
-   "vence": "2026-11-02",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18239-36",
-   "vence": "2026-11-02",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18314-07",
-   "vence": "2026-11-02",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18779-07",
-   "vence": "2026-11-02",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18804-07",
-   "vence": "2026-11-02",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18806-07",
-   "vence": "2026-11-02",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
   {
    "boletin": "16743-04",
    "vence": "2026-11-03",
@@ -634,7 +561,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2679
+   "dias_tramite": 2680
   },
   "14773-02": {
    "boletin": "14773-02",
@@ -957,7 +884,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 1763
+   "dias_tramite": 1764
   },
   "16397-15": {
    "boletin": "16397-15",
@@ -1151,7 +1078,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 1098
+   "dias_tramite": 1099
   },
   "16709-11": {
    "boletin": "16709-11",
@@ -1324,7 +1251,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 943
+   "dias_tramite": 944
   },
   "17590-05": {
    "boletin": "17590-05",
@@ -1518,7 +1445,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 510
+   "dias_tramite": 511
   },
   "17800-11": {
    "boletin": "17800-11",
@@ -1641,7 +1568,7 @@
     "oficio": "346-374",
     "mixta": false
    },
-   "dias_tramite": 439
+   "dias_tramite": 440
   },
   "17820-09": {
    "boletin": "17820-09",
@@ -1727,7 +1654,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 426
+   "dias_tramite": 427
   },
   "18223-15": {
    "boletin": "18223-15",
@@ -1771,7 +1698,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 191
+   "dias_tramite": 192
   },
   "18383-06": {
    "boletin": "18383-06",
@@ -1821,7 +1748,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 133
+   "dias_tramite": 134
   },
   "18413-07": {
    "boletin": "18413-07",
@@ -1894,7 +1821,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 133
+   "dias_tramite": 134
   },
   "18448-25": {
    "boletin": "18448-25",
@@ -1950,7 +1877,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 124
+   "dias_tramite": 125
   },
   "18509-35": {
    "boletin": "18509-35",
@@ -2012,7 +1939,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 104
+   "dias_tramite": 105
   },
   "18530-02": {
    "boletin": "18530-02",
@@ -2085,7 +2012,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 96
+   "dias_tramite": 97
   },
   "18537-06": {
    "boletin": "18537-06",
@@ -2157,7 +2084,7 @@
     "oficio": "387-374",
     "mixta": false
    },
-   "dias_tramite": 94
+   "dias_tramite": 95
   },
   "18544-06": {
    "boletin": "18544-06",
@@ -2236,7 +2163,7 @@
     "oficio": "387-374",
     "mixta": false
    },
-   "dias_tramite": 90
+   "dias_tramite": 91
   },
   "18655-06": {
    "boletin": "18655-06",
@@ -2286,7 +2213,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 73
+   "dias_tramite": 74
   },
   "18680-15": {
    "boletin": "18680-15",
@@ -2365,7 +2292,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 60
+   "dias_tramite": 61
   },
   "18693-06": {
    "boletin": "18693-06",
@@ -2421,7 +2348,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 54
+   "dias_tramite": 55
   },
   "18702-05": {
    "boletin": "18702-05",
@@ -2573,7 +2500,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 33
+   "dias_tramite": 34
   },
   "18713-11": {
    "boletin": "18713-11",
@@ -2629,7 +2556,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 47
+   "dias_tramite": 48
   },
   "18721-06": {
    "boletin": "18721-06",
@@ -2673,7 +2600,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 27
+   "dias_tramite": 28
   },
   "18728-06": {
    "boletin": "18728-06",
@@ -2723,7 +2650,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 41
+   "dias_tramite": 42
   },
   "18729-15": {
    "boletin": "18729-15",
@@ -2789,7 +2716,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 40
+   "dias_tramite": 41
   },
   "18730-29": {
    "boletin": "18730-29",
@@ -2868,7 +2795,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 26
+   "dias_tramite": 27
   },
   "18744-15": {
    "boletin": "18744-15",
@@ -2934,7 +2861,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 35
+   "dias_tramite": 36
   },
   "18781-06": {
    "boletin": "18781-06",
@@ -2984,7 +2911,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 11
+   "dias_tramite": 12
   }
  }
 }
