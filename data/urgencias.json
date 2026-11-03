@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T14:15-03:00",
+ "actualizado": "2026-11-03T20:35-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -9889,7 +9889,7 @@
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
    "etapa": "Segundo trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Hacienda",
+   "subetapa": "Cuenta de primer informe de comisión",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -10099,6 +10099,12 @@
     {
      "fecha": "2026-11-03",
      "descripcion": "Primer informe de comisión de Educación. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-03",
+     "descripcion": "Primer informe de comisión de Hacienda.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
