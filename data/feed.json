@@ -3,76 +3,62 @@
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
  "actualizado": "2026-11-04T03:34-03:00",
  "conteos": {
-  "urgencias_vigentes": 43,
-  "discusion_inmediata": 5,
-  "vencen_7_dias": 28,
-  "citaciones_7_dias": 7
+  "urgencias_vigentes": 17,
+  "discusion_inmediata": 1,
+  "vencen_7_dias": 6,
+  "citaciones_7_dias": 8
  },
  "proximos_vencimientos": [
   {
-   "boletin": "12712-24",
-   "titulo": "Ley de Patrimonio Cultural",
-   "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
-   "urgencia": "Suma",
-   "vence": "2026-11-04",
-   "url": "https://urgenciaskast.cl/p/12712-24.html"
+   "boletin": "14782-13",
+   "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
+   "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-09",
+   "url": "https://urgenciaskast.cl/p/14782-13.html"
   },
   {
-   "boletin": "15047-11",
-   "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
+   "boletin": "18644-14",
+   "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
    "sintesis": "",
    "urgencia": "Suma",
-   "vence": "2026-11-04",
-   "url": "https://urgenciaskast.cl/p/15047-11.html"
+   "vence": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/18644-14.html"
   },
   {
-   "boletin": "15261-25",
-   "titulo": "Modifica la ley N°21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio nacional",
-   "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
-   "urgencia": "Suma",
-   "vence": "2026-11-04",
-   "url": "https://urgenciaskast.cl/p/15261-25.html"
-  },
-  {
-   "boletin": "15589-07",
-   "titulo": "Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
-   "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
-   "urgencia": "Suma",
-   "vence": "2026-11-04",
-   "url": "https://urgenciaskast.cl/p/15589-07.html"
-  },
-  {
-   "boletin": "15767-29",
-   "titulo": "Deroga la ley N°18.356, que establece normas sobre control de las artes marciales y deroga la ley N°18.039, e incorpora el concepto de artes marciales en la ley N°19.712, del Deporte",
+   "boletin": "12213-07",
+   "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
    "sintesis": "",
    "urgencia": "Suma",
-   "vence": "2026-11-04",
-   "url": "https://urgenciaskast.cl/p/15767-29.html"
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/12213-07.html"
   },
   {
-   "boletin": "15850-11",
-   "titulo": "Modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal",
-   "sintesis": "Crea delitos por vender medicamentos en lugares no autorizados, por falsificarlos y por robarlos, y da más facultades al ISP. Está en el Senado, en discusión particular, tras su aprobación en general.",
+   "boletin": "16300-07",
+   "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
+   "sintesis": "",
    "urgencia": "Suma",
-   "vence": "2026-11-04",
-   "url": "https://urgenciaskast.cl/p/15850-11.html"
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/16300-07.html"
+  },
+  {
+   "boletin": "18189-14",
+   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/18189-14.html"
+  },
+  {
+   "boletin": "18584-25",
+   "titulo": "Modifica el Código Penal para ampliar el ámbito de aplicación del delito de interrupción u obstaculización de la libre circulación y del funcionamiento de los servicios de transporte",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/18584-25.html"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-04",
-   "hora": "10:30",
-   "camara": "Senado",
-   "organo": "Comisión Especial Mixta de Presupuestos",
-   "proyectos": [
-    {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
-    }
-   ]
-  },
   {
    "fecha": "2026-11-09",
    "hora": "15:30",
@@ -172,6 +158,34 @@
      "titulo": "Regula las modalidades de financiamiento de los sitios de memoria y modifica la ley N° 17.288, sobre Monumentos Nacionales, del modo que indica",
      "sintesis": "",
      "url": "https://urgenciaskast.cl/p/17852-17.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
+   "proyectos": [
+    {
+     "boletin": "17877-33",
+     "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17877-33.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
+   "proyectos": [
+    {
+     "boletin": "18420-25",
+     "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18420-25.html"
     }
    ]
   }
