@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-09T17:01-03:00",
+ "actualizado": "2026-11-10T00:42-03:00",
  "conteos": {
-  "urgencias_vigentes": 9,
-  "discusion_inmediata": 1,
-  "vencen_7_dias": 3,
-  "citaciones_7_dias": 22
+  "urgencias_vigentes": 18,
+  "discusion_inmediata": 3,
+  "vencen_7_dias": 7,
+  "citaciones_7_dias": 18
  },
  "proximos_vencimientos": [
   {
@@ -18,6 +18,30 @@
    "url": "https://urgenciaskast.cl/p/18551-04.html"
   },
   {
+   "boletin": "12213-07",
+   "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/12213-07.html"
+  },
+  {
+   "boletin": "16300-07",
+   "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/16300-07.html"
+  },
+  {
+   "boletin": "18189-14",
+   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/18189-14.html"
+  },
+  {
    "boletin": "18584-25",
    "titulo": "Modifica el Código Penal para ampliar el ámbito de aplicación del delito de interrupción u obstaculización de la libre circulación y del funcionamiento de los servicios de transporte",
    "sintesis": "",
@@ -26,95 +50,15 @@
    "url": "https://urgenciaskast.cl/p/18584-25.html"
   },
   {
-   "boletin": "18803-13",
-   "titulo": "Modifica la ley N° 21.063, que crea el seguro para el acompañamiento de niños y niñas (Ley Sanna), para incorporar nueva contingencia y extender la cobertura en aquellas que indica",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/18803-13.html"
-  },
-  {
-   "boletin": "18208-25",
-   "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
-   "sintesis": "Permite seguir el juicio oral y dictar sentencia cuando el acusado no se presenta sin razón válida. El Senado lo aprobó; ahora lo estudia la Comisión de Seguridad Ciudadana de la Cámara.",
-   "urgencia": "Suma",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18208-25.html"
-  },
-  {
-   "boletin": "18286-03",
-   "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18286-03.html"
-  },
-  {
-   "boletin": "18341-25",
-   "titulo": "Crea el registro de actos vandálicos e incivilidades",
-   "sintesis": "Crea un registro de personas condenadas por actos vandálicos e incivilidades, que pierden por un tiempo beneficios del Estado. La comisión lo despachó; ahora va a Hacienda.",
-   "urgencia": "Suma",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18341-25.html"
+   "boletin": "14782-13",
+   "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
+   "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-15",
+   "url": "https://urgenciaskast.cl/p/14782-13.html"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-09",
-   "hora": "10:30",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "proyectos": [
-    {
-     "boletin": "18709-07",
-     "titulo": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
-     "sintesis": "Junta en dos las tres etapas de instalación del Servicio Nacional de Acceso a la Justicia, en enero de 2028 y enero de 2029. La Cámara lo aprobó; ahora lo revisa el Senado.",
-     "url": "https://urgenciaskast.cl/p/18709-07.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-09",
-   "hora": "11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Gobierno, Descentralización y Regionalización",
-   "proyectos": [
-    {
-     "boletin": "15222-06",
-     "titulo": "Modifica las leyes orgánicas constitucionales de Municipalidades y de Gobierno y Administración Regional, para regular la subrogación de autoridades comunales y regionales que hagan uso de permisos prenatal, postnatal o postnatal parental",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/15222-06.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-09",
-   "hora": "15:30",
-   "camara": "Senado",
-   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
-   "proyectos": [
-    {
-     "boletin": "12712-24",
-     "titulo": "Ley de Patrimonio Cultural",
-     "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
-     "url": "https://urgenciaskast.cl/p/12712-24.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-09",
-   "hora": "17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Economía",
-   "proyectos": [
-    {
-     "boletin": "14838-03",
-     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/14838-03.html"
-    }
-   ]
-  },
   {
    "fecha": "2026-11-10",
    "hora": "09:30",
@@ -254,6 +198,80 @@
      "titulo": "Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
      "sintesis": "",
      "url": "https://urgenciaskast.cl/p/16553-12.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora": "15:00",
+   "camara": "Senado",
+   "organo": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+   "proyectos": [
+    {
+     "boletin": "17196-17",
+     "titulo": "Modifica la ley N° 18.046, Ley sobre Sociedades Anónimas, con el objeto de establecer obligaciones para promover la protección de derechos humanos, a las personas jurídicas que indica.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17196-17.html"
+    },
+    {
+     "boletin": "17446-17",
+     "titulo": "Establece y regula la debida diligencia de las empresas en el respeto a los derechos humanos, el medio ambiente y el cambio climático",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17446-17.html"
+    },
+    {
+     "boletin": "17852-17",
+     "titulo": "Regula las modalidades de financiamiento de los sitios de memoria y modifica la ley N° 17.288, sobre Monumentos Nacionales, del modo que indica",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17852-17.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Minería y Energía",
+   "proyectos": [
+    {
+     "boletin": "18821-08",
+     "titulo": "Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18821-08.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
+   "proyectos": [
+    {
+     "boletin": "17877-33",
+     "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17877-33.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Transportes y Telecomunicaciones",
+   "proyectos": [
+    {
+     "boletin": "17974-15",
+     "titulo": "Modifica la ley N° 20.433, que crea los servicios de radiodifusión comunitaria ciudadana, con el objeto de fortalecer su desarrollo y sostenibilidad",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17974-15.html"
+    },
+    {
+     "boletin": "18436-15",
+     "titulo": "Modifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18436-15.html"
     }
    ]
   }
