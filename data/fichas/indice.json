@@ -14,10 +14,10 @@
   "revision": "pendiente"
  },
  "14782-13": {
-  "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la sala cuna universal",
+  "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "el derecho a sala cuna y su fondo de financiamiento",
   "revision": "pendiente"
  },
  "15261-25": {
@@ -35,10 +35,10 @@
   "revision": "pendiente"
  },
  "15805-07": {
-  "sintesis": "Fija por ley las reglas para que policías y militares usen la fuerza, con principios y grados de fuerza. El Congreso lo aprobó y ya es la Ley 21.849.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "las reglas del uso de la fuerza",
+  "sintesis": "Fija por ley principios y deberes para el uso de la fuerza por policías y Fuerzas Armadas. El Congreso lo despachó el 9 de octubre y el Tribunal Constitucional declaró inadmisible un requerimiento.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "las reglas sobre el uso de la fuerza por policías y Fuerzas Armadas",
   "revision": "pendiente"
  },
  "15850-11": {
@@ -119,10 +119,10 @@
   "revision": "pendiente"
  },
  "18239-36": {
-  "sintesis": "Crea un delito y un juicio especial para sancionar denuncias falsas, sobre todo en causas de familia y delitos sexuales. Está en su primer trámite, en la Comisión de Constitución del Senado.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la sanción de las denuncias falsas",
+  "sintesis": "Crea un procedimiento especial y sanciones para declarar falsas ciertas denuncias y querellas, en causas de familia y delitos sexuales. Está en el Senado, con discusión inmediata.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "las sanciones a las denuncias y querellas falsas",
   "revision": "pendiente"
  },
  "18258-07": {
@@ -175,10 +175,10 @@
   "revision": "pendiente"
  },
  "18551-04": {
-  "sintesis": "Permite cambiar el calendario de los servicios locales de educación pendientes y atrasar traspasos de colegios. El Senado lo aprobó; ahora lo revisa la Cámara de Diputados.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "el ajuste del traspaso de colegios a los servicios locales de educación",
+  "sintesis": "Permite al Presidente cambiar el calendario de instalación de los servicios locales de educación pública y postergar el traspaso de colegios municipales. La Cámara lo aprobó sin cambios; vuelve al Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "el calendario de instalación de los servicios locales de educación pública",
   "revision": "pendiente"
  },
  "18623-07": {
@@ -189,10 +189,10 @@
   "revision": "aprobada"
  },
  "18643-05": {
-  "sintesis": "Crea un fondo estatal para créditos de vivienda y una cuenta de ahorro para el pie, y cambia reglas del mercado financiero. La Cámara lo aprobó; ahora lo revisa el Senado.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la reforma al mercado de capitales y a la compra de la primera vivienda",
+  "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la reforma al mercado de capitales y el financiamiento de la casa propia",
   "revision": "pendiente"
  },
  "18702-05": {
@@ -224,17 +224,17 @@
   "revision": "pendiente"
  },
  "18804-07": {
-  "sintesis": "Moción de cinco senadores que interpreta la regla que excluye de la rebaja de condena a condenados por delitos sexuales contra menores. Está en la Comisión de Constitución del Senado.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la interpretación de la exclusión de la rebaja de condena",
+  "sintesis": "Declara que la exclusión de la rebaja de condena se aplica según la ley vigente al calificar, sin importar la fecha del delito. Está en el Senado, con discusión inmediata.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la aplicación en el tiempo de la exclusión de la rebaja de condena",
   "revision": "pendiente"
  },
  "18806-07": {
-  "sintesis": "Cambia las reglas de la rebaja de condena por buena conducta y exige los requisitos vigentes al postular. Está en primer trámite en el Senado, con discusión inmediata.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la reforma de la rebaja de condena por buena conducta",
+  "sintesis": "Cambia el procedimiento de la rebaja de condena por buen comportamiento y amplía los derechos de la víctima. Está en el Senado, con discusión inmediata, unido a otros tres proyectos.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "el procedimiento de la rebaja de condena por comportamiento sobresaliente",
   "revision": "pendiente"
  }
 }

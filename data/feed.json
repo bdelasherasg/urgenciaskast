@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T14:43-03:00",
+ "actualizado": "2026-11-10T14:46-03:00",
  "conteos": {
   "urgencias_vigentes": 14,
   "discusion_inmediata": 2,
@@ -20,7 +20,7 @@
   {
    "boletin": "14782-13",
    "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
-   "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
+   "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-15",
    "url": "https://urgenciaskast.cl/p/14782-13.html"
@@ -148,7 +148,7 @@
     {
      "boletin": "18643-05",
      "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
-     "sintesis": "Crea un fondo estatal para créditos de vivienda y una cuenta de ahorro para el pie, y cambia reglas del mercado financiero. La Cámara lo aprobó; ahora lo revisa el Senado.",
+     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
      "url": "https://urgenciaskast.cl/p/18643-05.html"
     }
    ]
@@ -278,40 +278,40 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "14782-13",
+   "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
+   "publicado": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/14782-13.html"
+  },
+  {
+   "boletin": "15805-07",
+   "sintesis": "Fija por ley principios y deberes para el uso de la fuerza por policías y Fuerzas Armadas. El Congreso lo despachó el 9 de octubre y el Tribunal Constitucional declaró inadmisible un requerimiento.",
+   "publicado": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/15805-07.html"
+  },
+  {
+   "boletin": "18239-36",
+   "sintesis": "Crea un procedimiento especial y sanciones para declarar falsas ciertas denuncias y querellas, en causas de familia y delitos sexuales. Está en el Senado, con discusión inmediata.",
+   "publicado": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/18239-36.html"
+  },
+  {
+   "boletin": "18551-04",
+   "sintesis": "Permite al Presidente cambiar el calendario de instalación de los servicios locales de educación pública y postergar el traspaso de colegios municipales. La Cámara lo aprobó sin cambios; vuelve al Senado.",
+   "publicado": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/18551-04.html"
+  },
+  {
+   "boletin": "18643-05",
+   "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+   "publicado": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/18643-05.html"
+  },
+  {
    "boletin": "18779-07",
    "sintesis": "Interpreta que la exclusión de la rebaja de condena por delitos sexuales contra menores rige desde 2022 y elimina una excepción para delitos futuros. Está en el Senado, con discusión inmediata.",
    "publicado": "2026-11-10",
    "url": "https://urgenciaskast.cl/p/18779-07.html"
-  },
-  {
-   "boletin": "12760-29",
-   "sintesis": "Pone el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que está en primer trámite en la Cámara de Diputados.",
-   "publicado": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/12760-29.html"
-  },
-  {
-   "boletin": "17800-11",
-   "sintesis": "Cambia el Código Sanitario en la rotulación y el etiquetado del jurel. Es una moción en primer trámite en la Cámara de Diputados, en la Comisión de Salud.",
-   "publicado": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/17800-11.html"
-  },
-  {
-   "boletin": "18223-15",
-   "sintesis": "Libera de sanciones, de forma transitoria, a conductores de aplicaciones de transporte de pasajeros hasta que entre en vigencia la ley 21.553. Es una moción en primer trámite en la Cámara.",
-   "publicado": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/18223-15.html"
-  },
-  {
-   "boletin": "18383-06",
-   "sintesis": "Excluye del régimen de exclusiva confianza a los funcionarios de ciertas plantas de la Contraloría. Es una moción en primer trámite en la Cámara, refundida con el boletín 18728-06.",
-   "publicado": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/18383-06.html"
-  },
-  {
-   "boletin": "18448-25",
-   "sintesis": "Cambia la ley orgánica de Carabineros en los procedimientos de evaluación médica que fundamentan el retiro de personal. Es una moción en primer trámite en la Cámara de Diputados.",
-   "publicado": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/18448-25.html"
   }
  ],
  "analisis": [
