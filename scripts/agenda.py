@@ -108,7 +108,7 @@ def nombre_organo(valor):
 
 
 def citaciones_asistidas(desde, hasta, hoy):
-    """Citaciones de la Cámara leídas por el asistente de borradores cuando el sitio de la Cámara
+    """Citaciones de la Cámara cargadas por el equipo en el panel (sección Citaciones) cuando el sitio de la Cámara
     rechaza la lectura automática. Se aceptan solo si el archivo es reciente y cada citación
     tiene fecha ISO dentro de la ventana y boletines con formato válido."""
     try:
@@ -129,7 +129,7 @@ def citaciones_asistidas(desde, hasta, hoy):
         bols = [b for b in c.get('boletines', []) if isinstance(b, str) and re.fullmatch(r'\d{4,6}-\d{2}', b)]
         if not bols or not (desde <= fecha <= hasta):
             continue
-        s = nueva_sesion(fecha, 'Cámara de Diputados', 'Cámara, citaciones leídas por el asistente (confirme en camara.cl)')
+        s = nueva_sesion(fecha, 'Cámara de Diputados', 'Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)')
         s['organo'] = str(c.get('organo', ''))[:200]
         s['lugar'] = str(c.get('lugar', ''))[:200]
         s['horario'] = str(c.get('horario', ''))[:60]
