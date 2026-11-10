@@ -42,9 +42,9 @@ Ninguna ficha se publica sin revisión humana: los borradores se redactan y se a
 
 Contenido y datos: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).
 
-## Citaciones de la Cámara: lectura asistida
+## Citaciones de la Cámara: carga semanal en el panel
 
-El sitio de la Cámara de Diputados responde 403 (Forbidden) a las lecturas automáticas desde GitHub Actions. Mientras eso ocurra, `scripts/agenda.py` usa el archivo `data/citaciones_camara.json`, que escribe el asistente de borradores (tarea programada) cuando logra abrir las citaciones en camara.cl. Formato:
+El sitio de la Cámara de Diputados responde 403 (Forbidden) a las lecturas automáticas desde GitHub Actions. Mientras eso ocurra, `scripts/agenda.py` usa el archivo `data/citaciones_camara.json`, que escribe el panel de revisión (sección «Citaciones Cámara») cuando una persona pega allí la página semanal de citaciones de camara.cl. Formato:
 
 ```json
 {"leido": "2026-10-31T01:10", "fuente": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-44",
@@ -52,4 +52,4 @@ El sitio de la Cámara de Diputados responde 403 (Forbidden) a las lecturas auto
                "boletines": ["18788-07"], "materias": ["..."]}]}
 ```
 
-Reglas: el archivo solo se usa si `leido` tiene menos de 8 días y la lectura directa de la Cámara falló. Cada citación necesita fecha ISO dentro de las próximas dos semanas y boletines con formato válido. Las sesiones se marcan "Lectura asistida" y el chip de la agenda pide confirmar en camara.cl. Si la lectura directa vuelve a funcionar, el archivo se ignora.
+Reglas: el archivo solo se usa si `leido` tiene menos de 8 días y la lectura directa de la Cámara falló. Cada citación necesita fecha ISO dentro de las próximas dos semanas y boletines con formato válido. Las sesiones se marcan "Cargada por el equipo" y el chip de la agenda pide confirmar en camara.cl. Si la lectura directa vuelve a funcionar, el archivo se ignora.
