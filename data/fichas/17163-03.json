@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "boletin": "17163-03",
+  "nivel": "basica",
+  "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
+  "materia": "la seguridad en los servicios de turismo aventura",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción recuerda la muerte de un joven de 23 años en un salto de bungee en el Cajón del Maipo, el 21 de febrero de 2024.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que según la Fiscalía el instructor no prestó la asistencia necesaria.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Busca proteger a los usuarios y asegurar estándares de calidad, seguridad y transparencia en turismo aventura.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El texto aprobado por la Cámara crea un sello «R» con un código para verificar la vigencia del registro.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Los prestadores deberían acreditar los estándares de seguridad con un certificado emitido por una entidad o inspector autorizado por el Servicio Nacional de Turismo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Deberían exhibir el sello en sus instalaciones, su vestimenta y su publicidad.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los prestadores de servicios de turismo aventura y a sus clientes.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Entre los documentos revisados no hay un informe financiero de este proyecto.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó y lo envió al Senado el 13 de agosto de 2025.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El Senado abrió plazos para presentar indicaciones hasta el 15 de octubre y hasta el 2 de noviembre de 2026.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre se emitió el boletín de indicaciones.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Cámara, moción del boletín 17.163-03 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17786&tipodoc=mensaje_mocion",
+      "fecha": "2024-09-24",
+      "nota": "Antecedentes e idea matriz."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, primer informe de la Comisión de Economía (10 de marzo de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27898&tipodoc=info",
+      "fecha": "2026-03-10",
+      "nota": "Objetivo del proyecto."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 20.721 de la Cámara al Senado con el texto aprobado (13 de agosto de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35141&tipodoc=ofic",
+      "fecha": "2025-08-13",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f6",
+      "titulo": "Senado, tramitación del boletín 17.163-03",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17163",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-10",
+  "publicado": "2026-11-10",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
