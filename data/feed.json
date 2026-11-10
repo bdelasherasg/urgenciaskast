@@ -1,22 +1,14 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T13:54-03:00",
+ "actualizado": "2026-11-10T14:10-03:00",
  "conteos": {
-  "urgencias_vigentes": 15,
-  "discusion_inmediata": 3,
-  "vencen_7_dias": 4,
-  "citaciones_7_dias": 18
+  "urgencias_vigentes": 14,
+  "discusion_inmediata": 2,
+  "vencen_7_dias": 3,
+  "citaciones_7_dias": 19
  },
  "proximos_vencimientos": [
-  {
-   "boletin": "18551-04",
-   "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
-   "sintesis": "Permite cambiar el calendario de los servicios locales de educación pendientes y atrasar traspasos de colegios. El Senado lo aprobó; ahora lo revisa la Cámara de Diputados.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/18551-04.html"
-  },
   {
    "boletin": "18189-14",
    "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
@@ -56,6 +48,14 @@
    "urgencia": "Suma",
    "vence": "2026-11-17",
    "url": "https://urgenciaskast.cl/p/18286-03.html"
+  },
+  {
+   "boletin": "18331-17",
+   "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-17",
+   "url": "https://urgenciaskast.cl/p/18331-17.html"
   }
  ],
  "agenda": [

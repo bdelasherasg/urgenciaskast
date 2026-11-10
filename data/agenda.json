@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-10T13:54-03:00",
+ "actualizado": "2026-11-10T14:10-03:00",
  "desde": "2026-11-10",
  "hasta": "2026-11-23",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-10T16:54",
-   "citaciones": 24,
+   "consultado": "2026-11-10T17:10",
+   "citaciones": 25,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -261,6 +261,22 @@
   },
   {
    "fecha": "2026-11-11",
+   "hora": "10:30",
+   "horario": "10:30 a 12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
+   ],
+   "boletines": [
+    "18643-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-11",
    "hora": "11:00",
    "horario": "11:00 a 12:30",
    "camara": "Senado",
@@ -410,12 +426,6 @@
   }
  ],
  "probables": [
-  {
-   "boletin": "18551-04",
-   "vence": "2026-11-10",
-   "tipo": "Discusión inmediata",
-   "camara": "Cámara de Diputados"
-  },
   {
    "boletin": "18189-14",
    "vence": "2026-11-11",
@@ -1839,12 +1849,6 @@
    ],
    "tramites": [
     {
-     "fecha": "2025-11-25",
-     "descripcion": "Cuenta del Mensaje 1269-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
      "fecha": "2025-12-10",
      "descripcion": "Cuenta del Mensaje 1362-373 que retira y hace presente la urgencia Suma",
      "etapa": "Primer trámite constitucional",
@@ -1919,6 +1923,12 @@
     {
      "fecha": "2026-09-01",
      "descripcion": "Cuenta del Mensaje 284-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-03",
+     "descripcion": "Oficio N°IF 216. Informe financiero",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     },
