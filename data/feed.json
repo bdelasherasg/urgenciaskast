@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T14:46-03:00",
+ "actualizado": "2026-11-10T14:50-03:00",
  "conteos": {
   "urgencias_vigentes": 14,
   "discusion_inmediata": 2,
@@ -68,7 +68,7 @@
     {
      "boletin": "17163-03",
      "titulo": "Modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en servicios de turismo aventura",
-     "sintesis": "",
+     "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
      "url": "https://urgenciaskast.cl/p/17163-03.html"
     }
    ]
@@ -270,7 +270,7 @@
     {
      "boletin": "18436-15",
      "titulo": "Modifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado",
-     "sintesis": "",
+     "sintesis": "Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.",
      "url": "https://urgenciaskast.cl/p/18436-15.html"
     }
    ]
@@ -290,28 +290,28 @@
    "url": "https://urgenciaskast.cl/p/15805-07.html"
   },
   {
-   "boletin": "18239-36",
-   "sintesis": "Crea un procedimiento especial y sanciones para declarar falsas ciertas denuncias y querellas, en causas de familia y delitos sexuales. Está en el Senado, con discusión inmediata.",
+   "boletin": "16335-14",
+   "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
    "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/18239-36.html"
+   "url": "https://urgenciaskast.cl/p/16335-14.html"
   },
   {
-   "boletin": "18551-04",
-   "sintesis": "Permite al Presidente cambiar el calendario de instalación de los servicios locales de educación pública y postergar el traspaso de colegios municipales. La Cámara lo aprobó sin cambios; vuelve al Senado.",
+   "boletin": "16743-04",
+   "sintesis": "Facilita crear colegios que reciben subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. La Cámara lo modificó; el Senado revisa los cambios.",
    "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/18551-04.html"
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
   },
   {
-   "boletin": "18643-05",
-   "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+   "boletin": "17163-03",
+   "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
    "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/18643-05.html"
+   "url": "https://urgenciaskast.cl/p/17163-03.html"
   },
   {
-   "boletin": "18779-07",
-   "sintesis": "Interpreta que la exclusión de la rebaja de condena por delitos sexuales contra menores rige desde 2022 y elimina una excepción para delitos futuros. Está en el Senado, con discusión inmediata.",
+   "boletin": "18211-25",
+   "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
    "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/18779-07.html"
+   "url": "https://urgenciaskast.cl/p/18211-25.html"
   }
  ],
  "analisis": [

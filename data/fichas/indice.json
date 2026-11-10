@@ -49,17 +49,17 @@
   "revision": "pendiente"
  },
  "16335-14": {
-  "sintesis": "Regula la prevención de incendios forestales: exige planes y cortafuegos a dueños de predios en zonas de riesgo. La Cámara debe votar el informe de la Comisión Mixta.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la ley de prevención de incendios forestales",
+  "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la prevención y mitigación de incendios forestales",
   "revision": "pendiente"
  },
  "16743-04": {
-  "sintesis": "Facilita abrir colegios subvencionados: permite el arriendo permanente y quita el requisito de demanda insatisfecha. La Cámara lo aprobó con cambios y ahora el Senado los revisa.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la creación de nuevos colegios subvencionados",
+  "sintesis": "Facilita crear colegios que reciben subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. La Cámara lo modificó; el Senado revisa los cambios.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la creación de nuevos establecimientos educacionales con subvención",
   "revision": "pendiente"
  },
  "16836-06": {
@@ -67,6 +67,13 @@
   "nivel": "completa",
   "publicado": "2026-10-30",
   "materia": "la reforma de las expulsiones administrativas de extranjeros",
+  "revision": "pendiente"
+ },
+ "17163-03": {
+  "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la seguridad en los servicios de turismo aventura",
   "revision": "pendiente"
  },
  "17637-07": {
@@ -105,10 +112,10 @@
   "revision": "pendiente"
  },
  "18211-25": {
-  "sintesis": "Sube las penas de los delitos cometidos con el rostro cubierto en desórdenes públicos. La Cámara lo aprobó y ahora lo revisa el Senado, con discusión inmediata.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la ley antiencapuchados",
+  "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "los delitos cometidos con el rostro cubierto en reuniones públicas",
   "revision": "pendiente"
  },
  "18223-15": {
@@ -133,10 +140,10 @@
   "revision": "pendiente"
  },
  "18314-07": {
-  "sintesis": "Reforma la Constitución para alargar la detención de extranjeros con orden de expulsión, hoy de cinco días. La Cámara la rechazó y el gobierno insiste ahora en el Senado.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la reforma del plazo de detención para expulsar a extranjeros",
+  "sintesis": "Reforma la Constitución para que la ley fije entre cinco y sesenta días la detención de extranjeros con expulsión administrativa. La Cámara la rechazó y el gobierno insiste en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la detención de extranjeros para ejecutar expulsiones administrativas",
   "revision": "pendiente"
  },
  "18341-25": {
@@ -151,6 +158,13 @@
   "nivel": "completa",
   "publicado": "2026-11-01",
   "materia": "el régimen de exclusiva confianza en la Contraloría",
+  "revision": "pendiente"
+ },
+ "18436-15": {
+  "sintesis": "Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la exención de derechos municipales para las obras ferroviarias de EFE",
   "revision": "pendiente"
  },
  "18448-25": {
@@ -203,10 +217,10 @@
   "revision": "pendiente"
  },
  "18709-07": {
-  "sintesis": "Junta en dos las tres etapas de instalación del Servicio Nacional de Acceso a la Justicia, en enero de 2028 y enero de 2029. La Cámara lo aprobó; ahora lo revisa el Senado.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "el nuevo calendario del Servicio Nacional de Acceso a la Justicia",
+  "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara lo aprobó; el Senado lo revisa.",
+  "nivel": "basica",
+  "publicado": "2026-11-10",
+  "materia": "la implementación del Servicio Nacional de Acceso a la Justicia",
   "revision": "pendiente"
  },
  "18779-07": {
