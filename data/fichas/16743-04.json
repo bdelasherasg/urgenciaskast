@@ -1,25 +1,19 @@
 {
   "version": 2,
   "boletin": "16743-04",
-  "nivel": "completa",
-  "sintesis": "Facilita abrir colegios subvencionados: permite el arriendo permanente y quita el requisito de demanda insatisfecha. La Cámara lo aprobó con cambios y ahora el Senado los revisa.",
-  "materia": "la creación de nuevos colegios subvencionados",
+  "nivel": "basica",
+  "sintesis": "Facilita crear colegios que reciben subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. La Cámara lo modificó; el Senado revisa los cambios.",
+  "materia": "la creación de nuevos establecimientos educacionales con subvención",
   "resumen": {
     "problema": [
       {
-        "texto": "Los autores dicen que muchas familias no encuentran cupo en un colegio.",
-        "fuentes": [
-          "f2"
-        ]
-      },
-      {
-        "texto": "Buscan dar más certeza jurídica a los sostenedores, que son quienes administran los colegios.",
+        "texto": "Los autores dicen que hay pocos cupos en colegios de calidad.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "También quieren planificar mejor la oferta de colegios en cada territorio.",
+        "texto": "Citan que en 2021 y 2020 quedaron sin asignación 39.263 y 41.427 estudiantes.",
         "fuentes": [
           "f1"
         ]
@@ -27,269 +21,132 @@
     ],
     "propone": [
       {
-        "texto": "Permite arrendar en forma permanente el inmueble de un colegio subvencionado.",
+        "texto": "Permite acreditar el local con un contrato de arriendo o comodato para recibir la subvención.",
         "fuentes": [
-          "f6",
-          "f8"
+          "f12"
         ]
       },
       {
-        "texto": "Quita el requisito de probar demanda insatisfecha, es decir, falta de cupos en la zona.",
+        "texto": "El Ministerio de Educación publicaría cada año la demanda escolar proyectada y podría convocar a sostenedores.",
         "fuentes": [
-          "f6",
-          "f7"
-        ]
-      },
-      {
-        "texto": "El Ministerio de Educación publicará cada año, hasta abril, la demanda escolar.",
-        "fuentes": [
-          "f4"
-        ]
-      },
-      {
-        "texto": "Los colegios de desempeño alto o medio podrán administrar otros de menor desempeño.",
-        "fuentes": [
-          "f6",
-          "f8"
+          "f12"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Modifica la ley de subvenciones y la Ley de Inclusión Escolar, entre otras.",
+        "texto": "Modifica el decreto con fuerza de ley N° 2 de 1998, sobre la subvención del Estado a establecimientos educacionales.",
         "fuentes": [
-          "f1",
-          "f4"
+          "f11"
         ]
       },
       {
-        "texto": "Permite a los servicios locales de educación pública firmar convenios de administración.",
+        "texto": "Ciertas solicitudes deberían ser ratificadas por mayoría absoluta del Consejo Nacional de Educación.",
         "fuentes": [
-          "f6",
-          "f8"
+          "f12"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a los sostenedores de colegios particulares subvencionados.",
-        "fuentes": [
-          "f6"
-        ]
-      },
-      {
-        "texto": "También afecta a las familias sin cupo y a los servicios locales de educación pública.",
-        "fuentes": [
-          "f6"
-        ]
-      }
-    ],
-    "costo": [
-      {
-        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
-        "fuentes": [],
-        "pendiente": true
-      },
-      {
-        "texto": "La versión del Senado paga el mayor gasto con el presupuesto del Ministerio de Educación.",
+        "texto": "Afecta a quienes quieren abrir colegios subvencionados y a las familias que buscan cupos.",
         "fuentes": [
           "f1"
         ]
       }
     ],
+    "costo": [
+      {
+        "texto": "En la Comisión de Hacienda se presentó una estimación conservadora de mayor gasto de $1,85 mil millones.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
     "estado": [
       {
-        "texto": "El Senado aprobó el proyecto el 21 de enero de 2026.",
+        "texto": "La Cámara lo aprobó con enmiendas el 7 de julio de 2026.",
         "fuentes": [
-          "f3",
-          "f11"
+          "f8"
         ]
       },
       {
-        "texto": "La Cámara lo aprobó con cambios el 7 de julio de 2026, en general por 104 votos contra 33.",
+        "texto": "El Senado las revisa en tercer trámite.",
         "fuentes": [
-          "f4",
-          "f11"
+          "f13"
         ]
       },
       {
-        "texto": "Ahora el Senado vota esos cambios.",
+        "texto": "Las comisiones de Educación y de Hacienda informaron el 11 de agosto.",
         "fuentes": [
-          "f11"
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Tiene discusión inmediata desde el 21 de octubre.",
+        "fuentes": [
+          "f13"
         ]
       }
     ]
   },
-  "posiciones": [
-    {
-      "organizacion": "Acción Educar",
-      "tipo": "Centro de estudios en educación",
-      "vocero": "",
-      "postura": "A favor",
-      "argumento": "Considera que el proyecto es un avance relevante para quitar barreras a la creación y ampliación de colegios subvencionados. Destaca el fin de la demanda insatisfecha, el arriendo permanente y la administración por sostenedores con buenos resultados.",
-      "fecha": "31 de agosto de 2026",
-      "fuentes": [
-        "f9"
-      ]
-    }
-  ],
-  "posiciones_sin_registro": "No encontramos declaraciones públicas de gremios de sostenedores, del Colegio de Profesores, de asociaciones de apoderados ni de municipios sobre este proyecto entre enero y octubre de 2026.",
-  "encuadre": {
-    "intro": "En la prensa revisada aparecen dos maneras de presentar el proyecto.",
-    "marcos": [
-      {
-        "titulo": "Más opciones para las familias",
-        "quienes": "Gobierno y parlamentarios oficialistas",
-        "problema": "Faltan cupos en colegios de calidad, y las familias tienen pocas alternativas.",
-        "problema_fuentes": [
-          "f5",
-          "f8"
-        ],
-        "causa": "La Ley de Inclusión de 2015 puso barreras a nuevos cupos y colegios, como la demanda insatisfecha.",
-        "causa_fuentes": [
-          "f5",
-          "f7"
-        ],
-        "solucion": "Quitar esas barreras y permitir el arriendo permanente, sin bajar los requisitos de funcionamiento.",
-        "solucion_fuentes": [
-          "f5",
-          "f8"
-        ],
-        "palabras": [
-          "barreras",
-          "burocracia",
-          "libertad de enseñanza",
-          "oferta educativa"
-        ]
-      },
-      {
-        "titulo": "Un riesgo para la educación pública",
-        "quienes": "Parlamentarios de oposición",
-        "problema": "El proyecto debilita la educación pública y favorece al sector particular subvencionado.",
-        "problema_fuentes": [
-          "f5",
-          "f6"
-        ],
-        "causa": "Ven un error de diagnóstico: la falta de matrícula se da solo en algunos territorios.",
-        "causa_fuentes": [
-          "f5",
-          "f6"
-        ],
-        "solucion": "Poner el foco en mejorar la educación pública.",
-        "solucion_fuentes": [
-          "f10"
-        ],
-        "palabras": [
-          "privatización",
-          "retroceso",
-          "negocio inmobiliario",
-          "lucro"
-        ]
-      }
-    ],
-    "disputa": {
-      "palabra": "demanda insatisfecha",
-      "oraciones": [
-        {
-          "texto": "Para el gobierno, el requisito de demanda insatisfecha frenó la creación de colegios desde 2015.",
-          "fuentes": [
-            "f7"
-          ]
-        },
-        {
-          "texto": "Para una senadora de oposición, quitarlo es más que un ajuste administrativo y pone en riesgo a los sostenedores, que deberán competir por matrícula.",
-          "fuentes": [
-            "f7"
-          ]
-        },
-        {
-          "texto": "Cada lado da un sentido distinto a la misma regla.",
-          "fuentes": []
-        }
-      ]
-    }
-  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "Diario Constitucional, «Senado despacha proyecto de ley que facilita creación de nuevos establecimientos educacionales»",
-      "url": "https://www.diarioconstitucional.cl/2026/02/23/senado-despacha-proyecto-de-ley-que-facilita-creacion-de-nuevos-establecimientos-educacionales/",
-      "fecha": "23 de febrero de 2026",
-      "nota": "Autores, objetivos, leyes que modifica y financiamiento en la versión del Senado."
+      "titulo": "Senado, moción del boletín 16.743-04 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17342&tipodoc=mensaje_mocion",
+      "fecha": "2024-04-09",
+      "nota": "Fundamentos."
     },
     {
       "id": "f2",
-      "titulo": "Diario Concepción, «Senado aprueba legislar proyecto que facilita creación de colegios para aumentar matrícula escolar»",
-      "url": "https://www.diarioconcepcion.cl/politica/2025/06/08/senado-aprueba-legislar-proyecto-que-facilita-creacion-de-colegios-para-aumentar-matricula-escolar.html",
-      "fecha": "8 de junio de 2025",
-      "nota": "Fundamentos declarados por los autores."
+      "titulo": "Senado, informe de la Comisión de Educación, tercer trámite (11 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28143&tipodoc=info",
+      "fecha": "2026-08-11",
+      "nota": "Informe del tercer trámite."
     },
     {
       "id": "f3",
-      "titulo": "Diario Estrategia, «Avanza proyecto que facilita creación de establecimientos educacionales»",
-      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5744919/avanza-proyecto-facilita-creacion-establecimientos-educacionales",
-      "fecha": "23 de enero de 2026",
-      "nota": "Aprobación en el Senado y contenido del primer trámite."
-    },
-    {
-      "id": "f4",
-      "titulo": "Emol, «Cámara aprueba proyecto que facilita la apertura de nuevos colegios»",
-      "url": "https://www.emol.com/noticias/Nacional/2026/07/07/1204976/camara-aprueba-apertura-nuevos-colegios.html",
-      "fecha": "7 de julio de 2026",
-      "nota": "Votación en la Cámara y contenido aprobado."
-    },
-    {
-      "id": "f5",
-      "titulo": "La Tercera, «Aprueban proyecto que facilita creación de nuevos establecimientos educacionales y vuelve al Senado a tercer trámite constitucional»",
-      "url": "https://www.latercera.com/nacional/noticia/aprueban-proyecto-que-facilita-creacion-de-nuevos-establecimientos-educacionales-y-vuelve-al-senado-a-tercer-tramite-constitucional/",
-      "fecha": "Julio de 2026 (la nota no muestra fecha)",
-      "nota": "Argumentos de gobierno y oposición en la Sala de la Cámara."
-    },
-    {
-      "id": "f6",
-      "titulo": "Diario Estrategia, «Cámara: Facilitan creación de establecimientos educacionales particulares subvencionados»",
-      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5947084/camara-facilitan-creacion-establecimientos-educacionales-particulares-subvencionados",
-      "fecha": "8 de julio de 2026",
-      "nota": "Contenido del texto aprobado por la Cámara y críticas."
-    },
-    {
-      "id": "f7",
-      "titulo": "Diario Estrategia, «Propuesta que facilita la creación de nuevos establecimientos educacionales: revisan cambios de la Cámara Baja»",
-      "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/5971863/propuesta-facilita-creacion-nuevos-establecimientos-educacionales-revisan-cambios-camara-baja",
-      "fecha": "31 de julio de 2026",
-      "nota": "Cambios de la Cámara y debate en la Comisión de Educación del Senado."
+      "titulo": "Senado, informe de la Comisión de Hacienda, tercer trámite (11 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28157&tipodoc=info",
+      "fecha": "2026-08-11",
+      "nota": "Estimación de gasto presentada a la comisión."
     },
     {
       "id": "f8",
-      "titulo": "Arica al Día, «Este miércoles el Senado vota el Proyecto de Ley que facilita la apertura de más colegios»",
-      "url": "https://www.aricaldia.cl/este-miercoles-el-senado-vota-el-proyecto-de-ley-que-facilita-la-apertura-de-mas-colegios/",
-      "fecha": "21 de octubre de 2026",
-      "nota": "Detalle de las modificaciones según el Ministerio de Educación."
-    },
-    {
-      "id": "f9",
-      "titulo": "Acción Educar, «Actualización legislativa: Proyecto de ley que facilita la creación de nuevos establecimientos educacionales»",
-      "url": "https://www.accioneducar.cl/actualizacion-legislativa-proyecto-de-ley-que-facilita-la-creacion-de-nuevos-establecimientos-educacionales/",
-      "fecha": "31 de agosto de 2026",
-      "nota": ""
-    },
-    {
-      "id": "f10",
-      "titulo": "GDA (El Mercurio), «Avanza la reforma que facilita apertura de nuevos colegios subvencionados»",
-      "url": "https://gda.com/detalle-de-la-noticia/?article=6062775",
-      "fecha": "6 de mayo de 2026",
-      "nota": "Debate en la Comisión de Educación de la Cámara."
+      "titulo": "Oficio 21.367 de la Cámara al Senado con las enmiendas (7 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36784&tipodoc=ofic",
+      "fecha": "2026-07-07",
+      "nota": "Enmiendas de la Cámara."
     },
     {
       "id": "f11",
-      "titulo": "Senado, ficha de tramitación del boletín 16743-04",
-      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16743-04",
-      "fecha": "Consulta automática",
-      "nota": "Etapas, votaciones y urgencias (datos de urgencias.json)."
+      "titulo": "Oficio 42/SEC/26 del Senado a la Cámara con el texto aprobado (21 de enero de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35745&tipodoc=ofic",
+      "fecha": "2026-01-21",
+      "nota": "Texto aprobado por el Senado."
+    },
+    {
+      "id": "f12",
+      "titulo": "Informe financiero IF 167 (26 de junio de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34910&tipodoc=ofic",
+      "fecha": "2025-06-26",
+      "nota": "Contenido y efecto fiscal de las indicaciones."
+    },
+    {
+      "id": "f13",
+      "titulo": "Senado, tramitación del boletín 16.743-04",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16743",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
     }
   ],
-  "consultado": "2026-10-30",
-  "publicado": "2026-10-30",
+  "consultado": "2026-11-10",
+  "publicado": "2026-11-10",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
