@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-10T00:43-03:00",
+ "actualizado": "2026-11-10T12:02-03:00",
  "desde": "2026-11-10",
  "hasta": "2026-11-23",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-10T03:42",
+   "consultado": "2026-11-10T15:01",
    "citaciones": 24,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -72,31 +72,13 @@
   },
   {
    "fecha": "2026-11-10",
-   "hora": "10:30",
-   "horario": "10:30 a 12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Hacienda",
-   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 16391-01 ) Establece un Sistema de Incentivos para la Gestión Sostenible de Suelos Agropecuarios (SIGESS)",
-    "2.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
-   ],
-   "boletines": [
-    "16391-01",
-    "18643-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-10",
    "hora": "11:00",
    "horario": "11:00 a 12:30",
    "camara": "Senado",
    "organo": "Comisión de Seguridad Pública",
    "lugar": "Sala N° 6, Valparaíso",
    "materias": [
-    "1.- ( Bol.N° 18707-07 ) Iniciar el estudio del proyecto de ley, en primer trámite constitucional, que prohíbe la concesión de penas sustitutivas a las privativas o restrictivas de libertad respecto de los delitos que indica, con el objeto de asegurar el cumplimiento efectivo de las condenas (Boletín N° 18.707-07), con urgencia calificada de \"simple\".",
+    "1.- ( Bol.N° 18707-07 ) Iniciar el estudio del proyecto de ley, en primer trámite constitucional, que prohíbe la concesión de penas sustitutivas a las privativas o restrictivas de libertad respecto de los delitos que indica, con el objeto de asegurar el cumplimiento efectivo de las condenas (Boletín N° 18.707-07).",
     "Para tratar este asunto serán invitados el Ministro de Justicia y Derechos Humanos, señor Fernando Rabat, y el Fiscal Nacional, señor Ángel Valencia."
    ],
    "boletines": [
@@ -121,6 +103,24 @@
    "boletines": [
     "17738-36",
     "18255-31"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora": "11:30",
+   "horario": "11:30 a 12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° 16391-01 ) Establece un Sistema de Incentivos para la Gestión Sostenible de Suelos Agropecuarios (SIGESS)",
+    "2.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
+   ],
+   "boletines": [
+    "16391-01",
+    "18643-05"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
@@ -417,19 +417,7 @@
    "camara": "Cámara de Diputados"
   },
   {
-   "boletin": "16300-07",
-   "vence": "2026-11-11",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
    "boletin": "18189-14",
-   "vence": "2026-11-11",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18584-25",
    "vence": "2026-11-11",
    "tipo": "Suma",
    "camara": "Senado"
@@ -626,6 +614,343 @@
     "mixta": false
    },
    "dias_tramite": 3036
+  },
+  "12213-07": {
+   "boletin": "12213-07",
+   "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
+   "fecha_ingreso": "2018-10-18",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-03-18",
+     "retiro": "2024-04-01",
+     "camara": "Cámara de Diputados",
+     "oficio": "106-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-04-01",
+     "retiro": "2024-04-24",
+     "camara": "Cámara de Diputados",
+     "oficio": "166-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-04-24",
+     "retiro": "2024-05-08",
+     "camara": "Senado",
+     "oficio": "402-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-05-08",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "495-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-05-30",
+     "retiro": "2024-06-12",
+     "camara": "Senado",
+     "oficio": "640-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-06-12",
+     "retiro": "2024-06-19",
+     "camara": "Senado",
+     "oficio": "769-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-06-19",
+     "retiro": "2024-07-03",
+     "camara": "Senado",
+     "oficio": "838-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-07-03",
+     "retiro": "2024-07-10",
+     "camara": "Senado",
+     "oficio": "938-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-07-10",
+     "retiro": "2024-07-24",
+     "camara": "Senado",
+     "oficio": "1020-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-07-24",
+     "retiro": "2024-08-07",
+     "camara": "Senado",
+     "oficio": "1092-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-08-07",
+     "retiro": "2024-08-14",
+     "camara": "Senado",
+     "oficio": "1224-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-08-14",
+     "retiro": "2024-08-28",
+     "camara": "Senado",
+     "oficio": "1302-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-08-28",
+     "retiro": "2024-09-11",
+     "camara": "Senado",
+     "oficio": "1401-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-09-11",
+     "retiro": "2024-09-25",
+     "camara": "Senado",
+     "oficio": "1537-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-09-25",
+     "retiro": "2024-10-09",
+     "camara": "Senado",
+     "oficio": "1638-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-10-09",
+     "retiro": "2024-10-16",
+     "camara": "Senado",
+     "oficio": "1760-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-10-16",
+     "retiro": "2024-10-30",
+     "camara": "Senado",
+     "oficio": "1857-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-10-30",
+     "retiro": "2024-11-13",
+     "camara": "Senado",
+     "oficio": "1967-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-11-13",
+     "retiro": "2024-11-27",
+     "camara": "Senado",
+     "oficio": "2096-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-11-27",
+     "retiro": "2024-12-11",
+     "camara": "Senado",
+     "oficio": "2231-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-12-11",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2359-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-01-07",
+     "retiro": "2025-01-22",
+     "camara": "Senado",
+     "oficio": "2489-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-01-22",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2696-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-03-04",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2753-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-03-11",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-27",
+     "retiro": "2026-11-10",
+     "camara": "Senado",
+     "oficio": "414-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2024-06-19",
+     "descripcion": "Cuenta del Mensaje 838-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-03",
+     "descripcion": "Cuenta del Mensaje 938-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-10",
+     "descripcion": "Cuenta del Mensaje 1020-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-24",
+     "descripcion": "Cuenta del Mensaje 1092-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-07",
+     "descripcion": "Cuenta del Mensaje 1224-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-14",
+     "descripcion": "Cuenta del Mensaje 1302-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-28",
+     "descripcion": "Cuenta del Mensaje 1401-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-11",
+     "descripcion": "Cuenta del Mensaje 1537-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-25",
+     "descripcion": "Cuenta del Mensaje 1638-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-09",
+     "descripcion": "Cuenta del Mensaje 1760-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-16",
+     "descripcion": "Cuenta del Mensaje 1857-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-30",
+     "descripcion": "Cuenta del Mensaje 1967-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-13",
+     "descripcion": "Cuenta del Mensaje 2096-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-27",
+     "descripcion": "Cuenta del Mensaje 2231-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-11",
+     "descripcion": "Cuenta del Mensaje 2359-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-07",
+     "descripcion": "Cuenta del Mensaje 2489-372 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-22",
+     "descripcion": "Cuenta del Mensaje 2696-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-04",
+     "descripcion": "Cuenta del Mensaje 2753-372 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-11",
+     "descripcion": "Cuenta del Mensaje 2-373 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=12213-07",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=12213-07",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=12736&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-27",
+    "vence": "2026-11-11",
+    "camara": "Senado",
+    "estado": "vigente",
+    "plazo_dias": 15,
+    "oficio": "414-374",
+    "mixta": false
+   },
+   "dias_tramite": 2945
   },
   "14744-35": {
    "boletin": "14744-35",

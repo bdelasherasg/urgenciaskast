@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T00:42-03:00",
+ "actualizado": "2026-11-10T12:01-03:00",
  "conteos": {
-  "urgencias_vigentes": 18,
+  "urgencias_vigentes": 15,
   "discusion_inmediata": 3,
-  "vencen_7_dias": 7,
+  "vencen_7_dias": 4,
   "citaciones_7_dias": 18
  },
  "proximos_vencimientos": [
@@ -18,22 +18,6 @@
    "url": "https://urgenciaskast.cl/p/18551-04.html"
   },
   {
-   "boletin": "12213-07",
-   "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/12213-07.html"
-  },
-  {
-   "boletin": "16300-07",
-   "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/16300-07.html"
-  },
-  {
    "boletin": "18189-14",
    "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
    "sintesis": "",
@@ -42,20 +26,36 @@
    "url": "https://urgenciaskast.cl/p/18189-14.html"
   },
   {
-   "boletin": "18584-25",
-   "titulo": "Modifica el Código Penal para ampliar el ámbito de aplicación del delito de interrupción u obstaculización de la libre circulación y del funcionamiento de los servicios de transporte",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/18584-25.html"
-  },
-  {
    "boletin": "14782-13",
    "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
    "sintesis": "Extiende la sala cuna a hijos de trabajadoras, trabajadores e independientes, sin el límite de 20 trabajadoras, y crea un fondo para pagarla. Lo revisa la Comisión de Trabajo de la Cámara.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-15",
    "url": "https://urgenciaskast.cl/p/14782-13.html"
+  },
+  {
+   "boletin": "18623-07",
+   "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
+   "sintesis": "Posterga hasta el 15 de octubre de 2027 la ley de datos personales y amplía de tres a cinco el consejo de la Agencia. El Senado lo aprobó; ahora lo revisa la Cámara.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-15",
+   "url": "https://urgenciaskast.cl/p/18623-07.html"
+  },
+  {
+   "boletin": "18208-25",
+   "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
+   "sintesis": "Permite seguir el juicio oral y dictar sentencia cuando el acusado no se presenta sin razón válida. El Senado lo aprobó; ahora lo estudia la Comisión de Seguridad Ciudadana de la Cámara.",
+   "urgencia": "Suma",
+   "vence": "2026-11-17",
+   "url": "https://urgenciaskast.cl/p/18208-25.html"
+  },
+  {
+   "boletin": "18286-03",
+   "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-17",
+   "url": "https://urgenciaskast.cl/p/18286-03.html"
   }
  ],
  "agenda": [
@@ -101,26 +101,6 @@
   },
   {
    "fecha": "2026-11-10",
-   "hora": "10:30",
-   "camara": "Senado",
-   "organo": "Comisión de Hacienda",
-   "proyectos": [
-    {
-     "boletin": "16391-01",
-     "titulo": "Establece un Sistema de Incentivos para la Gestión Sostenible de Suelos Agropecuarios (SIGESS)",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/16391-01.html"
-    },
-    {
-     "boletin": "18643-05",
-     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
-     "sintesis": "Crea un fondo estatal para créditos de vivienda y una cuenta de ahorro para el pie, y cambia reglas del mercado financiero. La Cámara lo aprobó; ahora lo revisa el Senado.",
-     "url": "https://urgenciaskast.cl/p/18643-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
    "hora": "11:00",
    "camara": "Senado",
    "organo": "Comisión de Seguridad Pública",
@@ -150,6 +130,26 @@
      "titulo": "Establece un beneficio de compensación por la compra de pañales y de medicamentos",
      "sintesis": "",
      "url": "https://urgenciaskast.cl/p/18255-31.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora": "11:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "proyectos": [
+    {
+     "boletin": "16391-01",
+     "titulo": "Establece un Sistema de Incentivos para la Gestión Sostenible de Suelos Agropecuarios (SIGESS)",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/16391-01.html"
+    },
+    {
+     "boletin": "18643-05",
+     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+     "sintesis": "Crea un fondo estatal para créditos de vivienda y una cuenta de ahorro para el pie, y cambia reglas del mercado financiero. La Cámara lo aprobó; ahora lo revisa el Senado.",
+     "url": "https://urgenciaskast.cl/p/18643-05.html"
     }
    ]
   },
