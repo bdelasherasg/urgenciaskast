@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T14:10-03:00",
+ "actualizado": "2026-11-10T14:43-03:00",
  "conteos": {
   "urgencias_vigentes": 14,
   "discusion_inmediata": 2,
@@ -278,6 +278,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "18779-07",
+   "sintesis": "Interpreta que la exclusión de la rebaja de condena por delitos sexuales contra menores rige desde 2022 y elimina una excepción para delitos futuros. Está en el Senado, con discusión inmediata.",
+   "publicado": "2026-11-10",
+   "url": "https://urgenciaskast.cl/p/18779-07.html"
+  },
+  {
    "boletin": "12760-29",
    "sintesis": "Pone el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que está en primer trámite en la Cámara de Diputados.",
    "publicado": "2026-11-01",
@@ -306,12 +312,6 @@
    "sintesis": "Cambia la ley orgánica de Carabineros en los procedimientos de evaluación médica que fundamentan el retiro de personal. Es una moción en primer trámite en la Cámara de Diputados.",
    "publicado": "2026-11-01",
    "url": "https://urgenciaskast.cl/p/18448-25.html"
-  },
-  {
-   "boletin": "18509-35",
-   "sintesis": "Obliga a anunciar por voz las próximas estaciones o paradas del transporte público que tenga sistema de sonido. Es una moción en primer trámite en la Cámara de Diputados.",
-   "publicado": "2026-11-01",
-   "url": "https://urgenciaskast.cl/p/18509-35.html"
   }
  ],
  "analisis": [

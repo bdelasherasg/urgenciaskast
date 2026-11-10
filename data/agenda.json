@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-10T14:10-03:00",
+ "actualizado": "2026-11-10T14:43-03:00",
  "desde": "2026-11-10",
  "hasta": "2026-11-23",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-10T17:10",
+   "consultado": "2026-11-10T17:43",
    "citaciones": 25,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -442,7 +442,7 @@
    "boletin": "18623-07",
    "vence": "2026-11-15",
    "tipo": "Discusión inmediata",
-   "camara": "Cámara de Diputados"
+   "camara": "Senado"
   },
   {
    "boletin": "18208-25",

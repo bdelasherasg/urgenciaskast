@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T14:10-03:00",
+ "actualizado": "2026-11-10T14:43-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -922,8 +922,8 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
-   "etapa": "Segundo trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Hacienda",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Discusión general",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -1085,6 +1085,12 @@
      "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento. Pasa a Comisión de Hacienda",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -1095,7 +1101,7 @@
    "renovaciones": 6,
    "cambios_tipo": 1,
    "urgencias_gobierno": 8,
-   "camara_actual": "Cámara de Diputados",
+   "camara_actual": "Senado",
    "urgencia_vigente": {
     "tipo": "Discusión inmediata",
     "desde": "2026-11-09",
