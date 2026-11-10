@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T14:50-03:00",
+ "actualizado": "2026-11-10T18:20-03:00",
  "conteos": {
-  "urgencias_vigentes": 14,
-  "discusion_inmediata": 2,
-  "vencen_7_dias": 3,
-  "citaciones_7_dias": 19
+  "urgencias_vigentes": 47,
+  "discusion_inmediata": 11,
+  "vencen_7_dias": 13,
+  "citaciones_7_dias": 20
  },
  "proximos_vencimientos": [
   {
@@ -16,6 +16,22 @@
    "urgencia": "Suma",
    "vence": "2026-11-11",
    "url": "https://urgenciaskast.cl/p/18189-14.html"
+  },
+  {
+   "boletin": "16335-14",
+   "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
+   "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/16335-14.html"
+  },
+  {
+   "boletin": "14309-04",
+   "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
+   "sintesis": "",
+   "urgencia": "Suma",
+   "vence": "2026-11-15",
+   "url": "https://urgenciaskast.cl/p/14309-04.html"
   },
   {
    "boletin": "14782-13",
@@ -34,28 +50,12 @@
    "url": "https://urgenciaskast.cl/p/18623-07.html"
   },
   {
-   "boletin": "18208-25",
-   "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
-   "sintesis": "Permite seguir el juicio oral y dictar sentencia cuando el acusado no se presenta sin razón válida. El Senado lo aprobó; ahora lo estudia la Comisión de Seguridad Ciudadana de la Cámara.",
-   "urgencia": "Suma",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18208-25.html"
-  },
-  {
-   "boletin": "18286-03",
-   "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
+   "boletin": "16300-07",
+   "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
    "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18286-03.html"
-  },
-  {
-   "boletin": "18331-17",
-   "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
-   "sintesis": "",
-   "urgencia": "Suma",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18331-17.html"
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-16",
+   "url": "https://urgenciaskast.cl/p/16300-07.html"
   }
  ],
  "agenda": [
