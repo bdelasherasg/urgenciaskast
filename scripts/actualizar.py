@@ -18,6 +18,7 @@ import re
 import sys
 import time
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as TiempoAgotado, as_completed
 import xml.etree.ElementTree as ET
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -43,20 +44,52 @@ URL_FICHA_CAMARA = 'https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion
 CABECERAS = {'User-Agent': 'UrgenciasKast/1.0 (seguimiento legislativo; contacto en el sitio)'}
 RE_BOLETIN = re.compile(r'\b(\d{3,5})-(\d{2})\b')
 
+# Consultas simultáneas al Senado y tope de tiempo total. El servicio del Senado a veces tarda
+# unos 30 segundos por respuesta; con consultas una tras otra, la acción no alcanzaba a terminar.
+HILOS = 5
+TIEMPO_MAXIMO = 18 * 60   # segundos para todas las consultas de detalle
+
 errores = []
+fallidos = set()   # boletines cuyo detalle no se pudo bajar (red o XML inválido)
 
 
-def bajar(url, intentos=3):
+def bajar(url, intentos=2, timeout=25):
     for i in range(intentos):
         try:
             req = urllib.request.Request(url, headers=CABECERAS)
-            with urllib.request.urlopen(req, timeout=45) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except Exception as e:  # red, tiempo de espera o error HTTP
             if i == intentos - 1:
                 errores.append(f'{url}: {e}')
                 return None
             time.sleep(3 * (i + 1))
+
+
+def en_paralelo(funcion, elementos, limite=None, etiqueta='consultas'):
+    """Aplica funcion a cada elemento con HILOS consultas simultáneas. Devuelve {elemento: resultado}
+    con lo que alcanzó a terminar dentro del límite; lo pendiente queda fuera y se informa."""
+    resultados = {}
+    if not elementos:
+        return resultados
+    limite = TIEMPO_MAXIMO if limite is None else limite
+    inicio = time.monotonic()
+    ex = ThreadPoolExecutor(max_workers=HILOS)
+    futuros = {ex.submit(funcion, x): x for x in elementos}
+    try:
+        for i, f in enumerate(as_completed(futuros, timeout=limite), 1):
+            try:
+                resultados[futuros[f]] = f.result()
+            except Exception as e:  # un error en un proyecto no detiene a los demás
+                errores.append(f'{futuros[f]}: {e}')
+            if i % 25 == 0:
+                print(f'  {etiqueta}: {i}/{len(elementos)} ({time.monotonic() - inicio:.0f} s)', flush=True)
+    except TiempoAgotado:
+        pendientes = len(elementos) - len(resultados)
+        errores.append(f'{etiqueta}: tiempo máximo agotado; {pendientes} sin respuesta')
+        print(f'  {etiqueta}: tiempo máximo agotado, {pendientes} sin respuesta', flush=True)
+    ex.shutdown(wait=False, cancel_futures=True)
+    return resultados
 
 
 def fecha_iso(texto):
@@ -106,13 +139,13 @@ def candidatos():
         if datos:
             for num, suf in RE_BOLETIN.findall(datos.decode('utf-8', 'replace')):
                 boletines.add(f'{num}-{suf}')
-    for i in range(DIAS_MOVIMIENTO):
-        d = hoy - dt.timedelta(days=i)
-        datos = bajar(URL_SENADO_FECHA.format(fecha=d.strftime('%d/%m/%Y')))
+    fechas = [(hoy - dt.timedelta(days=i)).strftime('%d/%m/%Y') for i in range(DIAS_MOVIMIENTO)]
+    por_fecha = en_paralelo(lambda f: bajar(URL_SENADO_FECHA.format(fecha=f)), fechas, limite=5 * 60,
+                            etiqueta='movimiento por fecha')
+    for datos in por_fecha.values():
         if datos:
             for num, suf in RE_BOLETIN.findall(datos.decode('latin-1', 'replace')):
                 boletines.add(f'{num}-{suf}')
-        time.sleep(0.4)
     if os.path.exists(EXTRA):
         with open(EXTRA, encoding='utf-8') as f:
             for linea in f:
@@ -126,11 +159,13 @@ def detalle(boletin):
     num = boletin.split('-')[0]
     datos = bajar(URL_SENADO_BOLETIN.format(num=num))
     if not datos:
+        fallidos.add(boletin)
         return None
     try:
         raiz = ET.fromstring(datos)
     except ET.ParseError as e:
         errores.append(f'{boletin}: XML inválido ({e})')
+        fallidos.add(boletin)
         return None
     proy = raiz.find('.//proyecto')
     if proy is None:
@@ -306,11 +341,11 @@ def recalcular():
 
 def principal():
     lista = candidatos()
-    print(f'Boletines candidatos: {len(lista)}')
+    print(f'Boletines candidatos: {len(lista)}', flush=True)
+    detalles = en_paralelo(detalle, lista, etiqueta='detalle de proyectos')
     proyectos = []
-    for i, b in enumerate(lista, 1):
-        p = detalle(b)
-        time.sleep(0.4)
+    for b in lista:
+        p = detalles.get(b)
         if not p:
             continue
         if p['urgencia_actual'] not in NIVELES:
@@ -321,7 +356,23 @@ def principal():
         if not p['urgencias_gobierno']:
             continue  # urgencia puesta antes de este gobierno
         proyectos.append(p)
-        print(f'  [{i}/{len(lista)}] {p["boletin"]} · {p["urgencia_actual"]}')
+
+    # Proyectos que ya estaban publicados y que esta vez no se pudieron consultar (el Senado no
+    # respondió a tiempo): se conservan con sus datos anteriores, en vez de desaparecer del sitio.
+    sin_respuesta = {b for b in lista if b not in detalles} | fallidos
+    conservados = 0
+    try:
+        with open(SALIDA, encoding='utf-8') as f:
+            anteriores = json.load(f).get('proyectos', [])
+    except (OSError, ValueError):
+        anteriores = []
+    nuevos = {p['boletin'] for p in proyectos}
+    for p in anteriores:
+        if p.get('boletin') in sin_respuesta and p['boletin'] not in nuevos:
+            proyectos.append(completar(p))
+            conservados += 1
+    print(f'Con urgencia: {len(proyectos)} (conservados de la consulta anterior: {conservados}; '
+          f'sin respuesta del Senado: {len(sin_respuesta)})', flush=True)
 
     if not proyectos:
         print('No se obtuvo ningún proyecto. Se mantiene el archivo anterior.', file=sys.stderr)
@@ -340,11 +391,14 @@ def principal():
         'plazos': {'normal': PLAZOS, 'comision_mixta': PLAZOS_MIXTA},
         'proyectos': proyectos,
         'errores_de_consulta': len(errores),
+        'conservados_sin_respuesta': conservados,
     }
     os.makedirs(os.path.dirname(SALIDA), exist_ok=True)
     with open(SALIDA, 'w', encoding='utf-8') as f:
         json.dump(salida, f, ensure_ascii=False, indent=1)
-    print(f'Listo: {len(proyectos)} proyectos con urgencia. Errores de consulta: {len(errores)}')
+    print(f'Listo: {len(proyectos)} proyectos con urgencia. Errores de consulta: {len(errores)}', flush=True)
+    for e in errores[:15]:
+        print('  ' + e[:200], flush=True)
 
 
 if __name__ == '__main__':

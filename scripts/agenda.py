@@ -311,17 +311,12 @@ def principal():
     citados = sorted({b for s in sesiones for b in s['boletines']})
     proyectos = {}
     previos = anterior.get('proyectos', {})
-    consultas = 0
+    por_consultar = [b for b in citados if b not in por_boletin][:MAX_CONSULTAS]
+    obtenidos = A.en_paralelo(A.detalle, por_consultar, limite=10 * 60, etiqueta='boletines citados')
     for b in citados:
         if b in por_boletin:
             continue
-        if consultas >= MAX_CONSULTAS:
-            if b in previos:
-                proyectos[b] = previos[b]
-            continue
-        p = A.detalle(b)
-        consultas += 1
-        time.sleep(0.4)
+        p = obtenidos.get(b)
         if p:
             p = A.completar(p, hoy)
             p['tramites'] = p['tramites'][-20:]

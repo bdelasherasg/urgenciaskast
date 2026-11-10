@@ -38,10 +38,15 @@ jobs:
 
       - name: Urgencias (Senado y Cámara)
         # Si ninguna consulta responde, el archivo anterior se conserva y el resto sigue.
-        run: python scripts/actualizar.py || echo "::warning::No se actualizaron las urgencias; se conserva el archivo anterior."
+        # El tope de tiempo de este paso no detiene los siguientes.
+        timeout-minutes: 25
+        continue-on-error: true
+        run: python -u scripts/actualizar.py || echo "::warning::No se actualizaron las urgencias; se conserva el archivo anterior."
 
       - name: Agenda de dos semanas
-        run: python scripts/agenda.py
+        timeout-minutes: 12
+        continue-on-error: true
+        run: python -u scripts/agenda.py
 
       - name: Producción de Lo Común
         run: |
@@ -53,7 +58,7 @@ jobs:
           fi
 
       - name: Páginas, fichas, resumen y mapa del sitio
-        run: python scripts/paginas.py --sitio
+        run: python -u scripts/paginas.py --sitio
 
       - name: Publicar
         run: |
