@@ -1,0 +1,126 @@
+{
+  "version": 2,
+  "boletin": "18436-15",
+  "nivel": "basica",
+  "sintesis": "Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.",
+  "materia": "la exención de derechos municipales para las obras ferroviarias de EFE",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que EFE desarrolla la mayor cartera de proyectos ferroviarios de su historia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que su Ley Orgánica ya reconoce el vínculo entre la empresa y los terrenos que necesita para operar.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que EFE quede exenta de todo derecho municipal por la ejecución de las obras que necesita para el transporte ferroviario.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Las obras serían infraestructura ejecutada por el Estado y no requerirían permiso municipal de construcción.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega el artículo 30 bis a la Ley Orgánica de EFE.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El texto aprobado habla de derechos municipales; el mensaje original hablaba también de tributos municipales.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a EFE y a las municipalidades donde se construyan obras ferroviarias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero complementario dice que las indicaciones no irrogan mayor gasto fiscal.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 21 de octubre de 2026 con 89 votos a favor.",
+        "fuentes": [
+          "f3",
+          "f6"
+        ]
+      },
+      {
+        "texto": "Pasó al Senado, a la Comisión de Transportes y Telecomunicaciones y a la de Hacienda.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Cámara, mensaje del boletín 18.436-15 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19119&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-08",
+      "nota": "Antecedentes y objetivo."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 21.664 de la Cámara al Senado con el texto aprobado (21 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37336&tipodoc=ofic",
+      "fecha": "2026-10-21",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 161-374 con indicación e informe financiero complementario (7 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37201&tipodoc=ofic",
+      "fecha": "2026-09-07",
+      "nota": "Indicación del Ejecutivo y efecto fiscal."
+    },
+    {
+      "id": "f6",
+      "titulo": "Senado, tramitación del boletín 18.436-15",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18436",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-10",
+  "publicado": "2026-11-10",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
