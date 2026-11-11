@@ -1,0 +1,119 @@
+{
+  "version": 2,
+  "boletin": "14744-35",
+  "nivel": "basica",
+  "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
+  "materia": "el acceso más rápido de las personas con discapacidad a sus beneficios",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los trámites para obtener o renovar beneficios para personas con discapacidad son lentos y burocráticos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La comisión de la Cámara señaló que la idea central es agilizar los trámites y precisar los criterios para otorgar o renovar los beneficios.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El texto aprobado dice que el Estado procurará usar herramientas que den el acceso más rápido posible a los beneficios.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un inciso tercero al artículo 12 de la ley 20.422.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El Estado debe adecuar los trámites cuando sea necesario e incorporar tecnologías de inclusión en los servicios públicos.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También debe procurar eliminar toda medida que pueda dañar la dignidad de estas personas.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas con discapacidad y a los servicios públicos que entregan beneficios.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No hay informe financiero entre los documentos revisados. La comisión de la Cámara dejó constancia de que ninguna norma debía pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto en general y particular el 12 de marzo de 2024.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Hoy está en segundo trámite en el Senado, en la Comisión del Adulto Mayor y Discapacidad.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 14.744-35 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15230&tipodoc=mensaje_mocion",
+      "fecha": "2021-12-09",
+      "nota": "Fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, informe de la Comisión de Personas Mayores y Discapacidad (16 de octubre de 2023)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26007&tipodoc=info",
+      "fecha": "2023-10-16",
+      "nota": "Idea matriz y trámite de Hacienda."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 19.273 de la Cámara de Diputados al Senado (12 de marzo de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33032&tipodoc=ofic",
+      "fecha": "2024-03-12",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 14.744-35",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14744",
+      "fecha": "2026-11-10",
+      "nota": "Etapa."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
