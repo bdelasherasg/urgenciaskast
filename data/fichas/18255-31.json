@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "boletin": "18255-31",
+  "nivel": "basica",
+  "sintesis": "Crea un beneficio que devuelve el IVA de pañales y medicamentos de uso permanente a los hogares del 80 por ciento más vulnerable. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
+  "materia": "la devolución del IVA de pañales y medicamentos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que pañales y medicamentos de uso permanente son un gasto recurrente que pesa más en los hogares de menores ingresos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone una bonificación mensual igual al reembolso del IVA en la compra de pañales y medicamentos.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Tendrían acceso los hogares del 80 por ciento más vulnerable de la población.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El reembolso tiene un tope fijado sobre canastas de consumo de referencia.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La bonificación no se cuenta como renta ni como ingreso para otros beneficios sociales.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Se pediría boleta electrónica y, según el caso, receta o certificado médico.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a hogares con niños pequeños, con personas mayores dependientes o con tratamientos permanentes.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El mensaje fija un límite fiscal anual de 100 millones de dólares el primer año.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ese límite se reajusta según el crecimiento de los ingresos estructurales del Fisco.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto en general y particular el 29 de septiembre de 2026.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Hoy está en el Senado, en las comisiones de Familia, Infancia y Adolescencia y de Hacienda.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El gobierno hizo presente la urgencia suma el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 18.255-31 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18918&tipodoc=mensaje_mocion",
+      "fecha": "2026-05-18",
+      "nota": "Fundamentos y diseño del beneficio."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 21.602 de la Cámara de Diputados (29 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37249&tipodoc=ofic",
+      "fecha": "2026-09-29",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 18.255-31",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18255",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
