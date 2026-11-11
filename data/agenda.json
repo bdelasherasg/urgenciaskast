@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-11T16:59-03:00",
+ "actualizado": "2026-11-11T18:53-03:00",
  "desde": "2026-11-11",
  "hasta": "2026-11-24",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-11T19:59",
-   "citaciones": 20,
+   "consultado": "2026-11-11T21:53",
+   "citaciones": 23,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -44,8 +44,8 @@
    "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
    "lugar": "Sala N° 9 de Comisiones, tercer piso del Senado, Valparaíso.",
    "materias": [
-    "1.- Conocer antecedentes relacionados con el derrame de relaves ocurrido en el río Blanco, en Los Andes, y las medidas de fiscalización y mitigación adoptadas sobre el particular (09:30 a 10:15 horas). A este punto han sido invitados representantes de Codelco, de la Superintendencia del Medio Ambiente y de la Dirección General de Aguas.",
-    "2.- ( Bol.N° 17877-33 ) Continuar la discusión de las indicaciones formuladas al proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales (Boletín N°17.877-33) (10:15 a 11:00 horas)."
+    "1.- Conocer antecedentes relacionados con el derrame de relaves ocurrido en el río Blanco, en Los Andes, y las medidas de fiscalización y mitigación adoptadas sobre el particular.",
+    "2.- ( Bol.N° 17877-33 ) Continuar la discusión de las indicaciones formuladas al proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales (Boletín N°17.877-33)."
    ],
    "boletines": [
     "17877-33"
@@ -230,6 +230,56 @@
    ],
    "boletines": [
     "18860-15"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "12:00",
+   "horario": "12:00 a 13:30",
+   "camara": "Senado",
+   "organo": "Comisión de Agricultura",
+   "lugar": "Sala 144, edificio ex Congreso, Santiago",
+   "materias": [
+    "1.- Conocer, de parte del señor Subsecretario de Agricultura, los antecedentes relativos a la eventual compra de trigo por Cotrisa, las modificaciones al reglamento de la ley N° 18.455, que fija normas sobre producción, elaboración y comercialización de alcoholes etílicos, bebidas alcohólicas y vinagres, y otras materias de interés de la Comisión, en el ámbito de su competencia.",
+    "Invitado:",
+    "El Subsecretario de Agricultura, señor Francesco Venezian."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "12:30",
+   "horario": "12:30 a 14:00",
+   "camara": "Senado",
+   "organo": "Comisión de Educación",
+   "lugar": "Sala3, piso 3, Senado en Santiago",
+   "materias": [
+    "1.- ( Bol.N° S 2771-05 ) Tomar conocimiento del oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar como Consejero del Consejo Nacional de Educación, al señor Matías Lira Avilés, hasta el 10 de abril de 2030 (Boletín N° S 2.771-05)."
+   ],
+   "boletines": [
+    "2771-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "14:00",
+   "horario": "14:00 a 15:30",
+   "camara": "Senado",
+   "organo": "Comisión de Salud",
+   "lugar": "Sala 3, Santiago.",
+   "materias": [
+    "1.- ( Bol.N° 15047-11 ) Proyecto de ley que optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos (Boletines N°s. 15.047-11 y 17.567-11, refundidos).",
+    "A esta sesión se invitará al Director de CENABAST, a la Presidenta de la Corporación FAME Chile; a la Directora de Participación e Incidencia Ciudadana de la Fundación Me Muevo y al Dr. Patricio Ibáñez."
+   ],
+   "boletines": [
+    "15047-11",
+    "17567-11"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
@@ -683,12 +733,6 @@
   }
  ],
  "probables": [
-  {
-   "boletin": "16335-14",
-   "vence": "2026-11-12",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
   {
    "boletin": "14309-04",
    "vence": "2026-11-15",
@@ -4698,6 +4742,74 @@
     "plazo_dias": null
    },
    "dias_tramite": 5
+  },
+  "2771-05": {
+   "boletin": "2771-05",
+   "titulo": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de reforzar los derechos de los ciudadanos y hacer mas equitativos los sistemas de información de antecedentes comerciales.",
+   "fecha_ingreso": "2001-08-21",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Tramitación terminada",
+   "subetapa": "/",
+   "estado": "Rechazado",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2001-08-21",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2001-08-21",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2002-06-13",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2002-06-18",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2002-07-03",
+     "descripcion": "Discusión general . Rechazado (Queda pendiente)",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2002-07-04",
+     "descripcion": "Discusión general . Rechazado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=2771-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=2771-05",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=3052&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 9213
   },
   "8654-15": {
    "boletin": "8654-15",
