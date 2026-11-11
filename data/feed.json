@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-11T14:10-03:00",
+ "actualizado": "2026-11-11T16:53-03:00",
  "conteos": {
-  "urgencias_vigentes": 46,
-  "discusion_inmediata": 11,
-  "vencen_7_dias": 20,
-  "citaciones_7_dias": 11
+  "urgencias_vigentes": 47,
+  "discusion_inmediata": 12,
+  "vencen_7_dias": 21,
+  "citaciones_7_dias": 12
  },
  "proximos_vencimientos": [
   {
@@ -188,6 +188,20 @@
      "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
      "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
      "url": "https://urgenciaskast.cl/p/11929-13.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "16:00",
+   "camara": "Senado",
+   "organo": "Comisión de Transportes y Telecomunicaciones",
+   "proyectos": [
+    {
+     "boletin": "18860-15",
+     "titulo": "Proyecto de ley que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18860-15.html"
     }
    ]
   },

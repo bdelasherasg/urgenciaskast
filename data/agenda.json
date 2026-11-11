@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-11T14:11-03:00",
+ "actualizado": "2026-11-11T16:53-03:00",
  "desde": "2026-11-11",
  "hasta": "2026-11-24",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-11T17:10",
-   "citaciones": 18,
+   "consultado": "2026-11-11T19:53",
+   "citaciones": 20,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -208,11 +208,28 @@
    "lugar": "Sala 11, Valparaíso.",
    "materias": [
     "1.- Analizar la situación presupuestaria de las universidades del Estado, de las regiones extremas del norte y sur del país.",
-    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes.",
+    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "16:00",
+   "horario": "16:00 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Transportes y Telecomunicaciones",
+   "lugar": "Sala 5, (Valparaíso)",
+   "materias": [
+    "1.- Analizar la situación actual de transporte nacional.",
+    "2.- ( Bol.N° 18860-15 ) Iniciar el estudio del proyecto de ley, en primer trámite constitucional, originado en moción de los Honorables Senadores señoras Núñez, Carvajal y Flores y señores Saavedra y Van Rysselberghe, que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño.",
     "%%CITACION_FECHA.COMINOMBRE%% []",
     "-->"
    ],
-   "boletines": [],
+   "boletines": [
+    "18860-15"
+   ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   },
@@ -229,6 +246,21 @@
    "boletines": [
     "12712-24"
    ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:30",
+   "horario": "15:30 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Minería y Energía",
+   "lugar": "Sala de Sesiones, Santiago",
+   "materias": [
+    "1.- Conocer la \"Política Nacional de Salud y Seguridad en la Minería en Chile, situación actual, desafíos en prevención de accidentes y fortalecimiento de la fiscalización\".",
+    "A esta sesión fueron especialmente invitados, el Ministro de Minería; la Asociación de Mutuales A.G.; Sernageomin; Superintendencia de Seguridad Social; Dirección del Trabajo; Instituto de Seguridad Laboral; Consejo Minero; Confederación de Trabajadores del Cobre; Confederación Minera de Chile; Sindicato Chuquicamata, Sonami; Enami, y la Directora de la Oficina de la OIT para el Cono Sur de América Latina."
+   ],
+   "boletines": [],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   },
@@ -1679,35 +1711,35 @@
    },
    "dias_tramite": 14
   },
-  "18881-25": {
-   "boletin": "18881-25",
-   "titulo": "Deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal",
-   "fecha_ingreso": "2026-11-10",
+  "18860-15": {
+   "boletin": "18860-15",
+   "titulo": "Proyecto de ley que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño",
+   "fecha_ingreso": "2026-11-06",
    "iniciativa": "Moción",
    "camara_origen": "Senado",
    "urgencia_actual": "",
    "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
+   "subetapa": "Primer informe de comisión de Transportes y Telecomunicaciones",
    "estado": "En tramitación",
    "urgencias": [],
    "tramites": [
     {
-     "fecha": "2026-11-10",
+     "fecha": "2026-11-06",
      "descripcion": "Ingreso de proyecto .",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     },
     {
      "fecha": "2026-11-10",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública y a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Transportes y Telecomunicaciones",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
    ],
    "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18881-25",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18881-25",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19549&tipodoc=mensaje_mocion"
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18860-15",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18860-15",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19538&tipodoc=mensaje_mocion"
    },
    "renovaciones": 0,
    "cambios_tipo": 0,
@@ -1721,7 +1753,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1
+   "dias_tramite": 5
   },
   "8654-15": {
    "boletin": "8654-15",

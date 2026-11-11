@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T14:10-03:00",
+ "actualizado": "2026-11-11T16:53-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -6321,6 +6321,66 @@
     "mixta": false
    },
    "dias_tramite": 23
+  },
+  {
+   "boletin": "18881-25",
+   "titulo": "Deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal",
+   "fecha_ingreso": "2026-11-10",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Seguridad Pública",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-11-11",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "460-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública y a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Cuenta del Mensaje 460-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18881-25",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18881-25",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19549&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-11-11",
+    "vence": "2026-11-17",
+    "camara": "Senado",
+    "estado": "vigente",
+    "plazo_dias": 6,
+    "oficio": "460-374",
+    "mixta": false
+   },
+   "dias_tramite": 1
   },
   {
    "boletin": "18819-03",
@@ -13219,7 +13279,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Suma",
    "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Cuenta de primer informe de comisión",
+   "subetapa": "Discusión general",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -13456,6 +13516,12 @@
     {
      "fecha": "2026-11-11",
      "descripcion": "Primer informe de comisión de Educación.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Cuenta de primer informe de comisión .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }
