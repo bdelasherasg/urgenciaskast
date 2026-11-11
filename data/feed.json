@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-11T06:29-03:00",
+ "actualizado": "2026-11-11T06:36-03:00",
  "conteos": {
-  "urgencias_vigentes": 46,
+  "urgencias_vigentes": 44,
   "discusion_inmediata": 11,
-  "vencen_7_dias": 20,
+  "vencen_7_dias": 18,
   "citaciones_7_dias": 11
  },
  "proximos_vencimientos": [
@@ -68,7 +68,7 @@
     {
      "boletin": "18821-08",
      "titulo": "Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
-     "sintesis": "",
+     "sintesis": "Facilita la conexión de cargadores de vehículos eléctricos a la red y su acceso a precios libres de energía. Está en primer trámite en el Senado, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18821-08.html"
     }
    ]
@@ -82,7 +82,7 @@
     {
      "boletin": "17877-33",
      "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
-     "sintesis": "",
+     "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
      "url": "https://urgenciaskast.cl/p/17877-33.html"
     }
    ]
@@ -96,7 +96,7 @@
     {
      "boletin": "17974-15",
      "titulo": "Modifica la ley N° 20.433, que crea los servicios de radiodifusión comunitaria ciudadana, con el objeto de fortalecer su desarrollo y sostenibilidad",
-     "sintesis": "",
+     "sintesis": "Modifica la ley de radios comunitarias para que puedan emitir publicidad y tener más potencia. Está en primer trámite en el Senado, en la Comisión de Transportes y Telecomunicaciones.",
      "url": "https://urgenciaskast.cl/p/17974-15.html"
     },
     {
@@ -144,7 +144,7 @@
     {
      "boletin": "18420-25",
      "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-     "sintesis": "",
+     "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
      "url": "https://urgenciaskast.cl/p/18420-25.html"
     }
    ]
@@ -172,7 +172,7 @@
     {
      "boletin": "8654-15",
      "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
-     "sintesis": "",
+     "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
      "url": "https://urgenciaskast.cl/p/8654-15.html"
     }
    ]
@@ -200,7 +200,7 @@
     {
      "boletin": "14744-35",
      "titulo": "Modifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley",
-     "sintesis": "",
+     "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
      "url": "https://urgenciaskast.cl/p/14744-35.html"
     }
    ]
@@ -228,34 +228,34 @@
    "url": "https://urgenciaskast.cl/p/11929-13.html"
   },
   {
+   "boletin": "14744-35",
+   "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
+   "publicado": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/14744-35.html"
+  },
+  {
+   "boletin": "16143-02",
+   "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
+   "publicado": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/16143-02.html"
+  },
+  {
    "boletin": "17163-03",
    "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
    "publicado": "2026-11-11",
    "url": "https://urgenciaskast.cl/p/17163-03.html"
   },
   {
-   "boletin": "18436-15",
-   "sintesis": "Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.",
+   "boletin": "17567-11",
+   "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
    "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/18436-15.html"
+   "url": "https://urgenciaskast.cl/p/17567-11.html"
   },
   {
-   "boletin": "14782-13",
-   "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
-   "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/14782-13.html"
-  },
-  {
-   "boletin": "15805-07",
-   "sintesis": "Fija por ley principios y deberes para el uso de la fuerza por policías y Fuerzas Armadas. El Congreso lo despachó el 9 de octubre y el Tribunal Constitucional declaró inadmisible un requerimiento.",
-   "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/15805-07.html"
-  },
-  {
-   "boletin": "16335-14",
-   "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
-   "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/16335-14.html"
+   "boletin": "17877-33",
+   "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
+   "publicado": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/17877-33.html"
   }
  ],
  "analisis": [

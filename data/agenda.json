@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-11T06:29-03:00",
+ "actualizado": "2026-11-11T06:36-03:00",
  "desde": "2026-11-11",
  "hasta": "2026-11-24",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-11T09:29",
+   "consultado": "2026-11-11T09:36",
    "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -351,19 +351,7 @@
    "camara": "Cámara de Diputados"
   },
   {
-   "boletin": "18331-17",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18341-25",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18434-07",
    "vence": "2026-11-17",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"

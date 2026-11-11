@@ -20,6 +20,13 @@
   "materia": "el nombre del gimnasio fiscal de Ancud",
   "revision": "pendiente"
  },
+ "14744-35": {
+  "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "el acceso más rápido de las personas con discapacidad a sus beneficios",
+  "revision": "pendiente"
+ },
  "14782-13": {
   "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
   "nivel": "basica",
@@ -55,6 +62,13 @@
   "materia": "la sanción de la venta ilegal de medicamentos",
   "revision": "pendiente"
  },
+ "16143-02": {
+  "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "la protección de la infraestructura crítica",
+  "revision": "pendiente"
+ },
  "16335-14": {
   "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
   "nivel": "basica",
@@ -83,6 +97,13 @@
   "materia": "la seguridad en los servicios de turismo aventura",
   "revision": "aprobada"
  },
+ "17567-11": {
+  "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "el fondo de la Ley Ricarte Soto",
+  "revision": "pendiente"
+ },
  "17637-07": {
   "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
   "nivel": "completa",
@@ -97,12 +118,26 @@
   "materia": "la rotulación y el etiquetado del jurel",
   "revision": "pendiente"
  },
+ "17877-33": {
+  "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "los servicios sanitarios rurales",
+  "revision": "pendiente"
+ },
  "17914-13": {
   "sintesis": "Busca que usar mal una licencia médica sea una falta de probidad que permite despedir al trabajador. La Cámara lo aprobó; ahora lo revisa la Comisión de Trabajo del Senado.",
   "nivel": "completa",
   "publicado": "2026-10-31",
   "materia": "el uso indebido de licencias médicas como causal de despido",
   "revision": "aprobada"
+ },
+ "17974-15": {
+  "sintesis": "Modifica la ley de radios comunitarias para que puedan emitir publicidad y tener más potencia. Está en primer trámite en el Senado, en la Comisión de Transportes y Telecomunicaciones.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "las radios comunitarias",
+  "revision": "pendiente"
  },
  "18155-25": {
   "sintesis": "Sube las penas de delitos contra la comunidad educativa y de delitos contra la propiedad en colegios. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
@@ -112,10 +147,10 @@
   "revision": "pendiente"
  },
  "18208-25": {
-  "sintesis": "Permite seguir el juicio oral y dictar sentencia cuando el acusado no se presenta sin razón válida. El Senado lo aprobó; ahora lo estudia la Comisión de Seguridad Ciudadana de la Cámara.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "el juicio oral en ausencia del acusado",
+  "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "el juicio oral cuando el acusado no comparece",
   "revision": "pendiente"
  },
  "18211-25": {
@@ -139,11 +174,18 @@
   "materia": "las sanciones a las denuncias y querellas falsas",
   "revision": "pendiente"
  },
+ "18255-31": {
+  "sintesis": "Crea un beneficio que devuelve el IVA de pañales y medicamentos de uso permanente a los hogares del 80 por ciento más vulnerable. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "la devolución del IVA de pañales y medicamentos",
+  "revision": "pendiente"
+ },
  "18258-07": {
-  "sintesis": "Permite que militares hagan controles de identidad, registros y detenciones en flagrancia durante estados de emergencia o catástrofe. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "el control de identidad por las Fuerzas Armadas en estados de excepción",
+  "sintesis": "Permite a las Fuerzas Armadas hacer controles de identidad y detenciones en flagrancia durante los estados de emergencia y catástrofe. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "los controles de identidad de las Fuerzas Armadas en estados de excepción",
   "revision": "pendiente"
  },
  "18314-07": {
@@ -154,9 +196,9 @@
   "revision": "pendiente"
  },
  "18341-25": {
-  "sintesis": "Crea un registro de personas condenadas por actos vandálicos e incivilidades, que pierden por un tiempo beneficios del Estado. La comisión lo despachó; ahora va a Hacienda.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
+  "sintesis": "Crea un registro de actos vandálicos e incivilidades, con restricciones temporales a beneficios del Estado. Está en primer trámite en la Cámara, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
   "materia": "el registro de actos vandálicos e incivilidades",
   "revision": "pendiente"
  },
@@ -165,6 +207,13 @@
   "nivel": "completa",
   "publicado": "2026-11-01",
   "materia": "el régimen de exclusiva confianza en la Contraloría",
+  "revision": "pendiente"
+ },
+ "18420-25": {
+  "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "la seguridad portuaria frente al crimen organizado",
   "revision": "pendiente"
  },
  "18436-15": {
@@ -179,6 +228,20 @@
   "nivel": "completa",
   "publicado": "2026-11-01",
   "materia": "los procedimientos de evaluación médica que fundamentan retiros en Carabineros",
+  "revision": "pendiente"
+ },
+ "18464-14": {
+  "sintesis": "Crea un procedimiento más rápido para regularizar la posesión de viviendas de personas afectadas por sismos y otras catástrofes. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "la regularización de propiedades tras catástrofes",
+  "revision": "pendiente"
+ },
+ "18478-13": {
+  "sintesis": "Amplía los plazos para distribuir la jornada de trabajo y crea un régimen especial para el turismo. Está en primer trámite en la Cámara, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "la adaptabilidad de la jornada de trabajo y el régimen del turismo",
   "revision": "pendiente"
  },
  "18509-35": {
@@ -256,6 +319,20 @@
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "el procedimiento de la rebaja de condena por comportamiento sobresaliente",
+  "revision": "pendiente"
+ },
+ "18821-08": {
+  "sintesis": "Facilita la conexión de cargadores de vehículos eléctricos a la red y su acceso a precios libres de energía. Está en primer trámite en el Senado, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "la conexión de cargadores de vehículos eléctricos",
+  "revision": "pendiente"
+ },
+ "8654-15": {
+  "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
+  "nivel": "basica",
+  "publicado": "2026-11-11",
+  "materia": "el autocontrol de pesaje de los vehículos de carga",
   "revision": "pendiente"
  }
 }
