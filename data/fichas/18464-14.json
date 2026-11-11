@@ -69,7 +69,7 @@
     ],
     "costo": [
       {
-        "texto": "No hay informe financiero entre los documentos revisados. Su costo fiscal queda como dato pendiente.",
+        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
         "fuentes": [],
         "pendiente": true
       }
@@ -138,6 +138,6 @@
   ],
   "consultado": "2026-11-11",
   "publicado": "2026-11-11",
-  "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "estado_revision": "aprobada",
+  "revision": "Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-11, con lista de verificación."
 }
