@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T18:20-03:00",
+ "actualizado": "2026-11-10T21:20-03:00",
  "conteos": {
   "urgencias_vigentes": 47,
   "discusion_inmediata": 11,
-  "vencen_7_dias": 13,
-  "citaciones_7_dias": 20
+  "vencen_7_dias": 21,
+  "citaciones_7_dias": 11
  },
  "proximos_vencimientos": [
   {
@@ -60,174 +60,6 @@
  ],
  "agenda": [
   {
-   "fecha": "2026-11-10",
-   "hora": "09:30",
-   "camara": "Senado",
-   "organo": "Comisión de Economía",
-   "proyectos": [
-    {
-     "boletin": "17163-03",
-     "titulo": "Modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en servicios de turismo aventura",
-     "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/17163-03.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "09:30",
-   "camara": "Senado",
-   "organo": "Comisión de Salud",
-   "proyectos": [
-    {
-     "boletin": "15047-11",
-     "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/15047-11.html"
-    },
-    {
-     "boletin": "17567-11",
-     "titulo": "Optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17567-11.html"
-    },
-    {
-     "boletin": "17678-11",
-     "titulo": "Modifica el periodo de carencia del subsidio de incapacidad laboral por accidente o enfermedad común, introduce modificaciones en su aplicación al sector público, fortalece las facultades de las Comisiones de Medicina Preventiva e Invalidez, y modifica las normas que indica",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17678-11.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Seguridad Pública",
-   "proyectos": [
-    {
-     "boletin": "18707-07",
-     "titulo": "Prohíbe la concesión de penas sustitutivas a las privativas o restrictivas de libertad respecto de los delitos que indica, con el objeto de asegurar el cumplimiento efectivo de las condenas",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/18707-07.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "11:15",
-   "camara": "Senado",
-   "organo": "Comisión de Familia, Infancia y Adolescencia",
-   "proyectos": [
-    {
-     "boletin": "17738-36",
-     "titulo": "Dispone una regulación aplicable a los establecimientos de corta estadía, con el objeto de prevenir actos constitutivos de explotación sexual de menores de edad",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17738-36.html"
-    },
-    {
-     "boletin": "18255-31",
-     "titulo": "Establece un beneficio de compensación por la compra de pañales y de medicamentos",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/18255-31.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "11:30",
-   "camara": "Senado",
-   "organo": "Comisión de Hacienda",
-   "proyectos": [
-    {
-     "boletin": "16391-01",
-     "titulo": "Establece un Sistema de Incentivos para la Gestión Sostenible de Suelos Agropecuarios (SIGESS)",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/16391-01.html"
-    },
-    {
-     "boletin": "18643-05",
-     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
-     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
-     "url": "https://urgenciaskast.cl/p/18643-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "proyectos": [
-    {
-     "boletin": "12213-07",
-     "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/12213-07.html"
-    },
-    {
-     "boletin": "2765-05",
-     "titulo": "",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/2765-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Defensa Nacional",
-   "proyectos": [
-    {
-     "boletin": "16143-02",
-     "titulo": "Para la protección de la infraestructura crítica del país",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/16143-02.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
-   "proyectos": [
-    {
-     "boletin": "16553-12",
-     "titulo": "Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/16553-12.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "15:00",
-   "camara": "Senado",
-   "organo": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
-   "proyectos": [
-    {
-     "boletin": "17196-17",
-     "titulo": "Modifica la ley N° 18.046, Ley sobre Sociedades Anónimas, con el objeto de establecer obligaciones para promover la protección de derechos humanos, a las personas jurídicas que indica.",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17196-17.html"
-    },
-    {
-     "boletin": "17446-17",
-     "titulo": "Establece y regula la debida diligencia de las empresas en el respeto a los derechos humanos, el medio ambiente y el cambio climático",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17446-17.html"
-    },
-    {
-     "boletin": "17852-17",
-     "titulo": "Regula las modalidades de financiamiento de los sitios de memoria y modifica la ley N° 17.288, sobre Monumentos Nacionales, del modo que indica",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17852-17.html"
-    }
-   ]
-  },
-  {
    "fecha": "2026-11-11",
    "hora": "09:30",
    "camara": "Senado",
@@ -274,9 +106,127 @@
      "url": "https://urgenciaskast.cl/p/18436-15.html"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "10:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "proyectos": [
+    {
+     "boletin": "18643-05",
+     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18643-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "proyectos": [
+    {
+     "boletin": "18779-07",
+     "titulo": "Proyecto de ley que interpreta y modifica la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena por delitos sexuales cometidos contra menores de edad",
+     "sintesis": "Interpreta que la exclusión de la rebaja de condena por delitos sexuales contra menores rige desde 2022 y elimina una excepción para delitos futuros. Está en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18779-07.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
+   "proyectos": [
+    {
+     "boletin": "18420-25",
+     "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18420-25.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Seguridad Pública",
+   "proyectos": [
+    {
+     "boletin": "18881-25",
+     "titulo": "Deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18881-25.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Obras Públicas",
+   "proyectos": [
+    {
+     "boletin": "8654-15",
+     "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/8654-15.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Trabajo y Previsión Social",
+   "proyectos": [
+    {
+     "boletin": "11929-13",
+     "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/11929-13.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión del Adulto Mayor y Discapacidad",
+   "proyectos": [
+    {
+     "boletin": "14744-35",
+     "titulo": "Modifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/14744-35.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Economía",
+   "proyectos": [
+    {
+     "boletin": "14838-03",
+     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/14838-03.html"
+    }
+   ]
   }
  ],
  "fichas_recientes": [
+  {
+   "boletin": "18436-15",
+   "sintesis": "Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.",
+   "publicado": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/18436-15.html"
+  },
   {
    "boletin": "14782-13",
    "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
@@ -306,12 +256,6 @@
    "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
    "publicado": "2026-11-10",
    "url": "https://urgenciaskast.cl/p/17163-03.html"
-  },
-  {
-   "boletin": "18211-25",
-   "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
-   "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/18211-25.html"
   }
  ],
  "analisis": [
