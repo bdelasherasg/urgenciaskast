@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-11T03:21-03:00",
+ "actualizado": "2026-11-11T06:29-03:00",
  "desde": "2026-11-11",
  "hasta": "2026-11-24",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-11T06:21",
+   "consultado": "2026-11-11T09:29",
    "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -272,12 +272,6 @@
   }
  ],
  "probables": [
-  {
-   "boletin": "18189-14",
-   "vence": "2026-11-11",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
   {
    "boletin": "16335-14",
    "vence": "2026-11-12",
