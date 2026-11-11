@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "boletin": "16143-02",
+  "nivel": "basica",
+  "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
+  "materia": "la protección de la infraestructura crítica",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que la Constitución permite usar las Fuerzas Armadas para proteger infraestructura crítica, pero falta una ley que lo regule.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Indica que hoy solo las telecomunicaciones tienen una regulación sectorial.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone un proyecto de 31 artículos agrupados en seis títulos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea un catálogo nacional de infraestructura crítica, un plan nacional y planes regionales de protección.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cada operador del catálogo debe presentar su propio plan de protección.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea criterios de criticidad e impacto para valorar cada infraestructura.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Define atribuciones y deberes de las Fuerzas Armadas en caso de despliegue.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los operadores de infraestructura crítica, públicos y privados, y a los ministerios que deben coordinarse.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Hacienda informó que las nuevas funciones se cubren con los recursos actuales de los ministerios y las Fuerzas Armadas, sin mayor gasto fiscal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de Defensa aprobó el proyecto en general por 3 votos a favor y una abstención.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Hoy está en el segundo informe de esa comisión.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Se abrió un nuevo plazo para indicaciones, que cerró el 4 de septiembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El gobierno hizo presente la urgencia suma el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 16.143-02 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16691&tipodoc=mensaje_mocion",
+      "fecha": "2023-08-02",
+      "nota": "Antecedentes y contenido."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, informe de la Comisión de Defensa Nacional (19 de junio de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26558&tipodoc=info",
+      "fecha": "2024-06-19",
+      "nota": "Votación en general."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe financiero 216 (4 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37422&tipodoc=ofic",
+      "fecha": "2026-09-04",
+      "nota": "Efecto fiscal."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 16.143-02",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16143",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
