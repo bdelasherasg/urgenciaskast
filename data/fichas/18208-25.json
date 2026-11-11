@@ -1,26 +1,19 @@
 {
   "version": 2,
   "boletin": "18208-25",
-  "nivel": "completa",
-  "sintesis": "Permite seguir el juicio oral y dictar sentencia cuando el acusado no se presenta sin razón válida. El Senado lo aprobó; ahora lo estudia la Comisión de Seguridad Ciudadana de la Cámara.",
-  "materia": "el juicio oral en ausencia del acusado",
+  "nivel": "basica",
+  "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia suma.",
+  "materia": "el juicio oral cuando el acusado no comparece",
   "resumen": {
     "problema": [
       {
-        "texto": "Hoy, si el acusado no llega al juicio, el tribunal lo declara rebelde y suspende la causa.",
+        "texto": "El mensaje dice que hoy, si el acusado no llega y es declarado rebelde, el tribunal debe suspender el caso.",
         "fuentes": [
-          "f4"
+          "f1"
         ]
       },
       {
-        "texto": "El gobierno dice que así la causa puede quedar detenida sin plazo.",
-        "fuentes": [
-          "f1",
-          "f4"
-        ]
-      },
-      {
-        "texto": "Advierte riesgo de prescripción, es decir, que el delito ya no se pueda juzgar.",
+        "texto": "Afirma que eso paraliza el proceso sin límite y deja a las víctimas sin sentencia.",
         "fuentes": [
           "f1"
         ]
@@ -28,225 +21,106 @@
     ],
     "propone": [
       {
-        "texto": "Permite seguir el juicio sin el acusado y dictar sentencia.",
+        "texto": "El texto del Senado permite que el tribunal haga el juicio sin el acusado, de oficio o a petición de parte.",
         "fuentes": [
-          "f1",
-          "f4"
-        ]
-      },
-      {
-        "texto": "El acusado debe estar notificado, advertido, declarado rebelde y con defensor.",
-        "fuentes": [
-          "f1",
-          "f2",
           "f3"
         ]
       },
       {
-        "texto": "En el texto original, la pena pedida no podía pasar de cinco años.",
+        "texto": "Esto exige que la pena pedida no pase de veinte años y que el acusado tenga defensa.",
         "fuentes": [
-          "f1",
-          "f2"
+          "f3"
         ]
       },
       {
-        "texto": "La sentencia admite un recurso de nulidad, que pide anular el juicio.",
+        "texto": "Se debe advertir al acusado que, si no comparece, el juicio puede hacerse sin él.",
         "fuentes": [
-          "f1"
+          "f3"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Cambia el Código Procesal Penal, que regula los juicios por delitos.",
+        "texto": "Modifica el Código Procesal Penal, entre otros sus artículos 101, 252 y 285.",
         "fuentes": [
-          "f1"
+          "f3"
         ]
       },
       {
-        "texto": "Agrega un artículo 285 bis y limita la suspensión de causas.",
+        "texto": "Agrega un artículo 285 bis sobre el juicio en ausencia.",
         "fuentes": [
-          "f1"
+          "f3"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a los acusados que no van a su juicio sin razón válida.",
+        "texto": "Afecta a acusados que no comparecen, a sus defensas y a las víctimas.",
         "fuentes": [
-          "f4"
-        ]
-      },
-      {
-        "texto": "Da a las policías y a la Fiscalía medios para hallar a quien sea condenado en ausencia.",
-        "fuentes": [
+          "f1",
           "f3"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "No pudimos revisar el informe financiero de la Dirección de Presupuestos.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "No hay informe financiero entre los documentos revisados. La comisión de la Cámara dejó constancia de que ninguna norma es de competencia de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "estado": [
       {
-        "texto": "El Senado lo aprobó en general el 23 de septiembre de 2026, por 29 votos contra 2.",
+        "texto": "El Senado aprobó el proyecto y lo envió a la Cámara el 29 de septiembre de 2026.",
         "fuentes": [
-          "f3"
+          "f3",
+          "f4"
         ]
       },
       {
-        "texto": "El 29 de septiembre lo despachó a la Cámara.",
+        "texto": "La Comisión de Seguridad Ciudadana de la Cámara lo aprobó en general por mayoría, sin votos en contra.",
         "fuentes": [
-          "f4",
-          "f6"
-        ]
-      },
-      {
-        "texto": "Desde el 30 de septiembre lo estudia la Comisión de Seguridad Ciudadana.",
-        "fuentes": [
-          "f7"
-        ]
-      },
-      {
-        "texto": "Tiene urgencia suma, que pide despacharlo en 15 días.",
-        "fuentes": [
-          "f7"
+          "f2"
         ]
       }
     ]
   },
   "posiciones": [],
-  "posiciones_sin_registro": "En las fuentes revisadas entre abril y octubre de 2026 no encontramos declaraciones de organizaciones sobre este proyecto: ni colegios profesionales, ni asociaciones de fiscales o defensores, ni centros de estudio, ni organizaciones de víctimas. Los pronunciamientos hallados son de órganos del Estado y de académicos a título personal, que esta ficha no registra como posiciones.",
-  "encuadre": {
-    "intro": "Esta es una lectura exploratoria sobre pocas notas de prensa. En ellas aparecen dos maneras de presentar el proyecto.",
-    "marcos": [
-      {
-        "titulo": "Juicios que no se detengan",
-        "quienes": "Gobierno y parlamentarios que apoyaron la idea de legislar",
-        "problema": "La ausencia del acusado puede detener una causa sin plazo.",
-        "problema_fuentes": [
-          "f1",
-          "f4"
-        ],
-        "causa": "Las reglas actuales obligan a suspender la causa cuando el acusado es declarado rebelde.",
-        "causa_fuentes": [
-          "f4"
-        ],
-        "solucion": "Seguir el juicio sin el acusado, con defensor presente y advertencia previa.",
-        "solucion_fuentes": [
-          "f1",
-          "f3"
-        ],
-        "palabras": [
-          "paralización indefinida",
-          "impunidad",
-          "celeridad",
-          "incentivo perverso"
-        ]
-      },
-      {
-        "titulo": "Las garantías del acusado",
-        "quienes": "Académicos y parlamentarios con reparos sobre el debido proceso",
-        "problema": "Juzgar sin el acusado puede debilitar su derecho a defenderse en persona.",
-        "problema_fuentes": [
-          "f5"
-        ],
-        "causa": "El proyecto da más peso a la eficacia del sistema que al juicio entre partes ante el juez.",
-        "causa_fuentes": [
-          "f5"
-        ],
-        "solucion": "Revisar con detención si se justifica el cambio y analizar las observaciones de la Corte Suprema.",
-        "solucion_fuentes": [
-          "f5",
-          "f3"
-        ],
-        "palabras": [
-          "debido proceso",
-          "garantías",
-          "defensa material",
-          "inmediación"
-        ]
-      }
-    ],
-    "disputa": {
-      "palabra": "defensa",
-      "oraciones": [
-        {
-          "texto": "El proyecto permite seguir el juicio si el abogado defensor está presente.",
-          "fuentes": [
-            "f1"
-          ]
-        },
-        {
-          "texto": "Para un académico de la Universidad Alberto Hurtado, el abogado no reemplaza la defensa que hace el propio acusado.",
-          "fuentes": [
-            "f5"
-          ]
-        },
-        {
-          "texto": "La palabra tiene dos sentidos en este debate, y cada lado usa el suyo.",
-          "fuentes": []
-        }
-      ]
-    }
-  },
+  "posiciones_sin_registro": "",
+  "encuadre": {},
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "DOE Actualidad Jurídica, «Gobierno ingresa proyecto que permite continuar juicio pese a ausencia del acusado»",
-      "url": "https://actualidadjuridica.doe.cl/gobierno-ingresa-proyecto-que-permite-continuar-juicio-pese-a-ausencia-del-acusado/",
-      "fecha": "22 de abril de 2026",
-      "nota": "Fundamentos y contenido del mensaje: requisitos, tope de pena, recurso de nulidad, artículo 285 bis."
+      "titulo": "Senado, mensaje del boletín 18.208-25 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18863&tipodoc=mensaje_mocion",
+      "fecha": "2026-04-20",
+      "nota": "Fundamentos del proyecto."
     },
     {
       "id": "f2",
-      "titulo": "Poder Judicial, nota sobre el informe de la Corte Suprema al proyecto de juicio en ausencia",
-      "url": "https://www.pjud.cl/prensa-y-comunicaciones/noticias-del-poder-judicial/145309",
-      "fecha": "25 de mayo de 2026",
-      "nota": "Resguardos del proyecto, entre ellos la defensa técnica y el límite de pena de cinco años."
+      "titulo": "Cámara, informe de la Comisión de Seguridad Ciudadana (9 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28374&tipodoc=info",
+      "fecha": "2026-11-09",
+      "nota": "Votación en general y competencia de Hacienda."
     },
     {
       "id": "f3",
-      "titulo": "G5 Noticias, nota sobre la aprobación en general en el Senado",
-      "url": "https://g5noticias.cl/?p=913864",
-      "fecha": "23 de septiembre de 2026",
-      "nota": "Votación en general (29 a 2), requisitos y herramientas para policías y Ministerio Público; argumentos del debate."
+      "titulo": "Oficio 304/SEC/26 del Senado a la Cámara (29 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37262&tipodoc=ofic",
+      "fecha": "2026-09-29",
+      "nota": "Texto aprobado por el Senado."
     },
     {
       "id": "f4",
-      "titulo": "Emol, «Senado despacha proyecto de juicios orales»",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/29/1212772/senado-despacha-proyecto-juicios-orales.html",
-      "fecha": "29 de septiembre de 2026",
-      "nota": "Reglas actuales (rebeldía y sobreseimiento temporal), despacho a la Cámara y declaraciones del ministro de Justicia."
-    },
-    {
-      "id": "f5",
-      "titulo": "Leonel González Postigo (Universidad Alberto Hurtado), «Juicio en ausencia: una revisión del proyecto del Poder Ejecutivo», El Mercurio",
-      "url": "https://derecho.uahurtado.cl/web2021/wp-content/uploads/2026/05/Juicio-en-ausencia_-una-revision-del-proyecto-del-Poder-Ejecutivo.pdf",
-      "fecha": "11 de mayo de 2026",
-      "nota": "Columna de opinión a título personal. Plazo máximo de 90 días del recurso de nulidad; crítica sobre defensa material."
-    },
-    {
-      "id": "f6",
-      "titulo": "Senado, ficha de tramitación del boletín 18208-25",
-      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18208-25",
-      "fecha": "Consulta automática (urgencias.json)",
-      "nota": "Trámites y urgencias según urgencias.json; la página no se pudo abrir."
-    },
-    {
-      "id": "f7",
-      "titulo": "Cámara de Diputadas y Diputados, tramitación del boletín 18208-25",
-      "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18208-25",
-      "fecha": "Consulta automática (urgencias.json)",
-      "nota": "Trámites en la Cámara y urgencia vigente según urgencias.json; la página no se pudo abrir."
+      "titulo": "Senado, tramitación del boletín 18.208-25",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18208",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
     }
   ],
-  "consultado": "2026-10-30",
-  "publicado": "2026-10-30",
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
