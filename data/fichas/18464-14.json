@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "18464-14",
+  "nivel": "basica",
+  "sintesis": "Crea un procedimiento más rápido para regularizar la posesión de viviendas de personas afectadas por sismos y otras catástrofes. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
+  "materia": "la regularización de propiedades tras catástrofes",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que las catástrofes dejaron miles de hogares dañados y mostraron que muchos inmuebles tienen posesión irregular.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita los incendios de febrero de 2024 en Valparaíso y los de enero de 2026 en Ñuble, Biobío y La Araucanía.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone un procedimiento especial para regularizar la posesión de la pequeña propiedad raíz de personas damnificadas.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Concentra el trámite en dos fases, para acortar los plazos.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Permite que terceros se opongan en sede administrativa.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el decreto ley 2.695 de 1979 con un nuevo Título V.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Suma más avisos: Diario Oficial, carteles en los inmuebles y notificaciones a los conservadores de bienes raíces y al SII.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También fortalece los controles del procedimiento ordinario.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a personas damnificadas por sismos y otras catástrofes, y a terceros que pudieran tener derechos sobre el inmueble.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No hay informe financiero entre los documentos revisados. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto y lo envió al Senado el 2 de septiembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La Comisión de Medio Ambiente informó el 16 de octubre de 2026, y discutió solo en general.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El gobierno hizo presente la urgencia suma el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 18.464-14 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19146&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-15",
+      "nota": "Antecedentes."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, informe de la Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales (16 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28287&tipodoc=info",
+      "fecha": "2026-10-16",
+      "nota": "Objetivos del proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Texto del proyecto enviado por el Presidente (15 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36856&tipodoc=ofic",
+      "fecha": "2026-07-15",
+      "nota": "Contenido del proyecto."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 21.553 de la Cámara de Diputados (2 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37125&tipodoc=ofic",
+      "fecha": "2026-09-02",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, tramitación del boletín 18.464-14",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18464",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
