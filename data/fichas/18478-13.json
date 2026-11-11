@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "boletin": "18478-13",
+  "nivel": "basica",
+  "sintesis": "Amplía los plazos para distribuir la jornada de trabajo y crea un régimen especial para el turismo. Está en primer trámite en la Cámara, con urgencia suma.",
+  "materia": "la adaptabilidad de la jornada de trabajo y el régimen del turismo",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que el período de referencia de cuatro semanas es muy inferior al de la mayoría de los países de la OCDE, que ronda las dieciséis semanas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que el turismo tiene ciclos de alta actividad que duran varios meses.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone ampliar el período de referencia general de cuatro a dieciséis semanas.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Para el sector turismo y actividades conexas, lo amplía hasta cincuenta y dos semanas.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En ambos casos, rige el límite de 45 horas ordinarias por semana.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica los artículos 22, 22 bis, 32 y 38 del Código del Trabajo.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Exige un pacto por escrito y un calendario previo de distribución de la jornada.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Aumenta de ocho a doce los domingos consecutivos que se podrían trabajar una vez al año.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a trabajadores y empleadores con pactos de jornada, en especial del sector turismo.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No hay informe financiero entre los documentos revisados. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 21 de julio de 2026 y está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Está en la Comisión de Trabajo y Seguridad Social.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Después pasará a la Comisión de Economía y Turismo.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El gobierno renovó la urgencia suma el 2 de noviembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 18.478-13 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19161&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-21",
+      "nota": "Antecedentes."
+    },
+    {
+      "id": "f2",
+      "titulo": "Texto del mensaje 094-374 (oficio de la Cámara de Diputados)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36874&tipodoc=ofic",
+      "fecha": "2026-07-21",
+      "nota": "Contenido del proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 21.405 de la Cámara de Diputados (21 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36877&tipodoc=ofic",
+      "fecha": "2026-07-21",
+      "nota": "Comisiones que ven el proyecto."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 18.478-13",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18478",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
