@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "boletin": "17567-11",
+  "nivel": "basica",
+  "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "el fondo de la Ley Ricarte Soto",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que la Ley Ricarte Soto protege a pacientes con enfermedades de alto costo, pero su fondo necesita asegurar su viabilidad.",
+        "fuentes": [
+          "f1",
+          "f4"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La comisión de la Cámara indicó que busca modernizar y asegurar la sustentabilidad del sistema de protección financiera.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sube el aporte fiscal anual al fondo a 185.000 millones de pesos.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Sube de 80 a 90 por ciento el uso anual permitido del fondo.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley 20.850.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La revisión de los tratamientos cubiertos se haría cada año, sin depender de los recursos del fondo.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Subsecretaría de Salud Pública debería publicar las solicitudes ciudadanas evaluadas y las razones de las que excluyó.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a pacientes con diagnósticos y tratamientos de alto costo cubiertos por la ley.",
+        "fuentes": [
+          "f1",
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Hacienda estima un costo anual de 185.000 millones de pesos en aportes al fondo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Agrega hasta 26,7 millones al año por la dieta de los miembros de una comisión.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto en general y particular el 28 de enero de 2026.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Pasó a la Comisión de Salud del Senado y a la de Hacienda.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "El gobierno hizo presente la urgencia suma el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 17.567-11 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18212&tipodoc=mensaje_mocion",
+      "fecha": "2025-06-02",
+      "nota": "Antecedentes y fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, informe de la Comisión de Salud (2 de diciembre de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27746&tipodoc=info",
+      "fecha": "2025-12-02",
+      "nota": "Idea matriz del proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 21.039 de la Cámara de Diputados (28 de enero de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35835&tipodoc=ofic",
+      "fecha": "2026-01-28",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Informe financiero sustitutivo 31 (20 de enero de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35721&tipodoc=ofic",
+      "fecha": "2026-01-20",
+      "nota": "Costo fiscal."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, tramitación del boletín 17.567-11",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17567",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
