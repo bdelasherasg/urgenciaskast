@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-11T16:53-03:00",
+ "actualizado": "2026-11-11T16:59-03:00",
  "conteos": {
   "urgencias_vigentes": 47,
   "discusion_inmediata": 12,
   "vencen_7_dias": 21,
-  "citaciones_7_dias": 12
+  "citaciones_7_dias": 26
  },
  "proximos_vencimientos": [
   {
@@ -207,29 +207,47 @@
   },
   {
    "fecha": "2026-11-16",
-   "hora": "15:30",
-   "camara": "Senado",
-   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+   "hora": "14:20",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Futuro, Ciencias, Tecnología, Conocimiento e",
    "proyectos": [
     {
-     "boletin": "12712-24",
-     "titulo": "Ley de Patrimonio Cultural",
-     "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
-     "url": "https://urgenciaskast.cl/p/12712-24.html"
+     "boletin": "18224-18",
+     "titulo": "Establece un marco integral de protección de niñas, niños y adolescentes en el uso de redes sociales",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18224-18.html"
+    },
+    {
+     "boletin": "18246-18",
+     "titulo": "Protege a los menores de edad frente a la adicción a las nuevas tecnologías y prohíbe el acceso a redes sociales y otras plataformas",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18246-18.html"
+    },
+    {
+     "boletin": "18318-19",
+     "titulo": "Establece un estatuto de responsabilidad algorítmica y protección digital de niños, niñas y adolescentes",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18318-19.html"
+    },
+    {
+     "boletin": "18415-18",
+     "titulo": "Modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18415-18.html"
     }
    ]
   },
   {
    "fecha": "2026-11-16",
-   "hora": "17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Economía",
+   "hora": "14:50",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Cultura, Artes y Comunicaciones",
    "proyectos": [
     {
-     "boletin": "14838-03",
-     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
+     "boletin": "18622-24",
+     "titulo": "Establece requisitos de elegibilidad para el acceso a fondos públicos destinados a actividades culturales y artísticas",
      "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/14838-03.html"
+     "url": "https://urgenciaskast.cl/p/18622-24.html"
     }
    ]
   }
