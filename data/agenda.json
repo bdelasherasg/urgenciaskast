@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-11T06:36-03:00",
+ "actualizado": "2026-11-11T14:11-03:00",
  "desde": "2026-11-11",
  "hasta": "2026-11-24",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-11T09:36",
-   "citaciones": 17,
+   "consultado": "2026-11-11T17:10",
+   "citaciones": 18,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -187,18 +187,15 @@
   },
   {
    "fecha": "2026-11-11",
-   "hora": "12:30",
-   "horario": "12:30 a 14:00",
+   "hora": "14:30",
+   "horario": "14:30 a 15:00",
    "camara": "Senado",
-   "organo": "Comisión del Adulto Mayor y Discapacidad",
-   "lugar": "Sala N° 2 tercer piso, Senado Valparaíso.",
+   "organo": "Comisión de Régimen Interior",
+   "lugar": "Sala de Reuniones de la Presidencia, Valparaíso",
    "materias": [
-    "1.- ( Bol.N° 14744-35 ) Iniciar el estudio del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley.",
-    "A esta sesión han sido invitados el Director Nacional (S) del Servicio Nacional de la Discapacidad SENADIS, señor Jorge Juárez; el Director Nacional del Instituto de Previsión Social IPS, señor Juan José Cárcamo y la Presidenta de Fundación Matías, señora Edith Espinosa."
+    "1.- Tratar asuntos propios de su competencia"
    ],
-   "boletines": [
-    "14744-35"
-   ],
+   "boletines": [],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   },
@@ -211,9 +208,27 @@
    "lugar": "Sala 11, Valparaíso.",
    "materias": [
     "1.- Analizar la situación presupuestaria de las universidades del Estado, de las regiones extremas del norte y sur del país.",
-    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes."
+    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
    ],
    "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:30",
+   "horario": "15:30 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+   "lugar": "Salón de Los Presidentes, Santiago",
+   "materias": [
+    "1.- ( Bol.N° 12712-24 ) Continuar la discusión en particular del proyecto de ley, en segundo trámite constitucional, de Patrimonio Cultural (Boletín N° 12.712-24)."
+   ],
+   "boletines": [
+    "12712-24"
+   ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   },
@@ -291,12 +306,6 @@
    "camara": "Cámara de Diputados"
   },
   {
-   "boletin": "18623-07",
-   "vence": "2026-11-15",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
    "boletin": "16300-07",
    "vence": "2026-11-16",
    "tipo": "Discusión inmediata",
@@ -351,7 +360,19 @@
    "camara": "Cámara de Diputados"
   },
   {
+   "boletin": "18331-17",
+   "vence": "2026-11-17",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
    "boletin": "18341-25",
+   "vence": "2026-11-17",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18434-07",
    "vence": "2026-11-17",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -367,6 +388,12 @@
    "vence": "2026-11-17",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18623-07",
+   "vence": "2026-11-17",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
   },
   {
    "boletin": "18754-17",
@@ -518,80 +545,6 @@
     "mixta": false
    },
    "dias_tramite": 3037
-  },
-  "14744-35": {
-   "boletin": "14744-35",
-   "titulo": "Modifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley",
-   "fecha_ingreso": "2021-12-09",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión del Adulto Mayor y Discapacidad",
-   "estado": "En tramitación",
-   "urgencias": [],
-   "tramites": [
-    {
-     "fecha": "2021-12-09",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2021-12-14",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Personas Mayores y Discapacidad",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2023-10-16",
-     "descripcion": "Primer informe de comisión de Personas Mayores y Discapacidad.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2023-10-17",
-     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2024-03-12",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2024-03-12",
-     "descripcion": "Oficio de ley a Cámara Revisora .  Oficio N° 19273. Comunica al Senado que la Cámara de Diputados ha aprobado el proyecto de ley.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2024-03-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión del Adulto Mayor y Discapacidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=14744-35",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=14744-35",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15230&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
-   },
-   "dias_tramite": 1798
   },
   "14838-03": {
    "boletin": "14838-03",
