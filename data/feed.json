@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-10T21:20-03:00",
+ "actualizado": "2026-11-11T03:21-03:00",
  "conteos": {
   "urgencias_vigentes": 47,
   "discusion_inmediata": 11,
@@ -222,6 +222,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "17163-03",
+   "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
+   "publicado": "2026-11-11",
+   "url": "https://urgenciaskast.cl/p/17163-03.html"
+  },
+  {
    "boletin": "18436-15",
    "sintesis": "Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.",
    "publicado": "2026-11-11",
@@ -250,12 +256,6 @@
    "sintesis": "Facilita crear colegios que reciben subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. La Cámara lo modificó; el Senado revisa los cambios.",
    "publicado": "2026-11-10",
    "url": "https://urgenciaskast.cl/p/16743-04.html"
-  },
-  {
-   "boletin": "17163-03",
-   "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
-   "publicado": "2026-11-10",
-   "url": "https://urgenciaskast.cl/p/17163-03.html"
   }
  ],
  "analisis": [
