@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "boletin": "11929-13",
+  "nivel": "basica",
+  "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
+  "materia": "la creación del contrato por horas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la jornada laboral del Código del Trabajo es rígida y deja poco espacio para el acuerdo entre las partes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que esa rigidez lleva a trabajar de manera informal, con menos protección.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone un contrato por horas, dentro de la jornada parcial.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las horas no pueden pasar de treinta a la semana ni de ciento veinte al mes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El aviso del turno no puede darse con menos de 24 horas de anticipación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo 40 ter al Código del Trabajo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si el empleador no usa todas las horas pactadas, el trabajador conserva el pago de tres cuartas partes de ellas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si el empleador incumple las normas, se presume una jornada completa.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a trabajadores y empleadores que pacten esta modalidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 19 de julio de 2018 y está en primer trámite en el Senado.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Espera el primer informe de la Comisión de Trabajo y Previsión Social.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El gobierno hizo presente la urgencia simple el 27 de octubre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 11.929-13 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=12452&tipodoc=mensaje_mocion",
+      "fecha": "2018-07-19",
+      "nota": "Fundamentos y articulado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 11.929-13",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=11929",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
