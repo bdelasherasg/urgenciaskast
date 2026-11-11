@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "boletin": "17974-15",
+  "nivel": "basica",
+  "sintesis": "Modifica la ley de radios comunitarias para que puedan emitir publicidad y tener más potencia. Está en primer trámite en el Senado, en la Comisión de Transportes y Telecomunicaciones.",
+  "materia": "las radios comunitarias",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley de 2010 limita el financiamiento y la cobertura de las radios comunitarias.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que hoy solo pueden emitir saludos o agradecimientos a comercios, y no publicidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Indica que su potencia máxima de 25 watts no les permite cubrir una comuna completa.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que las radios puedan emitir toda clase de publicidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone que su potencia se defina por un radio de cinco kilómetros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Elimina la prohibición de propaganda política que hoy tiene la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica los artículos 3, 4 y 13 de la ley 20.433.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En el resto del país, las radios usarían la banda entre 106,1 y 107,9 MHz.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las concesiones vigentes podrían pedir adecuar su potencia sin costo adicional.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las organizaciones sin fines de lucro que operan radios comunitarias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No hay informe financiero entre los documentos revisados. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 20 de noviembre de 2025 y está en primer trámite en el Senado.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en la Comisión de Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El gobierno renovó la urgencia simple el 6 de octubre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 17.974-15 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18631&tipodoc=mensaje_mocion",
+      "fecha": "2025-11-20",
+      "nota": "Exposición de motivos y articulado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 17.974-15",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17974",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
