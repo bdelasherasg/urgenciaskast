@@ -1,0 +1,139 @@
+{
+  "version": 2,
+  "boletin": "17877-33",
+  "nivel": "basica",
+  "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
+  "materia": "los servicios sanitarios rurales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que la ley 20.998 no se pudo aplicar bien en los comités y cooperativas de agua potable rural.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Indica que no se formó el registro de operadores y por eso no comenzó el primer proceso de tarifas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone modernizar el régimen de estos servicios y mantener su carácter comunitario y sin fines de lucro.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Reconoce a los comités y cooperativas como titulares de sus licencias por el solo efecto de la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Obliga al Ministerio de Obras Públicas a formular una política nacional de servicios sanitarios rurales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es un artículo único que modifica la ley 20.998.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Las indicaciones del gobierno agregan un decreto de reconocimiento de licencias y una cuenta única de cobro.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a comités, cooperativas, municipalidades, usuarios y socios de los servicios de agua potable rural.",
+        "fuentes": [
+          "f1",
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Hacienda informó que las indicaciones, por ser normativas, no causan mayor gasto fiscal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La comisión aprobó el proyecto en general, por 4 votos a favor y ninguno en contra.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en el segundo informe de la Comisión de Recursos Hídricos.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "El gobierno renovó la urgencia simple el 28 de octubre de 2026.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 17.877-33 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18533&tipodoc=mensaje_mocion",
+      "fecha": "2025-10-01",
+      "nota": "Fundamentos y contenido."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, informe de la Comisión de Recursos Hídricos, Desertificación y Sequía (26 de noviembre de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27684&tipodoc=info",
+      "fecha": "2025-11-26",
+      "nota": "Objetivo y votación en general."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe financiero complementario 212 (1 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37205&tipodoc=ofic",
+      "fecha": "2026-09-01",
+      "nota": "Indicaciones y efecto fiscal."
+    },
+    {
+      "id": "f4",
+      "titulo": "Informe financiero complementario 169 (15 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36872&tipodoc=ofic",
+      "fecha": "2026-07-20",
+      "nota": "Indicaciones."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, tramitación del boletín 17.877-33",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17877",
+      "fecha": "2026-11-10",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
