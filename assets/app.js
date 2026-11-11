@@ -587,6 +587,7 @@
         }).join('') +
         citas.map(function (s) { return '<li class="proximo"><time>' + esc(fCorta(s.fecha)) + (s.hora ? ' · ' + esc(s.hora) : '') + '</time><b>Citado: ' + esc(s.organo) + ', ' + esc(camaraCorta(s.camara)) + '</b><span class="exp">Según la ' + t('citacion', 'citación') + ' publicada.</span></li>'; }).join('') +
         '</ol>' +
+        resultadosCamara(p.boletin) +
         masCta('Cada hito de la tramitación es una oportunidad para comunicar una posición clara. Lo Común diseña las piezas para cada uno, con frases y cuñas listas para usar.') +
         '</div></article>');
     }
@@ -697,14 +698,31 @@
       });
   }
 
+  /* ---------- resultados de comisiones de la Cámara ---------- */
+  // Los carga el equipo desde la página de resultados de camara.cl (data/resultados_camara.json).
+  var RESULTADOS = [];
+  function resultadosCamara(boletin) {
+    var lista = RESULTADOS.filter(function (x) { return (x.boletines || []).indexOf(boletin) >= 0; })
+      .sort(function (a, b) { return (b.fecha + (b.hora || '')).localeCompare(a.fecha + (a.hora || '')); }).slice(0, 12);
+    if (!lista.length) return '';
+    return '<h3>Qué pasó en las comisiones de la Cámara</h3>' +
+      '<p>Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.</p>' +
+      '<div class="tabla-caja"><table><thead><tr><th>Fecha</th><th>Comisión</th><th>Resultado</th></tr></thead><tbody>' +
+      lista.map(function (x) {
+        return '<tr><td>' + esc(fCorta(x.fecha)) + '</td><td>' + esc(String(x.organo || '').replace(/^Comisión de /, '')) + '</td><td><b>' + esc(x.hito || '') + '.</b> ' + esc(x.resultado || '') + '</td></tr>';
+      }).join('') + '</tbody></table></div>';
+  }
+
   /* ---------- arranque ---------- */
   document.addEventListener('DOMContentLoaded', function () {
     iniciarGlosario();
     document.querySelectorAll('[data-correo]').forEach(function (x) { x.textContent = CFG.correo || ''; });
     var pagina = document.body.getAttribute('data-pagina');
     if (['portada', 'ficha', 'agenda'].indexOf(pagina) === -1) return;
-    Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json')]).then(function (r) {
+    Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json'),
+      pagina === 'ficha' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null)]).then(function (r) {
       var U = r[0], A = r[1], IDX = r[2] || {};
+      RESULTADOS = (r[3] && r[3].resultados) || [];
       if (pagina === 'portada') { portada(U, A, IDX); loComun(); }
       else if (pagina === 'agenda') agenda(U, A, IDX);
       else ficha(U, A, IDX);
