@@ -1,0 +1,126 @@
+{
+  "version": 2,
+  "boletin": "8654-15",
+  "nivel": "basica",
+  "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
+  "materia": "el autocontrol de pesaje de los vehículos de carga",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que el sobrepeso de los camiones daña gravemente los caminos públicos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Indica que la definición de empresa generadora de carga deja fuera a puertos y aeropuertos, y que no hay sanciones por no tener pesaje.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone fortalecer el sistema por el cual las empresas pesan los camiones en sus puntos de embarque y recepción.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Busca que los transportistas cumplan mejor las normas de peso.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley orgánica del Ministerio de Obras Públicas en las reglas de control de peso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las indicaciones del Ejecutivo suben las multas y precisan el registro en línea de entrada y salida de camiones.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También reparten la responsabilidad por el sobrepeso entre la empresa, el dueño de la carga, el transportista y el conductor.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a empresas generadoras y de transferencia de carga, transportistas y conductores.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Hacienda informó que las indicaciones son normativas y no tienen incidencia sobre el presupuesto fiscal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto en general por unanimidad en su comisión, con 9 votos a favor.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Hoy está en segundo trámite en el Senado, en el segundo informe de la Comisión de Obras Públicas.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 8.654-15 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=9049&tipodoc=mensaje_mocion",
+      "fecha": "2012-10-30",
+      "nota": "Antecedentes y fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, informe de la Comisión de Obras Públicas, Transportes y Telecomunicaciones (8 de julio de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27354&tipodoc=info",
+      "fecha": "2025-07-08",
+      "nota": "Idea matriz y votación."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe financiero complementario 214 (2 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37137&tipodoc=ofic",
+      "fecha": "2026-09-02",
+      "nota": "Indicaciones del Ejecutivo y efecto fiscal."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 8.654-15",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=8654",
+      "fecha": "2026-11-10",
+      "nota": "Etapa."
+    }
+  ],
+  "consultado": "2026-11-11",
+  "publicado": "2026-11-11",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
