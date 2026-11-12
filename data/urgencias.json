@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T12:30-03:00",
+ "actualizado": "2026-11-12T12:45-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -2877,12 +2877,6 @@
     {
      "fecha": "2026-11-10",
      "descripcion": "Cuenta oficio N° 313-2026 de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-12",
-     "descripcion": "",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
