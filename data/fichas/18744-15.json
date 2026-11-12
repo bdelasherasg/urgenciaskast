@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18744-15",
+  "nivel": "basica",
+  "sintesis": "Prohíbe circular con «tronadores» u otras modificaciones que aumenten el ruido del motor o del escape, y ordena retirar esos vehículos. Está en primer trámite en la Cámara, con urgencia simple.",
+  "materia": "la prohibición de circular con tronadores y otras modificaciones que aumentan el ruido",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción define los tronadores como dispositivos instalados en el tubo de escape para amplificar el sonido del motor.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el ruido extremo causa trastornos del sueño, estrés y problemas cardiovasculares.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Prohíbe transitar a los vehículos motorizados con modificaciones para aumentar el ruido de su motor o sistema de escape.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Carabineros o inspectores municipales los retirarían de circulación y los pondrían a disposición del Juzgado de Policía Local.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el texto de la Ley de Tránsito fijado por el DFL 1 de 2007, con dos incisos nuevos en el artículo 62 y un artículo 89 bis.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las municipalidades no podrían dar permiso de circulación a esos vehículos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El juez podría ordenar devolver el vehículo cuando el dueño acredite que retiró las modificaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes conducen o son dueños de vehículos con estas modificaciones, a Carabineros y a las municipalidades.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 28 de septiembre de 2026 y el 20 de octubre pasó a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La ficha lo muestra refundido, es decir, unido en una sola discusión, con los boletines 18680-15 (matriz) y 18729-15.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre de 2026 se hizo presente la urgencia simple.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión lo tiene citado el 17 de noviembre de 2026, a las 17:30, para escuchar a invitados y votarlo en general.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 18.744-15 (texto original, septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19433&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-28",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 18.744-15",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18744",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (camara.cl)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-11",
+      "nota": "Citación publicada para la sesión de la comisión."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
