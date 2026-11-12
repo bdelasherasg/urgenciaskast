@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "boletin": "18415-18",
+  "nivel": "basica",
+  "sintesis": "Agrega a la ley marco de ciberseguridad dos principios para proteger a niños, niñas y adolescentes en internet, entre ellos la restricción de edad en redes sociales. Está en primer trámite en la Cámara.",
+  "materia": "la protección de la infancia en entornos digitales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción cita la Encuesta Longitudinal de Primera Infancia 2024. Según ella, el 54% de los adolescentes usa redes sociales 3 horas o más en un día de semana.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que es necesario actualizar la ley para proteger su seguridad, su privacidad y su integridad física y psíquica.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Agrega dos principios a la ley N° 21.663, que es el marco de ciberseguridad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El primero protege a niños, niñas y adolescentes de riesgos en el ciberespacio, incluida una restricción de edad para usar cuentas en redes sociales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El segundo busca que los servicios digitales den información preventiva clara sobre sus riesgos, llamada tecnoetiquetado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Incorpora esos principios como numerales 9 y 10 del artículo 3.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un artículo transitorio encarga a un reglamento fijar cómo se aplicará la restricción de edad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a niños, niñas y adolescentes que usan redes sociales y servicios digitales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Un informe financiero de octubre de 2026 dice que las indicaciones del Presidente no irrogan mayor gasto fiscal.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto está en primer trámite en la Cámara de Diputados, con urgencia simple desde el 26 de octubre de 2026.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Desde el 4 de agosto de 2026 se tramita junto con los boletines 18224-18, 18246-18 y 18318-19.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 19 de octubre de 2026 la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación continuó la votación en particular.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Esa votación sigue citada el 16 y el 17 de noviembre de 2026.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 18.415-18 (junio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19111&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-23",
+      "nota": "Antecedentes, idea matriz y articulado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio 216-374: informe financiero complementario de las indicaciones (26 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37348&tipodoc=ofic",
+      "fecha": "2026-10-26",
+      "nota": "Sin mayor gasto fiscal."
+    },
+    {
+      "id": "f6",
+      "titulo": "Oficio 21.434 de la Cámara: refundición de proyectos (4 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36930&tipodoc=ofic",
+      "fecha": "2026-08-04",
+      "nota": "Proyectos que se tramitan juntos."
+    },
+    {
+      "id": "f8",
+      "titulo": "Cámara, resultados de comisiones (19 de octubre de 2026)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-19",
+      "nota": "Sesión de la Comisión de Futuro."
+    },
+    {
+      "id": "f9",
+      "titulo": "Senado, tramitación del boletín 18.415-18",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18415",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, urgencia y refundición."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (copiadas por el equipo)",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "2026-11-11",
+      "nota": "Citación para el 16 y 17 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
