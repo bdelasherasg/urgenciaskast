@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-12T02:47-03:00",
+ "actualizado": "2026-11-12T02:52-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -20,7 +20,7 @@
   {
    "boletin": "14309-04",
    "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
-   "sintesis": "",
+   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
    "urgencia": "Suma",
    "vence": "2026-11-15",
    "url": "https://urgenciaskast.cl/p/14309-04.html"
@@ -36,7 +36,7 @@
   {
    "boletin": "16300-07",
    "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
-   "sintesis": "",
+   "sintesis": "Extiende la legítima defensa privilegiada al policía o militar que, estando de franco, repele una agresión grave contra sí o contra un tercero. La Cámara lo aprobó; el Senado lo revisa.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-16",
    "url": "https://urgenciaskast.cl/p/16300-07.html"
@@ -190,7 +190,7 @@
     {
      "boletin": "14838-03",
      "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
-     "sintesis": "",
+     "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/14838-03.html"
     }
    ]
@@ -266,40 +266,40 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "14309-04",
+   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/14309-04.html"
+  },
+  {
+   "boletin": "14838-03",
+   "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/14838-03.html"
+  },
+  {
+   "boletin": "16300-07",
+   "sintesis": "Extiende la legítima defensa privilegiada al policía o militar que, estando de franco, repele una agresión grave contra sí o contra un tercero. La Cámara lo aprobó; el Senado lo revisa.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/16300-07.html"
+  },
+  {
+   "boletin": "16335-14",
+   "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara y el Senado aprobaron el informe de la comisión mixta.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/16335-14.html"
+  },
+  {
    "boletin": "16743-04",
    "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
    "publicado": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/16743-04.html"
   },
   {
-   "boletin": "11929-13",
-   "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
-   "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/11929-13.html"
-  },
-  {
-   "boletin": "14744-35",
-   "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
-   "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/14744-35.html"
-  },
-  {
-   "boletin": "16143-02",
-   "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
-   "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/16143-02.html"
-  },
-  {
-   "boletin": "17163-03",
-   "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
-   "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/17163-03.html"
-  },
-  {
-   "boletin": "17567-11",
-   "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
-   "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/17567-11.html"
+   "boletin": "18709-07",
+   "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara y el Senado lo aprobaron sin cambios.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/18709-07.html"
   }
  ],
  "analisis": [

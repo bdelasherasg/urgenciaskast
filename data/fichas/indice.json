@@ -20,6 +20,13 @@
   "materia": "el nombre del gimnasio fiscal de Ancud",
   "revision": "pendiente"
  },
+ "14309-04": {
+  "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la subvención para la modalidad educativa de reingreso",
+  "revision": "pendiente"
+ },
  "14744-35": {
   "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
   "nivel": "basica",
@@ -32,6 +39,13 @@
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "el derecho a sala cuna y su fondo de financiamiento",
+  "revision": "pendiente"
+ },
+ "14838-03": {
+  "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las plataformas de apuestas en línea",
   "revision": "pendiente"
  },
  "15261-25": {
@@ -69,10 +83,17 @@
   "materia": "la protección de la infraestructura crítica",
   "revision": "pendiente"
  },
- "16335-14": {
-  "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
+ "16300-07": {
+  "sintesis": "Extiende la legítima defensa privilegiada al policía o militar que, estando de franco, repele una agresión grave contra sí o contra un tercero. La Cámara lo aprobó; el Senado lo revisa.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
+  "materia": "la legítima defensa de policías y militares que están de franco",
+  "revision": "pendiente"
+ },
+ "16335-14": {
+  "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara y el Senado aprobaron el informe de la comisión mixta.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
   "materia": "la prevención y mitigación de incendios forestales",
   "revision": "pendiente"
  },
@@ -287,9 +308,9 @@
   "revision": "pendiente"
  },
  "18709-07": {
-  "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara lo aprobó; el Senado lo revisa.",
+  "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara y el Senado lo aprobaron sin cambios.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "materia": "la implementación del Servicio Nacional de Acceso a la Justicia",
   "revision": "pendiente"
  },
@@ -326,6 +347,13 @@
   "nivel": "basica",
   "publicado": "2026-11-11",
   "materia": "la conexión de cargadores de vehículos eléctricos",
+  "revision": "pendiente"
+ },
+ "18881-25": {
+  "sintesis": "Deroga la ley que permite reducir las condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal. Está en primer trámite en el Senado, con discusión inmediata.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la derogación del sistema de reducción de condenas por buena conducta",
   "revision": "pendiente"
  },
  "8654-15": {
