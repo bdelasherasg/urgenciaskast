@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18331-17",
+  "nivel": "basica",
+  "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
+  "materia": "la transparencia y el gobierno del Instituto Nacional de Derechos Humanos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el Instituto Nacional de Derechos Humanos (INDH) tiene deficiencias en el pluralismo de su Consejo, la transparencia de sus acuerdos y el uso de sus acciones judiciales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma además que ha caído la confianza en el organismo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Busca fortalecer la transparencia, el pluralismo y la rendición de cuentas del INDH.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Las querellas, que son acciones penales, se aprobarían por dos tercios del Consejo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sin ese quórum, bastaría la mayoría de los presentes, que responderían de forma solidaria por las costas judiciales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las actas del Consejo serían públicas en diez días hábiles e incluirían los votos de minoría.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Director y el Consejo irían al menos dos veces al año a la Comisión de Derechos Humanos de la Cámara.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta al INDH, a su Consejo y a las personas que observan la función policial en manifestaciones por encargo del Instituto.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 5 de junio de 2026 y pasó a la Comisión de Derechos Humanos y Pueblos Originarios.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En octubre se acordó refundirlo con el boletín 18754-17, iniciado en mensaje.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia Suma desde el 2 de noviembre.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión lo tiene citado el 16 y el 18 de noviembre de 2026 para continuar la discusión general.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19009&tipodoc=mensaje_mocion",
+      "fecha": "5 de junio de 2026",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18331-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18331",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Etapa, comisión, urgencia, refundición y fechas."
+    },
+    {
+      "id": "f3",
+      "titulo": "Citaciones de la Comisión de Derechos Humanos de la Cámara para el 16 y el 18 de noviembre de 2026",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "16 y 18 de noviembre de 2026",
+      "nota": "Citaciones copiadas de camara.cl por el equipo; conviene confirmarlas allí."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
