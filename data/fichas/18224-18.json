@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "boletin": "18224-18",
+  "nivel": "basica",
+  "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
+  "materia": "la protección de niñas, niños y adolescentes en redes sociales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción cita el estudio Kids Online Chile 2022: el 87% de quienes tienen de 9 a 17 años tiene celular propio con Internet.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que la ley chilena no obliga a las plataformas a verificar la edad ni a evitar el diseño adictivo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Establece un marco para proteger los derechos de niñas, niños y adolescentes en las redes sociales, sin una prohibición general de acceso.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Las redes sociales deberían verificar la edad de sus usuarios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los menores de catorce años necesitarían el consentimiento verificable de su madre, padre o cuidador.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las plataformas deberían desactivar por defecto el diseño adictivo en cuentas de menores, como el desplazamiento infinito.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las multas podrían llegar al 4% de los ingresos anuales de la empresa en los casos más graves.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las empresas que ofrecen redes sociales en Chile, sean nacionales o extranjeras, y a madres, padres y cuidadores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Los informes financieros complementarios de septiembre y octubre de 2026 dicen que las indicaciones del Presidente no significan mayor gasto fiscal.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Este proyecto se unió con los boletines 18246-18, 18318-19 y 18415-18. El boletín 18246-18 es el proyecto matriz, es decir, el base.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite en la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara, que continuó la votación en particular el 19 de octubre de 2026.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "La comisión está citada el 16 y el 17 de noviembre de 2026 para seguir con esa votación.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, marco integral de protección de niñas, niños y adolescentes en redes sociales (27 de abril de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18893&tipodoc=mensaje_mocion",
+      "fecha": "27 de abril de 2026",
+      "nota": "Fundamentos y texto original. El texto está cortado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio 216-374 con informe financiero complementario N° 260 (26 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37349&tipodoc=ofic",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Indicaciones del Presidente al boletín 18246-18."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 167-374 con informe financiero complementario N° 232 (29 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37258&tipodoc=ofic",
+      "fecha": "29 de septiembre de 2026",
+      "nota": "Indicaciones del Presidente al boletín 18246-18."
+    },
+    {
+      "id": "f6",
+      "titulo": "Resultados de sesiones de comisiones de la Cámara (19 de octubre de 2026)",
+      "url": "https://www.camara.cl/",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Sesión de la Comisión de Futuro."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 18.224-18",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18224",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Trámites, urgencias y refundición."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputadas y Diputados, citaciones de comisiones",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Sesiones citadas para el 16 y el 17 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
