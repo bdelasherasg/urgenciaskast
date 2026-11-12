@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "boletin": "18730-29",
+  "nivel": "basica",
+  "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, en la Comisión de Deportes y Recreación.",
+  "materia": "el contrato de trabajo de deportistas profesionales de disciplinas distintas del fútbol",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que desde 2007 la regulación laboral especial de los deportistas se limita al fútbol.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Dice que la ley N° 21.824 reordena el deporte profesional y busca extender esa industria a más modalidades.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone un estatuto laboral que cubra a deportistas profesionales de varias modalidades.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Rige para disciplinas reconocidas por el Ministerio del Deporte, dentro de una competición deportiva profesional.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 152 bis A del Código del Trabajo para incluir esas disciplinas.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Agrega un artículo 152 bis M: las reglas del capítulo rigen también para ellas, salvo las incompatibles con su competición.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La indemnización por labor formativa solo se aplica si la reglamentación oficial de la disciplina la contempla.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Deroga el decreto con fuerza de ley N° 1 de 1970 del Ministerio de Defensa Nacional.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a deportistas profesionales y a trabajadores de actividades conexas en disciplinas distintas del fútbol.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 237 del 2 de octubre de 2026 dice que el proyecto no irrogará un mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que las tareas se harán con la dotación y los recursos vigentes de la Dirección del Trabajo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 7 de octubre de 2026 y pasó a las comisiones de Deportes y Recreación, y de Trabajo y Seguridad Social.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La Comisión de Deportes inició su estudio el 20 de octubre y escuchó al Ministro del Deporte.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Esa comisión lo tiene citado el 17 de noviembre de 2026 para continuar la discusión general.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Informe financiero N° 237 del 2 de octubre de 2026, adjunto al mensaje",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19411&tipodoc=mensaje_mocion",
+      "fecha": "2 de octubre de 2026",
+      "nota": "Efecto fiscal del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Mensaje N° 184-374 del Presidente de la República (texto del mensaje)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37304&tipodoc=ofic",
+      "fecha": "5 de octubre de 2026",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputados, resultado de la sesión de la Comisión de Deportes y Recreación del 20 de octubre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Resultado copiado de camara.cl por el equipo."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 18730-29",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18730",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, comisiones y urgencias."
+    },
+    {
+      "id": "f5",
+      "titulo": "Cámara de Diputados, citación de la Comisión de Deportes y Recreación para el 17 de noviembre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
