@@ -1,0 +1,148 @@
+{
+  "version": 2,
+  "boletin": "18236-18",
+  "nivel": "basica",
+  "sintesis": "Permite que las víctimas de violencia intrafamiliar declaren a distancia, evita su contacto con el agresor en los tribunales y facilita notificar medidas cautelares. Está en segundo trámite en el Senado.",
+  "materia": "Protección de víctimas de violencia intrafamiliar",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción cita 884.074 causas de violencia intrafamiliar entre 2018 y 2025.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que a las víctimas les cuesta denunciar y mantenerse en el proceso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Habla de victimización secundaria, un nuevo daño que sufre la víctima al pasar por el sistema.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El juez de familia deberá autorizar que la víctima comparezca por videoconferencia si lo pide.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El tribunal deberá evitar el contacto entre víctima y presunto agresor.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Si no se puede notificar una medida cautelar en un riesgo inminente, lo harán Carabineros o la PDI.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley de tribunales de familia, la ley de violencia intrafamiliar, el Código Orgánico de Tribunales y el Código Procesal Penal.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Se refundió con el boletín 18414-18, sobre notificaciones de medidas cautelares.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a víctimas y presuntos agresores en causas de violencia intrafamiliar, y a los tribunales, Carabineros y la PDI.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "En la comisión de la Cámara se discutió una indicación para que los tribunales habiliten salas de videoconferencia con recursos de la Ley de Presupuestos.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Una diputada dijo que podría irrogar gastos.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "No hay informe financiero entre las fuentes revisadas.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en general y en particular el 28 de octubre de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "El Senado lo envió a la Comisión de Familia, Infancia y Adolescencia. La Sala acordó que luego pase a la de Mujer y Equidad de Género.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Fortalece la protección de las víctimas de violencia intrafamiliar y previene su revictimización",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18899&tipodoc=mensaje_mocion",
+      "fecha": "2026-05-04",
+      "nota": "Antecedentes y texto original de la moción."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° ",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37377&tipodoc=ofic",
+      "fecha": "2026-10-28",
+      "nota": "Texto aprobado por la Cámara y enviado al Senado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21.470: Comunica que la Cámara de Diputados acordó acceder a la solicitud para refundir los proyectos de ley correspondientes a los boletines Nos. 18.236-18 y 18.414-18.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36983&tipodoc=ofic",
+      "fecha": "2026-08-10",
+      "nota": "Refundición con el boletín 18414-18."
+    },
+    {
+      "id": "f7",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión Mujeres y Equidad de Género · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28291&tipodoc=info",
+      "fecha": "2026-10-07",
+      "nota": "Pasajes del informe sobre recursos de los tribunales."
+    },
+    {
+      "id": "f8",
+      "titulo": "Tramitación del boletín 18236-18 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18236",
+      "fecha": "2026-11-11",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
