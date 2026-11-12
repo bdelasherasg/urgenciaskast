@@ -571,6 +571,10 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 /* Fichas del piloto con revisión pendiente */
 .aviso-piloto { margin: 18px 0 6px; padding: 16px 20px; border-radius: var(--r-medio); background: rgba(242,180,42,.14); border: 1px solid rgba(242,180,42,.45); }
 .aviso-piloto .eyebrow { margin: 0 0 6px; }
+.aviso-congreso { margin: 18px 0 6px; padding: 16px 20px; border-radius: var(--r-medio); background: rgba(214,69,48,.08); border: 1px solid rgba(214,69,48,.4); }
+.aviso-congreso .eyebrow { margin: 0 0 6px; }
+.aviso-congreso p:not(.eyebrow) { margin: 0 0 6px; max-width: 90ch; font-size: 15px; line-height: 1.55; color: var(--t-base); }
+.aviso-congreso p:last-child { margin-bottom: 0; }
 .aviso-piloto p:last-child { margin: 0; max-width: 90ch; font-size: 15px; line-height: 1.55; color: var(--t-base); }
 .tabla-proyectos .en-revision { display: block; font-family: var(--f-etiqueta); font-size: 10.5px; font-weight: 600; color: var(--tinta-suave); margin-top: 4px; }
 .tabla-proyectos .c-ficha .flecha { vertical-align: top; }

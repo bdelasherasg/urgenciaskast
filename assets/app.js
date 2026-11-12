@@ -678,6 +678,9 @@
       '<h1 id="titulo">' + esc(titulo) + '</h1>' +
       (F && F.estado_revision === 'pendiente' ? '<div class="aviso-piloto" role="note"><p class="eyebrow">Revisión pendiente · piloto de prueba</p>' +
         '<p>Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a <b>' + esc(CFG.correo || '') + '</b> indicando el boletín.</p></div>' : '') +
+      // Errores del Congreso que el equipo decidió informar (por ejemplo, una citación con el número de otro boletín).
+      ((F && Array.isArray(F.avisos_congreso) && F.avisos_congreso.length) ? '<div class="aviso-congreso" role="note"><p class="eyebrow">Error en un documento del Congreso</p>' +
+        F.avisos_congreso.map(function (a) { return '<p>' + esc(a.texto) + (a.fecha ? ' <small>(' + esc(fCorta(a.fecha)) + ')</small>' : '') + '</p>'; }).join('') + '</div>' : '') +
       (completa ? '<section class="vidrio csa" aria-labelledby="h-csa"><div><p class="eyebrow">Antes de leer</p><h2 id="h-csa">Esta ficha es un trabajo de ' + t('csa', 'ciencias sociales aplicadas') + '</h2>'
         : '<details class="vidrio csa csa-breve"><summary><span class="eyebrow">Antes de leer</span><span class="csa-titulo">Cómo se hacen las fichas: ciencias sociales aplicadas</span><span class="abrir"></span></summary><div>') +
       '<p>Las ciencias sociales estudian cómo actúan las personas, los grupos y las instituciones. Son <i>aplicadas</i> cuando usan esos conocimientos para responder una pregunta práctica con un método que cualquiera puede revisar. Aquí la pregunta es simple: qué propone este proyecto, quién se ha pronunciado sobre él y cómo se discute en público.</p>' +
