@@ -37,7 +37,9 @@ URL_CAMARA_CITACIONES = 'https://www.camara.cl/legislacion/comisiones/citaciones
 MESES = {'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4, 'mayo': 5, 'junio': 6, 'julio': 7, 'agosto': 8,
          'septiembre': 9, 'setiembre': 9, 'octubre': 10, 'noviembre': 11, 'diciembre': 12}
 RE_FECHA = re.compile(r'(?:lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo)\s*,?\s*(\d{1,2})\s+de\s+([a-záéíóú]+)\s+(?:de\s+|del\s+)?(\d{4})', re.I)
-RE_BOLETIN = re.compile(r'(?<![\d.])(\d{1,2}\.?\d{3})-(\d{2})(?!\d)')
+# Excluye los «boletines S» del Senado (nombramientos y otros asuntos, por ejemplo «Bol.N° S 2771-05»):
+# usan otra numeración y no son proyectos de ley, aunque el número coincida con uno.
+RE_BOLETIN = re.compile(r'(?<![\d.])(?<!\bS )(?<!\bS)(\d{1,2}\.?\d{3})-(\d{2})(?!\d)')
 RE_HORA = re.compile(r'\b(\d{1,2})[:.](\d{2})\b')
 
 
