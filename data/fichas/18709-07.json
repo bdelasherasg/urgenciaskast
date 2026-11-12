@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18709-07",
   "nivel": "basica",
-  "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara lo aprobó; el Senado lo revisa.",
+  "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara y el Senado lo aprobaron sin cambios.",
   "materia": "la implementación del Servicio Nacional de Acceso a la Justicia",
   "resumen": {
     "problema": [
@@ -63,9 +63,10 @@
     ],
     "costo": [
       {
-        "texto": "Entre los documentos revisados no hay un informe financiero de este proyecto.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Según el informe financiero N° 230 de octubre de 2026, el proyecto no tendrá incidencia sobre el presupuesto fiscal.",
+        "fuentes": [
+          "f6"
+        ]
       }
     ],
     "estado": [
@@ -76,13 +77,13 @@
         ]
       },
       {
-        "texto": "El 10 de noviembre se dio cuenta del primer informe de la Comisión de Constitución del Senado.",
+        "texto": "El Senado lo aprobó sin modificaciones el 11 de noviembre.",
         "fuentes": [
           "f5"
         ]
       },
       {
-        "texto": "Tiene discusión inmediata desde el 28 de octubre.",
+        "texto": "Vuelve a la Cámara de origen para finalizar el trámite.",
         "fuentes": [
           "f5"
         ]
@@ -120,10 +121,17 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18709",
       "fecha": "2026-11-10",
       "nota": "Etapa y urgencias."
+    },
+    {
+      "id": "f6",
+      "titulo": "Senado, informe de la Comisión de Constitución, segundo trámite (10 de noviembre de 2026), con cita del informe financiero N° 230",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28377&tipodoc=info",
+      "fecha": "2026-11-10",
+      "nota": "Efectos fiscales."
     }
   ],
-  "consultado": "2026-11-10",
-  "publicado": "2026-11-10",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
