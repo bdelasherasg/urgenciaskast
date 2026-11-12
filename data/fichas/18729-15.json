@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18729-15",
+  "nivel": "basica",
+  "sintesis": "Sanciona como infracción grave alterar el tubo de escape o usar dispositivos que aumenten el ruido de un vehículo, y permite retirarlo de circulación. Está en primer trámite en la Cámara, con urgencia simple.",
+  "materia": "las sanciones por alterar el escape y aumentar el ruido de los vehículos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que han aumentado los vehículos con el tubo de escape alterado o con dispositivos que suben el ruido.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según ella, la ley vigente solo sanciona conducir sin silenciador o con el tubo de escape en malas condiciones, con multa de 0,5 a 1 unidad tributaria mensual.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea una infracción grave para conducir o hacer funcionar un vehículo con el tubo de escape alterado, sustituido o suprimido, o con dispositivos que aumenten el ruido.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si ocurre cerca de colegios, centros de salud, plazas o parques, se aplica la escala de multas de las infracciones gravísimas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley de Tránsito, la ley 18.290.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Suspende la licencia de conducir de 5 a 15 días por esta infracción.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Presume que el vehículo perdió sus condiciones de seguridad, lo que permite retirarlo de circulación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes conducen o son dueños de vehículos con el escape modificado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 23 de septiembre de 2026 y el 7 de octubre pasó a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La ficha lo muestra refundido, es decir, unido en una sola discusión, con los boletines 18680-15 (matriz) y 18744-15.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre de 2026 se hizo presente la urgencia simple.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión lo tiene citado el 17 de noviembre de 2026, a las 17:30, para escuchar a invitados y votarlo en general.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 18.729-15 (texto original, septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19409&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-23",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 18.729-15",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18729",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (camara.cl)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-11",
+      "nota": "Citación publicada para la sesión de la comisión."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
