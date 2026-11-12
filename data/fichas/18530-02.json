@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18530-02",
+  "nivel": "basica",
+  "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados.",
+  "materia": "los delitos de espionaje y la protección de información estratégica del Estado",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las figuras de espionaje del Código de Justicia Militar se basan en conceptos de guerra, como el de «enemigo».",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que eso dificulta aplicarlas a conductas de espionaje en tiempos de paz.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Agrega al Código de Justicia Militar los artículos 252 bis, 252 ter, 252 quáter y 252 quinquies.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El 252 bis castiga a quien obtenga o transmita información que pueda afectar la defensa nacional, con presidio mayor en su grado mínimo a medio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se sube la pena en un grado si se actúa en beneficio de un Estado o servicio de inteligencia extranjero.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cuando hay una afectación efectiva de la capacidad de defensa, la pena es presidio mayor en su grado máximo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si el autor no es militar en servicio activo, investiga el Ministerio Público y juzgan los tribunales ordinarios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega un inciso al artículo 140 del Código Procesal Penal sobre qué debe ponderar el tribunal en estos casos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El texto dice que se entenderá que hay peligro de fuga si el imputado es extranjero, y que esto admite prueba en contrario.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas imputadas por estos delitos, sean civiles o militares.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 29 de julio de 2026 y el 4 de agosto pasó a la Comisión de Defensa Nacional.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Esa comisión lo tiene citado el 17 de noviembre de 2026 para continuar su tramitación en general.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, boletín 18530-02 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19209&tipodoc=mensaje_mocion",
+      "fecha": "29 de julio de 2026",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 18530-02",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18530",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, comisión y urgencias."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputados, citación de la Comisión de Defensa Nacional para el 17 de noviembre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
