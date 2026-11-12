@@ -1,0 +1,110 @@
+{
+  "version": 2,
+  "boletin": "17196-17",
+  "nivel": "basica",
+  "sintesis": "Obliga a las grandes empresas inscritas en el Registro de Valores a publicar sus riesgos para los derechos humanos y a tener un canal de denuncias. Es una moción en primer trámite en el Senado.",
+  "materia": "los derechos humanos en las grandes empresas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La senadora Vodanovic, autora de la moción, recuerda que los derechos humanos obligan en primer lugar a los Estados.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que las grandes empresas también deben respetarlos, según los Principios Rectores de la ONU de 2011 y una directiva europea de 2024.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Agrega los artículos 10 bis y 10 ter a la Ley 18.046 sobre Sociedades Anónimas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Obliga a las empresas inscritas en el Registro de Valores que tengan 250 trabajadores o más e ingresos anuales sobre 1.000.000 de unidades de fomento.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Esas empresas deberán publicar en su sitio web una declaración de sus mayores riesgos para los derechos humanos y de las medidas para reducirlos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También deberán evaluar esas medidas una vez al año, publicar los resultados y el número de denuncias recibidas, y tener un canal de denuncias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "La autora calcula que los umbrales de tamaño cubren unas 1.300 empresas, según datos del Servicio de Impuestos Internos de 2022.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La declaración debe considerar a los trabajadores, a los consumidores y a las comunidades donde operan la empresa y sus proveedores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó al Senado el 21 de octubre de 2024 y pasó a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite, a la espera del primer informe de comisión, y no tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 18.046, Ley sobre Sociedades Anónimas, con el objeto de establecer obligaciones para promover la protección de derechos humanos, a las personas jurídicas que indica.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17821&tipodoc=mensaje_mocion",
+      "fecha": "2024-10-21",
+      "nota": "Fundamentos y articulado de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17196-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17196",
+      "fecha": "2026-11-11",
+      "nota": "Etapa, trámites y urgencia."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
