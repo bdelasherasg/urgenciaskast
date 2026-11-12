@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "boletin": "18584-25",
+  "nivel": "basica",
+  "sintesis": "Amplía el delito de interrumpir u obstaculizar la circulación y los servicios de transporte, que hoy se limita a la vía pública. Está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "la ampliación del delito de interrupción u obstaculización de la circulación y del transporte",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que el delito vigente exige una interrupción completa de la circulación en la vía pública.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Por eso, según el mensaje, no cubre un bloqueo parcial ni hechos en infraestructura como el Metro de Santiago.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El mensaje propone sancionar con presidio menor en su grado mínimo a quien, sin autorización, interrumpa u obstaculice, total o parcialmente, la circulación o un servicio de transporte.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El texto aprobado por la Cámara castiga con multa a quien no obedece a la autoridad que le pide despejar.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Ese texto fija presidio menor y multa si hay violencia, peligro para la vida o ingreso no autorizado a zonas de operación.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También sanciona a quien retarde el paso de ambulancias, Bomberos o policías, y excluye el ejercicio pacífico del derecho a reunión, huelga o manifestación.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 268 septies del Código Penal.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El mensaje extiende el delito a servicios ferroviarios, subterráneos, marítimos y aéreos, entre otros.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El texto de la Cámara también suprime el inciso segundo del artículo 269.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Según el mensaje, protege a los usuarios del transporte y a la cadena de carga.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 201, del 17 de agosto de 2026, dice que el proyecto no irrogará un mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 23 de septiembre de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Ese día pasó a la Comisión de Constitución del Senado.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Modifica el Código Penal para ampliar el ámbito de aplicación del delito de interrupción u obstaculización de la libre circulación y del funcionamiento de los servicios de transporte",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19267&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-17",
+      "nota": "Pasajes del informe financiero N° 201."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° ",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37237&tipodoc=ofic",
+      "fecha": "2026-09-23",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f6",
+      "titulo": "Oficio N° : Texto del Mensaje.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37090&tipodoc=ofic",
+      "fecha": "2026-08-17",
+      "nota": "Texto y fundamentos del mensaje."
+    },
+    {
+      "id": "f9",
+      "titulo": "Tramitación del boletín 18584-25 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18584",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
