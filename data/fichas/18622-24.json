@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "18622-24",
+  "nivel": "basica",
+  "sintesis": "Prohíbe dar financiamiento estatal a las actividades que incluyan espectáculos pornográficos o de explotación comercial de contenido sexual explícito. Está en primer trámite en la Cámara, sin urgencia.",
+  "materia": "los requisitos para acceder a fondos públicos culturales y artísticos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que hubo debates públicos sobre el uso de fondos del Estado en espectáculos con contenido erótico o pornográfico.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que esos recursos deben ir a fines compatibles con los objetivos que fija la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Establece que las actividades con espectáculos pornográficos o de explotación comercial de contenido sexual explícito no podrán recibir financiamiento estatal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Rige si ese contenido está en la parte principal, en la secundaria o en cualquier parte de la actividad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Define espectáculo pornográfico como toda actividad que muestre de forma explícita actos sexuales reales o simulados, órganos genitales u otras conductas de contenido sexual.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El artículo único no señala qué ley vigente modifica.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las actividades culturales y artísticas que quieran acceder a fondos públicos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 29 de julio de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 1 de septiembre pasó a la Comisión de Cultura, Artes y Comunicaciones y, una vez informado, irá a la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La Comisión de Cultura lo tiene citado el 16 de noviembre de 2026, a las 14:50, para continuar la discusión general.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 18.622-24 (texto original, julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19306&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-29",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 18.622-24",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18622",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (camara.cl)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-11",
+      "nota": "Citación publicada para la sesión de la comisión."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
