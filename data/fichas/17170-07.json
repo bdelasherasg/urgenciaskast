@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "17170-07",
+  "nivel": "basica",
+  "sintesis": "Aumenta las penas por robo, hurto y receptación de productos, insumos o maquinaria agrícola. La Cámara lo aprobó en abril de 2026 y está en el Senado, en la Comisión de Constitución.",
+  "materia": "las penas por delitos contra productos, insumos y maquinaria agrícola",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Una de las mociones refundidas cita un estudio de la Sociedad Nacional de Agricultura.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Según el estudio, el 78% de los agricultores fue víctima de robos en los últimos doce meses, con pérdidas estimadas en $16.199 millones.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara agrega al artículo 443 del Código Penal que se aplicará idéntica pena cuando el delito recaiga sobre productos, insumos o maquinaria agrícola.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El nuevo artículo 447 ter manda aplicar en su grado máximo las penas del artículo 446 cuando recaigan sobre esos bienes.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 443 y el artículo 456 bis A del Código Penal, y agrega un artículo 447 ter.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La moción original proponía subir la pena del robo en lugar no habitado y definir como fuerza en las cosas el ingreso sin autorización en zonas rurales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Comisión de Agricultura de la Cámara rechazó ese cambio.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes sustraigan productos, insumos o maquinaria agrícola.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara de Diputados lo aprobó el 13 de abril de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Está en segundo trámite constitucional, en la Comisión de Constitución, Legislación, Justicia y Reglamento del Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Su etapa actual es el primer informe de esa comisión.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 17170-07 (9 de octubre de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17793&tipodoc=mensaje_mocion",
+      "fecha": "2024-10-09",
+      "nota": "Fundamentos y texto original."
+    },
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Agricultura de la Cámara (12 de enero de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27800&tipodoc=info",
+      "fecha": "2026-01-12",
+      "nota": "Mociones refundidas, contenido y fundamentos."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21.157 de la Cámara de Diputados al Senado (13 de abril de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36034&tipodoc=ofic",
+      "fecha": "2026-04-13",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 17170-07",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17170",
+      "fecha": "2026-11-11",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
