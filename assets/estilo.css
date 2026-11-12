@@ -327,6 +327,12 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .oferta-ampliado { background: var(--pastel-tarjeta); border: 1px solid rgba(125,87,0,.22); }
 .oferta-ampliado h2 { font-family: var(--f-display); font-weight: 400; font-size: clamp(24px, 3.4vw, 32px); line-height: 1.15; margin: 0 0 10px; color: var(--tinta); max-width: 30ch; }
 .oferta-ampliado p { margin: 0 0 16px; max-width: 64ch; }
+.aviso-ampliado { margin: 6px 0 22px; padding: 16px 18px; border-radius: var(--r-medio); background: rgba(242,180,42,.14); border: 1px solid rgba(125,87,0,.22); }
+.aviso-ampliado .eyebrow { margin: 0 0 6px; }
+.aviso-ampliado p { margin: 0 0 8px; font-size: 15.5px; }
+.aviso-ampliado ul { margin: 0 0 8px; padding-left: 20px; display: grid; gap: 6px; font-size: 15.5px; line-height: 1.5; }
+.aviso-ampliado a { color: var(--indigo); }
+.aviso-ampliado .aviso-ampliado-nota { margin: 0; font-size: 13.5px; color: var(--tinta-suave); }
 .cta-ampliado { background: rgba(242,180,42,.14); border-color: rgba(125,87,0,.22); }
 .enlace-ampliado { font-family: var(--f-etiqueta); font-weight: 700; font-size: 13px; color: var(--indigo); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
 .dlg-ampliado { width: min(620px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 0; border: 0; border-radius: var(--r-grande); background: var(--crema); color: var(--tinta); box-shadow: var(--sombra); }
