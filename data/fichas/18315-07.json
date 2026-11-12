@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "boletin": "18315-07",
+  "nivel": "basica",
+  "sintesis": "Castiga el tráfico de migrantes cuando facilita la salida ilegal del país y crea un delito por trasladar dentro del país a extranjeros en situación irregular. Está en el Senado, con suma urgencia.",
+  "materia": "la ampliación del delito de tráfico de migrantes",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que el Código Penal solo castiga a quien facilita la entrada ilegal al país.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Dice que hoy no se castiga a quien solo los traslada dentro del país.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Castigar también a quien facilita o promueve la salida ilegal del país.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Crear el artículo 411 bis A, que castiga el traslado dentro del país de una persona extranjera en situación migratoria irregular.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código Penal, el Código Procesal Penal y las leyes N° 19.913 y N° 20.393.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La pena base del nuevo delito es presidio menor en su grado medio y multa de 50 a 100 unidades tributarias mensuales.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La pena sube si se pone en peligro la salud, la integridad o la vida de la persona, o si es menor de edad.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Si el autor es un funcionario público, se agrega inhabilitación temporal para cargos públicos.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes trasladan a personas extranjeras en situación irregular a cambio de un beneficio.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También afecta a quienes facilitan su salida ilegal del país.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 116, del 1 de junio de 2026, dice que el proyecto no tendrá incidencia en el presupuesto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La comisión de la Cámara dejó constancia de que no requiere pasar por Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en general y en particular a la vez el 6 de octubre de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Ese día el Senado lo envió a su Comisión de Constitución, Legislación, Justicia y Reglamento.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Informe financiero N° 116 del 1 de junio de 2026 (mensaje del boletín 18315-07)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18991&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-08",
+      "nota": "Informe financiero N° 116 del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28272&tipodoc=info",
+      "fecha": "2026-10-05",
+      "nota": "Idea matriz y contenido, según la comisión de la Cámara."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21633",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37295&tipodoc=ofic",
+      "fecha": "2026-10-06",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° : Texto del proyecto",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36681&tipodoc=ofic",
+      "fecha": "2026-06-08",
+      "nota": "Texto y fundamentos del mensaje."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18315-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18315",
+      "fecha": "2026-11-11",
+      "nota": "Etapas, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
