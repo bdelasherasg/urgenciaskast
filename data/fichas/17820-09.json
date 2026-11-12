@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "17820-09",
+  "nivel": "basica",
+  "sintesis": "Modifica la ley sobre publicidad visible desde caminos para facilitar la instalación de elementos publicitarios. Está en primer trámite en la Cámara de Diputados, en la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+  "materia": "la publicidad visible desde caminos y vías públicas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley N° 21.473 y sus reglamentos son muy restrictivos para instalar elementos publicitarios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que la cantidad de organismos que intervienen genera confusión.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que no hay relación entre los accidentes viales y la publicidad en la vía pública.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone un artículo único que modifica la ley N° 21.473 para facilitar la instalación de elementos publicitarios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Redefine los elementos publicitarios menores, como los de paraderos, quioscos y postes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega la palabra «mayor» en los artículos 4, 6, 9 y 10.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Reduce de tres años a un año un plazo del artículo 11.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Hace responsables a la vez al avisador y a quien contrató sus servicios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "La moción dice que la ley vigente afecta los ingresos de las municipalidades y a las empresas de publicidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 2 de septiembre de 2025 y pasó el 9 de septiembre a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión lo trató el 20 de octubre de 2026 y quedó pendiente.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Esa comisión lo tiene citado el 17 de noviembre de 2026 para votarlo en general.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del diputado Héctor Ulloa Aguilera y otros, boletín 17820-09 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18474&tipodoc=mensaje_mocion",
+      "fecha": "2 de septiembre de 2025",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara de Diputados, resultado de la sesión de la Comisión de Obras Públicas del 20 de octubre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Resultado copiado de camara.cl por el equipo."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, tramitación del boletín 17820-09",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17820",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, comisión y urgencias."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara de Diputados, citación de la Comisión de Obras Públicas, Transportes y Telecomunicaciones para el 17 de noviembre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
