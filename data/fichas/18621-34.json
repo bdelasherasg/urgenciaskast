@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "18621-34",
+  "nivel": "basica",
+  "sintesis": "Perfecciona las medidas de protección que dictan los jueces en casos de violencia intrafamiliar y de violencia contra las mujeres por razón de género. Está en primer trámite en la Cámara.",
+  "materia": "las medidas cautelares en casos de violencia intrafamiliar y de género",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que al aplicar juntas las leyes sobre esta violencia hay problemas de competencia, coordinación y continuidad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Cita que en 2024 solo un 20,8% de las víctimas de femicidio contaba con medidas cautelares vigentes.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Obliga al juez de familia a avisar al juez de garantía de las medidas cautelares que adopte. Son medidas de protección que un juez decreta mientras dura el caso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega la prohibición de hostigar, amenazar o atentar contra la víctima o sus hijos, también en espacios digitales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega sanciones por incumplir las medidas cautelares.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Elimina el requisito de que la investigación esté formalizada para pedir monitoreo telemático, que es el control a distancia de una medida.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Al decidir una prisión preventiva, el tribunal considerará si el imputado incumplió medidas cautelares respecto de la víctima.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las víctimas, a los denunciados, a los tribunales y a Gendarmería de Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero del 31 de agosto de 2026 dice que el proyecto no irrogará mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto está en primer trámite en la Cámara de Diputados, con urgencia simple desde el 19 de octubre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 21 de octubre de 2026 la Comisión de Mujeres y Equidad de Género continuó la discusión general.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre de 2026 la Sala acordó refundirlo con el boletín 18682-34, con consulta al Ejecutivo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión tiene citada la continuación de la discusión general el 18 de noviembre de 2026.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje 153-374 con su informe financiero N° 210 (31 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19305&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-31",
+      "nota": "Contenido resumido y efecto fiscal."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, texto del mensaje 153-374 (oficio, 31 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37108&tipodoc=ofic",
+      "fecha": "2026-08-31",
+      "nota": "Antecedentes del proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara, resultados de comisiones (21 de octubre de 2026)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-21",
+      "nota": "Sesión de la Comisión de Mujeres."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 18.621-34",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18621",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, urgencia y refundición."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (copiadas por el equipo)",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "2026-11-11",
+      "nota": "Citación para el 18 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
