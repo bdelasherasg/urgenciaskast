@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "18680-15",
+  "nivel": "basica",
+  "sintesis": "Sanciona como infracción gravísima conducir un vehículo con el escape o el convertidor catalítico alterado o retirado. Está en primer trámite en la Cámara de Diputados, refundido con otras dos mociones.",
+  "materia": "la sanción por alterar el escape y las emisiones de los vehículos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que circulan vehículos con el escape alterado para aumentar el ruido del motor.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que ese ruido afecta el descanso y la salud de las personas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que quitar el convertidor catalítico o el filtro de partículas aumenta la emisión de gases tóxicos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que hoy es una infracción menos grave del artículo 201, con multas de baja cuantía.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone sancionar como infracción gravísima la alteración de los sistemas de escape y de control de emisiones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los fundamentos agregan que los jueces de policía local podrían suspender la licencia de conducir.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un numeral 8° al artículo 199 de la Ley de Tránsito.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Castiga conducir un vehículo con el escape, el silenciador o el convertidor catalítico removido o modificado contra las normas técnicas y ambientales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Suprime el numeral 7° del artículo 201.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes conducen vehículos motorizados con esas modificaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 3 de septiembre de 2026 y el 29 de septiembre pasó a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre se aprobó refundirlo con los boletines 18729-15 y 18744-15.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión continuó su estudio el 20 de octubre y lo tiene citado el 17 de noviembre de 2026 para votarlo en general.",
+        "fuentes": [
+          "f2",
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del diputado Alejandro Riquelme Ducci, boletín 18680-15 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19360&tipodoc=mensaje_mocion",
+      "fecha": "3 de septiembre de 2026",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara de Diputados, resultado de la sesión de la Comisión de Obras Públicas del 20 de octubre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Resultado copiado de camara.cl por el equipo."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, tramitación del boletín 18680-15",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18680",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, comisión, refundición y urgencias."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara de Diputados, citación de la Comisión de Obras Públicas, Transportes y Telecomunicaciones para el 17 de noviembre de 2026",
+      "url": "https://www.camara.cl/",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
