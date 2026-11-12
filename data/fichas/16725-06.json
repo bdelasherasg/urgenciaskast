@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "boletin": "16725-06",
+  "nivel": "basica",
+  "sintesis": "Elimina la regla que da feriado en días de elecciones a los trabajadores de centros comerciales y sube a cuatro horas el permiso para votar. La Cámara lo aprobó en junio de 2026 y está en el Senado.",
+  "materia": "el feriado de los centros comerciales en días de elecciones",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el Código del Trabajo da feriado en días de elecciones a los trabajadores de centros comerciales administrados bajo una misma razón social.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que por eso esos centros paralizan sus actividades y los negocios pierden ingresos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita pérdidas de más de $7.700 millones en las elecciones de diciembre de 2023, según el presidente de la Cámara Nacional de Comercio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara elimina esa regla del artículo 38, número 7, del Código del Trabajo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "También cambia el permiso para ir a votar, sin descuento de sueldo, de tres a cuatro horas.",
+        "fuentes": [
+          "f2",
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código del Trabajo y el artículo 165 de la ley 18.700, sobre votaciones populares y escrutinios.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los trabajadores y las empresas de centros comerciales, y a los trabajadores que usan el permiso para votar.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara de Diputados lo aprobó el 10 de junio de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Está en segundo trámite constitucional, en la Comisión de Gobierno, Descentralización y Regionalización del Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Su etapa actual es el primer informe de esa comisión.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 16725-06 (2 de abril de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17299&tipodoc=mensaje_mocion",
+      "fecha": "2024-04-02",
+      "nota": "Fundamentos y texto original."
+    },
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Gobierno Interior de la Cámara (5 de junio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28020&tipodoc=info",
+      "fecha": "2026-06-05",
+      "nota": "Antecedentes y permiso para votar."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21.304 de la Cámara de Diputados al Senado (10 de junio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36711&tipodoc=ofic",
+      "fecha": "2026-06-10",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 16725-06",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16725",
+      "fecha": "2026-11-11",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
