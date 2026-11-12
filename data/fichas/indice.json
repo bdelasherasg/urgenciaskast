@@ -188,6 +188,20 @@
   "materia": "las penas por delitos contra productos, insumos y maquinaria agrícola",
   "revision": "pendiente"
  },
+ "17196-17": {
+  "sintesis": "Obliga a las grandes empresas inscritas en el Registro de Valores a publicar sus riesgos para los derechos humanos y a tener un canal de denuncias. Es una moción en primer trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "los derechos humanos en las grandes empresas",
+  "revision": "pendiente"
+ },
+ "17446-17": {
+  "sintesis": "Obliga a las grandes empresas a cuidar los derechos humanos, el medio ambiente y el clima, y a publicar cada año un reporte. Es una moción en primer trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la debida diligencia de las empresas",
+  "revision": "pendiente"
+ },
  "17486-07": {
   "sintesis": "Crea penas más altas para el robo, el hurto y la receptación de productos, insumos o maquinaria agrícola. Fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
   "nivel": "basica",
@@ -200,6 +214,13 @@
   "nivel": "basica",
   "publicado": "2026-11-11",
   "materia": "el fondo de la Ley Ricarte Soto",
+  "revision": "pendiente"
+ },
+ "17628-13": {
+  "sintesis": "Traspasa a un administrador estatal la licitación del seguro de invalidez y sobrevivencia que hoy contratan las AFP. Está en primer trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el seguro de invalidez y sobrevivencia",
   "revision": "pendiente"
  },
  "17637-07": {
@@ -385,9 +406,9 @@
   "revision": "pendiente"
  },
  "18383-06": {
-  "sintesis": "Excluye del régimen de exclusiva confianza a los funcionarios de ciertas plantas de la Contraloría. Es una moción en primer trámite en la Cámara, refundida con el boletín 18728-06.",
-  "nivel": "completa",
-  "publicado": "2026-11-01",
+  "sintesis": "Excluye del régimen de exclusiva confianza a los funcionarios administrativos, técnicos, auxiliares y de mayordomía de la Contraloría. Es una moción en primer trámite en la Cámara, refundida con otra.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
   "materia": "el régimen de exclusiva confianza en la Contraloría",
   "revision": "pendiente"
  },
@@ -441,10 +462,10 @@
   "revision": "aprobada"
  },
  "18448-25": {
-  "sintesis": "Cambia la ley orgánica de Carabineros en los procedimientos de evaluación médica que fundamentan el retiro de personal. Es una moción en primer trámite en la Cámara de Diputados.",
-  "nivel": "completa",
-  "publicado": "2026-11-01",
-  "materia": "los procedimientos de evaluación médica que fundamentan retiros en Carabineros",
+  "sintesis": "Obliga a fundamentar mejor las evaluaciones médicas que llevan al retiro de personal de Carabineros y crea un plazo para reclamar. Es una moción en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las evaluaciones médicas para el retiro en Carabineros",
   "revision": "pendiente"
  },
  "18461-04": {
@@ -494,6 +515,13 @@
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "el calendario de instalación de los servicios locales de educación pública",
+  "revision": "pendiente"
+ },
+ "18574-25": {
+  "sintesis": "Crea delitos por ingresar, tener, portar o fabricar armas cortantes o punzantes en cárceles. Es una moción en primer trámite en la Cámara, con urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las armas cortantes o punzantes en las cárceles",
   "revision": "pendiente"
  },
  "18576-06": {
