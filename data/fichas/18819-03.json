@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "boletin": "18819-03",
+  "nivel": "basica",
+  "sintesis": "Autoriza a CORFO a aportar a fondos de capital de riesgo y fondos de fondos para movilizar inversión privada. Está en primer trámite en la Cámara, con urgencia Suma.",
+  "materia": "el aporte de CORFO a fondos de capital de riesgo",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que Chile captó en 2025 cerca del 6% de la inversión de capital de riesgo de la región.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El capital de riesgo es dinero que inversionistas ponen en empresas nuevas a cambio de participar en ellas.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Autoriza a la Corporación de Fomento de la Producción (CORFO) a aportar dinero a fondos de fondos y a fondos de capital de riesgo, para movilizar inversión privada.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La ley exigiría informes públicos de evaluación de sus resultados.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Si el primer informe concluye que una modalidad no movilizó inversión privada, CORFO no podría asumir nuevos compromisos en ella.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a CORFO y a las administradoras que gestionan los fondos.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 261, de octubre de 2026, dice que los aportes de CORFO no afectan el patrimonio neto del Fisco.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Dice que el mayor gasto del primer año se paga con recursos del Ministerio de Economía.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El primer año CORFO podría pagar cuotas por hasta 25.000.000 de dólares.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 28 de octubre de 2026 a la Cámara de Diputados, en primer trámite, y pasó a las comisiones de Economía y de Hacienda.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia Suma, que el Gobierno hizo presente de nuevo el 3 de noviembre.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La Comisión de Economía lo tiene citado el 17 de noviembre de 2026 para continuar la discusión general.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 220-374: texto del mensaje",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37372&tipodoc=ofic",
+      "fecha": "28 de octubre de 2026",
+      "nota": "Antecedentes del mensaje, con el diagnóstico del problema."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pasajes del mensaje y del informe financiero N° 261 sobre costo fiscal",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19503&tipodoc=mensaje_mocion",
+      "fecha": "28 de octubre de 2026",
+      "nota": "Costo fiscal y financiamiento."
+    },
+    {
+      "id": "f4",
+      "titulo": "Pasajes del oficio N° 220-374 sobre lo que propone el proyecto",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37372&tipodoc=ofic",
+      "fecha": "28 de octubre de 2026",
+      "nota": "Objeto, informes de evaluación y normas transitorias."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18819-03 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18819",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Etapa, comisiones y urgencias."
+    },
+    {
+      "id": "f6",
+      "titulo": "Citación de la Comisión de Economía de la Cámara para el 17 de noviembre de 2026",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo; conviene confirmarla allí."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
