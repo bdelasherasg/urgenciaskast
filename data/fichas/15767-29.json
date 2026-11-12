@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "boletin": "15767-29",
+  "nivel": "basica",
+  "sintesis": "Deroga la ley que somete las artes marciales al control de la Dirección General de Movilización Nacional y las incorpora a la ley del Deporte. Está en el Senado, en discusión particular, con suma urgencia.",
+  "materia": "la derogación de la ley de control de las artes marciales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley N° 18.356 somete las artes marciales al control de la Dirección General de Movilización Nacional.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que desde 2003 el karate, el judo y el taekwondo, entre otros, se rigen por la ley del Deporte, y otras disciplinas no.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara declara deporte a las artes marciales y deroga la ley N° 18.356.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Un reglamento fija la fiscalización y los requisitos de instructores y estudiantes, en un plazo de seis meses.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Una indicación del Ejecutivo propone regir solo las artes marciales reconocidas como deporte por el Ministerio del Deporte.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 19.712, del Deporte, y deroga la ley N° 18.356.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La derogación elimina las tarifas de los permisos y atribuciones de esa Dirección, según la Secretaría de la comisión.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La indicación del Ejecutivo crea un registro público y gratuito de instructores acreditados. La comisión la aprobó por unanimidad.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las academias, los instructores y los estudiantes de artes marciales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Los autores sostienen que derogar la ley no irrogaría gasto del Estado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 12 de marzo de 2024 y lo envió al Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La Sala del Senado lo aprobó en general el 3 de junio de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La comisión entregó su segundo informe el 30 de septiembre de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre se hizo presente la urgencia suma.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Deroga la ley N°18.356, que establece normas sobre control de las artes marciales y deroga la ley N°18.039, e incorpora el concepto de artes marciales en la ley N°19.712, del Deporte",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16301&tipodoc=mensaje_mocion",
+      "fecha": "2023-03-22",
+      "nota": "Texto de la moción y sus fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Segundo informe de comisión de Cultura, Patrimonio, Artes, Deportes y Recreación · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28261&tipodoc=info",
+      "fecha": "2026-09-30",
+      "nota": "Segundo informe de la Comisión de Cultura, Deportes y Recreación del Senado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Cultura, Patrimonio, Artes, Deportes y Recreación · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27813&tipodoc=info",
+      "fecha": "2026-01-13",
+      "nota": "Primer informe de la misma comisión."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 19274: Comunica al Senado que la Cámara de Diputados ha aprobado el proyecto de ley.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33033&tipodoc=ofic",
+      "fecha": "2024-03-12",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 15767-29 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15767",
+      "fecha": "2026-11-11",
+      "nota": "Etapas, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
