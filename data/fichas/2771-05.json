@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "2771-05",
+  "nivel": "basica",
+  "sintesis": "Cambia la ley de protección de la vida privada: fija 30 días antes de informar una morosidad y tres días hábiles para avisar un pago. La Cámara lo rechazó en 2002 y su tramitación terminó.",
+  "materia": "los plazos para informar y aclarar deudas en los registros comerciales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los registros de deudas, como Dicom, se volvieron un obstáculo para las familias y la economía.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que hoy se exige no tener deudas anotadas para postular a un empleo o arrendar una casa.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que el deudor paga una tarifa para aclarar una deuda que ya pagó.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que el acreedor informe una morosidad solo después de 30 días corridos desde que la deuda era exigible.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone que el acreedor avise un pago al registro en un máximo de tres días hábiles.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone que la tarifa de aclaración la pague quien informó la morosidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 19.628, sobre protección de la vida privada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega un párrafo final al artículo 17 y reemplaza el segundo párrafo del artículo 19.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si el deudor pide el cambio y paga la tarifa, podría cobrársela a su acreedor.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los deudores, a los acreedores y a los registros que guardan datos de morosidad.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 21 de agosto de 2001.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Comisión de Hacienda emitió su informe el 13 de junio de 2002, con el texto del proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La Cámara lo rechazó en la discusión general el 4 de julio de 2002, y su tramitación terminó.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 2771-05 (21 de agosto de 2001)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=3052&tipodoc=mensaje_mocion",
+      "fecha": "2001-08-21",
+      "nota": "Fundamentos y texto propuesto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Hacienda de la Cámara (13 de junio de 2002)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=4535&tipodoc=info",
+      "fecha": "2002-06-13",
+      "nota": "Objetivo, discusión y texto que recomienda aprobar."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, tramitación del boletín 2771-05",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=2771",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, estado y trámites."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
