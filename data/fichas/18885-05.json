@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "18885-05",
+  "nivel": "basica",
+  "sintesis": "Frena las alzas de la gasolina y el diésel hasta el 3 de febrero de 2027 y alivia la carga de las empresas de transporte. Está en primer trámite en la Cámara, con discusión inmediata.",
+  "materia": "las alzas de los precios de la gasolina y el diésel",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El gobierno dice que la guerra en Medio Oriente subió el precio internacional del diésel cerca de 80% y el de las gasolinas cerca de 40%.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que el mecanismo que frena esas alzas, llamado MEPCO, costó cerca de $1,4 billones al fisco entre marzo y noviembre de 2026.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Deja sin efecto las alzas del 11 de noviembre, de cerca de $40 por litro.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Impide nuevas alzas de precios hasta el 3 de febrero de 2027.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sube durante 2027 el porcentaje del impuesto al diésel que recuperan los transportistas de carga, entre 31% y 80% según sus ingresos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Por un tiempo, suspende el ajuste semanal de hasta 2,4% que permite la ley 20.765.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los montos negativos de recuperación del impuesto se descuentan de créditos futuros, sin pago inmediato.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes compran gasolina y diésel y a las empresas de transporte de carga.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También afecta al fisco, que recauda menos impuesto a los combustibles.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 270 estima un efecto negativo en las cuentas fiscales de $172.969 millones el primer año, 2026, y de $365.905 millones el segundo, en pesos de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Dice que se financiará con la venta de activos del Tesoro Público y que las cifras pueden variar con los precios.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El mensaje ingresó a la Cámara de Diputados el 12 de noviembre de 2026, con urgencia de discusión inmediata.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Pasó a la Comisión de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje N° 439-374 del Presidente de la República, boletín 18885-05",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19564&tipodoc=mensaje_mocion",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Fundamentos y contenido del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe financiero N° 270 de la Dirección de Presupuestos, 12 de noviembre de 2026",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19564&tipodoc=mensaje_mocion",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Efecto fiscal y financiamiento."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, tramitación oficial del boletín 18885-05",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18885",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
