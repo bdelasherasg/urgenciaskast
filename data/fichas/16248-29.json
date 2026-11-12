@@ -1,0 +1,168 @@
+{
+  "version": 2,
+  "boletin": "16248-29",
+  "nivel": "basica",
+  "sintesis": "Deroga la ley que somete las artes marciales al control de la Dirección General de Movilización Nacional y las incorpora a la Ley del Deporte. Está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "las artes marciales y la Ley del Deporte",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley 18.356 trata distinto a ciertas artes marciales que a otros deportes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, el kickboxing requiere una autorización especial de la Dirección General de Movilización Nacional.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara deroga la ley 18.356 y agrega las artes marciales a la Ley del Deporte.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "En el Senado, el Presidente de la República presentó tres indicaciones.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La indicación 1 crea un artículo 2 ter en la Ley del Deporte, que define el arte marcial.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Quedan sujetas a la ley las artes marciales que el Ministerio del Deporte reconozca como modalidad deportiva.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Un reglamento fijará la acreditación de quienes enseñan y un registro público y gratuito.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión aprobó la indicación 1 sin cambios y las indicaciones 2 y 3 con modificaciones.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a instructores y escuelas de artes marciales, hoy sujetos al control de esa Dirección.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El informe de la Cámara cuenta que los autores dicen que quitar las tarifas no daría gasto al Estado ni menos ingresos.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El informe de la comisión del Senado dice que la derogación elimina las tarifas de permisos.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 12 de marzo de 2024 y pasó al Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El Senado lo aprobó en general el 3 de junio de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Su segundo informe de comisión se dio a conocer el 30 de septiembre de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, boletín 16248-29 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16798&tipodoc=mensaje_mocion",
+      "fecha": "2023-08-30",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, segundo informe de la Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28262&tipodoc=info",
+      "fecha": "2026-09-30",
+      "nota": "Indicaciones del Ejecutivo y debate en particular."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, primer informe de la Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27814&tipodoc=info",
+      "fecha": "2026-01-13",
+      "nota": "Debate sobre tarifas y facultades del Ejecutivo."
+    },
+    {
+      "id": "f4",
+      "titulo": "Cámara, primer informe de la Comisión de Deportes y Recreación",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26317&tipodoc=info",
+      "fecha": "2024-01-12",
+      "nota": "Idea matriz y fundamentos de las mociones."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 19.274 de la Cámara al Senado con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33034&tipodoc=ofic",
+      "fecha": "2024-03-12",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 16248-29",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16248",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
