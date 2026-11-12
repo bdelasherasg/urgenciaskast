@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "boletin": "18318-19",
+  "nivel": "basica",
+  "sintesis": "Fija reglas para que las plataformas digitales protejan a niños, niñas y adolescentes, y prohíbe el diseño que busca captar su atención de forma compulsiva. Está en primer trámite en la Cámara.",
+  "materia": "la protección digital de niños, niñas y adolescentes",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las plataformas digitales se diseñan para captar y retener la atención de niños, niñas y adolescentes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita la encuesta ELPI 2024: el 42,7% de los adolescentes se queda despierto todos los días mirando el celular o tablet.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que Chile no tiene una norma que prohíba el diseño algorítmico orientado a captar la atención de forma compulsiva.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Prohíbe para menores el diseño adictivo y los patrones oscuros, que son diseños que empujan al usuario a decidir algo que no quiere.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Prohíbe la publicidad según la conducta del usuario y el perfilamiento de menores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Define en el artículo 3 términos como plataforma digital y red social.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Una indicación del Presidente dispone informar la calificación por edad de cada videojuego antes de su descarga.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Se aplica a las empresas que ofrecen plataformas digitales a usuarios en Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las indicaciones dejan fuera servicios como la mensajería privada y el correo electrónico.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Un informe financiero de octubre de 2026 dice que las indicaciones no irrogan mayor gasto fiscal. Es decir, no implican gasto adicional para el Estado.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto está en primer trámite en la Cámara de Diputados, con urgencia simple desde el 26 de octubre de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Se tramita junto con tres proyectos más.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 19 de octubre de 2026 la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación continuó la votación en particular.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Esa votación sigue citada el 16 y el 17 de noviembre de 2026.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 18.318-19 (texto original, junio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18996&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-02",
+      "nota": "Objetivos, ámbito y definiciones."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio 216-374: informe financiero complementario de las indicaciones (26 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37350&tipodoc=ofic",
+      "fecha": "2026-10-26",
+      "nota": "Indicaciones sobre videojuegos, privacidad y compras; sin mayor gasto fiscal."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 167-374 e informe financiero complementario (29 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37259&tipodoc=ofic",
+      "fecha": "2026-09-29",
+      "nota": "Exclusiones de la definición de plataforma."
+    },
+    {
+      "id": "f6",
+      "titulo": "Cámara, resultados de comisiones (19 de octubre de 2026)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-19",
+      "nota": "Sesión de la Comisión de Futuro."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 18.318-19",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18318",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, urgencia y refundición."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (copiadas por el equipo)",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "2026-11-11",
+      "nota": "Citación para el 16 y 17 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
