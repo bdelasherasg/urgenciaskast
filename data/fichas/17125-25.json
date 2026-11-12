@@ -1,0 +1,135 @@
+{
+  "version": 2,
+  "boletin": "17125-25",
+  "nivel": "basica",
+  "sintesis": "Obliga a los abogados de imputados por tráfico de drogas y otros delitos a cobrar sus honorarios sin efectivo y a acreditar el pago. Está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "el origen lícito de los honorarios de los abogados defensores",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que, en causas de tráfico de drogas, los honorarios de los abogados se pagan muchas veces en efectivo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, el efectivo dificulta comprobar que ese dinero tenga origen lícito.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara obliga a los abogados de imputados por delitos de la ley 20.000 a cobrar con medios distintos al efectivo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Los medios admitidos son cheque, vale vista, tarjeta de pago o transferencia electrónica.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El abogado debe acreditar en el tribunal el pago recibido, al concluir, renunciar o abandonar la defensa.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Quien incumpla puede ser suspendido del ejercicio de la profesión de seis meses a un año.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La obligación se extiende a ciertos delitos funcionarios, de asociaciones criminales y de terrorismo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El texto modifica la ley 19.913, que crea la Unidad de Análisis Financiero, para incluir a estos abogados.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los abogados que defienden a imputados por esos delitos.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "No rige para los abogados de la Defensoría Penal Pública.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 14 de abril de 2025, refundido con el boletín 17111-07.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 15 de abril de 2025 pasó al Senado, a la Comisión de Seguridad Pública.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre de 2026 se dio cuenta de una urgencia suma.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, boletín 17125-25 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17746&tipodoc=mensaje_mocion",
+      "fecha": "2024-09-11",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 20.333 de la Cámara al Senado con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34702&tipodoc=ofic",
+      "fecha": "2025-04-14",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f10",
+      "titulo": "Senado, tramitación del boletín 17125-25",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17125",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
