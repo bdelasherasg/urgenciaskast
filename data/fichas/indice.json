@@ -34,6 +34,13 @@
   "materia": "el acceso más rápido de las personas con discapacidad a sus beneficios",
   "revision": "pendiente"
  },
+ "14773-02": {
+  "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el control de la exportación de materiales de uso dual y de defensa",
+  "revision": "pendiente"
+ },
  "14782-13": {
   "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
   "nivel": "basica",
@@ -48,11 +55,18 @@
   "materia": "las plataformas de apuestas en línea",
   "revision": "pendiente"
  },
+ "15047-11": {
+  "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el fondo de la Ley Ricarte Soto para tratamientos de alto costo",
+  "revision": "pendiente"
+ },
  "15261-25": {
-  "sintesis": "Convierte en delito entrar a Chile por un paso no habilitado o eludiendo el control migratorio. El Senado lo aprobó en general y ahora la comisión de Gobierno lo revisa en detalle.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "el delito de ingreso clandestino al país",
+  "sintesis": "Castiga con cárcel o multa el ingreso clandestino al país por pasos no habilitados. La Cámara lo aprobó en 2024. Está en el Senado, que lo aprobó en general en mayo de 2026.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el delito de ingreso clandestino al territorio nacional",
   "revision": "pendiente"
  },
  "15589-07": {
@@ -70,10 +84,10 @@
   "revision": "pendiente"
  },
  "15850-11": {
-  "sintesis": "Crea delitos por vender medicamentos en lugares no autorizados, por falsificarlos y por robarlos, y da más facultades al ISP. Está en el Senado, en discusión particular, tras su aprobación en general.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
-  "materia": "la sanción de la venta ilegal de medicamentos",
+  "sintesis": "Prohíbe que las farmacias distribuyan medicamentos y crea delitos por vender medicamentos en lugares no autorizados o falsificados. Está en el Senado, que lo aprobó en general en julio de 2026.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la venta y distribución de medicamentos y la sanción de su venta ilegal",
   "revision": "pendiente"
  },
  "16143-02": {
@@ -97,6 +111,20 @@
   "materia": "la prevención y mitigación de incendios forestales",
   "revision": "pendiente"
  },
+ "16552-12": {
+  "sintesis": "Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la reforma a la institucionalidad ambiental",
+  "revision": "pendiente"
+ },
+ "16725-06": {
+  "sintesis": "Elimina la regla que da feriado en días de elecciones a los trabajadores de centros comerciales y sube a cuatro horas el permiso para votar. La Cámara lo aprobó en junio de 2026 y está en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el feriado de los centros comerciales en días de elecciones",
+  "revision": "pendiente"
+ },
  "16743-04": {
   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
   "nivel": "basica",
@@ -118,6 +146,13 @@
   "materia": "la seguridad en los servicios de turismo aventura",
   "revision": "aprobada"
  },
+ "17170-07": {
+  "sintesis": "Aumenta las penas por robo, hurto y receptación de productos, insumos o maquinaria agrícola. La Cámara lo aprobó en abril de 2026 y está en el Senado, en la Comisión de Constitución.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las penas por delitos contra productos, insumos y maquinaria agrícola",
+  "revision": "pendiente"
+ },
  "17567-11": {
   "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
   "nivel": "basica",
@@ -133,10 +168,17 @@
   "revision": "pendiente"
  },
  "17800-11": {
-  "sintesis": "Cambia el Código Sanitario en la rotulación y el etiquetado del jurel. Es una moción en primer trámite en la Cámara de Diputados, en la Comisión de Salud.",
-  "nivel": "completa",
-  "publicado": "2026-11-01",
-  "materia": "la rotulación y el etiquetado del jurel",
+  "sintesis": "Agrega al Código Sanitario reglas para que solo la especie jurel se venda con ese nombre y su envase informe especie y origen. Está en la Comisión de Salud de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el etiquetado del jurel",
+  "revision": "pendiente"
+ },
+ "17820-09": {
+  "sintesis": "Modifica la ley sobre publicidad visible desde caminos para facilitar la instalación de elementos publicitarios. Está en primer trámite en la Cámara de Diputados, en la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la publicidad visible desde caminos y vías públicas",
   "revision": "pendiente"
  },
  "17877-33": {
@@ -182,10 +224,17 @@
   "revision": "pendiente"
  },
  "18223-15": {
-  "sintesis": "Libera de sanciones, de forma transitoria, a conductores de aplicaciones de transporte de pasajeros hasta que entre en vigencia la ley 21.553. Es una moción en primer trámite en la Cámara.",
-  "nivel": "completa",
-  "publicado": "2026-11-01",
+  "sintesis": "Suspende sanciones a conductores de aplicaciones de transporte de pasajeros hasta que entre en vigencia la ley 21.553. Es una moción en primer trámite en la Cámara, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
   "materia": "la exención transitoria de sanciones a conductores de aplicaciones de transporte",
+  "revision": "pendiente"
+ },
+ "18224-18": {
+  "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la protección de niñas, niños y adolescentes en redes sociales",
   "revision": "pendiente"
  },
  "18239-36": {
@@ -193,6 +242,13 @@
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "las sanciones a las denuncias y querellas falsas",
+  "revision": "pendiente"
+ },
+ "18246-18": {
+  "sintesis": "Prohíbe a menores de 16 años usar redes sociales y a menores de 18 las apuestas y la pornografía en línea. Está en votación en particular en una comisión de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el acceso de menores de edad a redes sociales y otras plataformas",
   "revision": "pendiente"
  },
  "18255-31": {
@@ -209,11 +265,39 @@
   "materia": "los controles de identidad de las Fuerzas Armadas en estados de excepción",
   "revision": "pendiente"
  },
+ "18271-07": {
+  "sintesis": "Obliga a las organizaciones sin fines de lucro a declarar los aportes que reciben desde el extranjero, con multa si no lo hacen. Está en primer trámite en la Cámara de Diputados.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la declaración de aportes del extranjero a organizaciones sin fines de lucro",
+  "revision": "pendiente"
+ },
  "18314-07": {
   "sintesis": "Reforma la Constitución para que la ley fije entre cinco y sesenta días la detención de extranjeros con expulsión administrativa. La Cámara la rechazó y el gobierno insiste en el Senado.",
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "la detención de extranjeros para ejecutar expulsiones administrativas",
+  "revision": "pendiente"
+ },
+ "18318-19": {
+  "sintesis": "Fija reglas para que las plataformas digitales protejan a niños, niñas y adolescentes, y prohíbe el diseño que busca captar su atención de forma compulsiva. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la protección digital de niños, niñas y adolescentes",
+  "revision": "pendiente"
+ },
+ "18326-18": {
+  "sintesis": "Busca prevenir y sancionar las denuncias falsas y los informes técnicos sin rigor en procesos judiciales de familia. Es una moción en primer trámite en la Cámara, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la protección de niños en procesos judiciales y las denuncias falsas",
+  "revision": "pendiente"
+ },
+ "18331-17": {
+  "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la transparencia y el gobierno del Instituto Nacional de Derechos Humanos",
   "revision": "pendiente"
  },
  "18341-25": {
@@ -228,6 +312,13 @@
   "nivel": "completa",
   "publicado": "2026-11-01",
   "materia": "el régimen de exclusiva confianza en la Contraloría",
+  "revision": "pendiente"
+ },
+ "18415-18": {
+  "sintesis": "Agrega a la ley marco de ciberseguridad dos principios para proteger a niños, niñas y adolescentes en internet, entre ellos la restricción de edad en redes sociales. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la protección de la infancia en entornos digitales",
   "revision": "pendiente"
  },
  "18420-25": {
@@ -251,6 +342,13 @@
   "materia": "los procedimientos de evaluación médica que fundamentan retiros en Carabineros",
   "revision": "pendiente"
  },
+ "18461-04": {
+  "sintesis": "Regula quién puede ser apoderado en los colegios, su orden de prioridad, un límite de estudiantes por apoderado y la forma de delegar. Es una moción en primer trámite en la Cámara, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la regulación de los apoderados en el sistema escolar",
+  "revision": "pendiente"
+ },
  "18464-14": {
   "sintesis": "Crea un procedimiento más rápido para regularizar la posesión de viviendas de personas afectadas por sismos y otras catástrofes. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
   "nivel": "basica",
@@ -266,9 +364,9 @@
   "revision": "pendiente"
  },
  "18509-35": {
-  "sintesis": "Obliga a anunciar por voz las próximas estaciones o paradas del transporte público que tenga sistema de sonido. Es una moción en primer trámite en la Cámara de Diputados.",
-  "nivel": "completa",
-  "publicado": "2026-11-01",
+  "sintesis": "Dispone que el reglamento exija avisar por voz y en tiempo real las estaciones y paradas del transporte público con sistema de sonido. Está en primer trámite en la Cámara, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
   "materia": "la señalización auditiva de estaciones y paradas en el transporte público",
   "revision": "pendiente"
  },
@@ -279,11 +377,32 @@
   "materia": "la ley corta de seguridad municipal",
   "revision": "pendiente"
  },
+ "18530-02": {
+  "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "los delitos de espionaje y la protección de información estratégica del Estado",
+  "revision": "pendiente"
+ },
  "18551-04": {
   "sintesis": "Permite al Presidente cambiar el calendario de instalación de los servicios locales de educación pública y postergar el traspaso de colegios municipales. La Cámara lo aprobó sin cambios; vuelve al Senado.",
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "el calendario de instalación de los servicios locales de educación pública",
+  "revision": "pendiente"
+ },
+ "18621-34": {
+  "sintesis": "Perfecciona las medidas de protección que dictan los jueces en casos de violencia intrafamiliar y de violencia contra las mujeres por razón de género. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las medidas cautelares en casos de violencia intrafamiliar y de género",
+  "revision": "pendiente"
+ },
+ "18622-24": {
+  "sintesis": "Prohíbe dar financiamiento estatal a las actividades que incluyan espectáculos pornográficos o de explotación comercial de contenido sexual explícito. Está en primer trámite en la Cámara, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "los requisitos para acceder a fondos públicos culturales y artísticos",
   "revision": "pendiente"
  },
  "18623-07": {
@@ -300,6 +419,13 @@
   "materia": "la reforma al mercado de capitales y el financiamiento de la casa propia",
   "revision": "pendiente"
  },
+ "18680-15": {
+  "sintesis": "Sanciona como infracción gravísima conducir un vehículo con el escape o el convertidor catalítico alterado o retirado. Está en primer trámite en la Cámara de Diputados, refundido con otras dos mociones.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la sanción por alterar el escape y las emisiones de los vehículos",
+  "revision": "pendiente"
+ },
  "18702-05": {
   "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
   "nivel": "completa",
@@ -312,6 +438,27 @@
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "la implementación del Servicio Nacional de Acceso a la Justicia",
+  "revision": "pendiente"
+ },
+ "18729-15": {
+  "sintesis": "Sanciona como infracción grave alterar el tubo de escape o usar dispositivos que aumenten el ruido de un vehículo, y permite retirarlo de circulación. Está en primer trámite en la Cámara, con urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las sanciones por alterar el escape y aumentar el ruido de los vehículos",
+  "revision": "pendiente"
+ },
+ "18730-29": {
+  "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, en la Comisión de Deportes y Recreación.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el contrato de trabajo de deportistas profesionales de disciplinas distintas del fútbol",
+  "revision": "pendiente"
+ },
+ "18744-15": {
+  "sintesis": "Prohíbe circular con «tronadores» u otras modificaciones que aumenten el ruido del motor o del escape, y ordena retirar esos vehículos. Está en primer trámite en la Cámara, con urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la prohibición de circular con tronadores y otras modificaciones que aumentan el ruido",
   "revision": "pendiente"
  },
  "18779-07": {
@@ -342,6 +489,13 @@
   "materia": "el procedimiento de la rebaja de condena por comportamiento sobresaliente",
   "revision": "pendiente"
  },
+ "18819-03": {
+  "sintesis": "Autoriza a CORFO a aportar a fondos de capital de riesgo y fondos de fondos para movilizar inversión privada. Está en primer trámite en la Cámara, con urgencia Suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el aporte de CORFO a fondos de capital de riesgo",
+  "revision": "pendiente"
+ },
  "18821-08": {
   "sintesis": "Facilita la conexión de cargadores de vehículos eléctricos a la red y su acceso a precios libres de energía. Está en primer trámite en el Senado, sin urgencia.",
   "nivel": "basica",
@@ -349,11 +503,25 @@
   "materia": "la conexión de cargadores de vehículos eléctricos",
   "revision": "pendiente"
  },
+ "18825-09": {
+  "sintesis": "Reemplaza el enfoque de evacuar las aguas lluvias por uno de gestión integral, para reducir riesgos, proteger la calidad del agua y aumentar su disponibilidad. Está en primer trámite en la Cámara, sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la gestión integral de las aguas lluvias",
+  "revision": "pendiente"
+ },
  "18881-25": {
   "sintesis": "Deroga la ley que permite reducir las condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal. Está en primer trámite en el Senado, con discusión inmediata.",
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "la derogación del sistema de reducción de condenas por buena conducta",
+  "revision": "pendiente"
+ },
+ "2771-05": {
+  "sintesis": "Cambia la ley de protección de la vida privada: fija 30 días antes de informar una morosidad y tres días hábiles para avisar un pago. La Cámara lo rechazó en 2002 y su tramitación terminó.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "los plazos para informar y aclarar deudas en los registros comerciales",
   "revision": "pendiente"
  },
  "8654-15": {

@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-12T03:07-03:00",
+ "actualizado": "2026-11-12T03:17-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -68,7 +68,7 @@
     {
      "boletin": "2771-05",
      "titulo": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de reforzar los derechos de los ciudadanos y hacer mas equitativos los sistemas de información de antecedentes comerciales.",
-     "sintesis": "",
+     "sintesis": "Cambia la ley de protección de la vida privada: fija 30 días antes de informar una morosidad y tres días hábiles para avisar un pago. La Cámara lo rechazó en 2002 y su tramitación terminó.",
      "url": "https://urgenciaskast.cl/p/2771-05.html"
     }
    ]
@@ -82,7 +82,7 @@
     {
      "boletin": "15047-11",
      "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
-     "sintesis": "",
+     "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
      "url": "https://urgenciaskast.cl/p/15047-11.html"
     },
     {
@@ -102,25 +102,25 @@
     {
      "boletin": "18224-18",
      "titulo": "Establece un marco integral de protección de niñas, niños y adolescentes en el uso de redes sociales",
-     "sintesis": "",
+     "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
      "url": "https://urgenciaskast.cl/p/18224-18.html"
     },
     {
      "boletin": "18246-18",
      "titulo": "Protege a los menores de edad frente a la adicción a las nuevas tecnologías y prohíbe el acceso a redes sociales y otras plataformas",
-     "sintesis": "",
+     "sintesis": "Prohíbe a menores de 16 años usar redes sociales y a menores de 18 las apuestas y la pornografía en línea. Está en votación en particular en una comisión de la Cámara.",
      "url": "https://urgenciaskast.cl/p/18246-18.html"
     },
     {
      "boletin": "18318-19",
      "titulo": "Establece un estatuto de responsabilidad algorítmica y protección digital de niños, niñas y adolescentes",
-     "sintesis": "",
+     "sintesis": "Fija reglas para que las plataformas digitales protejan a niños, niñas y adolescentes, y prohíbe el diseño que busca captar su atención de forma compulsiva. Está en primer trámite en la Cámara.",
      "url": "https://urgenciaskast.cl/p/18318-19.html"
     },
     {
      "boletin": "18415-18",
      "titulo": "Modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales",
-     "sintesis": "",
+     "sintesis": "Agrega a la ley marco de ciberseguridad dos principios para proteger a niños, niñas y adolescentes en internet, entre ellos la restricción de edad en redes sociales. Está en primer trámite en la Cámara.",
      "url": "https://urgenciaskast.cl/p/18415-18.html"
     }
    ]
@@ -134,7 +134,7 @@
     {
      "boletin": "18622-24",
      "titulo": "Establece requisitos de elegibilidad para el acceso a fondos públicos destinados a actividades culturales y artísticas",
-     "sintesis": "",
+     "sintesis": "Prohíbe dar financiamiento estatal a las actividades que incluyan espectáculos pornográficos o de explotación comercial de contenido sexual explícito. Está en primer trámite en la Cámara, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18622-24.html"
     }
    ]
@@ -148,7 +148,7 @@
     {
      "boletin": "18825-09",
      "titulo": "Modifica textos legales que indica para incorporar la gestión integral de las aguas lluvias",
-     "sintesis": "",
+     "sintesis": "Reemplaza el enfoque de evacuar las aguas lluvias por uno de gestión integral, para reducir riesgos, proteger la calidad del agua y aumentar su disponibilidad. Está en primer trámite en la Cámara, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18825-09.html"
     }
    ]
@@ -162,7 +162,7 @@
     {
      "boletin": "18326-18",
      "titulo": "Refuerza la protección integral de niños, niñas y adolescentes en procesos judiciales y establece medidas de prevención y sanción de falsos informes y denuncias",
-     "sintesis": "",
+     "sintesis": "Busca prevenir y sancionar las denuncias falsas y los informes técnicos sin rigor en procesos judiciales de familia. Es una moción en primer trámite en la Cámara, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18326-18.html"
     }
    ]
@@ -204,7 +204,7 @@
     {
      "boletin": "18331-17",
      "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
-     "sintesis": "",
+     "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
      "url": "https://urgenciaskast.cl/p/18331-17.html"
     },
     {
@@ -224,7 +224,7 @@
     {
      "boletin": "18730-29",
      "titulo": "Modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional",
-     "sintesis": "",
+     "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, en la Comisión de Deportes y Recreación.",
      "url": "https://urgenciaskast.cl/p/18730-29.html"
     }
    ]
@@ -238,7 +238,7 @@
     {
      "boletin": "18461-04",
      "titulo": "Modifica la ley N°20.370, general de educación, para regular a los apoderados en el sistema educacional chileno",
-     "sintesis": "",
+     "sintesis": "Regula quién puede ser apoderado en los colegios, su orden de prioridad, un límite de estudiantes por apoderado y la forma de delegar. Es una moción en primer trámite en la Cámara, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18461-04.html"
     }
    ]
@@ -252,13 +252,13 @@
     {
      "boletin": "14773-02",
      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-     "sintesis": "",
+     "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
      "url": "https://urgenciaskast.cl/p/14773-02.html"
     },
     {
      "boletin": "18530-02",
      "titulo": "Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado",
-     "sintesis": "",
+     "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados.",
      "url": "https://urgenciaskast.cl/p/18530-02.html"
     }
    ]
@@ -278,28 +278,28 @@
    "url": "https://urgenciaskast.cl/p/14309-04.html"
   },
   {
+   "boletin": "14773-02",
+   "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/14773-02.html"
+  },
+  {
    "boletin": "14838-03",
    "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
    "publicado": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/14838-03.html"
   },
   {
-   "boletin": "16300-07",
-   "sintesis": "Extiende la legítima defensa privilegiada al policía o militar que, estando de franco, repele una agresión grave contra sí o contra un tercero. La Cámara lo aprobó; el Senado lo revisa.",
+   "boletin": "15047-11",
+   "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
    "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/16300-07.html"
+   "url": "https://urgenciaskast.cl/p/15047-11.html"
   },
   {
-   "boletin": "16335-14",
-   "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara y el Senado aprobaron el informe de la comisión mixta.",
+   "boletin": "15261-25",
+   "sintesis": "Castiga con cárcel o multa el ingreso clandestino al país por pasos no habilitados. La Cámara lo aprobó en 2024. Está en el Senado, que lo aprobó en general en mayo de 2026.",
    "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/16335-14.html"
-  },
-  {
-   "boletin": "16743-04",
-   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/16743-04.html"
+   "url": "https://urgenciaskast.cl/p/15261-25.html"
   }
  ],
  "analisis": [
