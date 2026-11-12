@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "boletin": "18576-06",
+  "nivel": "basica",
+  "sintesis": "Amplía de dos a tres años la vigencia de las patentes municipales provisorias y de uno a dos años su extensión, para evitar el cierre de negocios en trámite de permisos. Está en primer trámite en la Cámara.",
+  "materia": "el plazo de las patentes municipales provisorias",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La patente provisoria permite funcionar a un negocio mientras obtiene sus permisos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si el plazo vence sin permisos, la patente caduca y el negocio debe cesar sus actividades de inmediato.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los autores dicen que el plazo legal es más corto que lo que demoran los trámites.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Sube de dos a tres años la vigencia de la patente provisoria.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Amplía de uno a dos años la extensión que se puede pedir por una sola vez.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si el municipio no responde en treinta días al plan de trabajo, la extensión se entiende aprobada.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 26 de la Ley sobre Rentas Municipales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Reduce de sesenta a treinta días la anticipación para presentar el plan de trabajo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sube de tres a cinco años el plazo máximo que puede dar la Dirección de Obras Municipales para corregir observaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los negocios con patente provisoria vigente cuando se publique la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afecta a las municipalidades, que otorgan estas patentes.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de Gobierno Interior aprobó la idea de legislar por unanimidad, según su informe del 10 de noviembre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 11 de noviembre se dio cuenta del informe y el proyecto quedó para tabla.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma desde el 2 de noviembre.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Cámara, moción del boletín 18.576-06 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19259&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-06",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, primer informe de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28380&tipodoc=info",
+      "fecha": "2026-11-10",
+      "nota": "Idea matriz y votación en general."
+    },
+    {
+      "id": "f4",
+      "titulo": "Senado, tramitación del boletín 18.576-06",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18576",
+      "fecha": "2026-11-12",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
