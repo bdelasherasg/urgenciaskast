@@ -1,116 +1,129 @@
 {
   "version": 2,
   "boletin": "18383-06",
-  "nivel": "completa",
-  "sintesis": "Excluye del régimen de exclusiva confianza a los funcionarios de ciertas plantas de la Contraloría. Es una moción en primer trámite en la Cámara, refundida con el boletín 18728-06.",
+  "nivel": "basica",
+  "sintesis": "Excluye del régimen de exclusiva confianza a los funcionarios administrativos, técnicos, auxiliares y de mayordomía de la Contraloría. Es una moción en primer trámite en la Cámara, refundida con otra.",
   "materia": "el régimen de exclusiva confianza en la Contraloría",
   "resumen": {
     "problema": [
       {
-        "texto": "Según los autores, hoy todos los funcionarios de la Contraloría están en un régimen de exclusiva confianza.",
+        "texto": "Los autores explican que la ley se ha entendido así: todos los funcionarios de la Contraloría trabajan por exclusiva confianza del Contralor.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       },
       {
-        "texto": "Eso permite que el Contralor los remueva de forma discrecional, sin procedimiento disciplinario.",
+        "texto": "Eso permite sacarlos sin procedimiento disciplinario ni causa objetiva, también a personal administrativo, técnico o auxiliar.",
         "fuentes": [
-          "f2"
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostienen que esa regla es desproporcionada para quienes no participan en las decisiones de control.",
+        "fuentes": [
+          "f1"
         ]
       }
     ],
     "propone": [
       {
-        "texto": "La moción agrega un inciso final al artículo 3° de la ley 10.336.",
+        "texto": "Agrega un inciso final al artículo 3 de la Ley 10.336, orgánica de la Contraloría.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       },
       {
-        "texto": "Excluye del régimen de exclusiva confianza a las plantas administrativa, técnica, auxiliar y de mayordomía.",
+        "texto": "Excluye del régimen de exclusiva confianza a las plantas administrativa, de mayordomo, auxiliar y técnica.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "La permanencia y la cesación de esos funcionarios pasarían a regirse por el Estatuto Administrativo, ley 18.834.",
+        "texto": "La permanencia y la salida del cargo de esos funcionarios pasarían a regirse por el Estatuto Administrativo, Ley 18.834, en lo que no choque con la ley especial.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       },
       {
-        "texto": "El régimen de exclusiva confianza seguiría para los cargos que requieren relación directa de confianza.",
+        "texto": "El régimen especial se mantiene para los cargos que requieren una relación directa de confianza.",
         "fuentes": [
-          "f2"
+          "f3"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a los funcionarios de esas cuatro plantas de la Contraloría.",
+        "texto": "Afecta a los funcionarios de esas cuatro plantas de la Contraloría General de la República.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "estado": [
       {
-        "texto": "Ingresó el 22 de junio de 2026 y pasó a la Comisión de Gobierno Interior.",
+        "texto": "Ingresó a la Cámara el 22 de junio de 2026 y pasó a la Comisión de Gobierno Interior.",
         "fuentes": [
-          "f1"
+          "f2"
         ]
       },
       {
-        "texto": "El 26 de octubre de 2026 la Sala acordó refundirlo con el boletín 18728-06.",
+        "texto": "El 26 de octubre la Sala acordó refundirlo con el boletín 18728-06.",
         "fuentes": [
-          "f1"
+          "f2"
         ]
       },
       {
-        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "texto": "Está en primer trámite, a la espera del primer informe de comisión, y no tiene urgencia.",
         "fuentes": [
-          "f1"
+          "f2"
         ]
       }
     ]
   },
   "posiciones": [],
-  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
-  "encuadre": {
-    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
-    "marcos": [],
-    "disputa": {
-      "palabra": "",
-      "oraciones": []
-    }
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "ampliado": {
+    "estado": "sin_prensa",
+    "fecha": "2026-11-12",
+    "notas_revisadas": 4,
+    "medios": 0
   },
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 18383-06",
-      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/19065",
-      "fecha": "Consulta del 31 de octubre de 2026",
-      "nota": "Etapa, comisiones y fechas de tramitación."
+      "titulo": "Moción: Modifica ley N° 10.336, de organización y atribuciones de la Contraloría General de la República, con el objeto de delimitar el régimen de exclusiva confianza en dicha institución",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19065&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-22",
+      "nota": "Fundamentos y artículo único de la moción."
     },
     {
       "id": "f2",
+      "titulo": "Tramitación del boletín 18383-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18383",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, trámites, refundición y urgencia."
+    },
+    {
+      "id": "f3",
       "titulo": "Buscan delimitar el régimen de exclusiva confianza en Contraloría",
       "url": "https://www.diarioconstitucional.cl/2026/07/07/buscan-delimitar-el-regimen-de-exclusiva-confianza-en-contraloria/",
       "fecha": "2026-07-07",
-      "nota": "Contenido y fundamentos de la moción, según sus autores."
+      "nota": "Explicación de los autores de la moción."
     }
   ],
-  "consultado": "2026-10-31",
-  "publicado": "2026-11-01",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
