@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "boletin": "18286-03",
+  "nivel": "basica",
+  "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con suma urgencia.",
+  "materia": "la firma electrónica avanzada y los documentos electrónicos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que la presencia ante notario solo para autorizar firmas limita las contrataciones electrónicas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice también que los trámites presenciales generan costos y esperas, sobre todo para las pymes.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Cuando el notario solo autoriza o certifica firmas, ese requisito se podría cumplir con firma electrónica avanzada con sellado de tiempo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El sellado de tiempo permite acreditar la fecha y la hora de un documento electrónico.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 19.799 sobre documentos electrónicos y firma electrónica.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Agrega reglas sobre el valor probatorio de los documentos electrónicos y su impugnación en tribunales.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Excluye, entre otros, los actos de derecho familiar y los que exigen comparecencia personal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a personas y empresas que firman contratos y documentos, a los notarios y a los prestadores acreditados de certificación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero complementario N° 207, del 27 de agosto de 2026, informa un mayor gasto de $39.195 miles el primer año.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Informa $37.894 miles al año en régimen, para contratar un funcionario en la Subsecretaría de Economía.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "El informe N° 226, del 15 de septiembre de 2026, dice que sus indicaciones no inciden en el presupuesto fiscal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de Economía de la Cámara aprobó la idea de legislar por unanimidad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Su informe es del 6 de octubre de 2026, y se dio cuenta de él el 19 de octubre.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre se renovó la urgencia suma.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18962&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-02",
+      "nota": "Texto del mensaje y sus fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Economía, Fomento y Desarrollo · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28284&tipodoc=info",
+      "fecha": "2026-10-06",
+      "nota": "Informe de la Comisión de Economía de la Cámara."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° : S.E. el Presidente de la República retira y formula indicaciones al proyecto. (168-374). Incluye informe financiero complementario N° 226/15.09.2026.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37210&tipodoc=ofic",
+      "fecha": "2026-09-16",
+      "nota": "Indicaciones del 16 de septiembre de 2026 e informe financiero complementario N° 226."
+    },
+    {
+      "id": "f8",
+      "titulo": "Pasajes sobre costo fiscal en: Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (150-374). Incluye informe financiero complementario N° 207/27.08.2026.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37188&tipodoc=ofic",
+      "fecha": "2026-08-28",
+      "nota": "Indicaciones del 28 de agosto de 2026 e informe financiero complementario N° 207."
+    },
+    {
+      "id": "f10",
+      "titulo": "Tramitación del boletín 18286-03 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18286",
+      "fecha": "2026-11-11",
+      "nota": "Etapas, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
