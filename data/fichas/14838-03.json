@@ -1,0 +1,126 @@
+{
+  "version": 2,
+  "boletin": "14838-03",
+  "nivel": "basica",
+  "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
+  "materia": "las plataformas de apuestas en línea",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que estas plataformas ofrecen apuestas desde Chile, pero que la ley hoy prohíbe su funcionamiento.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el usuario no puede verificar que exista una posibilidad real de ganar o perder.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Regula las plataformas y busca un mercado competitivo con operadores locales y extranjeros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Busca resguardar la fe pública, proteger la salud de los jugadores y aumentar la recaudación fiscal.",
+        "fuentes": [
+          "f17"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Fortalece a la Superintendencia de Casinos de Juego, que pasaría a llamarse Superintendencia de Casinos, Apuestas y Juegos de Azar.",
+        "fuentes": [
+          "f16"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los jugadores, a los operadores de apuestas en línea y a la Superintendencia.",
+        "fuentes": [
+          "f1",
+          "f15"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "La Comisión de Hacienda informó un mayor gasto fiscal en régimen de $450.806 miles para la Superintendencia, más $30.000 miles transitorios en los primeros tres años.",
+        "fuentes": [
+          "f15"
+        ]
+      },
+      {
+        "texto": "Un informe de la Comisión de Economía cita que el proyecto recaudaría $84.090 millones al año en régimen.",
+        "fuentes": [
+          "f17"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El 6 de noviembre de 2026 se emitió el segundo informe de la Comisión de Economía del Senado.",
+        "fuentes": [
+          "f18"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia vigente.",
+        "fuentes": [
+          "f18"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 14.838-03 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15336&tipodoc=mensaje_mocion",
+      "fecha": "2022-03-07",
+      "nota": "Objetivos del proyecto."
+    },
+    {
+      "id": "f15",
+      "titulo": "Senado, informe de la Comisión de Hacienda, segundo trámite (5 de agosto de 2025), pasajes sobre costo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27405&tipodoc=info",
+      "fecha": "2025-08-05",
+      "nota": "Gasto fiscal."
+    },
+    {
+      "id": "f16",
+      "titulo": "Senado, informe de la Comisión de Hacienda, primer trámite (27 de noviembre de 2023), pasajes sobre costo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26135&tipodoc=info",
+      "fecha": "2023-11-27",
+      "nota": "Superintendencia."
+    },
+    {
+      "id": "f17",
+      "titulo": "Senado, informe de la Comisión de Economía, segundo trámite (8 de abril de 2024), pasajes sobre costo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26387&tipodoc=info",
+      "fecha": "2024-04-08",
+      "nota": "Objetivos y recaudación."
+    },
+    {
+      "id": "f18",
+      "titulo": "Senado, tramitación del boletín 14.838-03",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14838",
+      "fecha": "2026-11-11",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
