@@ -56,6 +56,57 @@
   <p class="nota">Fuentes: citaciones de comisiones del Senado y de la Cámara, servicio de tramitación del Senado y datos abiertos de la Cámara de Diputadas y Diputados. Plazos según la Ley 18.918. <a href="{{BASE}}agenda.html">Ver la agenda día por día</a> · <a href="{{BASE}}como-leer.html">Cómo leer estos datos</a> · <a href="{{BASE}}data/urgencias.json">Descargar los datos</a></p>
 </section>
 
+<section class="envoltura seccion" id="fuentes-datos" aria-labelledby="h-fuentes-datos">
+  <p class="eyebrow">De dónde sale cada dato</p>
+  <h2 class="titulo-seccion" id="h-fuentes-datos">Todo viene de fuentes oficiales, y cada dato se puede revisar</h2>
+  <p class="bajada-seccion">Detrás de cada fila de la tabla y de cada ficha hay un trabajo diario de lectura, cruce y revisión de documentos públicos. Esto es lo que usamos en cada sección y cómo lo confirmamos.</p>
+  <div class="origenes">
+    <article class="vidrio origen">
+      <p class="origen-num">Urgencias y plazos</p>
+      <p>Usamos el servicio público de tramitación del Senado, que registra el historial de urgencias de cada boletín, y los datos abiertos de la Cámara de Diputadas y Diputados, que listan los mensajes presidenciales ingresados. Los consultamos cada tres horas. Los plazos los calculamos según la ley orgánica del Congreso (Ley 18.918, artículos 27, 28 y 70).</p>
+      <p class="origen-fuente">tramitacion.senado.cl · opendata.camara.cl</p>
+    </article>
+    <article class="vidrio origen">
+      <p class="origen-num">Agenda y citaciones</p>
+      <p>Las citaciones del Senado salen de las que publica cada una de sus comisiones. Las de la Cámara las copiamos cada semana desde camara.cl: en la agenda aparecen como «Cargada por el equipo», con el enlace para confirmarlas allí. Cuando una urgencia vence sin citación publicada, el proyecto aparece como «Probable».</p>
+      <p class="origen-fuente">senado.cl · camara.cl</p>
+    </article>
+    <article class="vidrio origen">
+      <p class="origen-num">Qué pasó en las comisiones</p>
+      <p>El resultado de cada sesión de las comisiones de la Cámara (si el proyecto se aprobó, se despachó o quedó pendiente) lo copiamos desde las páginas de resultados semanales que publica la Cámara, y lo mostramos en la ficha de cada proyecto.</p>
+      <p class="origen-fuente">camara.cl · resultados de comisiones</p>
+    </article>
+    <article class="vidrio origen">
+      <p class="origen-num">Resumen de cada proyecto</p>
+      <p>Partimos del texto del mensaje presidencial o de la moción, y sumamos los informes de comisión y los oficios, tal como los publican el Senado y la Cámara. Leemos esos documentos varias veces al día para recoger los nuevos. Cada oración del resumen enlaza al documento del que sale.</p>
+      <p class="origen-fuente">Expediente oficial de cada boletín</p>
+    </article>
+    <article class="vidrio origen">
+      <p class="origen-num">Costo fiscal</p>
+      <p>Sale del informe financiero de la Dirección de Presupuestos que acompaña al proyecto, con sus cifras exactas. Si el proyecto es una moción parlamentaria, que no trae informe financiero, lo explicamos. Si el informe no está disponible, lo decimos.</p>
+      <p class="origen-fuente">Dirección de Presupuestos, informes financieros</p>
+    </article>
+    <article class="vidrio origen">
+      <p class="origen-num">Posiciones y debate público</p>
+      <p>Leemos a diario las notas de una lista fija de once medios nacionales: La Tercera, Emol, Diario Financiero, T13, BioBioChile, CIPER, The Clinic, Ex-Ante, El Ciudadano, La Nación e Interferencia. Solo registramos lo que una organización declaró en público, con su fecha y el enlace a la nota.</p>
+      <p class="origen-fuente">Lista fija de 11 medios</p>
+    </article>
+  </div>
+  <div class="vidrio confirmaciones">
+    <h3>Cómo cruzamos y confirmamos los datos</h3>
+    <ol class="pasos">
+      <li>Cruzamos el registro de urgencias del Senado con los proyectos ingresados en la Cámara. Quitamos las urgencias repetidas y distinguimos una renovación de un cambio de tipo de urgencia.</li>
+      <li>Separamos lo confirmado de lo probable: una sesión es «confirmada» solo si hay una citación publicada por el Senado o la Cámara.</li>
+      <li>Cuando el Senado y la Cámara informan cosas distintas sobre un mismo proyecto, usamos el dato más reciente y dejamos anotada la diferencia.</li>
+      <li>Copiamos cada cifra tal como aparece en su documento. Si dos documentos dan cifras distintas, decimos cuál usamos.</li>
+      <li>Si un documento no está disponible, la ficha lo dice con la etiqueta «Dato pendiente», en lugar de suponer lo que contiene.</li>
+      <li>Si una fuente oficial no responde, mantenemos los últimos datos confirmados y no publicamos información incompleta.</li>
+      <li>Revisamos cada ficha contra sus fuentes antes de darla por aprobada. Las que aún no revisamos lo indican con el aviso «Revisión pendiente».</li>
+    </ol>
+    <p class="nota">¿Encontró un error? Escríbanos a <b data-correo></b> indicando el boletín: las correcciones se publican con fecha. Todos los datos se pueden <a href="{{BASE}}data/urgencias.json">descargar</a> bajo licencia CC BY-SA 4.0. <a href="{{BASE}}como-leer.html">Cómo leer estos datos</a>.</p>
+  </div>
+</section>
+
 <section class="envoltura seccion" id="usos" aria-labelledby="h-usos">
   <p class="eyebrow">Para su trabajo</p>
   <h2 class="titulo-seccion" id="h-usos">Una herramienta diaria para quien trabaja con el Congreso</h2>
