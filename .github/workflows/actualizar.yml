@@ -16,6 +16,7 @@ on:
       - 'data/glosario.json'
       - 'assets/**'
       - 'scripts/**'
+      - 'package.json'
   workflow_dispatch: {}
 
 permissions:
@@ -35,6 +36,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
       - name: Urgencias (Senado y Cámara)
         # Si ninguna consulta responde, el archivo anterior se conserva y el resto sigue.
@@ -59,6 +64,13 @@ jobs:
 
       - name: Páginas, fichas, resumen y mapa del sitio
         run: python -u scripts/paginas.py --sitio
+
+      - name: Fichas en el HTML inicial
+        # Dibuja cada ficha con assets/app.js y la escribe en el HTML, para que buscadores y agentes de IA lean lo mismo que una persona.
+        continue-on-error: true
+        run: |
+          npm install --no-audit --no-fund --silent
+          node scripts/prerender.mjs
 
       - name: Publicar
         run: |

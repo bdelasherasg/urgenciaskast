@@ -1,0 +1,7 @@
+{
+  "name": "urgenciaskast",
+  "private": true,
+  "description": "Dependencia solo para prerenderizar las fichas (scripts/prerender.mjs).",
+  "type": "module",
+  "devDependencies": { "jsdom": "^26.0.0" }
+}
