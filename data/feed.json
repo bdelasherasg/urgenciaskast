@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-11T21:46-03:00",
+ "actualizado": "2026-11-12T02:47-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -12,7 +12,7 @@
   {
    "boletin": "16743-04",
    "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
-   "sintesis": "Facilita crear colegios que reciben subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. La Cámara lo modificó; el Senado revisa los cambios.",
+   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/16743-04.html"
@@ -266,6 +266,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "16743-04",
+   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
+  },
+  {
    "boletin": "11929-13",
    "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
    "publicado": "2026-11-11",
@@ -294,12 +300,6 @@
    "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
    "publicado": "2026-11-11",
    "url": "https://urgenciaskast.cl/p/17567-11.html"
-  },
-  {
-   "boletin": "17877-33",
-   "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
-   "publicado": "2026-11-11",
-   "url": "https://urgenciaskast.cl/p/17877-33.html"
   }
  ],
  "analisis": [
