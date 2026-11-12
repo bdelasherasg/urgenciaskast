@@ -46,7 +46,7 @@ def esc(s):
 
 def version():
     h = hashlib.sha1()
-    for a in ('assets/estilo.css', 'assets/app.js', 'assets/config.js', 'assets/glosario.js'):
+    for a in ('assets/estilo.css', 'assets/app.js', 'assets/config.js', 'assets/glosario.js', 'assets/analitica.js'):
         try:
             with open(ruta(a), 'rb') as f:
                 h.update(f.read())
@@ -97,6 +97,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <script src="{base}assets/config.js?v={v}"></script>
 <script src="{base}assets/glosario.js?v={v}"></script>
 <script src="{base}assets/app.js?v={v}" defer></script>
+<script src="{base}assets/analitica.js?v={v}" defer></script>
 </head>
 <body data-pagina="{pagina}"{attr_body}>
 <a class="saltar" href="#contenido">Ir al contenido</a>
