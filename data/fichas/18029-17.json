@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "boletin": "18029-17",
+  "nivel": "basica",
+  "sintesis": "Crea un sistema para reconocer, calificar y reparar a las víctimas de la violencia del conflicto intercultural y territorial en cuatro regiones del sur. Está en primer trámite en el Senado.",
+  "materia": "Reparación a víctimas de la violencia en la macrozona sur",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje describe violencia en el Biobío, La Araucanía, Los Ríos y Los Lagos desde los años noventa.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que esa violencia se ha agudizado en los últimos años y afecta derechos fundamentales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Busca fijar mecanismos para reconocer, calificar y reparar a las víctimas de hechos de violencia ocurridos desde 1990.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Crea una Comisión de Calificación de Víctimas, un Programa de Atención y Reparación y un Catastro Nacional de Víctimas.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El proyecto busca poner en práctica las propuestas 7, 8 y 9 de la Comisión Presidencial para la Paz y el Entendimiento.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Los integrantes de la Comisión de Calificación deben guardar reserva de los datos a que accedan.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Se refiere a las víctimas de la violencia del conflicto en esas cuatro regiones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión presidencial planteó una ley que reconozca a víctimas mapuche y no mapuche.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El mensaje ingresó al Senado el 24 de diciembre de 2025.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Comisión de Derechos Humanos, Nacionalidad y Ciudadanía lo aprobó en general por unanimidad (3 votos a favor).",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La Sala lo aprobó en general el 8 de julio de 2026.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El plazo para presentar indicaciones se amplió hasta el 28 de agosto de 2026.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Establece el reconocimiento, calificación y reparación, cuando corresponda, de víctimas de violencia del conflicto intercultural y territorial en las regiones del Biobío, La Araucanía, Los Ríos y Los Lagos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18688&tipodoc=mensaje_mocion",
+      "fecha": "2025-12-24",
+      "nota": "Antecedentes y contexto del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27902&tipodoc=info",
+      "fecha": "2026-03-10",
+      "nota": "Objetivo, contenido y votación en general en la comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18029-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18029",
+      "fecha": "2026-11-11",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
