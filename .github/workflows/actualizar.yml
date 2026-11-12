@@ -64,7 +64,7 @@ jobs:
         run: |
           git config user.name "urgencias-bot"
           git config user.email "urgencias-bot@users.noreply.github.com"
-          git add data p sitemap.xml assets/glosario.js ./*.html analisis
+          git add data p sitemap.xml llms.txt robots.txt assets/glosario.js ./*.html analisis
           if git diff --cached --quiet; then
             echo "Sin cambios."
           else

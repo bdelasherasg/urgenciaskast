@@ -67,7 +67,7 @@ NAV = [('agenda', 'agenda.html', 'Agenda'), ('urgencias', 'index.html#urgencias'
 
 
 def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og_tipo='website', og_titulo=None,
-           attr_body='', v=''):
+           attr_body='', v='', extra_head=''):
     menu = ''.join(f'<a href="{base}{href}"{" aria-current=\"page\"" if clave == nav else ""}>{texto}</a>' for clave, href, texto in NAV)
     menu += f'<a class="destacado" href="{base}asesoria.html"{" aria-current=\"page\"" if nav == "asesoria" else ""}>Asesoría</a>'
     return f'''<!doctype html>
@@ -88,7 +88,11 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="es_CL">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#e4def7">
+<meta name="twitter:title" content="{esc(og_titulo or titulo)}">
+<meta name="twitter:description" content="{esc(descripcion)}">
+<meta name="twitter:image" content="{SITIO}/assets/compartir.png">
+<meta name="robots" content="index, follow, max-image-preview:large">
+{extra_head}<meta name="theme-color" content="#e4def7">
 <link rel="icon" href="{base}assets/simbolo.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -123,13 +127,175 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 '''
 
 
+# ---------- SEO y contenido prerenderizado ----------
+# Las fichas, la tabla de proyectos y la agenda las dibuja assets/app.js con los datos. Para que buscadores y
+# agentes de IA, que no ejecutan JavaScript, vean el contenido, aquí se incluye también en el HTML inicial.
+# app.js reemplaza ese contenido al cargar, de modo que quien navega ve lo mismo que antes.
+MESES_L = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
+DIAS_L = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo']
+ORG_LC = {'@type': 'Organization', '@id': f'{LOCOMUN}/#organizacion', 'name': 'Lo Común', 'url': f'{LOCOMUN}/'}
+CORREO = 'contacto@locomun.cl'
+
+
+def fecha_larga(iso, dia=False):
+    try:
+        d = dt.date.fromisoformat(str(iso)[:10])
+    except ValueError:
+        return ''
+    return (DIAS_L[d.weekday()].capitalize() + ' ' if dia else '') + f'{d.day} de {MESES_L[d.month - 1]}' + ('' if dia else f' de {d.year}')
+
+
+def jsonld(dato):
+    return '<script type="application/ld+json">' + json.dumps(dato, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c') + '</script>\n'
+
+
+def ld_sitio(descripcion):
+    return jsonld({'@context': 'https://schema.org', '@graph': [
+        {'@type': 'WebSite', '@id': f'{SITIO}/#sitio', 'url': f'{SITIO}/', 'name': 'Urgencias Kast', 'description': descripcion,
+         'inLanguage': 'es-CL', 'publisher': {'@id': ORG_LC['@id']}},
+        dict(ORG_LC, **{'email': CORREO, 'areaServed': {'@type': 'Country', 'name': 'Chile'}}),
+    ]})
+
+
+def ld_articulo(titulo, descripcion, url, publicado, modificado=None, autor=None):
+    d = {'@context': 'https://schema.org', '@type': 'Article', 'headline': titulo, 'description': descripcion, 'inLanguage': 'es-CL',
+         'mainEntityOfPage': {'@type': 'WebPage', '@id': url}, 'image': f'{SITIO}/assets/compartir.png',
+         'author': {'@type': 'Person', 'name': autor} if autor else {'@id': ORG_LC['@id']},
+         'publisher': {'@id': ORG_LC['@id'], '@type': 'Organization', 'name': 'Lo Común', 'url': f'{LOCOMUN}/'},
+         'isPartOf': {'@id': f'{SITIO}/#sitio'}}
+    if publicado:
+        d['datePublished'] = publicado
+        d['dateModified'] = modificado or publicado
+    return jsonld(d)
+
+
+def nombre_proyecto(b, urg, ag, idx):
+    f = idx.get(b) or {}
+    if f.get('sintesis'):
+        return f['sintesis']
+    pr = next((x for x in urg.get('proyectos', []) if x['boletin'] == b), None) or (ag.get('proyectos') or {}).get(b) or {}
+    return pr.get('titulo') or f'Boletín {b}'
+
+
+def ficha_estatica(b, pr, F):
+    """Contenido de la ficha como HTML, a partir de data/fichas/BOLETIN.json y de los datos del proyecto."""
+    pr = pr or {}
+    F = F or {}
+    fuentes = [x for x in (F.get('fuentes') or []) if x.get('id')]
+    num = {x['id']: i + 1 for i, x in enumerate(fuentes)}
+
+    def refs(ids):
+        return ''.join(f'<a class="ref" href="#f{num[i]}">{num[i]}</a>' for i in (ids or []) if i in num)
+
+    def oraciones(lista):
+        return ' '.join((f'<span class="et et-pend">Dato pendiente</span> {esc(o.get("texto"))}' if o.get('pendiente')
+                         else esc(o.get('texto')) + refs(o.get('fuentes'))) for o in (lista or []))
+
+    titulo = F.get('sintesis') or pr.get('titulo') or f'Boletín {b}'
+    urgv = pr.get('urgencia_vigente') or {}
+    out = ['<section class="envoltura ficha-encabezado" aria-labelledby="titulo">'
+           f'<nav class="migas" aria-label="Ruta"><a href="../index.html">Urgencias</a><span aria-hidden="true">/</span><span>Boletín {esc(b)}</span></nav>']
+    if pr.get('titulo') and F.get('sintesis'):
+        out.append(f'<p class="titulo-oficial"><b>Título oficial</b>{esc(pr["titulo"])}</p>')
+    out.append(f'<h1 id="titulo">{esc(titulo)}</h1>')
+    if F.get('estado_revision') == 'pendiente':
+        out.append('<div class="aviso-piloto" role="note"><p class="eyebrow">Revisión pendiente · piloto de prueba</p>'
+                   '<p>Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. '
+                   'Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. '
+                   f'Si encuentra un error, escríbanos a <b>{CORREO}</b> indicando el boletín.</p></div>')
+    out.append('</section><div class="envoltura ficha-cuerpo">')
+
+    datos = [('Boletín', b), ('Etapa', pr.get('etapa')), ('Cámara actual', pr.get('camara_actual')),
+             ('Urgencia', (f'{urgv["tipo"]}, vence el {fecha_larga(urgv.get("vence"))}' if urgv.get('tipo') and urgv.get('estado') == 'vigente' else ''))]
+    out.append('<section class="vidrio"><h2>Datos clave</h2><dl>' + ''.join(f'<dt>{k}</dt><dd>{esc(v)}</dd>' for k, v in datos if v) + '</dl></section>')
+
+    R = F.get('resumen') or {}
+    etiquetas = [('problema', 'Problema que declara el proyecto'), ('propone', 'Qué propone'), ('cambia', 'Qué cambia en la ley vigente'),
+                 ('afecta', 'A quién afecta, según el texto'), ('costo', 'Costo fiscal, según el informe financiero'), ('estado', 'Estado de tramitación')]
+    if any(R.get(k) for k, _ in etiquetas):
+        out.append('<article class="tarjeta" id="resumen" aria-labelledby="h-resumen"><div class="tarjeta-cuerpo"><h2 id="h-resumen">Qué propone el proyecto</h2>'
+                   + ''.join(f'<h3>{t}</h3><p>{oraciones(R[k])}</p>' for k, t in etiquetas if R.get(k)) + '</div></article>')
+
+    pos = F.get('posiciones') or []
+    if pos or F.get('posiciones_sin_registro'):
+        items = ''.join(
+            f'<li><b>{esc(x.get("organizacion"))}</b> ({esc(x.get("tipo"))}' + (f'; {esc(x["vocero"])}' if x.get('vocero') else '') + f'). '
+            f'{esc(x.get("postura"))}: {esc(x.get("argumento"))} <small>{esc(x.get("fecha"))}</small>{refs(x.get("fuentes"))}</li>' for x in pos)
+        out.append('<article class="tarjeta" id="posiciones" aria-labelledby="h-pos"><div class="tarjeta-cuerpo"><h2 id="h-pos">Posiciones registradas de organizaciones</h2>'
+                   + (f'<ul>{items}</ul>' if items else '') + (f'<p>{esc(F["posiciones_sin_registro"])}</p>' if F.get('posiciones_sin_registro') else '')
+                   + '</div></article>')
+
+    E = F.get('encuadre') or {}
+    if E.get('marcos'):
+        marcos = ''.join(
+            f'<h3>{esc(m.get("titulo"))}</h3><p><i>{esc(m.get("quienes"))}</i></p><dl>'
+            f'<dt>El problema</dt><dd>{esc(m.get("problema"))}{refs(m.get("problema_fuentes"))}</dd>'
+            f'<dt>La causa</dt><dd>{esc(m.get("causa"))}{refs(m.get("causa_fuentes"))}</dd>'
+            f'<dt>La solución</dt><dd>{esc(m.get("solucion"))}{refs(m.get("solucion_fuentes"))}</dd>'
+            + (f'<dt>Palabras que usa</dt><dd>{esc(", ".join(m["palabras"]))}</dd>' if m.get('palabras') else '') + '</dl>' for m in E['marcos'])
+        disputa = E.get('disputa') or {}
+        out.append('<article class="tarjeta" id="encuadre" aria-labelledby="h-enc"><div class="tarjeta-cuerpo"><h2 id="h-enc">Cómo se habla del proyecto</h2>'
+                   + (f'<p>{esc(E["intro"])}</p>' if E.get('intro') else '') + marcos
+                   + (f'<h3>Palabra en disputa: «{esc(disputa["palabra"])}»</h3><p>{oraciones(disputa.get("oraciones"))}</p>' if disputa.get('palabra') else '')
+                   + '</div></article>')
+
+    if fuentes:
+        lis = ''.join(
+            f'<li id="f{i + 1}">' + (f'<a href="{esc(x["url"])}" rel="noopener">{esc(x.get("titulo"))}</a>' if str(x.get('url', '')).startswith('http') else esc(x.get('titulo')))
+            + (f' <small>{esc(". ".join(y for y in [x.get("fecha"), x.get("nota")] if y))}</small>' if (x.get('fecha') or x.get('nota')) else '') + '</li>'
+            for i, x in enumerate(fuentes))
+        out.append('<article class="tarjeta" id="fuentes" aria-labelledby="h-fuentes"><div class="tarjeta-cuerpo">'
+                   f'<h2 id="h-fuentes">De dónde sale cada dato</h2><ol class="fuentes">{lis}</ol>'
+                   + (f'<p class="nota">{esc(F["revision"])}</p>' if F.get('revision') else '')
+                   + f'<p class="nota">¿Encontró un error? Escríbanos a <b>{CORREO}</b> indicando el boletín.</p></div></article>')
+    out.append('</div>')
+    return ''.join(out)
+
+
+def tabla_estatica(urg, idx):
+    hoy = dt.date.today().isoformat()
+    vig = [x for x in urg.get('proyectos', []) if (x.get('urgencia_vigente') or {}).get('estado') == 'vigente'
+           and (x['urgencia_vigente'].get('vence') or '') >= hoy]
+    vig.sort(key=lambda x: x['urgencia_vigente']['vence'])
+    filas = ''.join(
+        f'<tr><td>{esc(x["boletin"])}</td><td><a href="{{{{BASE}}}}p/{esc(x["boletin"])}.html">{esc(recortar((idx.get(x["boletin"]) or {}).get("sintesis") or x.get("titulo"), 220))}</a></td>'
+        f'<td colspan="6">Urgencia {esc((x["urgencia_vigente"].get("tipo") or "").lower())}, vence el {fecha_larga(x["urgencia_vigente"]["vence"])}. {esc(x.get("etapa"))}</td></tr>'
+        for x in vig)
+    return filas or '<tr><td colspan="8" class="vacio">Cargando…</td></tr>'
+
+
+def agenda_estatica(urg, ag, idx):
+    hoy = dt.date.today()
+    lim = (hoy + dt.timedelta(days=13)).isoformat()
+    ses = [x for x in (ag.get('sesiones') or []) if x.get('estado') != 'sin efecto' and x.get('boletines')
+           and hoy.isoformat() <= x['fecha'] <= lim]
+    if not ses:
+        return '<p class="vacio">Cargando…</p>'
+    por_dia = {}
+    for x in sorted(ses, key=lambda x: (x['fecha'], x.get('hora', ''))):
+        por_dia.setdefault(x['fecha'], []).append(x)
+    partes = []
+    for f, lista in por_dia.items():
+        li = ''.join(
+            f'<li><b>{esc(x.get("hora"))}</b> {esc(x.get("camara"))}, {esc(x.get("organo"))}: '
+            + '; '.join(f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{esc(recortar(nombre_proyecto(b, urg, ag, idx), 160))}</a> (boletín {esc(b)})' for b in x['boletines'])
+            + '</li>' for x in lista)
+        partes.append(f'<section><h2>{esc(fecha_larga(f, dia=True))}</h2><ul>{li}</ul></section>')
+    return '<h2 class="solo-lector">Citaciones confirmadas de las próximas dos semanas</h2>' + ''.join(partes)
+
+
 RE_META = re.compile(r'<!--meta\s+(\{.*?\})\s*-->', re.S)
 
 
 def construir_sitio(v):
     analisis = entregas_todas()
+    urg = leer_json(ruta('data', 'urgencias.json'), {'proyectos': []})
+    ag = leer_json(ruta('data', 'agenda.json'), {'proyectos': {}})
+    idx = indice_fichas()
+    locales = {a.get('ruta'): a for a in leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']}
     reemplazos = {'{{DESTACADO}}': destacado(analisis), '{{LISTA_ANALISIS}}': lista_analisis(analisis),
-                  '{{GLOSARIO}}': glosario_html()}
+                  '{{GLOSARIO}}': glosario_html(), '{{TABLA_ESTATICA}}': tabla_estatica(urg, idx),
+                  '{{AGENDA_ESTATICA}}': agenda_estatica(urg, ag, idx)}
     for fuente in sorted(glob.glob(ruta('fuente', '**', '*.html'), recursive=True)):
         rel = os.path.relpath(fuente, ruta('fuente')).replace(os.sep, '/')
         with open(fuente, encoding='utf-8') as f:
@@ -142,9 +308,16 @@ def construir_sitio(v):
         base = '/' if rel == '404.html' else '../' * rel.count('/')
         cuerpo = cuerpo.replace('{{BASE}}', base)
         url = '' if rel == 'index.html' else rel
+        extra = ''
+        if rel == 'index.html':
+            extra = ld_sitio(meta.get('descripcion', ''))
+        elif meta.get('og_tipo') == 'article' and rel in locales:
+            a = locales[rel]
+            extra = (f'<meta property="article:published_time" content="{esc(a.get("fecha"))}">\n'
+                     + ld_articulo(meta.get('og_titulo') or meta.get('titulo'), meta.get('descripcion', ''), f'{SITIO}/{rel}', a.get('fecha'), autor=a.get('autor')))
         escribir(ruta(rel), layout(cuerpo, base=base, titulo=meta.get('titulo', 'Urgencias Kast'), descripcion=meta.get('descripcion', ''),
                                    pagina=meta.get('pagina', 'texto'), nav=meta.get('nav', ''), ruta_url=url,
-                                   og_tipo=meta.get('og_tipo', 'website'), og_titulo=meta.get('og_titulo'), v=v))
+                                   og_tipo=meta.get('og_tipo', 'website'), og_titulo=meta.get('og_titulo'), v=v, extra_head=extra))
         print('Página', rel)
 
 
@@ -256,10 +429,14 @@ def construir_fichas(v):
         else:
             urgv = (p.get('urgencia_vigente') or {}).get('tipo')
             desc = f'Boletín {b}' + (f', con urgencia {urgv.lower()}' if urgv else '') + '. Plazos, tramitación y fuentes oficiales, explicados.'
-        cuerpo = '<div id="ficha"><div class="envoltura"><p class="vacio">Cargando la ficha…</p></div></div>'
+        F = leer_json(ruta('data', 'fichas', f'{b}.json')) if f else None
+        cuerpo = '<div id="ficha">' + ficha_estatica(b, p, F) + '</div>'
+        pub = f.get('publicado') or ''
+        extra = ((f'<meta property="article:published_time" content="{esc(pub)}">\n' if pub else '')
+                 + ld_articulo(recortar(titulo, 110), desc, f'{SITIO}/p/{b}.html', pub or None, (F or {}).get('consultado')))
         escribir(ruta('p', f'{b}.html'), layout(cuerpo, base='../', titulo=recortar(titulo, 88) + ' · Urgencias Kast', descripcion=desc,
                                                pagina='ficha', ruta_url=f'p/{b}.html', og_tipo='article', og_titulo=recortar(titulo, 120),
-                                               attr_body=f' data-boletin="{esc(b)}"', v=v))
+                                               attr_body=f' data-boletin="{esc(b)}"', v=v, extra_head=extra))
     print(f'Páginas por proyecto: {len(boletines)}')
     return urg, ag, idx, sorted(boletines)
 
@@ -302,11 +479,52 @@ def construir_feed(urg, ag, idx):
     escribir(ruta('data', 'feed.json'), json.dumps(feed, ensure_ascii=False, indent=1) + '\n')
 
 
-def construir_mapa(boletines):
+def construir_mapa(boletines, idx=None):
+    idx = idx or {}
     fijas = ['', 'agenda.html', 'como-leer.html', 'glosario.html', 'asesoria.html', 'aportar.html', 'analisis.html', 'analisis/falsabilidad-kast.html']
-    urls = [f'{SITIO}/{u}' for u in fijas] + [f'{SITIO}/p/{b}.html' for b in boletines]
+    urls = [(f'{SITIO}/{u}', '') for u in fijas] + [(f'{SITIO}/p/{b}.html', (idx.get(b) or {}).get('publicado', '')) for b in boletines]
     escribir(ruta('sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-             + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
+             + ''.join(f'  <url><loc>{u}</loc>' + (f'<lastmod>{m}</lastmod>' if m else '') + '</url>\n' for u, m in urls) + '</urlset>\n')
+
+
+def construir_llms():
+    feed = leer_json(ruta('data', 'feed.json'), {})
+    recientes = ''.join(f'- [{recortar(x["sintesis"], 160)}]({x["url"]}) (boletín {x["boletin"]})\n' for x in feed.get('fichas_recientes', []))
+    series = ''.join(f'- [{a["serie"]} N.° {a["numero"]}: {a["titulo"]}]({SITIO}/{a["ruta"]}): {recortar(a["resumen"], 200)}\n'
+                     for a in (leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']))
+    escribir(ruta('llms.txt'), f'''# Urgencias Kast
+
+> Seguimiento gratuito de las urgencias que el Ejecutivo pone a los proyectos de ley y de la agenda legislativa de dos semanas del Congreso Nacional de Chile. Cada proyecto tiene una ficha con resumen con fuente por oración, posiciones de organizaciones, urgencia y tramitación explicadas. Es una producción pública de Lo Común: Laboratorio de Relato y Producción Narrativa ({LOCOMUN}/), bajo licencia CC BY-SA 4.0.
+
+Los datos oficiales se actualizan cada tres horas desde el Senado y la Cámara de Diputadas y Diputados. Las fichas con el aviso "Revisión pendiente · piloto de prueba" las redactó un sistema automático y el equipo aún no las revisa; cada oración enlaza a su fuente, y ante una duda vale lo que dice la fuente.
+
+## Páginas
+
+- [Inicio y tabla de proyectos]({SITIO}/): proyectos en la agenda del Congreso o con urgencia vigente.
+- [Agenda de dos semanas]({SITIO}/agenda.html): citaciones de comisiones y proyectos con urgencia por vencer.
+- [Cómo leer Urgencias Kast]({SITIO}/como-leer.html): qué es una urgencia, cómo se calculan los plazos y el método de cada ficha.
+- [Glosario]({SITIO}/glosario.html): términos de la tramitación legislativa y del método, en lenguaje sencillo.
+- [Prueba pública]({SITIO}/analisis.html): serie de análisis de fondo de Lo Común.
+- [Asesoría]({SITIO}/asesoria.html): asesoría de Lo Común para parlamentarios, bancadas y partidos.
+
+## Datos en formato JSON
+
+- [Urgencias]({SITIO}/data/urgencias.json): proyectos con urgencia, etapas, trámites y renovaciones.
+- [Agenda]({SITIO}/data/agenda.json): citaciones de las próximas dos semanas.
+- [Resumen del sitio]({SITIO}/data/feed.json): cifras del día, próximos plazos y fichas recientes.
+- [Índice de fichas]({SITIO}/data/fichas/indice.json): síntesis y estado de revisión de cada ficha.
+- [Mapa del sitio]({SITIO}/sitemap.xml): todas las páginas, con una ficha por proyecto en /p/BOLETIN.html.
+
+## Fichas recientes
+
+{recientes}
+## Prueba pública
+
+{series}
+## Contacto
+
+- Correos, correcciones y asesorías: {CORREO}
+''')
 
 
 def principal():
@@ -316,7 +534,8 @@ def principal():
         construir_sitio(v)
     urg, ag, idx, boletines = construir_fichas(v)
     construir_feed(urg, ag, idx)
-    construir_mapa(boletines)
+    construir_mapa(boletines, idx)
+    construir_llms()
 
 
 if __name__ == '__main__':

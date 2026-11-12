@@ -1,0 +1,39 @@
+# Urgencias Kast
+
+> Seguimiento gratuito de las urgencias que el Ejecutivo pone a los proyectos de ley y de la agenda legislativa de dos semanas del Congreso Nacional de Chile. Cada proyecto tiene una ficha con resumen con fuente por oración, posiciones de organizaciones, urgencia y tramitación explicadas. Es una producción pública de Lo Común: Laboratorio de Relato y Producción Narrativa (https://locomun.cl/), bajo licencia CC BY-SA 4.0.
+
+Los datos oficiales se actualizan cada tres horas desde el Senado y la Cámara de Diputadas y Diputados. Las fichas con el aviso "Revisión pendiente · piloto de prueba" las redactó un sistema automático y el equipo aún no las revisa; cada oración enlaza a su fuente, y ante una duda vale lo que dice la fuente.
+
+## Páginas
+
+- [Inicio y tabla de proyectos](https://urgenciaskast.cl/): proyectos en la agenda del Congreso o con urgencia vigente.
+- [Agenda de dos semanas](https://urgenciaskast.cl/agenda.html): citaciones de comisiones y proyectos con urgencia por vencer.
+- [Cómo leer Urgencias Kast](https://urgenciaskast.cl/como-leer.html): qué es una urgencia, cómo se calculan los plazos y el método de cada ficha.
+- [Glosario](https://urgenciaskast.cl/glosario.html): términos de la tramitación legislativa y del método, en lenguaje sencillo.
+- [Prueba pública](https://urgenciaskast.cl/analisis.html): serie de análisis de fondo de Lo Común.
+- [Asesoría](https://urgenciaskast.cl/asesoria.html): asesoría de Lo Común para parlamentarios, bancadas y partidos.
+
+## Datos en formato JSON
+
+- [Urgencias](https://urgenciaskast.cl/data/urgencias.json): proyectos con urgencia, etapas, trámites y renovaciones.
+- [Agenda](https://urgenciaskast.cl/data/agenda.json): citaciones de las próximas dos semanas.
+- [Resumen del sitio](https://urgenciaskast.cl/data/feed.json): cifras del día, próximos plazos y fichas recientes.
+- [Índice de fichas](https://urgenciaskast.cl/data/fichas/indice.json): síntesis y estado de revisión de cada ficha.
+- [Mapa del sitio](https://urgenciaskast.cl/sitemap.xml): todas las páginas, con una ficha por proyecto en /p/BOLETIN.html.
+
+## Fichas recientes
+
+- [Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el…](https://urgenciaskast.cl/p/12213-07.html) (boletín 12213-07)
+- [Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el…](https://urgenciaskast.cl/p/12712-24.html) (boletín 12712-24)
+- [Pone por ley el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que la Comisión de Deportes de la Cámara aprobó el 3 de noviembre…](https://urgenciaskast.cl/p/12760-29.html) (boletín 12760-29)
+- [Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta…](https://urgenciaskast.cl/p/14309-04.html) (boletín 14309-04)
+- [Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara,…](https://urgenciaskast.cl/p/14773-02.html) (boletín 14773-02)
+- [Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin…](https://urgenciaskast.cl/p/14838-03.html) (boletín 14838-03)
+
+## Prueba pública
+
+- [Prueba pública N.° 1: Falsabilidad y discurso político: una prueba pública a los primeros siete meses del gobierno de Kast](https://urgenciaskast.cl/analisis/falsabilidad-kast.html): Una afirmación política tiene valor de conocimiento cuando indica qué hechos la dejarían en evidencia. El artículo explica el criterio de falsabilidad de Karl Popper y lo aplica a las principales…
+
+## Contacto
+
+- Correos, correcciones y asesorías: contacto@locomun.cl
