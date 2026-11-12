@@ -1,0 +1,110 @@
+{
+  "version": 2,
+  "boletin": "18881-25",
+  "nivel": "basica",
+  "sintesis": "Deroga la ley que permite reducir las condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal. Está en primer trámite en el Senado, con discusión inmediata.",
+  "materia": "la derogación del sistema de reducción de condenas por buena conducta",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que la Ley 19.856 permite descontar dos meses por cada año de condena cumplido, y tres desde la mitad de la condena.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostienen que el descuento se basa en la conducta en prisión, que no equivale a evaluar el riesgo de reincidencia, es decir, de volver a delinquir.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen que, con el descuento, la pena se da por cumplida y no hay supervisión posterior.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Deroga por completo la Ley 19.856, que creó la reducción de condenas por comportamiento.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según su título, también establece una agravante, es decir, una circunstancia que hace más grave la responsabilidad penal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La libertad condicional y los permisos de salida no se eliminan y siguen con sus propias reglas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afectaría a las personas condenadas a penas de cárcel, que hoy pueden acceder a la reducción.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó al Senado el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Pasó a la Comisión de Seguridad Pública y a la de Constitución.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Tiene discusión inmediata desde el 11 de noviembre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 18.881-25 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19549&tipodoc=mensaje_mocion",
+      "fecha": "2026-11-10",
+      "nota": "Antecedentes, fundamentos e idea matriz."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 18.881-25",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18881",
+      "fecha": "2026-11-12",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
