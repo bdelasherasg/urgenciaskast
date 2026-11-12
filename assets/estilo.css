@@ -478,6 +478,18 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 /* Usos por tipo de organización */
 .publicos a { color: var(--t-base); text-decoration: none; transition: background .2s, border-color .2s; }
 .publicos a:hover { background: var(--vidrio-2); border-color: var(--indigo-medio); }
+/* Portada: de dónde sale cada dato */
+.origenes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.origen { padding: 22px 22px 20px; display: grid; gap: 10px; align-content: start; }
+.origen p { margin: 0; font-size: 15px; line-height: 1.55; color: var(--t-media); }
+.origen .origen-num { font-family: var(--f-display); font-size: 26px; line-height: 1.05; color: var(--t-base); }
+.origen .origen-fuente { align-self: end; font-family: var(--f-etiqueta); font-size: 11.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--t-acento); padding-top: 8px; border-top: 1px solid var(--vidrio-borde); }
+.confirmaciones { margin-top: 14px; padding: clamp(20px, 3.4vw, 32px); display: grid; gap: 14px; }
+.confirmaciones h3 { font-family: var(--f-display); font-weight: 400; font-size: clamp(24px, 3vw, 30px); line-height: 1.1; margin: 0; }
+.confirmaciones .pasos { margin: 0; font-size: 15.5px; line-height: 1.5; }
+.confirmaciones .nota { margin: 0; }
+@media (max-width: 980px) { .origenes { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 640px) { .origenes { grid-template-columns: minmax(0, 1fr); } }
 .usos { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 14px; }
 .uso { grid-column: span 2; }
 .uso:nth-child(n+4) { grid-column: span 3; }
