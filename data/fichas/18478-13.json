@@ -70,22 +70,35 @@
     ],
     "costo": [
       {
-        "texto": "No hay informe financiero entre los documentos revisados. Su costo fiscal queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "El informe financiero N° 151, de la Dirección de Presupuestos, es del 14 de julio de 2026.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el proyecto no irroga mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Explica que regula materias entre privados y no compromete recursos públicos.",
+        "fuentes": [
+          "f1"
+        ]
       }
     ],
     "estado": [
       {
         "texto": "El proyecto ingresó el 21 de julio de 2026 y está en primer trámite en la Cámara.",
         "fuentes": [
-          "f4"
+          "f5"
         ]
       },
       {
         "texto": "Está en la Comisión de Trabajo y Seguridad Social.",
         "fuentes": [
-          "f4"
+          "f5"
         ]
       },
       {
@@ -97,7 +110,7 @@
       {
         "texto": "El gobierno renovó la urgencia suma el 2 de noviembre de 2026.",
         "fuentes": [
-          "f4"
+          "f5"
         ]
       }
     ]
@@ -128,7 +141,7 @@
       "nota": "Comisiones que ven el proyecto."
     },
     {
-      "id": "f4",
+      "id": "f5",
       "titulo": "Senado, tramitación del boletín 18.478-13",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18478",
       "fecha": "2026-11-10",
@@ -136,7 +149,7 @@
     }
   ],
   "consultado": "2026-11-11",
-  "publicado": "2026-11-11",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
