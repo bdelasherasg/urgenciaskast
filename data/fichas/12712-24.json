@@ -1,312 +1,169 @@
 {
   "version": 2,
   "boletin": "12712-24",
-  "nivel": "completa",
-  "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
-  "materia": "la reforma de la ley de patrimonio cultural",
+  "nivel": "basica",
+  "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
+  "materia": "la nueva Ley de Patrimonio Cultural",
   "resumen": {
     "problema": [
       {
-        "texto": "El gobierno dice que hay que modernizar las normas sobre patrimonio cultural.",
+        "texto": "El mensaje de 2019 dice que el Consejo de Monumentos Nacionales toma todas sus decisiones en Santiago.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "Quien era subsecretario en 2019 dice que la ley actual es antigua y centralizada.",
+        "texto": "Dice que tenía 540 solicitudes de declaratoria pendientes. Son pedidos para declarar un bien como monumento.",
         "fuentes": [
-          "f6"
-        ]
-      },
-      {
-        "texto": "El gobierno actual lo incluye en su agenda para facilitar permisos.",
-        "fuentes": [
-          "f3"
+          "f1"
         ]
       }
     ],
     "propone": [
       {
-        "texto": "Crea el Consejo de los Patrimonios Culturales, que reemplaza al de Monumentos Nacionales.",
+        "texto": "El mensaje propone que la Ley de Monumentos Nacionales pase a ser una Ley de Patrimonio Cultural.",
         "fuentes": [
-          "f4",
-          "f5"
+          "f1"
         ]
       },
       {
-        "texto": "Los permisos pasan a oficinas regionales del Servicio del Patrimonio, con plazos fijos.",
+        "texto": "El texto aprobado por la Cámara incluye el patrimonio inmaterial. Son prácticas y saberes tradicionales.",
         "fuentes": [
-          "f5"
-        ]
-      },
-      {
-        "texto": "También protege el patrimonio inmaterial, como tradiciones y saberes.",
-        "fuentes": [
-          "f2",
-          "f4"
+          "f3"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Suma formas de protección, como paisaje cultural y sitio de memoria.",
+        "texto": "La indicación sustitutiva de 2021 crea un Consejo Nacional del Patrimonio Cultural de 17 miembros.",
         "fuentes": [
-          "f5"
+          "f6"
         ]
       },
       {
-        "texto": "Regula el patrimonio de los pueblos originarios y del pueblo tribal afrodescendiente.",
+        "texto": "También refuerza los consejos regionales de las culturas, las artes y el patrimonio.",
         "fuentes": [
-          "f4"
-        ]
-      },
-      {
-        "texto": "Crea delitos por dañar el patrimonio y por traficar bienes culturales.",
-        "fuentes": [
-          "f5"
+          "f6"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a quienes hacen obras en bienes protegidos o hallan restos arqueológicos.",
+        "texto": "Los dueños y poseedores de bienes patrimoniales son responsables de conservarlos.",
         "fuentes": [
-          "f5"
+          "f3"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "En 2021 el gobierno envió un informe financiero con un nuevo texto.",
+        "texto": "El informe financiero N° 35 de 2021, según Hacienda de la Cámara, estima un mayor gasto fiscal en dos escenarios.",
         "fuentes": [
-          "f13"
+          "f8"
         ]
       },
       {
-        "texto": "No pudimos revisar ese informe de la Dirección de Presupuestos.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "En el primer año serían $3.292.567 miles y $4.244.690 miles.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "En régimen serían $7.039.885 miles y $22.713.809 miles.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Las cifras están en miles de pesos de 2019.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "El texto aprobado por la Cámara dice que el primer año se financia con el presupuesto del Ministerio de las Culturas.",
+        "fuentes": [
+          "f9"
+        ]
       }
     ],
     "estado": [
       {
-        "texto": "La Cámara lo aprobó el 3 de marzo de 2022.",
+        "texto": "La Cámara aprobó el proyecto el 3 de marzo de 2022. Hoy está en segundo trámite en el Senado, en la Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación.",
         "fuentes": [
-          "f13"
-        ]
-      },
-      {
-        "texto": "Hoy lo estudia la comisión de Cultura del Senado, que lo aprobó en general en marzo de 2025.",
-        "fuentes": [
-          "f12",
-          "f4"
-        ]
-      },
-      {
-        "texto": "Después pasará a la comisión de Minería y Energía.",
-        "fuentes": [
-          "f12"
-        ]
-      },
-      {
-        "texto": "En abril de 2026, el Senado esperaba nuevas propuestas del gobierno.",
-        "fuentes": [
-          "f3"
-        ]
-      },
-      {
-        "texto": "Tiene suma urgencia, un plazo corto que vence el 4 de noviembre.",
-        "fuentes": [
-          "f1",
-          "f12"
-        ]
-      }
-    ]
-  },
-  "posiciones": [
-    {
-      "organizacion": "Consejo Minero",
-      "tipo": "Gremio empresarial",
-      "vocero": "Carlos Urenda, gerente general",
-      "postura": "Con reparos",
-      "argumento": "Valora que los permisos arqueológicos pasen a las regiones. Pide definiciones más precisas de patrimonio arqueológico, inmaterial e indígena, y un consejo más pequeño.",
-      "fecha": "4 de agosto de 2025",
-      "fuentes": [
-        "f7",
-        "f8"
-      ]
-    },
-    {
-      "organizacion": "Libertad y Desarrollo",
-      "tipo": "Centro de estudios",
-      "vocero": "",
-      "postura": "Con reparos",
-      "argumento": "Considera urgente modernizar la ley, pero sostiene que las indicaciones de 2024 van en otra dirección. Critica conceptos amplios y un consejo de 30 miembros, y propone uno de no más de 10.",
-      "fecha": "23 de octubre de 2025",
-      "fuentes": [
-        "f9"
-      ]
-    },
-    {
-      "organizacion": "Unión Nacional de Artistas",
-      "tipo": "Organización cultural",
-      "vocero": "",
-      "postura": "En contra",
-      "argumento": "Sobre el texto que aprobó la Cámara en 2022, sostuvo que era un retroceso, que excluía a organizaciones patrimoniales del consejo y que faltó la consulta indígena.",
-      "fecha": "5 de marzo de 2022",
-      "fuentes": [
-        "f10"
-      ]
-    }
-  ],
-  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones indígenas, de colegios profesionales (arqueólogos o arquitectos) ni de municipios sobre el texto en discusión entre marzo y octubre de 2026.",
-  "encuadre": {
-    "intro": "En las pocas notas revisadas aparecen dos maneras de presentar el proyecto. Es una lectura exploratoria.",
-    "marcos": [
-      {
-        "titulo": "Permisos más rápidos",
-        "quienes": "Gobierno, gremio minero y un centro de estudios",
-        "problema": "Los permisos del Consejo de Monumentos demoran los proyectos de inversión.",
-        "problema_fuentes": [
-          "f3",
-          "f7",
-          "f9"
-        ],
-        "causa": "Un consejo central y una ley antigua concentran las decisiones.",
-        "causa_fuentes": [
-          "f6",
-          "f9"
-        ],
-        "solucion": "Pasar los permisos a oficinas regionales, con plazos claros.",
-        "solucion_fuentes": [
-          "f3",
           "f11"
-        ],
-        "palabras": [
-          "permisología",
-          "cuello de botella",
-          "certeza"
         ]
       },
       {
-        "titulo": "Proteger sin debilitar",
-        "quienes": "Parte de la oposición en el Senado y organizaciones culturales",
-        "problema": "Un foco solo en agilizar trámites podría debilitar la protección del patrimonio.",
-        "problema_fuentes": [
-          "f3"
-        ],
-        "causa": "Los plazos actuales no se sostienen, y en 2022 se criticó la falta de consulta indígena.",
-        "causa_fuentes": [
-          "f3",
-          "f10"
-        ],
-        "solucion": "Incluir a los pueblos originarios en el consejo para darle pertinencia cultural.",
-        "solucion_fuentes": [
-          "f3"
-        ],
-        "palabras": [
-          "protección",
-          "pertinencia cultural",
-          "consulta indígena"
+        "texto": "El 9 de junio de 2026 la Sala acordó que después lo vea la Comisión de Minería y Energía.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "La Comisión de Cultura está citada el 16 de noviembre de 2026 para continuar la discusión en particular.",
+        "fuentes": [
+          "a1"
         ]
       }
     ]
   },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "Ministerio de las Culturas, «Gobierno otorga suma urgencia al proyecto de Ley de Patrimonio Cultural»",
-      "url": "https://www.cultura.gob.cl/institucional/gobierno-otorga-suma-urgencia-al-proyecto-de-ley-de-patrimonio-cultural/",
-      "fecha": "17 de marzo de 2026",
-      "nota": "Urgencia del gobierno y fundamentos que declara."
-    },
-    {
-      "id": "f2",
-      "titulo": "El Diario de Antofagasta, «Nueva Ley de Patrimonio Cultural: ¿Qué cambios trae el proyecto que el Gobierno busca aprobar con urgencia?»",
-      "url": "https://www.diarioantofagasta.cl/cultura/222840/nueva-ley-de-patrimonio-cultural-que-cambios-trae-el-proyecto-que-el-gobierno-busca-aprobar-con-urgencia/",
-      "fecha": "17 de marzo de 2026",
-      "nota": "Patrimonio inmaterial y comunidades."
+      "titulo": "Mensaje del Presidente de la República, Ley de Patrimonio Cultural (2019)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=13243&tipodoc=mensaje_mocion",
+      "fecha": "17 de junio de 2019",
+      "nota": "Fundamentos del mensaje original. El texto está cortado."
     },
     {
       "id": "f3",
-      "titulo": "Emol, nota sobre la reforma al Consejo de Monumentos Nacionales",
-      "url": "https://www.emol.com/noticias/Economia/2026/04/06/1196424/consejo-de-monumentos.html",
-      "fecha": "6 de abril de 2026",
-      "nota": "Estado en la comisión, enfoque del gobierno y debate sobre el Consejo."
-    },
-    {
-      "id": "f4",
-      "titulo": "Ministerio de las Culturas, «Avanza la nueva Ley de los Patrimonios Culturales: comisión del Senado aprueba indicaciones en general»",
-      "url": "https://www.cultura.gob.cl/actualidad/avanza-la-nueva-ley-de-los-patrimonios-culturales-comision-del-senado-aprueba-indicaciones-en-general/",
-      "fecha": "25 de marzo de 2025",
-      "nota": "Aprobación en general en la comisión y contenido de las indicaciones."
-    },
-    {
-      "id": "f5",
-      "titulo": "Diario Financiero, «Plazos fijos y procedimientos para informar establece el proyecto que crea el Consejo de los Patrimonios»",
-      "url": "https://www.df.cl/economia-y-politica/pais/plazos-fijos-y-procedimientos-para-informar-establece-el-proyecto-que",
-      "fecha": "26 de diciembre de 2024",
-      "nota": "Contenido de las indicaciones de 2024: Consejo, permisos regionales, categorías, hallazgos y delitos."
+      "titulo": "Oficio 17.261 de la Cámara al Senado (3 de marzo de 2022)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=29940&tipodoc=ofic",
+      "fecha": "3 de marzo de 2022",
+      "nota": "Texto aprobado por la Cámara de Diputados."
     },
     {
       "id": "f6",
-      "titulo": "Pauta, «Ley de Patrimonio: ¿por qué duerme aún en el Congreso?»",
-      "url": "https://www.pauta.cl/actualidad/2025/03/12/ley-de-patrimonio-por-que-duerme-aun-en-el-congreso.html",
-      "fecha": "12 de marzo de 2025",
-      "nota": "Entrevista a Emilio de la Cerda, subsecretario cuando se ingresó el proyecto."
-    },
-    {
-      "id": "f7",
-      "titulo": "Consejo Minero, «Observaciones del Consejo Minero al Proyecto de Ley de Patrimonio Cultural» (carta a la Comisión de Cultura del Senado)",
-      "url": "https://consejominero.cl/wp-content/uploads/2025/08/2025.07.17-Observaciones-del-Consejo-Minero-al-pdl-de-Patrimonio-Cultural-1.pdf",
-      "fecha": "4 de agosto de 2025",
-      "nota": "Firmada por Carlos Urenda, gerente general."
+      "titulo": "Indicación sustitutiva del Presidente de la República (N° 019-369, 2021)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28214&tipodoc=ofic",
+      "fecha": "24 de marzo de 2021",
+      "nota": "Contenido de la indicación que reemplazó el texto."
     },
     {
       "id": "f8",
-      "titulo": "Consejo Minero, «CM expone en el Senado sus observaciones del Proyecto de Ley de Patrimonio Cultural»",
-      "url": "https://consejominero.cl/actividades/cm-expone-en-el-senado-sus-observaciones-del-proyecto-de-ley-de-patrimonio-cultural/",
-      "fecha": "4 de agosto de 2025",
-      "nota": ""
+      "titulo": "Primer informe de la Comisión de Hacienda de la Cámara (2 de marzo de 2022), costo fiscal",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=24574&tipodoc=info",
+      "fecha": "2 de marzo de 2022",
+      "nota": "Resume el informe financiero N° 35 de 2021."
     },
     {
       "id": "f9",
-      "titulo": "Libertad y Desarrollo, Temas Públicos N.º 1711, «Nueva Ley de Patrimonio Cultural: necesaria, pero mal enfocada»",
-      "url": "https://lyd.org/wp-content/uploads/2025/10/TP-1711-NUEVA-LEY-DE-PATRIMONIO-CULTURAL.pdf",
-      "fecha": "23 de octubre de 2025",
-      "nota": ""
-    },
-    {
-      "id": "f10",
-      "titulo": "Radio Universidad de Chile, «Unión Nacional de Artistas rechaza tramitación del proyecto de Patrimonio Cultural: \"Significa un retroceso\"»",
-      "url": "https://radio.uchile.cl/?p=664431",
-      "fecha": "5 de marzo de 2022",
-      "nota": "Se refiere al texto despachado por la Cámara en marzo de 2022."
+      "titulo": "Oficio 17.261 de la Cámara al Senado, artículo sobre financiamiento",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=29940&tipodoc=ofic",
+      "fecha": "3 de marzo de 2022",
+      "nota": "Financiamiento del primer año."
     },
     {
       "id": "f11",
-      "titulo": "BioBioChile, «Ministro Undurraga anuncia regreso del Pase Cultural y más recortes al presupuesto del sector»",
-      "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/04/01/ministro-undurraga-anuncia-regreso-del-pase-cultural-y-mas-recortes-al-presupuesto-del-sector.shtml",
-      "fecha": "1 de abril de 2026",
-      "nota": "Acuerdo sobre descentralizar; número de consejeros pendiente."
+      "titulo": "Senado, tramitación del boletín 12712-24",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12712",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Trámites y urgencias."
     },
     {
-      "id": "f12",
-      "titulo": "Senado, ficha de tramitación del boletín 12712-24",
-      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=12712-24",
-      "fecha": "Consulta automática",
-      "nota": "Etapa, trámites y urgencias (datos de urgencias.json; la página no se pudo abrir directamente)."
-    },
-    {
-      "id": "f13",
-      "titulo": "Cámara de Diputadas y Diputados, tramitación del boletín 12712-24",
-      "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=12712-24",
-      "fecha": "Consulta automática",
-      "nota": "Trámites en la Cámara (datos de urgencias.json)."
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Sesión citada para el 16 de noviembre de 2026."
     }
   ],
-  "consultado": "2026-10-30",
-  "publicado": "2026-10-30",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
