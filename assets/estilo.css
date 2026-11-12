@@ -333,6 +333,8 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .aviso-ampliado ul { margin: 0 0 8px; padding-left: 20px; display: grid; gap: 6px; font-size: 15.5px; line-height: 1.5; }
 .aviso-ampliado a { color: var(--indigo); }
 .aviso-ampliado .aviso-ampliado-nota { margin: 0; font-size: 13.5px; color: var(--tinta-suave); }
+.oferta-ampliado.sin-prensa { background: var(--crema); border-color: rgba(46,34,98,.14); }
+.oferta-ampliado.sin-prensa h2 { font-size: clamp(22px, 3vw, 28px); }
 .cta-ampliado { background: rgba(242,180,42,.14); border-color: rgba(125,87,0,.22); }
 .enlace-ampliado { font-family: var(--f-etiqueta); font-weight: 700; font-size: 13px; color: var(--indigo); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
 .dlg-ampliado { width: min(620px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 0; border: 0; border-radius: var(--r-grande); background: var(--crema); color: var(--tinta); box-shadow: var(--sombra); }

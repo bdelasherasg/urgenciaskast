@@ -480,8 +480,19 @@
         '<p class="aviso-ampliado-nota">Se elabora con las notas de una lista fija de medios nacionales, y cada afirmación enlaza a su fuente.</p></div>';
     }
     // Oferta del análisis ampliado gratuito: se intercala con los avisos de asesoría en las fichas básicas.
-    var ofrecerAmpliado = !!(F && F.resumen && !completa && CFG.pedidosUrl);
+    // Si ya se pidió y la prensa no menciona el proyecto, la ficha lo avisa en lugar de ofrecerlo.
+    var sinPrensa = !!(F && F.resumen && !completa && F.ampliado && F.ampliado.estado === 'sin_prensa');
+    var ofrecerAmpliado = !!(F && F.resumen && !completa && !sinPrensa && CFG.pedidosUrl);
     function ofertaAmpliado(grande) {
+      if (sinPrensa && grande) {
+        var Am = F.ampliado;
+        return '<aside class="tarjeta oferta-ampliado sin-prensa" aria-labelledby="h-sin-prensa"><div class="tarjeta-cuerpo">' +
+          '<p class="eyebrow">Análisis ampliado</p><h2 id="h-sin-prensa">No hay menciones en prensa para un análisis ampliado</h2>' +
+          '<p>Se pidió el análisis ampliado de este proyecto' + (Am.fecha ? ' y lo intentamos el ' + esc(fLarga(Am.fecha)) : '') + '. Ese análisis registra qué han dicho las organizaciones y cómo se habla del proyecto en la prensa, y en los medios que seguimos no encontramos menciones suficientes de él' +
+          (Am.notas_revisadas ? ' (revisamos ' + esc(Am.notas_revisadas) + (Am.notas_revisadas === 1 ? ' nota candidata' : ' notas candidatas') + ', y no bastaban para hacerlo)' : '') + '.</p>' +
+          '<p>Por eso esta ficha sigue con su resumen, que explica qué propone el proyecto con la fuente de cada dato. Si su organización se pronunció sobre él, <a href="' + urlAsesoria('posiciones') + '">envíenos el enlace a su declaración pública</a>.</p>' +
+          '</div></aside>';
+      }
       if (!ofrecerAmpliado) return '';
       var boton = '<button type="button" class="' + (grande ? 'boton' : 'enlace-ampliado') + '" data-ampliado>Solicitar análisis ampliado gratuito</button>';
       if (!grande) return '<div class="mas-cta cta-ampliado"><p>¿Este proyecto trata un tema contingente? Pida gratis el análisis ampliado: qué dicen las organizaciones y cómo se habla del proyecto en la prensa.</p>' + boton + '</div>';
