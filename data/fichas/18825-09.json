@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "boletin": "18825-09",
+  "nivel": "basica",
+  "sintesis": "Reemplaza el enfoque de evacuar las aguas lluvias por uno de gestión integral, para reducir riesgos, proteger la calidad del agua y aumentar su disponibilidad. Está en primer trámite en la Cámara, sin urgencia.",
+  "materia": "la gestión integral de las aguas lluvias",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley 19.525, de 1997, trata las aguas lluvias como agua que debe eliminarse lo más rápido posible.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que la ley no considera la calidad del agua ni las proyecciones del cambio climático.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita las inundaciones de julio de 2026, que dejaron al menos trece personas fallecidas según el Senapred.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Define la gestión integral de las aguas lluvias como acciones para controlar el escurrimiento en su origen y a lo largo de la cuenca urbana.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los planes maestros del Ministerio de Obras Públicas deberían evaluar técnicas de bajo impacto, como pavimentos permeables y jardines de lluvia, además de las obras para evacuar el agua.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley 19.525 y el artículo 134 de la Ley General de Urbanismo y Construcciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien urbanice un terreno debería asegurar que el caudal máximo de aguas lluvias que descarga no supere el que había antes de urbanizar.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un reglamento fijaría los criterios y se actualizaría al menos cada cinco años.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los ministerios de Obras Públicas y de Vivienda y Urbanismo, y a quienes urbanizan terrenos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 21 de octubre de 2026 y el 28 de octubre pasó a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La Comisión de Recursos Hídricos y Desertificación lo tiene citado el 16 de noviembre de 2026, a las 14:50, para iniciar su estudio en general.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción del boletín 18.825-09 (texto original, octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19507&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-21",
+      "nota": "Fundamentos, contenido y articulado, cortado a 20.000 caracteres."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, tramitación del boletín 18.825-09",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18825",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, comisiones y fechas de tramitación."
+    },
+    {
+      "id": "f3",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (camara.cl)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-11",
+      "nota": "Citación publicada para la sesión de la comisión."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
