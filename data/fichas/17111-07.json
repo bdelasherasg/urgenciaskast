@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "boletin": "17111-07",
+  "nivel": "basica",
+  "sintesis": "Exige que los abogados de imputados por delitos de drogas y otros delitos graves cobren sin dinero en efectivo y acrediten el pago ante el tribunal. Está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "el origen del dinero que paga los honorarios de abogados defensores y la caución",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los delitos violentos y las bandas criminales han afectado la seguridad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Advierte que dinero de origen ilícito podría pagar la caución, una garantía en dinero que puede reemplazar la prisión preventiva, o los honorarios de abogados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara exige a los abogados cobrar sus honorarios por cheque, transferencia u otro medio distinto del efectivo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Al terminar la defensa, el abogado debe acreditar en el tribunal el pago recibido.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Quien incumpla sería suspendido del ejercicio de la profesión entre seis meses y un año.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La regla no rige para los abogados de la Defensoría Penal Pública.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega los artículos 61 bis y 61 ter a la ley N° 20.000, que sanciona el tráfico de drogas.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Modifica también el artículo 3 de la ley N° 19.913, sobre la Unidad de Análisis Financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión de la Cámara suprimió los dos artículos de la moción original y trabajó con el texto de otra moción fusionada.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a abogados que defienden a imputados por delitos de drogas, delitos funcionarios, asociaciones criminales y delitos terroristas.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó el 14 de abril de 2025 y lo envió al Senado.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "El 15 de abril de 2025 pasó a la Comisión de Seguridad Pública del Senado.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece la obligación de acreditar el origen lícito del dinero destinado al pago de la caución económica sustitutiva de la prisión preventiva, así como de los honorarios de la defensa del imputado, en los casos que señala",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17731&tipodoc=mensaje_mocion",
+      "fecha": "2024-09-03",
+      "nota": "Fundamentos y texto de la moción original."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Segundo informe de comisión de Seguridad Ciudadana · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27164&tipodoc=info",
+      "fecha": "2025-04-07",
+      "nota": "Segundo informe de la Comisión de Seguridad Ciudadana de la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 20333: Oficio de Ley a Cámara Revisora",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34701&tipodoc=ofic",
+      "fecha": "2025-04-14",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f8",
+      "titulo": "Tramitación del boletín 17111-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17111",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
