@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-11T18:53-03:00",
- "desde": "2026-11-11",
- "hasta": "2026-11-24",
+ "actualizado": "2026-11-11T21:46-03:00",
+ "desde": "2026-11-12",
+ "hasta": "2026-11-25",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-11T21:53",
+   "consultado": "2026-11-12T00:46",
    "citaciones": 23,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,221 +19,6 @@
   }
  },
  "sesiones": [
-  {
-   "fecha": "2026-11-11",
-   "hora": "09:30",
-   "horario": "09:30 a 11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Minería y Energía",
-   "lugar": "Sala de Sesiones, Valparaíso.",
-   "materias": [
-    "1.- ( Bol.N° 18821-08 ) Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
-    "A esta sesión fue especialmente invitada la Ministra de Energía, señora Ximena Rincón."
-   ],
-   "boletines": [
-    "18821-08"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "09:30",
-   "horario": "09:30 a 11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
-   "lugar": "Sala N° 9 de Comisiones, tercer piso del Senado, Valparaíso.",
-   "materias": [
-    "1.- Conocer antecedentes relacionados con el derrame de relaves ocurrido en el río Blanco, en Los Andes, y las medidas de fiscalización y mitigación adoptadas sobre el particular.",
-    "2.- ( Bol.N° 17877-33 ) Continuar la discusión de las indicaciones formuladas al proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales (Boletín N°17.877-33)."
-   ],
-   "boletines": [
-    "17877-33"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "09:30",
-   "horario": "09:30 a 11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Transportes y Telecomunicaciones",
-   "lugar": "Sala 5, (Valparaíso)",
-   "materias": [
-    "1.- ( Bol.N° 18436-15 ) Iniciar el estudio del proyecto de ley, en segundo trámite constitucional, que modifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado, con urgencia calificada de \"suma\".",
-    "2.- ( Bol.N° 17974-15 ) Continuar con el estudio del proyecto de ley, en primer trámite constitucional, originado en moción de los Honorables Senadores señora Provoste, señores Saavedra y Velásquez y de los ex Senadores señores Chahuán y Lagos, que modifica la ley N° 20.433, que crea los servicios de radiodifusión comunitaria ciudadana, con el objeto de fortalecer su desarrollo y sostenibilidad, con urgencia calificada de \"simple\"."
-   ],
-   "boletines": [
-    "17974-15",
-    "18436-15"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "10:30",
-   "horario": "10:30 a 12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Hacienda",
-   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
-   ],
-   "boletines": [
-    "18643-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "11:00",
-   "horario": "11:00 a 12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Agricultura",
-   "lugar": "Sala 7. tercer piso de Comisiones, Valparaíso",
-   "materias": [
-    "1.- Recibir a representantes de la Fundación para la Innovación Agraria (FIA), para conocer el trabajo de la institución en regiones y la importancia de la innovación agraria."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "11:00",
-   "horario": "11:00 a 13:00",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "lugar": "Sala N° 10 de Comisiones - Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 18779-07 ) Proyecto de ley que interpreta y modifica la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena por delitos sexuales cometidos contra menores de edad.",
-    "A esta sesión han sido invitados el ex Ministro de Justicia y Derechos Humanos, señor Hernán Larraín Fernández; el ex Ministro de Justicia y Derechos Humanos, señor Jaime Gajardo Falcon; el Defensor de la Niñez, señor Anuar Quesille; la académica de la Universidad de Chile, señora Rocío Lorca; el académico de la Pontificia Universidad Católica de Valparaíso, señor Eduardo Cordero Quinzacara, y el académico de la Universidad Alberto Hurtado, señor Tomás Jordan."
-   ],
-   "boletines": [
-    "18779-07"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "11:00",
-   "horario": "11:00 a 12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
-   "lugar": "Sala N° 1, Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 18420-25 ) Continuar el estudio de las indicaciones presentadas al proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado (Boletín N° 18.420-25)."
-   ],
-   "boletines": [
-    "18420-25"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "11:00",
-   "horario": "11:00 a 12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Seguridad Pública",
-   "lugar": "Sala N° 6, tercer piso, Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 18881-25 ) Iniciar el estudio del proyecto de ley, en primer trámite constitucional, que deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal (Boletín N° 18.881-25).",
-    "Para tratar este asunto serán invitados el Ministro de Justicia y Derechos Humanos, señor Fernando Rabat; el Ministro de Seguridad Pública, señor Martín Arrau; la Presidenta de la Excelentísima Corte Suprema, señora Gloria Ana Chevesich, y el Director Nacional de Gendarmería, señor Rubén Pérez."
-   ],
-   "boletines": [
-    "18881-25"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "12:30",
-   "horario": "12:30 a 14:00",
-   "camara": "Senado",
-   "organo": "Comisión de Obras Públicas",
-   "lugar": "Sala N° 4 de Comisiones, tercer piso, Valparaíso.",
-   "materias": [
-    "1.- ( Bol.N° 8654-15 ) Continuar el estudio del proyecto de ley, en segundo trámite constitucional, que modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
-    "A esta sesión se ha invitado el Ministro de Obras Públicas y de Transportes y Telecomunicaciones."
-   ],
-   "boletines": [
-    "8654-15"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "12:30",
-   "horario": "12:30 a 14:00",
-   "camara": "Senado",
-   "organo": "Comisión de Trabajo y Previsión Social",
-   "lugar": "Sala N°9 Tercer Piso Senado Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 11929-13 ) Para continuar con el estudio del proyecto de ley que modifica el Código del Trabajo para crear el contrato por horas.",
-    "Se ha invitado especialmente a representantes de la Confederación de la Producción y del Comercio (CPC) y del Instituto de Ciencias Alejandro Lipschutz (ICAL).",
-    "Al término de las audiencias se pondrá en votación en general esta iniciativa."
-   ],
-   "boletines": [
-    "11929-13"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "14:30",
-   "horario": "14:30 a 15:00",
-   "camara": "Senado",
-   "organo": "Comisión de Régimen Interior",
-   "lugar": "Sala de Reuniones de la Presidencia, Valparaíso",
-   "materias": [
-    "1.- Tratar asuntos propios de su competencia"
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "15:00",
-   "horario": "15:00 a 16:00",
-   "camara": "Senado",
-   "organo": "Comisión Especial de Zonas Extremas y Territorios Especiales",
-   "lugar": "Sala 11, Valparaíso.",
-   "materias": [
-    "1.- Analizar la situación presupuestaria de las universidades del Estado, de las regiones extremas del norte y sur del país.",
-    "A esta sesión se invitará a la Universidad de Tarapacá; Universidad Arturo Prat; Universidad de Aysén y Universidad de Magallanes."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
-  {
-   "fecha": "2026-11-11",
-   "hora": "16:00",
-   "horario": "16:00 a 17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Transportes y Telecomunicaciones",
-   "lugar": "Sala 5, (Valparaíso)",
-   "materias": [
-    "1.- Analizar la situación actual de transporte nacional.",
-    "2.- ( Bol.N° 18860-15 ) Iniciar el estudio del proyecto de ley, en primer trámite constitucional, originado en moción de los Honorables Senadores señoras Núñez, Carvajal y Flores y señores Saavedra y Van Rysselberghe, que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño.",
-    "%%CITACION_FECHA.COMINOMBRE%% []",
-    "-->"
-   ],
-   "boletines": [
-    "18860-15"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
-  },
   {
    "fecha": "2026-11-16",
    "hora": "12:00",
@@ -730,9 +515,32 @@
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "horario": "15:00 a 16:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial de Zonas Extremas y Territorios Especiales",
+   "lugar": "Sala 11, Valparaíso.",
+   "materias": [
+    "1.- Analizar la situación del fútbol profesional chileno en las zonas extremas del país.",
+    "A esta sesión se invitará al Ministro del Deporte; al Director Nacional del Instituto Nacional de Deportes, y al Presidente de la Asociación Nacional de Fútbol Profesional.",
+    "%%CITACION_FECHA.COMINOMBRE%% []",
+    "-->"
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha"
   }
  ],
  "probables": [
+  {
+   "boletin": "16743-04",
+   "vence": "2026-11-12",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
   {
    "boletin": "14309-04",
    "vence": "2026-11-15",
@@ -747,12 +555,6 @@
   },
   {
    "boletin": "16300-07",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "16743-04",
    "vence": "2026-11-16",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
@@ -776,7 +578,7 @@
    "camara": "Senado"
   },
   {
-   "boletin": "18709-07",
+   "boletin": "18643-05",
    "vence": "2026-11-16",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
@@ -830,6 +632,12 @@
    "camara": "Cámara de Diputados"
   },
   {
+   "boletin": "18881-25",
+   "vence": "2026-11-17",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
    "boletin": "18788-07",
    "vence": "2026-11-24",
    "tipo": "Suma",
@@ -840,134 +648,135 @@
    "vence": "2026-11-24",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "12213-07",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15261-25",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15767-29",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "15850-11",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "16143-02",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "16725-06",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17111-07",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17170-07",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17628-13",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17914-13",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18029-17",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18255-31",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18258-07",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18282-07",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18389-04",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18427-07",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18436-15",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18464-14",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18584-25",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18585-25",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "18644-14",
+   "vence": "2026-11-25",
+   "tipo": "Suma",
+   "camara": "Senado"
   }
  ],
  "proyectos": {
-  "11929-13": {
-   "boletin": "11929-13",
-   "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
-   "fecha_ingreso": "2018-07-19",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Simple",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Trabajo y Previsión Social",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-06-09",
-     "retiro": "2026-07-07",
-     "camara": "Senado",
-     "oficio": "135-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-07-07",
-     "retiro": "2026-08-04",
-     "camara": "Senado",
-     "oficio": "185-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-08-04",
-     "retiro": "2026-09-01",
-     "camara": "Senado",
-     "oficio": "233-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-01",
-     "retiro": "2026-09-29",
-     "camara": "Senado",
-     "oficio": "288-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-29",
-     "retiro": "2026-10-27",
-     "camara": "Senado",
-     "oficio": "352-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-10-27",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "413-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2018-07-19",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2018-07-31",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Trabajo y Previsión Social",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-09",
-     "descripcion": "Cuenta del Mensaje 135-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "Cuenta del Mensaje 185-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04",
-     "descripcion": "Cuenta del Mensaje 233-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Cuenta del Mensaje 288-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-29",
-     "descripcion": "Cuenta del Mensaje 352-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Cuenta del Mensaje 413-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=11929-13",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=11929-13",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=12452&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 5,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 6,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Simple",
-    "desde": "2026-10-27",
-    "vence": "2026-11-26",
-    "camara": "Senado",
-    "estado": "vigente",
-    "plazo_dias": 30,
-    "oficio": "413-374",
-    "mixta": false
-   },
-   "dias_tramite": 3037
-  },
   "14773-02": {
    "boletin": "14773-02",
    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
@@ -1289,7 +1098,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 1772
+   "dias_tramite": 1773
   },
   "14838-03": {
    "boletin": "14838-03",
@@ -1871,7 +1680,7 @@
     "oficio": "65-374",
     "mixta": false
    },
-   "dias_tramite": 1710
+   "dias_tramite": 1711
   },
   "16552-12": {
    "boletin": "16552-12",
@@ -2355,7 +2164,7 @@
     "oficio": "410-374",
     "mixta": false
    },
-   "dias_tramite": 1036
+   "dias_tramite": 1037
   },
   "17196-17": {
    "boletin": "17196-17",
@@ -2399,7 +2208,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 751
+   "dias_tramite": 752
   },
   "17446-17": {
    "boletin": "17446-17",
@@ -2443,7 +2252,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 587
+   "dias_tramite": 588
   },
   "17800-11": {
    "boletin": "17800-11",
@@ -2566,7 +2375,7 @@
     "oficio": "346-374",
     "mixta": false
    },
-   "dias_tramite": 448
+   "dias_tramite": 449
   },
   "17820-09": {
    "boletin": "17820-09",
@@ -2652,305 +2461,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 435
-  },
-  "17877-33": {
-   "boletin": "17877-33",
-   "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
-   "fecha_ingreso": "2025-10-01",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Simple",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Segundo informe de comisión de Recursos Hídricos, Desertificación y Sequía",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-10-14",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1170-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-11-04",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1219-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-11-25",
-     "retiro": "2025-12-10",
-     "camara": "Senado",
-     "oficio": "1269-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-12-10",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1368-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-01-06",
-     "retiro": "2026-01-20",
-     "camara": "Senado",
-     "oficio": "1462-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-01-20",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1548-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-03-03",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1605-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-08",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "312-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-10-06",
-     "retiro": "2026-10-28",
-     "camara": "Senado",
-     "oficio": "374-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-10-28",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "428-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2025-10-14",
-     "descripcion": "Cuenta del Mensaje 1170-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-11-04",
-     "descripcion": "Cuenta del Mensaje 1219-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-11-25",
-     "descripcion": "Cuenta del Mensaje 1269-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-11-26",
-     "descripcion": "Primer informe de comisión de Recursos Hídricos, Desertificación y Sequía.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-02",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-10",
-     "descripcion": "Cuenta del Mensaje 1368-373 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-06",
-     "descripcion": "Cuenta del Mensaje 1462-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-20",
-     "descripcion": "Cuenta del Mensaje 1548-373 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-03-03",
-     "descripcion": "Cuenta del Mensaje 1605-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-05-13",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/06/2026 a las 12:00",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-10",
-     "descripcion": "La Sala acuerda ampliar el plazo para presentar indicaciones a este proyecto, hasta las 12 horas del día 9 de julio de 2026, en la Secretaría del Senado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08",
-     "descripcion": "La Sala acuerda ampliar el plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 17 de julio de 2026, en la Secretaría del Senado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-20",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-20",
-     "descripcion": "Oficio N°. I.F. N° 169",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "La Sala acuerda abrir un nuevo plazo para presentar indicaciones al proyecto de ley hasta las 12.00 horas del día 1 de septiembre de 2026, en la Secretaría de la Comisión de Recursos Hídricos, Desertificación y Sequía",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "IF 212. Informe financiero",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 312-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Cuenta del Mensaje 428-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17877-33",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17877-33",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18533&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 2,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 3,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Simple",
-    "desde": "2026-10-28",
-    "vence": "2026-11-27",
-    "camara": "Senado",
-    "estado": "vigente",
-    "plazo_dias": 30,
-    "oficio": "428-374",
-    "mixta": false
-   },
-   "dias_tramite": 406
-  },
-  "17974-15": {
-   "boletin": "17974-15",
-   "titulo": "Modifica la ley N° 20.433, que crea los servicios de radiodifusión comunitaria ciudadana, con el objeto de fortalecer su desarrollo y sostenibilidad",
-   "fecha_ingreso": "2025-11-20",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Simple",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Transportes y Telecomunicaciones",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-09",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "322-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-10-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "374-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2025-11-20",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-11-24",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Transportes y Telecomunicaciones",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-09",
-     "descripcion": "Cuenta del Mensaje 322-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17974-15",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17974-15",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18631&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 1,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 2,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Simple",
-    "desde": "2026-10-06",
-    "vence": "2026-11-05",
-    "camara": "Senado",
-    "estado": "vencida",
-    "plazo_dias": 30,
-    "oficio": "374-374",
-    "mixta": false
-   },
-   "dias_tramite": 356
+   "dias_tramite": 436
   },
   "18223-15": {
    "boletin": "18223-15",
@@ -2994,7 +2505,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 200
+   "dias_tramite": 201
   },
   "18224-18": {
    "boletin": "18224-18",
@@ -3166,7 +2677,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 198
+   "dias_tramite": 199
   },
   "18246-18": {
    "boletin": "18246-18",
@@ -3344,7 +2855,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 189
+   "dias_tramite": 190
   },
   "18271-07": {
    "boletin": "18271-07",
@@ -3429,7 +2940,7 @@
     "oficio": "388-374",
     "mixta": false
    },
-   "dias_tramite": 182
+   "dias_tramite": 183
   },
   "18318-19": {
    "boletin": "18318-19",
@@ -3595,7 +3106,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 162
+   "dias_tramite": 163
   },
   "18326-18": {
    "boletin": "18326-18",
@@ -3639,7 +3150,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 162
+   "dias_tramite": 163
   },
   "18415-18": {
    "boletin": "18415-18",
@@ -3811,128 +3322,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 141
-  },
-  "18420-25": {
-   "boletin": "18420-25",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-   "fecha_ingreso": "2026-06-24",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Simple",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-08-11",
-     "retiro": "2026-09-08",
-     "camara": "Senado",
-     "oficio": "256-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-08",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "311-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-06-24",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08",
-     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08",
-     "descripcion": "La Sala acuerda autorizar a la Comisión de Intereses Marítimos, Pesca y Acuicultura para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-06",
-     "descripcion": "Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Cuenta del Mensaje 256-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Discusión general . Aprobado en general",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12",
-     "descripcion": "La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "La Sala acuerda que el proyecto sea conocido por la Comisión de Seguridad Pública, una vez que sea despachado por la Comisión de Intereses Marítimos, Pesca y Acuicultura",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18420-25",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18420-25",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19092&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 1,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 2,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Simple",
-    "desde": "2026-09-08",
-    "vence": "2026-10-08",
-    "camara": "Senado",
-    "estado": "vencida",
-    "plazo_dias": 30,
-    "oficio": "311-374",
-    "mixta": false
-   },
-   "dias_tramite": 140
+   "dias_tramite": 142
   },
   "18461-04": {
    "boletin": "18461-04",
@@ -3976,7 +3366,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 127
+   "dias_tramite": 128
   },
   "18509-35": {
    "boletin": "18509-35",
@@ -4038,7 +3428,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 113
+   "dias_tramite": 114
   },
   "18530-02": {
    "boletin": "18530-02",
@@ -4111,7 +3501,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 105
+   "dias_tramite": 106
   },
   "18574-25": {
    "boletin": "18574-25",
@@ -4171,7 +3561,7 @@
     "oficio": "439-374",
     "mixta": false
    },
-   "dias_tramite": 96
+   "dias_tramite": 97
   },
   "18621-34": {
    "boletin": "18621-34",
@@ -4269,7 +3659,7 @@
     "oficio": "388-374",
     "mixta": false
    },
-   "dias_tramite": 72
+   "dias_tramite": 73
   },
   "18622-24": {
    "boletin": "18622-24",
@@ -4319,7 +3709,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 105
+   "dias_tramite": 106
   },
   "18680-15": {
    "boletin": "18680-15",
@@ -4398,7 +3788,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 69
+   "dias_tramite": 70
   },
   "18729-15": {
    "boletin": "18729-15",
@@ -4464,7 +3854,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 49
+   "dias_tramite": 50
   },
   "18730-29": {
    "boletin": "18730-29",
@@ -4543,7 +3933,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 35
+   "dias_tramite": 36
   },
   "18744-15": {
    "boletin": "18744-15",
@@ -4609,51 +3999,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 44
-  },
-  "18821-08": {
-   "boletin": "18821-08",
-   "titulo": "Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
-   "fecha_ingreso": "2026-10-28",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Minería y Energía",
-   "estado": "En tramitación",
-   "urgencias": [],
-   "tramites": [
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Minería y Energía",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18821-08",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18821-08",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19504&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
-   },
-   "dias_tramite": 14
+   "dias_tramite": 45
   },
   "18825-09": {
    "boletin": "18825-09",
@@ -4697,51 +4043,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 21
-  },
-  "18860-15": {
-   "boletin": "18860-15",
-   "titulo": "Proyecto de ley que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño",
-   "fecha_ingreso": "2026-11-06",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Transportes y Telecomunicaciones",
-   "estado": "En tramitación",
-   "urgencias": [],
-   "tramites": [
-    {
-     "fecha": "2026-11-06",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-10",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Transportes y Telecomunicaciones",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18860-15",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18860-15",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19538&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
-   },
-   "dias_tramite": 5
+   "dias_tramite": 22
   },
   "2771-05": {
    "boletin": "2771-05",
@@ -4809,323 +4111,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 9213
-  },
-  "8654-15": {
-   "boletin": "8654-15",
-   "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
-   "fecha_ingreso": "2012-10-30",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Segundo informe de comisión de Obras Públicas",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2013-08-13",
-     "retiro": "2013-09-12",
-     "camara": "Cámara de Diputados",
-     "oficio": "220-361"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2013-08-28",
-     "retiro": "2013-09-27",
-     "camara": "Cámara de Diputados",
-     "oficio": "243-361"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2013-09-12",
-     "retiro": "2013-10-12",
-     "camara": "Cámara de Diputados",
-     "oficio": "270-361"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2013-10-01",
-     "retiro": "2013-10-31",
-     "camara": "Cámara de Diputados",
-     "oficio": "281-361"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2013-11-19",
-     "retiro": "2013-12-19",
-     "camara": "Cámara de Diputados",
-     "oficio": "239-361"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2013-12-17",
-     "retiro": "2014-01-16",
-     "camara": "Cámara de Diputados",
-     "oficio": "390-361"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2014-01-14",
-     "retiro": "2014-02-13",
-     "camara": "Cámara de Diputados",
-     "oficio": "426-361"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-01-20",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "2622-372"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-03-03",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "2750-372"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-03-11",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "2764-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2025-04-08",
-     "retiro": "2025-05-07",
-     "camara": "Cámara de Diputados",
-     "oficio": "95-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2025-05-07",
-     "retiro": "2025-06-04",
-     "camara": "Cámara de Diputados",
-     "oficio": "319-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2025-06-04",
-     "retiro": "2025-06-09",
-     "camara": "Cámara de Diputados",
-     "oficio": "593-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-06-09",
-     "retiro": "2025-06-18",
-     "camara": "Cámara de Diputados",
-     "oficio": "619-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-06-18",
-     "retiro": "2025-07-02",
-     "camara": "Cámara de Diputados",
-     "oficio": "682-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-07-02",
-     "retiro": "2025-07-07",
-     "camara": "Cámara de Diputados",
-     "oficio": "742-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-07-15",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "816-373"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-01-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1459-373"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-01-13",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1507-373"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-01-20",
-     "retiro": "2026-01-26",
-     "camara": "Senado",
-     "oficio": "1546-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-01-26",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1574-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-03-03",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1606-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-03-24",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "04-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2025-07-07",
-     "descripcion": "Cuenta del Mensaje 762-373 que retira la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-07-08",
-     "descripcion": "Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-07-08",
-     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-07-15",
-     "descripcion": "Cuenta del Mensaje 816-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-07-23",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-07-23",
-     "descripcion": "Oficio N° 20679. Oficio de ley a Cámara Revisora.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-07-23",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Transportes y Telecomunicaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-08-05",
-     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Obras Públicas, en lugar de la Comisión de Transportes y Telecomunicaciones.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-06",
-     "descripcion": "Cuenta del Mensaje 1459-373 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-13",
-     "descripcion": "Cuenta del Mensaje 1507-373 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-20",
-     "descripcion": "Cuenta del Mensaje 1546-373 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-26",
-     "descripcion": "Cuenta del Mensaje 1574-373 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-03-03",
-     "descripcion": "Cuenta del Mensaje 1606-373 que hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-03-24",
-     "descripcion": "Cuenta del Mensaje 04-374 que hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-10",
-     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-10",
-     "descripcion": "Oficio N° IF 127. Informe Financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-29",
-     "descripcion": "Oficio N° 180-2026. Informe Financiero.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-29",
-     "descripcion": "Oficio N°119-374. Indicaciones del Ejecutivo.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-02",
-     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-02",
-     "descripcion": "IF 214. Informe Financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=8654-15",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=8654-15",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=9049&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 1,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Simple",
-    "desde": "2026-03-24",
-    "vence": "2026-04-23",
-    "camara": "Senado",
-    "estado": "vencida",
-    "plazo_dias": 30,
-    "oficio": "04-374",
-    "mixta": false
-   },
-   "dias_tramite": 5125
+   "dias_tramite": 9214
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T18:53-03:00",
+ "actualizado": "2026-11-11T21:46-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -23,6 +23,529 @@
   }
  },
  "proyectos": [
+  {
+   "boletin": "16743-04",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
+   "fecha_ingreso": "2024-04-09",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Comisión Mixta por rechazo de modificaciones (Senado)",
+   "subetapa": "Cuenta oficio rechazo a modificaciones",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2025-12-09",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1347-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-01-06",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1462-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-01-26",
+     "retiro": "2026-01-27",
+     "camara": "Cámara de Diputados",
+     "oficio": "1582-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-03-17",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "01-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-04-06",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "23-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-04-20",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "48-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-04",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "68-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-18",
+     "retiro": "2026-05-19",
+     "camara": "Cámara de Diputados",
+     "oficio": "97-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "119-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-15",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "145-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-24",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "174-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-11",
+     "retiro": "2026-08-18",
+     "camara": "Senado",
+     "oficio": "254-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-18",
+     "retiro": "2026-09-01",
+     "camara": "Senado",
+     "oficio": "270-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-01",
+     "retiro": "2026-09-08",
+     "camara": "Senado",
+     "oficio": "284-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-08",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "309-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-22",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "334-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-06",
+     "retiro": "2026-10-21",
+     "camara": "Senado",
+     "oficio": "376-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-21",
+     "retiro": "2026-10-28",
+     "camara": "Senado",
+     "oficio": "400-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-28",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "432-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-11-10",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "452-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2024-04-09",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-16",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Educación",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-16",
+     "descripcion": "La Honorable Senadora señora Núñez suscribe esta iniciativa de ley, en calidad de autora.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-10",
+     "descripcion": "Primer informe de comisión de Educación.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-11",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-06-04",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 26/06/2025 a las 12:00",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-06-26",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-06-26",
+     "descripcion": "Oficio N° I.F. N° 16. Informe financiero",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-07-08",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 14 de julio de 2025, en la Secretaría de la Comisión de Educación.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-07-22",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 1 de agosto de 2025, en la Secretaría de la Comisión de Educación.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-08-01",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-08-13",
+     "descripcion": "Segundo informe de comisión de Educación. Pasa a Comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-02",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:00 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-02",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-03",
+     "descripcion": "Segundo informe de comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-09",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-09",
+     "descripcion": "Cuenta del Mensaje 1347-373 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-06",
+     "descripcion": "Cuenta del Mensaje 1462-373 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-21",
+     "descripcion": "Discusión particular . Aprobado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-21",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-26",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Educación, y a la Comisión de Hacienda en lo que corresponda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-01-26",
+     "descripcion": "Cuenta del Mensaje 1582-373 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-01-28",
+     "descripcion": "Cuenta del Mensaje 1590-373 que retira la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-03-17",
+     "descripcion": "Cuenta del Mensaje 01-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-04-06",
+     "descripcion": "Cuenta del Mensaje 23-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-04-20",
+     "descripcion": "Cuenta del Mensaje 48-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-04",
+     "descripcion": "Cuenta del Mensaje 68-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-11",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (034-374).",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-18",
+     "descripcion": "Cuenta del Mensaje 97-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-19",
+     "descripcion": "Cuenta del Mensaje 101-374 que retira la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-02",
+     "descripcion": "S.E. el Presidente de la República retira y formula indicaciones al proyecto. (057-374). Incluye IFC N° 118/02.06.2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-02",
+     "descripcion": "Cuenta del Mensaje 119-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-08",
+     "descripcion": "Primer informe de comisión de Educación. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-08",
+     "descripcion": "Cuenta informe comisión de Educación. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-15",
+     "descripcion": "Cuenta del Mensaje 145-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Primer informe de comisión de Educación. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-24",
+     "descripcion": "Cuenta del Mensaje 174-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-02",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "Cuenta de primer informe de comisión .  (Hacienda). Queda para tabla.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-07",
+     "descripcion": "Discusión general . Aprobado en general y particular con modificaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-07",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-07",
+     "descripcion": "La diputada Daniela Serrano formula reserva de constitucionalidad.",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Pasa a Comisión de Educación",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Informe de comisión de Educación. Pasa a Comisión de Hacienda",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Cuenta del Mensaje 254-374 que hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Informe de comisión de Hacienda.",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-18",
+     "descripcion": "Cuenta del Mensaje 270-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta del Mensaje 284-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 309-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Cuenta del Mensaje 334-374 que hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta del Mensaje 400-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Cuenta del Mensaje 432-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Los Honorable Senadores señora Provoste y señor De Urresti hicieron reserva de constitucionalidad",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Discusión única . Rechazadas las modificaciones",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Oficio rechazo modificaciones a Cámara Revisora .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16743-04",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16743-04",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17342&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 15,
+   "cambios_tipo": 1,
+   "urgencias_gobierno": 17,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-11-10",
+    "vence": "2026-11-12",
+    "camara": "Senado",
+    "estado": "vigente",
+    "plazo_dias": 2,
+    "oficio": "452-374",
+    "mixta": true
+   },
+   "dias_tramite": 947
+  },
   {
    "boletin": "14309-04",
    "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
@@ -696,7 +1219,7 @@
     "oficio": "454-374",
     "mixta": true
    },
-   "dias_tramite": 1975
+   "dias_tramite": 1976
   },
   {
    "boletin": "14782-13",
@@ -1409,7 +1932,7 @@
     "oficio": "446-374",
     "mixta": false
    },
-   "dias_tramite": 1772
+   "dias_tramite": 1773
   },
   {
    "boletin": "16300-07",
@@ -1666,512 +2189,7 @@
     "oficio": "453-374",
     "mixta": false
    },
-   "dias_tramite": 1143
-  },
-  {
-   "boletin": "16743-04",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
-   "fecha_ingreso": "2024-04-09",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Discusión inmediata",
-   "etapa": "Tercer trámite constitucional (Senado)",
-   "subetapa": "Discusión única",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2025-12-09",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1347-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-01-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1462-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-01-26",
-     "retiro": "2026-01-27",
-     "camara": "Cámara de Diputados",
-     "oficio": "1582-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-03-17",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "01-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-04-06",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "23-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-04-20",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "48-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-05-04",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "68-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-05-18",
-     "retiro": "2026-05-19",
-     "camara": "Cámara de Diputados",
-     "oficio": "97-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-06-02",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "119-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-06-15",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "145-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-06-24",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "174-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-11",
-     "retiro": "2026-08-18",
-     "camara": "Senado",
-     "oficio": "254-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-18",
-     "retiro": "2026-09-01",
-     "camara": "Senado",
-     "oficio": "270-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-01",
-     "retiro": "2026-09-08",
-     "camara": "Senado",
-     "oficio": "284-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-08",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "309-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-22",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "334-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-06",
-     "retiro": "2026-10-21",
-     "camara": "Senado",
-     "oficio": "376-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-21",
-     "retiro": "2026-10-28",
-     "camara": "Senado",
-     "oficio": "400-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-28",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "432-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-11-10",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "452-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2024-04-09",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-04-16",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Educación",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-04-16",
-     "descripcion": "La Honorable Senadora señora Núñez suscribe esta iniciativa de ley, en calidad de autora.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-03-10",
-     "descripcion": "Primer informe de comisión de Educación.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-03-11",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-06-04",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 26/06/2025 a las 12:00",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-06-26",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-06-26",
-     "descripcion": "Oficio N° I.F. N° 16. Informe financiero",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-07-08",
-     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 14 de julio de 2025, en la Secretaría de la Comisión de Educación.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-07-22",
-     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 1 de agosto de 2025, en la Secretaría de la Comisión de Educación.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-08-01",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-08-13",
-     "descripcion": "Segundo informe de comisión de Educación. Pasa a Comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-02",
-     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:00 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-02",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-03",
-     "descripcion": "Segundo informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-09",
-     "descripcion": "Cuenta de segundo informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2025-12-09",
-     "descripcion": "Cuenta del Mensaje 1347-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-06",
-     "descripcion": "Cuenta del Mensaje 1462-373 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-21",
-     "descripcion": "Discusión particular . Aprobado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-21",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-01-26",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Educación, y a la Comisión de Hacienda en lo que corresponda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-01-26",
-     "descripcion": "Cuenta del Mensaje 1582-373 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-01-28",
-     "descripcion": "Cuenta del Mensaje 1590-373 que retira la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-03-17",
-     "descripcion": "Cuenta del Mensaje 01-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-04-06",
-     "descripcion": "Cuenta del Mensaje 23-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-04-20",
-     "descripcion": "Cuenta del Mensaje 48-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-04",
-     "descripcion": "Cuenta del Mensaje 68-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-11",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (034-374).",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-18",
-     "descripcion": "Cuenta del Mensaje 97-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-19",
-     "descripcion": "Cuenta del Mensaje 101-374 que retira la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-02",
-     "descripcion": "S.E. el Presidente de la República retira y formula indicaciones al proyecto. (057-374). Incluye IFC N° 118/02.06.2026.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-02",
-     "descripcion": "Cuenta del Mensaje 119-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-08",
-     "descripcion": "Primer informe de comisión de Educación. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-08",
-     "descripcion": "Cuenta informe comisión de Educación. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-15",
-     "descripcion": "Cuenta del Mensaje 145-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-22",
-     "descripcion": "Primer informe de comisión de Educación. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-24",
-     "descripcion": "Cuenta del Mensaje 174-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-02",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-06",
-     "descripcion": "Cuenta de primer informe de comisión .  (Hacienda). Queda para tabla.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "Discusión general . Aprobado en general y particular con modificaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "La diputada Daniela Serrano formula reserva de constitucionalidad.",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Pasa a Comisión de Educación",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Informe de comisión de Educación. Pasa a Comisión de Hacienda",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Cuenta del Mensaje 254-374 que hace presente la urgencia Suma",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Informe de comisión de Hacienda.",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12",
-     "descripcion": "Cuenta informe de comisión .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-18",
-     "descripcion": "Cuenta del Mensaje 270-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "Cuenta del Mensaje 284-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 309-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-22",
-     "descripcion": "Cuenta del Mensaje 334-374 que hace presente la urgencia Suma",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Cuenta del Mensaje 400-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Cuenta del Mensaje 432-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-10",
-     "descripcion": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16743-04",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16743-04",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17342&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 15,
-   "cambios_tipo": 1,
-   "urgencias_gobierno": 17,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Discusión inmediata",
-    "desde": "2026-11-10",
-    "vence": "2026-11-16",
-    "camara": "Senado",
-    "estado": "vigente",
-    "plazo_dias": 6,
-    "oficio": "452-374",
-    "mixta": false
-   },
-   "dias_tramite": 946
+   "dias_tramite": 1144
   },
   {
    "boletin": "18211-25",
@@ -2440,7 +2458,7 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 203
+   "dias_tramite": 204
   },
   {
    "boletin": "18239-36",
@@ -2717,7 +2735,7 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 189
+   "dias_tramite": 190
   },
   {
    "boletin": "18314-07",
@@ -2961,7 +2979,7 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 156
+   "dias_tramite": 157
   },
   {
    "boletin": "18643-05",
@@ -3171,173 +3189,7 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 63
-  },
-  {
-   "boletin": "18709-07",
-   "titulo": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
-   "fecha_ingreso": "2026-10-05",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Discusión inmediata",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Discusión general",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-05",
-     "retiro": "2026-10-19",
-     "camara": "Cámara de Diputados",
-     "oficio": "364-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-19",
-     "retiro": "2026-10-27",
-     "camara": "Cámara de Diputados",
-     "oficio": "384-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-27",
-     "retiro": "2026-10-28",
-     "camara": "Senado",
-     "oficio": "411-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-10-28",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "433-374"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "ingreso": "2026-11-10",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "449-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Texto del Mensaje.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Cuenta del Mensaje 364-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta del Mensaje 383-374 que retira la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta del Mensaje 384-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-21",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Cuenta del Mensaje 411-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Cuenta del Mensaje 433-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-10",
-     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-10",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-10",
-     "descripcion": "Cuenta del Mensaje 449-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18709-07",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18709-07",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19390&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 4,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 5,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Discusión inmediata",
-    "desde": "2026-11-10",
-    "vence": "2026-11-16",
-    "camara": "Senado",
-    "estado": "vigente",
-    "plazo_dias": 6,
-    "oficio": "449-374",
-    "mixta": false
-   },
-   "dias_tramite": 37
+   "dias_tramite": 64
   },
   {
    "boletin": "18806-07",
@@ -3416,7 +3268,7 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 15
+   "dias_tramite": 16
   },
   {
    "boletin": "18208-25",
@@ -3749,7 +3601,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 205
+   "dias_tramite": 206
   },
   {
    "boletin": "18286-03",
@@ -3943,7 +3795,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 162
+   "dias_tramite": 163
   },
   {
    "boletin": "18331-17",
@@ -4015,7 +3867,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 159
+   "dias_tramite": 160
   },
   {
    "boletin": "18341-25",
@@ -4281,7 +4133,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 152
+   "dias_tramite": 153
   },
   {
    "boletin": "18434-07",
@@ -4418,7 +4270,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 136
+   "dias_tramite": 137
   },
   {
    "boletin": "18478-13",
@@ -4606,7 +4458,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 113
+   "dias_tramite": 114
   },
   {
    "boletin": "18576-06",
@@ -4691,7 +4543,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 97
+   "dias_tramite": 98
   },
   {
    "boletin": "18623-07",
@@ -4903,7 +4755,7 @@
     "oficio": "459-374",
     "mixta": false
    },
-   "dias_tramite": 71
+   "dias_tramite": 72
   },
   {
    "boletin": "18754-17",
@@ -5001,7 +4853,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 23
+   "dias_tramite": 24
   },
   {
    "boletin": "18881-25",
@@ -5061,7 +4913,7 @@
     "oficio": "460-374",
     "mixta": false
    },
-   "dias_tramite": 1
+   "dias_tramite": 2
   },
   {
    "boletin": "18819-03",
@@ -5140,7 +4992,7 @@
     "oficio": "443-374",
     "mixta": false
    },
-   "dias_tramite": 14
+   "dias_tramite": 15
   },
   {
    "boletin": "18788-07",
@@ -5226,7 +5078,7 @@
     "oficio": "448-374",
     "mixta": false
    },
-   "dias_tramite": 21
+   "dias_tramite": 22
   },
   {
    "boletin": "18803-13",
@@ -5323,7 +5175,7 @@
     "oficio": "447-374",
     "mixta": false
    },
-   "dias_tramite": 15
+   "dias_tramite": 16
   },
   {
    "boletin": "12213-07",
@@ -5799,7 +5651,7 @@
     "oficio": "455-374",
     "mixta": false
    },
-   "dias_tramite": 2946
+   "dias_tramite": 2947
   },
   {
    "boletin": "12712-24",
@@ -6715,7 +6567,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 2704
+   "dias_tramite": 2705
   },
   {
    "boletin": "15047-11",
@@ -6997,7 +6849,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 1646
+   "dias_tramite": 1647
   },
   {
    "boletin": "15261-25",
@@ -7395,7 +7247,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 1559
+   "dias_tramite": 1560
   },
   {
    "boletin": "15767-29",
@@ -7630,7 +7482,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 1330
+   "dias_tramite": 1331
   },
   {
    "boletin": "15850-11",
@@ -8530,7 +8382,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 1303
+   "dias_tramite": 1304
   },
   {
    "boletin": "16143-02",
@@ -9744,7 +9596,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 1197
+   "dias_tramite": 1198
   },
   {
    "boletin": "16725-06",
@@ -10002,7 +9854,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 953
+   "dias_tramite": 954
   },
   {
    "boletin": "17111-07",
@@ -10160,7 +10012,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 799
+   "dias_tramite": 800
   },
   {
    "boletin": "17170-07",
@@ -10468,7 +10320,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 763
+   "dias_tramite": 764
   },
   {
    "boletin": "17628-13",
@@ -10760,7 +10612,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 505
+   "dias_tramite": 506
   },
   {
    "boletin": "17914-13",
@@ -10967,7 +10819,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 397
+   "dias_tramite": 398
   },
   {
    "boletin": "18029-17",
@@ -11173,7 +11025,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 322
+   "dias_tramite": 323
   },
   {
    "boletin": "18255-31",
@@ -11455,7 +11307,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 177
+   "dias_tramite": 178
   },
   {
    "boletin": "18258-07",
@@ -11732,7 +11584,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 177
+   "dias_tramite": 178
   },
   {
    "boletin": "18282-07",
@@ -11956,7 +11808,7 @@
     "oficio": "455-374",
     "mixta": false
    },
-   "dias_tramite": 180
+   "dias_tramite": 181
   },
   {
    "boletin": "18389-04",
@@ -12232,7 +12084,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 141
+   "dias_tramite": 142
   },
   {
    "boletin": "18427-07",
@@ -12344,7 +12196,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 131
+   "dias_tramite": 132
   },
   {
    "boletin": "18436-15",
@@ -12556,7 +12408,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 126
+   "dias_tramite": 127
   },
   {
    "boletin": "18464-14",
@@ -12792,7 +12644,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 119
+   "dias_tramite": 120
   },
   {
    "boletin": "18584-25",
@@ -12991,7 +12843,7 @@
     "oficio": "455-374",
     "mixta": false
    },
-   "dias_tramite": 86
+   "dias_tramite": 87
   },
   {
    "boletin": "18585-25",
@@ -13189,7 +13041,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 86
+   "dias_tramite": 87
   },
   {
    "boletin": "18644-14",
@@ -13360,7 +13212,7 @@
     "oficio": "455-374",
     "mixta": false
    },
-   "dias_tramite": 51
+   "dias_tramite": 52
   },
   {
    "boletin": "17163-03",
@@ -13602,7 +13454,7 @@
     "oficio": "334-374",
     "mixta": false
    },
-   "dias_tramite": 778
+   "dias_tramite": 779
   },
   {
    "boletin": "16248-29",
@@ -13829,7 +13681,7 @@
     "oficio": "376-374",
     "mixta": false
    },
-   "dias_tramite": 1169
+   "dias_tramite": 1170
   },
   {
    "boletin": "17486-07",
@@ -14111,7 +13963,7 @@
     "oficio": "376-374",
     "mixta": false
    },
-   "dias_tramite": 580
+   "dias_tramite": 581
   },
   {
    "boletin": "18779-07",
@@ -14183,7 +14035,7 @@
     "oficio": "417-374",
     "mixta": false
    },
-   "dias_tramite": 19
+   "dias_tramite": 20
   },
   {
    "boletin": "18804-07",
@@ -14255,7 +14107,7 @@
     "oficio": "418-374",
     "mixta": false
    },
-   "dias_tramite": 15
+   "dias_tramite": 16
   },
   {
    "boletin": "17125-25",
@@ -14412,7 +14264,7 @@
     "oficio": "395-374",
     "mixta": false
    },
-   "dias_tramite": 791
+   "dias_tramite": 792
   },
   {
    "boletin": "17567-11",
@@ -14700,7 +14552,186 @@
     "oficio": "395-374",
     "mixta": false
    },
-   "dias_tramite": 527
+   "dias_tramite": 528
+  },
+  {
+   "boletin": "18189-14",
+   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
+   "fecha_ingreso": "2026-04-15",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Discusión general",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-05",
+     "retiro": "2026-08-17",
+     "camara": "Cámara de Diputados",
+     "oficio": "236-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-17",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "263-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-08",
+     "retiro": "2026-09-22",
+     "camara": "Senado",
+     "oficio": "308-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-22",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "334-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-06",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "376-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-27",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "414-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-04-15",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-04-20",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Cuenta del Mensaje 236-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-10",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-17",
+     "descripcion": "Cuenta del Mensaje 263-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "IF 219. Informe financiero",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 308-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18189-14",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18189-14",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18859&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 5,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 6,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-27",
+    "vence": "2026-11-11",
+    "camara": "Senado",
+    "estado": "vencida",
+    "plazo_dias": 15,
+    "oficio": "414-374",
+    "mixta": false
+   },
+   "dias_tramite": 211
   },
   {
    "boletin": "18315-07",
@@ -14912,7 +14943,335 @@
     "oficio": "326-374",
     "mixta": false
    },
-   "dias_tramite": 156
+   "dias_tramite": 157
+  },
+  {
+   "boletin": "16777-07",
+   "titulo": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales",
+   "fecha_ingreso": "2024-04-23",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Suma",
+   "etapa": "Tercer trámite constitucional (Senado)",
+   "subetapa": "Discusión única",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-11-25",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1274-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-01-20",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1552-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-03-24",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "04-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-04-22",
+     "retiro": "2026-05-20",
+     "camara": "Cámara de Diputados",
+     "oficio": "58-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-05-20",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "113-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-06-15",
+     "retiro": "2026-07-13",
+     "camara": "Cámara de Diputados",
+     "oficio": "147-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-07-13",
+     "retiro": "2026-08-10",
+     "camara": "Cámara de Diputados",
+     "oficio": "196-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-10",
+     "retiro": "2026-09-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "245-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-07",
+     "retiro": "2026-10-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "302-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-05",
+     "retiro": "2026-10-19",
+     "camara": "Cámara de Diputados",
+     "oficio": "369-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-19",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "385-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2024-04-23",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-23",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-23",
+     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido, en primer lugar, por la Comisión de Agricultura y, posteriormente, por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-01",
+     "descripcion": "La Sala acuerda que el proyecto de ley sea discutido, en primer lugar, por la Comisión de Seguridad Pública; luego, por la Comisión de Agricultura, y, finalmente, por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-11-03",
+     "descripcion": "Primer informe de comisión de Seguridad Pública. Pasa a Comisión de Agricultura",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-11-25",
+     "descripcion": "Cuenta del Mensaje 1274-373 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-11-26",
+     "descripcion": "La Sala acuerda autorizar a la Comisión de Agricultura para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-03",
+     "descripcion": "Primer informe de comisión de Agricultura. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-16",
+     "descripcion": "La Sala acuerda autorizar a la Comisión de Constitución, Legislación, Justicia y Reglamento para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-20",
+     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-20",
+     "descripcion": "Cuenta del Mensaje 1552-373 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-20",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-03-24",
+     "descripcion": "Cuenta del Mensaje 04-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-03-24",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-03-24",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-03-25",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-04-22",
+     "descripcion": "Cuenta del Mensaje 58-374 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-05-20",
+     "descripcion": "Cuenta del Mensaje 113-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-15",
+     "descripcion": "Cuenta del Mensaje 147-374 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (091-374). Incluye informe financiero complementario N° 148/06.07.2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-13",
+     "descripcion": "Cuenta del Mensaje 196-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-14",
+     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-15",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-10",
+     "descripcion": "Cuenta del Mensaje 245-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-12",
+     "descripcion": "Discusión general . Aprobado en general .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-12",
+     "descripcion": "Oficio N°21.496. Remite las indicaciones presentadas durante la discusión general en Sala.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "Cuenta del Mensaje 302-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 369-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (185-374). Incluye informe financiero complementario N° 241/06.10.2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 385-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "La diputada Emilia Nuyado Ancapichún formula reserva de constitucionalidad.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Discusión particular . Aprobado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Discusión particular . Aprobado con modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16777-07",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16777-07",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17381&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 7,
+   "cambios_tipo": 1,
+   "urgencias_gobierno": 9,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-10-19",
+    "vence": "2026-11-03",
+    "camara": "Cámara de Diputados",
+    "estado": "en_espera",
+    "plazo_dias": 15,
+    "oficio": "385-374",
+    "mixta": false
+   },
+   "dias_tramite": 933
   },
   {
    "boletin": "18236-18",
@@ -15115,7 +15474,7 @@
     "oficio": "385-374",
     "mixta": false
    },
-   "dias_tramite": 191
+   "dias_tramite": 192
   },
   {
    "boletin": "18414-18",
@@ -15318,7 +15677,7 @@
     "oficio": "385-374",
     "mixta": false
    },
-   "dias_tramite": 142
+   "dias_tramite": 143
   },
   {
    "boletin": "18590-07",
@@ -15477,7 +15836,7 @@
     "oficio": "437-374",
     "mixta": false
    },
-   "dias_tramite": 93
+   "dias_tramite": 94
   },
   {
    "boletin": "16335-14",
@@ -16808,9 +17167,187 @@
     "oficio": "452-374",
     "mixta": true
    },
-   "dias_tramite": 1135
+   "dias_tramite": 1136
+  },
+  {
+   "boletin": "18709-07",
+   "titulo": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
+   "fecha_ingreso": "2026-10-05",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
+   "subetapa": "Cuenta oficio aprobación sin modificaciones de C. Revisora",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-05",
+     "retiro": "2026-10-19",
+     "camara": "Cámara de Diputados",
+     "oficio": "364-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-19",
+     "retiro": "2026-10-27",
+     "camara": "Cámara de Diputados",
+     "oficio": "384-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-27",
+     "retiro": "2026-10-28",
+     "camara": "Senado",
+     "oficio": "411-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-28",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "433-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-11-10",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "449-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Texto del Mensaje.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 364-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 383-374 que retira la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 384-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Cuenta del Mensaje 411-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Cuenta del Mensaje 433-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta del Mensaje 449-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Discusión general . Aprobado en general y particular sin modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-11",
+     "descripcion": "Oficio aprobación sin modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18709-07",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18709-07",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19390&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 4,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 5,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-11-10",
+    "vence": "2026-11-16",
+    "camara": "Senado",
+    "estado": "finalizado",
+    "plazo_dias": 6,
+    "oficio": "449-374",
+    "mixta": false
+   },
+   "dias_tramite": 38
   }
  ],
- "errores_de_consulta": 6,
+ "errores_de_consulta": 4,
  "conservados_sin_respuesta": 0
 }
