@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "boletin": "18427-07",
+  "nivel": "basica",
+  "sintesis": "Reforma la Constitución para endurecer los requisitos de las acusaciones constitucionales: más diputados patrocinantes, citación previa a los ministros y mayoría de los diputados en ejercicio. Está en primer trámite en el Senado.",
+  "materia": "Requisitos de las acusaciones constitucionales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las acusaciones constitucionales se han hecho más frecuentes desde 2018.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que se han usado como herramienta de disputa política y que deben ser excepcionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone exigir que firmen la acusación al menos 20 diputados, sin tope máximo. Hoy se exigen entre 10 y 20.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Para acusar a un ministro, exige haberlo citado antes a la Cámara para fiscalizarlo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Exige el voto de la mayoría de los diputados en ejercicio para aprobar toda acusación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Reemplaza el número 2 del artículo 52 de la Constitución.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que la suspensión del acusado no se aplicaría al Presidente de la República.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Reconoce el derecho del acusado a designar abogado en todas las etapas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los diputados que presentan acusaciones y a las autoridades que pueden ser acusadas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Entre ellas están el Presidente, los ministros, los jueces superiores y los gobernadores regionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La moción ingresó al Senado el 3 de julio de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 7 de julio pasó a la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre se dio cuenta de una urgencia Suma.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el artículo 52 de la Carta Fundamental, en materia de procedencia y admisibilidad de las acusaciones constitucionales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19096&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-03",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18427-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18427",
+      "fecha": "2026-11-11",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
