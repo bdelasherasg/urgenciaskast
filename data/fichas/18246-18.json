@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "boletin": "18246-18",
+  "nivel": "basica",
+  "sintesis": "Prohíbe a menores de 16 años usar redes sociales y a menores de 18 las apuestas y la pornografía en línea. Está en votación en particular en una comisión de la Cámara.",
+  "materia": "el acceso de menores de edad a redes sociales y otras plataformas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción cita la Encuesta Longitudinal de Primera Infancia 2024: el 54% de los adolescentes usa redes sociales más de tres horas, de lunes a viernes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita también que el 15,1% sufrió ciberacoso en los últimos 12 meses.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Regula el acceso de menores de edad a redes sociales, apuestas en línea, transmisión en vivo, pornografía y videojuegos en línea.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Prohíbe el registro y uso de plataformas como las redes sociales a menores de 16 años, incluso con permiso de sus padres.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Prohíbe las apuestas en línea y la pornografía a menores de 18 años.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las empresas deberían verificar la edad de sus usuarios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los chatbots, programas de inteligencia artificial que conversan, no podrían simular una amistad o un vínculo romántico con menores de 18 años.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los menores de edad y a las empresas que ofrecen estas plataformas, aunque no estén domiciliadas en Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Los informes financieros complementarios de septiembre y octubre de 2026 dicen que las indicaciones del Presidente no significan mayor gasto fiscal.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Este proyecto es la moción matriz, es decir la base, a la que se unieron los boletines 18224-18, 18318-19 y 18415-18.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite en la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara, que continuó la votación en particular el 19 de octubre de 2026.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La comisión está citada el 16 y el 17 de noviembre de 2026 para seguir con esa votación.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, protección de menores frente a la adicción a las nuevas tecnologías (6 de mayo de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18908&tipodoc=mensaje_mocion",
+      "fecha": "6 de mayo de 2026",
+      "nota": "Fundamentos y texto original. El texto está cortado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio 216-374 con informe financiero complementario N° 260 (26 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37347&tipodoc=ofic",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Indicaciones del Presidente."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 167-374 con informe financiero complementario N° 232 (29 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37256&tipodoc=ofic",
+      "fecha": "29 de septiembre de 2026",
+      "nota": "Indicaciones del Presidente."
+    },
+    {
+      "id": "f7",
+      "titulo": "Resultados de sesiones de comisiones de la Cámara (19 de octubre de 2026)",
+      "url": "https://www.camara.cl/",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Sesión de la Comisión de Futuro."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, tramitación del boletín 18.246-18",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18246",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Trámites, urgencias y refundición."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputadas y Diputados, citaciones de comisiones",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Sesiones citadas para el 16 y el 17 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
