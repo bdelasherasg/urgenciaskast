@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "boletin": "14773-02",
+  "nivel": "basica",
+  "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
+  "materia": "el control de la exportación de materiales de uso dual y de defensa",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que Chile debe tener controles a la exportación de materiales que podrían servir para fabricar armas nucleares, químicas o biológicas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que la ley actual debe reforzarse para cumplir esos compromisos internacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Exige una licencia para exportar o sacar temporalmente los materiales incluidos en una Lista de Control.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea la Comisión de Comercio Estratégico, formada por varios ministerios, que entrega esas licencias.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea delitos, como exportar sin licencia o presentar antecedentes falsos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Da al Ministerio de Defensa Nacional la facultad de autorizar la exportación de equipamiento militar que hoy no está controlado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Una indicación del Presidente cambia, en la comisión, el Ministerio del Interior y Seguridad Pública por el de Seguridad Pública.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a toda persona o empresa que exporte estos materiales, los saque del país por un tiempo o haga corretaje con ellos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero sustitutivo de agosto de 2026 dice que el proyecto no irrogará mayor gasto fiscal.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto está en segundo trámite en la Cámara de Diputados, con urgencia simple desde el 26 de octubre de 2026.",
+        "fuentes": [
+          "f16"
+        ]
+      },
+      {
+        "texto": "El 21 de septiembre de 2026 la Cámara lo aprobó en general.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Falta el segundo informe de la Comisión de Defensa Nacional, que lo tiene citado el 17 de noviembre de 2026.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 14.773-02 (enero de 2022)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15272&tipodoc=mensaje_mocion",
+      "fecha": "2022-01-04",
+      "nota": "Fundamentos, contenido y articulado original."
+    },
+    {
+      "id": "f6",
+      "titulo": "Informe financiero sustitutivo N° 197 (12 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37014&tipodoc=ofic",
+      "fecha": "2026-08-12",
+      "nota": "Efecto fiscal."
+    },
+    {
+      "id": "f7",
+      "titulo": "Oficio 21.584 de la Cámara (21 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37218&tipodoc=ofic",
+      "fecha": "2026-09-21",
+      "nota": "Aprobación en general."
+    },
+    {
+      "id": "f8",
+      "titulo": "Oficio 145-374: indicaciones del Presidente (septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37202&tipodoc=ofic",
+      "fecha": "2026-09-07",
+      "nota": "Cambios propuestos."
+    },
+    {
+      "id": "f16",
+      "titulo": "Senado, tramitación del boletín 14.773-02",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, urgencia y trámites."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputados, citaciones de comisiones (copiadas por el equipo)",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "2026-11-11",
+      "nota": "Citación del 17 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
