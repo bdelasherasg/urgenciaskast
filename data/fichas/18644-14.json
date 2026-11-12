@@ -1,0 +1,174 @@
+{
+  "version": 2,
+  "boletin": "18644-14",
+  "nivel": "basica",
+  "sintesis": "Incluye las obras de Bomberos en la excepción de permisos municipales para facilitar la construcción de cuarteles y abre un plazo hasta 2029 para regularizar los existentes. Está en segundo trámite, en el Senado.",
+  "materia": "la construcción y regularización de cuarteles de Bomberos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El informe de la comisión dice que Bomberos no está en la excepción de permisos municipales que tienen algunas obras militares, policiales y penitenciarias.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Dice que el uso de suelo de un terreno puede impedir construir un cuartel.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Añade que el plazo para regularizar edificaciones de Bomberos venció el 31 de diciembre de 2025.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara incluye las obras de Bomberos en esa excepción.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Esto cubre cuarteles, campos de entrenamiento y casas de cuarteleros.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Permite regularizar edificaciones de Bomberos hasta el 31 de diciembre de 2029.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 116 de la Ley General de Urbanismo y Construcciones.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La excepción cubre permisos, inspecciones y recepciones municipales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien reciba un rechazo tiene treinta días desde la notificación para corregir las observaciones.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los Cuerpos de Bomberos y a la Junta Nacional de Cuerpos de Bomberos de Chile.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Las Direcciones de Obras Municipales reciben las solicitudes de regularización.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero de la Dirección de Presupuestos, del 7 de septiembre de 2026, dice que el proyecto no significará mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que los municipios pagarán las regularizaciones con sus propios recursos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El informe complementario del 20 de octubre dice que las indicaciones no afectan el presupuesto fiscal.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de Emergencia, Desastres y Bomberos de la Cámara despachó el proyecto el 20 de octubre de 2026.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "La Cámara lo aprobó en general y en particular a la vez el 4 de noviembre.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre pasó a la Comisión de Vivienda y Urbanismo del Senado.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 18.644-14 con informe financiero de la Dipres",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19337&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-21",
+      "nota": "Contenido del proyecto e informe financiero."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, primer informe de la Comisión de Emergencia, Desastres y Bomberos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28318&tipodoc=info",
+      "fecha": "2026-10-23",
+      "nota": "Antecedentes y fundamentos."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 21.725 de la Cámara al Senado con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37400&tipodoc=ofic",
+      "fecha": "2026-11-04",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 198-374: indicaciones del Ejecutivo e informe financiero complementario",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37332&tipodoc=ofic",
+      "fecha": "2026-10-20",
+      "nota": "Efecto de las indicaciones sobre el presupuesto fiscal."
+    },
+    {
+      "id": "f9",
+      "titulo": "Cámara, resultados de la sesión de la Comisión de Emergencia, Desastres y Bomberos",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Despacho del proyecto."
+    },
+    {
+      "id": "f10",
+      "titulo": "Senado, tramitación del boletín 18.644-14",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18644",
+      "fecha": "2026-11-12",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
