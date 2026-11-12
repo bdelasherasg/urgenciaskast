@@ -10,54 +10,62 @@
         "texto": "Los autores señalan que las bandas criminales usan a niños, niñas y adolescentes.",
         "fuentes": [
           "f1",
-          "f2"
+          "f2",
+          "f5"
         ]
       },
       {
         "texto": "Según ellos, esto daña los derechos de la infancia y aumenta la inseguridad.",
         "fuentes": [
-          "f1"
+          "f1",
+          "f5"
         ]
       }
     ],
     "propone": [
       {
-        "texto": "Castiga al adulto que recluta a un menor para una banda criminal.",
+        "texto": "Castiga a quien reclute a un niño, niña o adolescente para una asociación delictiva o criminal.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "Reclutar es inducir, promover, facilitar o captar a un menor para ese fin.",
+        "texto": "Reclutar es inducir, promover, facilitar o captar a un menor para que participe en la asociación.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "La pena es de 61 días a tres años y un día de cárcel.",
+        "texto": "La pena es más alta si la asociación es criminal, y llega hasta cinco años de cárcel.",
         "fuentes": [
-          "f1"
+          "f6",
+          "f2"
         ]
       },
       {
-        "texto": "Sube hasta cinco años si hay violencia, amenazas o abuso de la debilidad del menor.",
+        "texto": "El consentimiento del menor no libera al reclutador.",
         "fuentes": [
-          "f1"
+          "f6"
+        ]
+      },
+      {
+        "texto": "Si el reclutador integra la organización, se suman las penas por pertenecer a ella.",
+        "fuentes": [
+          "f6"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Agrega este delito al Código Penal.",
+        "texto": "Agrega el artículo 295 bis al Código Penal.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "El sí del menor no libra de culpa al adulto.",
+        "texto": "La moción original proponía dos artículos nuevos, el 295 bis y el 295 ter.",
         "fuentes": [
-          "f1",
-          "f2"
+          "f5"
         ]
       }
     ],
@@ -65,53 +73,56 @@
       {
         "texto": "Afecta a los adultos que reclutan menores para bandas.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
         "texto": "Se refiere a los menores de edad captados por esas bandas.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "El gobierno envió un informe financiero junto con su propuesta de cambios, en octubre de 2025.",
+        "texto": "Es una moción. El gobierno envió el informe financiero N° 301 en octubre de 2025, pero el texto disponible no muestra sus cifras.",
         "fuentes": [
-          "f4"
-        ]
+          "f8",
+          "f9"
+        ],
+        "pendiente": true
       },
       {
-        "texto": "No pudimos revisar ese informe de la Dirección de Presupuestos.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "La comisión de la Cámara dejó constancia de que el proyecto no requería pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f7"
+        ]
       }
     ],
     "estado": [
       {
         "texto": "Es una moción, es decir, la presentaron diputados, en junio de 2025.",
         "fuentes": [
-          "f4",
-          "f1"
+          "f8",
+          "f5"
         ]
       },
       {
         "texto": "La Cámara lo aprobó el 25 de noviembre de 2025.",
         "fuentes": [
-          "f4"
+          "f8"
         ]
       },
       {
-        "texto": "Desde ese día está en la comisión de Constitución del Senado.",
+        "texto": "Desde ese día está en la Comisión de Constitución del Senado, que aún no emite su primer informe.",
         "fuentes": [
-          "f3"
+          "f8"
         ]
       },
       {
-        "texto": "Tiene suma urgencia, que da 15 días para votarlo, hasta el 4 de noviembre de 2026.",
+        "texto": "Tiene urgencia simple desde el 10 de noviembre de 2026.",
         "fuentes": [
-          "f3"
+          "f8"
         ]
       }
     ]
@@ -174,10 +185,45 @@
       "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17637-07",
       "fecha": "Consulta automática",
       "nota": "Trámites del primer trámite, según urgencias.json."
+    },
+    {
+      "id": "f5",
+      "titulo": "Moción de diputados, boletín 17637-07",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18281&tipodoc=mensaje_mocion",
+      "fecha": "17 de junio de 2025",
+      "nota": "Fundamentos y texto original."
+    },
+    {
+      "id": "f6",
+      "titulo": "Cámara de Diputados, oficio N° 20.903 con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35508&tipodoc=ofic",
+      "fecha": "25 de noviembre de 2025",
+      "nota": "Texto que la Cámara envió al Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Cámara de Diputados, informe de la Comisión de Constitución, primer trámite",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27658&tipodoc=info",
+      "fecha": "17 de noviembre de 2025",
+      "nota": "Votación en comisión y constancias."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, tramitación oficial del boletín 17637-07",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17637",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapas y urgencias."
+    },
+    {
+      "id": "f9",
+      "titulo": "Oficio del Presidente de la República N° 222-373, con el informe financiero N° 301",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35350&tipodoc=ofic",
+      "fecha": "14 de octubre de 2025",
+      "nota": "Indicación sustitutiva; el texto disponible no muestra las cifras."
     }
   ],
-  "consultado": "2026-10-30",
-  "publicado": "2026-10-30",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
