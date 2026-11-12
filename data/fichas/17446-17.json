@@ -1,0 +1,110 @@
+{
+  "version": 2,
+  "boletin": "17446-17",
+  "nivel": "basica",
+  "sintesis": "Obliga a las grandes empresas a cuidar los derechos humanos, el medio ambiente y el clima, y a publicar cada año un reporte. Es una moción en primer trámite en el Senado.",
+  "materia": "la debida diligencia de las empresas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La senadora Allende, autora de la moción, dice que las empresas tienen efectos positivos, pero a veces también efectos negativos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Busca fortalecer su rol en el respeto de los derechos humanos y del medio ambiente, como piden los Principios Rectores de la ONU de 2011.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Establece un artículo único que obliga a las empresas a ejercer una debida diligencia, es decir, a identificar y prevenir los daños que pueden causar.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se aplica a empresas con 200 o más trabajadores, o con ingresos o compras desde 60.000 UTM, o con capital propio desde 300.000 UTM.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cada empresa debe elaborar un reporte anual con los daños causados y posibles, protocolos de prevención, un plan de transición ante el cambio climático y mecanismos de denuncia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En diciembre de cada año debe enviarlo a varios organismos públicos y publicarlo en su sitio web.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las grandes empresas, a sus filiales y a sus socios comerciales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También involucra a trabajadores, usuarios y localidades donde operan, y a organismos como el Ministerio de Justicia y el Instituto de Derechos Humanos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó al Senado el 3 de abril de 2025 y el 8 de abril pasó a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite, a la espera del primer informe de comisión, y no tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece y regula la debida diligencia de las empresas en el respeto a los derechos humanos, el medio ambiente y el cambio climático",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18078&tipodoc=mensaje_mocion",
+      "fecha": "2025-04-03",
+      "nota": "Antecedentes y articulado de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17446-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17446",
+      "fecha": "2026-11-11",
+      "nota": "Etapa, trámites y urgencia."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
