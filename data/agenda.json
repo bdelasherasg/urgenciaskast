@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-12T14:29-03:00",
+ "actualizado": "2026-11-12T14:48-03:00",
  "desde": "2026-11-12",
  "hasta": "2026-11-25",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-12T17:29",
+   "consultado": "2026-11-12T17:47",
    "citaciones": 11,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -63,9 +63,7 @@
    "materias": [
     "1.- ( Bol.N° S 2771-05 ) Tomar conocimiento del oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar como Consejero del Consejo Nacional de Educación, al señor Matías Lira Avilés, hasta el 10 de abril de 2030 (Boletín N° S 2.771-05)."
    ],
-   "boletines": [
-    "2771-05"
-   ],
+   "boletines": [],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha"
   },
@@ -4665,74 +4663,6 @@
     "plazo_dias": null
    },
    "dias_tramite": 22
-  },
-  "2771-05": {
-   "boletin": "2771-05",
-   "titulo": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de reforzar los derechos de los ciudadanos y hacer mas equitativos los sistemas de información de antecedentes comerciales.",
-   "fecha_ingreso": "2001-08-21",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "",
-   "etapa": "Tramitación terminada",
-   "subetapa": "/",
-   "estado": "Rechazado",
-   "urgencias": [],
-   "tramites": [
-    {
-     "fecha": "2001-08-21",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2001-08-21",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2002-06-13",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2002-06-18",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2002-07-03",
-     "descripcion": "Discusión general . Rechazado (Queda pendiente)",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2002-07-04",
-     "descripcion": "Discusión general . Rechazado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=2771-05",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=2771-05",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=3052&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
-   "camara_actual": "Cámara de Diputados",
-   "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
-   },
-   "dias_tramite": 9214
   }
  }
 }
