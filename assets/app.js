@@ -466,6 +466,17 @@
     function masCta(texto) {
       return '<div class="mas-cta"><p>' + texto + '</p><a href="' + urlAsesoria('solicitar') + '">Solicitar asesoría</a></div>';
     }
+    // Oferta del análisis ampliado gratuito: se intercala con los avisos de asesoría en las fichas básicas.
+    var ofrecerAmpliado = !!(F && F.resumen && !completa && CFG.pedidosUrl);
+    function ofertaAmpliado(grande) {
+      if (!ofrecerAmpliado) return '';
+      var boton = '<button type="button" class="' + (grande ? 'boton' : 'enlace-ampliado') + '" data-ampliado>Solicitar análisis ampliado gratuito</button>';
+      if (!grande) return '<div class="mas-cta cta-ampliado"><p>¿Este proyecto trata un tema contingente? Pida gratis el análisis ampliado: qué dicen las organizaciones y cómo se habla del proyecto en la prensa.</p>' + boton + '</div>';
+      return '<aside class="tarjeta oferta-ampliado" aria-labelledby="h-oferta"><div class="tarjeta-cuerpo">' +
+        '<p class="eyebrow">Gratuito</p><h2 id="h-oferta">Si considera que este proyecto trata un tema contingente, solicite un análisis ampliado gratuito</h2>' +
+        '<p>Esta ficha es básica: explica qué dice el proyecto. El análisis ampliado agrega <b>qué han dicho las organizaciones</b> sobre él y <b>cómo se habla del proyecto</b> en la prensa. Se publica en esta misma ficha.</p>' +
+        '<div class="acciones">' + boton + '</div></div></aside>';
+    }
 
     var mocion = p && (p.iniciativa || '').toLowerCase().indexOf('moci') === 0;
     var e = p ? estadoUrg(p) : null;
@@ -504,6 +515,8 @@
         '<p class="aviso">¿Necesita este análisis antes? <a href="' + urlAsesoria('solicitar') + '">Lo Común puede prepararlo para su equipo</a>.</p>' +
         '</div></article>');
     }
+
+    bloques.push(ofertaAmpliado(true));
 
     // 2. Posiciones
     if (completa && F.posiciones) {
@@ -653,10 +666,67 @@
       '<div class="envoltura ficha-cuerpo con-flotante">' +
       '<aside class="ficha-lateral" aria-label="Resumen de la ficha"><section class="vidrio"><h2>En esta ficha</h2><ol class="indice">' + indice.join('') + '</ol></section>' +
       '<section class="vidrio"><h2>Datos clave</h2>' + datos + '</section></aside>' +
-      bloques.join('') + invitacion + fuentesHTML + '</div>' +
+      bloques.join('') + ofertaAmpliado(false) + invitacion + fuentesHTML + '</div>' +
       '<a class="boton flotante oculto" href="' + urlAsesoria('solicitar') + '">Solicitar asesoría</a>';
     botonFlotante();
+    if (ofrecerAmpliado) main.querySelectorAll('[data-ampliado]').forEach(function (x) { x.addEventListener('click', function () { abrirAmpliado(b, titulo); }); });
     if (location.hash) { var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }
+  }
+
+  /* ---------- pedido de análisis ampliado ----------
+     Formulario en un cuadro de diálogo. Envía nombre, correo y autorizaciones al panel de Lo Común
+     (CFG.pedidosUrl), que guarda el pedido para que el equipo lo acepte. Nada se guarda en el navegador. */
+  function abrirAmpliado(b, titulo) {
+    var dlg = $('#dlg-ampliado');
+    if (dlg) dlg.remove();
+    document.body.insertAdjacentHTML('beforeend',
+      '<dialog id="dlg-ampliado" class="dlg-ampliado" aria-labelledby="dlg-amp-t"><form method="dialog" class="dlg-cuerpo" novalidate>' +
+      '<button type="submit" class="dlg-cerrar" value="cerrar" aria-label="Cerrar">×</button>' +
+      '<p class="eyebrow">Análisis ampliado gratuito</p>' +
+      '<h2 id="dlg-amp-t">' + esc(titulo) + '</h2>' +
+      '<p class="dlg-bol">Boletín ' + esc(b) + '</p>' +
+      '<div class="dlg-info"><b>Qué contiene</b><ul>' +
+      '<li><b>Qué han dicho las organizaciones:</b> las posiciones públicas de gremios, empresas, sindicatos, organizaciones sociales y municipios, con su fecha y su fuente.</li>' +
+      '<li><b>Cómo se habla del proyecto:</b> qué problema, qué causa y qué solución destaca cada lado del debate, y qué palabras usa (análisis de encuadre).</li>' +
+      '<li>Se elabora con las notas de prensa de una lista fija de medios, y cada afirmación enlaza a su fuente.</li></ul>' +
+      '<b>Cuándo</b><p>Se publicará en esta misma ficha dentro de las próximas horas. Le avisaremos por correo cuando esté lista.</p></div>' +
+      '<div class="dlg-campos"><label>Nombre<input type="text" name="nombre" autocomplete="name" maxlength="120" required></label>' +
+      '<label>Correo electrónico<input type="email" name="correo" autocomplete="email" maxlength="200" required></label></div>' +
+      '<label class="dlg-trampa" aria-hidden="true">No llenar<input type="text" name="sitio_web" tabindex="-1" autocomplete="off"></label>' +
+      '<label class="dlg-check"><input type="checkbox" name="autoriza_contacto" required><span>Autorizo a Lo Común a usar este correo para avisarme cuando esta ficha sea actualizada. <i>(obligatorio)</i></span></label>' +
+      '<label class="dlg-check"><input type="checkbox" name="newsletter"><span>Quiero sumarme al boletín de novedades para enterarme de primera fuente de Urgencias Kast y de otros productos de Lo Común.</span></label>' +
+      '<p class="dlg-msg" role="alert" hidden></p>' +
+      '<div class="acciones"><button type="button" class="boton" data-enviar>Enviar solicitud</button><button type="submit" class="boton boton-vidrio-claro" value="cerrar">Cancelar</button></div>' +
+      '<p class="letra-chica">No publicamos ni compartimos su correo. Para borrarlo de nuestros registros, escriba a ' + esc(CFG.correo || '') + '.</p>' +
+      '</form></dialog>');
+    dlg = $('#dlg-ampliado');
+    var form = $('form', dlg), msg = $('.dlg-msg', dlg), enviar = $('[data-enviar]', dlg), abierto = Date.now();
+    function error(t) { msg.textContent = t; msg.hidden = false; }
+    enviar.addEventListener('click', function () {
+      var nombre = form.nombre.value.trim(), correo = form.correo.value.trim();
+      msg.hidden = true;
+      if (nombre.length < 2) { error('Escriba su nombre.'); form.nombre.focus(); return; }
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(correo)) { error('Revise su correo electrónico.'); form.correo.focus(); return; }
+      if (!form.autoriza_contacto.checked) { error('Para enviar la solicitud, marque la autorización para avisarle por correo.'); form.autoriza_contacto.focus(); return; }
+      enviar.disabled = true; enviar.textContent = 'Enviando…';
+      fetch(CFG.pedidosUrl, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' }, credentials: 'omit',
+        body: JSON.stringify({ boletin: b, nombre: nombre, correo: correo, autoriza_contacto: true, newsletter: form.newsletter.checked, sitio_web: form.sitio_web.value, ms: Date.now() - abierto })
+      }).then(function (r) {
+        return r.json().catch(function () { return {}; }).then(function (d) { if (!r.ok) throw new Error(d.error || 'No pudimos registrar la solicitud.'); return d; });
+      }).then(function (d) {
+        form.innerHTML = '<button type="submit" class="dlg-cerrar" value="cerrar" aria-label="Cerrar">×</button>' +
+          '<p class="eyebrow">Solicitud recibida</p><h2>Gracias, ' + esc(nombre.split(' ')[0]) + '</h2>' +
+          '<p>' + (d.repetido ? 'Ya teníamos su solicitud para este proyecto.' : 'Recibimos su solicitud del análisis ampliado.') + ' Se publicará en esta misma ficha dentro de las próximas horas y le avisaremos a <b>' + esc(correo) + '</b>.</p>' +
+          '<div class="acciones"><button type="submit" class="boton" value="cerrar">Volver a la ficha</button></div>';
+      }).catch(function (e) {
+        enviar.disabled = false; enviar.textContent = 'Enviar solicitud';
+        error((e && e.message && !/Failed to fetch|NetworkError|Load failed/i.test(e.message) ? e.message : 'No pudimos enviar la solicitud.') + ' Si el problema sigue, escríbanos a ' + (CFG.correo || '') + '.');
+      });
+    });
+    dlg.addEventListener('close', function () { dlg.remove(); });
+    if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', '');
+    form.nombre.focus();
   }
 
   /* El botón flotante aparece después del primer bloque y se oculta cuando la invitación

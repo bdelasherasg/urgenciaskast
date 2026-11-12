@@ -33,10 +33,19 @@ Si una fuente falla, se conservan los datos anteriores y el sitio sigue funciona
 | Serie Prueba pública | `data/analisis.json` y `fuente/analisis/` |
 | Glosario | `data/glosario.json` |
 | Correo y enlace de aportes | `assets/config.js` |
+| Dirección que recibe los pedidos de análisis ampliado | `assets/config.js` (`pedidosUrl`) |
 | Boletines que se quieran seguir siempre | `data/boletines_extra.txt` |
 
 Ninguna ficha se publica sin revisión humana: los borradores se redactan y se aprueban en el repositorio privado
 `urgenciaskast-revision`, cuyo panel escribe aquí solo después de completar la lista de verificación.
+
+## Pedido de análisis ampliado gratuito
+
+Las fichas básicas ofrecen el análisis ampliado (posiciones de organizaciones y encuadre de prensa) intercalado con los
+avisos de asesoría: una tarjeta después del resumen y un aviso antes de la invitación. El formulario pide nombre,
+correo, la autorización para avisar cuando la ficha se actualice (obligatoria) y, opcionalmente, la suscripción al
+boletín de novedades. Lo envía al panel de Lo Común (`pedidosUrl` en `assets/config.js`), que lo guarda en el
+repositorio privado; el sitio no guarda datos personales. Si `pedidosUrl` queda vacío, la oferta no se muestra.
 
 ## Licencia
 

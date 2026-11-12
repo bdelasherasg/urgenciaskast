@@ -10,6 +10,10 @@ window.UK_CONFIG = {
   // la página Aportar indica escribir al correo.
   donacionUrl: '',
 
+  // Dirección que recibe los pedidos de análisis ampliado hechos desde las fichas (panel de Lo Común).
+  // Si queda vacía, las fichas no muestran la oferta del análisis ampliado.
+  pedidosUrl: 'https://urgenciaskast-revision.pages.dev/publico/ampliado',
+
   // Sitio de Lo Común.
   locomunUrl: 'https://locomun.cl',
 
