@@ -1,0 +1,148 @@
+{
+  "version": 2,
+  "boletin": "18754-17",
+  "nivel": "basica",
+  "sintesis": "Reforma el Instituto Nacional de Derechos Humanos: reduce su Consejo de 11 a 5 miembros, crea una Dirección Ejecutiva y elimina su facultad de presentar querellas. Está en primer trámite en la Cámara, con urgencia suma.",
+  "materia": "la reforma del Instituto Nacional de Derechos Humanos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que existe consenso en que el Instituto necesita una reforma profunda.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que el Consejo tiene muchos integrantes, lo que dificulta decidir con rapidez.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el Director concentra la dirección, la representación legal y la gestión administrativa.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Reduce el Consejo de 11 a 5 miembros.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Sube el máximo de sesiones del Consejo de 5 a 10 al mes, con una dieta tope de 4 unidades tributarias mensuales por sesión.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Crea una Dirección Ejecutiva y elimina la facultad del Instituto de presentar querellas criminales.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Mantiene el domicilio en Santiago y deja al Instituto organizar su estructura territorial.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 20.405, que regula el Instituto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone límites más acotados para la duración del mandato de los consejeros.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta al Consejo y al personal del Instituto.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 231, del 19 de octubre de 2026, calcula un menor gasto fiscal.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Sería de $1.210.426 miles el primer año, $3.113.142 miles el segundo y $3.720.995 miles en régimen, es decir, con la reforma ya aplicada.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara el 19 de octubre de 2026 y pasó a la Comisión de Derechos Humanos y Pueblos Originarios, y a la de Hacienda en lo que corresponda.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 28 de octubre de 2026 el Ejecutivo aceptó refundirlo con el boletín 18331-17.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente el 2 de noviembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Reforma el Instituto Nacional de Derechos Humanos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19425&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-19",
+      "nota": "Antecedentes y fundamentos del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° : Texto del Mensaje.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37321&tipodoc=ofic",
+      "fecha": "2026-10-19",
+      "nota": "Texto del mensaje, fundamentos sobre la dirección del Instituto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pasajes sobre costo fiscal en: Mensaje: Reforma el Instituto Nacional de Derechos Humanos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19425&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-19",
+      "nota": "Pasajes del informe financiero N° 231 con el contenido y el costo."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18754-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18754",
+      "fecha": "2026-11-11",
+      "nota": "Etapas, refundición y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
