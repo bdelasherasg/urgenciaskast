@@ -323,6 +323,34 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .mas-cta p { margin: 0 !important; font-size: 15px; color: var(--tinta-suave); max-width: 60ch; }
 .mas-cta a { font-family: var(--f-etiqueta); font-weight: 700; font-size: 13px; color: var(--indigo); white-space: nowrap; }
 .preparacion { display: grid; gap: 10px; }
+/* Análisis ampliado gratuito: oferta en la ficha y formulario */
+.oferta-ampliado { background: var(--pastel-tarjeta); border: 1px solid rgba(125,87,0,.22); }
+.oferta-ampliado h2 { font-family: var(--f-display); font-weight: 400; font-size: clamp(24px, 3.4vw, 32px); line-height: 1.15; margin: 0 0 10px; color: var(--tinta); max-width: 30ch; }
+.oferta-ampliado p { margin: 0 0 16px; max-width: 64ch; }
+.cta-ampliado { background: rgba(242,180,42,.14); border-color: rgba(125,87,0,.22); }
+.enlace-ampliado { font-family: var(--f-etiqueta); font-weight: 700; font-size: 13px; color: var(--indigo); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+.dlg-ampliado { width: min(620px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 0; border: 0; border-radius: var(--r-grande); background: var(--crema); color: var(--tinta); box-shadow: var(--sombra); }
+.dlg-ampliado::backdrop { background: rgba(29,22,64,.55); }
+.dlg-cuerpo { position: relative; padding: clamp(22px, 4vw, 34px); display: grid; gap: 14px; }
+.dlg-cuerpo h2 { font-family: var(--f-display); font-weight: 400; font-size: clamp(22px, 3vw, 28px); line-height: 1.15; margin: 0; padding-right: 36px; }
+.dlg-cuerpo .eyebrow { margin: 0; }
+.dlg-cuerpo p { margin: 0; }
+.dlg-bol { font-size: 14px; color: var(--tinta-suave); margin-top: -8px !important; }
+.dlg-cerrar { position: absolute; top: 14px; right: 14px; width: 40px; height: 40px; border-radius: 50%; border: 0; background: rgba(46,34,98,.08); color: var(--tinta); font-size: 24px; line-height: 1; cursor: pointer; }
+.dlg-info { font-size: 15px; background: rgba(46,34,98,.05); border-radius: var(--r-medio); padding: 14px 16px; }
+.dlg-info > b { display: block; font-family: var(--f-etiqueta); font-size: 11.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--indigo-medio); margin: 2px 0 6px; }
+.dlg-info ul { margin: 0 0 12px; padding-left: 20px; display: grid; gap: 6px; }
+.dlg-campos { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.dlg-campos label { display: grid; gap: 5px; font-family: var(--f-etiqueta); font-size: 12.5px; font-weight: 700; color: var(--indigo); }
+.dlg-campos input { font: inherit; font-family: var(--f-texto); font-size: 16px; font-weight: 400; color: var(--tinta); padding: 11px 13px; border-radius: var(--r-chico); border: 1px solid rgba(46,34,98,.25); background: var(--blanco); }
+.dlg-check { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 10px; align-items: start; font-size: 15px; line-height: 1.45; cursor: pointer; }
+.dlg-check input { width: 20px; height: 20px; margin: 2px 0 0; accent-color: var(--indigo); }
+.dlg-check i { color: var(--tinta-suave); font-style: normal; font-size: 13.5px; }
+.dlg-trampa { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.dlg-msg { background: rgba(138,35,35,.1); color: var(--rojo); border-radius: var(--r-chico); padding: 10px 12px; font-size: 14.5px; }
+.oferta-ampliado .acciones, .dlg-cuerpo .acciones { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.dlg-cuerpo .boton-vidrio-claro { background: rgba(46,34,98,.08); color: var(--tinta) !important; box-shadow: none; }
+.dlg-cuerpo .boton-vidrio-claro:hover { background: rgba(46,34,98,.14); }
 .fuentes { margin: 6px 0 0; padding: 0; list-style: none; display: grid; gap: 10px; }
 .fuentes li { display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 10px; font-size: 14.5px; line-height: 1.45; scroll-margin-top: 110px; border-radius: 10px; }
 .fuentes li > span:first-child { font-family: var(--f-etiqueta); font-size: 11px; font-weight: 700; color: var(--crema); background: var(--indigo); border-radius: var(--r-pastilla); height: 22px; display: flex; align-items: center; justify-content: center; }
