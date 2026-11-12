@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "boletin": "18803-13",
+  "nivel": "basica",
+  "sintesis": "Amplía el seguro Ley Sanna, que da permiso y subsidio a quienes acompañan a un niño con una condición grave de salud. Está en primer trámite en la Cámara, con urgencia suma.",
+  "materia": "la ampliación del seguro Ley Sanna para acompañar a niños y niñas con enfermedades graves",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La Ley Sanna da permiso y subsidio a madres, padres y cuidadores que acompañan a un niño con una condición grave de salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Hoy la cobertura de cáncer y trasplante termina cuando el niño cumple 18 años.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La cobertura por cuidados intensivos alcanza solo a niños de uno a cinco años.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Extiende la cobertura de cáncer, trasplante y fase terminal hasta los 19 años, 11 meses y 29 días.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Extiende la cobertura por cuidados intensivos a los menores de quince años.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea una contingencia nueva: el egreso hospitalario por lesiones autoinfligidas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Fija requisitos para cubrir tratamientos fuera de Chile cuando no existen en el país.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 21.063, que creó el seguro.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La contingencia nueva cubre a niños mayores de cinco años y menores de dieciocho.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Un reglamento regulará el procedimiento para los tratamientos fuera de Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a madres, padres y cuidadores que trabajan de forma dependiente o independiente, y a los niños que acompañan.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero de Dipres, del 26 de octubre de 2026, dice que los cambios van con cargo al Fondo Sanna.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Según ese informe, no implican un mayor gasto fiscal.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó a la Cámara de Diputados el 27 de octubre de 2026 y pasó a la Comisión de Trabajo y Seguridad Social.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Luego irá a la Comisión de Salud, por acuerdo de la Sala.",
+        "fuentes": [
+          "f3",
+          "f6"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 9 de noviembre de 2026.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Modifica la ley N° 21.063, que crea el seguro para el acompañamiento de niños y niñas (Ley Sanna), para incorporar nueva contingencia y extender la cobertura en aquellas que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19486&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-27",
+      "nota": "Antecedentes, fundamentos y contenido del mensaje."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21693: Comunica a la Comisión de Trabajo y Seguridad Social el acuerdo de la Sala, en orden a remitir el proyecto a la Comisión de Salud, con posterioridad a su despacho.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37366&tipodoc=ofic",
+      "fecha": "2026-10-27",
+      "nota": "Envío posterior a la Comisión de Salud."
+    },
+    {
+      "id": "f5",
+      "titulo": "Pasajes sobre costo fiscal en: Mensaje: Modifica la ley N° 21.063, que crea el seguro para el acompañamiento de niños y niñas (Ley Sanna), para incorporar nueva contingencia y extender la cobertura en aquellas que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19486&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-27",
+      "nota": "Pasajes del informe financiero."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 18803-13 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18803",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
