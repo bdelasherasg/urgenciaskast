@@ -7,13 +7,13 @@
   "resumen": {
     "problema": [
       {
-        "texto": "El autor de la moción dice que la ley actual es permisiva.",
+        "texto": "Los autores de la moción dicen que la participación de menores de edad en delitos violentos va al alza.",
         "fuentes": [
-          "f1"
+          "f5"
         ]
       },
       {
-        "texto": "Sostiene que los jóvenes que cometen delitos violentos salen pronto en libertad.",
+        "texto": "Sostienen que quienes cometen esos delitos salen pronto en libertad.",
         "fuentes": [
           "f1"
         ]
@@ -21,56 +21,42 @@
     ],
     "propone": [
       {
-        "texto": "Endurece las reglas para fijar la pena de los adolescentes.",
+        "texto": "Fija en diez años el máximo de ciertas sanciones para menores de 16 años que cometen delitos de especial gravedad.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "Crea un listado de conductas violentas con sanciones más severas.",
+        "texto": "Para mayores de 16 años, en esos delitos, la pena base ya no se rebaja en un grado.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "Da a las víctimas un papel en el proceso.",
+        "texto": "Con internación provisoria, el joven no queda libre mientras no se resuelva la apelación.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "El gobierno anunció cambios al texto, llamados indicaciones.",
+        "texto": "En julio de 2026 el gobierno presentó indicaciones, que son cambios al texto, entre ellas eliminar el umbral de 16 años para ciertas faltas.",
         "fuentes": [
-          "f1",
-          "f2"
-        ]
-      },
-      {
-        "texto": "Uno de ellos trata la reincidencia, es decir, volver a delinquir, como agravante.",
-        "fuentes": [
-          "f1",
-          "f2"
+          "f7"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Modifica la Ley 20.084, que regula la responsabilidad penal adolescente.",
+        "texto": "Modifica la Ley 20.084, sobre responsabilidad penal adolescente, y una regla del Código Penal.",
         "fuentes": [
+          "f6",
           "f3"
         ]
       },
       {
-        "texto": "Quita la rebaja por buena conducta anterior a quienes ya cumplieron 18 años.",
+        "texto": "Quien fue condenado antes por esos delitos ya no puede alegar conducta anterior irreprochable.",
         "fuentes": [
-          "f1"
-        ]
-      },
-      {
-        "texto": "Según el gobierno, algunos jóvenes cumplirían su pena en secciones juveniles de cárceles.",
-        "fuentes": [
-          "f1",
-          "f2"
+          "f6"
         ]
       }
     ],
@@ -78,27 +64,30 @@
       {
         "texto": "Afecta a los adolescentes acusados de delitos graves.",
         "fuentes": [
+          "f6",
           "f1",
           "f2"
         ]
       },
       {
-        "texto": "También afecta a las víctimas, que podrán participar en el proceso.",
+        "texto": "También afecta a las víctimas, a quienes el tribunal debe oír antes de acortar una condena.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "El gobierno acompañó un informe de costo en diciembre de 2024.",
+        "texto": "El informe financiero complementario N° 171, de julio de 2026, dice que las indicaciones son de carácter normativo y no afectan el presupuesto fiscal.",
         "fuentes": [
-          "f4"
+          "f7"
         ]
       },
       {
-        "texto": "No pudimos revisar los informes financieros de la Dirección de Presupuestos.",
-        "fuentes": [],
+        "texto": "El informe financiero N° 320, de 2024, no está entre las fuentes: el costo del texto original queda pendiente.",
+        "fuentes": [
+          "f9"
+        ],
         "pendiente": true
       }
     ],
@@ -106,26 +95,28 @@
       {
         "texto": "La Cámara lo aprobó el 17 de septiembre de 2025.",
         "fuentes": [
-          "f4"
+          "f4",
+          "f9"
         ]
       },
       {
         "texto": "El Senado lo aprobó en general el 7 de julio de 2026, por 37 votos contra 3.",
         "fuentes": [
           "f1",
-          "f2"
+          "f2",
+          "f9"
         ]
       },
       {
-        "texto": "Ahora la comisión de Constitución del Senado lo estudia en detalle.",
+        "texto": "Falta el segundo informe de la Comisión de Constitución del Senado.",
         "fuentes": [
-          "f3"
+          "f9"
         ]
       },
       {
-        "texto": "Tiene urgencia suma desde el 20 de octubre de 2026.",
+        "texto": "Tiene urgencia simple desde el 10 de noviembre de 2026.",
         "fuentes": [
-          "f3"
+          "f9"
         ]
       }
     ]
@@ -189,10 +180,38 @@
       "url": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=15589-07",
       "fecha": "Consulta automática",
       "nota": "Primer trámite (vía urgencias.json)."
+    },
+    {
+      "id": "f5",
+      "titulo": "Moción de diputados, boletín 15589-07",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16112&tipodoc=mensaje_mocion",
+      "fecha": "14 de diciembre de 2022",
+      "nota": "Fundamentos y texto original."
+    },
+    {
+      "id": "f6",
+      "titulo": "Cámara de Diputados, oficio N° 20.804 con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34293&tipodoc=ofic",
+      "fecha": "17 de septiembre de 2025",
+      "nota": "Texto que la Cámara envió al Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Informe financiero complementario N° 171, Dirección de Presupuestos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36873&tipodoc=ofic",
+      "fecha": "20 de julio de 2026",
+      "nota": "Efecto de las indicaciones del Ejecutivo."
+    },
+    {
+      "id": "f9",
+      "titulo": "Senado, tramitación oficial del boletín 15589-07",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15589",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapas y urgencias."
     }
   ],
-  "consultado": "2026-10-30",
-  "publicado": "2026-10-30",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
