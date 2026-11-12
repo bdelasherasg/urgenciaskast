@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "boletin": "12213-07",
+  "nivel": "basica",
+  "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "el control judicial de la ejecución de las penas y los nuevos juzgados de ejecución",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el Código Penal regula poco la ejecución de las penas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, hay pocos controles externos sobre cómo se cumplen las penas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El informe de Hacienda menciona la necesidad de especialización y el aumento de la población penitenciaria.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que un juez controle cómo se cumplen las penas y las medidas de seguridad.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Crea juzgados de ejecución de penas y medidas de seguridad, con un procedimiento nuevo.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El juez conocería los reclamos de los condenados sobre sus derechos, como visitas, salud y trabajo en el penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El juez decidiría sobre la libertad condicional.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el decreto ley sobre libertad condicional, el Código Procesal Penal y el Código Orgánico de Tribunales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes están en prisión preventiva, cumplen penas de cárcel o están sujetos a medidas de seguridad.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 57, de marzo de 2024, calcula un mayor gasto fiscal de $6.643.418 miles en régimen, es decir, con el sistema completo.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "Incluye 22 jueces nuevos, 108 funcionarios de apoyo y el arriendo de 14 instalaciones.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El primer año se pagaría con el presupuesto del Poder Judicial y, si falta, con el Tesoro Público.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 8 de abril de 2024 y lo envió al Senado.",
+        "fuentes": [
+          "f13"
+        ]
+      },
+      {
+        "texto": "El 9 de abril de 2024 pasó a la Comisión de Constitución del Senado y, en su caso, a la de Hacienda.",
+        "fuentes": [
+          "f13"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f13"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica diversos textos legales en materia de ejecución de sanciones penales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=12736&tipodoc=mensaje_mocion",
+      "fecha": "2018-10-18",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26376&tipodoc=info",
+      "fecha": "2024-04-02",
+      "nota": "Idea matriz del proyecto en la Comisión de Hacienda de la Cámara."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26373&tipodoc=info",
+      "fecha": "2024-03-19",
+      "nota": "Informe de la Comisión de Constitución de la Cámara."
+    },
+    {
+      "id": "f10",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26376&tipodoc=info",
+      "fecha": "2024-04-02",
+      "nota": "Pasajes sobre costo fiscal del informe de Hacienda."
+    },
+    {
+      "id": "f13",
+      "titulo": "Tramitación del boletín 12213-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12213",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
