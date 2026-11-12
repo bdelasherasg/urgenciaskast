@@ -57,28 +57,53 @@
     ],
     "costo": [
       {
-        "texto": "Entre los documentos revisados no hay un informe financiero con el costo fiscal.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "El informe financiero N° 247, de la Dirección de Presupuestos, es del 16 de octubre de 2026 y acompaña las indicaciones del Ejecutivo.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "Por pagar antes la bonificación a ciertos ahorrantes, estima un mayor gasto de $50.709 millones en 2027, $13.348 millones en 2028 y $6.674 millones en 2029.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "El informe de la comisión recoge un mayor gasto de $187.263 millones anuales por la bonificación para comprar vivienda.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Los aportes al patrimonio del FONAVI ascienden a US$2.000 millones.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "El texto aprobado dice que el gasto del primer año se financia con los presupuestos vigentes y, si falta, con reasignaciones desde el Tesoro Público.",
+        "fuentes": [
+          "f10"
+        ]
       }
     ],
     "estado": [
       {
         "texto": "La Cámara lo aprobó el 27 de octubre de 2026 y lo envió al Senado.",
         "fuentes": [
-          "f9"
+          "f13"
         ]
       },
       {
         "texto": "El 28 de octubre pasó a la Comisión de Hacienda del Senado, con discusión inmediata.",
         "fuentes": [
-          "f9"
+          "f13"
         ]
       },
       {
         "texto": "El 4 de noviembre se dio cuenta de un oficio de la Corte Suprema.",
         "fuentes": [
-          "f9"
+          "f13"
         ]
       }
     ]
@@ -110,6 +135,27 @@
     },
     {
       "id": "f9",
+      "titulo": "Cámara, primer informe de la Comisión de Hacienda: pasajes sobre costo fiscal (26 de octubre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28327&tipodoc=info",
+      "fecha": "2026-10-26",
+      "nota": "Costo fiscal."
+    },
+    {
+      "id": "f10",
+      "titulo": "Oficio 21.696 de la Cámara al Senado: texto aprobado y su financiamiento",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37371&tipodoc=ofic",
+      "fecha": "2026-10-27",
+      "nota": "Costo fiscal."
+    },
+    {
+      "id": "f11",
+      "titulo": "Informe financiero N° 247 de la Dirección de Presupuestos (16 de octubre de 2026), anexo al oficio 193-374 con indicaciones del Ejecutivo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37317&tipodoc=ofic",
+      "fecha": "2026-10-19",
+      "nota": "Costo fiscal."
+    },
+    {
+      "id": "f13",
       "titulo": "Senado, tramitación del boletín 18.643-05",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18643",
       "fecha": "2026-11-10",
@@ -117,7 +163,7 @@
     }
   ],
   "consultado": "2026-11-10",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
