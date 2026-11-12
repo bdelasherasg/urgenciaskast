@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "boletin": "18590-07",
+  "nivel": "basica",
+  "sintesis": "Modifica el Código Penal para castigar más a los adultos que usan a menores de edad para delinquir y crea el delito de reclutarlos para asociaciones criminales. Está en segundo trámite, en el Senado.",
+  "materia": "el castigo a quienes utilizan a menores de edad para cometer delitos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que adultos y organizaciones criminales usan a niños para cometer delitos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que los menores de catorce años no pueden ser sancionados penalmente, y que por eso se les aprovecha.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Añade que la ley vigente sube la pena del delito principal, pero no crea un delito propio para esta conducta.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara aplica el grado máximo de las penas a adultos que cometen delitos con menores de edad.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Sube la pena en un grado si el menor tiene menos de catorce años.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Crea el delito de reclutar a una persona menor de dieciocho años para una asociación delictiva o criminal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 72 del Código Penal y agrega un artículo 293 ter.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El consentimiento del menor reclutado no libera al reclutador de responsabilidad.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Las indicaciones del Ejecutivo eliminan el delito autónomo que proponía la moción.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los adultos que involucran a menores de edad en delitos y a quienes los reclutan.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La moción considera al niño utilizado por adultos como víctima.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero de la Dirección de Presupuestos, del 19 de octubre de 2026, dice que las indicaciones no significarán mayor gasto fiscal.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 4 de noviembre de 2026, en general y en particular a la vez.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Lo refundió con el boletín 18282-07.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre se dio cuenta en el Senado y pasó a su Comisión de Constitución, Legislación, Justicia y Reglamento.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Cámara, moción del boletín 18.590-07 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19271&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-10",
+      "nota": "Antecedentes y contenido de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, primer informe de la Comisión de Constitución, Legislación, Justicia y Reglamento",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28354&tipodoc=info",
+      "fecha": "2026-10-23",
+      "nota": "Idea matriz, refundición y trámite de Hacienda."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio 21.726 de la Cámara al Senado con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37404&tipodoc=ofic",
+      "fecha": "2026-11-04",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 194-374: indicaciones del Ejecutivo e informe financiero de la Dipres",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37319&tipodoc=ofic",
+      "fecha": "2026-10-19",
+      "nota": "Efecto de las indicaciones sobre el presupuesto fiscal."
+    },
+    {
+      "id": "f6",
+      "titulo": "Senado, tramitación del boletín 18.590-07",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18590",
+      "fecha": "2026-11-12",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
