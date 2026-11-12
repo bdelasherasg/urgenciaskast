@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "boletin": "15047-11",
+  "nivel": "basica",
+  "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "el fondo de la Ley Ricarte Soto para tratamientos de alto costo",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la mayor parte del dinero del fondo está invertido en el sistema financiero y no en los pacientes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Explica que la ley manda ejecutar un 80% del fondo y resguardar el 20% restante.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Aumenta el aporte fiscal anual al Fondo para Diagnósticos y Tratamientos de Alto Costo hasta $185.000 millones al año.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Sube de 80% a 90% el límite de uso anual del fondo.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Refuerza el control de la Subsecretaría de Salud Pública sobre los tratamientos cubiertos.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 20.850, conocida como Ley Ricarte Soto.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Reduce a cinco el número de expertos de la Comisión de Recomendación Priorizada y les fija una dieta, que es un pago por sesión.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los pacientes con diagnósticos y tratamientos de alto costo cubiertos por la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a la Subsecretaría de Salud Pública y a la Central de Abastecimiento del sistema de salud.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero sustitutivo de enero de 2026 estima un aporte al fondo de $185.000 millones anuales.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La dieta de la comisión costaría hasta $26,7 millones al año.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara de Diputados aprobó el proyecto el 28 de enero de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "Está en segundo trámite, con urgencia suma renovada el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "La Comisión de Salud del Senado lo tiene citado el 16 de noviembre de 2026.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 15.047-11 (mayo de 2022)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15554&tipodoc=mensaje_mocion",
+      "fecha": "2022-05-10",
+      "nota": "Fundamentos de la moción original."
+    },
+    {
+      "id": "f4",
+      "titulo": "Informe financiero sustitutivo N° 31 (20 de enero de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35720&tipodoc=ofic",
+      "fecha": "2026-01-20",
+      "nota": "Contenido y efecto fiscal."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio 21.039 de la Cámara con el texto aprobado (28 de enero de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35834&tipodoc=ofic",
+      "fecha": "2026-01-28",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f9",
+      "titulo": "Senado, tramitación del boletín 15.047-11",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15047",
+      "fecha": "2026-11-11",
+      "nota": "Etapa, urgencia y trámites."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-12",
+      "nota": "Citación para el 16 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
