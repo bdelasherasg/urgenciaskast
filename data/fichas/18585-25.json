@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "boletin": "18585-25",
+  "nivel": "basica",
+  "sintesis": "Permite que Carabineros y la Policía de Investigaciones cotejen huellas genéticas con los registros de ADN, función que hoy es exclusiva del Servicio Médico Legal. El Senado lo aprobó en general.",
+  "materia": "el cotejo de huellas genéticas por Carabineros y la Policía de Investigaciones",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que hoy solo el Servicio Médico Legal puede cotejar huellas genéticas con los registros del sistema.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Dice que ese paso puede tardar varios meses, mientras los laboratorios policiales determinan un perfil en no más de diez días.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Permite que Carabineros y la Policía de Investigaciones hagan el cotejo en sus laboratorios acreditados.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Ambas instituciones enviarían el informe al fiscal o al tribunal.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El Servicio Médico Legal seguiría a cargo de conservar y destruir el material biológico y de acreditar a las instituciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código Procesal Penal y la ley 19.970, que creó el Sistema Nacional de Registros de ADN.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El texto de la Cámara agrega reglas para consultar perfiles genéticos de autoridades extranjeras.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Agrega también un artículo a la ley 20.084, sobre responsabilidad penal adolescente.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a Carabineros, a la Policía de Investigaciones, al Servicio Médico Legal y al Ministerio Público.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Busca agilizar las investigaciones penales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero de la Dirección de Presupuestos, del 17 de agosto de 2026, dice que el proyecto no significará mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Explica que ambas policías ya tienen laboratorios acreditados, con equipamiento y personal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en general y en particular a la vez el 21 de septiembre de 2026.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "La Comisión de Seguridad Pública del Senado lo aprobó en general por unanimidad, con cinco votos a favor.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre el Senado lo aprobó en general y fijó hasta el 26 de noviembre, a las 12:00, el plazo para presentar indicaciones.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 18.585-25 con informe financiero de la Dipres",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19268&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-17",
+      "nota": "Contenido del proyecto e informe financiero."
+    },
+    {
+      "id": "f2",
+      "titulo": "Senado, primer informe de la Comisión de Seguridad Pública",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28330&tipodoc=info",
+      "fecha": "2026-10-26",
+      "nota": "Objetivo y votación en general."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 21.583 de la Cámara al Senado con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37219&tipodoc=ofic",
+      "fecha": "2026-09-21",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f5",
+      "titulo": "Texto del mensaje 141-374 del Presidente de la República",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37030&tipodoc=ofic",
+      "fecha": "2026-08-17",
+      "nota": "Antecedentes y fundamentos."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, tramitación del boletín 18.585-25",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18585",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
