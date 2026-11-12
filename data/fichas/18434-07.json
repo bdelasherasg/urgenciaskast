@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "18434-07",
+  "nivel": "basica",
+  "sintesis": "Crea delitos para sancionar a quienes explotan, facilitan o publicitan los servicios sexuales de otras personas adultas. Está en primer trámite en la Cámara de Diputados.",
+  "materia": "Sanción de la explotación del comercio sexual de terceros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la regulación vigente del comercio sexual no basta frente al crimen organizado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que la explotación sexual se usa como mercado ilícito porque se da en la informalidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Busca sancionar a quienes explotan, facilitan o publicitan los servicios sexuales de otras personas adultas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea el delito de explotar económicamente el comercio sexual de otra persona mayor de edad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea delitos por facilitar sitios web, avisos o inmuebles para ofrecer o realizar esos servicios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega artículos al Código Penal y modifica la ley sobre lavado de activos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La explotación económica del comercio sexual ajeno pasaría a ser delito base de lavado de activos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sube en un grado las penas de los artículos 161-B y 161-D del Código Penal cuando ocurren con ocasión de servicios sexuales pagados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes administran o lucran con servicios sexuales ajenos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción dice que la persona adulta que ofrece sus propios servicios no es el foco de la persecución penal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La moción ingresó a la Cámara de Diputados el 28 de junio de 2026.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 8 de julio la Sala acordó radicarla en la Comisión de Seguridad Ciudadana.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre se dio cuenta de una urgencia Suma.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica cuerpos legales que indica para sancionar la explotación, facilitación y promoción de servicios sexuales remunerados de terceros",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19115&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-28",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21369: Por acuerdo de la Sala, remite a la Comisión de Seguridad Ciudadana el proyecto de ley, asignado inicialmente a la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36804&tipodoc=ofic",
+      "fecha": "2026-07-08",
+      "nota": "Oficio que remite el proyecto a la Comisión de Seguridad Ciudadana."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18434-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18434",
+      "fecha": "2026-11-11",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
