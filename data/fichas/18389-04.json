@@ -1,0 +1,162 @@
+{
+  "version": 2,
+  "boletin": "18389-04",
+  "nivel": "basica",
+  "sintesis": "Permite que los colegios con más postulantes que cupos elijan a sus alumnos con entrevistas y otros criterios, en vez del azar. Está en el Senado, en discusión general, con suma urgencia.",
+  "materia": "el mecanismo de elección mutua en la admisión escolar",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que el sistema actual asigna los cupos al azar cuando varios postulantes cumplen los mismos criterios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La comisión del Senado recoge que el sistema no reconoce el desempeño académico de los postulantes.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los colegios que tuvieron más postulantes que vacantes el año anterior podrán usar un mecanismo de elección mutua.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Podrán hacer entrevistas a las familias y considerar, por ejemplo, la distancia de la vivienda.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Los demás colegios mantienen la asignación aleatoria.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica las normas sobre la subvención del Estado a los establecimientos educacionales.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Esos colegios deben reservar 20% de los cupos para estudiantes prioritarios y 10% para estudiantes con discapacidad o necesidades educativas especiales permanentes, si hay postulantes suficientes.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Superintendencia de Educación fiscaliza el proceso.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los colegios con sobredemanda, a las familias que postulan y al Ministerio de Educación.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 139, del 22 de junio de 2026, indica un costo de $285.022 miles para cambiar la plataforma de admisión.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Ese gasto se hace solo el primer año.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Se financia con la partida del Ministerio de Educación, y Hacienda puede suplementarla.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en general y en particular el 5 de agosto de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "La Comisión de Educación del Senado lo discutió solo en general y lo aprobó por 3 votos contra 1.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 11 de noviembre se dio cuenta de su informe.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19070&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-23",
+      "nota": "Texto del mensaje y sus antecedentes."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Educación · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28387&tipodoc=info",
+      "fecha": "2026-11-11",
+      "nota": "Informe de la Comisión de Educación del Senado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28129&tipodoc=info",
+      "fecha": "2026-08-05",
+      "nota": "Informe de la Comisión de Hacienda de la Cámara, con contenido y costo del proyecto."
+    },
+    {
+      "id": "f7",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28129&tipodoc=info",
+      "fecha": "2026-08-05",
+      "nota": "Pasaje sobre costo fiscal del informe de Hacienda."
+    },
+    {
+      "id": "f9",
+      "titulo": "Pasajes sobre costo fiscal en: Oficio N° 21.462",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36960&tipodoc=ofic",
+      "fecha": "2026-08-05",
+      "nota": "Oficio de la Cámara con el artículo sobre financiamiento."
+    },
+    {
+      "id": "f10",
+      "titulo": "Tramitación del boletín 18389-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18389",
+      "fecha": "2026-11-11",
+      "nota": "Etapas, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
