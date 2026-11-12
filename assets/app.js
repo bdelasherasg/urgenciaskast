@@ -466,6 +466,19 @@
     function masCta(texto) {
       return '<div class="mas-cta"><p>' + texto + '</p><a href="' + urlAsesoria('solicitar') + '">Solicitar asesoría</a></div>';
     }
+    // En las fichas con análisis ampliado, el resumen avisa qué trae de más y enlaza a cada bloque.
+    function avisoAmpliado() {
+      if (!completa) return '';
+      var nPos = (F.posiciones || []).length, nMarcos = ((F.encuadre || {}).marcos || []).length, items = [];
+      if (F.posiciones) items.push(nPos
+        ? '<li><a href="#posiciones"><b>Qué han dicho las organizaciones:</b></a> ' + nPos + (nPos === 1 ? ' posición pública' : ' posiciones públicas') + ' de gremios, empresas u organizaciones sociales, cada una con su fecha y su fuente.</li>'
+        : '<li><a href="#posiciones"><b>Qué han dicho las organizaciones:</b></a> en la prensa revisada no encontramos declaraciones públicas de organizaciones sobre este proyecto, y lo registramos así.</li>');
+      items.push(nMarcos
+        ? '<li><a href="#encuadre"><b>Cómo se habla del proyecto:</b></a> qué problema, qué causa y qué solución destaca cada lado del debate, y qué palabras usa.</li>'
+        : '<li><b>Cómo se habla del proyecto:</b> la prensa revisada aún no trae notas suficientes para comparar cómo lo presenta cada lado.</li>');
+      return '<div class="aviso-ampliado"><p class="eyebrow">Análisis ampliado</p><p>Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:</p><ul>' + items.join('') + '</ul>' +
+        '<p class="aviso-ampliado-nota">Se elabora con las notas de una lista fija de medios nacionales, y cada afirmación enlaza a su fuente.</p></div>';
+    }
     // Oferta del análisis ampliado gratuito: se intercala con los avisos de asesoría en las fichas básicas.
     var ofrecerAmpliado = !!(F && F.resumen && !completa && CFG.pedidosUrl);
     function ofertaAmpliado(grande) {
@@ -501,7 +514,7 @@
           'Es el formato de los artículos científicos: los mismos apartados, en el mismo orden, para todos los proyectos. Así se pueden comparar y nada importante queda fuera. Se basa en Haynes y colaboradores (1990) y en las guías de resumen en lenguaje sencillo de Cochrane.',
           'No evalúa ni opina. Cada oración repite lo que dice un documento y enlaza a él. Si un documento no estaba disponible, lo decimos en lugar de suponer su contenido.',
           'Para explicar el proyecto en un minuto a un parlamentario, un directorio, una asamblea o una redacción, y para saber qué documento abrir si se necesita el detalle.') +
-        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p><h2 id="h-resumen">Qué propone el proyecto</h2>' +
+        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p><h2 id="h-resumen">Qué propone el proyecto</h2>' + avisoAmpliado() +
         ap.filter(function (a) { return R[a[0]] && R[a[0]].length; }).map(function (a) {
           return '<div class="apartado"><h3>' + a[1] + '</h3><div><p>' + oraciones(R[a[0]]) + '</p></div></div>';
         }).join('') +
