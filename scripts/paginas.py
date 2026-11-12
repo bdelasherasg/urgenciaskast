@@ -94,9 +94,8 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <meta name="robots" content="index, follow, max-image-preview:large">
 {extra_head}<meta name="theme-color" content="#e4def7">
 <link rel="icon" href="{base}assets/simbolo.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Montserrat:wght@500;600;700&amp;family=Figtree:wght@400;500;600&amp;display=swap">
+<link rel="preload" href="{base}assets/fonts/instrument-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{base}assets/fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{base}assets/estilo.css?v={v}">
 <script src="{base}assets/config.js?v={v}"></script>
 <script src="{base}assets/glosario.js?v={v}"></script>
@@ -157,7 +156,7 @@ def ld_sitio(descripcion):
     ]})
 
 
-def ld_articulo(titulo, descripcion, url, publicado, modificado=None, autor=None):
+def ld_articulo(titulo, descripcion, url, publicado, modificado=None, autor=None, migas=None):
     d = {'@context': 'https://schema.org', '@type': 'Article', 'headline': titulo, 'description': descripcion, 'inLanguage': 'es-CL',
          'mainEntityOfPage': {'@type': 'WebPage', '@id': url}, 'image': f'{SITIO}/assets/compartir.png',
          'author': {'@type': 'Person', 'name': autor} if autor else {'@id': ORG_LC['@id']},
@@ -166,7 +165,46 @@ def ld_articulo(titulo, descripcion, url, publicado, modificado=None, autor=None
     if publicado:
         d['datePublished'] = publicado
         d['dateModified'] = modificado or publicado
-    return jsonld(d)
+    return jsonld([d, ld_migas(migas)] if migas else d)
+
+
+def titulo_corto(t, n=60):
+    """Primera oración del título, recortada para que el buscador la muestre completa."""
+    t = re.sub(r'\s+', ' ', str(t or '')).strip()
+    primera = re.split(r'(?<=[a-záéíóúñ0-9])\.\s', t, maxsplit=1)[0].rstrip('.')
+    return primera if len(primera) <= n else recortar(primera, n)
+
+
+def relacionados(b, urg, ag, idx, F, pub):
+    """Bloque visible bajo la ficha: otros proyectos de la misma comisión y fechas de publicación y actualización."""
+    organos = {}
+    for x in (ag.get('sesiones') or []):
+        if x.get('estado') != 'sin efecto' and b in (x.get('boletines') or []):
+            organos.setdefault(x.get('organo') or '', []).extend(x['boletines'])
+    otros, titulo = [], 'Otros proyectos en la misma comisión'
+    for org, bs in organos.items():
+        for o in bs:
+            if o != b and o not in otros:
+                otros.append(o)
+    if not otros:
+        etapa = next((x.get('etapa') for x in urg.get('proyectos', []) if x['boletin'] == b), None)
+        if etapa:
+            otros = [x['boletin'] for x in urg.get('proyectos', []) if x.get('etapa') == etapa and x['boletin'] != b and x['boletin'] in idx]
+            titulo = 'Otros proyectos en la misma etapa de tramitación'
+    otros.sort(key=lambda o: (o not in idx, o))
+    lista = ''.join(f'<li><a href="{esc(o)}.html">{esc(recortar(nombre_proyecto(o, urg, ag, idx), 150))}</a> <small>Boletín {esc(o)}</small></li>' for o in otros[:5])
+    fechas = [f'Ficha publicada el {fecha_larga(pub)}.' if pub else '',
+              f'Fuentes consultadas el {fecha_larga((F or {}).get("consultado"))}.' if (F or {}).get('consultado') else '',
+              f'Datos oficiales de urgencias y tramitación actualizados el {fecha_larga(urg.get("actualizado"))}.' if urg.get('actualizado') else '']
+    return ('<div class="envoltura seccion"><section class="tarjeta" aria-labelledby="h-rel"><div class="tarjeta-cuerpo">'
+            + (f'<h2 id="h-rel">{titulo}</h2><ul>{lista}</ul>' if lista else '')
+            + '<p class="nota">' + ' '.join(x for x in fechas if x) + f' Las correcciones se publican con fecha: escriba a <b>{CORREO}</b> indicando el boletín. '
+            '<a href="../agenda.html">Ver la agenda de dos semanas</a>.</p></div></section></div>')
+
+
+def ld_migas(items):
+    return {'@context': 'https://schema.org', '@type': 'BreadcrumbList',
+            'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'name': n, 'item': u} for i, (n, u) in enumerate(items)]}
 
 
 def nombre_proyecto(b, urg, ag, idx):
@@ -425,16 +463,16 @@ def construir_fichas(v):
         f = idx.get(b) or {}
         titulo = f.get('sintesis') or p.get('titulo') or f'Boletín {b}'
         if f.get('sintesis'):
-            desc = f'Boletín {b}. Resumen verificado, posiciones de las organizaciones y plazos de la urgencia, explicados.'
+            desc = recortar(f['sintesis'], 155)
         else:
             urgv = (p.get('urgencia_vigente') or {}).get('tipo')
             desc = f'Boletín {b}' + (f', con urgencia {urgv.lower()}' if urgv else '') + '. Plazos, tramitación y fuentes oficiales, explicados.'
         F = leer_json(ruta('data', 'fichas', f'{b}.json')) if f else None
-        cuerpo = '<div id="ficha">' + ficha_estatica(b, p, F) + '</div>'
         pub = f.get('publicado') or ''
+        cuerpo = '<div id="ficha">' + ficha_estatica(b, p, F) + '</div>' + relacionados(b, urg, ag, idx, F, pub)
         extra = ((f'<meta property="article:published_time" content="{esc(pub)}">\n' if pub else '')
-                 + ld_articulo(recortar(titulo, 110), desc, f'{SITIO}/p/{b}.html', pub or None, (F or {}).get('consultado')))
-        escribir(ruta('p', f'{b}.html'), layout(cuerpo, base='../', titulo=recortar(titulo, 88) + ' · Urgencias Kast', descripcion=desc,
+                 + ld_articulo(recortar(titulo, 110), desc, f'{SITIO}/p/{b}.html', pub or None, (F or {}).get('consultado'), migas=[('Urgencias Kast', f'{SITIO}/'), (f'Boletín {b}', f'{SITIO}/p/{b}.html')]))
+        escribir(ruta('p', f'{b}.html'), layout(cuerpo, base='../', titulo=titulo_corto(titulo) + ' · Urgencias Kast', descripcion=desc,
                                                pagina='ficha', ruta_url=f'p/{b}.html', og_tipo='article', og_titulo=recortar(titulo, 120),
                                                attr_body=f' data-boletin="{esc(b)}"', v=v, extra_head=extra))
     print(f'Páginas por proyecto: {len(boletines)}')

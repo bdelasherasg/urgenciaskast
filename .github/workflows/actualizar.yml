@@ -72,3 +72,9 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      - name: Avisar a los buscadores (IndexNow)
+        continue-on-error: true
+        run: |
+          sleep 90
+          python scripts/indexnow.py
