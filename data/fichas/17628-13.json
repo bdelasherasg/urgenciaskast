@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "boletin": "17628-13",
+  "nivel": "basica",
+  "sintesis": "Traspasa a un administrador estatal la licitación del seguro de invalidez y sobrevivencia que hoy contratan las AFP. Está en primer trámite en el Senado, con urgencia suma.",
+  "materia": "el seguro de invalidez y sobrevivencia",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El seguro de invalidez y sobrevivencia paga una pensión si una persona trabajadora queda inválida o fallece, y hoy lo contratan las AFP.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La ley 21.735, de reforma de pensiones, lo pasa al Seguro Social y obliga al Ejecutivo a enviar este proyecto para regular el traspaso.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Traspasa de las AFP al Administrador del Fondo Autónomo de Protección Previsional la licitación, la adjudicación y los contratos del seguro.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La primera licitación a su cargo sería la del período que parte el 1 de agosto de 2027.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Las AFP siguen determinando la cobertura, pagando los beneficios y administrando las comisiones médicas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Administrador pagará la prima a las compañías de seguros de vida. Se eliminan las referencias a la cotización adicional.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los afiliados al sistema de pensiones, a las AFP, a las compañías de seguros de vida y al Instituto de Previsión Social.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero complementario N° 166, de julio de 2026, dice que las indicaciones del Ejecutivo no tienen incidencia sobre el presupuesto fiscal.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Los informes financieros anteriores del proyecto no figuran entre las fuentes consultadas.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El 22 de diciembre de 2025, la Comisión de Trabajo y Previsión Social del Senado emitió su primer informe y el proyecto pasó a la Comisión de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 10 de julio de 2026 el Ejecutivo presentó indicaciones.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre de 2026 se hizo presente una nueva urgencia suma.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Modifica el decreto ley N° 3.500, de 1980, en materia de seguro de invalidez y sobrevivencia",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18272&tipodoc=mensaje_mocion",
+      "fecha": "2025-06-24",
+      "nota": "Antecedentes, contenido y articulado del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe financiero N° IF 166: Informe Financiero",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36827&tipodoc=ofic",
+      "fecha": "2026-07-14",
+      "nota": "Informe financiero complementario sobre las indicaciones."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 17628-13 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17628",
+      "fecha": "2026-11-11",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
