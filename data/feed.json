@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-12T02:52-03:00",
+ "actualizado": "2026-11-12T03:07-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -176,7 +176,7 @@
     {
      "boletin": "12712-24",
      "titulo": "Ley de Patrimonio Cultural",
-     "sintesis": "Reemplaza el Consejo de Monumentos Nacionales por un nuevo consejo, lleva los permisos a las regiones y amplía lo que se protege. Está en la comisión de Cultura del Senado.",
+     "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
      "url": "https://urgenciaskast.cl/p/12712-24.html"
     }
    ]
@@ -266,6 +266,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "12712-24",
+   "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/12712-24.html"
+  },
+  {
    "boletin": "14309-04",
    "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
    "publicado": "2026-11-12",
@@ -294,12 +300,6 @@
    "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
    "publicado": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/16743-04.html"
-  },
-  {
-   "boletin": "18709-07",
-   "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara y el Senado lo aprobaron sin cambios.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/18709-07.html"
   }
  ],
  "analisis": [
