@@ -1,0 +1,158 @@
+{
+  "version": 2,
+  "boletin": "16552-12",
+  "nivel": "basica",
+  "sintesis": "Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.",
+  "materia": "la reforma a la institucionalidad ambiental",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que los proyectos con efectos ambientales los califican autoridades de nombramiento político.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que esto genera incertidumbre y demoras en la tramitación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El mensaje busca fortalecer la institucionalidad ambiental de la ley 19.300, que fija las bases generales del medio ambiente.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Reforma la evaluación de impacto ambiental, la responsabilidad por daño ambiental y el Consejo de Ministros para la Sustentabilidad y el Cambio Climático.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El mensaje propone reemplazar las comisiones de evaluación y el comité de ministros por órganos técnicos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las indicaciones de julio de 2026 reincorporan la Comisión de Evaluación.",
+        "fuentes": [
+          "f12"
+        ]
+      },
+      {
+        "texto": "Las de agosto de 2026 precisan cuándo se puede rechazar una Declaración o un Estudio de Impacto Ambiental.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Los titulares de proyectos deben presentar una Declaración o un Estudio de Impacto Ambiental ante el Servicio de Evaluación Ambiental de la región de las obras.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El segundo informe de Hacienda del Senado cita un informe financiero que estima un mayor gasto fiscal de $1.212 millones el primer año y $941 millones en régimen.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "Los informes financieros complementarios de julio y agosto de 2026 dicen que las indicaciones no significan mayor gasto fiscal.",
+        "fuentes": [
+          "f12",
+          "f6"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado lo aprobó en particular el 14 de abril de 2026 y la Cámara lo recibió el 20 de abril.",
+        "fuentes": [
+          "f14"
+        ]
+      },
+      {
+        "texto": "Está en segundo trámite, en la Comisión de Medio Ambiente y Recursos Naturales, con urgencia simple desde el 27 de octubre de 2026.",
+        "fuentes": [
+          "f14"
+        ]
+      },
+      {
+        "texto": "La comisión está citada el 18 de noviembre de 2026 para continuar la discusión y votación particular.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje del Presidente de la República, boletín 16.552-12 (10 de enero de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17120&tipodoc=mensaje_mocion",
+      "fecha": "10 de enero de 2024",
+      "nota": "Fundamentos y objetivos. El texto está cortado."
+    },
+    {
+      "id": "f6",
+      "titulo": "Oficio 137-374: indicación del Presidente con informe financiero complementario N° 196 (12 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37010&tipodoc=ofic",
+      "fecha": "12 de agosto de 2026",
+      "nota": "Indicación sobre causales de calificación desfavorable."
+    },
+    {
+      "id": "f8",
+      "titulo": "Oficio 114-374: indicaciones del Presidente (22 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36885&tipodoc=ofic",
+      "fecha": "22 de julio de 2026",
+      "nota": "Indicaciones con informe financiero complementario N° 170."
+    },
+    {
+      "id": "f11",
+      "titulo": "Segundo informe de la Comisión de Hacienda del Senado (27 de enero de 2026), pasajes sobre costo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27872&tipodoc=info",
+      "fecha": "27 de enero de 2026",
+      "nota": "Cita informes financieros anteriores."
+    },
+    {
+      "id": "f12",
+      "titulo": "Oficio 114-374: informe financiero complementario N° 170 (22 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36885&tipodoc=ofic",
+      "fecha": "22 de julio de 2026",
+      "nota": "Efecto de las indicaciones sobre el presupuesto."
+    },
+    {
+      "id": "f14",
+      "titulo": "Senado, tramitación del boletín 16.552-12",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16552",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Trámites y urgencias."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputadas y Diputados, citaciones de comisiones",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Sesión citada para el 18 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
