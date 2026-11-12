@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "17486-07",
+  "nivel": "basica",
+  "sintesis": "Crea penas más altas para el robo, el hurto y la receptación de productos, insumos o maquinaria agrícola. Fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
+  "materia": "el robo de productos, insumos y maquinaria agrícola",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el robo de productos, insumos y maquinaria agrícola ha alcanzado niveles alarmantes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el Código Penal no tiene una figura específica para estos robos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, hoy suelen castigarse como hurto simple o robo en lugar no habitado, con penas menores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara agrega al artículo 443 del Código Penal que se aplica la misma pena cuando el delito recae sobre productos, insumos o maquinaria agrícola.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea el artículo 447 ter, que aplica las penas del artículo 446 en su grado máximo cuando recaen sobre esos bienes.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Agrega esos bienes al inciso tercero del artículo 456 bis A.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión de Agricultura rechazó una norma sobre ingresar sin autorización a un lugar en zonas rurales. No figura en el texto aprobado.",
+        "fuentes": [
+          "f2",
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "La moción dice que estos robos dañan a los agricultores, en especial a los pequeños.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los cambios alcanzan al robo, al hurto y a la receptación de esos bienes.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 13 de abril de 2026, en general y en particular a la vez.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Se refundió con el boletín 17170-07.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 14 de abril pasó al Senado, a la Comisión de Constitución.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre de 2026 se dio cuenta de una urgencia suma.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción, boletín 17486-07 (texto original)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18122&tipodoc=mensaje_mocion",
+      "fecha": "2025-04-10",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Cámara, primer informe de la Comisión de Agricultura, Silvicultura y Desarrollo Rural",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27801&tipodoc=info",
+      "fecha": "2026-01-12",
+      "nota": "Texto de la comisión y artículo rechazado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21.157 de la Cámara al Senado con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36035&tipodoc=ofic",
+      "fecha": "2026-04-13",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 17486-07",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17486",
+      "fecha": "2026-11-11",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
