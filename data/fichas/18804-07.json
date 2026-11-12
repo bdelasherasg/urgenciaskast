@@ -63,9 +63,16 @@
     ],
     "costo": [
       {
-        "texto": "Entre los documentos revisados no hay un informe financiero de este proyecto.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "estado": [
@@ -109,7 +116,7 @@
     }
   ],
   "consultado": "2026-11-10",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
