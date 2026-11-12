@@ -1,26 +1,45 @@
 {
   "version": 2,
   "boletin": "18448-25",
-  "nivel": "completa",
-  "sintesis": "Cambia la ley orgánica de Carabineros en los procedimientos de evaluación médica que fundamentan el retiro de personal. Es una moción en primer trámite en la Cámara de Diputados.",
-  "materia": "los procedimientos de evaluación médica que fundamentan retiros en Carabineros",
+  "nivel": "basica",
+  "sintesis": "Obliga a fundamentar mejor las evaluaciones médicas que llevan al retiro de personal de Carabineros y crea un plazo para reclamar. Es una moción en primer trámite en la Cámara.",
+  "materia": "las evaluaciones médicas para el retiro en Carabineros",
   "resumen": {
     "problema": [
       {
-        "texto": "El texto de la moción no está disponible; no se conoce el motivo que dan sus autores.",
-        "fuentes": [],
-        "pendiente": true
-      }
-    ],
-    "propone": [
-      {
-        "texto": "El proyecto modifica la ley 18.961, orgánica constitucional de Carabineros.",
+        "texto": "La autora sostiene que la Comisión Médica Central de Carabineros decide los retiros por salud, y que su procedimiento tiene fallas.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "Cambia los procedimientos de evaluación médica que fundamentan retiros de personal.",
+        "texto": "Cita a 102 ex funcionarios que la acusan de haberlos retirado de forma irregular, y fallos de cortes que hallaron falta de fundamento.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que el reclamo lo resuelve el mismo órgano que decidió, sin plazo especial, y que por eso la revisión termina en los tribunales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El informe técnico de la comisión debe explicar los antecedentes clínicos considerados y por qué la persona no sería apta.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El funcionario podrá presentar informes de médicos externos, que la comisión debe ponderar, y acceder a todo su expediente médico.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea un recurso de reposición de 5 días hábiles, que debe resolverse en 30 días como máximo.",
         "fuentes": [
           "f1"
         ]
@@ -28,14 +47,21 @@
     ],
     "cambia": [
       {
-        "texto": "No se conoce el detalle de los cambios, porque falta el texto de la moción.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Modifica el artículo 64 de la Ley 18.961 y agrega un artículo 64 bis.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si se acoge la reposición, se repite el examen médico sin los integrantes que hicieron el primero.",
+        "fuentes": [
+          "f1"
+        ]
       }
     ],
     "afecta": [
       {
-        "texto": "Se refiere al personal de Carabineros cuyo retiro se funda en una evaluación médica.",
+        "texto": "Afecta al personal de Carabineros evaluado por la Comisión Médica Central para un retiro temporal o absoluto.",
         "fuentes": [
           "f1"
         ]
@@ -43,59 +69,68 @@
     ],
     "costo": [
       {
-        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
       }
     ],
     "estado": [
       {
-        "texto": "Ingresó el 1 de julio de 2026 como moción.",
+        "texto": "Ingresó a la Cámara el 1 de julio de 2026 y pasó a la Comisión de Seguridad Ciudadana.",
         "fuentes": [
-          "f1"
+          "f3"
         ]
       },
       {
-        "texto": "El 13 de julio de 2026 pasó a la Comisión de Seguridad Ciudadana.",
+        "texto": "El 3 de agosto la Cámara acordó enviarlo también a la Comisión de Personas Mayores y Discapacidad, como comisión técnica.",
         "fuentes": [
-          "f1"
+          "f2",
+          "f3"
         ]
       },
       {
-        "texto": "El 3 de agosto de 2026 la Sala acordó enviarlo también a la Comisión de Personas Mayores y Discapacidad, como comisión técnica.",
+        "texto": "Está en primer trámite, a la espera del primer informe de comisión, y no tiene urgencia.",
         "fuentes": [
-          "f1"
-        ]
-      },
-      {
-        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
-        "fuentes": [
-          "f1"
+          "f3"
         ]
       }
     ]
   },
   "posiciones": [],
-  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
-  "encuadre": {
-    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
-    "marcos": [],
-    "disputa": {
-      "palabra": "",
-      "oraciones": []
-    }
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "ampliado": {
+    "estado": "sin_prensa",
+    "fecha": "2026-11-12",
+    "notas_revisadas": 1,
+    "medios": 0
   },
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 18448-25",
-      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/19131",
-      "fecha": "Consulta del 31 de octubre de 2026",
-      "nota": "Etapa, comisiones y fechas de tramitación."
+      "titulo": "Moción: Modifica la ley N°18.961, orgánica constitucional de Carabineros de Chile, en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19131&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-01",
+      "nota": "Fundamentos y articulado de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21.427: Comunica que la Cámara de Diputados acordó remitir el proyecto de ley a la Comisión de Personas Mayores y Discapacidad.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36926&tipodoc=ofic",
+      "fecha": "2026-08-03",
+      "nota": "Envío del proyecto a otra comisión como comisión técnica."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18448-25 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18448",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, trámites y urgencia."
     }
   ],
-  "consultado": "2026-10-31",
-  "publicado": "2026-11-01",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
