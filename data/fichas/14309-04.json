@@ -1,0 +1,165 @@
+{
+  "version": 2,
+  "boletin": "14309-04",
+  "nivel": "basica",
+  "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
+  "materia": "la subvención para la modalidad educativa de reingreso",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que la modalidad de reingreso responde a niños y jóvenes que están fuera de los niveles obligatorios del sistema escolar regular.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea una subvención del Estado para financiar la educación en esa modalidad.",
+        "fuentes": [
+          "f13"
+        ]
+      },
+      {
+        "texto": "Incluye una subvención por vulnerabilidad para estudiantes prioritarios; para los preferentes es la mitad.",
+        "fuentes": [
+          "f16"
+        ]
+      },
+      {
+        "texto": "El financiamiento se aplicaría de forma gradual durante cinco años desde la publicación de la ley.",
+        "fuentes": [
+          "f15"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley 20.845 para excluir la modalidad del Sistema de Admisión Escolar, y la Ley 20.529, sobre calidad de la educación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los colegios que la impartan serían evaluados por la Agencia de Calidad de la Educación.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a niños, niñas y jóvenes fuera de los niveles obligatorios y a los establecimientos que impartan la modalidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El mayor gasto del primer año se financia con el presupuesto del Ministerio de Educación, que Hacienda puede suplementar.",
+        "fuentes": [
+          "f15"
+        ]
+      },
+      {
+        "texto": "El informe financiero complementario N° 297 dice que las indicaciones de 2024 no suman gasto al ya considerado.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado lo aprobó con enmiendas en diciembre de 2025.",
+        "fuentes": [
+          "f12"
+        ]
+      },
+      {
+        "texto": "El 11 de mayo de 2026 la Cámara rechazó algunas de ellas.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "Una comisión mixta debe proponer cómo resolver la diferencia.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, mensaje del boletín 14.309-04 (informe de impacto regulatorio)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=14891&tipodoc=mensaje_mocion",
+      "fecha": "2021-06-15",
+      "nota": "Descripción del proyecto."
+    },
+    {
+      "id": "f8",
+      "titulo": "Informe financiero complementario N° 297 (6 de noviembre de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34188&tipodoc=ofic",
+      "fecha": "2024-11-06",
+      "nota": "Costo de las indicaciones."
+    },
+    {
+      "id": "f10",
+      "titulo": "Oficio 177/SEC/26 del Senado (3 de junio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36673&tipodoc=ofic",
+      "fecha": "2026-06-03",
+      "nota": "Rechazo de enmiendas y comisión mixta."
+    },
+    {
+      "id": "f11",
+      "titulo": "Oficio 21.225 de la Cámara al Senado (11 de mayo de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36157&tipodoc=ofic",
+      "fecha": "2026-05-11",
+      "nota": "Enmiendas aprobadas y rechazadas."
+    },
+    {
+      "id": "f12",
+      "titulo": "Oficio 376/SEC/25 del Senado a la Cámara (17 de diciembre de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35623&tipodoc=ofic",
+      "fecha": "2025-12-17",
+      "nota": "Enmiendas del Senado."
+    },
+    {
+      "id": "f13",
+      "titulo": "Oficio 16.897 de la Cámara al Senado con el texto aprobado (8 de septiembre de 2021)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=29162&tipodoc=ofic",
+      "fecha": "2021-09-08",
+      "nota": "Artículo 1."
+    },
+    {
+      "id": "f15",
+      "titulo": "Senado, informe de la Comisión de Hacienda, segundo trámite (2 de diciembre de 2025), pasajes sobre costo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27707&tipodoc=info",
+      "fecha": "2025-12-02",
+      "nota": "Financiamiento."
+    },
+    {
+      "id": "f16",
+      "titulo": "Senado, informe de la Comisión de Hacienda, segundo trámite (14 de agosto de 2024), pasajes sobre costo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26706&tipodoc=info",
+      "fecha": "2024-08-14",
+      "nota": "Subvención por vulnerabilidad."
+    },
+    {
+      "id": "f18",
+      "titulo": "Senado, tramitación del boletín 14.309-04",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14309",
+      "fecha": "2026-11-11",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
