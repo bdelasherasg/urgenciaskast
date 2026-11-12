@@ -1,89 +1,131 @@
 {
   "version": 2,
   "boletin": "12760-29",
-  "nivel": "completa",
-  "sintesis": "Pone el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que está en primer trámite en la Cámara de Diputados.",
+  "nivel": "basica",
+  "sintesis": "Pone por ley el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que la Comisión de Deportes de la Cámara aprobó el 3 de noviembre de 2026, en primer trámite.",
   "materia": "el nombre del gimnasio fiscal de Ancud",
   "resumen": {
     "problema": [
       {
-        "texto": "El texto de la moción no está disponible; no se conoce el motivo que dan sus autores.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Los autores destacan al basquetbolista Luis Caco Suárez, nacido en Ancud, campeón nacional con Deportes Ancud en 1987.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen que su historia inspira a los jóvenes y que pidieron el cambio de nombre al Instituto Nacional de Deportes, sin recibir respuesta.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la comisión, el gimnasio ya lleva ese nombre por una decisión municipal, y la ley busca que se mantenga aunque cambien las administraciones.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "propone": [
       {
-        "texto": "El proyecto denomina al gimnasio fiscal de Ancud como Gimnasio Fiscal Luis Caco Suárez de Ancud.",
+        "texto": "El artículo único denomina al Gimnasio Fiscal de Ancud como «Gimnasio Fiscal Luis Caco Suárez de Ancud».",
         "fuentes": [
-          "f1"
+          "f1",
+          "f2"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Cambia el nombre oficial de ese gimnasio.",
+        "texto": "Cambia por ley el nombre oficial de ese gimnasio.",
         "fuentes": [
           "f1"
+        ]
+      },
+      {
+        "texto": "El proyecto tiene un solo artículo.",
+        "fuentes": [
+          "f2"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "No se conoce el detalle de a quiénes afecta, porque falta el texto de la moción.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Afecta al gimnasio fiscal de Ancud, que según un diputado recibe los partidos del club ABA Ancud.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "costo": [
       {
-        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión dejó constancia de que el articulado no es de competencia de la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "estado": [
       {
-        "texto": "Ingresó el 3 de julio de 2019 como moción.",
+        "texto": "El 3 de noviembre de 2026, la Comisión de Deportes y Recreación de la Cámara aprobó el proyecto por unanimidad, con 10 votos a favor.",
         "fuentes": [
-          "f1"
+          "f2",
+          "f4"
         ]
       },
       {
-        "texto": "El 9 de julio de 2019 se dio cuenta en la Sala y pasó a la Comisión de Deportes y Recreación.",
+        "texto": "El 11 de noviembre se dio cuenta del informe y el proyecto quedó para tabla de la Sala.",
         "fuentes": [
-          "f1"
+          "f4"
         ]
       },
       {
-        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
+        "texto": "Está en primer trámite y no tiene urgencia.",
         "fuentes": [
-          "f1"
+          "f4"
         ]
       }
     ]
   },
   "posiciones": [],
-  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
-  "encuadre": {
-    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
-    "marcos": [],
-    "disputa": {
-      "palabra": "",
-      "oraciones": []
-    }
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "ampliado": {
+    "estado": "sin_prensa",
+    "fecha": "2026-11-12",
+    "notas_revisadas": 0,
+    "medios": 0
   },
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 12760-29",
-      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/13299",
-      "fecha": "Consulta del 31 de octubre de 2026",
-      "nota": "Etapa, comisiones y fechas de tramitación."
+      "titulo": "Moción: Denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=13299&tipodoc=mensaje_mocion",
+      "fecha": "2019-07-03",
+      "nota": "Fundamentos y artículo único de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Deportes y Recreación · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28381&tipodoc=info",
+      "fecha": "2026-11-03",
+      "nota": "Idea matriz, discusión y votación en la Comisión de Deportes y Recreación."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 12760-29 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12760",
+      "fecha": "2026-11-12",
+      "nota": "Etapa, trámites y urgencia."
     }
   ],
-  "consultado": "2026-10-31",
-  "publicado": "2026-11-01",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
