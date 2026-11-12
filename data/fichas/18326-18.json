@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "18326-18",
+  "nivel": "basica",
+  "sintesis": "Busca prevenir y sancionar las denuncias falsas y los informes técnicos sin rigor en procesos judiciales de familia. Es una moción en primer trámite en la Cámara, sin urgencia.",
+  "materia": "la protección de niños en procesos judiciales y las denuncias falsas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que algunas denuncias se usan para presionar a la otra parte, sin consecuencias para quien las presenta.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que esas denuncias recurren a informes periciales, que son informes técnicos de expertos, deficientes o falsos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Busca prevenir y sancionar las denuncias falsas y los informes técnicos sin rigor.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que ninguna de sus normas podrá dificultar la denuncia de hechos reales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código Civil, la ley de Tribunales de Familia y normas penales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los jueces de familia deberían verificar antecedentes objetivos y verosímiles en 24 horas antes de ciertas medidas cautelares, que son medidas provisionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrava las penas por denuncias falsas en temas de familia y suspende el ejercicio a los abogados que las patrocinen a sabiendas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a niños y padres en procesos de familia, y a peritos y abogados que intervienen en ellos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 2 de junio de 2026 y el 10 de junio pasó a la Comisión de la Familia, en primer trámite, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 19 de octubre de 2026 esa comisión continuó su estudio y escuchó al Ministro de Justicia.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está citada el 16 de noviembre de 2026 para continuar la discusión general y votar en general.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Refuerza la protección integral de niños, niñas y adolescentes en procesos judiciales y establece medidas de prevención y sanción de falsos informes y denuncias",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19005&tipodoc=mensaje_mocion",
+      "fecha": "2 de junio de 2026",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Sesión de la Comisión de la Familia."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18326-18 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18326",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, comisión, urgencia y fechas."
+    },
+    {
+      "id": "f4",
+      "titulo": "Citación de la Comisión de la Familia de la Cámara para el 16 de noviembre de 2026",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "16 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo; conviene confirmarla allí."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
