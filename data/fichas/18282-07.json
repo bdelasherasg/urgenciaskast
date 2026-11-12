@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "boletin": "18282-07",
+  "nivel": "basica",
+  "sintesis": "Aumenta las penas de los adultos que usan a menores de edad para cometer delitos y crea el delito de reclutarlos para asociaciones delictivas o criminales. Está en el Senado, con suma urgencia.",
+  "materia": "la sanción a quienes usan a niños, niñas y adolescentes para cometer delitos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que cada vez más menores de edad participan en delitos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los casos de infractores menores de edad subieron de 20.194 en 2021 a 43.328 en 2025.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen que el artículo 72 del Código Penal genera dudas al castigar al adulto que usa a un menor.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La comisión de la Cámara dice que busca sancionar toda forma de uso de menores para delinquir.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El texto aprobado por la Cámara crea el delito de reclutar a una persona menor de 18 años para una asociación delictiva o criminal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Cambia el artículo 72 del Código Penal. A los adultos se les aplica el grado máximo de la pena, sea cual sea su forma de participación.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Si el menor tiene menos de 14 años, la pena sube un grado.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "También sube un grado si el adulto se aprovecha de la vulnerabilidad, la dependencia o el parentesco con un menor de 14 a 17 años.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los adultos que cometen delitos con menores de edad o que los reclutan.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión dice que busca perseguir sobre todo a los adultos y las organizaciones criminales.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Un informe financiero del 19 de octubre de 2026 dice que las indicaciones del Ejecutivo no irrogan mayor gasto fiscal.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 4 de noviembre de 2026 y lo envió al Senado.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre el Senado le dio cuenta y lo envió a su Comisión de Constitución, Legislación, Justicia y Reglamento.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Ese día se renovó la urgencia suma.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18960&tipodoc=mensaje_mocion",
+      "fecha": "2026-05-15",
+      "nota": "Texto de la moción y sus fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28353&tipodoc=info",
+      "fecha": "2026-10-23",
+      "nota": "Idea matriz y contenido aprobado en la comisión de la Cámara."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° ",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37403&tipodoc=ofic",
+      "fecha": "2026-11-04",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 194-374: Indicación Ejecutivo, N° 194-374",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37318&tipodoc=ofic",
+      "fecha": "2026-10-19",
+      "nota": "Informe financiero de Hacienda sobre las indicaciones del Ejecutivo."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 18282-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18282",
+      "fecha": "2026-11-12",
+      "nota": "Etapas, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
