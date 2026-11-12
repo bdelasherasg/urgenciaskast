@@ -1,116 +1,137 @@
 {
   "version": 2,
   "boletin": "17800-11",
-  "nivel": "completa",
-  "sintesis": "Cambia el Código Sanitario en la rotulación y el etiquetado del jurel. Es una moción en primer trámite en la Cámara de Diputados, en la Comisión de Salud.",
-  "materia": "la rotulación y el etiquetado del jurel",
+  "nivel": "basica",
+  "sintesis": "Agrega al Código Sanitario reglas para que solo la especie jurel se venda con ese nombre y su envase informe especie y origen. Está en la Comisión de Salud de la Cámara.",
+  "materia": "el etiquetado del jurel",
   "resumen": {
     "problema": [
       {
-        "texto": "Según la nota de prensa, a fines de julio de 2025 un gremio de pescadores denunció que cuatro marcas vendían como jurel un producto distinto.",
+        "texto": "La moción dice que se vendieron conservas llamadas «jurel» que contenían otras especies, importadas de China.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       },
       {
-        "texto": "La Seremi de Salud confirmó que era caballa y ordenó retirar las latas y corregir la rotulación.",
+        "texto": "Cita reportes públicos de 30 millones de conservas a la venta.",
         "fuentes": [
-          "f2"
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que hacen falta reglas de etiquetado para prevenir fraudes alimentarios.",
+        "fuentes": [
+          "f1"
         ]
       }
     ],
     "propone": [
       {
-        "texto": "El proyecto modifica el Código Sanitario en la rotulación y el etiquetado del jurel.",
+        "texto": "Agrega un párrafo sobre el jurel al Código Sanitario.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "Según su autora, la diputada Marlene Pérez, obliga a informar en el envase el país de origen y el nombre científico y común.",
+        "texto": "Solo podría venderse como «jurel» la especie trachurus murphyi.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Según la autora, ratifica que solo puede venderse como jurel la especie que corresponde.",
+        "texto": "Los envases de jurel deberían llevar al frente el nombre común y el científico de la especie.",
         "fuentes": [
-          "f2"
+          "f1"
+        ]
+      },
+      {
+        "texto": "También el país de origen con su bandera y, si es importado, el nombre y domicilio del importador.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un reglamento fijaría la forma y el tamaño de la etiqueta, dentro de seis meses desde la publicación de la ley.",
+        "fuentes": [
+          "f1"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Según la nota, se refiere a las marcas que venden jurel en conserva.",
+        "texto": "Afectaría a quienes vendan jurel al público, en conserva, fresco, congelado u otra forma.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "No se revisó el informe financiero; el costo queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f5"
+        ]
       }
     ],
     "estado": [
       {
-        "texto": "Ingresó el 20 de agosto de 2025 como moción.",
+        "texto": "Es una moción de la diputada Marlene Pérez, en primer trámite en la Cámara, en la Comisión de Salud.",
         "fuentes": [
-          "f1"
+          "f1",
+          "f5"
         ]
       },
       {
-        "texto": "El 2 de septiembre de 2025 pasó a la Comisión de Salud.",
+        "texto": "El 20 de octubre de 2026 la Comisión de Salud lo trató y quedó pendiente.",
         "fuentes": [
-          "f1"
+          "f4"
         ]
       },
       {
-        "texto": "La Sala acordó enviarlo después a la Comisión de Pesca, Acuicultura e Intereses Marítimos.",
+        "texto": "Está citada el 17 de noviembre de 2026 para continuar la discusión.",
         "fuentes": [
-          "f1"
-        ]
-      },
-      {
-        "texto": "Sigue en primer trámite en la Cámara de Diputados y no tiene urgencia.",
-        "fuentes": [
-          "f1"
+          "a1"
         ]
       }
     ]
   },
   "posiciones": [],
-  "posiciones_sin_registro": "No encontramos declaraciones de organizaciones sobre este proyecto en las fuentes guardadas.",
-  "encuadre": {
-    "intro": "Encuadre pendiente: las fuentes guardadas no traen notas de prensa suficientes para comparar la forma en que cada lado presenta el tema.",
-    "marcos": [],
-    "disputa": {
-      "palabra": "",
-      "oraciones": []
-    }
-  },
+  "posiciones_sin_registro": "",
+  "encuadre": {},
   "fuentes": [
     {
       "id": "f1",
-      "titulo": "Senado, Portal Legislativo, ficha de tramitación del boletín 17800-11",
-      "url": "https://portallegislativo.senado.cl/detalle-proyectos-ley/18452",
-      "fecha": "Consulta del 31 de octubre de 2026",
-      "nota": "Etapa, comisiones y fechas de tramitación."
+      "titulo": "Moción de la diputada Marlene Pérez, rotulación y etiquetado del jurel (20 de agosto de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18452&tipodoc=mensaje_mocion",
+      "fecha": "20 de agosto de 2025",
+      "nota": "Fundamentos y texto del proyecto."
     },
     {
-      "id": "f2",
-      "titulo": "Presentan proyecto de ley que obliga a informar el país de origen en los envases de conservas",
-      "url": "https://www.radioagricultura.cl/noticias/nacional/presentan-proyecto-de-ley-que-obliga-a-informar-el-pais-de-origen-en-los-envases-de-conservas_20250830/",
-      "fecha": "2025-08-30",
-      "nota": "Motivo del proyecto y datos que indica su autora. La nota no cita el número de boletín."
+      "id": "f4",
+      "titulo": "Resultados de sesiones de comisiones de la Cámara (20 de octubre de 2026)",
+      "url": "https://www.camara.cl/",
+      "fecha": "20 de octubre de 2026",
+      "nota": "Sesión de la Comisión de Salud."
+    },
+    {
+      "id": "f5",
+      "titulo": "Senado, tramitación del boletín 17.800-11",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17800",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, trámites y urgencias."
+    },
+    {
+      "id": "a1",
+      "titulo": "Cámara de Diputadas y Diputados, citaciones de comisiones",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "11 de noviembre de 2026",
+      "nota": "Sesión citada para el 17 de noviembre de 2026."
     }
   ],
-  "consultado": "2026-10-31",
-  "publicado": "2026-11-01",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-01 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
