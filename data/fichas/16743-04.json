@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "16743-04",
   "nivel": "basica",
-  "sintesis": "Facilita crear colegios que reciben subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. La Cámara lo modificó; el Senado revisa los cambios.",
+  "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
   "materia": "la creación de nuevos establecimientos educacionales con subvención",
   "resumen": {
     "problema": [
@@ -71,20 +71,19 @@
         ]
       },
       {
-        "texto": "El Senado las revisa en tercer trámite.",
+        "texto": "El 11 de noviembre de 2026 el Senado aprobó esas enmiendas, salvo una que rechazó.",
         "fuentes": [
-          "f13"
+          "f14"
         ]
       },
       {
-        "texto": "Las comisiones de Educación y de Hacienda informaron el 11 de agosto.",
+        "texto": "Por esa diferencia corresponde formar una comisión mixta, que propone cómo resolverla.",
         "fuentes": [
-          "f2",
-          "f3"
+          "f14"
         ]
       },
       {
-        "texto": "Tiene discusión inmediata desde el 21 de octubre.",
+        "texto": "Tiene discusión inmediata desde el 21 de octubre de 2026.",
         "fuentes": [
           "f13"
         ]
@@ -143,10 +142,17 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16743",
       "fecha": "2026-11-10",
       "nota": "Etapa y urgencias."
+    },
+    {
+      "id": "f14",
+      "titulo": "Oficio 374/SEC/26 del Senado a la Cámara con el resultado de la votación (11 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37442&tipodoc=ofic",
+      "fecha": "2026-11-11",
+      "nota": "Enmiendas aprobadas y rechazada; comisión mixta."
     }
   ],
-  "consultado": "2026-11-10",
-  "publicado": "2026-11-10",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
