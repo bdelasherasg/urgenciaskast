@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-12T03:47-03:00",
+ "actualizado": "2026-11-12T08:11-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -224,7 +224,7 @@
     {
      "boletin": "18730-29",
      "titulo": "Modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional",
-     "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, en la Comisión de Deportes y Recreación.",
+     "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, con urgencia simple.",
      "url": "https://urgenciaskast.cl/p/18730-29.html"
     }
    ]
@@ -258,13 +258,19 @@
     {
      "boletin": "18530-02",
      "titulo": "Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado",
-     "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados.",
+     "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados, con urgencia simple.",
      "url": "https://urgenciaskast.cl/p/18530-02.html"
     }
    ]
   }
  ],
  "fichas_recientes": [
+  {
+   "boletin": "12213-07",
+   "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
+   "publicado": "2026-11-12",
+   "url": "https://urgenciaskast.cl/p/12213-07.html"
+  },
   {
    "boletin": "12712-24",
    "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
@@ -294,12 +300,6 @@
    "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
    "publicado": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/15047-11.html"
-  },
-  {
-   "boletin": "15261-25",
-   "sintesis": "Castiga con cárcel o multa el ingreso clandestino al país por pasos no habilitados. La Cámara lo aprobó en 2024. Está en el Senado, que lo aprobó en general en mayo de 2026.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/15261-25.html"
   }
  ],
  "analisis": [

@@ -6,6 +6,13 @@
   "materia": "la creación del contrato por horas",
   "revision": "pendiente"
  },
+ "12213-07": {
+  "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el control judicial de la ejecución de las penas y los nuevos juzgados de ejecución",
+  "revision": "pendiente"
+ },
  "12712-24": {
   "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
   "nivel": "basica",
@@ -76,6 +83,13 @@
   "materia": "la reforma de la ley de responsabilidad penal adolescente",
   "revision": "pendiente"
  },
+ "15767-29": {
+  "sintesis": "Deroga la ley que somete las artes marciales al control de la Dirección General de Movilización Nacional y las incorpora a la ley del Deporte. Está en el Senado, en discusión particular, con suma urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la derogación de la ley de control de las artes marciales",
+  "revision": "pendiente"
+ },
  "15805-07": {
   "sintesis": "Fija por ley principios y deberes para el uso de la fuerza por policías y Fuerzas Armadas. El Congreso lo despachó el 9 de octubre y el Tribunal Constitucional declaró inadmisible un requerimiento.",
   "nivel": "basica",
@@ -95,6 +109,13 @@
   "nivel": "basica",
   "publicado": "2026-11-11",
   "materia": "la protección de la infraestructura crítica",
+  "revision": "pendiente"
+ },
+ "16248-29": {
+  "sintesis": "Deroga la ley que somete las artes marciales al control de la Dirección General de Movilización Nacional y las incorpora a la Ley del Deporte. Está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "las artes marciales y la Ley del Deporte",
   "revision": "pendiente"
  },
  "16300-07": {
@@ -139,6 +160,20 @@
   "materia": "la reforma de las expulsiones administrativas de extranjeros",
   "revision": "pendiente"
  },
+ "17111-07": {
+  "sintesis": "Exige que los abogados de imputados por delitos de drogas y otros delitos graves cobren sin dinero en efectivo y acrediten el pago ante el tribunal. Está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el origen del dinero que paga los honorarios de abogados defensores y la caución",
+  "revision": "pendiente"
+ },
+ "17125-25": {
+  "sintesis": "Obliga a los abogados de imputados por tráfico de drogas y otros delitos a cobrar sus honorarios sin efectivo y a acreditar el pago. Está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el origen lícito de los honorarios de los abogados defensores",
+  "revision": "pendiente"
+ },
  "17163-03": {
   "sintesis": "Exige a los prestadores de turismo aventura un sello de registro y un certificado de seguridad emitido por una entidad autorizada. Está en el Senado, en segundo trámite, con urgencia suma.",
   "nivel": "basica",
@@ -151,6 +186,13 @@
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "las penas por delitos contra productos, insumos y maquinaria agrícola",
+  "revision": "pendiente"
+ },
+ "17486-07": {
+  "sintesis": "Crea penas más altas para el robo, el hurto y la receptación de productos, insumos o maquinaria agrícola. Fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el robo de productos, insumos y maquinaria agrícola",
   "revision": "pendiente"
  },
  "17567-11": {
@@ -202,6 +244,13 @@
   "materia": "las radios comunitarias",
   "revision": "pendiente"
  },
+ "18029-17": {
+  "sintesis": "Crea un sistema para reconocer, calificar y reparar a las víctimas de la violencia del conflicto intercultural y territorial en cuatro regiones del sur. Está en primer trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "Reparación a víctimas de la violencia en la macrozona sur",
+  "revision": "pendiente"
+ },
  "18155-25": {
   "sintesis": "Sube las penas de delitos contra la comunidad educativa y de delitos contra la propiedad en colegios. La Cámara lo aprobó; ahora lo revisa la Comisión de Constitución del Senado.",
   "nivel": "completa",
@@ -219,7 +268,7 @@
  "18211-25": {
   "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "materia": "los delitos cometidos con el rostro cubierto en reuniones públicas",
   "revision": "pendiente"
  },
@@ -237,10 +286,17 @@
   "materia": "la protección de niñas, niños y adolescentes en redes sociales",
   "revision": "pendiente"
  },
+ "18236-18": {
+  "sintesis": "Permite que las víctimas de violencia intrafamiliar declaren a distancia, evita su contacto con el agresor en los tribunales y facilita notificar medidas cautelares. Está en segundo trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "Protección de víctimas de violencia intrafamiliar",
+  "revision": "pendiente"
+ },
  "18239-36": {
   "sintesis": "Crea un procedimiento especial y sanciones para declarar falsas ciertas denuncias y querellas, en causas de familia y delitos sexuales. Está en el Senado, con discusión inmediata.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "materia": "las sanciones a las denuncias y querellas falsas",
   "revision": "pendiente"
  },
@@ -272,11 +328,32 @@
   "materia": "la declaración de aportes del extranjero a organizaciones sin fines de lucro",
   "revision": "pendiente"
  },
+ "18282-07": {
+  "sintesis": "Aumenta las penas de los adultos que usan a menores de edad para cometer delitos y crea el delito de reclutarlos para asociaciones delictivas o criminales. Está en el Senado, con suma urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la sanción a quienes usan a niños, niñas y adolescentes para cometer delitos",
+  "revision": "pendiente"
+ },
+ "18286-03": {
+  "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con suma urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la firma electrónica avanzada y los documentos electrónicos",
+  "revision": "pendiente"
+ },
  "18314-07": {
   "sintesis": "Reforma la Constitución para que la ley fije entre cinco y sesenta días la detención de extranjeros con expulsión administrativa. La Cámara la rechazó y el gobierno insiste en el Senado.",
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "la detención de extranjeros para ejecutar expulsiones administrativas",
+  "revision": "pendiente"
+ },
+ "18315-07": {
+  "sintesis": "Castiga el tráfico de migrantes cuando facilita la salida ilegal del país y crea un delito por trasladar dentro del país a extranjeros en situación irregular. Está en el Senado, con suma urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la ampliación del delito de tráfico de migrantes",
   "revision": "pendiente"
  },
  "18318-19": {
@@ -314,6 +391,20 @@
   "materia": "el régimen de exclusiva confianza en la Contraloría",
   "revision": "pendiente"
  },
+ "18389-04": {
+  "sintesis": "Permite que los colegios con más postulantes que cupos elijan a sus alumnos con entrevistas y otros criterios, en vez del azar. Está en el Senado, en discusión general, con suma urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el mecanismo de elección mutua en la admisión escolar",
+  "revision": "pendiente"
+ },
+ "18414-18": {
+  "sintesis": "Facilita notificar las medidas cautelares de alejamiento en casos de violencia intrafamiliar, incluso por correo electrónico. Se tramita junto con el boletín 18236-18 y está en segundo trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "Notificación de medidas cautelares en violencia intrafamiliar",
+  "revision": "pendiente"
+ },
  "18415-18": {
   "sintesis": "Agrega a la ley marco de ciberseguridad dos principios para proteger a niños, niñas y adolescentes en internet, entre ellos la restricción de edad en redes sociales. Está en primer trámite en la Cámara.",
   "nivel": "basica",
@@ -326,6 +417,20 @@
   "nivel": "basica",
   "publicado": "2026-11-11",
   "materia": "la seguridad portuaria frente al crimen organizado",
+  "revision": "pendiente"
+ },
+ "18427-07": {
+  "sintesis": "Reforma la Constitución para endurecer los requisitos de las acusaciones constitucionales: más diputados patrocinantes, citación previa a los ministros y mayoría de los diputados en ejercicio. Está en primer trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "Requisitos de las acusaciones constitucionales",
+  "revision": "pendiente"
+ },
+ "18434-07": {
+  "sintesis": "Crea delitos para sancionar a quienes explotan, facilitan o publicitan los servicios sexuales de otras personas adultas. Está en primer trámite en la Cámara de Diputados.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "Sanción de la explotación del comercio sexual de terceros",
   "revision": "pendiente"
  },
  "18436-15": {
@@ -359,7 +464,7 @@
  "18478-13": {
   "sintesis": "Amplía los plazos para distribuir la jornada de trabajo y crea un régimen especial para el turismo. Está en primer trámite en la Cámara, con urgencia suma.",
   "nivel": "basica",
-  "publicado": "2026-11-11",
+  "publicado": "2026-11-12",
   "materia": "la adaptabilidad de la jornada de trabajo y el régimen del turismo",
   "revision": "pendiente"
  },
@@ -378,7 +483,7 @@
   "revision": "pendiente"
  },
  "18530-02": {
-  "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados.",
+  "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados, con urgencia simple.",
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "los delitos de espionaje y la protección de información estratégica del Estado",
@@ -389,6 +494,34 @@
   "nivel": "basica",
   "publicado": "2026-11-10",
   "materia": "el calendario de instalación de los servicios locales de educación pública",
+  "revision": "pendiente"
+ },
+ "18576-06": {
+  "sintesis": "Amplía de dos a tres años la vigencia de las patentes municipales provisorias y de uno a dos años su extensión, para evitar el cierre de negocios en trámite de permisos. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el plazo de las patentes municipales provisorias",
+  "revision": "pendiente"
+ },
+ "18584-25": {
+  "sintesis": "Amplía el delito de interrumpir u obstaculizar la circulación y los servicios de transporte, que hoy se limita a la vía pública. Está en segundo trámite en el Senado, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la ampliación del delito de interrupción u obstaculización de la circulación y del transporte",
+  "revision": "pendiente"
+ },
+ "18585-25": {
+  "sintesis": "Permite que Carabineros y la Policía de Investigaciones cotejen huellas genéticas con los registros de ADN, función que hoy es exclusiva del Servicio Médico Legal. El Senado lo aprobó en general.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el cotejo de huellas genéticas por Carabineros y la Policía de Investigaciones",
+  "revision": "pendiente"
+ },
+ "18590-07": {
+  "sintesis": "Modifica el Código Penal para castigar más a los adultos que usan a menores de edad para delinquir y crea el delito de reclutarlos para asociaciones criminales. Está en segundo trámite, en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "el castigo a quienes utilizan a menores de edad para cometer delitos",
   "revision": "pendiente"
  },
  "18621-34": {
@@ -415,12 +548,19 @@
  "18643-05": {
   "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "materia": "la reforma al mercado de capitales y el financiamiento de la casa propia",
   "revision": "pendiente"
  },
+ "18644-14": {
+  "sintesis": "Incluye las obras de Bomberos en la excepción de permisos municipales para facilitar la construcción de cuarteles y abre un plazo hasta 2029 para regularizar los existentes. Está en segundo trámite, en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la construcción y regularización de cuarteles de Bomberos",
+  "revision": "pendiente"
+ },
  "18680-15": {
-  "sintesis": "Sanciona como infracción gravísima conducir un vehículo con el escape o el convertidor catalítico alterado o retirado. Está en primer trámite en la Cámara de Diputados, refundido con otras dos mociones.",
+  "sintesis": "Sanciona como infracción gravísima conducir un vehículo con el escape o el convertidor catalítico alterado o retirado. Está en primer trámite en la Cámara de Diputados, refundido con otras dos mociones, con urgencia simple.",
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "la sanción por alterar el escape y las emisiones de los vehículos",
@@ -448,7 +588,7 @@
   "revision": "pendiente"
  },
  "18730-29": {
-  "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, en la Comisión de Deportes y Recreación.",
+  "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, con urgencia simple.",
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "el contrato de trabajo de deportistas profesionales de disciplinas distintas del fútbol",
@@ -461,24 +601,38 @@
   "materia": "la prohibición de circular con tronadores y otras modificaciones que aumentan el ruido",
   "revision": "pendiente"
  },
+ "18754-17": {
+  "sintesis": "Reforma el Instituto Nacional de Derechos Humanos: reduce su Consejo de 11 a 5 miembros, crea una Dirección Ejecutiva y elimina su facultad de presentar querellas. Está en primer trámite en la Cámara, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la reforma del Instituto Nacional de Derechos Humanos",
+  "revision": "pendiente"
+ },
  "18779-07": {
   "sintesis": "Interpreta que la exclusión de la rebaja de condena por delitos sexuales contra menores rige desde 2022 y elimina una excepción para delitos futuros. Está en el Senado, con discusión inmediata.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "materia": "la exclusión de la rebaja de condena por delitos sexuales contra menores",
   "revision": "pendiente"
  },
  "18788-07": {
-  "sintesis": "Reforma constitucional que aplica a los beneficios de condenados por delitos sexuales la ley vigente al decidirlos. Está en la Comisión de Constitución de la Cámara, con discusión inmediata.",
-  "nivel": "completa",
-  "publicado": "2026-10-30",
+  "sintesis": "Reforma la Constitución para que los beneficios de reducción de condena de los condenados por delitos sexuales se rijan por la ley vigente al resolverlos. Está en la Comisión de Constitución de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
   "materia": "la reforma constitucional sobre beneficios penales en delitos sexuales",
+  "revision": "pendiente"
+ },
+ "18803-13": {
+  "sintesis": "Amplía el seguro Ley Sanna, que da permiso y subsidio a quienes acompañan a un niño con una condición grave de salud. Está en primer trámite en la Cámara, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-12",
+  "materia": "la ampliación del seguro Ley Sanna para acompañar a niños y niñas con enfermedades graves",
   "revision": "pendiente"
  },
  "18804-07": {
   "sintesis": "Declara que la exclusión de la rebaja de condena se aplica según la ley vigente al calificar, sin importar la fecha del delito. Está en el Senado, con discusión inmediata.",
   "nivel": "basica",
-  "publicado": "2026-11-10",
+  "publicado": "2026-11-12",
   "materia": "la aplicación en el tiempo de la exclusión de la rebaja de condena",
   "revision": "pendiente"
  },
