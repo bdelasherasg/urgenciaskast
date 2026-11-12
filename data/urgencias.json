@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T12:45-03:00",
+ "actualizado": "2026-11-12T13:05-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -3851,7 +3851,7 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
-   "etapa": "Primer trámite constitucional (Senado)",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
    "subetapa": "Discusión general",
    "estado": "En tramitación",
    "urgencias": [
@@ -4024,15 +4024,15 @@
     },
     {
      "fecha": "2026-11-10",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
+     "descripcion": "Cuenta de primer informe de comisión .  (Constitución). Pasa a Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
     },
     {
      "fecha": "2026-11-11",
      "descripcion": "Cuenta del Mensaje 459-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -4043,7 +4043,7 @@
    "renovaciones": 7,
    "cambios_tipo": 1,
    "urgencias_gobierno": 9,
-   "camara_actual": "Senado",
+   "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Discusión inmediata",
     "desde": "2026-11-11",
@@ -5018,6 +5018,66 @@
     "mixta": false
    },
    "dias_tramite": 15
+  },
+  {
+   "boletin": "18885-05",
+   "titulo": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diesel, y aliviar la carga financiera de las empresas de transporte de carga",
+   "fecha_ingreso": "2026-11-12",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Discusión inmediata",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Hacienda",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-11-12",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "462-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-11-12",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-12",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-12",
+     "descripcion": "Cuenta del Mensaje 462-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18885-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18885-05",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19564&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Discusión inmediata",
+    "desde": "2026-11-12",
+    "vence": "2026-11-18",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 6,
+    "oficio": "462-374",
+    "mixta": false
+   },
+   "dias_tramite": 0
   },
   {
    "boletin": "18788-07",
