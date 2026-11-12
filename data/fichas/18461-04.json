@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "boletin": "18461-04",
+  "nivel": "basica",
+  "sintesis": "Regula quién puede ser apoderado en los colegios, su orden de prioridad, un límite de estudiantes por apoderado y la forma de delegar. Es una moción en primer trámite en la Cámara, sin urgencia.",
+  "materia": "la regulación de los apoderados en el sistema escolar",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que muchos padres no pueden ir al colegio y delegan su rol en terceros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que no hay una regla específica y que los colegios dudan si notificar a ese apoderado vale como notificar a los padres.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Define al apoderado y fija un orden: primero el padre, la madre o quien tenga el cuidado personal, luego los tutores y luego parientes hasta el tercer grado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un adulto sin parentesco podría serlo solo con autorización expresa de los padres.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Nadie podría ser apoderado de más de tres estudiantes de distintas familias, salvo excepciones que resuelve la dirección del colegio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se prohibiría ser apoderado, sin parentesco, a quienes ocupan cargos de elección popular.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La delegación exigiría un poder ante notario o con firma electrónica avanzada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quienes hoy son apoderados sin cumplir los requisitos tendrían seis meses para regularizarse.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los apoderados, a los padres y a los establecimientos educacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Ingresó el 7 de julio de 2026 y el 14 de julio pasó a la Comisión de Educación, en primer trámite, sin urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Esa comisión lo tiene citado el 17 de noviembre de 2026 para iniciar la votación en particular.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N°20.370, general de educación, para regular a los apoderados en el sistema educacional chileno",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19134&tipodoc=mensaje_mocion",
+      "fecha": "7 de julio de 2026",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18461-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18461",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, comisión, urgencia y fechas."
+    },
+    {
+      "id": "f3",
+      "titulo": "Citación de la Comisión de Educación de la Cámara para el 17 de noviembre de 2026",
+      "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Citación copiada de camara.cl por el equipo; conviene confirmarla allí."
+    }
+  ],
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
