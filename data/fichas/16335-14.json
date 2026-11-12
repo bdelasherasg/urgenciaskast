@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "16335-14",
   "nivel": "basica",
-  "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara aprobó el informe de la comisión mixta; el Senado debe votarlo.",
+  "sintesis": "Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara y el Senado aprobaron el informe de la comisión mixta.",
   "materia": "la prevención y mitigación de incendios forestales",
   "resumen": {
     "problema": [
@@ -57,9 +57,16 @@
     ],
     "costo": [
       {
-        "texto": "Entre los documentos revisados no se pudo leer un informe financiero actualizado.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Un informe de la Comisión de Hacienda recoge un mayor gasto de $796.366 miles el primer año y de $607.334 miles en régimen, en pesos de 2023.",
+        "fuentes": [
+          "f15"
+        ]
+      },
+      {
+        "texto": "Según el informe N° 288, las indicaciones de 2024 no irrogan mayor gasto.",
+        "fuentes": [
+          "f16"
+        ]
       }
     ],
     "estado": [
@@ -76,7 +83,7 @@
         ]
       },
       {
-        "texto": "Falta que el Senado vote el informe, con discusión inmediata.",
+        "texto": "El Senado lo aprobó el 11 de noviembre y lo comunicó a la Cámara de origen.",
         "fuentes": [
           "f14"
         ]
@@ -114,10 +121,24 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16335",
       "fecha": "2026-11-10",
       "nota": "Etapa y urgencias."
+    },
+    {
+      "id": "f15",
+      "titulo": "Senado, informe de la Comisión de Hacienda, segundo trámite (informe financiero citado, 29 de enero de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26321&tipodoc=info",
+      "fecha": "2024-01-29",
+      "nota": "Gasto fiscal estimado."
+    },
+    {
+      "id": "f16",
+      "titulo": "Informe financiero complementario N° 288 (28 de octubre de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34136&tipodoc=ofic",
+      "fecha": "2024-10-28",
+      "nota": "Indicaciones sin mayor gasto."
     }
   ],
-  "consultado": "2026-11-10",
-  "publicado": "2026-11-10",
+  "consultado": "2026-11-12",
+  "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
