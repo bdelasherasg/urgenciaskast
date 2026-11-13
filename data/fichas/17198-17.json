@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "boletin": "17198-17",
+  "nivel": "basica",
+  "sintesis": "Devuelve la nacionalidad chilena a un hombre que debió renunciar a ella para nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+  "materia": "la rehabilitación de una nacionalidad chilena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción explica que la Constitución exige una ley para recuperar la nacionalidad chilena perdida.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Relata que la persona se fue a Alemania en 2015 y que en 2020 ese país le exigió renunciar a la nacionalidad chilena para darle la alemana.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que desde 2024 Alemania ya no exige renunciar a la nacionalidad de origen.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Concede la rehabilitación de la nacionalidad chilena a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La moción sostiene que la renuncia no fue voluntaria, sino una exigencia legal de Alemania.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es una ley de artículo único, que no modifica otras normas.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Se funda en el artículo 11 de la Constitución, que exige una ley para rehabilitar la nacionalidad.",
+        "fuentes": [
+          "f2",
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta solo a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado y su Comisión de Derechos Humanos lo aprobó por unanimidad.",
+        "fuentes": [
+          "f4",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 11 de noviembre de 2026 el Senado lo aprobó en general y en particular a la vez.",
+        "fuentes": [
+          "f4",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 12 de noviembre de 2026 pasó a la Comisión de Gobierno Interior de la Cámara, en segundo trámite.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Rehabilita la nacionalidad chilena al señor André Améstica Lopes",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17825&tipodoc=mensaje_mocion",
+      "fecha": "2024-10-21",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27270&tipodoc=info",
+      "fecha": "2025-06-04",
+      "nota": "Informe de comisión, con el texto aprobado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 369-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37437&tipodoc=ofic",
+      "fecha": "2026-11-11",
+      "nota": "Oficio de ley a la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 17198-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17198",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
