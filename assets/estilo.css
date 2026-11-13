@@ -711,3 +711,13 @@ body { overflow-x: clip; }
 .partidas a { display: flex; gap: 8px; align-items: baseline; color: var(--tinta); text-decoration: none; font-size: 14.5px; padding: 4px 0; }
 .partidas a:hover { text-decoration: underline; text-decoration-color: var(--dorado); text-underline-offset: 3px; }
 .partidas .bol { font-family: var(--f-etiqueta); font-size: 11.5px; font-weight: 700; color: var(--tinta-suave); min-width: 22px; }
+.tabla-partidas a { display: flex; gap: 8px; align-items: baseline; color: var(--tinta); text-decoration: none; }
+.tabla-partidas a:hover { text-decoration: underline; text-decoration-color: var(--dorado); text-underline-offset: 3px; }
+.tabla-partidas .bol { font-family: var(--f-etiqueta); font-size: 11.5px; font-weight: 700; color: var(--tinta-suave); min-width: 22px; }
+.tabla-partidas td:nth-child(n+2), .tabla-partidas th:nth-child(n+2) { text-align: right; font-variant-numeric: tabular-nums; }
+.tabla-partidas td:nth-child(n+2) { white-space: nowrap; }
+.tabla-caja .tabla-partidas { min-width: 0; width: 100%; font-size: 14px; }
+.tabla-partidas th, .tabla-partidas td { padding-left: 6px; padding-right: 6px; }
+.tabla-partidas .usd { display: block; font-size: 12px; color: var(--tinta-suave); white-space: normal; }
+.tabla-partidas th { letter-spacing: .06em; }
+.tabla-partidas a { hyphens: auto; overflow-wrap: anywhere; }

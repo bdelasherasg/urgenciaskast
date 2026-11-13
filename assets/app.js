@@ -270,7 +270,15 @@
      Una fila por cada cosa que se trata en una sesión de Sala o de comisión, de ambas cámaras, ordenada por la fecha
      y la hora reales. Al final, los proyectos con urgencia vigente que no tienen sesión citada. Los vencimientos de
      urgencia no ordenan la tabla. Los filtros quedan en la dirección de la página, para compartir una vista. */
-  var VOTACIONES = [], ESPECIALES = {};
+  var VOTACIONES = [], ESPECIALES = {}, LEYES_PRESUPUESTO = {};
+  // Montos de data/presupuesto_vigente.json, que vienen en miles de pesos o de dólares.
+  function pesosMiles(m) {
+    var p = (m || 0) * 1000, a = Math.abs(p);
+    if (a >= 1e12) return '$' + (p / 1e12).toFixed(2).replace('.', ',') + ' billones';
+    if (a >= 1e9) return '$' + Math.round(p / 1e9).toLocaleString('es-CL') + ' mil millones';
+    return '$' + Math.round(p / 1e6).toLocaleString('es-CL') + ' millones';
+  }
+  function dolaresMiles(m) { return 'US$ ' + Math.round((m || 0) / 1000).toLocaleString('es-CL') + ' millones'; }
   // Plazo de un proyecto que no tiene urgencia sino un plazo fijado por la Constitución (por ejemplo, el Presupuesto).
   function plazoEspecial(b) { var e = ESPECIALES[b]; return e && e.plazo && dias(e.plazo) !== null && dias(e.plazo) >= 0 ? e : null; }
   function urgHTML(f) {
@@ -746,12 +754,34 @@
 
     if (esp && esp.detalle && (esp.partidas || []).length) {
       var dt = esp.detalle, url = function (u) { return /^https:\/\//.test(u || '') ? u : ''; };
+      // Ley de Presupuestos del año anterior por partida (datos abiertos de la Dipres, scripts/presupuesto.py).
+      var annoP = +((String(esp.nombre || '').match(/\b(20\d{2})\b/) || [])[1] || 0), ley = annoP ? LEYES_PRESUPUESTO[annoP - 1] : null;
+      var enlaceP = function (x) { return '<a href="' + esc(url(String(dt.partida || '').replace('{nn}', x[0]))) + '" rel="noopener"><span class="bol">' + esc(x[0]) + '</span>' + esc(x[1]) + '</a>'; };
+      // En la tabla, miles de millones de pesos (cabe en un teléfono); los dólares, debajo y en millones.
+      var montoP = function (m, k) {
+        if (!m) return '—';
+        var mm = m.pesos ? Math.round(m.pesos[k] / 1e6).toLocaleString('es-CL') : '';
+        return mm + (m.dolares && m.dolares[k] ? '<span class="usd">' + (mm ? '+ ' : '') + dolaresMiles(m.dolares[k]) + '</span>' : '');
+      };
+      var tablaLey = ley && ley.partidas ? '<h3>La Ley de Presupuestos ' + esc(ley.anno) + ', partida por partida</h3>' +
+        '<p>Para comparar con el proyecto: lo que aprobó el Congreso para ' + esc(ley.anno) + ' (ley inicial) y lo que rige a ' + esc(ley.mes_corte) +
+        ' de ' + esc(ley.anno) + ' (ley vigente), que suma los cambios del año, como decretos, leyes especiales y recortes.</p>' +
+        '<p class="nota" style="color:var(--tinta-suave)">En miles de millones de pesos de ' + esc(ley.anno) + ' (1.000 equivale a 1 billón). Algunas partidas tienen además gasto en dólares.</p>' +
+        '<div class="tabla-caja"><table class="tabla-partidas"><thead><tr><th>Partida</th><th>Aprobada</th><th>Vigente a ' + esc(ley.mes_corte) + '</th></tr></thead><tbody>' +
+        esp.partidas.map(function (x) {
+          var m = ley.partidas[x[0]];
+          return '<tr><td>' + enlaceP(x) + '</td><td>' + montoP(m, 'inicial') + '</td><td>' + montoP(m, 'vigente') + '</td></tr>';
+        }).join('') +
+        (ley.total ? '<tr><td><b>Total del Gobierno Central</b></td><td><b>' + montoP(ley.total, 'inicial') + '</b></td><td><b>' + montoP(ley.total, 'vigente') + '</b></td></tr>' : '') +
+        '</tbody></table></div>' +
+        '<p class="nota" style="color:var(--tinta-suave)">Montos en pesos y dólares de ' + esc(ley.anno) + ', sin ajustar por inflación: no se restan directamente de las cifras del proyecto. ' +
+        'Cada monto suma los gastos de la partida tal como los publica la Dipres, sin consolidar: la partida Tesoro Público incluye los aportes que financian a las demás, y las transferencias entre servicios se cuentan en ambos. Por eso las partidas no suman el total, y las cifras de ' + esc(dt.sitio) + ', que sí consolidan, son menores. ' +
+        'Fuente: <a href="' + esc(url(ley.fuente && ley.fuente.url)) + '" rel="noopener">' + esc(ley.fuente && ley.fuente.titulo) + '</a>' +
+        (ley.fuente && ley.fuente.publicado ? ', publicado el ' + esc(fCorta(ley.fuente.publicado)) : '') + '.</p>' : '';
       bloque('partidas', 'El detalle, partida por partida', '<article class="tarjeta" id="partidas" aria-labelledby="h-partidas"><div class="tarjeta-cuerpo">' +
         '<p class="num-bloque">Bloque {{N}}</p><h2 id="h-partidas">El detalle, partida por partida</h2>' +
         '<p>Cuánto propone gastar cada ministerio, cuánto cambia respecto de la ley vigente y qué se votó en cada partida, hasta la última línea, en <a href="' + esc(url(dt.url)) + '" rel="noopener">' + esc(dt.sitio) + '</a>.</p>' +
-        '<ul class="partidas">' + esp.partidas.map(function (x) {
-          return '<li><a href="' + esc(url(String(dt.partida || '').replace('{nn}', x[0]))) + '" rel="noopener"><span class="bol">' + esc(x[0]) + '</span>' + esc(x[1]) + '</a></li>';
-        }).join('') + '</ul>' +
+        (tablaLey || '<ul class="partidas">' + esp.partidas.map(function (x) { return '<li>' + enlaceP(x) + '</li>'; }).join('') + '</ul>') +
         '<p class="acciones-texto">' + (url(dt.votaciones) ? '<a href="' + esc(dt.votaciones) + '" rel="noopener">Votaciones, partida por partida</a>' : '') +
         (url(dt.indicaciones) ? ' · <a href="' + esc(dt.indicaciones) + '" rel="noopener">Indicaciones presentadas</a>' : '') + '</p>' +
         '<p class="nota" style="color:var(--tinta-suave)">Detalle elaborado por ' + esc(dt.sitio) + ', un proyecto independiente de Urgencias Kast.</p>' +
@@ -1042,11 +1072,13 @@
     if (['portada', 'ficha', 'agenda'].indexOf(pagina) === -1) return;
     Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json'),
       pagina !== 'agenda' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null),
-      pagina === 'portada' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null)]).then(function (r) {
+      pagina === 'portada' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null),
+      pagina === 'ficha' ? cargarOpc('data/presupuesto_vigente.json') : Promise.resolve(null)]).then(function (r) {
       var U = r[0], A = r[1], IDX = r[2] || {};
       RESULTADOS = (r[3] && r[3].resultados) || [];
       VOTACIONES = (r[4] && r[4].votaciones) || [];
       ESPECIALES = (A && A.especiales) || {};
+      LEYES_PRESUPUESTO = (r[5] && r[5].leyes) || {};
       if (pagina === 'portada') { portada(U, A, IDX); loComun(); }
       else if (pagina === 'agenda') agenda(U, A, IDX);
       else ficha(U, A, IDX);

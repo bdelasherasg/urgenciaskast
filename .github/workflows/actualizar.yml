@@ -53,6 +53,12 @@ jobs:
         continue-on-error: true
         run: python -u scripts/actualizar.py || echo "::warning::No se actualizaron las urgencias; se conserva el archivo anterior."
 
+      - name: Ley de Presupuestos vigente (datos abiertos de la Dipres)
+        # Si datos.gob.cl no responde, se conserva data/presupuesto_vigente.json.
+        timeout-minutes: 5
+        continue-on-error: true
+        run: python -u scripts/presupuesto.py
+
       - name: Agenda de dos semanas
         timeout-minutes: 12
         continue-on-error: true

@@ -1,0 +1,272 @@
+{
+ "actualizado": "2026-11-13T19:05+00:00",
+ "leyes": {
+  "2026": {
+   "anno": 2026,
+   "mes_corte": "septiembre",
+   "unidad": "miles de pesos y miles de dólares de cada año",
+   "fuente": {
+    "titulo": "Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular",
+    "url": "https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-septiembre-de-2026-del-gobierno-central-ley-regular",
+    "archivo_partida": "https://datos.gob.cl/dataset/153cadc5-ded3-415a-8493-ae3a789c3d31/resource/ea63239e-9600-4297-821a-c3ae26461e84/download/ley-de-presupuestos-inicial-y-vigente_nivel-partida_a-septiembre-2026.csv",
+    "archivo_nacional": "https://datos.gob.cl/dataset/153cadc5-ded3-415a-8493-ae3a789c3d31/resource/a311ba71-4625-4a1f-83e3-99721355f6a2/download/ley-de-presupuestos-inicial-y-vigente_nivel-nacional_a-septiembre-2026.csv",
+    "publicado": "2026-10-30"
+   },
+   "total": {
+    "dolares": {
+     "inicial": 12368541,
+     "vigente": 12551249
+    },
+    "pesos": {
+     "inicial": 94807997715,
+     "vigente": 96608348300
+    }
+   },
+   "partidas": {
+    "01": {
+     "nombre": "PRESIDENCIA DE LA REPÚBLICA",
+     "pesos": {
+      "inicial": 23551017,
+      "vigente": 23509904
+     }
+    },
+    "02": {
+     "nombre": "CONGRESO NACIONAL",
+     "pesos": {
+      "inicial": 178327476,
+      "vigente": 187999310
+     }
+    },
+    "03": {
+     "nombre": "PODER JUDICIAL",
+     "pesos": {
+      "inicial": 761216544,
+      "vigente": 808376000
+     }
+    },
+    "04": {
+     "nombre": "CONTRALORÍA GENERAL DE LA REPÚBLICA",
+     "pesos": {
+      "inicial": 117176338,
+      "vigente": 123042766
+     }
+    },
+    "05": {
+     "nombre": "MINISTERIO DEL INTERIOR",
+     "pesos": {
+      "inicial": 722959366,
+      "vigente": 1108971151
+     }
+    },
+    "06": {
+     "nombre": "MINISTERIO DE RELACIONES EXTERIORES",
+     "dolares": {
+      "inicial": 211072,
+      "vigente": 201642
+     },
+     "pesos": {
+      "inicial": 107791085,
+      "vigente": 107394121
+     }
+    },
+    "07": {
+     "nombre": "MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO",
+     "pesos": {
+      "inicial": 1619843493,
+      "vigente": 1568547772
+     }
+    },
+    "08": {
+     "nombre": "MINISTERIO DE HACIENDA",
+     "pesos": {
+      "inicial": 784274970,
+      "vigente": 823717432
+     }
+    },
+    "09": {
+     "nombre": "MINISTERIO DE EDUCACIÓN",
+     "pesos": {
+      "inicial": 17482756263,
+      "vigente": 18622831950
+     }
+    },
+    "10": {
+     "nombre": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+     "pesos": {
+      "inicial": 1537414112,
+      "vigente": 1586155985
+     }
+    },
+    "11": {
+     "nombre": "MINISTERIO DE DEFENSA NACIONAL",
+     "dolares": {
+      "inicial": 128796,
+      "vigente": 155352
+     },
+     "pesos": {
+      "inicial": 2241624529,
+      "vigente": 2309539106
+     }
+    },
+    "12": {
+     "nombre": "MINISTERIO DE OBRAS PÚBLICAS",
+     "pesos": {
+      "inicial": 4389970638,
+      "vigente": 4649141647
+     }
+    },
+    "13": {
+     "nombre": "MINISTERIO DE AGRICULTURA",
+     "pesos": {
+      "inicial": 1019695771,
+      "vigente": 1133353056
+     }
+    },
+    "14": {
+     "nombre": "MINISTERIO DE BIENES NACIONALES",
+     "pesos": {
+      "inicial": 61603249,
+      "vigente": 62944817
+     }
+    },
+    "15": {
+     "nombre": "MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL",
+     "pesos": {
+      "inicial": 16875755609,
+      "vigente": 16843517230
+     }
+    },
+    "16": {
+     "nombre": "MINISTERIO DE SALUD",
+     "pesos": {
+      "inicial": 17251054647,
+      "vigente": 18446751923
+     }
+    },
+    "17": {
+     "nombre": "MINISTERIO DE MINERÍA",
+     "pesos": {
+      "inicial": 54782230,
+      "vigente": 58352915
+     }
+    },
+    "18": {
+     "nombre": "MINISTERIO DE VIVIENDA Y URBANISMO",
+     "pesos": {
+      "inicial": 6673426789,
+      "vigente": 6542952616
+     }
+    },
+    "19": {
+     "nombre": "MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES",
+     "pesos": {
+      "inicial": 1872061911,
+      "vigente": 1823675130
+     }
+    },
+    "20": {
+     "nombre": "MINISTERIO SECRETARÍA GENERAL DE GOBIERNO",
+     "pesos": {
+      "inicial": 41049208,
+      "vigente": 40188065
+     }
+    },
+    "21": {
+     "nombre": "MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA",
+     "pesos": {
+      "inicial": 1462658956,
+      "vigente": 1537538305
+     }
+    },
+    "22": {
+     "nombre": "MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA DE LA REPÚBLICA",
+     "pesos": {
+      "inicial": 12399808,
+      "vigente": 12071970
+     }
+    },
+    "23": {
+     "nombre": "MINISTERIO PÚBLICO",
+     "pesos": {
+      "inicial": 295374855,
+      "vigente": 299046323
+     }
+    },
+    "24": {
+     "nombre": "MINISTERIO DE ENERGÍA",
+     "pesos": {
+      "inicial": 155706375,
+      "vigente": 159512904
+     }
+    },
+    "25": {
+     "nombre": "MINISTERIO DEL MEDIO AMBIENTE",
+     "pesos": {
+      "inicial": 96584129,
+      "vigente": 97183484
+     }
+    },
+    "26": {
+     "nombre": "MINISTERIO DEL DEPORTE",
+     "pesos": {
+      "inicial": 191442202,
+      "vigente": 196568836
+     }
+    },
+    "27": {
+     "nombre": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+     "pesos": {
+      "inicial": 91388530,
+      "vigente": 91230312
+     }
+    },
+    "28": {
+     "nombre": "SERVICIO ELECTORAL",
+     "pesos": {
+      "inicial": 39106297,
+      "vigente": 50522357
+     }
+    },
+    "29": {
+     "nombre": "MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO",
+     "pesos": {
+      "inicial": 527326200,
+      "vigente": 496096104
+     }
+    },
+    "30": {
+     "nombre": "MINISTERIO DE CIENCIA, TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN",
+     "pesos": {
+      "inicial": 588755955,
+      "vigente": 607849767
+     }
+    },
+    "31": {
+     "nombre": "FINANCIAMIENTO GOBIERNOS REGIONALES",
+     "pesos": {
+      "inicial": 1900047503,
+      "vigente": 1912565171
+     }
+    },
+    "32": {
+     "nombre": "MINISTERIO DE SEGURIDAD PÚBLICA",
+     "pesos": {
+      "inicial": 2422320865,
+      "vigente": 2454675384
+     }
+    },
+    "50": {
+     "nombre": "TESORO PÚBLICO",
+     "dolares": {
+      "inicial": 12358217,
+      "vigente": 12518342
+     },
+     "pesos": {
+      "inicial": 86762289424,
+      "vigente": 86841804295
+     }
+    }
+   }
+  }
+ }
+}
