@@ -138,7 +138,7 @@
     var di = vigentes.filter(function (p) { return p.urgencia_vigente.tipo === 'Discusión inmediata'; });
     var semana = vigentes.filter(function (p) { return dias(p.urgencia_vigente.vence) <= 7; });
     var limite = isoDe(new Date(hoy().getTime() + 6 * DIA));
-    var citas = A ? (A.sesiones || []).filter(function (s) { return s.estado !== 'sin efecto' && s.boletines && s.boletines.length && s.fecha <= limite; }) : [];
+    var citas = A ? (A.sesiones || []).filter(function (s) { return s.estado !== 'sin efecto' && s.fecha >= isoDe(hoy()) && s.fecha <= limite; }) : [];
 
     if (U.actualizado) {
       var d = new Date(U.actualizado);
@@ -148,7 +148,7 @@
       [vigentes.length, 'Proyectos con ' + t('urgencia') + ' vigente', 'Los que el gobierno apura hoy: una cámara debe despacharlos dentro de un plazo.'],
       [di.length, 'Con ' + t('discusion', 'discusión inmediata'), 'El plazo más corto, seis días. Es la máxima prioridad del gobierno.'],
       [semana.length, 'Plazos que vencen en 7 días', 'Proyectos que esta semana deberían votarse o recibir una nueva urgencia.'],
-      (A && Object.keys(A.fuentes || {}).some(function (k) { return A.fuentes[k].estado === 'ok'; })) ? [citas.length, 'Sesiones de comisión citadas en 7 días', 'Citaciones publicadas por el Senado y la Cámara que tratan proyectos de ley.']
+      (A && Object.keys(A.fuentes || {}).some(function (k) { return A.fuentes[k].estado === 'ok'; })) ? [citas.length, 'Sesiones de Sala y comisión en 7 días', 'Citadas por el Senado y la Cámara, con proyectos de ley, audiencias y comisiones investigadoras.']
         : [ps.filter(function (p) { return p.urgencia_vigente && p.urgencia_vigente.estado === 'en_espera'; }).length, 'Proyectos en espera en la otra cámara', 'Pasaron de cámara y esperan que allí se dé cuenta de una urgencia.']
     ];
     $('#cifras').innerHTML = cifras.map(function (c) {
@@ -173,139 +173,241 @@
       tic(); setInterval(tic, 1000);
     } else if (caja) { caja.hidden = true; }
 
-    tablaProyectos(U, A, IDX);
+    tablaActividad(U, A, IDX);
   }
 
-  // Tabla principal: todo proyecto con urgencia vigente o en la agenda de las próximas dos semanas.
-  function filasProyectos(U, A, IDX) {
-    var hoyIso = isoDe(hoy()), filas = {}, orden = [];
-    function fila(b) {
-      if (!filas[b]) {
-        var p = buscar(b, U, A);
-        filas[b] = { b: b, p: p, sesiones: [], probable: null, i: IDX && IDX[b] };
-        orden.push(b);
-      }
-      return filas[b];
+  /* ---------- tabla de actividad de la portada ----------
+     Una fila por cada cosa que se trata en una sesión de Sala o de comisión, de ambas cámaras, ordenada por la fecha
+     y la hora reales. Al final, los proyectos con urgencia vigente que no tienen sesión citada. Los vencimientos de
+     urgencia no ordenan la tabla. Los filtros quedan en la dirección de la página, para compartir una vista. */
+  var VOTACIONES = [], ESPECIALES = {};
+  // Plazo de un proyecto que no tiene urgencia sino un plazo fijado por la Constitución (por ejemplo, el Presupuesto).
+  function plazoEspecial(b) { var e = ESPECIALES[b]; return e && e.plazo && dias(e.plazo) !== null && dias(e.plazo) >= 0 ? e : null; }
+  function urgHTML(f) {
+    var p = f.p || {}, v = p.urgencia_vigente || {};
+    if (f.activa) { var e = estadoUrg(p); return chipUrg(v.tipo, true) + '<span class="vence' + (e.pronto ? ' pronto' : '') + '">' + esc(e.corto) + '</span>'; }
+    var pe = f.b && plazoEspecial(f.b);
+    if (pe) {
+      var n = dias(pe.plazo);
+      return '<span class="chip chip-claro" title="' + esc(pe.plazo_fuente || '') + '">Plazo constitucional</span><span class="vence' + (n <= 3 ? ' pronto' : '') + '">' +
+        (n === 0 ? 'Vence hoy' : (n === 1 ? 'Vence mañana' : 'Vence en ' + n + ' días')) + ' · ' + esc(fCorta(pe.plazo)) + '</span>';
     }
-    (U.proyectos || []).forEach(function (p) { fila(p.boletin); });
-    if (A) {
-      (A.sesiones || []).forEach(function (s) {
-        if (s.estado === 'sin efecto' || s.fecha < hoyIso) return;
-        (s.boletines || []).forEach(function (b) { fila(b).sesiones.push(s); });
-      });
-      (A.probables || []).forEach(function (pr) { fila(pr.boletin).probable = pr; });
+    if (v.tipo && (v.estado === 'vigente' || v.estado === 'vencida' || v.estado === 'en_espera')) return '<span class="sin-urg">' + esc(estadoUrg(p).corto) + '</span>';
+    return f.b ? '<span class="sin-urg">Sin urgencia</span>' : '';
+  }
+  function fichaHTML(f) {
+    if (!f.b || !f.conPagina) return '';
+    var rev = f.i && f.i.revision === 'pendiente' ? '<span class="en-revision">en revisión</span>' : '';
+    var et = f.i && f.i.nivel === 'completa' ? '<span class="et-ficha et-completa">Análisis</span>' : (f.i ? '<span class="et-ficha">Resumen</span>' : '<span class="et-ficha et-datos">Datos</span>');
+    return et + rev + '<span class="flecha" aria-hidden="true">→</span>';
+  }
+  // «Comisión de Hacienda» → «Hacienda»; «Comisión Especial Investigadora (CEI 12) …» → «Investigadora CEI 12».
+  function organoCorto(s) {
+    if (s.tipo === 'sala') return 'Sala';
+    var o = String(s.organo || '');
+    var cei = /\(CEI\s*(\d+)\)/.exec(o);
+    if (cei) return 'Investigadora CEI ' + cei[1];
+    return recortar(o.replace(/^Comisi[oó]n\s+(de\s+la\s+|del\s+|de\s+)?/i, '').split(/\s+-{1,2}\s+|\s+–\s+/)[0].replace(/^./, function (c) { return c.toUpperCase(); }), 70);
+  }
+  function cuandoTxt(fechaIso, hora) {
+    var n = dias(fechaIso), d = fecha(fechaIso);
+    var dia = n === 0 ? 'Hoy' : (n === 1 ? 'Mañana' : (n === -1 ? 'Ayer' : cap(DIAS_L[d.getDay()]).slice(0, 3) + ' ' + d.getDate() + ' ' + MESES[d.getMonth()]));
+    return { dia: dia, hora: hora || '' };
+  }
+  function resultadoDe(f) {
+    if (!f.b) return '';
+    if (f.s.tipo === 'sala' && f.s.camara === 'Cámara de Diputados') {
+      var v = VOTACIONES.filter(function (x) { return x.fecha === f.fecha && x.boletin === f.b; })[0];
+      if (v && v.ultima) return 'Votado en Sala: ' + String(v.ultima.resultado || '').toLowerCase() + ' ' + v.ultima.si + '-' + v.ultima.no + (v.votaciones > 1 ? ' (' + plural(v.votaciones, 'votación', 'votaciones') + ')' : '');
     }
-    return orden.map(function (b) {
-      var f = filas[b], p = f.p || {}, v = p.urgencia_vigente || {};
-      f.sesiones.sort(function (x, y) { return (x.fecha + (x.hora || '99')) < (y.fecha + (y.hora || '99')) ? -1 : 1; });
-      var s0 = f.sesiones[0];
+    var r = RESULTADOS.filter(function (x) { return x.fecha === f.fecha && (x.boletines || []).indexOf(f.b) > -1; })[0];
+    return r ? (r.hito || '') : '';
+  }
+
+  // Filas de una sesión: en la Sala con tabla, una por punto (con los boletines refundidos juntos); en una comisión,
+  // una por proyecto citado; sin proyecto, una con la materia; Sala sin tabla, una que lo dice.
+  function filasDeSesion(s, U, A, IDX, pasada) {
+    var base = { s: s, fecha: s.fecha, hora: s.hora || '', camara: s.camara, pasada: pasada, sinEfecto: s.estado === 'sin efecto', actividad: s.actividad || '' };
+    function fila(b, otros, texto, extra) {
+      var p = b ? buscar(b, U, A) : null, i = b && IDX ? IDX[b] : null;
+      var v = (p || {}).urgencia_vigente || {};
+      var f = Object.assign({}, base, { b: b || '', otros: otros || [], p: p, i: i, extra: extra || '', conPagina: b ? hayPagina(b, U, A, IDX) : false,
+        titulo: b ? ((i && i.sintesis) || (p && p.titulo) || texto || ('Boletín ' + b)) : texto });
       f.activa = v.estado === 'vigente' && dias(v.vence) !== null && dias(v.vence) >= 0;
-      f.prox = s0 ? { fecha: s0.fecha, hora: s0.hora, organo: s0.organo, camara: s0.camara, tipo: 'citado', mas: f.sesiones.length - 1 }
-        : (f.probable ? { fecha: f.probable.vence, camara: f.probable.camara || p.camara_actual, tipo: 'probable' } : null);
-      f.titulo = (f.i && f.i.sintesis) || p.titulo || ('Boletín ' + b);
-      f.texto = (f.titulo + ' ' + (p.titulo || '') + ' ' + b + ' ' + f.sesiones.map(function (x) { return x.organo; }).join(' ')).toLowerCase();
+      if (pasada) f.resultado = resultadoDe(f);
       return f;
+    }
+    if (s.tipo === 'sala' && s.puntos && s.puntos.length) {
+      return s.puntos.map(function (pt, k) {
+        var bs = pt.boletines || [];
+        var f = fila(bs[0], bs.slice(1), recortar(pt.texto || '', 200), pt.boletin_senado ? 'Boletín ' + pt.boletin_senado : '');
+        f.orden = k;
+        return f;
+      });
+    }
+    var bols = (s.boletines && s.boletines.length) ? s.boletines : (s._votados || []);
+    if (bols.length) return bols.map(function (b, k) { var f = fila(b, [], ''); f.orden = k; return f; });
+    if (s.tipo === 'sala') return [Object.assign(fila('', [], 'Sesión ' + (s.numero ? s.numero + '.ª' : '') + (s.clase ? ', ' + s.clase.toLowerCase() : '') + (pasada ? ' · Sin tabla registrada' : ' · Tabla por confirmar')), { orden: 0, porConfirmar: !pasada })];
+    return [Object.assign(fila('', [], recortar((s.materias || []).join(' '), 200) || 'Sin materia informada'), { orden: 0 })];
+  }
+
+  // Sesión de Sala ya realizada de la Cámara sin tabla cargada: lo que trató se conoce por sus votaciones. Cada
+  // votación del día va a la sesión cuyo horario contiene la hora de la última votación (o a la primera del día).
+  function asignarVotaciones(sesiones) {
+    var porDia = {};
+    sesiones.forEach(function (s) {
+      if (s.tipo === 'sala' && s.camara === 'Cámara de Diputados' && !(s.puntos && s.puntos.length) && !(s.boletines && s.boletines.length)) (porDia[s.fecha] = porDia[s.fecha] || []).push(s);
+    });
+    VOTACIONES.forEach(function (v) {
+      var del = porDia[v.fecha];
+      if (!del || !v.ultima) return;
+      var h = v.ultima.hora;
+      var s = del.filter(function (x) { var m = String(x.horario || '').match(/(\d{2}:\d{2})\s*a\s*(\d{2}:\d{2})/); return m && h >= m[1] && h <= m[2]; })[0] || del[0];
+      (s._votados = s._votados || []).push(v.boletin);
     });
   }
 
-  function tablaProyectos(U, A, IDX) {
+  function filasActividad(U, A, IDX) {
+    var hoyIso = isoDe(hoy()), futuras = [], pasadas = [];
+    if (A) asignarVotaciones(A.pasadas || []);
+    if (A) {
+      (A.sesiones || []).forEach(function (s) { if (s.fecha >= hoyIso) futuras = futuras.concat(filasDeSesion(s, U, A, IDX, false)); });
+      (A.pasadas || []).forEach(function (s) { if (s.fecha < hoyIso) pasadas = pasadas.concat(filasDeSesion(s, U, A, IDX, true)); });
+    }
+    var citados = {};
+    futuras.forEach(function (f) { if (f.b && !f.sinEfecto) citados[f.b] = 1; f.otros.forEach(function (b) { citados[b] = 1; }); });
+    var sinSesion = (U.proyectos || []).filter(function (p) {
+      var v = p.urgencia_vigente || {};
+      return v.estado === 'vigente' && dias(v.vence) !== null && dias(v.vence) >= 0 && !citados[p.boletin];
+    }).map(function (p) {
+      return { b: p.boletin, otros: [], p: p, i: IDX && IDX[p.boletin], titulo: (IDX && IDX[p.boletin] && IDX[p.boletin].sintesis) || p.titulo, activa: true, sinSesion: true,
+        camara: p.camara_actual, conPagina: hayPagina(p.boletin, U, A, IDX), fecha: '', hora: '', extra: '' };
+    });
+    return { futuras: futuras, pasadas: pasadas, sinSesion: sinSesion };
+  }
+
+  function tablaActividad(U, A, IDX) {
     var cuerpo = $('#tabla-cuerpo');
     if (!cuerpo) return;
-    var todas = filasProyectos(U, A, IDX);
-    var fTexto = $('#f-texto'), fVista = $('#f-vista'), fTipo = $('#f-tipo'), fCamara = $('#f-camara'), fFicha = $('#f-ficha');
-    var orden = { k: 'prox', dir: 1 };
-    var limite7 = isoDe(new Date(hoy().getTime() + 6 * DIA));
-    var BIG = '9999-12-31';
-    var claves = {
-      prox: function (f) { return f.prox ? f.prox.fecha + (f.prox.tipo === 'citado' ? '0' : '1') + (f.prox.hora || '99') : BIG; },
-      urg: function (f) { var v = (f.p || {}).urgencia_vigente || {}; return f.activa ? v.vence : BIG; },
-      renov: function (f) { return -((f.p || {}).renovaciones || 0); },
-      dias: function (f) { return -((f.p || {}).dias_tramite || 0); }
-    };
-    var maxRenov = Math.max.apply(null, todas.map(function (f) { return (f.p || {}).renovaciones || 0; }).concat([1]));
+    var datos = filasActividad(U, A, IDX);
+    var F = { q: $('#f-texto'), periodo: $('#f-periodo'), camara: $('#f-camara'), donde: $('#f-donde'), actividad: $('#f-actividad'), urgencia: $('#f-urgencia'), ley: $('#f-ley') };
+    var DEF = { q: '', periodo: '7', camara: '', donde: '', actividad: '', urgencia: '', ley: '' };
+    var porUrgencia = false;
 
-    function proxHTML(f) {
-      var x = f.prox;
-      if (!x) return '<span class="sin-fecha">Sin fecha en la agenda</span>';
-      var n = dias(x.fecha), cuando = n === 0 ? 'Hoy' : (n === 1 ? 'Mañana' : cap(DIAS_L[fecha(x.fecha).getDay()]).slice(0, 3) + ' ' + fecha(x.fecha).getDate() + ' ' + MESES[fecha(x.fecha).getMonth()]);
-      if (x.tipo === 'citado') {
-        return '<span class="prox-fecha">' + esc(cuando) + (x.hora ? ' · ' + esc(x.hora) : '') + '</span>' +
-          '<span class="prox-que">' + esc(recortar(String(x.organo || '').split(/\s+-{1,2}\s+|\s+–\s+/)[0], 64)) + ' · ' + esc(camaraCorta(x.camara)) + '</span>' +
-          (x.mas > 0 ? '<span class="prox-mas">y ' + plural(x.mas, 'sesión más', 'sesiones más') + '</span>' : '');
+    // Comisiones presentes en los datos, para el filtro «Dónde».
+    var organos = {};
+    datos.futuras.concat(datos.pasadas).forEach(function (f) { if (f.s.tipo !== 'sala') organos[organoCorto(f.s)] = 1; });
+    Object.keys(organos).sort(function (a, b) { return a.localeCompare(b, 'es'); }).forEach(function (o) {
+      var op = document.createElement('option'); op.value = 'c:' + o; op.textContent = o; F.donde.appendChild(op);
+    });
+
+    // Filtros desde la dirección de la página.
+    var params = new URLSearchParams(location.search);
+    Object.keys(DEF).forEach(function (k) {
+      var v = params.get(k);
+      if (v == null) return;
+      if (k === 'ley') F.ley.checked = v === '1';
+      else if (F[k].tagName === 'SELECT' && !Array.prototype.some.call(F[k].options, function (o) { return o.value === v; })) return;
+      else F[k].value = v;
+    });
+    function guardarEnDireccion() {
+      var p = new URLSearchParams();
+      Object.keys(DEF).forEach(function (k) {
+        var v = k === 'ley' ? (F.ley.checked ? '1' : '') : F[k].value;
+        if (v && v !== DEF[k]) p.set(k, v);
+      });
+      var qs = p.toString();
+      try { history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash); } catch (e) { /* sin historial */ }
+    }
+
+    function pasa(f) {
+      var q = (F.q.value || '').toLowerCase().trim(), d = F.donde.value, u = F.urgencia.value, v = (f.p || {}).urgencia_vigente || {};
+      if (F.camara.value && f.camara !== F.camara.value) return false;
+      if (F.ley.checked && !f.b) return false;
+      if (u === 'sin' && f.activa) return false;
+      if (u && u !== 'sin' && !(f.activa && v.tipo === u)) return false;
+      if (f.sinSesion) { if (d || F.actividad.value) return false; }
+      else {
+        if (d === 'sala' && f.s.tipo !== 'sala') return false;
+        if (d === 'comisiones' && f.s.tipo === 'sala') return false;
+        if (d.indexOf('c:') === 0 && (f.s.tipo === 'sala' || organoCorto(f.s) !== d.slice(2))) return false;
+        if (F.actividad.value && f.actividad !== F.actividad.value) return false;
       }
-      return '<span class="prox-fecha">' + esc(cuando) + '</span><span class="prox-que">' + t('probable', 'Probable') + ': vence la urgencia</span>';
+      if (q) {
+        var txt = [f.titulo, f.b, f.otros.join(' '), f.p && f.p.titulo, f.s && f.s.organo, f.s && (f.s.materias || []).join(' '), f.extra].join(' ').toLowerCase();
+        if (txt.indexOf(q) === -1) return false;
+      }
+      return true;
     }
-    function urgHTML(f) {
-      var p = f.p || {}, v = p.urgencia_vigente || {};
-      if (f.activa) { var e = estadoUrg(p); return chipUrg(v.tipo, true) + '<span class="vence' + (e.pronto ? ' pronto' : '') + '">' + esc(e.corto) + '</span>'; }
-      if (v.tipo && (v.estado === 'vigente' || v.estado === 'vencida' || v.estado === 'en_espera')) return '<span class="sin-urg">' + esc(estadoUrg(p).corto) + '</span>';
-      return '<span class="sin-urg">Sin urgencia</span>';
-    }
-    function fichaHTML(f) {
-      var rev = f.i && f.i.revision === 'pendiente' ? '<span class="en-revision">en revisión</span>' : '';
-      if (f.i && f.i.nivel === 'completa') return '<span class="et-ficha et-completa">Análisis</span>' + rev;
-      if (f.i) return '<span class="et-ficha">Resumen</span>' + rev;
-      return '<span class="et-ficha et-datos">Datos</span>';
+    function clave(f) { return f.fecha + (f.hora || '99:99') + f.camara + ((f.s && f.s.organo) || '') + String(1000 + (f.orden || 0)); }
+    function claveUrg(f) { var v = (f.p || {}).urgencia_vigente || {}, pe = !f.activa && f.b && plazoEspecial(f.b); return (f.activa ? v.vence : (pe ? pe.plazo : '9999-12-31')) + clave(f); }
+
+    function filaHTML(f, nuevoDia) {
+      var href = f.conPagina ? urlFicha(f.b) : '';
+      var cls = [nuevoDia ? 'nuevo-dia' : '', f.sinEfecto ? 'sin-efecto' : '', f.pasada ? 'pasada' : '', f.sinSesion ? 'sin-sesion' : ''].filter(Boolean).join(' ');
+      var cuando = f.sinSesion ? '<span class="cuando-dia">Sin sesión citada</span>'
+        : (function () { var c = cuandoTxt(f.fecha, f.hora); return '<span class="cuando-dia">' + esc(c.dia) + '</span>' + (c.hora ? '<span class="cuando-hora">' + esc(c.hora) + '</span>' : ''); })();
+      var donde = f.sinSesion ? '<span class="sub">' + esc(camaraCorta(f.camara) || '') + '</span>'
+        : '<span class="donde-org" title="' + esc(f.s.organo) + '">' + esc(organoCorto(f.s)) + '</span><span class="sub">' + esc(camaraCorta(f.camara)) + '</span>';
+      // El título oficial queda al pasar el cursor (y en la ficha): en la fila, solo la síntesis y el boletín.
+      var oficial = f.i && f.i.sintesis && f.p && f.p.titulo ? ' title="Título oficial: ' + esc(recortar(f.p.titulo, 300)) + '"' : '';
+      var titulo = f.b && href ? '<a href="' + href + '"' + oficial + '>' + esc(recortar(f.titulo, 200)) + '</a>' : '<span class="' + (f.b ? 'que-sin-pagina' : 'que-materia') + '">' + esc(recortar(f.titulo, 220)) + '</span>';
+      var bol = f.b ? '<span class="bol-num">Boletín ' + esc(f.b) + (f.otros.length ? ', refundido con ' + esc(f.otros.join(', ')) : '') + (href ? '' : ' · sin datos oficiales para este número') + '</span>'
+        : (f.extra ? '<span class="bol-num">' + esc(f.extra) + '</span>' : '');
+      var act = f.sinEfecto ? '<span class="et-act et-sin-efecto">Sin efecto</span>'
+        : f.sinSesion ? '' : (f.pasada ? (f.resultado ? '<span class="resultado">' + esc(f.resultado) + '</span>' : '<span class="sin-urg">Sin resultado informado</span>')
+          : (f.porConfirmar ? '<span class="et-act">Sala</span>' : '<span class="et-act">' + esc(f.actividad) + '</span>'));
+      return '<tr' + (cls ? ' class="' + cls + '"' : '') + (href ? ' data-href="' + href + '"' : '') + '>' +
+        '<td class="c-cuando" data-l="Cuándo">' + cuando + '</td>' +
+        '<td class="c-donde" data-l="Dónde">' + donde + '</td>' +
+        '<td class="c-que" data-l="Qué se trata">' + titulo + bol + '</td>' +
+        '<td class="c-act" data-l="' + (f.pasada ? 'Resultado' : 'Actividad') + '">' + act + '</td>' +
+        '<td class="c-urg" data-l="Urgencia">' + urgHTML(f) + '</td>' +
+        '<td class="c-ficha" data-l="Ficha">' + fichaHTML(f) + '</td></tr>';
     }
 
     function pintar() {
-      var q = (fTexto.value || '').toLowerCase().trim(), vista = fVista.value;
-      var lista = todas.filter(function (f) {
-        var p = f.p || {}, v = p.urgencia_vigente || {};
-        var enAgenda = f.sesiones.length > 0 || !!f.probable;
-        if (vista === 'agenda' && !(enAgenda || f.activa)) return false;
-        if (vista === 'semana' && !(f.prox && f.prox.fecha <= limite7)) return false;
-        if (vista === 'citados' && !f.sesiones.length) return false;
-        if (fTipo.value === 'sin' && f.activa) return false;
-        if (fTipo.value && fTipo.value !== 'sin' && !(f.activa && v.tipo === fTipo.value)) return false;
-        if (fCamara.value) { var cam = f.prox ? f.prox.camara : p.camara_actual; if (cam !== fCamara.value) return false; }
-        if (fFicha.checked && !f.i) return false;
-        if (q && f.texto.indexOf(q) === -1) return false;
-        return true;
-      });
-      var k = claves[orden.k];
-      lista.sort(function (x, y) {
-        var a = k(x), b = k(y);
-        if (a === b) { a = claves.urg(x); b = claves.urg(y); }
-        return (a < b ? -1 : a > b ? 1 : 0) * orden.dir;
-      });
-      var citados = lista.filter(function (f) { return f.sesiones.length; }).length;
-      var conUrg = lista.filter(function (f) { return f.activa; }).length;
-      $('#n-urgencias').textContent = plural(lista.length, 'proyecto', 'proyectos') + ' · ' + plural(citados, 'citado', 'citados') + ' en comisión · ' + conUrg + ' con urgencia vigente';
-      cuerpo.innerHTML = lista.length ? lista.map(function (f) {
-        var p = f.p || {}, r = p.renovaciones || 0;
-        var oficial = f.i && f.i.sintesis && p.titulo ? '<span class="oficial">' + esc(recortar(p.titulo, 140)) + '</span>' : '';
-        var sinPagina = !hayPagina(f.b, U, A, IDX);
-        return '<tr' + (sinPagina ? '' : ' data-href="' + urlFicha(f.b) + '"') + '>' +
-          '<td class="c-bol" data-l="Boletín">' + esc(f.b) + (p.iniciativa && p.iniciativa.toLowerCase().indexOf('moci') === 0 ? '<span class="origen">Moción</span>' : '') + '</td>' +
-          '<td class="c-proy" data-l="Proyecto">' + (sinPagina ? esc(recortar(f.titulo, 200)) + '<span class="oficial">Sin datos oficiales para este número de boletín</span>' : '<a href="' + urlFicha(f.b) + '">' + esc(recortar(f.titulo, 200)) + '</a>' + oficial) + '</td>' +
-          '<td class="c-prox" data-l="Próxima discusión">' + proxHTML(f) + '</td>' +
-          '<td class="c-urg" data-l="Urgencia y plazo">' + urgHTML(f) + '</td>' +
-          '<td class="c-etapa" data-l="Etapa">' + esc(tramiteDe(p.etapa)) + (p.camara_actual ? '<span class="sub">' + esc(camaraCorta(p.camara_actual)) + '</span>' : '') + '</td>' +
-          '<td class="c-num" data-l="Renovaciones"><span class="renov-barra"><i style="width:' + Math.round(100 * r / maxRenov) + '%"></i></span>' + r + '</td>' +
-          '<td class="c-num" data-l="Días en trámite">' + (p.dias_tramite != null ? p.dias_tramite : '') + '</td>' +
-          '<td class="c-ficha" data-l="Ficha">' + (sinPagina ? '' : fichaHTML(f) + '<span class="flecha" aria-hidden="true">→</span>') + '</td>' +
-          '</tr>';
-      }).join('') : '<tr><td colspan="8" class="vacio">No hay proyectos con esos filtros.</td></tr>';
+      var per = F.periodo.value, hoyIso = isoDe(hoy());
+      var hasta = per === 'hoy' ? hoyIso : isoDe(new Date(hoy().getTime() + ((per === '14' ? 14 : 7) - 1) * DIA));
+      var lista;
+      if (per === 'pasados') lista = datos.pasadas.filter(pasa).sort(function (a, b) { return a.fecha === b.fecha ? clave(a).localeCompare(clave(b)) : (a.fecha < b.fecha ? 1 : -1); });
+      else lista = datos.futuras.filter(function (f) { return f.fecha <= hasta && pasa(f); }).sort(function (a, b) { return porUrgencia ? claveUrg(a).localeCompare(claveUrg(b)) : clave(a).localeCompare(clave(b)); });
+      var resto = per === 'pasados' ? [] : datos.sinSesion.filter(pasa).sort(function (a, b) { return a.p.urgencia_vigente.vence < b.p.urgencia_vigente.vence ? -1 : 1; });
+
+      var sesiones = {}, proyectos = {};
+      lista.forEach(function (f) { sesiones[f.fecha + f.hora + f.camara + f.s.organo] = 1; if (f.b) proyectos[f.b] = 1; });
+      $('#n-urgencias').textContent = plural(lista.length, 'actividad', 'actividades') + ' en ' + plural(Object.keys(sesiones).length, 'sesión', 'sesiones') +
+        ' · ' + plural(Object.keys(proyectos).length, 'proyecto distinto', 'proyectos distintos') + (resto.length ? ' · ' + resto.length + ' con urgencia y sin sesión citada' : '');
+
+      var html = '', dia = null;
+      lista.forEach(function (f, k) { html += filaHTML(f, !porUrgencia && k > 0 && f.fecha !== dia); dia = f.fecha; });
+      if (resto.length) {
+        html += '<tr class="separador"><td colspan="6"><b>Con urgencia, sin sesión citada</b> Proyectos que el gobierno apura y que aún no aparecen en una citación ni en una tabla de Sala, ordenados por el vencimiento de su plazo.</td></tr>';
+        resto.forEach(function (f) { html += filaHTML(f, false); });
+      }
+      cuerpo.innerHTML = html || '<tr><td colspan="6" class="vacio">' + (per === 'pasados' ? 'No hay sesiones registradas en los últimos 7 días con esos filtros.' : 'No hay actividad con esos filtros.') + '</td></tr>';
+      guardarEnDireccion();
     }
+
     cuerpo.addEventListener('click', function (e) {
       if (e.target.closest('a')) return;
       var tr = e.target.closest('tr[data-href]');
       if (tr) location.href = tr.getAttribute('data-href');
     });
-    document.querySelectorAll('.tabla-proyectos th[data-orden]').forEach(function (th) {
-      var btn = th.querySelector('button');
-      btn.addEventListener('click', function () {
-        var k = th.getAttribute('data-orden');
-        orden = { k: k, dir: orden.k === k ? -orden.dir : 1 };
-        document.querySelectorAll('.tabla-proyectos th[data-orden]').forEach(function (x) { x.removeAttribute('aria-sort'); });
-        var invertida = k === 'renov' || k === 'dias';  // estas columnas parten de mayor a menor
-        th.setAttribute('aria-sort', (orden.dir === 1) !== invertida ? 'ascending' : 'descending');
-        pintar();
-      });
+    var thUrg = document.querySelector('.tabla-proyectos th[data-orden="urg"]');
+    if (thUrg) thUrg.querySelector('button').addEventListener('click', function () {
+      porUrgencia = !porUrgencia;
+      var thCuando = document.querySelector('.tabla-proyectos th[data-orden="cuando"]');
+      thUrg.setAttribute('aria-sort', porUrgencia ? 'ascending' : 'none');
+      if (thCuando) thCuando.setAttribute('aria-sort', porUrgencia ? 'none' : 'ascending');
+      pintar();
     });
-    [fVista, fTipo, fCamara, fFicha].forEach(function (x) { x.addEventListener('change', pintar); });
-    fTexto.addEventListener('input', pintar);
+    var thC = document.querySelector('.tabla-proyectos th[data-orden="cuando"]');
+    if (thC) thC.querySelector('button').addEventListener('click', function () {
+      porUrgencia = false; thC.setAttribute('aria-sort', 'ascending'); if (thUrg) thUrg.setAttribute('aria-sort', 'none'); pintar();
+    });
+    [F.periodo, F.camara, F.donde, F.actividad, F.urgencia, F.ley].forEach(function (x) { x.addEventListener('change', pintar); });
+    F.q.addEventListener('input', pintar);
     pintar();
   }
 
@@ -339,6 +441,8 @@
       }).join('') + (s._mas ? '<li class="mas"><a href="' + BASE + 'agenda.html#d' + s._dia + '">' + plural(s._mas, 'proyecto más', 'proyectos más') + ' con plazo ese día</a></li>' : '') + '</ul>';
     } else if (s.materias && s.materias.length) {
       materias = '<ul><li class="materia-libre">' + esc(recortar(s.materias.join(' '), 240)) + '</li></ul>';
+    } else if (s.tipo === 'sala') {
+      materias = '<ul><li class="materia-libre">' + (s.numero ? 'Sesión ' + esc(s.numero) + '.ª' + (s.clase ? ', ' + esc(s.clase.toLowerCase()) : '') + '. ' : '') + 'Tabla por confirmar.</li></ul>';
     }
     var meta = '<div class="meta">' + (s.camara ? '<span class="chip' + (probable ? '' : ' chip-claro') + '">' + esc(camaraCorta(s.camara)) + '</span>' : '') +
       (s.estado === 'sin efecto' ? '<span class="chip chip-claro">Sin efecto</span>' : '') +
@@ -821,9 +925,12 @@
     var pagina = document.body.getAttribute('data-pagina');
     if (['portada', 'ficha', 'agenda'].indexOf(pagina) === -1) return;
     Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json'),
-      pagina === 'ficha' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null)]).then(function (r) {
+      pagina !== 'agenda' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null),
+      pagina === 'portada' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null)]).then(function (r) {
       var U = r[0], A = r[1], IDX = r[2] || {};
       RESULTADOS = (r[3] && r[3].resultados) || [];
+      VOTACIONES = (r[4] && r[4].votaciones) || [];
+      ESPECIALES = (A && A.especiales) || {};
       if (pagina === 'portada') { portada(U, A, IDX); loComun(); }
       else if (pagina === 'agenda') agenda(U, A, IDX);
       else ficha(U, A, IDX);

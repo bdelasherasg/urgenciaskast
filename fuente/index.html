@@ -25,35 +25,35 @@
 </section>
 
 <section class="envoltura envoltura-ancha seccion" id="urgencias" aria-labelledby="h-urg">
-  <p class="eyebrow">Agenda y urgencias · próximas dos semanas</p>
-  <h2 class="titulo-seccion" id="h-urg">Los proyectos que se discuten y los que el gobierno apura</h2>
-  <p class="bajada-seccion">Cada proyecto citado en comisión por el Senado o la Cámara, y cada proyecto con <button type="button" class="termino" data-t="urgencia">urgencia</button> vigente, con su próxima discusión, su plazo y su historia. Toque una fila para abrir la ficha del proyecto.</p>
-  <form class="vidrio filtros" onsubmit="return false" aria-label="Filtrar proyectos">
+  <p class="eyebrow">Actividad del Congreso · día a día</p>
+  <h2 class="titulo-seccion" id="h-urg">Lo que el Congreso hace cada día</h2>
+  <p class="bajada-seccion">Todo lo que se trata en la Sala y en las comisiones del Senado y la Cámara, en el orden en que ocurre: proyectos de ley, el Presupuesto, audiencias, exposiciones de ministros y comisiones investigadoras. Al final, los proyectos con <button type="button" class="termino" data-t="urgencia">urgencia</button> vigente que aún no tienen sesión citada. Toque una fila para abrir la ficha del proyecto.</p>
+  <form class="vidrio filtros" onsubmit="return false" aria-label="Filtrar la actividad">
     <label for="f-texto">Buscar<input id="f-texto" type="search" placeholder="Tema, comisión o boletín" autocomplete="off"></label>
-    <label for="f-vista">Mostrar<select id="f-vista"><option value="agenda">En agenda o con urgencia</option><option value="semana">Próximos 7 días</option><option value="citados">Solo citados en comisión</option><option value="todos">Todos, con plazos vencidos</option></select></label>
-    <label for="f-tipo">Urgencia<select id="f-tipo"><option value="">Todas</option><option>Discusión inmediata</option><option>Suma</option><option>Simple</option><option value="sin">Sin urgencia vigente</option></select></label>
+    <label for="f-periodo">Periodo<select id="f-periodo"><option value="hoy">Hoy</option><option value="7" selected>Próximos 7 días</option><option value="14">Dos semanas</option><option value="pasados">Últimos 7 días, con resultados</option></select></label>
     <label for="f-camara">Cámara<select id="f-camara"><option value="">Ambas</option><option value="Cámara de Diputados">Cámara</option><option value="Senado">Senado</option></select></label>
-    <label class="check" for="f-ficha"><input id="f-ficha" type="checkbox"> Solo con ficha de análisis</label>
+    <label for="f-donde">Dónde<select id="f-donde"><option value="">Sala y comisiones</option><option value="sala">Solo Sala</option><option value="comisiones">Solo comisiones</option></select></label>
+    <label for="f-actividad">Actividad<select id="f-actividad"><option value="">Todas</option><option>Discusión</option><option>Votación</option><option>Audiencia</option><option>Investigadora</option><option>Sala</option><option>Otra</option></select></label>
+    <label for="f-urgencia">Urgencia<select id="f-urgencia"><option value="">Todas</option><option>Discusión inmediata</option><option>Suma</option><option>Simple</option><option value="sin">Sin urgencia vigente</option></select></label>
+    <label class="check" for="f-ley"><input id="f-ley" type="checkbox"> Solo proyectos de ley</label>
   </form>
   <p class="nota" id="n-urgencias" aria-live="polite"></p>
   <div class="tabla-marco">
     <table class="tabla-proyectos">
-      <caption class="solo-lector">Proyectos en la agenda del Congreso y con urgencia del Ejecutivo. Las columnas con botón se pueden ordenar.</caption>
+      <caption class="solo-lector">Actividad del Congreso: sesiones de Sala y de comisiones del Senado y la Cámara, en orden de fecha y hora, y proyectos con urgencia sin sesión citada. Las columnas con botón se pueden ordenar.</caption>
       <thead><tr>
-        <th scope="col">Boletín</th>
-        <th scope="col">Proyecto</th>
-        <th scope="col" data-orden="prox" aria-sort="ascending"><button type="button">Próxima discusión</button></th>
+        <th scope="col" data-orden="cuando" aria-sort="ascending"><button type="button">Cuándo</button></th>
+        <th scope="col">Dónde</th>
+        <th scope="col">Qué se trata</th>
+        <th scope="col">Actividad</th>
         <th scope="col" data-orden="urg"><button type="button">Urgencia y plazo</button></th>
-        <th scope="col">Etapa</th>
-        <th scope="col" class="c-num" data-orden="renov"><button type="button">Renovaciones</button></th>
-        <th scope="col" class="c-num" data-orden="dias"><button type="button">Días en trámite</button></th>
         <th scope="col">Ficha</th>
       </tr></thead>
       <tbody id="tabla-cuerpo">{{TABLA_ESTATICA}}</tbody>
     </table>
   </div>
-  <p class="nota leyenda"><span class="et-ficha et-completa">Análisis</span> resumen con fuente por oración, posiciones de organizaciones y encuadre. <span class="et-ficha">Resumen</span> solo el resumen. <span class="et-ficha et-datos">Datos</span> datos oficiales y tramitación, con el análisis en preparación. <b>En revisión</b>: ficha del piloto de prueba, redactada de forma automática y aún sin revisión del equipo. <b>Probable</b>: la urgencia vence ese día y aún no hay citación publicada.</p>
-  <p class="nota">Fuentes: citaciones de comisiones del Senado y de la Cámara, servicio de tramitación del Senado y datos abiertos de la Cámara de Diputadas y Diputados. Plazos según la Ley 18.918. <a href="{{BASE}}agenda.html">Ver la agenda día por día</a> · <a href="{{BASE}}como-leer.html">Cómo leer estos datos</a> · <a href="{{BASE}}data/urgencias.json">Descargar los datos</a></p>
+  <p class="nota leyenda"><span class="et-ficha et-completa">Análisis</span> resumen con fuente por oración, posiciones de organizaciones y encuadre. <span class="et-ficha">Resumen</span> solo el resumen. <span class="et-ficha et-datos">Datos</span> datos oficiales y tramitación, con el análisis en preparación. <b>En revisión</b>: ficha del piloto de prueba, redactada de forma automática y aún sin revisión del equipo. <b>Tabla por confirmar</b>: la sesión de Sala está citada y su tabla todavía no se publica. En los últimos 7 días, la columna muestra el resultado: lo que informa la Cámara de cada sesión de comisión y las votaciones de su Sala.</p>
+  <p class="nota">Fuentes: citaciones de comisiones y tablas de Sala del Senado y de la Cámara (las de la Cámara y las tablas del Senado las copia el equipo desde camara.cl y senado.cl), servicio de tramitación del Senado y datos abiertos de la Cámara de Diputadas y Diputados. Plazos según la Ley 18.918. <a href="{{BASE}}agenda.html">Ver la agenda día por día</a> · <a href="{{BASE}}como-leer.html">Cómo leer estos datos</a> · <a href="{{BASE}}data/urgencias.json">Descargar los datos</a></p>
 </section>
 
 <section class="envoltura seccion" id="fuentes-datos" aria-labelledby="h-fuentes-datos">

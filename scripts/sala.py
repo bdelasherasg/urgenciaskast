@@ -153,7 +153,6 @@ def aplicar_tablas(sesiones, tablas):
 
 RE_INVESTIGADORA = re.compile(r'(?i)investigadora|\bCEI\b')
 RE_VOTACION = re.compile(r'(?i)\bvot(ar|aci[oó]n|aciones)\b|hasta (su )?total despacho')
-RE_DISCUSION = re.compile(r'(?i)discusi[oó]n|estudio|iniciar|continuar|tratar|analizar|informe|tr[aá]mite')
 RE_AUDIENCIA = re.compile(r'(?i)recibir|audiencia|expon|exposici[oó]n|escuchar|invit')
 
 
@@ -166,8 +165,8 @@ def actividad(s):
         return 'Investigadora'
     if RE_VOTACION.search(texto):
         return 'Votación'
-    if s.get('boletines') and (s.get('tipo') == 'sala' or RE_DISCUSION.search(texto)):
-        return 'Discusión'
+    if s.get('boletines'):
+        return 'Discusión'   # trata un proyecto de ley, aunque la citación no use «discusión» ni «estudio»
     if RE_AUDIENCIA.search(texto):
         return 'Audiencia'
     return 'Otra'
@@ -183,6 +182,18 @@ def asignar_especiales(sesiones, especiales):
             if RE_BOLETIN.match(b) and any(p.lower() in texto.lower() for p in e.get('patrones', [])):
                 s['boletines'] = [b]
                 break
+
+
+def plazo_desde_tablas(especiales, tablas):
+    """Plazo de un proyecto especial según la tabla de Sala cargada más reciente que lo trae (por ejemplo, la
+    citación de la Cámara: «El plazo final para el despacho … vence el 29.11.2026»). Si ninguna lo trae, queda el de
+    data/proyectos_especiales.json."""
+    for t in sorted(tablas or [], key=lambda t: (t.get('fecha', ''), t.get('leido', ''))):
+        for p in t.get('puntos') or []:
+            for b in p.get('boletines') or []:
+                if b in (especiales or {}) and re.match(r'\d{4}-\d{2}-\d{2}$', str(p.get('plazo', ''))):
+                    especiales[b]['plazo'] = p['plazo']
+                    especiales[b]['plazo_fuente'] = f"Tabla de Sala de la {'Cámara' if t.get('camara') == CAMARA else 'Senado'} del {t.get('fecha', '')}"
 
 
 def parse_votaciones(xml, desde):

@@ -87,6 +87,7 @@ class Actividad(unittest.TestCase):
         self.assertEqual(S.actividad(com('Comisión de Hacienda', 'Votar en particular hasta total despacho')), 'Votación')
         self.assertEqual(S.actividad(com('Comisión de Educación', 'Continuar la discusión general del proyecto')), 'Discusión')
         self.assertEqual(S.actividad(com('Comisión de Salud', 'Recibir al Subsecretario de Redes Asistenciales', b=())), 'Audiencia')
+        self.assertEqual(S.actividad(com('Comisión de Constitución', 'Proyecto de ley que endurece las sanciones')), 'Discusión')
         self.assertEqual(S.actividad(com('Comisión de Minería', 'Conocer la Política Nacional', b=())), 'Otra')
 
 
@@ -97,6 +98,20 @@ class Especiales(unittest.TestCase):
         S.asignar_especiales(ses, {'18702-05': {'patrones': ['Mixta de Presupuestos', 'Ley de Presupuestos']}})
         self.assertEqual(ses[0]['boletines'], ['18702-05'])
         self.assertEqual(ses[1]['boletines'], [])
+
+
+class PlazoEspecial(unittest.TestCase):
+    def test_la_tabla_mas_reciente_fija_el_plazo(self):
+        esp = {'18702-05': {'plazo': '2026-11-29'}}
+        S.plazo_desde_tablas(esp, [{'camara': S.CAMARA, 'fecha': '2026-11-12', 'puntos': [{'boletines': ['18702-05'], 'plazo': '2026-11-30'}]},
+                                   {'camara': S.CAMARA, 'fecha': '2026-11-10', 'puntos': [{'boletines': ['18702-05'], 'plazo': '2026-11-28'}]},
+                                   {'camara': S.SENADO, 'fecha': '2026-11-17', 'puntos': [{'boletines': ['18702-05']}]}])
+        self.assertEqual(esp['18702-05']['plazo'], '2026-11-30')
+
+    def test_sin_plazo_en_las_tablas_queda_el_configurado(self):
+        esp = {'18702-05': {'plazo': '2026-11-29'}}
+        S.plazo_desde_tablas(esp, [{'camara': S.SENADO, 'fecha': '2026-11-17', 'puntos': [{'boletines': ['18702-05'], 'texto': 'x'}]}])
+        self.assertEqual(esp['18702-05']['plazo'], '2026-11-29')
 
 
 class Votaciones(unittest.TestCase):
