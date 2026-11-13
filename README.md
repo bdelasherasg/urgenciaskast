@@ -16,10 +16,15 @@ que se publica una ficha o se edita una página, la acción **Actualizar urgenci
 
 1. `scripts/actualizar.py`: consulta el Senado y la Cámara y escribe `data/urgencias.json`. Quita urgencias
    duplicadas, separa renovaciones de cambios de tipo y calcula plazos según la Ley 18.918 (artículos 27, 28 y 70).
-2. `scripts/agenda.py`: arma `data/agenda.json` con las citaciones de comisiones de ambas cámaras para dos semanas
+2. `scripts/presupuesto.py`: para el Presupuesto en trámite (`data/proyectos_especiales.json`), baja de la API de
+   datos.gob.cl el último conjunto de la Dipres «Ley de Presupuestos Inicial y Vigente … - Ley Regular» del año
+   anterior y escribe `data/presupuesto_vigente.json`: por partida y en total, la ley aprobada y la vigente al último
+   mes publicado (subtítulos de gasto 21 a 35, sin consolidar, en miles de pesos y de dólares de ese año). La ficha
+   del Presupuesto lo muestra en el bloque de partidas, y la tarea de borradores lo recibe como fuente.
+3. `scripts/agenda.py`: arma `data/agenda.json` con las citaciones de comisiones de ambas cámaras para dos semanas
    (confirmado) y los plazos de urgencia que vencen sin citación (probable).
-3. Copia `https://locomun.cl/contenido/feed.json` en `data/locomun.json` (estudios y publicaciones de Lo Común).
-4. `scripts/paginas.py --sitio`: genera las páginas desde `fuente/`, una página por proyecto en `p/` (con título y
+4. Copia `https://locomun.cl/contenido/feed.json` en `data/locomun.json` (estudios y publicaciones de Lo Común).
+5. `scripts/paginas.py --sitio`: genera las páginas desde `fuente/`, una página por proyecto en `p/` (con título y
    descripción propios para compartir), `data/feed.json` (resumen que muestra locomun.cl) y `sitemap.xml`.
 
 Si una fuente falla, se conservan los datos anteriores y el sitio sigue funcionando.
