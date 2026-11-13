@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "boletin": "17999-07",
+  "nivel": "basica",
+  "sintesis": "Prohíbe que el Presidente indulte a personas condenadas por crímenes de lesa humanidad. La Comisión de Constitución lo rechazó en general. Está en primer trámite en la Cámara.",
+  "materia": "el límite a los indultos presidenciales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la facultad del Presidente de indultar permite alterar los efectos de una condena firme.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que el derecho internacional no permite indultar los crímenes de lesa humanidad, la tortura ni la desaparición forzada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Recuerda que en 2020 la Comisión Interamericana de Derechos Humanos pidió a Chile abstenerse de esos indultos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone una reforma constitucional que prohíba el indulto particular a personas condenadas por crímenes de lesa humanidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un inciso segundo al número 14 del artículo 32 de la Constitución, sobre las atribuciones del Presidente.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Como es reforma constitucional, necesita cuatro séptimos de los diputados y senadores en ejercicio.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta la facultad del Presidente de la República y a las personas condenadas por esos delitos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión dejó constancia de que el proyecto no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 1 de diciembre de 2025 y está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 2 de marzo de 2026, la Comisión de Constitución lo rechazó en general, por no alcanzar la mayoría: 5 votos a favor, 4 en contra y 1 abstención.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Ese mismo día se dio cuenta de su informe y el proyecto quedó para tabla.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la Carta Fundamental para limitar la facultad del Presidente de la República para conceder indultos particulares",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18658&tipodoc=mensaje_mocion",
+      "fecha": "2025-12-01",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27885&tipodoc=info",
+      "fecha": "2026-03-02",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 17999-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17999",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
