@@ -73,22 +73,26 @@
         ]
       },
       {
-        "texto": "No se sabe a qué partida corresponde cada votación de la Sala. Es un dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "En la Sala de la Cámara, las partidas con más votaciones fueron Salud (66), Vivienda (65) y Economía (34).",
+        "fuentes": [
+          "f11"
+        ]
       }
     ],
     "costo": [
       {
-        "texto": "El artículo 3 autoriza al Presidente a contraer deuda.",
+        "texto": "El artículo 3 autoriza al Presidente a contraer deuda por hasta 25.000 millones de dólares.",
         "fuentes": [
-          "f8"
+          "f8",
+          "f9"
         ]
       },
       {
-        "texto": "No se leyó el monto autorizado. Es un dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Permite, además, otros 600 millones de dólares.",
+        "fuentes": [
+          "f8",
+          "f9"
+        ]
       },
       {
         "texto": "El artículo 2 permite garantías del Estado de hasta 500 millones de dólares a empresas públicas y universidades estatales.",
