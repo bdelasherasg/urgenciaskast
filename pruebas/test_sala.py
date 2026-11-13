@@ -87,6 +87,7 @@ class Actividad(unittest.TestCase):
         self.assertEqual(S.actividad(com('Comisión de Hacienda', 'Votar en particular hasta total despacho')), 'Votación')
         self.assertEqual(S.actividad(com('Comisión de Educación', 'Continuar la discusión general del proyecto')), 'Discusión')
         self.assertEqual(S.actividad(com('Comisión de Salud', 'Recibir al Subsecretario de Redes Asistenciales', b=())), 'Audiencia')
+        self.assertEqual(S.actividad(com('Comisión de Constitución', 'Proyecto de ley que endurece las sanciones')), 'Discusión')
         self.assertEqual(S.actividad(com('Comisión de Minería', 'Conocer la Política Nacional', b=())), 'Otra')
 
 

@@ -226,16 +226,62 @@ def nombre_proyecto(b, urg, ag, idx):
     return pr.get('titulo') or f'Boletín {b}'
 
 
-def tabla_estatica(urg, idx):
-    hoy = hoy_chile().isoformat()
-    vig = [x for x in urg.get('proyectos', []) if (x.get('urgencia_vigente') or {}).get('estado') == 'vigente'
-           and (x['urgencia_vigente'].get('vence') or '') >= hoy]
-    vig.sort(key=lambda x: x['urgencia_vigente']['vence'])
-    filas = ''.join(
-        f'<tr><td>{esc(x["boletin"])}</td><td><a href="{{{{BASE}}}}p/{esc(x["boletin"])}.html">{esc(recortar((idx.get(x["boletin"]) or {}).get("sintesis") or x.get("titulo"), 220))}</a></td>'
-        f'<td colspan="6">Urgencia {esc((x["urgencia_vigente"].get("tipo") or "").lower())}, vence el {fecha_larga(x["urgencia_vigente"]["vence"])}. {esc(x.get("etapa"))}</td></tr>'
-        for x in vig)
-    return filas or '<tr><td colspan="8" class="vacio">Cargando…</td></tr>'
+def organo_corto(x):
+    """«Comisión de Hacienda» → «Hacienda»; Sala → «Sala»; investigadoras → «Investigadora CEI 12» (igual que assets/app.js)."""
+    if x.get('tipo') == 'sala':
+        return 'Sala'
+    o = str(x.get('organo') or '')
+    m = re.search(r'\(CEI\s*(\d+)\)', o)
+    if m:
+        return f'Investigadora CEI {m.group(1)}'
+    o = re.split(r'\s+-{1,2}\s+|\s+–\s+', re.sub(r'(?i)^Comisi[oó]n\s+(de\s+la\s+|del\s+|de\s+)?', '', o))[0]
+    return recortar(o[:1].upper() + o[1:], 70)
+
+
+def filas_de_sesion(x):
+    """(boletín, refundidos, texto) de cada cosa que trata una sesión, en orden (igual que assets/app.js)."""
+    if x.get('tipo') == 'sala' and x.get('puntos'):
+        return [((p.get('boletines') or [''])[0], (p.get('boletines') or [])[1:], recortar(p.get('texto', ''), 200)) for p in x['puntos']]
+    if x.get('boletines'):
+        return [(b, [], '') for b in x['boletines']]
+    if x.get('tipo') == 'sala':
+        return [('', [], f"Sesión {str(x.get('numero')) + '.ª' if x.get('numero') else ''}{', ' + x['clase'].lower() if x.get('clase') else ''} · Tabla por confirmar")]
+    return [('', [], recortar(' '.join(x.get('materias') or []), 200) or 'Sin materia informada')]
+
+
+def tabla_estatica(urg, ag, idx):
+    """La tabla de actividad de la portada para los próximos 7 días, en HTML simple (assets/app.js la reemplaza)."""
+    hoy = hoy_chile()
+    lim = (hoy + dt.timedelta(days=6)).isoformat()
+    por_b = {x['boletin']: x for x in urg.get('proyectos', [])}
+    ses = sorted([x for x in (ag.get('sesiones') or []) if hoy.isoformat() <= x.get('fecha', '') <= lim],
+                 key=lambda x: (x['fecha'], x.get('hora') or '99:99', x.get('camara', ''), x.get('organo', '')))
+    filas, citados = [], set()
+    for x in ses:
+        cuando = f'{fecha_larga(x["fecha"], dia=True)}{" · " + esc(x.get("hora")) if x.get("hora") else ""}'
+        donde = f'{esc(organo_corto(x))}, {"Senado" if x.get("camara") == "Senado" else "Cámara"}'
+        act = 'Sin efecto' if x.get('estado') == 'sin efecto' else esc(x.get('actividad', ''))
+        for b, otros, texto in filas_de_sesion(x):
+            if b:
+                citados.add(b)
+                nombre = esc(recortar(nombre_proyecto(b, urg, ag, idx), 200))
+                que = (f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{nombre}</a>' if tiene_pagina(b, urg, ag, idx) else nombre) + f' (boletín {esc(b)}{", refundido con " + esc(", ".join(otros)) if otros else ""})'
+                v = (por_b.get(b) or {}).get('urgencia_vigente') or {}
+                urgencia = f'{esc(v.get("tipo"))}, vence el {fecha_larga(v.get("vence"))}' if v.get('estado') == 'vigente' and (v.get('vence') or '') >= hoy.isoformat() else ''
+            else:
+                que, urgencia = esc(texto), ''
+            filas.append(f'<tr><td>{cuando}</td><td>{donde}</td><td>{que}</td><td>{act}</td><td>{urgencia}</td><td></td></tr>')
+    sin = sorted([x for x in urg.get('proyectos', []) if (x.get('urgencia_vigente') or {}).get('estado') == 'vigente'
+                  and (x['urgencia_vigente'].get('vence') or '') >= hoy.isoformat() and x['boletin'] not in citados],
+                 key=lambda x: x['urgencia_vigente']['vence'])
+    if sin:
+        filas.append('<tr><td colspan="6"><b>Con urgencia, sin sesión citada</b></td></tr>')
+        for x in sin:
+            v = x['urgencia_vigente']
+            filas.append(f'<tr><td>Sin sesión citada</td><td>{"Senado" if x.get("camara_actual") == "Senado" else "Cámara"}</td>'
+                         f'<td><a href="{{{{BASE}}}}p/{esc(x["boletin"])}.html">{esc(recortar(nombre_proyecto(x["boletin"], urg, ag, idx), 200))}</a> (boletín {esc(x["boletin"])})</td>'
+                         f'<td></td><td>{esc(v.get("tipo"))}, vence el {fecha_larga(v["vence"])}</td><td></td></tr>')
+    return ''.join(filas) or '<tr><td colspan="6" class="vacio">Cargando…</td></tr>'
 
 
 def agenda_estatica(urg, ag, idx):
@@ -269,7 +315,7 @@ def construir_sitio(v):
     idx = indice_fichas()
     locales = {a.get('ruta'): a for a in leer_json(ruta('data', 'analisis.json'), {'entregas': []})['entregas']}
     reemplazos = {'{{DESTACADO}}': destacado(analisis), '{{LISTA_ANALISIS}}': lista_analisis(analisis),
-                  '{{GLOSARIO}}': glosario_html(), '{{TABLA_ESTATICA}}': tabla_estatica(urg, idx),
+                  '{{GLOSARIO}}': glosario_html(), '{{TABLA_ESTATICA}}': tabla_estatica(urg, ag, idx),
                   '{{AGENDA_ESTATICA}}': agenda_estatica(urg, ag, idx)}
     for fuente in sorted(glob.glob(ruta('fuente', '**', '*.html'), recursive=True)):
         rel = os.path.relpath(fuente, ruta('fuente')).replace(os.sep, '/')

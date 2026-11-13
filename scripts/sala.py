@@ -153,7 +153,6 @@ def aplicar_tablas(sesiones, tablas):
 
 RE_INVESTIGADORA = re.compile(r'(?i)investigadora|\bCEI\b')
 RE_VOTACION = re.compile(r'(?i)\bvot(ar|aci[oó]n|aciones)\b|hasta (su )?total despacho')
-RE_DISCUSION = re.compile(r'(?i)discusi[oó]n|estudio|iniciar|continuar|tratar|analizar|informe|tr[aá]mite')
 RE_AUDIENCIA = re.compile(r'(?i)recibir|audiencia|expon|exposici[oó]n|escuchar|invit')
 
 
@@ -166,8 +165,8 @@ def actividad(s):
         return 'Investigadora'
     if RE_VOTACION.search(texto):
         return 'Votación'
-    if s.get('boletines') and (s.get('tipo') == 'sala' or RE_DISCUSION.search(texto)):
-        return 'Discusión'
+    if s.get('boletines'):
+        return 'Discusión'   # trata un proyecto de ley, aunque la citación no use «discusión» ni «estudio»
     if RE_AUDIENCIA.search(texto):
         return 'Audiencia'
     return 'Otra'

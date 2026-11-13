@@ -380,7 +380,8 @@ def principal():
     # Datos oficiales de cada boletín citado que no tiene urgencia vigente, y de los que se siguen siempre
     # (data/boletines_extra.txt): así tienen página y la tarea de borradores les hace ficha.
     seguidos = S.leer_seguidos(A.EXTRA)
-    citados = sorted({b for s in sesiones for b in s['boletines']} | set(seguidos))
+    # También los de los últimos 7 días, para que la tabla de actividad enlace a su página.
+    citados = sorted({b for s in sesiones + ultimas for b in s['boletines']} | set(seguidos))
     proyectos = {}
     previos = anterior.get('proyectos', {})
     por_consultar = [b for b in citados if b not in por_boletin][:MAX_CONSULTAS]
