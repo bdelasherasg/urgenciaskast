@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "17462-11",
+  "nivel": "basica",
+  "sintesis": "Permite informar en los centros de salud sobre el cáncer de tiroides y crear un registro nacional de pacientes. La Comisión de Salud lo aprobó en general y espera su discusión en la Sala.",
+  "materia": "la detección temprana del cáncer de tiroides",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el cáncer de tiroides es uno de los tumores endocrinológicos más frecuentes en Chile y que afecta sobre todo a mujeres.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que en el país no existe un registro nacional de esta enfermedad y que la detección temprana es clave.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Permite que los prestadores de salud públicos y privados informen sobre detección temprana, diagnóstico y tratamiento de este cáncer.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite al Ministerio de Salud crear un registro nacional de pacientes, separado por sexo, edad y etapa del diagnóstico.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Promueve el autocuidado y la detección temprana de enfermedades endocrinológicas desde la infancia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es una ley nueva, con tres artículos y dos artículos transitorios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un reglamento fijaría los criterios de la información, en formatos accesibles para personas con discapacidad visual o auditiva. La ley regiría doce meses después de publicarse.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los prestadores de salud públicos y privados, al Ministerio de Salud y a las personas con riesgo o diagnóstico de este cáncer.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La Comisión de Salud dejó constancia de que el proyecto no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 26 de marzo de 2025 y está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 21 de julio de 2026, la Comisión de Salud entregó su informe. Aprobó el proyecto en general por 5 votos a favor y 3 abstenciones.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 3 de agosto de 2026 el proyecto quedó para tabla.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece medidas para fomentar la concientización y detección temprana del cáncer de tiroides",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18098&tipodoc=mensaje_mocion",
+      "fecha": "2025-03-26",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Salud · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28141&tipodoc=info",
+      "fecha": "2026-07-21",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 17462-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17462",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
