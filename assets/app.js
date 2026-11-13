@@ -96,6 +96,9 @@
     if (!p && A && A.proyectos && A.proyectos[b]) p = A.proyectos[b];
     return p;
   }
+  // Solo hay página de proyecto si se conocen sus datos oficiales o tiene ficha: un número citado que el Senado no
+  // reconoce (por ejemplo, un error de la citación) se muestra sin enlace, para no mandar a una página inexistente.
+  function hayPagina(b, U, A, IDX) { return !!((IDX && IDX[b]) || buscar(b, U, A)); }
   function plural(n, uno, varios) { return n + ' ' + (n === 1 ? uno : varios); }
   function recortar(s, n) { s = String(s || ''); return s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : s; }
 
@@ -272,15 +275,16 @@
       cuerpo.innerHTML = lista.length ? lista.map(function (f) {
         var p = f.p || {}, r = p.renovaciones || 0;
         var oficial = f.i && f.i.sintesis && p.titulo ? '<span class="oficial">' + esc(recortar(p.titulo, 140)) + '</span>' : '';
-        return '<tr data-href="' + urlFicha(f.b) + '">' +
+        var sinPagina = !hayPagina(f.b, U, A, IDX);
+        return '<tr' + (sinPagina ? '' : ' data-href="' + urlFicha(f.b) + '"') + '>' +
           '<td class="c-bol" data-l="Boletín">' + esc(f.b) + (p.iniciativa && p.iniciativa.toLowerCase().indexOf('moci') === 0 ? '<span class="origen">Moción</span>' : '') + '</td>' +
-          '<td class="c-proy" data-l="Proyecto"><a href="' + urlFicha(f.b) + '">' + esc(recortar(f.titulo, 200)) + '</a>' + oficial + '</td>' +
+          '<td class="c-proy" data-l="Proyecto">' + (sinPagina ? esc(recortar(f.titulo, 200)) + '<span class="oficial">Sin datos oficiales para este número de boletín</span>' : '<a href="' + urlFicha(f.b) + '">' + esc(recortar(f.titulo, 200)) + '</a>' + oficial) + '</td>' +
           '<td class="c-prox" data-l="Próxima discusión">' + proxHTML(f) + '</td>' +
           '<td class="c-urg" data-l="Urgencia y plazo">' + urgHTML(f) + '</td>' +
           '<td class="c-etapa" data-l="Etapa">' + esc(tramiteDe(p.etapa)) + (p.camara_actual ? '<span class="sub">' + esc(camaraCorta(p.camara_actual)) + '</span>' : '') + '</td>' +
           '<td class="c-num" data-l="Renovaciones"><span class="renov-barra"><i style="width:' + Math.round(100 * r / maxRenov) + '%"></i></span>' + r + '</td>' +
           '<td class="c-num" data-l="Días en trámite">' + (p.dias_tramite != null ? p.dias_tramite : '') + '</td>' +
-          '<td class="c-ficha" data-l="Ficha">' + fichaHTML(f) + '<span class="flecha" aria-hidden="true">→</span></td>' +
+          '<td class="c-ficha" data-l="Ficha">' + (sinPagina ? '' : fichaHTML(f) + '<span class="flecha" aria-hidden="true">→</span>') + '</td>' +
           '</tr>';
       }).join('') : '<tr><td colspan="8" class="vacio">No hay proyectos con esos filtros.</td></tr>';
     }
@@ -330,6 +334,7 @@
         var p = nom.p;
         var urg = p && p.urgencia_vigente && p.urgencia_vigente.estado === 'vigente' ? ' ' + chipUrg(p.urgencia_vigente.tipo, !probable) : '';
         var titulo = nom.sintesis || nom.oficial || 'Proyecto de ley';
+        if (!hayPagina(b, U, A, IDX)) return '<li><span class="bol">' + esc(b) + '</span>' + esc(titulo) + ' <small>(sin datos oficiales para este número de boletín)</small></li>';
         return '<li><a href="' + urlFicha(b) + '"><span class="bol">' + esc(b) + '</span>' + esc(recortar(titulo, 190)) + '</a>' + urg + '</li>';
       }).join('') + (s._mas ? '<li class="mas"><a href="' + BASE + 'agenda.html#d' + s._dia + '">' + plural(s._mas, 'proyecto más', 'proyectos más') + ' con plazo ese día</a></li>' : '') + '</ul>';
     } else if (s.materias && s.materias.length) {

@@ -20,6 +20,7 @@ import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as TiempoAgotado, as_completed
 import xml.etree.ElementTree as ET
+from zoneinfo import ZoneInfo
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SALIDA = os.path.join(RAIZ, 'data', 'urgencias.json')
@@ -51,6 +52,19 @@ TIEMPO_MAXIMO = 18 * 60   # segundos para todas las consultas de detalle
 
 errores = []
 fallidos = set()   # boletines cuyo detalle no se pudo bajar (red o XML inválido)
+
+
+# Los servidores de GitHub trabajan en hora UTC: pasadas las 21:00 en Chile ya es «mañana» allá. Todo lo que dependa de
+# «hoy» (plazos, ventana de la agenda, qué sesiones ya pasaron) se calcula con la fecha de Chile.
+ZONA_CHILE = ZoneInfo('America/Santiago')
+
+
+def ahora_chile():
+    return dt.datetime.now(ZONA_CHILE)
+
+
+def hoy_chile():
+    return ahora_chile().date()
 
 
 def bajar(url, intentos=2, timeout=25):
@@ -133,7 +147,7 @@ def normalizar_camara(t):
 
 def candidatos():
     boletines = set()
-    hoy = dt.date.today()
+    hoy = hoy_chile()
     for anno in sorted({INICIO.year, hoy.year}):
         datos = bajar(URL_CAMARA_MENSAJES.format(anno=anno))
         if datos:
@@ -149,7 +163,7 @@ def candidatos():
     if os.path.exists(EXTRA):
         with open(EXTRA, encoding='utf-8') as f:
             for linea in f:
-                m = RE_BOLETIN.search(linea)
+                m = None if linea.lstrip().startswith('#') else RE_BOLETIN.search(linea)
                 if m:
                     boletines.add(f'{m.group(1)}-{m.group(2)}')
     return sorted(boletines)
@@ -259,7 +273,7 @@ def otra_camara(c):
 
 
 def completar(p, hoy=None):
-    hoy = hoy or dt.date.today()
+    hoy = hoy or hoy_chile()
     inicio = INICIO.isoformat()
     p['urgencias'] = depurar_urgencias(p.get('urgencias') or [])
     del_gobierno = [u for u in p['urgencias'] if (u['ingreso'] or '') >= inicio]
@@ -381,9 +395,8 @@ def principal():
         sys.exit(1)
 
     proyectos.sort(key=orden)
-    zona = dt.timezone(dt.timedelta(hours=-3))
     salida = {
-        'actualizado': dt.datetime.now(zona).isoformat(timespec='minutes'),
+        'actualizado': ahora_chile().isoformat(timespec='minutes'),
         'muestra': False,
         'inicio_gobierno': INICIO.isoformat(),
         'niveles': NIVELES,

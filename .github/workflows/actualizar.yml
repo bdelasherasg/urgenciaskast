@@ -12,6 +12,7 @@ on:
       - 'fuente/**'
       - 'data/fichas/**'
       - 'data/citaciones_camara.json'
+      - 'data/tabla_sala.json'
       - 'data/analisis.json'
       - 'data/glosario.json'
       - 'assets/**'

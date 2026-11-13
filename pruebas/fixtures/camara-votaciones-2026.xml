@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VotacionesColeccion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://opendata.camara.cl/camaradiputados/v1">
+  
+  <Votacion>
+    <Id>91402</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:47:27</Fecha>
+    <TotalSi>56</TotalSi>
+    <TotalNo>60</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91401</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:46:20</Fecha>
+    <TotalSi>57</TotalSi>
+    <TotalNo>59</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91400</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:44:32</Fecha>
+    <TotalSi>58</TotalSi>
+    <TotalNo>59</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91402</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:47:27</Fecha>
+    <TotalSi>56</TotalSi>
+    <TotalNo>60</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91401</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:46:20</Fecha>
+    <TotalSi>57</TotalSi>
+    <TotalNo>59</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91400</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:44:32</Fecha>
+    <TotalSi>58</TotalSi>
+    <TotalNo>59</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91399</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:43:07</Fecha>
+    <TotalSi>48</TotalSi>
+    <TotalNo>62</TotalNo>
+    <TotalAbstencion>3</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91398</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T01:42:26</Fecha>
+    <TotalSi>59</TotalSi>
+    <TotalNo>58</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91397</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:45:36</Fecha>
+    <TotalSi>103</TotalSi>
+    <TotalNo>15</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91396</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:45:12</Fecha>
+    <TotalSi>61</TotalSi>
+    <TotalNo>58</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91395</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:44:51</Fecha>
+    <TotalSi>60</TotalSi>
+    <TotalNo>56</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91394</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:44:31</Fecha>
+    <TotalSi>61</TotalSi>
+    <TotalNo>58</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91393</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:44:02</Fecha>
+    <TotalSi>61</TotalSi>
+    <TotalNo>57</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91392</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:43:34</Fecha>
+    <TotalSi>59</TotalSi>
+    <TotalNo>60</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>91391</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-13T00:42:34</Fecha>
+    <TotalSi>56</TotalSi>
+    <TotalNo>63</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="0">Rechazado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90905</Id>
+    <Descripcion>Boletín N° 18551-04</Descripcion>
+    <Fecha>2026-11-09T19:52:16</Fecha>
+    <TotalSi>88</TotalSi>
+    <TotalNo>44</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>1</TotalDispensado>
+    <Quorum Valor="2">Quórum Calificado</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90904</Id>
+    <Descripcion>Boletín N° 18551-04</Descripcion>
+    <Fecha>2026-11-09T19:50:31</Fecha>
+    <TotalSi>87</TotalSi>
+    <TotalNo>44</TotalNo>
+    <TotalAbstencion>0</TotalAbstencion>
+    <TotalDispensado>1</TotalDispensado>
+    <Quorum Valor="2">Quórum Calificado</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90902</Id>
+    <Descripcion>Boletín N° 18551-04</Descripcion>
+    <Fecha>2026-11-09T19:49:41</Fecha>
+    <TotalSi>85</TotalSi>
+    <TotalNo>43</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>1</TotalDispensado>
+    <Quorum Valor="2">Quórum Calificado</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90901</Id>
+    <Descripcion>Boletín N° 18551-04</Descripcion>
+    <Fecha>2026-11-09T19:48:24</Fecha>
+    <TotalSi>82</TotalSi>
+    <TotalNo>40</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>1</TotalDispensado>
+    <Quorum Valor="2">Quórum Calificado</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90900</Id>
+    <Descripcion>Boletín N° 18551-04</Descripcion>
+    <Fecha>2026-11-09T19:47:08</Fecha>
+    <TotalSi>76</TotalSi>
+    <TotalNo>36</TotalNo>
+    <TotalAbstencion>2</TotalAbstencion>
+    <TotalDispensado>1</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90899</Id>
+    <Descripcion>1-Otros</Descripcion>
+    <Fecha>2026-11-09T19:46:06</Fecha>
+    <TotalSi>59</TotalSi>
+    <TotalNo>46</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="4">Otros</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90895</Id>
+    <Descripcion>5-Cambio de Trámite</Descripcion>
+    <Fecha>2026-11-09T18:37:57</Fecha>
+    <TotalSi>51</TotalSi>
+    <TotalNo>35</TotalNo>
+    <TotalAbstencion>3</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="4">Otros</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90894</Id>
+    <Descripcion>5-Cambio de Trámite</Descripcion>
+    <Fecha>2026-11-09T18:36:12</Fecha>
+    <TotalSi>55</TotalSi>
+    <TotalNo>23</TotalNo>
+    <TotalAbstencion>2</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="4">Otros</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90885</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-09T18:13:34</Fecha>
+    <TotalSi>81</TotalSi>
+    <TotalNo>63</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="2">Quórum Calificado</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90884</Id>
+    <Descripcion>Boletín N° 18702-05</Descripcion>
+    <Fecha>2026-11-09T18:12:35</Fecha>
+    <TotalSi>80</TotalSi>
+    <TotalNo>63</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="1">Proyecto de Ley</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90882</Id>
+    <Descripcion>1-Otros</Descripcion>
+    <Fecha>2026-11-09T14:51:32</Fecha>
+    <TotalSi>62</TotalSi>
+    <TotalNo>47</TotalNo>
+    <TotalAbstencion>8</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="4">Otros</Tipo>
+  </Votacion>
+  <Votacion>
+    <Id>90881</Id>
+    <Descripcion>5-Cambio de Trámite</Descripcion>
+    <Fecha>2026-11-09T14:41:25</Fecha>
+    <TotalSi>77</TotalSi>
+    <TotalNo>27</TotalNo>
+    <TotalAbstencion>1</TotalAbstencion>
+    <TotalDispensado>0</TotalDispensado>
+    <Quorum Valor="1">Quórum Simple</Quorum>
+    <Resultado Valor="1">Aprobado</Resultado>
+    <Tipo Valor="4">Otros</Tipo>
+  </Votacion>
+</VotacionesColeccion>

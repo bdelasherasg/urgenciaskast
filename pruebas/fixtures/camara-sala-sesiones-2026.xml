@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SesionesSalaColeccion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://opendata.camara.cl/camaradiputados/v1">
+  
+  <Sesion>
+    <Id>4845</Id>
+    <Numero>85</Numero>
+    <FechaInicio>2026-10-28T15:03:15</FechaInicio>
+    <FechaTermino>2026-10-28T17:14:17</FechaTermino>
+    <Tipo Valor="2">Especial</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4846</Id>
+    <Numero>86</Numero>
+    <FechaInicio>2026-11-02T17:00:16</FechaInicio>
+    <FechaTermino>2026-11-02T19:16:47</FechaTermino>
+    <Tipo Valor="1">Ordinaria</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4847</Id>
+    <Numero>87</Numero>
+    <FechaInicio>2026-11-03T10:01:25</FechaInicio>
+    <FechaTermino>2026-11-03T13:23:57</FechaTermino>
+    <Tipo Valor="1">Ordinaria</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4848</Id>
+    <Numero>88</Numero>
+    <FechaInicio>2026-11-04T10:00:30</FechaInicio>
+    <FechaTermino>2026-11-04T13:57:01</FechaTermino>
+    <Tipo Valor="1">Ordinaria</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4849</Id>
+    <Numero>89</Numero>
+    <FechaInicio>2026-11-09T14:33:27</FechaInicio>
+    <FechaTermino>2026-11-09T18:14:26</FechaTermino>
+    <Tipo Valor="1">Ordinaria</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4850</Id>
+    <Numero>90</Numero>
+    <FechaInicio>2026-11-09T18:30:13</FechaInicio>
+    <FechaTermino>2026-11-09T19:55:14</FechaTermino>
+    <Tipo Valor="2">Especial</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4851</Id>
+    <Numero>91</Numero>
+    <FechaInicio>2026-11-10T14:03:04</FechaInicio>
+    <FechaTermino>2026-11-10T23:01:40</FechaTermino>
+    <Tipo Valor="2">Especial</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4852</Id>
+    <Numero>92</Numero>
+    <FechaInicio>2026-11-11T09:31:09</FechaInicio>
+    <FechaTermino>2026-11-11T23:13:19</FechaTermino>
+    <Tipo Valor="1">Ordinaria</Tipo>
+    <Estado Valor="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4853</Id>
+    <Numero>93</Numero>
+    <FechaInicio>2026-11-12T09:31:36</FechaInicio>
+    <FechaTermino>2026-11-12T23:55:00</FechaTermino>
+    <Tipo Valor="2">Especial</Tipo>
+    <Estado Valor="0">Citada</Estado>
+  </Sesion>
+  <Sesion>
+    <Id>4854</Id>
+    <Numero>94</Numero>
+    <FechaInicio>2026-11-16T15:00:00</FechaInicio>
+    <FechaTermino>2026-11-16T17:00:00</FechaTermino>
+    <Tipo Valor="1">Ordinaria</Tipo>
+    <Estado Valor="0">Citada</Estado>
+  </Sesion>
+</SesionesSalaColeccion>

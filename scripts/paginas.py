@@ -16,10 +16,16 @@ import json
 import os
 import re
 import sys
+from zoneinfo import ZoneInfo
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITIO = 'https://urgenciaskast.cl'
 LOCOMUN = 'https://locomun.cl'
+
+
+def hoy_chile():
+    """Fecha de hoy en Chile: el servidor de GitHub trabaja en UTC y pasadas las 21:00 ya es «mañana» allá."""
+    return dt.datetime.now(ZoneInfo('America/Santiago')).date()
 
 
 def ruta(*p):
@@ -175,6 +181,11 @@ def titulo_corto(t, n=60):
     return primera if len(primera) <= n else recortar(primera, n)
 
 
+def tiene_pagina(b, urg, ag, idx):
+    """Hay página de proyecto si se conocen sus datos oficiales o tiene ficha (lo mismo que construir_fichas)."""
+    return b in idx or b in (ag.get('proyectos') or {}) or any(x['boletin'] == b for x in urg.get('proyectos', []))
+
+
 def relacionados(b, urg, ag, idx, F, pub):
     """Bloque visible bajo la ficha: otros proyectos de la misma comisión y fechas de publicación y actualización."""
     organos = {}
@@ -184,7 +195,7 @@ def relacionados(b, urg, ag, idx, F, pub):
     otros, titulo = [], 'Otros proyectos en la misma comisión'
     for org, bs in organos.items():
         for o in bs:
-            if o != b and o not in otros:
+            if o != b and o not in otros and tiene_pagina(o, urg, ag, idx):
                 otros.append(o)
     if not otros:
         etapa = next((x.get('etapa') for x in urg.get('proyectos', []) if x['boletin'] == b), None)
@@ -216,7 +227,7 @@ def nombre_proyecto(b, urg, ag, idx):
 
 
 def tabla_estatica(urg, idx):
-    hoy = dt.date.today().isoformat()
+    hoy = hoy_chile().isoformat()
     vig = [x for x in urg.get('proyectos', []) if (x.get('urgencia_vigente') or {}).get('estado') == 'vigente'
            and (x['urgencia_vigente'].get('vence') or '') >= hoy]
     vig.sort(key=lambda x: x['urgencia_vigente']['vence'])
@@ -228,7 +239,7 @@ def tabla_estatica(urg, idx):
 
 
 def agenda_estatica(urg, ag, idx):
-    hoy = dt.date.today()
+    hoy = hoy_chile()
     lim = (hoy + dt.timedelta(days=13)).isoformat()
     ses = [x for x in (ag.get('sesiones') or []) if x.get('estado') != 'sin efecto' and x.get('boletines')
            and hoy.isoformat() <= x['fecha'] <= lim]
@@ -241,7 +252,8 @@ def agenda_estatica(urg, ag, idx):
     for f, lista in por_dia.items():
         li = ''.join(
             f'<li><b>{esc(x.get("hora"))}</b> {esc(x.get("camara"))}, {esc(x.get("organo"))}: '
-            + '; '.join(f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{esc(recortar(nombre_proyecto(b, urg, ag, idx), 160))}</a> (boletín {esc(b)})' for b in x['boletines'])
+            + '; '.join((f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{esc(recortar(nombre_proyecto(b, urg, ag, idx), 160))}</a> (boletín {esc(b)})'
+                         if tiene_pagina(b, urg, ag, idx) else f'boletín {esc(b)}, sin datos oficiales para ese número') for b in x['boletines'])
             + '</li>' for x in lista)
         partes.append(f'<section><h2>{esc(fecha_larga(f, dia=True))}</h2><ul>{li}</ul></section>')
     return '<h2 class="solo-lector">Citaciones confirmadas de las próximas dos semanas</h2>' + ''.join(partes)
@@ -407,7 +419,7 @@ def construir_fichas(v):
 
 
 def construir_feed(urg, ag, idx):
-    hoy = dt.date.today()
+    hoy = hoy_chile()
     lim = (hoy + dt.timedelta(days=6)).isoformat()
     ps = urg.get('proyectos', [])
 
