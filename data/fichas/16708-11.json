@@ -1,0 +1,158 @@
+{
+  "version": 2,
+  "boletin": "16708-11",
+  "nivel": "basica",
+  "sintesis": "Agrega la prevención de la infertilidad a las tareas de las matronas y permite indicar exámenes preventivos. El Senado lo aprobó. La Cámara lo aprobó en general y su comisión despachó el proyecto.",
+  "materia": "la prevención de la infertilidad",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el Código Sanitario nunca menciona la infertilidad, aunque hoy la baja natalidad preocupa en varios países.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Senado recibió la opinión de expertos sobre la baja cobertura de las prestaciones para tratarla.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que las matronas colaboren en la prevención de la infertilidad desde edades tempranas.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El texto aprobado por el Senado también permite indicar exámenes preventivos, que fijaría un protocolo.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 117 del Código Sanitario, que menciona la salud sexual y reproductiva y la regulación de la fertilidad.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Agrega la infertilidad a esas tareas y un inciso final sobre los exámenes preventivos.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Los exámenes también podrían indicarlos los especialistas en ginecología y obstetricia.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a matronas y a médicos especialistas, y a las personas que consultan por fertilidad.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "La comisión de Salud de la Cámara indicó que el proyecto no requiere trámite de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "En el Senado, un senador dijo que abordar el tema con seriedad exige gasto fiscal.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado aprobó el proyecto el 29 de enero de 2025, en general y en particular a la vez.",
+        "fuentes": [
+          "f8",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 7 de septiembre de 2026 la Cámara lo aprobó en general. El 20 de octubre de 2026, la Comisión de Salud despachó el proyecto.",
+        "fuentes": [
+          "f8",
+          "f7"
+        ]
+      },
+      {
+        "texto": "Está en segundo trámite en la Cámara, con urgencia simple.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17283&tipodoc=mensaje_mocion",
+      "fecha": "2024-04-03",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Salud · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28171&tipodoc=info",
+      "fecha": "2026-08-11",
+      "nota": "Primer informe de la comisión de Salud de la Cámara."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 39-11",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34526&tipodoc=ofic",
+      "fecha": "2025-01-29",
+      "nota": "Texto aprobado por el Senado."
+    },
+    {
+      "id": "f6",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Salud · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27083&tipodoc=info",
+      "fecha": "2025-01-27",
+      "nota": "Pasajes del informe del Senado sobre costo."
+    },
+    {
+      "id": "f7",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la comisión."
+    },
+    {
+      "id": "f8",
+      "titulo": "Tramitación del boletín 16708-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16708",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
