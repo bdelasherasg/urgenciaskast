@@ -1,0 +1,139 @@
+{
+  "version": 2,
+  "boletin": "16709-11",
+  "nivel": "basica",
+  "sintesis": "Agrega la infertilidad a la información y orientación que la ley de regulación de la fertilidad reconoce a las personas. El Senado lo aprobó. La Cámara lo aprobó en general y espera su votación en particular.",
+  "materia": "la información y educación sobre la infertilidad",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley 20.418 reconoce el derecho a información sobre regulación de la fertilidad, pero no dice nada sobre la infertilidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que su orientación es preventiva en embarazo adolescente e infecciones de transmisión sexual, y no abarca los tratamientos de infertilidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que la información y la orientación que da la ley incluyan también la infertilidad.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 1 de la ley 20.418.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Agrega la palabra infertilidad en el primer inciso.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Exige informar de modo especial sobre la prevención de la infertilidad y sus consecuencias.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas que reciben información y orientación en salud sexual y reproductiva, y a quienes se las entregan.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La comisión de Salud de la Cámara indicó que el proyecto no requiere trámite de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado aprobó el proyecto el 29 de enero de 2025, en general y en particular a la vez.",
+        "fuentes": [
+          "f7",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 8 de septiembre de 2026 la Cámara lo aprobó en general.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre de 2026 la Comisión de Salud entregó su segundo informe. El proyecto, con urgencia simple, sigue en segundo trámite en la Cámara.",
+        "fuentes": [
+          "f7",
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17284&tipodoc=mensaje_mocion",
+      "fecha": "2024-04-03",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Segundo informe de comisión de Salud · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28392&tipodoc=info",
+      "fecha": "2026-11-03",
+      "nota": "Segundo informe de la comisión de Salud de la Cámara."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Salud · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28198&tipodoc=info",
+      "fecha": "2026-08-18",
+      "nota": "Primer informe de la comisión de Salud de la Cámara."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 40-25",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=34527&tipodoc=ofic",
+      "fecha": "2025-01-29",
+      "nota": "Texto aprobado por el Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 16709-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16709",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
