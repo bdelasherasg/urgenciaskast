@@ -59,13 +59,18 @@ def texto(datos):
 
 
 def a_lineas(html, abrir=False):
+    html = re.sub(r'(?s)<!--.*?(-->|$)', ' ', html)  # comentarios: el Senado deja plantillas comentadas
     html = re.sub(r'(?is)<(script|style|noscript)\b.*?</\1>', ' ', html)
     if abrir:  # también corta al abrir bloques (útil cuando la página no cierra sus etiquetas)
         html = re.sub(r'(?i)<(p|div|tr|li|h\d|table|dt|dd|section|article|header)\b[^>]*>', '\n', html)
     html = re.sub(r'(?i)<br\s*/?>|</(p|div|tr|td|th|li|h\d|table|caption|dt|dd|section|article|header|span)>', '\n', html)
     html = re.sub(r'<[^>]+>', ' ', html)
     lineas = [re.sub(r'\s+', ' ', l).strip() for l in htmlmod.unescape(html).split('\n')]
-    return [l for l in lineas if l]
+    # restos de plantilla sin rellenar (%%CAMPO%%) o de comentarios cortados
+    return [l for l in lineas if l and not RE_PLANTILLA.search(l) and l not in ('-->', '<!--')]
+
+
+RE_PLANTILLA = re.compile(r'%%[A-Z0-9_.]+%%')
 
 
 RE_FECHA_NUM = re.compile(r'\b(\d{1,2})[/-](\d{1,2})[/-](20\d{2})\b')
