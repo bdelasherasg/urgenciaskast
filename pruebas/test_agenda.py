@@ -59,3 +59,23 @@ class CitacionesAsistidas(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class SenadoSinRestosDePlantilla(unittest.TestCase):
+    """El Senado publica bloques comentados con marcadores %%...%% que no deben llegar a las materias."""
+
+    HTML = ('<p>martes 17 de noviembre de 2026</p><table>'
+            '<tr><td>COMISIÓN:</td><td>Hacienda</td></tr>'
+            '<tr><td>HORARIO:</td><td>09:00 a 10:00</td></tr>'
+            '<tr><td>MATERIA:</td><td><p>1.- Informe de Estabilidad Financiera (IEF) del Banco Central de Chile.</p>'
+            '<!-- <div>%%CITACION_FECHA.COMINOMBRE%% [<a href="x">ver</a>]</div> --></td></tr></table>')
+
+    def test_las_materias_quedan_limpias(self):
+        sesiones = agenda.parse_senado(agenda.a_lineas(self.HTML))
+        self.assertEqual(len(sesiones), 1)
+        self.assertEqual(sesiones[0]['materias'],
+                         ['1.- Informe de Estabilidad Financiera (IEF) del Banco Central de Chile.'])
+
+    def test_un_marcador_suelto_tambien_se_descarta(self):
+        self.assertEqual(agenda.a_lineas('<p>Materia real</p><p>%%CITACION_FECHA.COMINOMBRE%% []</p><p>--></p>'),
+                         ['Materia real'])
