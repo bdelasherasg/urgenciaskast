@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "boletin": "17709-02",
+  "nivel": "basica",
+  "sintesis": "Obliga a controlar cada año, al azar, el consumo de drogas de todo el personal de las fuerzas armadas y policiales. La Comisión de Defensa lo rechazó en general y la Cámara aplazó su discusión.",
+  "materia": "los controles de drogas en las fuerzas armadas y policías",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el narcotráfico se ha ido acercando a las fuerzas armadas, sobre todo en zonas de frontera.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Menciona tres casos de 2025 con personal militar involucrado en tráfico de drogas, con bajas de los responsables.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que cada año se controle, al azar, el consumo de drogas de toda la dotación de las fuerzas armadas, Carabineros, Gendarmería y la Policía de Investigaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Encarga a la autoridad superior de cada institución ordenar esos controles.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Reemplaza el último inciso del artículo 14 de la ley 20.000, que sanciona el tráfico de drogas.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "Un reglamento fijaría las reglas de los controles.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a todo el personal de las fuerzas armadas, de orden y seguridad, y a sus autoridades.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión indicó que el artículo único no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En el debate, un diputado sostuvo que el proyecto genera gasto fiscal y que sería materia del Presidente de la República.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 15 de julio de 2025 y está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 10 de julio de 2026 la Comisión de Defensa Nacional lo rechazó en general, por no alcanzar el quórum: 6 votos a favor, 3 en contra y 3 abstenciones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 19 de agosto de 2026 los comités parlamentarios acordaron aplazar su discusión en la Sala.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Ordena la realización anual y aleatoria de controles de consumo de drogas para el personal de las fuerzas armadas y de orden y seguridad pública",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18356&tipodoc=mensaje_mocion",
+      "fecha": "2025-07-15",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Defensa Nacional · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28187&tipodoc=info",
+      "fecha": "2026-08-18",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Defensa Nacional · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28187&tipodoc=info",
+      "fecha": "2026-08-18",
+      "nota": "Pasajes del informe sobre gasto fiscal."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 17709-02 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17709",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
