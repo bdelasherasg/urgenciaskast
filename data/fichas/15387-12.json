@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "boletin": "15387-12",
+  "nivel": "basica",
+  "sintesis": "Prohíbe las competiciones no autorizadas entre perros que pongan en peligro su integridad y las sanciona como maltrato animal. La Cámara lo aprobó en general. Espera su votación en particular.",
+  "materia": "la prohibición de las carreras de perros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción sostiene que las carreras de perros son una forma de explotación de animales de compañía.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Dice que esto contradice el espíritu de la ley de tenencia responsable de mascotas.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción propone prohibir y sancionar las carreras de perros, de cualquier raza.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El texto aprobado por la comisión prohíbe las competiciones no autorizadas entre perros que puedan poner en peligro su integridad física.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo 11 bis a la ley 21.020.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Quien infrinja la prohibición comete maltrato y crueldad animal, sancionado según el artículo 291 bis del Código Penal.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Ordena retener siempre al animal usado en estas carreras, salvo que pertenezca a una persona ajena al delito.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes organizan competiciones entre perros y a sus dueños.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La comisión indicó que el proyecto no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El 18 de agosto de 2026, la Sala de la Cámara aprobó el proyecto en general, con 80 votos a favor.",
+        "fuentes": [
+          "f4",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Hubo indicaciones, es decir, propuestas de cambio. El 9 de septiembre de 2026, la Comisión de Medio Ambiente entregó su segundo informe.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 21 de septiembre de 2026 el proyecto quedó para tabla, en primer trámite en la Cámara.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Segundo informe de comisión Medio Ambiente y Recursos Naturales · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28225&tipodoc=info",
+      "fecha": "2026-09-09",
+      "nota": "Segundo informe de comisión, con el texto aprobado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27509&tipodoc=info",
+      "fecha": "2025-09-15",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21.520: Remite las indicaciones presentadas durante la discusión general en Sala.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37062&tipodoc=ofic",
+      "fecha": "2026-08-18",
+      "nota": "Votación en general en Sala."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 15387-12 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15387",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
