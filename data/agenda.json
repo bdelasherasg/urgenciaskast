@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-13T09:35-03:00",
+ "actualizado": "2026-11-13T10:16-03:00",
  "desde": "2026-11-13",
  "hasta": "2026-11-26",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T09:35",
-   "citaciones": 11,
+   "consultado": "2026-11-13T10:16",
+   "citaciones": 10,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-13T09:35",
+   "consultado": "2026-11-13T10:16",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T09:35",
+   "consultado": "2026-11-13T10:16",
    "sesiones": 10,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-13T09:35",
+   "consultado": "2026-11-13T10:16",
    "grupos": 10
   }
  },
@@ -61,24 +61,6 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "12:30",
-   "horario": "12:30 a 14:00",
-   "camara": "Senado",
-   "organo": "Comisión de Agricultura",
-   "lugar": "Sala 144, edificio ex Congreso, Santiago",
-   "materias": [
-    "1.- Conocer, de parte del señor Subsecretario de Agricultura, los antecedentes relativos a la eventual compra de trigo por Cotrisa, las modificaciones al reglamento de la ley N° 18.455, que fija normas sobre producción, elaboración y comercialización de alcoholes etílicos, bebidas alcohólicas y vinagres, y otras materias de interés de la Comisión, en el ámbito de su competencia.",
-    "Invitado:",
-    "El Subsecretario de Agricultura, señor Francesco Venezian."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Audiencia"
   },
   {
    "fecha": "2026-11-16",
