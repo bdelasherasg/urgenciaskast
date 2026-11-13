@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "17337-07",
+  "nivel": "basica",
+  "sintesis": "Prohíbe la maternidad subrogada, o vientre de alquiler, anula esos contratos y crea delitos para quienes la promuevan. La Comisión de la Familia lo aprobó en general. Está en primer trámite en la Cámara.",
+  "materia": "la prohibición de la maternidad subrogada",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el vientre de alquiler daña a la familia y usa el cuerpo de una mujer para gestar a un niño que se entrega a terceros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la comisión se señaló que, aunque en Chile la práctica no está plenamente desarrollada, se ha expandido en América Latina.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone prohibir toda forma de utilización de la mujer como vientre de alquiler.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Declara nulo el contrato en que una mujer renuncia a la filiación de su hijo a favor de otra persona.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea delitos en el Código Penal, con presidio y multas, para quienes intermedien, organicen o publiciten la maternidad subrogada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sanciona al médico que participe de una gestación asistida con ese fin.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Prohíbe transferir óvulos a un establecimiento de salud con fines reproductivos y niega la adopción a quienes hayan firmado un contrato de este tipo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a parejas o personas que recurran a la subrogación, a las mujeres gestantes, a médicos y a establecimientos de salud.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "La comisión dejó constancia de que no hay normas que deban ser conocidas por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 13 de enero de 2025 y está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 26 de enero de 2026, la Comisión de la Familia lo aprobó en general por unanimidad. Su informe es del 24 de julio de 2026.",
+        "fuentes": [
+          "f2",
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 3 de agosto de 2026 el proyecto quedó para tabla.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica diversos cuerpos legales para prohibir y sancionar la maternidad subrogada",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17975&tipodoc=mensaje_mocion",
+      "fecha": "2025-01-13",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de la Familia · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28114&tipodoc=info",
+      "fecha": "2026-07-24",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 17337-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17337",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
