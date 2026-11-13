@@ -1,3 +1,4 @@
 # Boletines que el sitio debe revisar aunque no aparezcan en las búsquedas automáticas.
 # Uno por línea, con su sufijo. Ejemplo:
 # 18623-07
+18702-05  Ley de Presupuestos 2027 (se sigue aunque no tenga urgencia: tiene plazo constitucional)

@@ -22,6 +22,7 @@ import time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import actualizar as A  # noqa: E402
+import sala as S  # noqa: E402
 
 RAIZ = A.RAIZ
 SALIDA = os.path.join(RAIZ, 'data', 'agenda.json')
@@ -29,7 +30,10 @@ URGENCIAS = A.SALIDA
 DIAS_VENTANA = 14
 MAX_CONSULTAS = 150
 CITACIONES_ASISTIDAS = os.path.join(RAIZ, 'data', 'citaciones_camara.json')
-DIAS_VIGENCIA_ASISTIDA = 8
+DIAS_VIGENCIA_ASISTIDA = 21
+TABLA_SALA = os.path.join(RAIZ, 'data', 'tabla_sala.json')
+VOTACIONES_SALA = os.path.join(RAIZ, 'data', 'votaciones_sala.json')
+ESPECIALES = os.path.join(RAIZ, 'data', 'proyectos_especiales.json')
 
 URL_SENADO_CITACIONES = 'https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1'
 URL_CAMARA_CITACIONES = 'https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana={anno}-{semana:02d}'
@@ -111,8 +115,8 @@ def nombre_organo(valor):
 
 def citaciones_asistidas(desde, hasta, hoy):
     """Citaciones de la Cámara cargadas por el equipo en el panel (sección Citaciones) cuando el sitio de la Cámara
-    rechaza la lectura automática. Se aceptan solo si el archivo es reciente y cada citación
-    tiene fecha ISO dentro de la ventana y boletines con formato válido."""
+    rechaza la lectura automática. Se aceptan si el archivo se cargó hace menos de 21 días y la citación tiene fecha
+    ISO dentro de la ventana. Las sesiones sin proyecto de ley (audiencias, exposiciones) también se muestran."""
     try:
         with open(CITACIONES_ASISTIDAS, encoding='utf-8') as f:
             datos = json.load(f)
@@ -129,7 +133,7 @@ def citaciones_asistidas(desde, hasta, hoy):
         except ValueError:
             continue
         bols = [b for b in c.get('boletines', []) if isinstance(b, str) and re.fullmatch(r'\d{4,6}-\d{2}', b)]
-        if not bols or not (desde <= fecha <= hasta):
+        if not (desde <= fecha <= hasta):
             continue
         s = nueva_sesion(fecha, 'Cámara de Diputados', 'Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)')
         s['organo'] = str(c.get('organo', ''))[:200]
@@ -258,6 +262,57 @@ def leer_json(ruta, defecto):
         return defecto
 
 
+def sala_de_ambas_camaras(hoy, hasta, anterior, fuentes):
+    """Sesiones de Sala desde los últimos días hasta el fin de la ventana, con la tabla cargada por el equipo.
+    Si una fuente falla, se conservan las sesiones de Sala de esa cámara que ya estaban en la agenda."""
+    desde_pasadas = (hoy - dt.timedelta(days=S.DIAS_PASADOS)).isoformat()
+    previas = anterior.get('sesiones', []) + anterior.get('pasadas', [])
+    ahora = A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes')
+    sala = []
+
+    annos = sorted({hoy.year, dt.date.fromisoformat(hasta).year, dt.date.fromisoformat(desde_pasadas).year})
+    n_err = len(A.errores)
+    camara = []
+    for anno in annos:
+        camara += S.parse_camara_sala(texto(A.bajar(S.URL_CAMARA_SALA.format(anno=anno))))
+    legislatura = S.legislatura_actual(texto(A.bajar(S.URL_LEGISLATURA))) or anterior.get('legislatura')
+    senado = S.parse_senado_sala(texto(A.bajar(S.URL_SENADO_SALA.format(numero=legislatura)))) if legislatura else []
+    for camara_, nuevas, clave, url in ((S.CAMARA, camara, 'sala_camara', S.URL_CAMARA_SALA.format(anno=hoy.year)),
+                                        (S.SENADO, senado, 'sala_senado', S.URL_SENADO_SALA.format(numero=legislatura))):
+        nuevas = [s for s in nuevas if desde_pasadas <= s['fecha'] <= hasta]
+        if nuevas:
+            fuentes[clave] = {'estado': 'ok', 'consultado': ahora, 'sesiones': len(nuevas), 'url': url}
+        else:
+            nuevas = [dict(s) for s in previas if s.get('tipo') == 'sala' and s.get('camara') == camara_ and desde_pasadas <= s.get('fecha', '') <= hasta
+                      and not s.get('fuente', '').startswith('Tabla cargada')]
+            fuentes[clave] = {'estado': 'sin_actualizar', 'detalle': '; '.join(A.errores[n_err:])[:300] or 'Sin sesiones de Sala reconocibles.',
+                              'conservadas': len(nuevas), 'url': url}
+        sala += nuevas
+
+    tablas = leer_json(TABLA_SALA, {}).get('sesiones', [])
+    creadas = S.aplicar_tablas(sala, tablas)
+    sala = [s for s in sala if desde_pasadas <= s['fecha'] <= hasta]
+    fuentes['tabla_sala'] = {'estado': 'asistida' if tablas else 'sin_datos', 'tablas': sum(1 for s in sala if s.get('tabla') == 'cargada'),
+                             'creadas': len(creadas), 'sin_tabla': sum(1 for s in sala if s.get('tabla') != 'cargada' and s['fecha'] >= hoy.isoformat())}
+    return sala, legislatura
+
+
+def votaciones_de_sala(hoy, fuentes):
+    """Resumen de las votaciones de Sala de la Cámara de los últimos 14 días (data/votaciones_sala.json).
+    Si la fuente falla, se conserva el archivo anterior."""
+    desde = (hoy - dt.timedelta(days=14)).isoformat()
+    xml = ''.join(texto(A.bajar(S.URL_VOTACIONES.format(anno=anno), timeout=60)) for anno in sorted({hoy.year, int(desde[:4])}))
+    if '<Votacion>' not in xml:
+        fuentes['votaciones_camara'] = {'estado': 'sin_actualizar', 'detalle': 'Sin votaciones reconocibles; se conserva el archivo anterior.'}
+        return
+    resumen = S.parse_votaciones(xml, desde)
+    with open(VOTACIONES_SALA, 'w', encoding='utf-8') as f:
+        json.dump({'actualizado': A.ahora_chile().isoformat(timespec='minutes'), 'desde': desde,
+                   'fuente': 'Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)', 'votaciones': resumen},
+                  f, ensure_ascii=False, indent=1)
+    fuentes['votaciones_camara'] = {'estado': 'ok', 'consultado': A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes'), 'grupos': len(resumen)}
+
+
 def principal():
     hoy = A.hoy_chile()
     desde, hasta = hoy.isoformat(), (hoy + dt.timedelta(days=DIAS_VENTANA - 1)).isoformat()
@@ -308,11 +363,24 @@ def principal():
             fuentes['camara'] = {'estado': 'sin_actualizar', 'detalle': detalle,
                                  'control': control, 'conservadas': len(prev), 'url': urls[0]}
 
-    sesiones = [s for s in sesiones if en_ventana(s, desde, hasta)]
-    sesiones.sort(key=lambda s: (s['fecha'], s.get('hora') or '99', s['camara'], s['organo']))
+    # Sala de ambas cámaras: el horario llega solo; qué se trata (la tabla) lo carga el equipo en el panel.
+    sala, legislatura = sala_de_ambas_camaras(hoy, hasta, anterior, fuentes)
+    sesiones += [s for s in sala if en_ventana(s, desde, hasta)]
 
-    # Datos oficiales de cada boletín citado que no tiene urgencia vigente
-    citados = sorted({b for s in sesiones for b in s['boletines']})
+    sesiones = [s for s in sesiones if en_ventana(s, desde, hasta)]
+    especiales = leer_json(ESPECIALES, {})
+    S.asignar_especiales(sesiones, especiales)
+    sesiones.sort(key=lambda s: (s['fecha'], s.get('hora') or '99', s['camara'], s['organo']))
+    ultimas = S.pasadas([s for s in sala if s['fecha'] < desde], anterior.get('sesiones', []) + anterior.get('pasadas', []), hoy)
+    for s in sesiones + ultimas:
+        s.setdefault('tipo', 'comision')
+        s['actividad'] = S.actividad(s)
+    votaciones_de_sala(hoy, fuentes)
+
+    # Datos oficiales de cada boletín citado que no tiene urgencia vigente, y de los que se siguen siempre
+    # (data/boletines_extra.txt): así tienen página y la tarea de borradores les hace ficha.
+    seguidos = S.leer_seguidos(A.EXTRA)
+    citados = sorted({b for s in sesiones for b in s['boletines']} | set(seguidos))
     proyectos = {}
     previos = anterior.get('proyectos', {})
     por_consultar = [b for b in citados if b not in por_boletin][:MAX_CONSULTAS]
@@ -343,8 +411,12 @@ def principal():
         'hasta': hasta,
         'fuentes': fuentes,
         'sesiones': sesiones,
+        'pasadas': ultimas,
         'probables': probables,
         'proyectos': proyectos,
+        'seguidos': seguidos,
+        'especiales': especiales,
+        'legislatura': legislatura,
     }
     with open(SALIDA, 'w', encoding='utf-8') as f:
         json.dump(salida, f, ensure_ascii=False, indent=1)

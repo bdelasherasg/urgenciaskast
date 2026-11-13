@@ -1,0 +1,14 @@
+{
+ "18702-05": {
+  "tipo": "presupuesto",
+  "nombre": "Ley de Presupuestos 2027",
+  "patrones": ["Ley de Presupuestos", "Presupuestos para el Sector Público", "Presupuestos del Sector Público", "Presupuesto 2027", "Comisión Especial Mixta de Presupuestos"],
+  "detalle": {
+   "sitio": "PresupuestoKast.cl",
+   "url": "https://presupuestokast.cl/",
+   "partida": "https://presupuestokast.cl/partida/{nn}",
+   "votaciones": "https://presupuestokast.cl/votaciones",
+   "indicaciones": "https://presupuestokast.cl/indicaciones"
+  }
+ }
+}

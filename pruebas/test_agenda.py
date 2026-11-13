@@ -43,9 +43,18 @@ class CitacionesAsistidas(unittest.TestCase):
         self.assertTrue(salida[0]['asistida'])
         self.assertEqual(salida[0]['hora'], '15:00')
 
-    def test_se_descartan_sesiones_fuera_de_la_ventana_o_sin_boletin(self):
-        salida = self.leer([sesion(fecha='2026-12-30'), sesion(fecha='2026-11-10'), sesion(boletines=[]), sesion(boletines=['abc'])])
+    def test_se_descartan_sesiones_fuera_de_la_ventana(self):
+        salida = self.leer([sesion(fecha='2026-12-30'), sesion(fecha='2026-11-10')])
         self.assertEqual(salida, [])
+
+    def test_las_sesiones_sin_proyecto_de_ley_tambien_se_muestran(self):
+        salida = self.leer([sesion(boletines=[], materias=['Recibir al Subsecretario.']), sesion(boletines=['abc'])])
+        self.assertEqual(len(salida), 2)
+        self.assertEqual([s['boletines'] for s in salida], [[], []])
+
+    def test_vigencia_de_la_carga(self):
+        self.assertEqual(len(self.leer([sesion()], leido='2026-10-25T10:00')), 1)   # 19 días
+        self.assertEqual(self.leer([sesion()], leido='2026-10-20T10:00'), [])        # 24 días
 
 
 if __name__ == '__main__':

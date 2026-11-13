@@ -163,7 +163,7 @@ def candidatos():
     if os.path.exists(EXTRA):
         with open(EXTRA, encoding='utf-8') as f:
             for linea in f:
-                m = RE_BOLETIN.search(linea)
+                m = None if linea.lstrip().startswith('#') else RE_BOLETIN.search(linea)
                 if m:
                     boletines.add(f'{m.group(1)}-{m.group(2)}')
     return sorted(boletines)
