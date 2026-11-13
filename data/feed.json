@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T10:46-03:00",
+ "actualizado": "2026-11-13T13:19-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
   "vencen_7_dias": 20,
-  "citaciones_7_dias": 30
+  "citaciones_7_dias": 26
  },
  "proximos_vencimientos": [
   {
@@ -59,46 +59,6 @@
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-16",
-   "hora": "10:30",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "proyectos": [
-    {
-     "boletin": "15589-07",
-     "titulo": "Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
-     "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
-     "url": "https://urgenciaskast.cl/p/15589-07.html"
-    },
-    {
-     "boletin": "17637-07",
-     "titulo": "Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales",
-     "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
-     "url": "https://urgenciaskast.cl/p/17637-07.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "14:00",
-   "camara": "Senado",
-   "organo": "Comisión de Salud",
-   "proyectos": [
-    {
-     "boletin": "15047-11",
-     "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
-     "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/15047-11.html"
-    },
-    {
-     "boletin": "17567-11",
-     "titulo": "Optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos",
-     "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/17567-11.html"
-    }
-   ]
-  },
   {
    "fecha": "2026-11-16",
    "hora": "14:20",
@@ -273,29 +233,15 @@
   },
   {
    "fecha": "2026-11-16",
-   "hora": "15:30",
-   "camara": "Senado",
-   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
-   "proyectos": [
-    {
-     "boletin": "12712-24",
-     "titulo": "Ley de Patrimonio Cultural",
-     "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
-     "url": "https://urgenciaskast.cl/p/12712-24.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-16",
    "hora": "17:00",
    "camara": "Senado",
-   "organo": "Comisión de Economía",
+   "organo": "Sala del Senado",
    "proyectos": [
     {
-     "boletin": "14838-03",
-     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
-     "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
-     "url": "https://urgenciaskast.cl/p/14838-03.html"
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
   },
@@ -396,6 +342,48 @@
   {
    "fecha": "2026-11-17",
    "hora": "10:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "proyectos": [
+    {
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Deportes y Recreación",
+   "proyectos": [
+    {
+     "boletin": "18730-29",
+     "titulo": "Modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional",
+     "sintesis": "Extiende a deportistas de otras disciplinas, distintas del fútbol profesional, las reglas laborales especiales del Código del Trabajo. Está en primer trámite en la Cámara de Diputados, con urgencia simple.",
+     "url": "https://urgenciaskast.cl/p/18730-29.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Educación",
+   "proyectos": [
+    {
+     "boletin": "18461-04",
+     "titulo": "Modifica la ley N°20.370, general de educación, para regular a los apoderados en el sistema educacional chileno",
+     "sintesis": "Regula quién puede ser apoderado en los colegios, su orden de prioridad, un límite de estudiantes por apoderado y la forma de delegar. Es una moción en primer trámite en la Cámara, sin urgencia.",
+     "url": "https://urgenciaskast.cl/p/18461-04.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:00",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "proyectos": [
