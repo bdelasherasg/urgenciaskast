@@ -1,22 +1,14 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-12T18:46-03:00",
+ "actualizado": "2026-11-12T22:52-03:00",
  "conteos": {
-  "urgencias_vigentes": 46,
-  "discusion_inmediata": 11,
-  "vencen_7_dias": 21,
+  "urgencias_vigentes": 45,
+  "discusion_inmediata": 10,
+  "vencen_7_dias": 20,
   "citaciones_7_dias": 21
  },
  "proximos_vencimientos": [
-  {
-   "boletin": "16743-04",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
-   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/16743-04.html"
-  },
   {
    "boletin": "14309-04",
    "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
@@ -56,6 +48,14 @@
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-16",
    "url": "https://urgenciaskast.cl/p/18314-07.html"
+  },
+  {
+   "boletin": "18643-05",
+   "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+   "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-16",
+   "url": "https://urgenciaskast.cl/p/18643-05.html"
   }
  ],
  "agenda": [
