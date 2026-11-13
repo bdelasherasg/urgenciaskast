@@ -1,0 +1,152 @@
+{
+  "version": 2,
+  "boletin": "16593-06",
+  "nivel": "basica",
+  "sintesis": "Amplía el concepto de lobby y agrava las sanciones por incumplir la ley del lobby. Está refundido con otros dos proyectos. Falta la votación general en la Sala de la Cámara.",
+  "materia": "la modernización de la ley del lobby",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que una reunión entre una autoridad y un lobista registrado siempre debería contar como lobby.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Plantea que la ley actual deja una zona gris que permite reuniones en espacios privados y la puerta giratoria entre cargos públicos y privados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone ampliar el concepto de lobby a toda reunión entre lobistas registrados y las autoridades.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone crear una inhabilidad para frenar la puerta giratoria y aumentar las penas por incumplir la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley 20.730, del lobby.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La comisión de Gobierno informó un texto refundido con otros dos proyectos, que modifica el concepto de lobby, suma autoridades al registro y amplía las sanciones.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a autoridades, lobistas y gestores de intereses.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Da nuevas funciones al Consejo para la Transparencia.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero sustitutivo N° 80, del 7 de abril de 2026, calcula un mayor gasto fiscal de 72.704 miles de pesos el primer año y 39.192 miles de pesos en régimen.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "El gasto es sobre todo para contratar a un profesional en el Consejo para la Transparencia y para equipamiento tecnológico.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de Gobierno Interior emitió su informe el 9 de julio de 2025.",
+        "fuentes": [
+          "f3",
+          "f11"
+        ]
+      },
+      {
+        "texto": "La Comisión de Hacienda emitió el suyo el 27 de abril de 2026. El 13 de mayo de 2026 la Sala dejó pendiente la discusión general.",
+        "fuentes": [
+          "f2",
+          "f11"
+        ]
+      },
+      {
+        "texto": "El proyecto, con urgencia simple, está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f11"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por incumplimiento",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17162&tipodoc=mensaje_mocion",
+      "fecha": "2024-01-17",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27943&tipodoc=info",
+      "fecha": "2026-04-27",
+      "nota": "Informe de la Comisión de Hacienda."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27360&tipodoc=info",
+      "fecha": "2025-07-09",
+      "nota": "Informe de la Comisión de Gobierno Interior (proyecto refundido)."
+    },
+    {
+      "id": "f9",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27943&tipodoc=info",
+      "fecha": "2026-04-27",
+      "nota": "Pasajes sobre el informe financiero."
+    },
+    {
+      "id": "f10",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27360&tipodoc=info",
+      "fecha": "2025-07-09",
+      "nota": "Pasajes sobre las funciones y el costo."
+    },
+    {
+      "id": "f11",
+      "titulo": "Tramitación del boletín 16593-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16593",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
