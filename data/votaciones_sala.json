@@ -1,0 +1,147 @@
+{
+ "actualizado": "2026-11-13T06:45-03:00",
+ "desde": "2026-10-30",
+ "fuente": "Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)",
+ "votaciones": [
+  {
+   "fecha": "2026-11-13",
+   "boletin": "18702-05",
+   "votaciones": 77,
+   "aprobadas": 38,
+   "rechazadas": 39,
+   "ultima": {
+    "hora": "05:15",
+    "resultado": "Rechazado",
+    "si": 55,
+    "no": 58,
+    "abstencion": 2
+   }
+  },
+  {
+   "fecha": "2026-11-12",
+   "boletin": "18702-05",
+   "votaciones": 213,
+   "aprobadas": 141,
+   "rechazadas": 72,
+   "ultima": {
+    "hora": "23:51",
+    "resultado": "Aprobado",
+    "si": 89,
+    "no": 32,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-11",
+   "boletin": "18702-05",
+   "votaciones": 91,
+   "aprobadas": 33,
+   "rechazadas": 58,
+   "ultima": {
+    "hora": "23:13",
+    "resultado": "Rechazado",
+    "si": 49,
+    "no": 78,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-10",
+   "boletin": "18702-05",
+   "votaciones": 95,
+   "aprobadas": 56,
+   "rechazadas": 39,
+   "ultima": {
+    "hora": "22:38",
+    "resultado": "Aprobado",
+    "si": 126,
+    "no": 10,
+    "abstencion": 1
+   }
+  },
+  {
+   "fecha": "2026-11-09",
+   "boletin": "18702-05",
+   "votaciones": 2,
+   "aprobadas": 2,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "18:13",
+    "resultado": "Aprobado",
+    "si": 81,
+    "no": 63,
+    "abstencion": 1
+   }
+  },
+  {
+   "fecha": "2026-11-09",
+   "boletin": "18551-04",
+   "votaciones": 8,
+   "aprobadas": 8,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "19:54",
+    "resultado": "Aprobado",
+    "si": 88,
+    "no": 45,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-04",
+   "boletin": "18644-14",
+   "votaciones": 1,
+   "aprobadas": 1,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:29",
+    "resultado": "Aprobado",
+    "si": 142,
+    "no": 0,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-04",
+   "boletin": "18282-07",
+   "votaciones": 1,
+   "aprobadas": 1,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:30",
+    "resultado": "Aprobado",
+    "si": 142,
+    "no": 0,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-03",
+   "boletin": "16335-14",
+   "votaciones": 1,
+   "aprobadas": 1,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:06",
+    "resultado": "Aprobado",
+    "si": 77,
+    "no": 51,
+    "abstencion": 14
+   }
+  },
+  {
+   "fecha": "2026-11-02",
+   "boletin": "18525-06",
+   "votaciones": 2,
+   "aprobadas": 2,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "19:16",
+    "resultado": "Aprobado",
+    "si": 126,
+    "no": 4,
+    "abstencion": 4
+   }
+  }
+ ]
+}

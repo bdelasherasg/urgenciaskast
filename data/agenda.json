@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-12T22:52-03:00",
+ "actualizado": "2026-11-13T06:45-03:00",
  "desde": "2026-11-13",
  "hasta": "2026-11-26",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T01:52",
+   "consultado": "2026-11-13T06:45",
    "citaciones": 11,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -16,6 +16,29 @@
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-46: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden",
    "control": [],
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-46"
+  },
+  "sala_camara": {
+   "estado": "ok",
+   "consultado": "2026-11-13T06:45",
+   "sesiones": 6,
+   "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
+  },
+  "sala_senado": {
+   "estado": "ok",
+   "consultado": "2026-11-13T06:45",
+   "sesiones": 10,
+   "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
+  },
+  "tabla_sala": {
+   "estado": "sin_datos",
+   "tablas": 0,
+   "creadas": 0,
+   "sin_tabla": 7
+  },
+  "votaciones_camara": {
+   "estado": "ok",
+   "consultado": "2026-11-13T06:45",
+   "grupos": 10
   }
  },
  "sesiones": [
@@ -35,7 +58,9 @@
     "17637-07"
    ],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Otra"
   },
   {
    "fecha": "2026-11-16",
@@ -51,7 +76,9 @@
    ],
    "boletines": [],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
   },
   {
    "fecha": "2026-11-16",
@@ -65,7 +92,9 @@
    ],
    "boletines": [],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Otra"
   },
   {
    "fecha": "2026-11-16",
@@ -83,7 +112,9 @@
     "17567-11"
    ],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
   },
   {
    "fecha": "2026-11-16",
@@ -108,7 +139,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
   },
   {
    "fecha": "2026-11-16",
@@ -128,7 +161,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-16",
@@ -147,7 +182,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-16",
@@ -170,7 +207,28 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 94,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4854",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-16",
@@ -186,7 +244,9 @@
     "12712-24"
    ],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-16",
@@ -201,7 +261,9 @@
    ],
    "boletines": [],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
   },
   {
    "fecha": "2026-11-16",
@@ -219,7 +281,9 @@
     "14838-03"
    ],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-16",
@@ -239,7 +303,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -255,7 +321,27 @@
    ],
    "boletines": [],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Otra"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 80,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10323",
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-17",
@@ -273,7 +359,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -291,7 +379,27 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:00",
+   "horario": "15:00 a 20:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 81,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10324",
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-17",
@@ -313,7 +421,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
   },
   {
    "fecha": "2026-11-17",
@@ -335,7 +445,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -365,7 +477,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
   },
   {
    "fecha": "2026-11-17",
@@ -386,7 +500,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -407,7 +523,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -426,7 +544,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -451,7 +571,27 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-11-18",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 82,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10325",
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-18",
@@ -471,7 +611,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-18",
@@ -490,7 +632,9 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
   },
   {
    "fecha": "2026-11-18",
@@ -511,7 +655,63 @@
    ],
    "estado": "citada",
    "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-18",
+   "hora": "15:00",
+   "horario": "15:00 a 20:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 83,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10326",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-19",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 84,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10327",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-19",
+   "hora": "15:00",
+   "horario": "15:00 a 20:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 85,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10328",
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-23",
@@ -530,7 +730,9 @@
     "17446-17"
    ],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Otra"
   },
   {
    "fecha": "2026-11-25",
@@ -547,7 +749,178 @@
    ],
    "boletines": [],
    "estado": "citada",
-   "fuente": "Senado, citaciones por fecha"
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
+  }
+ ],
+ "pasadas": [
+  {
+   "fecha": "2026-11-09",
+   "hora": "14:33",
+   "horario": "14:33 a 18:14",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 89,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4849",
+   "celebrada": true,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-09",
+   "hora": "18:30",
+   "horario": "18:30 a 19:55",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 90,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_camara": "4850",
+   "celebrada": true,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora": "14:03",
+   "horario": "14:03 a 23:01",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 91,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_camara": "4851",
+   "celebrada": true,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora": "15:16",
+   "horario": "15:16 a 15:53",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 76,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10321",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora": "16:06",
+   "horario": "16:06 a 18:45",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 77,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_senado": "10316",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "09:31",
+   "horario": "09:31 a 23:13",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 92,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4852",
+   "celebrada": true,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "15:19",
+   "horario": "15:19 a 16:08",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 78,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_senado": "10319",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora": "16:07",
+   "horario": "16:07 a 19:32",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 79,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_senado": "10322",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-12",
+   "hora": "09:31",
+   "horario": "09:31 a 06:18",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 93,
+   "clase": "Especial",
+   "tabla": "por_confirmar",
+   "id_camara": "4853",
+   "celebrada": true,
+   "actividad": "Sala"
   }
  ],
  "probables": [
@@ -607,12 +980,6 @@
   },
   {
    "boletin": "18341-25",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18434-07",
    "vence": "2026-11-17",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -3765,6 +4132,78 @@
    },
    "dias_tramite": 164
   },
+  "18331-17": {
+   "boletin": "18331-17",
+   "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
+   "fecha_ingreso": "2026-06-05",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Derechos Humanos y Pueblos Originarios",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-02",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "437-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-06-05",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-10",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos y Pueblos Originarios",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta oficio de la Comisión de Derechos Humanos y Pueblos Originarios mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en mensaje y moción, contenidos en los boletines N°s 18754-17 y 18331-17. Aprobado con consulta al Ejecutivo.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Oficio de S.E. el Presidente de la República mediante el cual manifiesta su conformidad en orden a refundir los proyectos.(429-374)",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 437-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18331-17",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18331-17",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19009&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-11-02",
+    "vence": "2026-11-17",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 15,
+    "oficio": "437-374",
+    "mixta": false
+   },
+   "dias_tramite": 161
+  },
   "18415-18": {
    "boletin": "18415-18",
    "titulo": "Modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales",
@@ -4403,6 +4842,158 @@
    },
    "dias_tramite": 71
   },
+  "18702-05": {
+   "boletin": "18702-05",
+   "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+   "fecha_ingreso": "2026-09-30",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión general",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 16 Ministerio de Salud",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 17 Ministerio de Minería",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 18 Ministerio de Vivienda y Urbanismo",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 19 Ministerio de Transportes y Telecomunicaciones",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 20 Ministerio Secretaría General de Gobierno",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 21 Ministerio de Desarrollo Social y Familia",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 22 Ministerio Secretaría General de la Presidencia de la República",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 23 Ministerio Público",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 24 Ministerio de Energía",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 25 Ministerio del Medio Ambiente",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 26 Ministerio del Deporte",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 27 Ministerio de la Mujer y la equidad de genero",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 28 Servicio Electoral",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 29 Ministerio de las Culturas, las Artes y el Patrimonio",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 31 Gobiernos Regionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 32 Ministerio de Seguridad Pública",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 50 Tesoro Publico",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-09",
+     "descripcion": "Informe de comisión Especial Mixta de Presupuestos.",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-09",
+     "descripcion": "Cuenta informe Comisión Mixta .",
+     "etapa": "Discusión Ley de Presupuesto en Cámara de Origen",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18702-05",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18702-05",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19391&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 44
+  },
   "18729-15": {
    "boletin": "18729-15",
    "titulo": "Modifica la ley N° 18.290, de Tránsito, para sancionar las alteraciones de los sistemas de escape y el uso de dispositivos destinados a aumentar el ruido de vehículos motorizados, y establecer su retiro de circulación",
@@ -4658,5 +5249,29 @@
    },
    "dias_tramite": 23
   }
- }
+ },
+ "seguidos": [
+  "18702-05"
+ ],
+ "especiales": {
+  "18702-05": {
+   "tipo": "presupuesto",
+   "nombre": "Ley de Presupuestos 2027",
+   "patrones": [
+    "Ley de Presupuestos",
+    "Presupuestos para el Sector Público",
+    "Presupuestos del Sector Público",
+    "Presupuesto 2027",
+    "Comisión Especial Mixta de Presupuestos"
+   ],
+   "detalle": {
+    "sitio": "PresupuestoKast.cl",
+    "url": "https://presupuestokast.cl/",
+    "partida": "https://presupuestokast.cl/partida/{nn}",
+    "votaciones": "https://presupuestokast.cl/votaciones",
+    "indicaciones": "https://presupuestokast.cl/indicaciones"
+   }
+  }
+ },
+ "legislatura": 374
 }
