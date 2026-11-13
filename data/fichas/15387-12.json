@@ -7,23 +7,29 @@
   "resumen": {
     "problema": [
       {
-        "texto": "La moción sostiene que las carreras de perros son una forma de explotación de animales de compañía.",
+        "texto": "La moción dice que los perros usados en carreras sufren un daño innecesario y son tratados como un objeto para lucrar y competir.",
         "fuentes": [
-          "f3"
+          "f1"
         ]
       },
       {
-        "texto": "Dice que esto contradice el espíritu de la ley de tenencia responsable de mascotas.",
+        "texto": "Sostiene que esa práctica se opone al espíritu de la ley de tenencia responsable de mascotas.",
         "fuentes": [
-          "f3"
+          "f1"
         ]
       }
     ],
     "propone": [
       {
-        "texto": "La moción propone prohibir y sancionar las carreras de perros, de cualquier raza.",
+        "texto": "La moción propone prohibir toda carrera de perros, de cualquier raza, en todo el país.",
         "fuentes": [
-          "f3"
+          "f1"
+        ]
+      },
+      {
+        "texto": "Plantea cárcel y multas para quienes las organicen, y multas para quienes las promuevan o difundan.",
+        "fuentes": [
+          "f1"
         ]
       },
       {
@@ -102,6 +108,13 @@
   "posiciones_sin_registro": "",
   "encuadre": {},
   "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N°21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15903&tipodoc=mensaje_mocion",
+      "fecha": "2021-10-20",
+      "nota": "Texto de la moción."
+    },
     {
       "id": "f2",
       "titulo": "Informe de comisión · Segundo informe de comisión Medio Ambiente y Recursos Naturales · Primer trámite constitucional",
