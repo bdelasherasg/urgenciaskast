@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-13T10:21-03:00",
+ "actualizado": "2026-11-13T10:26-03:00",
  "desde": "2026-11-13",
  "hasta": "2026-11-26",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T10:21",
-   "citaciones": 10,
+   "consultado": "2026-11-13T10:25",
+   "citaciones": 9,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-13T10:21",
+   "consultado": "2026-11-13T10:25",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T10:21",
+   "consultado": "2026-11-13T10:25",
    "sesiones": 10,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-13T10:21",
+   "consultado": "2026-11-13T10:26",
    "grupos": 10
   }
  },
@@ -61,22 +61,6 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "12:30",
-   "horario": "12:30 a 14:00",
-   "camara": "Senado",
-   "organo": "Comisión de Educación",
-   "lugar": "Sala3, piso 3, Senado en Santiago",
-   "materias": [
-    "1.- ( Bol.N° S 2771-05 ) Tomar conocimiento del oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar como Consejero del Consejo Nacional de Educación, al señor Matías Lira Avilés, hasta el 10 de abril de 2030 (Boletín N° S 2.771-05)."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Otra"
   },
   {
    "fecha": "2026-11-16",
