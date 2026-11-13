@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T15:00-03:00",
+ "actualizado": "2026-11-13T15:55-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -6094,6 +6094,12 @@
     {
      "fecha": "2026-10-06",
      "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Boletín de indicaciones .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     },
@@ -16944,6 +16950,6 @@
    "dias_tramite": 39
   }
  ],
- "errores_de_consulta": 0,
+ "errores_de_consulta": 4,
  "conservados_sin_respuesta": 0
 }
