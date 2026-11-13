@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "18228-04",
+  "nivel": "basica",
+  "sintesis": "Fija reglas para que la Tesorería cobre las deudas del CAE según la capacidad de pago del deudor. La comisión rechazó la idea de legislar. Está en primer trámite en la Cámara.",
+  "materia": "el cobro de las deudas del CAE",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que 1,2 millones de personas tienen un Crédito con Aval del Estado y 890 mil están pagando.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que la deuda educativa se multiplicó por ocho desde 2019 y supera los 4 billones de pesos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Plantea que esa carga afecta de manera desproporcionada a los sectores más vulnerables.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone reglas para las facilidades de pago y los convenios que la Tesorería General ofrece a los deudores morosos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esos convenios tendrían que considerar los ingresos y gastos del deudor, con criterios de proporcionalidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El deudor podría pedir cambiar el convenio si su situación económica cambia de manera importante.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo 18 ter a la ley 20.027, de financiamiento de estudios superiores.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los regímenes diferenciados se aplicarían a deudores con ingresos menores a cinco millones de pesos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes tienen deudas morosas del CAE y a la Tesorería General de la República.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La comisión indicó que el proyecto aprobado por ella no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 28 de abril de 2026 y se derivó a la Comisión de Futuro, Ciencias y Tecnología.",
+        "fuentes": [
+          "f5",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 22 de junio de 2026 esa comisión rechazó la idea de legislar, por no alcanzar el quórum: 6 votos a favor, 5 en contra y 1 abstención.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El proyecto está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley Nº 20.027, que establece normas para el financiamiento de estudios de educación superior, en materia de cobro de las deudas del Crédito con Aval del Estado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18887&tipodoc=mensaje_mocion",
+      "fecha": "2026-04-28",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Ciencias y Tecnología · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28057&tipodoc=info",
+      "fecha": "2026-06-22",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21200: Comunica a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación,la asignación del proyecto de ley, correspondiente al boletín N° 18228-04, inicialmente asignado a la Comisión de Educación",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36103&tipodoc=ofic",
+      "fecha": "2026-05-04",
+      "nota": "Asignación del proyecto a la comisión."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18228-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18228",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
