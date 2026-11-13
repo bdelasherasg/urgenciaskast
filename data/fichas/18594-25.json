@@ -1,0 +1,134 @@
+{
+  "version": 2,
+  "boletin": "18594-25",
+  "nivel": "basica",
+  "sintesis": "Agrava las penas de la extorsión usada para controlar un territorio, como el cobro de protección, y castiga a quienes recaudan esos pagos. Tiene urgencia simple, en primer trámite en la Cámara.",
+  "materia": "la sanción de la extorsión territorial",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el cobro de protección, el derecho de piso o la vacuna condiciona al pago la posibilidad de trabajar, comerciar o circular.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que el daño va más allá del patrimonio de la víctima y afecta la seguridad del barrio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que muchas víctimas no denuncian por temor a represalias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea una forma agravada de extorsión, con presidio mayor en su grado medio a máximo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se aplicaría cuando el pago sea periódico para permitir una actividad en un territorio, o cuando busque controlar un barrio o una feria.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También cuando el autor sea miembro de una asociación delictiva o la víctima sea comerciante, feriante o transportista.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega los artículos 438 bis y 438 ter al Código Penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Castiga a quien reciba, cobre, traslade u oculte el dinero de la extorsión, o facilite cuentas bancarias y vehículos para ello.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Modifica el Código Procesal Penal para dar medidas de protección a las víctimas en riesgo de represalias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes ejercen o cobran la extorsión territorial, y a las víctimas, que tendrían más protección.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La moción dice que no crea nuevos servicios, programas ni obligaciones presupuestarias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 11 de agosto de 2026 y pasó a la Comisión de Seguridad Ciudadana.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El gobierno hizo presente la urgencia simple el 19 de octubre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre de 2026 se dio cuenta de su primer informe de comisión, en primer trámite en la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Penal y el Código Procesal Penal para sancionar la extorsión territorial y el cobro de protección",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19277&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-11",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18594-25 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18594",
+      "fecha": "2026-11-13",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
