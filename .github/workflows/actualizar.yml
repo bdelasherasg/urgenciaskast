@@ -32,7 +32,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
+      # Siempre la versión más reciente de main, no la del commit que lanzó la ejecución: si dos cargas del panel
+      # lanzan dos ejecuciones seguidas, la segunda debe partir de lo que publicó la primera.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -82,7 +86,9 @@ jobs:
             echo "Sin cambios."
           else
             git commit -m "Actualiza urgencias, agenda y fichas"
-            git pull --rebase origin main
+            # Si mientras tanto otra ejecución publicó, en los archivos generados vale esta versión, que es la más nueva
+            # (-X theirs, en un rebase, es el commit que se aplica). Los archivos que escribe el panel no se tocan aquí.
+            git pull --rebase -X theirs origin main
             git push
           fi
 
