@@ -1,0 +1,151 @@
+{
+  "version": 2,
+  "boletin": "17737-14",
+  "nivel": "basica",
+  "sintesis": "Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y ahora la Cámara debe pronunciarse sobre ellos, en tercer trámite.",
+  "materia": "los certificados de residencia en condominios",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las juntas de vecinos pueden emitir certificados de residencia, pero los condominios se rigen por otra ley que no lo contempla.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Busca fortalecer la vida comunitaria y dar un trato más equitativo a quienes viven en distintas formas de organización territorial.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Faculta al administrador del condominio para emitir certificados de residencia a copropietarios, arrendatarios u ocupantes.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El administrador tendría cinco días hábiles para emitirlo y debería revisar la identidad y la calidad del solicitante.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Debería llevar un registro de los certificados emitidos, con nombre, unidad y fecha.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un numeral al artículo 20 de la ley 21.442, de copropiedad inmobiliaria.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Quien entregue datos falsos para obtener el certificado tendría las penas del artículo 212 del Código Penal.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El administrador deberá cumplir la ley 19.628, sobre protección de la vida privada.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a administradores y comités de administración de condominios, y a sus residentes.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El Ministerio de Vivienda podría complementar las reglas y hacer un formato tipo de certificado.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 24 de marzo de 2026, en general y en particular a la vez.",
+        "fuentes": [
+          "f6",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 27 de octubre de 2026 el Senado lo aprobó con modificaciones, tras el informe unánime de su Comisión de Vivienda.",
+        "fuentes": [
+          "f4",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 28 de octubre de 2026 la Cámara recibió esas modificaciones. El proyecto está en tercer trámite y quedó para tabla.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18385&tipodoc=mensaje_mocion",
+      "fecha": "2025-07-25",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Vivienda y Urbanismo · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28077&tipodoc=info",
+      "fecha": "2026-07-10",
+      "nota": "Informe de la Comisión de Vivienda del Senado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 352-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37364&tipodoc=ofic",
+      "fecha": "2026-10-27",
+      "nota": "Modificaciones aprobadas por el Senado."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 21112",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35945&tipodoc=ofic",
+      "fecha": "2026-03-24",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 17737-14 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17737",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
