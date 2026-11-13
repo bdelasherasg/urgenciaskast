@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "boletin": "18334-10",
+  "nivel": "basica",
+  "sintesis": "Aprueba una enmienda que amplía la Junta de Gobernadores del Organismo Internacional de Energía Atómica. El Senado ya lo aprobó y la comisión de la Cámara despachó el proyecto.",
+  "materia": "la enmienda al estatuto del OIEA",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que hay muchos países candidatos a la Junta de Gobernadores del Organismo Internacional de Energía Atómica, lo que reduce las posibilidades de representación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que hasta marzo de 2026 solo 70 de los 181 Estados miembros habían aceptado la enmienda, que entra en vigor con dos tercios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Aprueba la enmienda, que amplía la composición de la Junta de Gobernadores del organismo.",
+        "fuentes": [
+          "f3",
+          "f2"
+        ]
+      },
+      {
+        "texto": "La enmienda fija criterios para designar y elegir a sus miembros y asigna a cada Estado a una región del estatuto.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es un proyecto de acuerdo de artículo único: aprueba la enmienda, no modifica leyes chilenas.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Chile es miembro del organismo desde 1960 y su estatuto está en el ordenamiento chileno desde ese año.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta la participación de Chile en la Junta de Gobernadores del organismo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El mensaje indica que mejoraría la representación del grupo de países de América Latina y el Caribe.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado aprobó el proyecto el 19 de agosto de 2026, en general y en particular a la vez, tras el informe unánime de su Comisión de Relaciones Exteriores.",
+        "fuentes": [
+          "f6",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre de 2026, la Comisión de Relaciones Exteriores de la Cámara despachó el proyecto.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 4 de noviembre de 2026 se dio cuenta del informe. Está en segundo trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19012&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-10",
+      "nota": "Texto del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Relaciones Exteriores · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28063&tipodoc=info",
+      "fecha": "2026-06-24",
+      "nota": "Informe de comisión del Senado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 274-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37101&tipodoc=ofic",
+      "fecha": "2026-08-19",
+      "nota": "Texto aprobado por el Senado."
+    },
+    {
+      "id": "f5",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la comisión de la Cámara."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 18334-10 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18334",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
