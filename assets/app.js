@@ -791,11 +791,17 @@
         (ley.fuente && ley.fuente.publicado ? ', publicado el ' + esc(fCorta(ley.fuente.publicado)) : '') + '.</p>' : '';
       bloque('partidas', 'El detalle, partida por partida', '<article class="tarjeta" id="partidas" aria-labelledby="h-partidas"><div class="tarjeta-cuerpo">' +
         '<p class="num-bloque">Bloque {{N}}</p><h2 id="h-partidas">El detalle, partida por partida</h2>' +
-        '<p>Cuánto propone gastar cada ministerio, cuánto cambia respecto de la ley vigente y qué se votó en cada partida, hasta la última línea, en <a href="' + esc(url(dt.url)) + '" rel="noopener">' + esc(dt.sitio) + '</a>.</p>' +
+        '<p>Aquí mostramos, de forma oportuna y cómoda, lo que la Ley de Presupuestos ' + esc(annoP - 1 || '') + ' fijó para cada partida y cuántas veces votó la Cámara en cada una. No es una auditoría ni reemplaza los documentos oficiales: es un punto de partida para ubicarse.</p>' +
+        '<p>Para el detalle recomendamos consultar <a href="' + esc(url(dt.url)) + '" rel="noopener">' + esc(dt.sitio) + '</a>, un sitio independiente, hecho por otras personas, que lee los documentos oficiales línea por línea, compara el proyecto con la ley vigente en pesos del mismo año y sigue las indicaciones y votaciones. Respetamos su trabajo, pero no tenemos relación con él. Cada partida de las tablas enlaza a su página allí.</p>' +
         (tablaLey || '<ul class="partidas">' + esp.partidas.map(function (x) { return '<li>' + enlaceP(x) + '</li>'; }).join('') + '</ul>') + tablaVotos +
-        '<p class="acciones-texto">' + (url(dt.votaciones) ? '<a href="' + esc(dt.votaciones) + '" rel="noopener">Votaciones, partida por partida</a>' : '') +
-        (url(dt.indicaciones) ? ' · <a href="' + esc(dt.indicaciones) + '" rel="noopener">Indicaciones presentadas</a>' : '') + '</p>' +
-        '<p class="nota" style="color:var(--tinta-suave)">Detalle elaborado por ' + esc(dt.sitio) + ', un proyecto independiente de Urgencias Kast.</p>' +
+        '<h3>Para ir más a fondo</h3>' +
+        '<p>Estas pantallas de ' + esc(dt.sitio) + ' amplían lo que ve arriba:</p>' +
+        '<ul class="enlaces-detalle">' +
+        (url(dt.url) ? '<li><a href="' + esc(dt.url) + '" rel="noopener">Inicio</a>: cuánto propone gastar el Ejecutivo en cada partida y cuánto cambia respecto de la ley vigente.</li>' : '') +
+        (url(dt.votaciones) ? '<li><a href="' + esc(dt.votaciones) + '" rel="noopener">Votaciones</a>: qué se votó en cada partida y con qué resultado, hasta la última votación.</li>' : '') +
+        (url(dt.indicaciones) ? '<li><a href="' + esc(dt.indicaciones) + '" rel="noopener">Indicaciones</a>: lo que el Ejecutivo y los parlamentarios proponen cambiar, y qué monto mueve cada cambio.</li>' : '') +
+        '</ul>' +
+        '<p class="nota" style="color:var(--tinta-suave)">' + esc(dt.sitio) + ' es un proyecto independiente. Urgencias Kast y Lo Común no tienen relación con quienes lo hacen ni responden por sus cifras; lo recomendamos porque respetamos su trabajo. Si una cifra de aquí difiere de la de allá, vale la de las fuentes oficiales que cada sitio cita.</p>' +
         '</div></article>');
     }
 

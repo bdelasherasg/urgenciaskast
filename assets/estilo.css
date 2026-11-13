@@ -721,3 +721,5 @@ body { overflow-x: clip; }
 .tabla-partidas .usd { display: block; font-size: 12px; color: var(--tinta-suave); white-space: normal; }
 .tabla-partidas th { letter-spacing: .06em; }
 .tabla-partidas a { hyphens: auto; overflow-wrap: anywhere; }
+.enlaces-detalle { margin: 6px 0 14px; padding-left: 20px; }
+.enlaces-detalle li { margin: 4px 0; }
