@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "16397-15",
+  "nivel": "basica",
+  "sintesis": "Sube la multa y la suspensión de licencia por no usar sistemas de retención infantil o llevar a menores de 12 años en el asiento delantero. Tiene urgencia simple y espera su votación en particular en la Cámara.",
+  "materia": "las sanciones por no usar sillas de retención infantil",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los accidentes de tránsito han aumentado y que Chile tiene las peores cifras de seguridad vial entre los países de la OCDE.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Indica que hoy los menores de 8 años deben viajar en sistemas de retención, y los menores de 12 no pueden ir adelante.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción propone subir las sanciones por incumplir esas reglas, hoy castigadas como infracción gravísima.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Hoy la multa va de 1,5 a 3 unidades tributarias mensuales y la licencia se suspende de 5 a 45 días.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El texto aprobado en el segundo informe fija una multa de 2 a 5 unidades tributarias mensuales.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Ese texto sube el mínimo de la suspensión de la licencia a 20 días, con un máximo de 45.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Modifica los artículos 204 y 207 de la ley de Tránsito.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a conductores que llevan niños en sus vehículos.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "La comisión dejó constancia de que el proyecto no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El 19 de agosto de 2026, la Sala de la Cámara aprobó el proyecto en general, con 123 votos a favor.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 4 de noviembre de 2026, la Comisión de Obras Públicas, Transportes y Telecomunicaciones entregó su segundo informe, con indicaciones aprobadas por unanimidad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El proyecto tiene urgencia simple y está en primer trámite en la Cámara, en discusión particular.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16958&tipodoc=mensaje_mocion",
+      "fecha": "2023-10-31",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28371&tipodoc=info",
+      "fecha": "2026-11-04",
+      "nota": "Segundo informe de comisión, con el texto aprobado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28113&tipodoc=info",
+      "fecha": "2026-07-23",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 2152: Remite las indicaciones presentadas durante la discusión general en Sala.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37094&tipodoc=ofic",
+      "fecha": "2026-08-19",
+      "nota": "Votación en general en Sala."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 16397-15 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16397",
+      "fecha": "2026-11-13",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
