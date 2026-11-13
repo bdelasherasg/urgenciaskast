@@ -1,0 +1,131 @@
+{
+  "version": 2,
+  "boletin": "18166-24",
+  "nivel": "basica",
+  "sintesis": "Obliga a las productoras de conciertos masivos a informar la visibilidad de cada sector antes de vender las entradas. La Comisión de Cultura lo aprobó en general. Está en primer trámite en la Cámara.",
+  "materia": "la visibilidad del espectáculo en conciertos masivos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley del consumidor regula de manera dispersa los derechos de quienes asisten a conciertos masivos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que ninguna norma se refiere de manera directa a la visibilidad del espectáculo que deben garantizar las productoras.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción propone que las productoras adopten medidas para evitar o reducir los obstáculos que impidan ver el espectáculo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las indicaciones del Presidente de la República obligan a informar, antes de la venta y la preventa, las condiciones de visibilidad de cada zona del recinto, en los canales de venta y en la entrada.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley 19.928, de fomento de la música chilena, y la ley del consumidor, la 19.496.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Omitir o falsear la información sobre visibilidad sería una infracción a la ley del consumidor.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Las indicaciones excluyen los cambios de visibilidad por causas ajenas a la productora, como carteles del público o decisiones del artista.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las productoras de eventos musicales masivos y a quienes compran entradas. Fiscalizaría el Servicio Nacional del Consumidor.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 173, del 17 de julio de 2026, dice que el proyecto no irrogará un mayor gasto fiscal, porque la fiscalización se hará con la dotación y el presupuesto vigentes.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 8 de abril de 2026 y se refundió con el boletín 18267-24, sobre teloneros chilenos.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 10 de agosto de 2026, la Comisión de Cultura entregó su informe. La idea de legislar se aprobó por unanimidad.",
+        "fuentes": [
+          "f2",
+          "f4"
+        ]
+      },
+      {
+        "texto": "El proyecto está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Introduce la obligación de las empresas productoras de conciertos y eventos musicales masivos en orden a garantizar la adecuada visibilidad del espectáculo a sus asistentes",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18829&tipodoc=mensaje_mocion",
+      "fecha": "2026-04-08",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Cultura, Artes y Comunicaciones · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28158&tipodoc=info",
+      "fecha": "2026-08-10",
+      "nota": "Primer informe de comisión (proyectos refundidos)."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (107-374). Incluye informe financiero N° 173/17.07.2026.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36870&tipodoc=ofic",
+      "fecha": "2026-07-17",
+      "nota": "Indicaciones del Presidente de la República e informe financiero N° 173."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18166-24 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18166",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
