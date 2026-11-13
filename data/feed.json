@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T10:36-03:00",
+ "actualizado": "2026-11-13T10:41-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -206,13 +206,13 @@
     {
      "boletin": "18329-06",
      "titulo": "Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión de delitos",
-     "sintesis": "",
+     "sintesis": "Castiga con cárcel instalar o usar carpas o rucos en el espacio público cuando dentro hay armas, drogas o especies robadas. La comisión aprobó la idea de legislar. Tiene urgencia simple.",
      "url": "https://urgenciaskast.cl/p/18329-06.html"
     },
     {
      "boletin": "18349-06",
      "titulo": "Modifica el Código Penal y el Código Procesal Penal para tipificar como delito el empleo de bienes de uso público o de libre acceso al público para habitar o pernoctar y establecerlo como un delito de flagrancia permanente",
-     "sintesis": "",
+     "sintesis": "Crea el delito de ocupar el espacio público para habitar o pernoctar y permite detener en flagrancia mientras dure la ocupación. Se tramita refundido con otra moción y tiene urgencia simple.",
      "url": "https://urgenciaskast.cl/p/18349-06.html"
     },
     {
@@ -260,13 +260,13 @@
     {
      "boletin": "18198-15",
      "titulo": "Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera",
-     "sintesis": "",
+     "sintesis": "Refuerza la seguridad en el mar: exige radiobalizas, controles de alcohol y drogas a bordo, y sanciona borrar registros. La Comisión de Pesca lo aprobó en general, en primer trámite en la Cámara.",
      "url": "https://urgenciaskast.cl/p/18198-15.html"
     },
     {
      "boletin": "18334-10",
      "titulo": "Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria",
-     "sintesis": "",
+     "sintesis": "Aprueba una enmienda que amplía la Junta de Gobernadores del Organismo Internacional de Energía Atómica. El Senado ya lo aprobó y la comisión de la Cámara despachó el proyecto.",
      "url": "https://urgenciaskast.cl/p/18334-10.html"
     }
    ]
@@ -364,7 +364,7 @@
     {
      "boletin": "18228-04",
      "titulo": "Modifica la ley Nº 20.027, que establece normas para el financiamiento de estudios de educación superior, en materia de cobro de las deudas del Crédito con Aval del Estado",
-     "sintesis": "",
+     "sintesis": "Fija reglas para que la Tesorería cobre las deudas del CAE según la capacidad de pago del deudor. La comisión rechazó la idea de legislar. Está en primer trámite en la Cámara.",
      "url": "https://urgenciaskast.cl/p/18228-04.html"
     },
     {
@@ -382,7 +382,7 @@
     {
      "boletin": "18205-29",
      "titulo": "Reconoce al fútbol amateur como actividad de interés público y establece normas sobre prevención de la violencia, seguridad, responsabilidad y transparencia en esa actividad",
-     "sintesis": "",
+     "sintesis": "Crea una ley propia para el fútbol amateur: lo declara de interés público y fija medidas de seguridad y transparencia. La Comisión de Deportes lo aprobó en general, en primer trámite en la Cámara.",
      "url": "https://urgenciaskast.cl/p/18205-29.html"
     },
     {
@@ -422,6 +422,12 @@
    "url": "https://urgenciaskast.cl/p/13828-19.html"
   },
   {
+   "boletin": "13872-17",
+   "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+   "publicado": "2026-11-13",
+   "url": "https://urgenciaskast.cl/p/13872-17.html"
+  },
+  {
    "boletin": "15387-12",
    "sintesis": "Prohíbe las competiciones no autorizadas entre perros que pongan en peligro su integridad y las sanciona como maltrato animal. La Cámara lo aprobó en general. Espera su votación en particular.",
    "publicado": "2026-11-13",
@@ -438,12 +444,6 @@
    "sintesis": "Prohíbe que los contratos de servicios educacionales se pacten en unidades de fomento y exige que se fijen en moneda nacional. Está en primer trámite en la Cámara, refundido con otra moción.",
    "publicado": "2026-11-13",
    "url": "https://urgenciaskast.cl/p/15787-03.html"
-  },
-  {
-   "boletin": "16172-17",
-   "sintesis": "Restringe las causales para ser reconocido como indígena y elimina el requisito de autoidentificación. La Comisión de Derechos Humanos lo aprobó en general. Espera su discusión en la Sala de la Cámara.",
-   "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/16172-17.html"
   }
  ],
  "analisis": [

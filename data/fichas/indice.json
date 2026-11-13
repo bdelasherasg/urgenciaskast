@@ -41,6 +41,13 @@
   "materia": "la protección de los neuroderechos y la integridad mental",
   "revision": "pendiente"
  },
+ "13872-17": {
+  "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la rehabilitación de una nacionalidad chilena",
+  "revision": "pendiente"
+ },
  "14309-04": {
   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
   "nivel": "basica",
@@ -447,6 +454,20 @@
   "materia": "la regularización de viviendas sin recepción definitiva",
   "revision": "pendiente"
  },
+ "18198-15": {
+  "sintesis": "Refuerza la seguridad en el mar: exige radiobalizas, controles de alcohol y drogas a bordo, y sanciona borrar registros. La Comisión de Pesca lo aprobó en general, en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "el fortalecimiento de la seguridad marítima y pesquera",
+  "revision": "pendiente"
+ },
+ "18205-29": {
+  "sintesis": "Crea una ley propia para el fútbol amateur: lo declara de interés público y fija medidas de seguridad y transparencia. La Comisión de Deportes lo aprobó en general, en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "el estatuto del fútbol amateur",
+  "revision": "pendiente"
+ },
  "18208-25": {
   "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia suma.",
   "nivel": "basica",
@@ -473,6 +494,13 @@
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "la protección de niñas, niños y adolescentes en redes sociales",
+  "revision": "pendiente"
+ },
+ "18228-04": {
+  "sintesis": "Fija reglas para que la Tesorería cobre las deudas del CAE según la capacidad de pago del deudor. La comisión rechazó la idea de legislar. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "el cobro de las deudas del CAE",
   "revision": "pendiente"
  },
  "18236-18": {
@@ -566,6 +594,13 @@
   "materia": "la protección de niños en procesos judiciales y las denuncias falsas",
   "revision": "pendiente"
  },
+ "18329-06": {
+  "sintesis": "Castiga con cárcel instalar o usar carpas o rucos en el espacio público cuando dentro hay armas, drogas o especies robadas. La comisión aprobó la idea de legislar. Tiene urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la sanción a los rucos usados para delitos",
+  "revision": "pendiente"
+ },
  "18331-17": {
   "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
   "nivel": "basica",
@@ -573,11 +608,32 @@
   "materia": "la transparencia y el gobierno del Instituto Nacional de Derechos Humanos",
   "revision": "pendiente"
  },
+ "18334-10": {
+  "sintesis": "Aprueba una enmienda que amplía la Junta de Gobernadores del Organismo Internacional de Energía Atómica. El Senado ya lo aprobó y la comisión de la Cámara despachó el proyecto.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la enmienda al estatuto del OIEA",
+  "revision": "pendiente"
+ },
  "18341-25": {
   "sintesis": "Crea un registro de actos vandálicos e incivilidades, con restricciones temporales a beneficios del Estado. Está en primer trámite en la Cámara, con urgencia suma.",
   "nivel": "basica",
   "publicado": "2026-11-11",
   "materia": "el registro de actos vandálicos e incivilidades",
+  "revision": "pendiente"
+ },
+ "18345-13": {
+  "sintesis": "Protege el sueldo del trabajador frente a embargos, aunque ya esté depositado en su cuenta bancaria. La Comisión de Educación lo rechazó en general. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la protección del sueldo frente a los embargos",
+  "revision": "pendiente"
+ },
+ "18349-06": {
+  "sintesis": "Crea el delito de ocupar el espacio público para habitar o pernoctar y permite detener en flagrancia mientras dure la ocupación. Se tramita refundido con otra moción y tiene urgencia simple.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "el delito de ocupar el espacio público para pernoctar",
   "revision": "pendiente"
  },
  "18383-06": {
@@ -725,6 +781,13 @@
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "el castigo a quienes utilizan a menores de edad para cometer delitos",
+  "revision": "pendiente"
+ },
+ "18594-25": {
+  "sintesis": "Agrava las penas de la extorsión usada para controlar un territorio, como el cobro de protección, y castiga a quienes recaudan esos pagos. Tiene urgencia simple, en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la sanción de la extorsión territorial",
   "revision": "pendiente"
  },
  "18621-34": {
