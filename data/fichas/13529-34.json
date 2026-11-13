@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "boletin": "13529-34",
+  "nivel": "basica",
+  "sintesis": "Obliga a los lugares privados de uso público a poner en sus baños el fono de ayuda por violencia contra la mujer. La Comisión de la Mujer lo aprobó en general. La Cámara lo debate.",
+  "materia": "el aviso contra la violencia hacia la mujer en baños públicos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la violencia contra las mujeres es un problema de toda la sociedad, incluidas las empresas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que los avisos con fonos de orientación deben ser más visibles.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que los dueños de lugares privados de uso público pongan en todos los baños el fono de orientación por violencia contra la mujer.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los avisos incluirían un mensaje que invita a llamar a quien vive violencia o conoce a alguien que la vive.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Ministerio de la Mujer podría diseñar una infografía, que entonces sería obligatoria.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea un artículo único, que impone esta obligación a restaurantes, supermercados, centros comerciales y lugares similares.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los costos del aviso los asume el propio dueño del lugar.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los propietarios de espacios privados de concurrencia pública.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la comisión se discutió quién fiscalizaría el cumplimiento, sin definirlo.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "En la comisión, el Ministerio de la Mujer dijo que fiscalizar la medida podría requerir un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 20 de mayo de 2020 y está en primer trámite en la Cámara de Diputados.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 10 de junio de 2026, la Comisión de Mujeres y Equidad de Género lo aprobó en general por 11 votos a favor y ninguno en contra.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 9 de septiembre de 2026 su discusión general en la Sala quedó pendiente.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Dispone la obligación de publicar en los baños de los lugares de concurrencia de público, un aviso relativo a la prevención y denuncia de la violencia contra la mujer",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=14073&tipodoc=mensaje_mocion",
+      "fecha": "2020-05-20",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión Mujeres y Equidad de Género · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28048&tipodoc=info",
+      "fecha": "2026-06-10",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión Mujeres y Equidad de Género · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28048&tipodoc=info",
+      "fecha": "2026-06-10",
+      "nota": "Pasajes del informe de comisión sobre fiscalización y costo."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 13529-34 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=13529",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
