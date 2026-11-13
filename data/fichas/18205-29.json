@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "boletin": "18205-29",
+  "nivel": "basica",
+  "sintesis": "Crea una ley propia para el fútbol amateur: lo declara de interés público y fija medidas de seguridad y transparencia. La Comisión de Deportes lo aprobó en general, en primer trámite en la Cámara.",
+  "materia": "el estatuto del fútbol amateur",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que casi un millón de personas practican fútbol amateur en Chile, según la Asociación Nacional de Fútbol Amateur.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que las leyes sobre violencia en el fútbol se dirigen al fútbol profesional y que las del amateur tienen un enfoque solo penal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea una ley propia que reconoce el fútbol amateur como actividad de interés público, por su rol social.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea el Plan Nacional de Seguridad y el Registro Nacional del Fútbol Amateur, y exige medidas mínimas de seguridad en los torneos.",
+        "fuentes": [
+          "f2",
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es una ley nueva, que se aplicaría a las organizaciones y torneos de fútbol amateur de todo el país.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Obliga a la Asociación Nacional y a las asociaciones regionales a informar el origen de su financiamiento y publicar sus estados financieros, con multa si no lo hacen.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a la Asociación Nacional de Fútbol Amateur, a las asociaciones regionales y locales, y a quienes juegan o asisten a los partidos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero y la comisión dijo que no es competencia de Hacienda.",
+        "fuentes": [
+          "f3",
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 15 de abril de 2026 y pasó a la Comisión de Deportes y Recreación.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 6 de octubre de 2026 esa comisión entregó su informe. Aprobó el proyecto en general por unanimidad, con 12 votos a favor.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 27 de octubre de 2026 se dio cuenta del informe en la Sala. El proyecto sigue en primer trámite, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Reconoce al fútbol amateur como actividad de interés público y establece normas sobre prevención de la violencia, seguridad, responsabilidad y transparencia en esa actividad",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18862&tipodoc=mensaje_mocion",
+      "fecha": "2026-04-15",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Deportes y Recreación · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28332&tipodoc=info",
+      "fecha": "2026-10-06",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18205-29 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18205",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
