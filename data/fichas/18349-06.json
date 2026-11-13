@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "boletin": "18349-06",
+  "nivel": "basica",
+  "sintesis": "Crea el delito de ocupar el espacio público para habitar o pernoctar y permite detener en flagrancia mientras dure la ocupación. Se tramita refundido con otra moción y tiene urgencia simple.",
+  "materia": "el delito de ocupar el espacio público para pernoctar",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los municipios ven proliferar los rucos pese a sus esfuerzos por desocupar el espacio público.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que los delitos de usurpación no se aplican bien a estos casos, porque suelen ser ocupaciones parciales de bienes de uso común.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea un delito para quien ocupe, total o parcialmente, un bien público o de libre acceso para habitar o pernoctar.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La pena sería presidio menor en su grado mínimo, de 61 a 540 días, y más alta si hay reincidencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Exige que la ocupación obstaculice el uso normal del lugar por las demás personas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo nuevo al Código Penal, entre los delitos de usurpación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Modifica el artículo 134 del Código Procesal Penal para tratarlo como flagrancia permanente, lo que permite detener mientras dure la ocupación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El proyecto se tramita refundido con el boletín 18329-06, por acuerdo de la Sala del 8 de julio de 2026.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes ocupan el espacio público para vivir o dormir, a las policías y a los municipios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión dejó constancia de que el proyecto no requiere trámite de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 9 de junio de 2026 y se refundió con el boletín 18329-06.",
+        "fuentes": [
+          "f4",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 4 de septiembre de 2026, la Comisión de Gobierno Interior entregó su informe. Aprobó la idea de legislar por 10 votos a favor y 2 abstenciones.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El proyecto tiene urgencia simple y está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Penal y el Código Procesal Penal para tipificar como delito el empleo de bienes de uso público o de libre acceso al público para habitar o pernoctar y establecerlo como un delito de flagrancia permanente",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19029&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-09",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28224&tipodoc=info",
+      "fecha": "2026-09-04",
+      "nota": "Primer informe de comisión (proyectos refundidos)."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21371: Comunica que la Cámara de Diputados accedió a la solicitud para fusionar los proyectos de ley correspondientes a los boletines Nos. 18.329-06 y 18.349-06.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36797&tipodoc=ofic",
+      "fecha": "2026-07-08",
+      "nota": "Refundición con el boletín 18329-06."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18349-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18349",
+      "fecha": "2026-11-13",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
