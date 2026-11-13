@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "18198-15",
+  "nivel": "basica",
+  "sintesis": "Refuerza la seguridad en el mar: exige radiobalizas, controles de alcohol y drogas a bordo, y sanciona borrar registros. La Comisión de Pesca lo aprobó en general, en primer trámite en la Cámara.",
+  "materia": "el fortalecimiento de la seguridad marítima y pesquera",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción parte del caso de la lancha Bruma, que en marzo de 2025 perdió contacto cerca de la isla Santa María con siete tripulantes a bordo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que los sistemas de posicionamiento de la pesca artesanal no fueron hechos para búsqueda y rescate, y que faltan protocolos para preservar las pruebas de un siniestro.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Hace obligatorio el uso de radiobalizas que avisan la posición en una emergencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Obliga a quienes trabajan a bordo a someterse a pruebas de alcohol y drogas, y al capitán a denunciar los delitos del viaje.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley de Navegación y el Código del Trabajo, en el control de jornadas de las tripulaciones.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Crea penas de cárcel para quien destruya u oculte registros audiovisuales, o manipule equipos de posicionamiento, para esconder un delito. También sanciona abandonar el lugar de un accidente.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a dueños de naves, capitanes, oficiales y tripulaciones, y la Dirección General del Territorio Marítimo aplicaría las nuevas reglas.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 189, del 5 de agosto de 2026, dice que el proyecto no tendrá incidencia en el presupuesto fiscal, porque se aplicará con el personal y los recursos vigentes de la autoridad marítima.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 15 de abril de 2026 y pasó a la Comisión de Pesca, Acuicultura e Intereses Marítimos.",
+        "fuentes": [
+          "f5",
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 5 de octubre de 2026 se dio cuenta de su primer informe, que aprobó el proyecto en general por unanimidad.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El proyecto está en primer trámite en la Cámara, sin urgencia, y quedó para tabla.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18861&tipodoc=mensaje_mocion",
+      "fecha": "2026-04-15",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28273&tipodoc=info",
+      "fecha": "2026-10-05",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (130-374). Incluye informe financiero N° 189/15.08.2026.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37184&tipodoc=ofic",
+      "fecha": "2026-08-05",
+      "nota": "Indicaciones del Presidente de la República e informe financiero N° 189."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21.171: Comunica que la Cámara de Diputados acordó remitir el proyecto a la Comisión de Pesca, Acuicultura e Intereses Marítimos.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36055&tipodoc=ofic",
+      "fecha": "2026-04-20",
+      "nota": "Paso a la Comisión de Pesca."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18198-15 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18198",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
