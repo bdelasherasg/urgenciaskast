@@ -180,10 +180,18 @@
      Una fila por cada cosa que se trata en una sesión de Sala o de comisión, de ambas cámaras, ordenada por la fecha
      y la hora reales. Al final, los proyectos con urgencia vigente que no tienen sesión citada. Los vencimientos de
      urgencia no ordenan la tabla. Los filtros quedan en la dirección de la página, para compartir una vista. */
-  var VOTACIONES = [];
+  var VOTACIONES = [], ESPECIALES = {};
+  // Plazo de un proyecto que no tiene urgencia sino un plazo fijado por la Constitución (por ejemplo, el Presupuesto).
+  function plazoEspecial(b) { var e = ESPECIALES[b]; return e && e.plazo && dias(e.plazo) !== null && dias(e.plazo) >= 0 ? e : null; }
   function urgHTML(f) {
     var p = f.p || {}, v = p.urgencia_vigente || {};
     if (f.activa) { var e = estadoUrg(p); return chipUrg(v.tipo, true) + '<span class="vence' + (e.pronto ? ' pronto' : '') + '">' + esc(e.corto) + '</span>'; }
+    var pe = f.b && plazoEspecial(f.b);
+    if (pe) {
+      var n = dias(pe.plazo);
+      return '<span class="chip chip-claro" title="' + esc(pe.plazo_fuente || '') + '">Plazo constitucional</span><span class="vence' + (n <= 3 ? ' pronto' : '') + '">' +
+        (n === 0 ? 'Vence hoy' : (n === 1 ? 'Vence mañana' : 'Vence en ' + n + ' días')) + ' · ' + esc(fCorta(pe.plazo)) + '</span>';
+    }
     if (v.tipo && (v.estado === 'vigente' || v.estado === 'vencida' || v.estado === 'en_espera')) return '<span class="sin-urg">' + esc(estadoUrg(p).corto) + '</span>';
     return f.b ? '<span class="sin-urg">Sin urgencia</span>' : '';
   }
@@ -332,7 +340,7 @@
       return true;
     }
     function clave(f) { return f.fecha + (f.hora || '99:99') + f.camara + ((f.s && f.s.organo) || '') + String(1000 + (f.orden || 0)); }
-    function claveUrg(f) { var v = (f.p || {}).urgencia_vigente || {}; return (f.activa ? v.vence : '9999-12-31') + clave(f); }
+    function claveUrg(f) { var v = (f.p || {}).urgencia_vigente || {}, pe = !f.activa && f.b && plazoEspecial(f.b); return (f.activa ? v.vence : (pe ? pe.plazo : '9999-12-31')) + clave(f); }
 
     function filaHTML(f, nuevoDia) {
       var href = f.conPagina ? urlFicha(f.b) : '';
@@ -922,6 +930,7 @@
       var U = r[0], A = r[1], IDX = r[2] || {};
       RESULTADOS = (r[3] && r[3].resultados) || [];
       VOTACIONES = (r[4] && r[4].votaciones) || [];
+      ESPECIALES = (A && A.especiales) || {};
       if (pagina === 'portada') { portada(U, A, IDX); loComun(); }
       else if (pagina === 'agenda') agenda(U, A, IDX);
       else ficha(U, A, IDX);

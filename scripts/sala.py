@@ -184,6 +184,18 @@ def asignar_especiales(sesiones, especiales):
                 break
 
 
+def plazo_desde_tablas(especiales, tablas):
+    """Plazo de un proyecto especial según la tabla de Sala cargada más reciente que lo trae (por ejemplo, la
+    citación de la Cámara: «El plazo final para el despacho … vence el 29.11.2026»). Si ninguna lo trae, queda el de
+    data/proyectos_especiales.json."""
+    for t in sorted(tablas or [], key=lambda t: (t.get('fecha', ''), t.get('leido', ''))):
+        for p in t.get('puntos') or []:
+            for b in p.get('boletines') or []:
+                if b in (especiales or {}) and re.match(r'\d{4}-\d{2}-\d{2}$', str(p.get('plazo', ''))):
+                    especiales[b]['plazo'] = p['plazo']
+                    especiales[b]['plazo_fuente'] = f"Tabla de Sala de la {'Cámara' if t.get('camara') == CAMARA else 'Senado'} del {t.get('fecha', '')}"
+
+
 def parse_votaciones(xml, desde):
     """Votaciones de Sala de la Cámara con boletín, desde una fecha, resumidas por día y boletín."""
     grupos = {}

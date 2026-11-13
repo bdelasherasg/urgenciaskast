@@ -267,7 +267,13 @@ def tabla_estatica(urg, ag, idx):
                 nombre = esc(recortar(nombre_proyecto(b, urg, ag, idx), 200))
                 que = (f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{nombre}</a>' if tiene_pagina(b, urg, ag, idx) else nombre) + f' (boletín {esc(b)}{", refundido con " + esc(", ".join(otros)) if otros else ""})'
                 v = (por_b.get(b) or {}).get('urgencia_vigente') or {}
-                urgencia = f'{esc(v.get("tipo"))}, vence el {fecha_larga(v.get("vence"))}' if v.get('estado') == 'vigente' and (v.get('vence') or '') >= hoy.isoformat() else ''
+                e = (ag.get('especiales') or {}).get(b) or {}
+                if v.get('estado') == 'vigente' and (v.get('vence') or '') >= hoy.isoformat():
+                    urgencia = f'{esc(v.get("tipo"))}, vence el {fecha_larga(v.get("vence"))}'
+                elif (e.get('plazo') or '') >= hoy.isoformat():
+                    urgencia = f'Plazo constitucional, vence el {fecha_larga(e["plazo"])}'
+                else:
+                    urgencia = ''
             else:
                 que, urgencia = esc(texto), ''
             filas.append(f'<tr><td>{cuando}</td><td>{donde}</td><td>{que}</td><td>{act}</td><td>{urgencia}</td><td></td></tr>')

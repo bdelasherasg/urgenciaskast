@@ -100,6 +100,20 @@ class Especiales(unittest.TestCase):
         self.assertEqual(ses[1]['boletines'], [])
 
 
+class PlazoEspecial(unittest.TestCase):
+    def test_la_tabla_mas_reciente_fija_el_plazo(self):
+        esp = {'18702-05': {'plazo': '2026-11-29'}}
+        S.plazo_desde_tablas(esp, [{'camara': S.CAMARA, 'fecha': '2026-11-12', 'puntos': [{'boletines': ['18702-05'], 'plazo': '2026-11-30'}]},
+                                   {'camara': S.CAMARA, 'fecha': '2026-11-10', 'puntos': [{'boletines': ['18702-05'], 'plazo': '2026-11-28'}]},
+                                   {'camara': S.SENADO, 'fecha': '2026-11-17', 'puntos': [{'boletines': ['18702-05']}]}])
+        self.assertEqual(esp['18702-05']['plazo'], '2026-11-30')
+
+    def test_sin_plazo_en_las_tablas_queda_el_configurado(self):
+        esp = {'18702-05': {'plazo': '2026-11-29'}}
+        S.plazo_desde_tablas(esp, [{'camara': S.SENADO, 'fecha': '2026-11-17', 'puntos': [{'boletines': ['18702-05'], 'texto': 'x'}]}])
+        self.assertEqual(esp['18702-05']['plazo'], '2026-11-29')
+
+
 class Votaciones(unittest.TestCase):
     def test_resumen_por_dia_y_boletin(self):
         res = S.parse_votaciones(fixture('camara-votaciones-2026.xml'), '2026-11-01')

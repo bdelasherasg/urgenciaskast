@@ -369,6 +369,7 @@ def principal():
 
     sesiones = [s for s in sesiones if en_ventana(s, desde, hasta)]
     especiales = leer_json(ESPECIALES, {})
+    S.plazo_desde_tablas(especiales, leer_json(TABLA_SALA, {}).get('sesiones', []))
     S.asignar_especiales(sesiones, especiales)
     sesiones.sort(key=lambda s: (s['fecha'], s.get('hora') or '99', s['camara'], s['organo']))
     ultimas = S.pasadas([s for s in sala if s['fecha'] < desde], anterior.get('sesiones', []) + anterior.get('pasadas', []), hoy)

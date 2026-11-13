@@ -2,13 +2,21 @@
  "18702-05": {
   "tipo": "presupuesto",
   "nombre": "Ley de Presupuestos 2027",
-  "patrones": ["Ley de Presupuestos", "Presupuestos para el Sector Público", "Presupuestos del Sector Público", "Presupuesto 2027", "Comisión Especial Mixta de Presupuestos"],
+  "patrones": [
+   "Ley de Presupuestos",
+   "Presupuestos para el Sector Público",
+   "Presupuestos del Sector Público",
+   "Presupuesto 2027",
+   "Comisión Especial Mixta de Presupuestos"
+  ],
   "detalle": {
    "sitio": "PresupuestoKast.cl",
    "url": "https://presupuestokast.cl/",
    "partida": "https://presupuestokast.cl/partida/{nn}",
    "votaciones": "https://presupuestokast.cl/votaciones",
    "indicaciones": "https://presupuestokast.cl/indicaciones"
-  }
+  },
+  "plazo": "2026-11-29",
+  "plazo_fuente": "Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026»."
  }
 }
