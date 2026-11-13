@@ -155,13 +155,27 @@
       return '<div class="cifra vidrio"><strong>' + c[0] + '</strong><span class="que">' + c[1] + '</span><span class="por">' + c[2] + '</span></div>';
     }).join('');
 
-    // Reloj del próximo plazo
+    // Reloj del próximo plazo. Si varios proyectos vencen el mismo día, se muestran todos.
     var proximo = vigentes.slice().sort(function (a, b) { return a.urgencia_vigente.vence < b.urgencia_vigente.vence ? -1 : 1; })[0];
     var caja = $('#reloj');
     if (proximo && caja) {
-      var nom = nombreProyecto(proximo.boletin, U, A, IDX);
-      $('#reloj-titulo').innerHTML = '<a href="' + urlFicha(proximo.boletin) + '">' + esc(recortar(nom.sintesis || nom.oficial, 170)) + '</a>';
-      $('#reloj-meta').innerHTML = chipUrg(proximo.urgencia_vigente.tipo) + ' <span class="chip">Boletín ' + esc(proximo.boletin) + '</span> <span class="chip">' + esc(camaraCorta(proximo.camara_actual)) + '</span>';
+      var mismoDia = vigentes.filter(function (p) { return p.urgencia_vigente.vence === proximo.urgencia_vigente.vence; });
+      var item = function (p) {
+        return '<div class="chips">' + chipUrg(p.urgencia_vigente.tipo) + ' <span class="chip">Boletín ' + esc(p.boletin) + '</span> <span class="chip">' + esc(camaraCorta(p.camara_actual)) + '</span></div>' +
+          sesionPlazo(p, A);
+      };
+      if (mismoDia.length === 1) {
+        var nom = nombreProyecto(proximo.boletin, U, A, IDX);
+        $('#reloj-titulo').innerHTML = '<a href="' + urlFicha(proximo.boletin) + '">' + esc(recortar(nom.sintesis || nom.oficial, 170)) + '</a>';
+        $('#reloj-meta').outerHTML = '<div id="reloj-meta">' + item(proximo) + '</div>';
+      } else {
+        var ceja = caja.querySelector('.eyebrow'); if (ceja) ceja.textContent = 'Próximos plazos que vencen';
+        $('#reloj-titulo').textContent = mismoDia.length + ' proyectos vencen el mismo día';
+        $('#reloj-meta').outerHTML = '<ul class="reloj-lista" id="reloj-meta">' + mismoDia.map(function (p) {
+          var n = nombreProyecto(p.boletin, U, A, IDX);
+          return '<li><a href="' + urlFicha(p.boletin) + '">' + esc(recortar(n.sintesis || n.oficial, 170)) + '</a>' + item(p) + '</li>';
+        }).join('') + '</ul>';
+      }
       var fin = fecha(proximo.urgencia_vigente.vence); fin.setHours(23, 59, 59);
       var tic = function () {
         var ms = Math.max(0, fin - new Date());
@@ -174,6 +188,23 @@
     } else if (caja) { caja.hidden = true; }
 
     tablaActividad(U, A, IDX);
+  }
+
+  // Línea de estado del reloj: si el proyecto tiene una sesión citada para discutirlo y si cae dentro del plazo.
+  // Rojo: sin sesión citada. Amarillo: citado para después del vencimiento. Verde: citado dentro del plazo.
+  function sesionPlazo(p, A) {
+    var b = p.boletin, vence = p.urgencia_vigente.vence, desde = isoDe(hoy());
+    var ses = (A && A.sesiones || []).filter(function (s) {
+      if (s.estado === 'sin efecto' || !s.fecha || s.fecha < desde) return false;
+      if ((s.boletines || []).indexOf(b) > -1) return true;
+      return (s.puntos || []).some(function (pt) { return (pt.boletines || []).indexOf(b) > -1; });
+    }).sort(function (x, y) { return (x.fecha + (x.hora || '')) < (y.fecha + (y.hora || '')) ? -1 : 1; });
+    if (!ses.length) return '<p class="reloj-sesion neon-rojo"><span class="punto"></span>Sin fecha de discusión: no hay sesión citada para este proyecto.</p>';
+    var s = ses.filter(function (x) { return x.fecha <= vence; })[0] || ses[0];
+    var cuando = fDia(s.fecha).toLowerCase() + (/^\d{1,2}:\d{2}$/.test(s.hora || '') ? ' a las ' + s.hora : '');
+    var donde = s.organo ? ' · ' + esc(s.organo) + (s.camara ? ', ' + esc(camaraCorta(s.camara)) : '') : '';
+    if (s.fecha > vence) return '<p class="reloj-sesion neon-amarillo"><span class="punto"></span>Discusión citada para el ' + esc(cuando) + ', después de que vence el plazo' + donde + '.</p>';
+    return '<p class="reloj-sesion neon-verde"><span class="punto"></span>Discusión citada para el ' + esc(cuando) + ', dentro del plazo' + donde + '.</p>';
   }
 
   /* ---------- tabla de actividad de la portada ----------
