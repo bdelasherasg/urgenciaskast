@@ -181,12 +181,47 @@ p { text-wrap: pretty; }
 .reloj-lista li:first-child { padding-top: 0; border-top: 0; }
 .reloj-lista li > a { display: block; font-weight: 600; font-size: 16.5px; line-height: 1.35; color: var(--tinta); text-decoration: none; margin-bottom: 6px; }
 .reloj-lista li > a:hover { text-decoration: underline; }
+.reloj-vence { display: block; font-family: var(--f-etiqueta); font-size: 11.5px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--tinta-suave); margin-bottom: 4px; }
+/* Carrusel de los próximos plazos: de a tres en escritorio y de a uno en celular, con láminas de igual altura y
+   textos acotados. Solo avanza con las flechas o al deslizar. */
+.reloj-carrusel { display: none; }
+.con-carrusel .reloj-carrusel { display: block; min-width: 0; }
+.con-carrusel > div:first-child > .eyebrow, .con-carrusel #reloj-titulo, .con-carrusel #reloj-meta { display: none; }
+.rc-pista { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; -webkit-overflow-scrolling: touch; margin: 6px -14px 0; padding: 4px 0 8px; }
+.rc-pista::-webkit-scrollbar { display: none; }
+.rc-lamina { flex: 0 0 33.3333%; min-width: 0; scroll-snap-align: start; padding: 0 14px; box-sizing: border-box; }
+.rc-lamina .reloj-vence { margin-top: 4px; }
+.rc-titulo { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4; overflow: hidden; font-family: var(--f-display); font-weight: 400; font-size: 21px; line-height: 1.15; color: var(--tinta); text-decoration: none; margin: 2px 0 10px; min-height: calc(21px * 1.15 * 4); }
+.rc-titulo:hover { text-decoration: underline; }
+.rc-lamina .reloj-sesion { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4; overflow: hidden; padding: 4px 10px 0; margin: 6px -10px 0; }
+.rc-lamina .reloj-sesion .punto { display: inline-block; margin-right: 8px; }
+.rc-nav { display: flex; align-items: center; gap: 10px; margin-top: 8px; }
+.rc-nav[hidden] { display: none; }
+.rc-flecha { flex: none; width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--vidrio-borde); background: rgba(255,255,255,.7); color: var(--tinta); font-size: 22px; line-height: 1; cursor: pointer; display: grid; place-items: center; padding: 0 0 3px; }
+.rc-flecha:disabled { opacity: .35; cursor: default; }
+.rc-flecha[data-d="1"] { margin-left: auto; }
+.rc-puntos { display: flex; gap: 6px; flex-wrap: wrap; }
+.rc-puntos i { width: 7px; height: 7px; border-radius: 50%; background: rgba(46,34,98,.22); transition: background .2s ease, transform .2s ease; }
+.rc-puntos i.activo { background: var(--tinta); transform: scale(1.25); }
+.rc-pos { font-family: var(--f-etiqueta); font-size: 12px; font-weight: 700; letter-spacing: .06em; color: var(--tinta-suave); }
+@media (max-width: 760px) {
+  .rc-lamina { flex-basis: 100%; scroll-snap-stop: always; }
+  .rc-titulo { font-size: 23px; min-height: calc(23px * 1.15 * 4); }
+}
+/* Escritorio con carrusel: el contador pasa a una línea compacta arriba a la derecha y el carrusel usa todo el ancho. */
+@media (min-width: 761px) {
+  .reloj-caja.con-carrusel { grid-template-columns: minmax(0, 1fr); position: relative; }
+  .con-carrusel .reloj { position: absolute; top: clamp(20px, 3.4vw, 30px); right: clamp(20px, 3.4vw, 30px); gap: 6px; transform: translateY(-9px); }
+  .con-carrusel .reloj div { min-width: 0; display: flex; align-items: baseline; gap: 4px; padding: 6px 11px; border-radius: var(--r-pastilla); }
+  .con-carrusel .reloj strong { display: inline; font-size: 24px; }
+  .con-carrusel .reloj span { font-size: 10px; letter-spacing: .08em; }
+}
 /* Estado de la discusión, con brillo de neón: rojo sin sesión, amarillo citada fuera de plazo, verde dentro de plazo. */
 .reloj-sesion { display: flex; align-items: baseline; gap: 8px; margin: 10px 0 0; font-family: var(--f-etiqueta); font-size: 13.5px; font-weight: 700; line-height: 1.4; }
-.reloj-sesion .punto { flex: none; width: 9px; height: 9px; border-radius: 50%; background: currentColor; box-shadow: 0 0 6px currentColor, 0 0 12px currentColor; transform: translateY(-1px); }
-.neon-rojo { color: #d0142c; text-shadow: 0 0 6px rgba(255,40,70,.55), 0 0 14px rgba(255,40,70,.35); }
-.neon-amarillo { color: #a86a00; text-shadow: 0 0 6px rgba(255,190,20,.8), 0 0 14px rgba(255,190,20,.5); }
-.neon-verde { color: #0b8a3e; text-shadow: 0 0 6px rgba(30,230,110,.6), 0 0 14px rgba(30,230,110,.4); }
+.reloj-sesion .punto { flex: none; width: 9px; height: 9px; border-radius: 50%; background: currentColor; box-shadow: 0 0 4px currentColor; transform: translateY(-1px); }
+.neon-rojo { color: #d0142c; text-shadow: 0 0 5px rgba(255,40,70,.3), 0 0 10px rgba(255,40,70,.15); }
+.neon-amarillo { color: #a86a00; text-shadow: 0 0 5px rgba(255,190,20,.45), 0 0 10px rgba(255,190,20,.22); }
+.neon-verde { color: #0b8a3e; text-shadow: 0 0 5px rgba(30,230,110,.32), 0 0 10px rgba(30,230,110,.16); }
 @media (max-width: 760px) { .reloj-caja { grid-template-columns: minmax(0, 1fr); } .reloj div { min-width: 0; flex: 1; } .reloj strong { font-size: 32px; } }
 
 /* ---------- agenda ---------- */
