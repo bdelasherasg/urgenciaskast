@@ -666,8 +666,10 @@
         return esc(o.texto) + refs(o.fuentes);
       }).join(' ');
     }
+    /* Dentro de un resumen desplegable no puede haber otro botón: el lector de pantalla no lo distingue. */
+    function sinBotones(h) { return String(h).replace(/<button[^>]*>([\s\S]*?)<\/button>/g, '$1'); }
     function franja(herr, nombre, por, limite, para) {
-      return '<div class="franja"><details><summary><span class="herr"><span>' + herr + '</span><span>' + nombre + '</span></span><span class="abrir"><span class="abrir-txt"></span></span></summary>' +
+      return '<div class="franja"><details><summary><span class="herr"><span>' + herr + '</span><span>' + sinBotones(nombre) + '</span></span><span class="abrir"><span class="abrir-txt"></span></span></summary>' +
         '<div class="franja-grilla"><div><b>Por qué la usamos</b><p>' + por + '</p></div><div><b>Qué no puede decir</b><p>' + limite + '</p></div><div><b>Para qué sirve</b><p>' + para + '</p></div></div></details></div>';
     }
     function masCta(texto) {
@@ -1014,9 +1016,10 @@
         return r.json().catch(function () { return {}; }).then(function (d) { if (!r.ok) throw new Error(d.error || 'No pudimos registrar la solicitud.'); return d; });
       }).then(function (d) {
         form.innerHTML = '<button type="submit" class="dlg-cerrar" value="cerrar" aria-label="Cerrar">×</button>' +
-          '<p class="eyebrow">Solicitud recibida</p><h2>Gracias, ' + esc(nombre.split(' ')[0]) + '</h2>' +
+          '<p class="eyebrow">Solicitud recibida</p><h2 id="dlg-amp-t">Gracias, ' + esc(nombre.split(' ')[0]) + '</h2>' +
           '<p>' + (d.repetido ? 'Ya teníamos su solicitud para este proyecto.' : 'Recibimos su solicitud del análisis ampliado.') + ' Se publicará en esta misma ficha dentro de las próximas horas y le avisaremos a <b>' + esc(correo) + '</b>.</p>' +
           '<div class="acciones"><button type="submit" class="boton" value="cerrar">Volver a la ficha</button></div>';
+        var hOk = $('h2', form); if (hOk) { hOk.setAttribute('tabindex', '-1'); hOk.focus(); }
       }).catch(function (e) {
         enviar.disabled = false; enviar.textContent = 'Enviar solicitud';
         error((e && e.message && !/Failed to fetch|NetworkError|Load failed/i.test(e.message) ? e.message : 'No pudimos enviar la solicitud.') + ' Si el problema sigue, escríbanos a ' + (CFG.correo || '') + '.');

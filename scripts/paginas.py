@@ -372,13 +372,14 @@ def enlace_entrega(a):
     return ('{{BASE}}' + esc(a['ruta'])) if a.get('ruta') else esc(a['url'])
 
 
-def tarjeta_entrega(a):
+def tarjeta_entrega(a, nivel=3):
     externo = not a.get('ruta')
     rel = ' rel="noopener"' if externo else ''
     meta = ' · '.join(x for x in [a.get('autor'), a.get('fecha_texto'), f'Lectura de {a["minutos"]} minutos' if a.get('minutos') else '',
                                   'en locomun.cl' if externo else ''] if x)
-    return (f'<article class="tarjeta destacado-analisis"><div class="lado"><p class="num-bloque">{esc(a["serie"])} · N.° {esc(a["numero"])}</p>'
-            f'<h3><a href="{enlace_entrega(a)}"{rel}>{esc(a["titulo"])}</a></h3>'
+    rotulo = ' · '.join(x for x in [esc(a.get('serie') or ''), f'N.° {esc(a["numero"])}' if a.get('numero') else ''] if x) or 'Análisis'
+    return (f'<article class="tarjeta destacado-analisis"><div class="lado"><p class="num-bloque">{rotulo}</p>'
+            f'<h{nivel}><a href="{enlace_entrega(a)}"{rel}>{esc(a["titulo"])}</a></h{nivel}>'
             f'<p class="nota" style="color:var(--tinta-suave)">{esc(meta)}</p></div>'
             f'<div class="lado"><p>{esc(a["resumen"])}</p><a class="boton boton-indigo" href="{enlace_entrega(a)}"{rel}>Leer el análisis</a></div></article>')
 
@@ -398,7 +399,7 @@ def destacado(entregas):
 
 
 def lista_analisis(entregas):
-    return ''.join(tarjeta_entrega(a) for a in entregas)
+    return ''.join(tarjeta_entrega(a, 2) for a in entregas)
 
 
 def glosario_datos():
