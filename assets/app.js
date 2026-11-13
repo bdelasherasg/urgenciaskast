@@ -176,7 +176,65 @@
           return '<li><a href="' + urlFicha(p.boletin) + '">' + esc(recortar(n.sintesis || n.oficial, 170)) + '</a>' + item(p) + '</li>';
         }).join('') + '</ul>';
       }
-      var fin = fecha(proximo.urgencia_vigente.vence); fin.setHours(23, 59, 59);
+      // Al menos los próximos tres vencimientos; si en el día del tercero vencen más, se suman todos los de ese día.
+      var orden = vigentes.slice().sort(function (a, b) { return a.urgencia_vigente.vence < b.urgencia_vigente.vence ? -1 : (a.urgencia_vigente.vence > b.urgencia_vigente.vence ? 1 : 0); });
+      var corte = orden[Math.min(2, orden.length - 1)].urgencia_vigente.vence;
+      var seleccion = orden.filter(function (p) { return p.urgencia_vigente.vence <= corte; });
+      var venceTxt = function (p) {
+        var d = dias(p.urgencia_vigente.vence);
+        return (d === 0 ? 'Vence hoy' : (d === 1 ? 'Vence mañana' : 'Vence en ' + d + ' días')) + ' · ' + esc(fDia(p.urgencia_vigente.vence));
+      };
+      var tituloDe = function (p) { var n = nombreProyecto(p.boletin, U, A, IDX); return esc(recortar(n.sintesis || n.oficial, 170)); };
+      // Si hay más de uno, todos van en un carrusel que solo avanza con las flechas o al deslizar: de a tres en
+      // escritorio y de a uno en celular. El contador sigue al primer proyecto visible.
+      var fin;
+      var fijarFin = function (p) { fin = fecha(p.urgencia_vigente.vence); fin.setHours(23, 59, 59); };
+      fijarFin(proximo);
+      var marcar;
+      if (seleccion.length > 1) {
+        var N = seleccion.length;
+        caja.firstElementChild.insertAdjacentHTML('beforeend',
+          '<div class="reloj-carrusel" role="region" aria-roledescription="carrusel" aria-label="Próximos plazos que vencen">' +
+          '<p class="eyebrow">Próximos ' + N + ' plazos que vencen</p><div class="rc-pista">' + seleccion.map(function (p, i) {
+            return '<article class="rc-lamina" aria-roledescription="lámina" aria-label="' + (i + 1) + ' de ' + N + '"><span class="reloj-vence">' + venceTxt(p) + '</span>' +
+              '<a class="rc-titulo" href="' + urlFicha(p.boletin) + '">' + tituloDe(p) + '</a>' + item(p) + '</article>';
+          }).join('') + '</div>' +
+          '<div class="rc-nav"><button type="button" class="rc-flecha" data-d="-1" aria-label="Anteriores">‹</button>' +
+          '<span class="rc-puntos" aria-hidden="true"></span><span class="rc-pos" aria-live="polite"></span>' +
+          '<button type="button" class="rc-flecha" data-d="1" aria-label="Siguientes">›</button></div></div>');
+        caja.classList.add('con-carrusel');
+        var pista = caja.querySelector('.rc-pista'), laminas = pista.children, nav = caja.querySelector('.rc-nav');
+        var movil = window.matchMedia('(max-width: 760px)'), estado = '';
+        var porPagina = function () { return movil.matches ? 1 : 3; };
+        var paso = function () { return laminas[1].offsetLeft - laminas[0].offsetLeft || pista.clientWidth; };
+        var pagina = 0;
+        marcar = function () {
+          var ps = porPagina(), paginas = Math.ceil(N / ps);
+          var alFinal = pista.scrollLeft >= pista.scrollWidth - pista.clientWidth - 2;
+          var primero = alFinal ? Math.max(0, N - ps) : Math.max(0, Math.min(N - 1, Math.round(pista.scrollLeft / paso())));
+          pagina = alFinal ? paginas - 1 : Math.floor(primero / ps);
+          var clave = ps + ':' + pagina + ':' + primero;
+          if (clave === estado) return;
+          estado = clave;
+          nav.hidden = paginas < 2;
+          var puntos = caja.querySelector('.rc-puntos');
+          if (puntos.children.length !== paginas) puntos.innerHTML = new Array(paginas + 1).join('<i></i>');
+          [].forEach.call(puntos.children, function (el, k) { el.classList.toggle('activo', k === pagina); });
+          var ultimo = Math.min(N, primero + ps);
+          caja.querySelector('.rc-pos').textContent = (ps === 1 || ultimo === primero + 1 ? (primero + 1) : (primero + 1) + '–' + ultimo) + ' de ' + N;
+          caja.querySelector('.rc-flecha[data-d="-1"]').disabled = pagina === 0;
+          caja.querySelector('.rc-flecha[data-d="1"]').disabled = pagina === paginas - 1;
+          fijarFin(seleccion[primero]); if (typeof tic === 'function') tic();
+        };
+        var ir = function (pg) {
+          var ps = porPagina(), i = Math.max(0, Math.min(N - 1, pg * ps));
+          var suave = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+          pista.scrollTo({ left: laminas[i].offsetLeft - laminas[0].offsetLeft, behavior: suave ? 'smooth' : 'auto' });
+        };
+        [].forEach.call(caja.querySelectorAll('.rc-flecha'), function (bt) { bt.addEventListener('click', function () { ir(pagina + Number(bt.dataset.d)); }); });
+        pista.addEventListener('scroll', function () { window.requestAnimationFrame(marcar); }, { passive: true });
+        if (movil.addEventListener) movil.addEventListener('change', function () { pista.scrollLeft = 0; estado = ''; marcar(); });
+      }
       var tic = function () {
         var ms = Math.max(0, fin - new Date());
         $('#r-d').textContent = Math.floor(ms / DIA);
@@ -184,6 +242,7 @@
         $('#r-m').textContent = String(Math.floor(ms % 3600000 / 60000)).padStart(2, '0');
         $('#r-s').textContent = String(Math.floor(ms % 60000 / 1000)).padStart(2, '0');
       };
+      if (marcar) marcar();
       tic(); setInterval(tic, 1000);
     } else if (caja) { caja.hidden = true; }
 
