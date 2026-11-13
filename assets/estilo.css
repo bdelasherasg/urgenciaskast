@@ -564,20 +564,22 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
   .tabla-marco { background: transparent; box-shadow: none; overflow: visible; border-radius: 0; }
   .tabla-proyectos, .tabla-proyectos tbody, .tabla-proyectos tr, .tabla-proyectos td { display: block; min-width: 0; width: auto; max-width: none; }
   .tabla-proyectos thead { display: none; }
-  .tabla-proyectos tbody tr { background: var(--crema); border-radius: var(--r-medio); box-shadow: var(--sombra-chica); margin-bottom: 10px; padding: 12px 14px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px 12px; }
+  .tabla-proyectos tbody tr { background: var(--crema); border-radius: var(--r-medio); box-shadow: var(--sombra-chica); margin-bottom: 10px; padding: 12px 14px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 8px 16px; }
+  /* Actividad, urgencia y ficha: ancho según su contenido y relleno del espacio libre, para que no se monten. */
+  .tabla-proyectos tbody tr > td { flex: 1 1 auto; }
   .tabla-proyectos tbody tr.nuevo-dia { margin-top: 22px; }
   .tabla-proyectos tbody tr.nuevo-dia td { border-top: 0; }
   .tabla-proyectos tbody td { padding: 0; border: 0; min-width: 0; }
   .tabla-proyectos tbody td::before { content: attr(data-l); display: block; font-family: var(--f-etiqueta); font-size: 10px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--tinta-suave); margin-bottom: 3px; }
   /* Arriba, en una línea y sin rótulos: cuándo y dónde. Después, el título. Abajo, actividad, urgencia y ficha. */
   .tabla-proyectos .c-cuando, .tabla-proyectos .c-donde, .tabla-proyectos .c-que, .tabla-proyectos .c-act, .tabla-proyectos .c-urg { width: auto; min-width: 0; }
-  .tabla-proyectos .c-cuando, .tabla-proyectos .c-donde { grid-column: 1 / -1; font-size: 12.5px; }
+  .tabla-proyectos .c-cuando, .tabla-proyectos .c-donde { flex: 1 1 100%; font-size: 12.5px; }
   .tabla-proyectos .c-cuando { padding-left: 0; }
   .tabla-proyectos .c-donde { margin-top: -6px; }
   .tabla-proyectos .c-cuando::before, .tabla-proyectos .c-donde::before, .tabla-proyectos .c-que::before { display: none; }
   .tabla-proyectos .c-cuando .cuando-dia, .tabla-proyectos .c-cuando .cuando-hora { display: inline; margin: 0 6px 0 0; white-space: nowrap; }
   .tabla-proyectos .c-donde .donde-org, .tabla-proyectos .c-donde .sub { display: inline; margin: 0 6px 0 0; }
-  .tabla-proyectos .c-que { grid-column: 1 / -1; }
+  .tabla-proyectos .c-que { flex: 1 1 100%; }
   .tabla-proyectos .c-urg .vence { margin-top: 4px; }
   .tabla-proyectos .c-ficha { white-space: normal; }
   .tabla-proyectos .c-ficha .flecha { display: none; }
@@ -586,7 +588,7 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
   .tabla-proyectos tr.separador { display: block; background: transparent; box-shadow: none; padding: 18px 2px 4px; }
   .tabla-proyectos tr.separador td { background: transparent; padding: 0; border: 0; }
   .tabla-proyectos tr.separador td::before { display: none; }
-  .tabla-proyectos td.vacio { grid-column: 1 / -1; }
+  .tabla-proyectos td.vacio { flex: 1 1 100%; }
   .tabla-proyectos td.vacio::before { display: none; }
 }
 
