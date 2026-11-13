@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T09:06-03:00",
+ "actualizado": "2026-11-13T09:30-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -402,13 +402,19 @@
     {
      "boletin": "18702-05",
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
   }
  ],
  "fichas_recientes": [
+  {
+   "boletin": "18702-05",
+   "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+   "publicado": "2026-11-13",
+   "url": "https://urgenciaskast.cl/p/18702-05.html"
+  },
   {
    "boletin": "12213-07",
    "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
@@ -438,12 +444,6 @@
    "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
    "publicado": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/14773-02.html"
-  },
-  {
-   "boletin": "14838-03",
-   "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/14838-03.html"
   }
  ],
  "analisis": [
