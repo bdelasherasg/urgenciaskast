@@ -22,6 +22,8 @@ BASE_CAMARA = 'https://opendata.camara.cl/camaradiputados/WServices/'
 URL_CAMARA_SALA = BASE_CAMARA + 'WSSala.asmx/retornarSesionesXAnno?prmAnno={anno}'
 URL_LEGISLATURA = BASE_CAMARA + 'WSLegislativo.asmx/retornarLegislaturaActual'
 URL_VOTACIONES = BASE_CAMARA + 'WSLegislativo.asmx/retornarVotacionesXAnno?prmAnno={anno}'
+URL_VOTACIONES_PROYECTO = BASE_CAMARA + 'WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin={boletin}'
+RE_PARTIDA = re.compile(r'\bPart(?:ida)?\.?\s*(?:N[°º]\s*)?(\d{1,2})(?!\d)', re.I)
 URL_SENADO_SALA = 'https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura={numero}'
 FUENTE = {CAMARA: 'Cámara, datos abiertos (sesiones de Sala)', SENADO: 'Senado, servicio público de tramitación (sesiones de Sala)'}
 
@@ -215,6 +217,41 @@ def parse_votaciones(xml, desde):
             num = lambda k: int(_campo(b, k) or 0) if _campo(b, k).isdigit() else 0  # noqa: E731
             g['ultima'] = {'hora': hora, 'resultado': resultado, 'si': num('TotalSi'), 'no': num('TotalNo'), 'abstencion': num('TotalAbstencion')}
     return sorted(grupos.values(), key=lambda g: (g['fecha'], g['boletin']), reverse=True)
+
+
+def resultados_por_id(xml):
+    """{Id: 'aprobada' | 'rechazada'} de WSLegislativo.retornarVotacionesXAnno, que trae bien el resultado."""
+    out = {}
+    for b in re.findall(r'(?s)<Votacion>.*?</Votacion>', xml or ''):
+        r = _campo(b, 'Resultado').lower()
+        if _campo(b, 'Id') and (r.startswith('aprob') or r.startswith('rechaz')):
+            out[_campo(b, 'Id')] = 'aprobada' if r.startswith('aprob') else 'rechazada'
+    return out
+
+
+def votaciones_por_partida(xml_proyecto, resultados):
+    """Votaciones de Sala de un Presupuesto, contadas por partida.
+
+    WSLegislativo.retornarVotacionesXProyectoLey dice sobre qué se votó (campo Articulo: «Partida 50 …» o
+    «Part 32 - Cap 05 …»), pero rotula mal el resultado; el resultado sale de `resultados` (por Id). Las votaciones
+    sin resultado reconocible se cuentan en el total, sin sumarse a aprobadas ni rechazadas."""
+    partidas, sin_partida, total = {}, 0, 0
+    for b in re.findall(r'(?s)<VotacionProyectoLey>.*?</VotacionProyectoLey>', xml_proyecto or ''):
+        fecha = _campo(b, 'Fecha')
+        if not re.match(r'\d{4}-\d{2}-\d{2}', fecha):
+            continue
+        total += 1
+        m = RE_PARTIDA.search(_campo(b, 'Articulo'))
+        if not m:
+            sin_partida += 1
+            continue
+        g = partidas.setdefault(m.group(1).zfill(2), {'votaciones': 0, 'aprobadas': 0, 'rechazadas': 0, 'ultima': ''})
+        g['votaciones'] += 1
+        r = resultados.get(_campo(b, 'Id'))
+        if r:
+            g[r + 's'] += 1
+        g['ultima'] = max(g['ultima'], fecha[:10])
+    return {'total': total, 'sin_partida': sin_partida, 'partidas': dict(sorted(partidas.items()))}
 
 
 def clave_sesion(s):

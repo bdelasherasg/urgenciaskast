@@ -22,7 +22,9 @@ que se publica una ficha o se edita una página, la acción **Actualizar urgenci
    mes publicado (subtítulos de gasto 21 a 35, sin consolidar, en miles de pesos y de dólares de ese año). La ficha
    del Presupuesto lo muestra en el bloque de partidas, y la tarea de borradores lo recibe como fuente.
 3. `scripts/agenda.py`: arma `data/agenda.json` con las citaciones de comisiones de ambas cámaras para dos semanas
-   (confirmado) y los plazos de urgencia que vencen sin citación (probable).
+   (confirmado) y los plazos de urgencia que vencen sin citación (probable). También escribe `data/votaciones_sala.json`;
+   para el Presupuesto incluye `por_partida`: cuántas votaciones de Sala de la Cámara hubo en cada partida (la partida
+   sale de `retornarVotacionesXProyectoLey`; el resultado, de `retornarVotacionesXAnno`, unidos por Id).
 4. Copia `https://locomun.cl/contenido/feed.json` en `data/locomun.json` (estudios y publicaciones de Lo Común).
 5. `scripts/paginas.py --sitio`: genera las páginas desde `fuente/`, una página por proyecto en `p/` (con título y
    descripción propios para compartir), `data/feed.json` (resumen que muestra locomun.cl) y `sitemap.xml`.
