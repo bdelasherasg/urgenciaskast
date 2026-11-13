@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T10:16-03:00",
+ "actualizado": "2026-11-13T10:21-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -218,25 +218,25 @@
     {
      "boletin": "16708-11",
      "titulo": "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad",
-     "sintesis": "",
+     "sintesis": "Agrega la prevención de la infertilidad a las tareas de las matronas y permite indicar exámenes preventivos. El Senado lo aprobó. La Cámara lo aprobó en general y su comisión despachó el proyecto.",
      "url": "https://urgenciaskast.cl/p/16708-11.html"
     },
     {
      "boletin": "16593-06",
      "titulo": "Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por incumplimiento",
-     "sintesis": "",
+     "sintesis": "Amplía el concepto de lobby y agrava las sanciones por incumplir la ley del lobby. Está refundido con otros dos proyectos. Falta la votación general en la Sala de la Cámara.",
      "url": "https://urgenciaskast.cl/p/16593-06.html"
     },
     {
      "boletin": "16888-06",
      "titulo": "Moderniza la regulación del lobby y las gestiones de intereses particulares ante las autoridades y funcionarios",
-     "sintesis": "",
+     "sintesis": "Moderniza la ley del lobby: crea los representantes calificados de intereses y amplía las autoridades obligadas. Es mensaje del gobierno y está refundido con dos mociones. Falta su votación general en la Cámara.",
      "url": "https://urgenciaskast.cl/p/16888-06.html"
     },
     {
      "boletin": "16988-06",
      "titulo": "Modifica la ley N° 20.730, para ampliar el concepto de lobbista y establecer nuevas obligaciones en materia de transparencia y publicidad de sus actividades",
-     "sintesis": "",
+     "sintesis": "Amplía el concepto de lobista y suma obligaciones de transparencia para sus actividades. Está refundido con otros dos proyectos. Falta la votación general en la Sala de la Cámara.",
      "url": "https://urgenciaskast.cl/p/16988-06.html"
     },
     {
@@ -346,19 +346,19 @@
     {
      "boletin": "16397-15",
      "titulo": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros",
-     "sintesis": "",
+     "sintesis": "Sube la multa y la suspensión de licencia por no usar sistemas de retención infantil o llevar a menores de 12 años en el asiento delantero. Tiene urgencia simple y espera su votación en particular en la Cámara.",
      "url": "https://urgenciaskast.cl/p/16397-15.html"
     },
     {
      "boletin": "15387-12",
      "titulo": "Modifica la ley N°21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros",
-     "sintesis": "",
+     "sintesis": "Prohíbe las competiciones no autorizadas entre perros que pongan en peligro su integridad y las sanciona como maltrato animal. La Cámara lo aprobó en general. Espera su votación en particular.",
      "url": "https://urgenciaskast.cl/p/15387-12.html"
     },
     {
      "boletin": "13828-19",
      "titulo": "Sobre protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y las neurotecnologías.",
-     "sintesis": "",
+     "sintesis": "Regula las neurotecnologías, que leen o modifican la actividad del cerebro, y protege los datos neuronales de las personas. El Senado lo aprobó en 2021. Hoy lo discute la Cámara.",
      "url": "https://urgenciaskast.cl/p/13828-19.html"
     },
     {
@@ -370,13 +370,13 @@
     {
      "boletin": "17049-13",
      "titulo": "Modifica el Código del Trabajo para extender la duración del permiso postnatal parental",
-     "sintesis": "",
+     "sintesis": "Extiende el permiso postnatal parental de las madres y el permiso pagado de los padres. Tres comisiones lo informaron. La Sala de la Cámara dejó pendiente su discusión general.",
      "url": "https://urgenciaskast.cl/p/17049-13.html"
     },
     {
      "boletin": "16172-17",
      "titulo": "Modifica la ley N°19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para restringir las causales de reconocimiento de la calidad de indígena",
-     "sintesis": "",
+     "sintesis": "Restringe las causales para ser reconocido como indígena y elimina el requisito de autoidentificación. La Comisión de Derechos Humanos lo aprobó en general. Espera su discusión en la Sala de la Cámara.",
      "url": "https://urgenciaskast.cl/p/16172-17.html"
     },
     {
@@ -416,34 +416,34 @@
    "url": "https://urgenciaskast.cl/p/13529-34.html"
   },
   {
-   "boletin": "16777-07",
-   "sintesis": "Castiga con presidio la introducción ilícita al país de plagas vegetales o enfermedades animales. La Cámara lo aprobó con cambios y el Senado lo revisa en tercer trámite, con urgencia suma.",
+   "boletin": "13828-19",
+   "sintesis": "Regula las neurotecnologías, que leen o modifican la actividad del cerebro, y protege los datos neuronales de las personas. El Senado lo aprobó en 2021. Hoy lo discute la Cámara.",
    "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/16777-07.html"
+   "url": "https://urgenciaskast.cl/p/13828-19.html"
   },
   {
-   "boletin": "18189-14",
-   "sintesis": "Amplía hasta 2029 el plazo para regularizar viviendas sin recepción definitiva y sube los límites de superficie y avalúo. Está en el Senado, con urgencia suma, tras ser aprobado por su Comisión de Vivienda.",
+   "boletin": "15387-12",
+   "sintesis": "Prohíbe las competiciones no autorizadas entre perros que pongan en peligro su integridad y las sanciona como maltrato animal. La Cámara lo aprobó en general. Espera su votación en particular.",
    "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/18189-14.html"
+   "url": "https://urgenciaskast.cl/p/15387-12.html"
   },
   {
-   "boletin": "18702-05",
-   "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+   "boletin": "15779-03",
+   "sintesis": "Busca que arriendos, aranceles educacionales, créditos hipotecarios y planes de salud se fijen en pesos y no en unidades de fomento. Está en primer trámite en la Cámara, refundido con otra moción.",
    "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/18702-05.html"
+   "url": "https://urgenciaskast.cl/p/15779-03.html"
   },
   {
-   "boletin": "12213-07",
-   "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/12213-07.html"
+   "boletin": "15787-03",
+   "sintesis": "Prohíbe que los contratos de servicios educacionales se pacten en unidades de fomento y exige que se fijen en moneda nacional. Está en primer trámite en la Cámara, refundido con otra moción.",
+   "publicado": "2026-11-13",
+   "url": "https://urgenciaskast.cl/p/15787-03.html"
   },
   {
-   "boletin": "12712-24",
-   "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/12712-24.html"
+   "boletin": "16172-17",
+   "sintesis": "Restringe las causales para ser reconocido como indígena y elimina el requisito de autoidentificación. La Comisión de Derechos Humanos lo aprobó en general. Espera su discusión en la Sala de la Cámara.",
+   "publicado": "2026-11-13",
+   "url": "https://urgenciaskast.cl/p/16172-17.html"
   }
  ],
  "analisis": [

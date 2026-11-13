@@ -34,6 +34,13 @@
   "materia": "el aviso contra la violencia hacia la mujer en baños públicos",
   "revision": "pendiente"
  },
+ "13828-19": {
+  "sintesis": "Regula las neurotecnologías, que leen o modifican la actividad del cerebro, y protege los datos neuronales de las personas. El Senado lo aprobó en 2021. Hoy lo discute la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la protección de los neuroderechos y la integridad mental",
+  "revision": "pendiente"
+ },
  "14309-04": {
   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
   "nivel": "basica",
@@ -83,6 +90,13 @@
   "materia": "el delito de ingreso clandestino al territorio nacional",
   "revision": "pendiente"
  },
+ "15387-12": {
+  "sintesis": "Prohíbe las competiciones no autorizadas entre perros que pongan en peligro su integridad y las sanciona como maltrato animal. La Cámara lo aprobó en general. Espera su votación en particular.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la prohibición de las carreras de perros",
+  "revision": "pendiente"
+ },
  "15589-07": {
   "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
   "nivel": "completa",
@@ -95,6 +109,20 @@
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "la derogación de la ley de control de las artes marciales",
+  "revision": "pendiente"
+ },
+ "15779-03": {
+  "sintesis": "Busca que arriendos, aranceles educacionales, créditos hipotecarios y planes de salud se fijen en pesos y no en unidades de fomento. Está en primer trámite en la Cámara, refundido con otra moción.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "el fin de la unidad de fomento en ciertos cobros",
+  "revision": "pendiente"
+ },
+ "15787-03": {
+  "sintesis": "Prohíbe que los contratos de servicios educacionales se pacten en unidades de fomento y exige que se fijen en moneda nacional. Está en primer trámite en la Cámara, refundido con otra moción.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "el cobro de servicios educacionales en moneda nacional",
   "revision": "pendiente"
  },
  "15805-07": {
@@ -118,6 +146,13 @@
   "materia": "la protección de la infraestructura crítica",
   "revision": "pendiente"
  },
+ "16172-17": {
+  "sintesis": "Restringe las causales para ser reconocido como indígena y elimina el requisito de autoidentificación. La Comisión de Derechos Humanos lo aprobó en general. Espera su discusión en la Sala de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "las causales de reconocimiento de la calidad de indígena",
+  "revision": "pendiente"
+ },
  "16248-29": {
   "sintesis": "Deroga la ley que somete las artes marciales al control de la Dirección General de Movilización Nacional y las incorpora a la Ley del Deporte. Está en segundo trámite en el Senado, con urgencia suma.",
   "nivel": "basica",
@@ -139,11 +174,39 @@
   "materia": "la prevención y mitigación de incendios forestales",
   "revision": "pendiente"
  },
+ "16397-15": {
+  "sintesis": "Sube la multa y la suspensión de licencia por no usar sistemas de retención infantil o llevar a menores de 12 años en el asiento delantero. Tiene urgencia simple y espera su votación en particular en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "las sanciones por no usar sillas de retención infantil",
+  "revision": "pendiente"
+ },
  "16552-12": {
   "sintesis": "Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.",
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "la reforma a la institucionalidad ambiental",
+  "revision": "pendiente"
+ },
+ "16593-06": {
+  "sintesis": "Amplía el concepto de lobby y agrava las sanciones por incumplir la ley del lobby. Está refundido con otros dos proyectos. Falta la votación general en la Sala de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la modernización de la ley del lobby",
+  "revision": "pendiente"
+ },
+ "16708-11": {
+  "sintesis": "Agrega la prevención de la infertilidad a las tareas de las matronas y permite indicar exámenes preventivos. El Senado lo aprobó. La Cámara lo aprobó en general y su comisión despachó el proyecto.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la prevención de la infertilidad",
+  "revision": "pendiente"
+ },
+ "16709-11": {
+  "sintesis": "Agrega la infertilidad a la información y orientación que la ley de regulación de la fertilidad reconoce a las personas. El Senado lo aprobó. La Cámara lo aprobó en general y espera su votación en particular.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la información y educación sobre la infertilidad",
   "revision": "pendiente"
  },
  "16725-06": {
@@ -172,6 +235,27 @@
   "nivel": "completa",
   "publicado": "2026-10-30",
   "materia": "la reforma de las expulsiones administrativas de extranjeros",
+  "revision": "pendiente"
+ },
+ "16888-06": {
+  "sintesis": "Moderniza la ley del lobby: crea los representantes calificados de intereses y amplía las autoridades obligadas. Es mensaje del gobierno y está refundido con dos mociones. Falta su votación general en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la modernización de la ley del lobby",
+  "revision": "pendiente"
+ },
+ "16988-06": {
+  "sintesis": "Amplía el concepto de lobista y suma obligaciones de transparencia para sus actividades. Está refundido con otros dos proyectos. Falta la votación general en la Sala de la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "nuevas obligaciones de transparencia para el lobby",
+  "revision": "pendiente"
+ },
+ "17049-13": {
+  "sintesis": "Extiende el permiso postnatal parental de las madres y el permiso pagado de los padres. Tres comisiones lo informaron. La Sala de la Cámara dejó pendiente su discusión general.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la extensión del permiso postnatal parental",
   "revision": "pendiente"
  },
  "17111-07": {
@@ -207,6 +291,13 @@
   "nivel": "basica",
   "publicado": "2026-11-12",
   "materia": "los derechos humanos en las grandes empresas",
+  "revision": "pendiente"
+ },
+ "17247-13": {
+  "sintesis": "Declara que el personal a contrata renovado por un segundo año seguido tiene confianza legítima de que seguirá en su cargo. La Comisión de Trabajo lo aprobó en general. Está en primer trámite en la Cámara.",
+  "nivel": "basica",
+  "publicado": "2026-11-13",
+  "materia": "la confianza legítima del personal a contrata",
   "revision": "pendiente"
  },
  "17446-17": {
