@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "boletin": "18532-06",
+  "nivel": "basica",
+  "sintesis": "Devuelve la nacionalidad chilena a un hombre que la perdió al naturalizarse en los Países Bajos. El Congreso lo aprobó y el proyecto quedó en manos del Ejecutivo.",
+  "materia": "la rehabilitación de una nacionalidad chilena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción explica que la Constitución exige una ley para recuperar la nacionalidad chilena perdida por renuncia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Relata que la persona nació en Santiago y en 2012 se radicó en los Países Bajos por una misión religiosa.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que sin pasaporte europeo su residencia dependía de tener un empleo, lo que limitaba su trabajo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Concede la rehabilitación de la nacionalidad chilena a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La moción sostiene que la naturalización fue la única vía para seguir en ese país, y no un desapego con Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es una ley de artículo único, que no modifica otras normas.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Se funda en el artículo 11 de la Constitución, que exige una ley para rehabilitar la nacionalidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta solo a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La comisión de la Cámara dejó constancia de que el proyecto no requiere trámite de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 8 de septiembre de 2026, tras el informe unánime de su Comisión de Gobierno Interior.",
+        "fuentes": [
+          "f7",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 11 de noviembre de 2026 el Senado lo aprobó sin modificaciones.",
+        "fuentes": [
+          "f7",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 12 de noviembre de 2026 la Cámara envió el oficio de ley al Ejecutivo. Está en trámite de finalización.",
+        "fuentes": [
+          "f7",
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19223&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-29",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28192&tipodoc=info",
+      "fecha": "2026-08-20",
+      "nota": "Informe de comisión de la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21754",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37465&tipodoc=ofic",
+      "fecha": "2026-11-12",
+      "nota": "Oficio de ley al Ejecutivo, con el texto aprobado."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 372-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37440&tipodoc=ofic",
+      "fecha": "2026-11-11",
+      "nota": "Aprobación del Senado sin modificaciones."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 18532-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18532",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
