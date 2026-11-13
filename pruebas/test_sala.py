@@ -149,3 +149,31 @@ class Seguidos(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class VotacionesPorPartida(unittest.TestCase):
+    """El Presupuesto: la partida sale del campo Articulo; el resultado, del servicio anual (por Id)."""
+
+    ANNO = ('<Votacion><Id>1</Id><Resultado Valor="1">Aprobado</Resultado></Votacion>'
+            '<Votacion><Id>2</Id><Resultado Valor="0">Rechazado</Resultado></Votacion>'
+            '<Votacion><Id>3</Id><Resultado Valor="0">Rechazado</Resultado></Votacion>'
+            '<Votacion><Id>4</Id><Resultado Valor="1">Aprobado</Resultado></Votacion>')
+    PROYECTO = ('<VotacionProyectoLey><Id>1</Id><Fecha>2026-11-12T10:00:00</Fecha><Resultado Valor="1">Aprobado</Resultado>'
+                '<Articulo>Votación Separada\n\nPartida 50 TESORO PÚBLICO\n\nCapítulo 01 Fisco</Articulo></VotacionProyectoLey>'
+                '<VotacionProyectoLey><Id>2</Id><Fecha>2026-11-13T05:15:17</Fecha><Resultado Valor="2">Unánime</Resultado>'
+                '<Articulo>Partida 50 Indicación 56 - En votación la reclamación</Articulo></VotacionProyectoLey>'
+                '<VotacionProyectoLey><Id>3</Id><Fecha>2026-11-13T04:48:34</Fecha><Resultado Valor="2">Unánime</Resultado>'
+                '<Articulo>del diputado X Part 9 - Cap 01 Reemplázase el guarismo</Articulo></VotacionProyectoLey>'
+                '<VotacionProyectoLey><Id>4</Id><Fecha>2026-11-09T12:00:00</Fecha><Resultado Valor="1">Aprobado</Resultado>'
+                '<Articulo></Articulo></VotacionProyectoLey>'
+                '<VotacionProyectoLey><Id>5</Id><Fecha>2026-11-10T12:00:00</Fecha><Resultado Valor="1">Aprobado</Resultado>'
+                '<Articulo>capítulo 09 de la partida 07correspondiente a ECONOMÍA</Articulo></VotacionProyectoLey>')
+
+    def test_cuenta_por_partida_con_el_resultado_del_servicio_anual(self):
+        r = S.votaciones_por_partida(self.PROYECTO, S.resultados_por_id(self.ANNO))
+        self.assertEqual(r['total'], 5)
+        self.assertEqual(r['sin_partida'], 1)
+        self.assertEqual(r['partidas']['50'], {'votaciones': 2, 'aprobadas': 1, 'rechazadas': 1, 'ultima': '2026-11-13'})
+        self.assertEqual(r['partidas']['09'], {'votaciones': 1, 'aprobadas': 0, 'rechazadas': 1, 'ultima': '2026-11-13'})
+        # Sin resultado en el servicio anual: cuenta en el total, no en aprobadas ni rechazadas.
+        self.assertEqual(r['partidas']['07'], {'votaciones': 1, 'aprobadas': 0, 'rechazadas': 0, 'ultima': '2026-11-10'})

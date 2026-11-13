@@ -270,7 +270,7 @@
      Una fila por cada cosa que se trata en una sesión de Sala o de comisión, de ambas cámaras, ordenada por la fecha
      y la hora reales. Al final, los proyectos con urgencia vigente que no tienen sesión citada. Los vencimientos de
      urgencia no ordenan la tabla. Los filtros quedan en la dirección de la página, para compartir una vista. */
-  var VOTACIONES = [], ESPECIALES = {}, LEYES_PRESUPUESTO = {};
+  var VOTACIONES = [], ESPECIALES = {}, LEYES_PRESUPUESTO = {}, VOTOS_PARTIDA = {};
   // Montos de data/presupuesto_vigente.json, que vienen en miles de pesos o de dólares.
   function pesosMiles(m) {
     var p = (m || 0) * 1000, a = Math.abs(p);
@@ -763,6 +763,17 @@
         var mm = m.pesos ? Math.round(m.pesos[k] / 1e6).toLocaleString('es-CL') : '';
         return mm + (m.dolares && m.dolares[k] ? '<span class="usd">' + (mm ? '+ ' : '') + dolaresMiles(m.dolares[k]) + '</span>' : '');
       };
+      // Votaciones de la Sala de la Cámara contadas por partida (datos abiertos, scripts/sala.py).
+      var vp = VOTOS_PARTIDA[b], tablaVotos = vp && vp.partidas ? '<h3>Votaciones de la Sala de la Cámara, por partida</h3>' +
+        '<p>La Sala de la Cámara ha votado ' + esc(vp.total) + ' veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.</p>' +
+        '<div class="tabla-caja"><table class="tabla-partidas"><thead><tr><th>Partida</th><th>Votaciones</th></tr></thead><tbody>' +
+        esp.partidas.filter(function (x) { return vp.partidas[x[0]]; }).map(function (x) {
+          var g = vp.partidas[x[0]];
+          return '<tr><td>' + enlaceP(x) + '</td><td>' + esc(g.votaciones) + '<span class="usd">' + esc(g.aprobadas) + ' aprobadas · ' + esc(g.rechazadas) + ' rechazadas</span></td></tr>';
+        }).join('') + '</tbody></table></div>' +
+        '<p class="nota" style="color:var(--tinta-suave)">Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. ' +
+        (vp.sin_partida ? esc(vp.sin_partida) + ' votaciones no corresponden a una partida (por ejemplo, la votación en general). ' : '') +
+        'Fuente: <a href="' + esc(url(vp.fuente)) + '" rel="noopener">Cámara de Diputadas y Diputados, datos abiertos</a>.</p>' : '';
       var tablaLey = ley && ley.partidas ? '<h3>La Ley de Presupuestos ' + esc(ley.anno) + ', partida por partida</h3>' +
         '<p>Para comparar con el proyecto: lo que aprobó el Congreso para ' + esc(ley.anno) + ' (ley inicial) y lo que rige a ' + esc(ley.mes_corte) +
         ' de ' + esc(ley.anno) + ' (ley vigente), que suma los cambios del año, como decretos, leyes especiales y recortes.</p>' +
@@ -781,7 +792,7 @@
       bloque('partidas', 'El detalle, partida por partida', '<article class="tarjeta" id="partidas" aria-labelledby="h-partidas"><div class="tarjeta-cuerpo">' +
         '<p class="num-bloque">Bloque {{N}}</p><h2 id="h-partidas">El detalle, partida por partida</h2>' +
         '<p>Cuánto propone gastar cada ministerio, cuánto cambia respecto de la ley vigente y qué se votó en cada partida, hasta la última línea, en <a href="' + esc(url(dt.url)) + '" rel="noopener">' + esc(dt.sitio) + '</a>.</p>' +
-        (tablaLey || '<ul class="partidas">' + esp.partidas.map(function (x) { return '<li>' + enlaceP(x) + '</li>'; }).join('') + '</ul>') +
+        (tablaLey || '<ul class="partidas">' + esp.partidas.map(function (x) { return '<li>' + enlaceP(x) + '</li>'; }).join('') + '</ul>') + tablaVotos +
         '<p class="acciones-texto">' + (url(dt.votaciones) ? '<a href="' + esc(dt.votaciones) + '" rel="noopener">Votaciones, partida por partida</a>' : '') +
         (url(dt.indicaciones) ? ' · <a href="' + esc(dt.indicaciones) + '" rel="noopener">Indicaciones presentadas</a>' : '') + '</p>' +
         '<p class="nota" style="color:var(--tinta-suave)">Detalle elaborado por ' + esc(dt.sitio) + ', un proyecto independiente de Urgencias Kast.</p>' +
@@ -1072,11 +1083,12 @@
     if (['portada', 'ficha', 'agenda'].indexOf(pagina) === -1) return;
     Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json'),
       pagina !== 'agenda' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null),
-      pagina === 'portada' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null),
+      pagina !== 'agenda' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null),
       pagina === 'ficha' ? cargarOpc('data/presupuesto_vigente.json') : Promise.resolve(null)]).then(function (r) {
       var U = r[0], A = r[1], IDX = r[2] || {};
       RESULTADOS = (r[3] && r[3].resultados) || [];
       VOTACIONES = (r[4] && r[4].votaciones) || [];
+      VOTOS_PARTIDA = (r[4] && r[4].por_partida) || {};
       ESPECIALES = (A && A.especiales) || {};
       LEYES_PRESUPUESTO = (r[5] && r[5].leyes) || {};
       if (pagina === 'portada') { portada(U, A, IDX); loComun(); }

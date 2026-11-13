@@ -311,9 +311,23 @@ def votaciones_de_sala(hoy, fuentes):
         fuentes['votaciones_camara'] = {'estado': 'sin_actualizar', 'detalle': 'Sin votaciones reconocibles; se conserva el archivo anterior.'}
         return
     resumen = S.parse_votaciones(xml, desde)
+    # Presupuesto: a qué partida corresponde cada votación (toda la tramitación, no solo los últimos 14 días).
+    por_partida = dict(leer_json(VOTACIONES_SALA, {}).get('por_partida') or {})
+    resultados = S.resultados_por_id(xml)
+    for b, e in leer_json(ESPECIALES, {}).items():
+        if e.get('tipo') != 'presupuesto':
+            continue
+        url = S.URL_VOTACIONES_PROYECTO.format(boletin=b)
+        try:
+            pp = S.votaciones_por_partida(texto(A.bajar(url, timeout=60)), resultados)
+        except Exception:  # noqa: BLE001
+            pp = None
+        if pp and pp['partidas']:
+            por_partida[b] = {'fuente': url, **pp}
     with open(VOTACIONES_SALA, 'w', encoding='utf-8') as f:
         json.dump({'actualizado': A.ahora_chile().isoformat(timespec='minutes'), 'desde': desde,
-                   'fuente': 'Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)', 'votaciones': resumen},
+                   'fuente': 'Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)', 'votaciones': resumen,
+                   'por_partida': por_partida},
                   f, ensure_ascii=False, indent=1)
     fuentes['votaciones_camara'] = {'estado': 'ok', 'consultado': A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes'), 'grupos': len(resumen)}
 
