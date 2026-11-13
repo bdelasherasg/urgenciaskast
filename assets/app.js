@@ -611,6 +611,9 @@
     }
 
     var mocion = p && (p.iniciativa || '').toLowerCase().indexOf('moci') === 0;
+    // Proyectos especiales (data/proyectos_especiales.json): el Presupuesto no lleva urgencias sino un plazo
+    // constitucional, y su detalle por partida se enlaza a PresupuestoKast.cl.
+    var esp = ESPECIALES[b] || null, esPres = !!(esp && esp.tipo === 'presupuesto'), pe = plazoEspecial(b);
     var e = p ? estadoUrg(p) : null;
     var v = p ? p.urgencia_vigente || {} : {};
     var citas = A ? (A.sesiones || []).filter(function (s) { return s.estado !== 'sin efecto' && (s.boletines || []).indexOf(b) > -1; }) : [];
@@ -623,7 +626,10 @@
     // 1. Resumen
     if (F && F.resumen) {
       var R = F.resumen;
-      var ap = [
+      var ap = esPres ? [
+        ['problema', 'Qué es y qué plazo tiene'], ['propone', 'Cuánto propone gastar'], ['cambia', 'Qué cambia respecto de la ley vigente'],
+        ['afecta', 'Qué partidas se rechazaron o modificaron'], ['costo', 'Gasto total y endeudamiento'], ['estado', 'En qué va']
+      ] : [
         ['problema', mocion ? 'Problema que declara la moción' : 'Problema que declara el ' + t('mensaje', 'mensaje')],
         ['propone', 'Qué propone'], ['cambia', 'Qué cambia en la ley vigente'], ['afecta', 'A quién afecta, según el texto'],
         ['costo', 'Costo fiscal, según el ' + t('informe_financiero', 'informe financiero')], ['estado', 'Estado de tramitación']
@@ -645,6 +651,20 @@
         '<p>Este proyecto todavía no tiene un ' + t('resumen_estructurado') + '. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.</p>' +
         (p && p.enlaces && p.enlaces.mensaje ? '<p>Mientras tanto, puede leer el <a href="' + esc(p.enlaces.mensaje) + '" rel="noopener">texto original del proyecto</a> o los informes de la ' + t('atp') + ' de la Biblioteca del Congreso.</p>' : '') +
         '<p class="aviso">¿Necesita este análisis antes? <a href="' + urlAsesoria('solicitar') + '">Lo Común puede prepararlo para su equipo</a>.</p>' +
+        '</div></article>');
+    }
+
+    if (esp && esp.detalle && (esp.partidas || []).length) {
+      var dt = esp.detalle, url = function (u) { return /^https:\/\//.test(u || '') ? u : ''; };
+      bloque('partidas', 'El detalle, partida por partida', '<article class="tarjeta" id="partidas" aria-labelledby="h-partidas"><div class="tarjeta-cuerpo">' +
+        '<p class="num-bloque">Bloque {{N}}</p><h2 id="h-partidas">El detalle, partida por partida</h2>' +
+        '<p>Cuánto propone gastar cada ministerio, cuánto cambia respecto de la ley vigente y qué se votó en cada partida, hasta la última línea, en <a href="' + esc(url(dt.url)) + '" rel="noopener">' + esc(dt.sitio) + '</a>.</p>' +
+        '<ul class="partidas">' + esp.partidas.map(function (x) {
+          return '<li><a href="' + esc(url(String(dt.partida || '').replace('{nn}', x[0]))) + '" rel="noopener"><span class="bol">' + esc(x[0]) + '</span>' + esc(x[1]) + '</a></li>';
+        }).join('') + '</ul>' +
+        '<p class="acciones-texto">' + (url(dt.votaciones) ? '<a href="' + esc(dt.votaciones) + '" rel="noopener">Votaciones, partida por partida</a>' : '') +
+        (url(dt.indicaciones) ? ' · <a href="' + esc(dt.indicaciones) + '" rel="noopener">Indicaciones presentadas</a>' : '') + '</p>' +
+        '<p class="nota" style="color:var(--tinta-suave)">Detalle elaborado por ' + esc(dt.sitio) + ', un proyecto independiente de Urgencias Kast.</p>' +
         '</div></article>');
     }
 
@@ -708,23 +728,28 @@
         return '<tr><td class="num">' + esc(fCorta(u.ingreso)) + '</td><td>' + que + (u.camara ? ' · ' + esc(camaraCorta(u.camara)) : '') + '</td><td class="num">' + (plazo ? plazo + ' días' : '') + '</td></tr>';
       }).reverse();
       var estadoTxt = '';
-      if (v.estado === 'vigente' && dias(v.vence) >= 0) estadoTxt = '<b>' + esc(e.txt) + '.</b> La ' + esc((v.tipo || '').toLowerCase()) + ' corre en ' + (v.camara === 'Senado' ? 'el Senado' : 'la Cámara') + ' desde el ' + esc(fLarga(v.desde)) + (v.mixta ? ', con el ' + t('mixta_plazo', 'plazo de comisión mixta') : '') + '.';
+      if (esPres && pe) { var np = dias(pe.plazo); estadoTxt = '<b>' + (np === 0 ? 'Vence hoy' : (np === 1 ? 'Vence mañana' : 'Vence en ' + np + ' días')) + ': el ' + esc(fLarga(pe.plazo)) + '.</b> ' + esc(pe.plazo_fuente ? 'Fuente: ' + pe.plazo_fuente : ''); }
+      else if (v.estado === 'vigente' && dias(v.vence) >= 0) estadoTxt = '<b>' + esc(e.txt) + '.</b> La ' + esc((v.tipo || '').toLowerCase()) + ' corre en ' + (v.camara === 'Senado' ? 'el Senado' : 'la Cámara') + ' desde el ' + esc(fLarga(v.desde)) + (v.mixta ? ', con el ' + t('mixta_plazo', 'plazo de comisión mixta') : '') + '.';
       else if (v.estado === 'en_espera') estadoTxt = '<b>' + t('en_espera', 'Urgencia en espera') + '.</b> El proyecto pasó a ' + (p.camara_actual === 'Senado' ? 'el Senado' : 'la Cámara') + ' después de la última urgencia, del ' + esc(fLarga(v.desde)) + '. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.';
       else if (v.estado === 'finalizado') estadoTxt = '<b>El Congreso terminó de votar este proyecto.</b> Está en el ' + t('finalizacion') + ', por lo que la urgencia ya no fija plazos.';
       else if (v.vence) estadoTxt = '<b>Plazo vencido el ' + esc(fLarga(v.vence)) + '.</b> No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.';
-      bloque('urgencia', 'Urgencia y tramitación', '<article class="tarjeta" id="urgencia" aria-labelledby="h-urg">' +
+      bloque('urgencia', esPres ? 'Plazo y tramitación' : 'Urgencia y tramitación', '<article class="tarjeta" id="urgencia" aria-labelledby="h-urg">' +
         franja('Datos oficiales', 'Urgencia, plazos y tramitación',
           'Las urgencias son la herramienta con que el Ejecutivo ordena la agenda del Congreso. Los datos vienen del servicio del Senado y de los datos abiertos de la Cámara, que consultamos cada tres horas. Los plazos se calculan según la ley orgánica del Congreso (Ley 18.918, artículos 27, 28 y 70).',
           'Los plazos son de días corridos desde que la cámara da cuenta de la urgencia. El Congreso no siempre los cumple, y el gobierno suele renovarlos en lugar de dejarlos vencer.',
           'Para ordenar la agenda de trabajo y anticipar cuándo el proyecto volverá a discutirse.') +
-        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p><h2 id="h-urg">Cuánto apura el gobierno este proyecto</h2>' +
+        '<div class="tarjeta-cuerpo"><p class="num-bloque">Bloque {{N}} · <span class="et et-hecho">' + t('hecho', 'Hecho') + '</span></p>' +
+        (esPres ? '<h2 id="h-urg">Plazo para despachar el Presupuesto</h2>' +
+          '<p>La Ley de Presupuestos no lleva urgencias. La Constitución (artículo 67) da al Congreso 60 días desde que el Presidente presenta el proyecto para despacharlo; si no lo despacha a tiempo, rige el proyecto presentado.</p>' +
+          (estadoTxt ? '<div class="estado-urgencia">' + estadoTxt + '</div>' : '')
+        : '<h2 id="h-urg">Cuánto apura el gobierno este proyecto</h2>' +
         '<p>Una ' + t('urgencia') + ' es un plazo que el Presidente fija a una cámara para despachar un proyecto. ' +
         (v.tipo ? 'Este proyecto tiene ' + (v.tipo === 'Discusión inmediata' ? t('discusion', 'discusión inmediata') + ', la más corta' : (v.tipo === 'Suma' ? t('suma', 'suma urgencia') + ', de quince días' : t('simple', 'urgencia simple') + ', de treinta días')) + '.' : '') + '</p>' +
         '<div class="estado-urgencia">' + estadoTxt + (nSenado ? '<a class="ref" href="#f' + nSenado + '">' + nSenado + '</a>' : '') + '</div>' +
         '<div class="marcadores"><div><strong>' + (p.urgencias_gobierno || urgs.length) + '</strong><span>urgencias desde marzo de 2026</span></div>' +
         '<div><strong>' + (p.renovaciones || 0) + '</strong><span>' + t('renovacion', 'renovaciones') + '</span></div>' +
         '<div><strong>' + (p.cambios_tipo || 0) + '</strong><span>' + t('cambio_tipo', 'cambios de tipo') + '</span></div></div>' +
-        '<p><b>Qué indica una renovación.</b> Renovar es retirar la urgencia y volver a ponerla para que el plazo empiece de nuevo. Muestra que el gobierno mantiene su prioridad aunque el plazo anterior no se cumplió. Un cambio de tipo que acorta el plazo indica que la prioridad subió.</p>' +
+        '<p><b>Qué indica una renovación.</b> Renovar es retirar la urgencia y volver a ponerla para que el plazo empiece de nuevo. Muestra que el gobierno mantiene su prioridad aunque el plazo anterior no se cumplió. Un cambio de tipo que acorta el plazo indica que la prioridad subió.</p>') +
         (filas.length ? '<h3>Historial de urgencias</h3><div class="tabla-caja"><table><thead><tr><th>Fecha</th><th>Qué hizo el gobierno</th><th>Plazo</th></tr></thead><tbody>' + filas.join('') + '</tbody></table></div>' : '') +
         '<h3>Tramitación</h3><p>' + etapaExplicada(p) + '</p><ol class="linea">' +
         hitos.map(function (h, i) {
@@ -775,7 +800,8 @@
 
     var chips = '';
     if (v.tipo) chips += chipUrg(v.tipo, false, true);
-    if (e) chips += '<span class="chip">' + esc(e.corto) + '</span>';
+    if (esPres && pe) chips += '<span class="chip">Plazo constitucional · vence el ' + esc(fCorta(pe.plazo)) + '</span>';
+    else if (e) chips += '<span class="chip">' + esc(e.corto) + '</span>';
     if (p && p.camara_actual) chips += '<span class="chip">Ahora en ' + esc(p.camara_actual === 'Senado' ? 'el Senado' : 'la Cámara') + '</span>';
     if (proxima) chips += '<span class="chip">Citado el ' + esc(fCorta(proxima.fecha)) + '</span>';
 
