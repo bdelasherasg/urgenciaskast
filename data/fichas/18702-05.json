@@ -39,9 +39,10 @@
         ]
       },
       {
-        "texto": "Los textos leídos no comparan el gasto con la ley vigente. Es un dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "La Ley 2026 aprobó gastos por 94,81 billones de pesos y 12.369 millones de dólares de ese año.",
+        "fuentes": [
+          "f13"
+        ]
       }
     ],
     "cambia": [
@@ -341,6 +342,13 @@
       "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
       "fecha": "13 de noviembre de 2026",
       "nota": "Sesiones de Sala citadas para tratar el proyecto."
+    },
+    {
+      "id": "f13",
+      "titulo": "Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular",
+      "url": "https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-septiembre-de-2026-del-gobierno-central-ley-regular",
+      "fecha": "30 de octubre de 2026",
+      "nota": "Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026."
     }
   ],
   "consultado": "2026-11-13",
