@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "boletin": "13828-19",
+  "nivel": "basica",
+  "sintesis": "Regula las neurotecnologías, que leen o modifican la actividad del cerebro, y protege los datos neuronales de las personas. El Senado lo aprobó en 2021. Hoy lo discute la Cámara.",
+  "materia": "la protección de los neuroderechos y la integridad mental",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los avances de las neurotecnologías exigen proteger la privacidad mental y la identidad de las personas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Plantea que los datos del cerebro deben tratarse con una confidencialidad como la de los trasplantes de órganos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto que aprobó el Senado exige consentimiento libre, previo e informado, por escrito, para intervenir a otros con neurotecnologías.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Pide que el Instituto de Salud Pública registre las neurotecnologías antes de su uso en personas.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Declara reservados, por regla general, los datos neuronales.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Establece que productores y proveedores responden por los daños que causen.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Crea penas de cárcel para quien altere la voluntad de otra persona con una neurotecnología, sin su consentimiento.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Según la comisión de la Cámara, su artículo 15 modifica la ley sobre votaciones populares.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes producen, venden o usan neurotecnologías, y a las personas sobre quienes se aplican.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Da nuevas facultades a la autoridad sanitaria, que podría restringir o prohibir su uso.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La comisión de la Cámara indicó que el articulado no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado aprobó el proyecto el 7 de diciembre de 2021, y pasó a la Cámara de Diputadas y Diputados.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 11 de mayo de 2026, la Comisión de Futuro, Ciencias y Tecnología de la Cámara entregó su informe.",
+        "fuentes": [
+          "f7",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 5 de octubre de 2026, la Sala inició su discusión general, que quedó pendiente. El gobierno retiró ese día la urgencia simple.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Sobre protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y las neurotecnologías.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=14385&tipodoc=mensaje_mocion",
+      "fecha": "2020-10-07",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Ciencias y Tecnología · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27959&tipodoc=info",
+      "fecha": "2026-05-11",
+      "nota": "Informe de la comisión de la Cámara."
+    },
+    {
+      "id": "f6",
+      "titulo": "Oficio N° 578/SEC/21",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=29557&tipodoc=ofic",
+      "fecha": "2021-12-07",
+      "nota": "Texto aprobado por el Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 13828-19 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=13828",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
