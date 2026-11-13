@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "boletin": "15779-03",
+  "nivel": "basica",
+  "sintesis": "Busca que arriendos, aranceles educacionales, créditos hipotecarios y planes de salud se fijen en pesos y no en unidades de fomento. Está en primer trámite en la Cámara, refundido con otra moción.",
+  "materia": "el fin de la unidad de fomento en ciertos cobros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la unidad de fomento, o UF, se usa hoy en ámbitos muy distintos de su origen financiero.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que quienes ganan en pesos enfrentan deudas que suben con la inflación, y que eso genera una asimetría frente al proveedor.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que se fijen en pesos las rentas de arriendo, los cobros de arancel y matrícula, y ciertos créditos y planes de salud de isapres.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley de arriendo de predios urbanos, la ley de educación y la ley de universidades.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También modifica la ley del consumidor, para que créditos hipotecarios y contratos de salud previsional no se pacten en UF.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afectaría a arrendadores, arrendatarios, instituciones de educación, bancos e isapres.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El informe de la Comisión de Economía indicó que el proyecto no contiene normas que requieran trámite de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 29 de marzo de 2023 y se refundió con el boletín 15787-03, que trata los contratos educacionales.",
+        "fuentes": [
+          "f7",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 15 de julio de 2025, la Comisión de Economía lo aprobó en general por 5 votos a favor y 1 en contra. Su informe es del 11 de septiembre de 2025.",
+        "fuentes": [
+          "f2",
+          "f7"
+        ]
+      },
+      {
+        "texto": "En ese informe la comisión dejó constancia de que rechazó los artículos de ambas mociones. El 20 de enero de 2026 la Sala dejó pendiente la discusión general.",
+        "fuentes": [
+          "f2",
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica diversos cuerpos legales para eliminar la unidad de fomento como sistema de reajustabilidad en casos que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16314&tipodoc=mensaje_mocion",
+      "fecha": "2023-03-29",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Economía, Fomento y Desarrollo · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27505&tipodoc=info",
+      "fecha": "2025-09-11",
+      "nota": "Primer informe de comisión (proyecto refundido)."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 18.280: La Cámara de Diputadas accede a la petición para refundir los proyectos correspondientes a los boletines Nos. 15.779-03 y 15.787-03.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=31831&tipodoc=ofic",
+      "fecha": "2023-04-17",
+      "nota": "Refundición con el boletín 15787-03."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 15779-03 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15779",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
