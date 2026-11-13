@@ -1,0 +1,126 @@
+{
+  "version": 2,
+  "boletin": "13872-17",
+  "nivel": "basica",
+  "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+  "materia": "la rehabilitación de una nacionalidad chilena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción explica que la Constitución permite perder la nacionalidad chilena por renuncia voluntaria ante una autoridad chilena.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien la pierde solo puede recuperarla por una ley, según el artículo 11 de la Constitución.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción relata que la persona entregó su pasaporte en el consulado de Chile en Boston para postular a un empleo, y eso se consideró una renuncia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Concede la rehabilitación de la nacionalidad chilena a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es una ley de artículo único, que no modifica otras normas.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Se funda en los incisos segundo y final del artículo 11 de la Constitución.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta solo a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 3 de noviembre de 2020. El 4 de junio de 2025, la Comisión de Derechos Humanos del Senado lo aprobó por unanimidad.",
+        "fuentes": [
+          "f4",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 11 de noviembre de 2026 el Senado lo aprobó en general y en particular a la vez.",
+        "fuentes": [
+          "f4",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 12 de noviembre de 2026 pasó a la Comisión de Gobierno Interior de la Cámara, en segundo trámite.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Rehabilita la nacionalidad chilena a doña Ana María Posada Montes.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=14435&tipodoc=mensaje_mocion",
+      "fecha": "2020-11-03",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27271&tipodoc=info",
+      "fecha": "2025-06-04",
+      "nota": "Informe de comisión, con el texto aprobado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 367-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37435&tipodoc=ofic",
+      "fecha": "2026-11-11",
+      "nota": "Oficio de ley a la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 13872-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=13872",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
