@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "17247-13",
+  "nivel": "basica",
+  "sintesis": "Declara que el personal a contrata renovado por un segundo año seguido tiene confianza legítima de que seguirá en su cargo. La Comisión de Trabajo lo aprobó en general. Está en primer trámite en la Cámara.",
+  "materia": "la confianza legítima del personal a contrata",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que un dictamen de la Contraloría de 2024 dejó a los tribunales decidir cuándo existe confianza legítima de renovar a un funcionario a contrata. Eso pone en riesgo su estabilidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone una interpretación de la ley: los empleos a contrata prorrogados por segundo año consecutivo cuentan con la confianza legítima de seguir.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que la renovación solo podría negarse con una razón plausible, acreditada en un acto administrativo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Interpreta el artículo 10 del Estatuto Administrativo y el artículo 2 del Estatuto de los funcionarios municipales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Establece que el cese del cargo solo procedería por destitución tras un sumario o por una calificación anual que lo permita.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta al personal a contrata del Estado y de las municipalidades, y a los organismos que los contratan.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Ministerio del Trabajo advirtió en la comisión que podría generar una estabilidad laboral de hecho y efectos fiscales.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "La comisión recibió al entonces ministro de Hacienda y a expertos, que expusieron sobre sus posibles efectos fiscales.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 21 de noviembre de 2024 y está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 2 de diciembre de 2024, la Comisión de Trabajo y Seguridad Social lo aprobó en general por 8 votos a favor y ninguno en contra.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Su informe es del 2 de junio de 2026 y se dio cuenta de él en la Sala el 15 de junio de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Interpreta el artículo 10 del Estatuto Administrativo y el artículo 2° del Estatuto Administrativo para Funcionarios Municipales, en el sentido de que el principio de confianza legítima es aplicable a los empleos a contrata que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17876&tipodoc=mensaje_mocion",
+      "fecha": "2024-11-21",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Trabajo y Seguridad Social · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28043&tipodoc=info",
+      "fecha": "2026-06-02",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Trabajo y Seguridad Social · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28043&tipodoc=info",
+      "fecha": "2026-06-02",
+      "nota": "Pasajes del informe sobre efectos fiscales."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 17247-13 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17247",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
