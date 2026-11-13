@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "boletin": "18378-18",
+  "nivel": "basica",
+  "sintesis": "Hace exigibles los deberes de los padres de guiar y supervisar a sus hijos, y crea un procedimiento en los tribunales de familia. La comisión despachó el proyecto. Tiene urgencia simple.",
+  "materia": "el fortalecimiento de la responsabilidad parental",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que el Código Civil de 1855 trataba la relación entre padres e hijos como una autoridad paterna, de contenido moral.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Explica que el derecho de familia fue cambiando hacia el interés superior del niño.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Reconoce el derecho de los niños a ser protegidos, guiados y orientados por sus padres, y el deber de ellos de hacerlo según la edad del hijo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ese deber subsiste aunque el padre o la madre no viva con el hijo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea un procedimiento especial ante los tribunales de familia, preventivo y gradual, para corregir fallas en esos deberes.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código Civil, la ley de Tribunales de Familia y la Ley de Menores.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien sea sancionado por un incumplimiento grave y reiterado no podrá demandar alimentos a su hijo ni heredarlo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a padres y madres de niños y adolescentes, a sus hijos y a los tribunales de familia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 122, del 8 de junio de 2026, dice que el proyecto no irrogará un mayor gasto fiscal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un informe complementario, el N° 206, de agosto de 2026, mantuvo esa conclusión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 19 de junio de 2026 y pasó a la Comisión de la Familia.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 17 de agosto de 2026 la comisión lo aprobó en general, por 8 votos a favor, 2 en contra y 2 abstenciones. El 19 de octubre despachó el proyecto.",
+        "fuentes": [
+          "f2",
+          "f9"
+        ]
+      },
+      {
+        "texto": "El 23 de octubre entregó su informe. Tiene urgencia simple desde el 28 de octubre, en primer trámite en la Cámara.",
+        "fuentes": [
+          "f10"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Fortalece el ejercicio de la responsabilidad parental",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19063&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-19",
+      "nota": "Informe financiero N° 122 y contenido del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de la Familia · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28315&tipodoc=info",
+      "fecha": "2026-10-23",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f7",
+      "titulo": "Oficio N° : Texto del proyecto",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36763&tipodoc=ofic",
+      "fecha": "2026-06-22",
+      "nota": "Texto del mensaje."
+    },
+    {
+      "id": "f9",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-19",
+      "nota": "Resultado de la comisión."
+    },
+    {
+      "id": "f10",
+      "titulo": "Tramitación del boletín 18378-18 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18378",
+      "fecha": "2026-11-13",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
