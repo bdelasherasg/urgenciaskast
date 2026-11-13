@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "boletin": "17002-17",
+  "nivel": "basica",
+  "sintesis": "Devuelve la nacionalidad chilena a una mujer que la perdió al nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+  "materia": "la rehabilitación de una nacionalidad chilena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción explica que la Constitución exige una ley para recuperar la nacionalidad chilena perdida.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Relata que la persona nació en Estados Unidos de padres chilenos, creció en Valdivia y en 1976 emigró a Alemania con su familia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Concede la rehabilitación de la nacionalidad chilena a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La moción sostiene que su renuncia respondió a su vida en Alemania y no a un desapego con Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Es una ley de artículo único, que no modifica otras normas.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Se funda en el artículo 11 de la Constitución, que exige una ley para rehabilitar la nacionalidad.",
+        "fuentes": [
+          "f2",
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta solo a la persona individualizada en el proyecto.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado y su Comisión de Derechos Humanos lo aprobó por unanimidad.",
+        "fuentes": [
+          "f4",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 11 de noviembre de 2026 el Senado lo aprobó en general y en particular a la vez.",
+        "fuentes": [
+          "f4",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 12 de noviembre de 2026 pasó a la Comisión de Gobierno Interior de la Cámara, en segundo trámite.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17614&tipodoc=mensaje_mocion",
+      "fecha": "2024-07-24",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27269&tipodoc=info",
+      "fecha": "2025-06-04",
+      "nota": "Informe de comisión, con el texto aprobado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 368-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37436&tipodoc=ofic",
+      "fecha": "2026-11-11",
+      "nota": "Oficio de ley a la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 17002-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17002",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
