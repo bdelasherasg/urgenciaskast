@@ -1,0 +1,162 @@
+{
+  "version": 2,
+  "boletin": "16777-07",
+  "nivel": "basica",
+  "sintesis": "Castiga con presidio la introducción ilícita al país de plagas vegetales o enfermedades animales. La Cámara lo aprobó con cambios y el Senado lo revisa en tercer trámite, con urgencia suma.",
+  "materia": "la introducción de plagas y enfermedades animales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Chile está declarado libre de mosca de la fruta desde 1995, lo que ayuda a sus exportaciones de frutas y verduras.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción dice que hoy no se sanciona la introducción de plagas al territorio nacional.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto del Senado castiga con presidio a quien introduzca una plaga o enfermedad animal con carga o mercancías destinadas a la venta.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "La Cámara cambió esa regla: castiga introducir la plaga a propósito, aunque no llegue a propagarse.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Obliga a subir en un grado la pena cuando la propagación nace de una introducción ilícita.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Permite decomisar los medios de transporte usados, salvo los de terceros de buena fe.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes traigan al país animales, vegetales o carga con plagas o enfermedades.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Si la introducción es por negligencia inexcusable, la pena baja a presidio en grado mínimo o multa de 20 unidades tributarias mensuales.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El Servicio Agrícola y Ganadero conserva sus facultades.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El informe financiero complementario dice que las indicaciones del Presidente no inciden en el presupuesto fiscal.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El Ministerio de Agricultura dijo en la comisión que dar más atribuciones al Servicio Agrícola y Ganadero subiría el gasto fiscal.",
+        "fuentes": [
+          "f11"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto está en tercer trámite en el Senado, con urgencia suma.",
+        "fuentes": [
+          "f12"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre la Cámara lo aprobó con modificaciones.",
+        "fuentes": [
+          "f12"
+        ]
+      },
+      {
+        "texto": "El 27 de octubre el Senado dio cuenta de esas modificaciones y el proyecto quedó para tabla.",
+        "fuentes": [
+          "f12"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Penal en materia de internación de enfermedades animales o plagas vegetales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17381&tipodoc=mensaje_mocion",
+      "fecha": "23 de abril de 2024",
+      "nota": "Fundamentos y texto original."
+    },
+    {
+      "id": "f6",
+      "titulo": "Oficio N° 21.687 de la Cámara de Diputados con las modificaciones al proyecto",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37353&tipodoc=ofic",
+      "fecha": "26 de octubre de 2026",
+      "nota": "Enmiendas de la Cámara en segundo trámite."
+    },
+    {
+      "id": "f7",
+      "titulo": "Oficio del Presidente de la República con indicaciones e informe financiero complementario N° 241",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37292&tipodoc=ofic",
+      "fecha": "6 de octubre de 2026",
+      "nota": "Efecto fiscal de las indicaciones."
+    },
+    {
+      "id": "f10",
+      "titulo": "Oficio N° 87/SEC/26 del Senado con el texto aprobado en primer trámite",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35955&tipodoc=ofic",
+      "fecha": "24 de marzo de 2026",
+      "nota": "Texto que el Senado envió a la Cámara."
+    },
+    {
+      "id": "f11",
+      "titulo": "Informe de la Comisión de Seguridad Pública del Senado, primer trámite",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27669&tipodoc=info",
+      "fecha": "3 de noviembre de 2025",
+      "nota": "Pasajes sobre costo fiscal."
+    },
+    {
+      "id": "f12",
+      "titulo": "Senado, tramitación del boletín 16777-07 (servicio web público)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16777",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
