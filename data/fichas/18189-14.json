@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "boletin": "18189-14",
+  "nivel": "basica",
+  "sintesis": "Amplía hasta 2029 el plazo para regularizar viviendas sin recepción definitiva y sube los límites de superficie y avalúo. Está en el Senado, con urgencia suma, tras ser aprobado por su Comisión de Vivienda.",
+  "materia": "la regularización de viviendas sin recepción definitiva",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La ley N° 20.898 permite regularizar viviendas sin recepción definitiva, pero solo las construidas antes de 2016.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción dice que eso dejó fuera muchas obras posteriores, hechas sobre todo en la pandemia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sin esa recepción, cuesta pedir créditos, vender o regularizar herencias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto de la Cámara extiende hasta el 31 de diciembre de 2029 el plazo para regularizar.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Permite regularizar viviendas construidas antes del 28 de noviembre de 2025.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Las municipalidades podrán formar equipos que ayuden gratis a hogares vulnerables, adultos mayores y zonas rurales.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Sube el límite de avalúo de 1.000 a 2.000 unidades de fomento y el de superficie de 90 a 120 metros cuadrados.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Baja de 90 a 60 días hábiles el plazo de las direcciones de obras municipales.",
+        "fuentes": [
+          "f5",
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los propietarios de viviendas sin recepción definitiva.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las indicaciones del Presidente piden que el personal municipal oriente, pero no elabore ni certifique antecedentes.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El informe financiero dice que las indicaciones del Presidente no irrogan mayor gasto fiscal.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto está en segundo trámite en el Senado, con urgencia suma.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 19 de agosto la Cámara lo aprobó en general y en particular a la vez.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 7 de octubre la Comisión de Vivienda y Urbanismo del Senado lo informó y lo aprobó por unanimidad.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 20.898 para ampliar el régimen excepcional de regularización de viviendas",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18859&tipodoc=mensaje_mocion",
+      "fecha": "15 de abril de 2026",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de la Comisión de Vivienda y Urbanismo del Senado, segundo trámite",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28281&tipodoc=info",
+      "fecha": "7 de octubre de 2026",
+      "nota": "Debate y votación en la comisión."
+    },
+    {
+      "id": "f4",
+      "titulo": "Informe financiero N° 219 de la Dirección de Presupuestos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37146&tipodoc=ofic",
+      "fecha": "7 de septiembre de 2026",
+      "nota": "Efecto fiscal de las indicaciones del Presidente."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 21.531 de la Cámara de Diputados con el texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37103&tipodoc=ofic",
+      "fecha": "19 de agosto de 2026",
+      "nota": "Texto que la Cámara envió al Senado."
+    },
+    {
+      "id": "f7",
+      "titulo": "Senado, tramitación del boletín 18189-14 (servicio web público)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18189",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
