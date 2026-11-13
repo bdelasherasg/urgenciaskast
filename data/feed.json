@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T08:02-03:00",
+ "actualizado": "2026-11-13T08:07-03:00",
  "conteos": {
-  "urgencias_vigentes": 43,
+  "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
-  "vencen_7_dias": 18,
-  "citaciones_7_dias": 21
+  "vencen_7_dias": 20,
+  "citaciones_7_dias": 27
  },
  "proximos_vencimientos": [
   {
@@ -223,6 +223,20 @@
   },
   {
    "fecha": "2026-11-17",
+   "hora": "10:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "proyectos": [
+    {
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027. El gasto sube 1,5% y se pide autorizar deuda de hasta 25 mil millones de dólares. Lo revisa la Comisión Mixta de Presupuestos.",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-17",
    "hora": "15:00",
    "camara": "Cámara de Diputados",
    "organo": "Comisión de Deportes y Recreación",
@@ -246,26 +260,6 @@
      "titulo": "Modifica la ley N°20.370, general de educación, para regular a los apoderados en el sistema educacional chileno",
      "sintesis": "Regula quién puede ser apoderado en los colegios, su orden de prioridad, un límite de estudiantes por apoderado y la forma de delegar. Es una moción en primer trámite en la Cámara, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18461-04.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Defensa Nacional",
-   "proyectos": [
-    {
-     "boletin": "14773-02",
-     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-     "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
-     "url": "https://urgenciaskast.cl/p/14773-02.html"
-    },
-    {
-     "boletin": "18530-02",
-     "titulo": "Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado",
-     "sintesis": "Agrega delitos de espionaje al Código de Justicia Militar y fija que los civiles sean investigados y juzgados en tribunales ordinarios. Está en primer trámite en la Cámara de Diputados, con urgencia simple.",
-     "url": "https://urgenciaskast.cl/p/18530-02.html"
     }
    ]
   }

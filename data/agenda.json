@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-13T08:03-03:00",
+ "actualizado": "2026-11-13T08:07-03:00",
  "desde": "2026-11-13",
  "hasta": "2026-11-26",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T08:02",
+   "consultado": "2026-11-13T08:07",
    "citaciones": 11,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,25 +19,25 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-13T08:02",
+   "consultado": "2026-11-13T08:07",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-13T08:02",
+   "consultado": "2026-11-13T08:07",
    "sesiones": 10,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
   "tabla_sala": {
-   "estado": "sin_datos",
-   "tablas": 0,
+   "estado": "asistida",
+   "tablas": 10,
    "creadas": 0,
-   "sin_tabla": 7
+   "sin_tabla": 1
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-13T08:03",
+   "consultado": "2026-11-13T08:07",
    "grupos": 10
   }
  },
@@ -332,16 +332,34 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 80,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10323",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -390,16 +408,34 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 81,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10324",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-17",
@@ -582,16 +618,34 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 82,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10325",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-18",
@@ -666,16 +720,34 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 83,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10326",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-19",
@@ -684,16 +756,34 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 84,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10327",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-19",
@@ -702,16 +792,34 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 85,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10328",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-23",
@@ -819,16 +927,31 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
+   "materias": [
+    "Oficio de Su Excelencia el Presidente de la República, con el que solicita el acuerdo del Senado para designar como Ministros Suplentes del Tribunal Constitucional a la señora Sandra Ponce de León Salucci y a la señora Leslie Sánchez Lobos. (Boletín N° S 2765-05)."
+   ],
    "boletines": [],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 76,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10321",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Oficio de Su Excelencia el Presidente de la República, con el que solicita el acuerdo del Senado para designar como Ministros Suplentes del Tribunal Constitucional a la señora Sandra Ponce de León Salucci y a la señora Leslie Sánchez Lobos. (Boletín N° S 2765-05).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "2/3",
+     "boletin_senado": "S 2765-05"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Otra"
   },
   {
    "fecha": "2026-11-10",
@@ -837,16 +960,173 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Oficio de Su Excelencia el Presidente de la República, mediante el cual, de conformidad con lo dispuesto en el artículo 42 de la Constitución Política de la República, solicita el acuerdo del Congreso Nacional para prorrogar la vigencia del estado de excepción constitucional de emergencia, en la Región de La Araucanía, y las provincias de Arauco y del Biobío, de la Región del Biobío. (Siempre que hubiere ingresado el mencionado oficio del Primer Mandatario).",
+    "Proyecto de ley, en primer trámite constitucional, que proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena (Boletín N° 18806-07).",
+    "Regula la prevención y mitigación de incendios forestales, y otras materias que indica (Boletín N° 16335-14).",
+    "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales (Boletín N° 18585-25).",
+    "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal (Boletín N° 15850-11).",
+    "Proyecto de ley, en segundo trámite constitucional, que modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia (Boletín N° 18464-14).",
+    "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación (Boletín N° 18189-14). Con urgencia calificada de Suma.",
+    "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de medidas para promover y apoyar las actividades tendientes a valorizar y difundir la reconocida obra del poeta Gonzalo Rojas Pizarro, con motivo de conmemorarse 110 años de su nacimiento. (Boletín N° S 2725-12).",
+    "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indican para ampliar la cobertura del examen preventivo gratuito de mamografía, con el objeto de fortalecer la detección temprana del cáncer de mama (Boletín N° S 2727-12).",
+    "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa de ley que contemple un marco normativo integral para el desarrollo sostenible de la industria de data centers en Chile (Boletín N° S 2737-12)."
+   ],
+   "boletines": [
+    "18806-07",
+    "16335-14",
+    "18585-25",
+    "15850-11",
+    "18464-14",
+    "18189-14"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 77,
    "clase": "Ordinaria",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10316",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Oficio de Su Excelencia el Presidente de la República, mediante el cual, de conformidad con lo dispuesto en el artículo 42 de la Constitución Política de la República, solicita el acuerdo del Congreso Nacional para prorrogar la vigencia del estado de excepción constitucional de emergencia, en la Región de La Araucanía, y las provincias de Arauco y del Biobío, de la Región del Biobío. (Siempre que hubiere ingresado el mencionado oficio del Primer Mandatario).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2772-14"
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena (Boletín N° 18806-07).",
+     "boletines": [
+      "18806-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del día",
+     "texto": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica (Boletín N° 16335-14).",
+     "boletines": [
+      "16335-14"
+     ],
+     "detalle": "",
+     "quorum": "L.O.C."
+    },
+    {
+     "orden": 4,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales (Boletín N° 18585-25).",
+     "boletines": [
+      "18585-25"
+     ],
+     "detalle": "",
+     "quorum": "Q.C."
+    },
+    {
+     "orden": 5,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal (Boletín N° 15850-11).",
+     "boletines": [
+      "15850-11"
+     ],
+     "detalle": "",
+     "quorum": "Q.C."
+    },
+    {
+     "orden": 6,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia (Boletín N° 18464-14).",
+     "boletines": [
+      "18464-14"
+     ],
+     "detalle": "",
+     "quorum": "L.O.C."
+    },
+    {
+     "orden": 7,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación (Boletín N° 18189-14). Con urgencia calificada de Suma.",
+     "boletines": [
+      "18189-14"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Suma"
+     }
+    },
+    {
+     "orden": 1,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de medidas para promover y apoyar las actividades tendientes a valorizar y difundir la reconocida obra del poeta Gonzalo Rojas Pizarro, con motivo de conmemorarse 110 años de su nacimiento. (Boletín N° S 2725-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2725-12"
+    },
+    {
+     "orden": 2,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indican para ampliar la cobertura del examen preventivo gratuito de mamografía, con el objeto de fortalecer la detección temprana del cáncer de mama (Boletín N° S 2727-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2727-12"
+    },
+    {
+     "orden": 3,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa de ley que contemple un marco normativo integral para el desarrollo sostenible de la industria de data centers en Chile (Boletín N° S 2737-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2737-12"
+    },
+    {
+     "orden": 4,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Adopte las medidas que correspondan para fortalecer la capacidad submarina de la defensa nacional, mediante la implementación de un programa estratégico de reemplazo de los submarinos de mayor antigüedad al servicio de la Armada de Chile (Boletín N° S 2739-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2739-12"
+    },
+    {
+     "orden": 5,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse una agenda legislativa integral con el objeto de fortalecer el proceso de descentralización en el país (Boletín N° S 2743-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2743-12"
+    },
+    {
+     "orden": 6,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente las iniciativas legales que correspondan, y adopte las medidas administrativas y presupuestarias necesarias para fortalecer la protección de la salud del personal de las Fuerzas Armadas y de Orden y Seguridad Pública (Boletín N° S 2744-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2744-12"
+    },
+    {
+     "orden": 7,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse la actualización de la Política de Defensa Nacional y de la Política Militar, priorizando la recuperación y modernización de las capacidades disuasivas de las Fuerzas Armadas, el fortalecimiento de la ciberdefensa, la preparación frente a nuevas amenazas y una planificación estratégica de largo plazo que garantice la soberanía, la seguridad dentro de sus límites constitucionales y los intereses permanentes de Chile (Boletín N° S 2767-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2767-12"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-11",
@@ -874,16 +1154,94 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a doña Ana María Posada Montes. (Boletín N° 13872-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer (Boletín N° 17002-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor André Améstica Lopes (Boletín N° 17198-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor Alex Cristián De Kartzow Montt (Boletín N° 17900-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora Cecilia del Carmen Salgado Alfaro (Boletín N° 18081-17).",
+    "Proyecto de ley, en segundo trámite constitucional, que rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner (Boletín N° 18532-06)."
+   ],
+   "boletines": [
+    "13872-17",
+    "17002-17",
+    "17198-17",
+    "17900-17",
+    "18081-17",
+    "18532-06"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 78,
    "clase": "Especial",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10319",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a doña Ana María Posada Montes. (Boletín N° 13872-17).",
+     "boletines": [
+      "13872-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer (Boletín N° 17002-17).",
+     "boletines": [
+      "17002-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor André Améstica Lopes (Boletín N° 17198-17).",
+     "boletines": [
+      "17198-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 4,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor Alex Cristián De Kartzow Montt (Boletín N° 17900-17).",
+     "boletines": [
+      "17900-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 5,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora Cecilia del Carmen Salgado Alfaro (Boletín N° 18081-17).",
+     "boletines": [
+      "18081-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 6,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner (Boletín N° 18532-06).",
+     "boletines": [
+      "18532-06"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-11",
@@ -892,16 +1250,193 @@
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
-   "materias": [],
-   "boletines": [],
+   "materias": [
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a doña Ana María Posada Montes. (Boletín N° 13872-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer (Boletín N° 17002-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor André Améstica Lopes (Boletín N° 17198-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor Alex Cristián De Kartzow Montt (Boletín N° 17900-17).",
+    "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora Cecilia del Carmen Salgado Alfaro (Boletín N° 18081-17).",
+    "Proyecto de ley, en segundo trámite constitucional, que rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner (Boletín N° 18532-06).",
+    "Regula la prevención y mitigación de incendios forestales, y otras materias que indica (Boletín N° 16335-14). Con urgencia calificada de Discusión inmediata.",
+    "Proyecto de ley, en primer trámite constitucional, que proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena (Boletín N° 18806-07). Con urgencia calificada de Discusión inmediata.",
+    "Proyecto de ley, en tercer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales (Boletín N° 16743-04). Con urgencia calificada de Discusión inmediata.",
+    "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio (Boletín N° 18709-07). Con urgencia calificada de Discusión inmediata."
+   ],
+   "boletines": [
+    "13872-17",
+    "17002-17",
+    "17198-17",
+    "17900-17",
+    "18081-17",
+    "18532-06",
+    "16335-14",
+    "18806-07",
+    "16743-04",
+    "18709-07",
+    "16777-07",
+    "14950-07",
+    "15767-29"
+   ],
    "estado": "citada",
    "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
    "tipo": "sala",
    "numero": 79,
    "clase": "Ordinaria",
-   "tabla": "por_confirmar",
+   "tabla": "cargada",
    "id_senado": "10322",
-   "actividad": "Sala"
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Fácil despacho",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a doña Ana María Posada Montes. (Boletín N° 13872-17).",
+     "boletines": [
+      "13872-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 2,
+     "seccion": "Fácil despacho",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer (Boletín N° 17002-17).",
+     "boletines": [
+      "17002-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 3,
+     "seccion": "Fácil despacho",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor André Améstica Lopes (Boletín N° 17198-17).",
+     "boletines": [
+      "17198-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 4,
+     "seccion": "Fácil despacho",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena al señor Alex Cristián De Kartzow Montt (Boletín N° 17900-17).",
+     "boletines": [
+      "17900-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 5,
+     "seccion": "Fácil despacho",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que rehabilita la nacionalidad chilena a la señora Cecilia del Carmen Salgado Alfaro (Boletín N° 18081-17).",
+     "boletines": [
+      "18081-17"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 6,
+     "seccion": "Fácil despacho",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner (Boletín N° 18532-06).",
+     "boletines": [
+      "18532-06"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica (Boletín N° 16335-14). Con urgencia calificada de Discusión inmediata.",
+     "boletines": [
+      "16335-14"
+     ],
+     "detalle": "",
+     "quorum": "L.O.C.",
+     "urgencia": {
+      "tipo": "Discusión inmediata"
+     }
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena (Boletín N° 18806-07). Con urgencia calificada de Discusión inmediata.",
+     "boletines": [
+      "18806-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Discusión inmediata"
+     }
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en tercer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales (Boletín N° 16743-04). Con urgencia calificada de Discusión inmediata.",
+     "boletines": [
+      "16743-04"
+     ],
+     "detalle": "",
+     "quorum": "L.O.C.",
+     "urgencia": {
+      "tipo": "Discusión inmediata"
+     }
+    },
+    {
+     "orden": 4,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio (Boletín N° 18709-07). Con urgencia calificada de Discusión inmediata.",
+     "boletines": [
+      "18709-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Discusión inmediata"
+     }
+    },
+    {
+     "orden": 5,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en tercer trámite constitucional, que modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales (Boletín N° 16777-07). Con urgencia calificada de Suma.",
+     "boletines": [
+      "16777-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Suma"
+     }
+    },
+    {
+     "orden": 6,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.968, que crea los Tribunales de Familia, con el objeto de garantizar el debido proceso en causas relativas a niños, niñas y adolescentes. (Boletín N° 14950-07).",
+     "boletines": [
+      "14950-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 7,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que deroga la ley N°18.356, que establece normas sobre control de las artes marciales y deroga la ley N°18.039, e incorpora el concepto de artes marciales en la ley N°19.712, del Deporte (Boletín N° 15767-29). Con urgencia calificada de Suma.",
+     "boletines": [
+      "15767-29"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Suma"
+     }
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-12",
@@ -980,6 +1515,12 @@
   },
   {
    "boletin": "18341-25",
+   "vence": "2026-11-17",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18434-07",
    "vence": "2026-11-17",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -4131,78 +4672,6 @@
     "plazo_dias": null
    },
    "dias_tramite": 164
-  },
-  "18331-17": {
-   "boletin": "18331-17",
-   "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
-   "fecha_ingreso": "2026-06-05",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Suma",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Derechos Humanos y Pueblos Originarios",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-11-02",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "437-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-06-05",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-10",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos y Pueblos Originarios",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-26",
-     "descripcion": "Cuenta oficio de la Comisión de Derechos Humanos y Pueblos Originarios mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en mensaje y moción, contenidos en los boletines N°s 18754-17 y 18331-17. Aprobado con consulta al Ejecutivo.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Oficio de S.E. el Presidente de la República mediante el cual manifiesta su conformidad en orden a refundir los proyectos.(429-374)",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-02",
-     "descripcion": "Cuenta del Mensaje 437-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18331-17",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18331-17",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19009&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 1,
-   "camara_actual": "Cámara de Diputados",
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-11-02",
-    "vence": "2026-11-17",
-    "camara": "Cámara de Diputados",
-    "estado": "vigente",
-    "plazo_dias": 15,
-    "oficio": "437-374",
-    "mixta": false
-   },
-   "dias_tramite": 161
   },
   "18415-18": {
    "boletin": "18415-18",
