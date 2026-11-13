@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "boletin": "16172-17",
+  "nivel": "basica",
+  "sintesis": "Restringe las causales para ser reconocido como indígena y elimina el requisito de autoidentificación. La Comisión de Derechos Humanos lo aprobó en general. Espera su discusión en la Sala de la Cámara.",
+  "materia": "las causales de reconocimiento de la calidad de indígena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley permite acceder a la calidad de indígena a quien se autoidentifica como tal y mantiene rasgos culturales de una etnia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que esa calidad es subjetiva y que da acceso a beneficios fiscales pensados para los descendientes de pueblos originarios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone proteger a quienes sean indígenas por ser descendientes de ellos, lo que se acreditaría con documentos oficiales o con los registros de la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Elimina la letra c) del artículo 2 de la ley 19.253, que reconoce como indígenas a quienes mantienen rasgos culturales y se autoidentifican.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Elimina del artículo 75 la frase que exige autoidentificarse como indígena.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes piden el certificado de calidad indígena de la Corporación Nacional de Desarrollo Indígena.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la comisión, una diputada afirmó que quitar la autoidentificación podría incumplir el Convenio 169 de la OIT.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La comisión dejó constancia de que ninguna norma debe ser conocida por la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 3 de agosto de 2023 y está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 8 de julio de 2026, la Comisión de Derechos Humanos y Pueblos Originarios lo aprobó en general por 8 votos a favor y 2 en contra.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Su informe se dio a conocer el 17 de agosto de 2026 y el proyecto quedó para tabla.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N°19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para restringir las causales de reconocimiento de la calidad de indígena",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16721&tipodoc=mensaje_mocion",
+      "fecha": "2023-08-03",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28180&tipodoc=info",
+      "fecha": "2026-08-18",
+      "nota": "Primer informe de comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 16172-17 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16172",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
