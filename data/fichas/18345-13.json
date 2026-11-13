@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "boletin": "18345-13",
+  "nivel": "basica",
+  "sintesis": "Protege el sueldo del trabajador frente a embargos, aunque ya esté depositado en su cuenta bancaria. La Comisión de Educación lo rechazó en general. Está en primer trámite en la Cámara.",
+  "materia": "la protección del sueldo frente a los embargos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el cobro de deudas del Crédito con Aval del Estado ha dejado a miles de profesionales y técnicos en una situación de alta vulnerabilidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Plantea que la protección legal del sueldo se pierde en la práctica cuando el dinero ya está en la cuenta bancaria.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Establece que el sueldo mantiene su carácter inembargable aun cuando esté depositado en la cuenta que el trabajador informó a su empleador.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esa protección sería oponible a cualquier acreedor, hasta el límite que ya fija la ley, y el origen del dinero se acreditaría con el comprobante de pago.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un inciso final al artículo 57 del Código del Trabajo, que regula el embargo de las remuneraciones. La verificación quedaría a cargo del banco.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a trabajadores con deudas en cobranza, a sus acreedores y a los bancos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la comisión se dijo que el proyecto tendría impacto fiscal, por una menor recaudación.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "La comisión indicó que el articulado no requiere pasar por la Comisión de Hacienda.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 8 de junio de 2026 y la Sala lo radicó en la Comisión de Educación.",
+        "fuentes": [
+          "f6",
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 2 de septiembre de 2026 esa comisión lo declaró inadmisible. El 23 de septiembre la Sala lo declaró admisible, por 53 votos contra 52.",
+        "fuentes": [
+          "f2",
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre de 2026 la comisión entregó un nuevo informe: rechazó el proyecto en general, por 5 votos a favor y 7 en contra.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código del Trabajo para resguardar la inembargabilidad de las remuneraciones de los trabajadores ante acciones de cobranza",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19022&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-08",
+      "nota": "Texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Educación · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28362&tipodoc=info",
+      "fecha": "2026-11-02",
+      "nota": "Segundo informe de la Comisión de Educación."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Educación · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28209&tipodoc=info",
+      "fecha": "2026-09-07",
+      "nota": "Primer informe de la Comisión de Educación."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 21310: Por acuerdo de la Sala, remite a la Comisión de Educación el proyecto de ley, inicialmente asignado a la Comisión de Trabajo y Seguridad Social.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36728&tipodoc=ofic",
+      "fecha": "2026-06-15",
+      "nota": "Radicación en la Comisión de Educación."
+    },
+    {
+      "id": "f5",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Educación · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28209&tipodoc=info",
+      "fecha": "2026-09-07",
+      "nota": "Pasajes del informe sobre impacto fiscal."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 18345-13 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18345",
+      "fecha": "2026-11-13",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-13",
+  "publicado": "2026-11-13",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
