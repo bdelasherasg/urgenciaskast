@@ -338,6 +338,8 @@ def construir_sitio(v):
         extra = ''
         if rel == 'index.html':
             extra = ld_sitio(meta.get('descripcion', ''))
+        elif rel == 'glosario.html':
+            extra = ld_glosario(meta.get('descripcion', ''))
         elif meta.get('og_tipo') == 'article' and rel in locales:
             a = locales[rel]
             extra = (f'<meta property="article:published_time" content="{esc(a.get("fecha"))}">\n'
@@ -409,6 +411,18 @@ def glosario_html():
         filas = ''.join(f'<div class="termino-def" id="{esc(k)}"><dt>{esc(v[0])}</dt><dd>{esc(v[1])}</dd></div>' for k, v in g['terminos'].items())
         partes.append(f'<article class="tarjeta"><div class="tarjeta-cuerpo prosa glosario"><h2>{esc(g["titulo"])}</h2><dl>{filas}</dl></div></article>')
     return ''.join(partes)
+
+
+def ld_glosario(descripcion):
+    """Glosario como DefinedTermSet: cada término con su definición y la dirección de su ancla en glosario.html."""
+    url = f'{SITIO}/glosario.html'
+    terminos = [{'@type': 'DefinedTerm', '@id': f'{url}#{k}', 'url': f'{url}#{k}', 'termCode': k, 'name': v[0],
+                 'description': v[1], 'inDefinedTermSet': {'@id': url}}
+                for g in glosario_datos()['grupos'] for k, v in g['terminos'].items()]
+    return jsonld({'@context': 'https://schema.org', '@graph': [
+        {'@type': 'DefinedTermSet', '@id': url, 'url': url, 'name': 'Glosario de Urgencias Kast', 'description': descripcion,
+         'inLanguage': 'es-CL', 'publisher': {'@id': ORG_LC['@id']}, 'hasDefinedTerm': [{'@id': t['@id']} for t in terminos]},
+    ] + terminos})
 
 
 def construir_glosario_js():
