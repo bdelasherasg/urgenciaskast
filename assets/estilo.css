@@ -657,3 +657,9 @@ body { overflow-x: clip; }
 
 /* La firma lleva a locomun.cl */
 .cabecera .marca-firma:hover, .cabecera .marca-firma:focus-visible { color: var(--indigo); text-decoration: underline; text-underline-offset: 3px; }
+
+/* Ficha del Presupuesto: enlaces a cada partida */
+.partidas { list-style: none; margin: 14px 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 6px 18px; }
+.partidas a { display: flex; gap: 8px; align-items: baseline; color: var(--tinta); text-decoration: none; font-size: 14.5px; padding: 4px 0; }
+.partidas a:hover { text-decoration: underline; text-decoration-color: var(--dorado); text-underline-offset: 3px; }
+.partidas .bol { font-family: var(--f-etiqueta); font-size: 11.5px; font-weight: 700; color: var(--tinta-suave); min-width: 22px; }

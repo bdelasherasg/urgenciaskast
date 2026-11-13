@@ -17,6 +17,140 @@
    "indicaciones": "https://presupuestokast.cl/indicaciones"
   },
   "plazo": "2026-11-29",
-  "plazo_fuente": "Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026»."
+  "plazo_fuente": "Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026».",
+  "partidas": [
+   [
+    "01",
+    "Presidencia de la República"
+   ],
+   [
+    "02",
+    "Congreso Nacional"
+   ],
+   [
+    "03",
+    "Poder Judicial"
+   ],
+   [
+    "04",
+    "Contraloría"
+   ],
+   [
+    "05",
+    "Interior"
+   ],
+   [
+    "06",
+    "Relaciones Exteriores"
+   ],
+   [
+    "07",
+    "Economía"
+   ],
+   [
+    "08",
+    "Hacienda"
+   ],
+   [
+    "09",
+    "Educación"
+   ],
+   [
+    "10",
+    "Justicia y Derechos Humanos"
+   ],
+   [
+    "11",
+    "Defensa Nacional"
+   ],
+   [
+    "12",
+    "Obras Públicas"
+   ],
+   [
+    "13",
+    "Agricultura"
+   ],
+   [
+    "14",
+    "Bienes Nacionales"
+   ],
+   [
+    "15",
+    "Trabajo y Previsión Social"
+   ],
+   [
+    "16",
+    "Salud"
+   ],
+   [
+    "17",
+    "Minería"
+   ],
+   [
+    "18",
+    "Vivienda"
+   ],
+   [
+    "19",
+    "Transportes y Telecomunicaciones"
+   ],
+   [
+    "20",
+    "Secretaría General de Gobierno"
+   ],
+   [
+    "21",
+    "Desarrollo Social y Familia"
+   ],
+   [
+    "22",
+    "Secretaría General de la Presidencia"
+   ],
+   [
+    "23",
+    "Ministerio Público"
+   ],
+   [
+    "24",
+    "Energía"
+   ],
+   [
+    "25",
+    "Medio Ambiente"
+   ],
+   [
+    "26",
+    "Deporte"
+   ],
+   [
+    "27",
+    "Mujer y Equidad de Género"
+   ],
+   [
+    "28",
+    "Servicio Electoral"
+   ],
+   [
+    "29",
+    "Cultura"
+   ],
+   [
+    "30",
+    "Ciencia y Tecnología"
+   ],
+   [
+    "31",
+    "Gobiernos Regionales"
+   ],
+   [
+    "32",
+    "Seguridad Pública"
+   ],
+   [
+    "50",
+    "Tesoro Público"
+   ]
+  ]
  }
 }
