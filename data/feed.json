@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T09:30-03:00",
+ "actualizado": "2026-11-13T09:35-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -410,6 +410,18 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "16777-07",
+   "sintesis": "Castiga con presidio la introducción ilícita al país de plagas vegetales o enfermedades animales. La Cámara lo aprobó con cambios y el Senado lo revisa en tercer trámite, con urgencia suma.",
+   "publicado": "2026-11-13",
+   "url": "https://urgenciaskast.cl/p/16777-07.html"
+  },
+  {
+   "boletin": "18189-14",
+   "sintesis": "Amplía hasta 2029 el plazo para regularizar viviendas sin recepción definitiva y sube los límites de superficie y avalúo. Está en el Senado, con urgencia suma, tras ser aprobado por su Comisión de Vivienda.",
+   "publicado": "2026-11-13",
+   "url": "https://urgenciaskast.cl/p/18189-14.html"
+  },
+  {
    "boletin": "18702-05",
    "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
    "publicado": "2026-11-13",
@@ -432,18 +444,6 @@
    "sintesis": "Pone por ley el nombre Luis Caco Suárez al gimnasio fiscal de Ancud. Es una moción de 2019 que la Comisión de Deportes de la Cámara aprobó el 3 de noviembre de 2026, en primer trámite.",
    "publicado": "2026-11-12",
    "url": "https://urgenciaskast.cl/p/12760-29.html"
-  },
-  {
-   "boletin": "14309-04",
-   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/14309-04.html"
-  },
-  {
-   "boletin": "14773-02",
-   "sintesis": "Crea la Comisión de Comercio Estratégico y exige una licencia para exportar materiales de uso dual y de defensa. Está en segundo trámite en la Cámara, aprobado en general.",
-   "publicado": "2026-11-12",
-   "url": "https://urgenciaskast.cl/p/14773-02.html"
   }
  ],
  "analisis": [
