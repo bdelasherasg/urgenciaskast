@@ -62,3 +62,5 @@ El sitio de la Cámara de Diputados responde 403 (Forbidden) a las lecturas auto
 ```
 
 Reglas: el archivo solo se usa si `leido` tiene menos de 8 días y la lectura directa de la Cámara falló. Cada citación necesita fecha ISO dentro de las próximas dos semanas y boletines con formato válido. Las sesiones se marcan "Cargada por el equipo" y el chip de la agenda pide confirmar en camara.cl. Si la lectura directa vuelve a funcionar, el archivo se ignora.
+
+Las fechas («hoy», la ventana de dos semanas, lo que ya pasó) se calculan con la hora de Chile y no con la del servidor de GitHub, que trabaja en UTC. Pruebas: `python3 -m unittest discover -s pruebas`.

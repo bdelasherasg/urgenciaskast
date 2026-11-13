@@ -79,7 +79,7 @@ def fecha_de(linea):
                 return None
         s = RE_FECHA_SIN_ANNO.search(linea)
         if s and MESES.get(s.group(2).lower()):
-            hoy = dt.date.today()
+            hoy = A.hoy_chile()
             mes = MESES[s.group(2).lower()]
             anno = hoy.year + (1 if mes < hoy.month - 6 else 0)
             try:
@@ -140,6 +140,8 @@ def citaciones_asistidas(desde, hasta, hoy):
         s['materias'] = [str(m)[:500] for m in c.get('materias', [])][:10]
         s['boletines'] = bols
         s['asistida'] = True
+        if c.get('estado') == 'sin efecto':
+            s['estado'] = 'sin efecto'
         salida.append(s)
     return salida, datos.get('leido')
 
@@ -257,7 +259,7 @@ def leer_json(ruta, defecto):
 
 
 def principal():
-    hoy = dt.date.today()
+    hoy = A.hoy_chile()
     desde, hasta = hoy.isoformat(), (hoy + dt.timedelta(days=DIAS_VENTANA - 1)).isoformat()
     anterior = leer_json(SALIDA, {})
     urg = leer_json(URGENCIAS, {'proyectos': []})
@@ -269,7 +271,7 @@ def principal():
     datos = A.bajar(URL_SENADO_CITACIONES)
     nuevas = parse_senado(a_lineas(texto(datos))) if datos else []
     if nuevas:
-        fuentes['senado'] = {'estado': 'ok', 'consultado': dt.datetime.now().isoformat(timespec='minutes'), 'citaciones': len(nuevas), 'url': URL_SENADO_CITACIONES}
+        fuentes['senado'] = {'estado': 'ok', 'consultado': A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes'), 'citaciones': len(nuevas), 'url': URL_SENADO_CITACIONES}
         sesiones += nuevas
     else:
         prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Senado' and en_ventana(s, desde, hasta)]
@@ -291,7 +293,7 @@ def principal():
             control.append(diagnostico(lineas) | {'bytes': len(datos)})
         time.sleep(0.5)
     if nuevas_c:
-        fuentes['camara'] = {'estado': 'ok', 'consultado': dt.datetime.now().isoformat(timespec='minutes'), 'citaciones': len(nuevas_c), 'url': urls[0]}
+        fuentes['camara'] = {'estado': 'ok', 'consultado': A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes'), 'citaciones': len(nuevas_c), 'url': urls[0]}
         sesiones += nuevas_c
     else:
         detalle = ('; '.join(A.errores[n_err:])[:300] or 'Sin citaciones con boletín reconocibles en la página.')
@@ -335,9 +337,8 @@ def principal():
             probables.append({'boletin': p['boletin'], 'vence': v['vence'], 'tipo': v.get('tipo'), 'camara': p.get('camara_actual')})
     probables.sort(key=lambda x: (x['vence'], x['boletin']))
 
-    zona = dt.timezone(dt.timedelta(hours=-3))
     salida = {
-        'actualizado': dt.datetime.now(zona).isoformat(timespec='minutes'),
+        'actualizado': A.ahora_chile().isoformat(timespec='minutes'),
         'desde': desde,
         'hasta': hasta,
         'fuentes': fuentes,
