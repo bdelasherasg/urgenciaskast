@@ -94,6 +94,12 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "ampliado": {
+    "estado": "sin_prensa",
+    "fecha": "2026-11-14",
+    "notas_revisadas": 3,
+    "medios": 0
+  },
   "fuentes": [
     {
       "id": "f1",
@@ -139,7 +145,7 @@
     }
   ],
   "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "publicado": "2026-11-14",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-14 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
