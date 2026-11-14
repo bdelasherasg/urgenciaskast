@@ -1012,7 +1012,7 @@
       '<label class="dlg-check"><input type="checkbox" name="newsletter"><span>Quiero sumarme al boletín de novedades para enterarme de primera fuente de Urgencias Kast y de otros productos de Lo Común.</span></label>' +
       '<p class="dlg-msg" role="alert" hidden></p>' +
       '<div class="acciones"><button type="button" class="boton" data-enviar>Enviar solicitud</button><button type="submit" class="boton boton-vidrio-claro" value="cerrar">Cancelar</button></div>' +
-      '<p class="letra-chica">No publicamos ni compartimos su correo. Para borrarlo de nuestros registros, escriba a ' + esc(CFG.correo || '') + '.</p>' +
+      '<p class="letra-chica">No publicamos su correo. El aviso se envía con un servicio de correo que lo recibe solo para eso. Para borrarlo de nuestros registros, escriba a ' + esc(CFG.correo || '') + '. Más detalles en <a href="/privacidad.html">Privacidad y datos personales</a>.</p>' +
       '</form></dialog>');
     dlg = $('#dlg-ampliado');
     var form = $('form', dlg), msg = $('.dlg-msg', dlg), enviar = $('[data-enviar]', dlg), abierto = Date.now();
@@ -1135,7 +1135,7 @@
         '<div class="dlg-trampa" aria-hidden="true"><label for="' + id + '-web">No complete este campo</label><input id="' + id + '-web" name="sitio_web" type="text" tabindex="-1" autocomplete="off"></div>' +
         '<div class="dlg-check fc-check"><input id="' + id + '-aut" name="autoriza" type="checkbox" required aria-required="true" aria-describedby="' + id + '-priv">' +
         '<label for="' + id + '-aut">Autorizo que Lo Común use estos datos solo para responder este mensaje. <span aria-hidden="true">*</span></label></div>' +
-        '<p class="fc-nota" id="' + id + '-priv">Sus datos no se publican ni se comparten. Se eliminan cuando ya no los necesitamos y, a más tardar, un año después de recibidos. Puede pedir verlos, corregirlos o eliminarlos con este mismo formulario.</p>' +
+        '<p class="fc-nota" id="' + id + '-priv">Sus datos no se publican ni se comparten. Se eliminan cuando ya no los necesitamos y, a más tardar, un año después de recibidos. Puede pedir verlos, corregirlos o eliminarlos con este mismo formulario. Más detalles en <a href="/privacidad.html">Privacidad y datos personales</a>.</p>' +
         '<p class="dlg-msg" role="alert" hidden></p>' +
         '<div class="acciones"><button type="submit" class="boton">Enviar mensaje</button></div></form>';
       var f = caja.querySelector('form'), msg = f.querySelector('.dlg-msg'), btn = f.querySelector('button[type=submit]');
