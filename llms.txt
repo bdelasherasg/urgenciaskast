@@ -12,6 +12,7 @@ Los datos oficiales se actualizan cada tres horas desde el Senado y la Cámara d
 - [Glosario](https://urgenciaskast.cl/glosario.html): términos de la tramitación legislativa y del método, en lenguaje sencillo.
 - [Prueba pública](https://urgenciaskast.cl/analisis.html): serie de análisis de fondo de Lo Común.
 - [Asesoría](https://urgenciaskast.cl/asesoria.html): asesoría de Lo Común para parlamentarios, bancadas y partidos.
+- [Privacidad y datos personales](https://urgenciaskast.cl/privacidad.html): qué datos personales se guardan, dónde, con qué servicios y cómo pedir su borrado.
 
 ## Datos en formato JSON
 
