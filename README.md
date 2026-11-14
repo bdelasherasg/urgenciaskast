@@ -51,8 +51,8 @@ Ninguna ficha se publica sin revisión humana: los borradores se redactan y se a
 Las fichas básicas ofrecen el análisis ampliado (posiciones de organizaciones y encuadre de prensa) intercalado con los
 avisos de asesoría: una tarjeta después del resumen y un aviso antes de la invitación. El formulario pide nombre,
 correo, la autorización para avisar cuando la ficha se actualice (obligatoria) y, opcionalmente, la suscripción al
-boletín de novedades. Lo envía al panel de Lo Común (`pedidosUrl` en `assets/config.js`), que lo guarda en el
-repositorio privado; el sitio no guarda datos personales. Si `pedidosUrl` queda vacío, la oferta no se muestra.
+boletín de novedades. Lo envía al panel de Lo Común (`pedidosUrl` en `assets/config.js`), que guarda el nombre y el
+correo en su almacenamiento privado de Cloudflare; el sitio no guarda datos personales. La página `privacidad.html` (`fuente/privacidad.html`) explica qué se guarda, dónde y con qué servicios; es el mismo texto de locomun.cl/privacidad.html: si cambia uno, cambie el otro. Si `pedidosUrl` queda vacío, la oferta no se muestra.
 
 ## Licencia
 

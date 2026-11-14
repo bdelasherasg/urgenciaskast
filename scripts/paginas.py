@@ -124,7 +124,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
     <div class="firma-pie">{SIMBOLO}<div><p><b style="color:var(--t-base)">Urgencias Kast</b> es una producción pública de Lo Común: Laboratorio de Relato y Producción Narrativa.</p><p>No recibe financiamiento de actores políticos. Se sostiene con aportes voluntarios.</p><p>Contenido bajo licencia <a style="display:inline" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" rel="license">CC BY-SA 4.0</a>.</p></div></div>
     <nav aria-label="El sitio"><strong>El sitio</strong><a href="{base}agenda.html">Agenda de dos semanas</a><a href="{base}index.html#urgencias">Proyectos con urgencia</a><a href="{base}como-leer.html">Cómo leer Urgencias Kast</a><a href="{base}glosario.html">Glosario</a></nav>
     <nav aria-label="Lo Común"><strong>Lo Común</strong><a href="{base}asesoria.html">Asesoría</a><a href="{base}analisis.html">Prueba pública</a><a href="{base}aportar.html">Aportar</a><a href="{LOCOMUN}" rel="noopener">Sitio de Lo Común</a></nav>
-    <div><strong>Datos y contacto</strong><a href="{base}data/urgencias.json">Urgencias (JSON)</a><a href="{base}data/agenda.json">Agenda (JSON)</a><p style="margin-top:8px">Correcciones y contacto: <b data-correo style="color:var(--crema)"></b></p></div>
+    <div><strong>Datos y contacto</strong><a href="{base}data/urgencias.json">Urgencias (JSON)</a><a href="{base}data/agenda.json">Agenda (JSON)</a><a href="{base}privacidad.html">Privacidad y datos personales</a><p style="margin-top:8px">Correcciones y contacto: <b data-correo style="color:var(--crema)"></b></p></div>
   </div>
 </footer>
 </body>
@@ -525,7 +525,7 @@ def construir_feed(urg, ag, idx):
 
 def construir_mapa(boletines, idx=None):
     idx = idx or {}
-    fijas = ['', 'agenda.html', 'como-leer.html', 'glosario.html', 'asesoria.html', 'aportar.html', 'analisis.html', 'analisis/falsabilidad-kast.html']
+    fijas = ['', 'agenda.html', 'como-leer.html', 'glosario.html', 'asesoria.html', 'aportar.html', 'privacidad.html', 'analisis.html', 'analisis/falsabilidad-kast.html']
     urls = [(f'{SITIO}/{u}', '') for u in fijas] + [(f'{SITIO}/p/{b}.html', (idx.get(b) or {}).get('publicado', '')) for b in boletines]
     escribir(ruta('sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
              + ''.join(f'  <url><loc>{u}</loc>' + (f'<lastmod>{m}</lastmod>' if m else '') + '</url>\n' for u, m in urls) + '</urlset>\n')
@@ -550,6 +550,7 @@ Los datos oficiales se actualizan cada tres horas desde el Senado y la Cámara d
 - [Glosario]({SITIO}/glosario.html): términos de la tramitación legislativa y del método, en lenguaje sencillo.
 - [Prueba pública]({SITIO}/analisis.html): serie de análisis de fondo de Lo Común.
 - [Asesoría]({SITIO}/asesoria.html): asesoría de Lo Común para parlamentarios, bancadas y partidos.
+- [Privacidad y datos personales]({SITIO}/privacidad.html): qué datos personales se guardan, dónde, con qué servicios y cómo pedir su borrado.
 
 ## Datos en formato JSON
 
