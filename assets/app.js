@@ -1084,10 +1084,84 @@
       }).join('') + '</tbody></table></div>';
   }
 
+  /* ---------- formularios de contacto ----------
+     Cada <div data-formulario="tipo1,tipo2" data-titulo="…" data-ayuda="…"> se convierte en un formulario.
+     Lo recibe el panel de Lo Común (CFG.contactoUrl), que lo guarda y avisa por correo al equipo. */
+  var TIPOS_CONTACTO = {
+    conversacion: 'Solicitar una asesoría',
+    posicion: 'Enviar la posición pública de mi organización',
+    apoyo: 'Hacer un aporte voluntario',
+    datos: 'Acceso, corrección o eliminación de mis datos personales',
+    otro: 'Otra consulta'
+  };
+  function formulariosContacto() {
+    if (!CFG.contactoUrl || !window.fetch) return;
+    document.querySelectorAll('[data-formulario]').forEach(function (caja, n) {
+      var tipos = caja.getAttribute('data-formulario').split(',').filter(function (t) { return TIPOS_CONTACTO[t]; });
+      if (!tipos.length) return;
+      var id = 'fc' + n, inicio = Date.now();
+      var opciones = (tipos.length > 1 ? '<option value="">Elija una opción</option>' : '') +
+        tipos.map(function (t) { return '<option value="' + t + '">' + esc(TIPOS_CONTACTO[t]) + '</option>'; }).join('');
+      caja.innerHTML =
+        '<form class="form-contacto" novalidate aria-labelledby="' + id + '-t">' +
+        '<h3 id="' + id + '-t">' + esc(caja.getAttribute('data-titulo') || 'Envíenos un mensaje') + '</h3>' +
+        '<p class="fc-nota">Llega al equipo de Lo Común, que responde desde ' + esc(CFG.correo || '') + '. Los campos con asterisco son obligatorios.</p>' +
+        '<div class="fc-campo"' + (tipos.length === 1 ? ' hidden' : '') + '><label for="' + id + '-tipo">Motivo <span aria-hidden="true">*</span></label>' +
+        '<select id="' + id + '-tipo" name="tipo" required aria-required="true">' + opciones + '</select></div>' +
+        '<div class="fc-dos"><div class="fc-campo"><label for="' + id + '-nombre">Nombre <span aria-hidden="true">*</span></label>' +
+        '<input id="' + id + '-nombre" name="nombre" type="text" autocomplete="name" required aria-required="true" maxlength="120"></div>' +
+        '<div class="fc-campo"><label for="' + id + '-correo">Correo electrónico <span aria-hidden="true">*</span></label>' +
+        '<input id="' + id + '-correo" name="correo" type="email" autocomplete="email" required aria-required="true" maxlength="200"></div></div>' +
+        '<div class="fc-campo"><label for="' + id + '-org">Organización o cargo (opcional)</label>' +
+        '<input id="' + id + '-org" name="organizacion" type="text" autocomplete="organization" maxlength="150"></div>' +
+        '<div class="fc-campo"><label for="' + id + '-msg">Mensaje <span aria-hidden="true">*</span></label>' +
+        '<textarea id="' + id + '-msg" name="mensaje" rows="5" required aria-required="true" maxlength="4000"' + (caja.getAttribute('data-ayuda') ? ' aria-describedby="' + id + '-ayuda"' : '') + '></textarea>' +
+        (caja.getAttribute('data-ayuda') ? '<p class="fc-nota" id="' + id + '-ayuda">' + esc(caja.getAttribute('data-ayuda')) + '</p>' : '') + '</div>' +
+        '<div class="dlg-trampa" aria-hidden="true"><label for="' + id + '-web">No complete este campo</label><input id="' + id + '-web" name="sitio_web" type="text" tabindex="-1" autocomplete="off"></div>' +
+        '<div class="dlg-check fc-check"><input id="' + id + '-aut" name="autoriza" type="checkbox" required aria-required="true" aria-describedby="' + id + '-priv">' +
+        '<label for="' + id + '-aut">Autorizo que Lo Común use estos datos solo para responder este mensaje. <span aria-hidden="true">*</span></label></div>' +
+        '<p class="fc-nota" id="' + id + '-priv">Sus datos no se publican ni se comparten. Se eliminan cuando ya no los necesitamos y, a más tardar, un año después de recibidos. Puede pedir verlos, corregirlos o eliminarlos con este mismo formulario.</p>' +
+        '<p class="dlg-msg" role="alert" hidden></p>' +
+        '<div class="acciones"><button type="submit" class="boton">Enviar mensaje</button></div></form>';
+      var f = caja.querySelector('form'), msg = f.querySelector('.dlg-msg'), btn = f.querySelector('button[type=submit]');
+      function marcar(c, mal) { c.setAttribute('aria-invalid', mal ? 'true' : 'false'); }
+      f.addEventListener('submit', function (ev) {
+        ev.preventDefault();
+        msg.hidden = true; msg.textContent = '';
+        var faltan = [];
+        [['tipo', 'el motivo'], ['nombre', 'su nombre'], ['correo', 'su correo']].forEach(function (x) {
+          var c = f[x[0]], v = c.value.trim(), mal = !v || (x[0] === 'correo' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v));
+          marcar(c, mal); if (mal) faltan.push(x[1]);
+        });
+        var malM = f.mensaje.value.trim().length < 10; marcar(f.mensaje, malM); if (malM) faltan.push('su mensaje (al menos 10 caracteres)');
+        marcar(f.autoriza, !f.autoriza.checked); if (!f.autoriza.checked) faltan.push('la autorización para usar sus datos');
+        if (faltan.length) {
+          msg.textContent = 'Falta completar: ' + faltan.join(', ') + '.'; msg.hidden = false;
+          var p = f.querySelector('[aria-invalid="true"]'); if (p) p.focus();
+          return;
+        }
+        btn.disabled = true; btn.textContent = 'Enviando…';
+        fetch(CFG.contactoUrl, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({
+          tipo: f.tipo.value, nombre: f.nombre.value, correo: f.correo.value, organizacion: f.organizacion.value, mensaje: f.mensaje.value,
+          autoriza: f.autoriza.checked, pagina: location.pathname, sitio_web: f.sitio_web.value, ms: Date.now() - inicio }) })
+          .then(function (r) { return r.json().catch(function () { return {}; }).then(function (d) { if (!r.ok) throw new Error(d.error || 'No pudimos enviar su mensaje.'); return d; }); })
+          .then(function () {
+            caja.innerHTML = '<div class="form-contacto fc-ok"><h3 tabindex="-1">Mensaje enviado</h3><p>Gracias. Lo recibimos y le responderemos a su correo desde ' + esc(CFG.correo || '') + '.</p></div>';
+            caja.querySelector('h3').focus();
+          })
+          .catch(function (e) {
+            btn.disabled = false; btn.textContent = 'Enviar mensaje';
+            msg.textContent = e.message + ' También puede escribir a ' + (CFG.correo || '') + '.'; msg.hidden = false;
+          });
+      });
+    });
+  }
+
   /* ---------- arranque ---------- */
   document.addEventListener('DOMContentLoaded', function () {
     iniciarGlosario();
     document.querySelectorAll('[data-correo]').forEach(function (x) { x.textContent = CFG.correo || ''; });
+    formulariosContacto();
     var pagina = document.body.getAttribute('data-pagina');
     if (['portada', 'ficha', 'agenda'].indexOf(pagina) === -1) return;
     Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json'),

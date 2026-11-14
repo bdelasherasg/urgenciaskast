@@ -723,3 +723,20 @@ body { overflow-x: clip; }
 .tabla-partidas a { hyphens: auto; overflow-wrap: anywhere; }
 .enlaces-detalle { margin: 6px 0 14px; padding-left: 20px; }
 .enlaces-detalle li { margin: 4px 0; }
+
+/* Formularios de contacto (asesoría, posiciones, aportes) */
+.form-contacto { display: grid; gap: 16px; margin-top: 22px; padding: clamp(18px, 3vw, 26px); border-radius: var(--r-medio); background: rgba(255,255,255,.72); border: 1px solid rgba(46,34,98,.14); color: var(--tinta); }
+.form-contacto h3 { font-family: var(--f-display); font-weight: 400; font-size: clamp(22px, 2.6vw, 26px); line-height: 1.15; margin: 0; text-transform: none; letter-spacing: 0; color: var(--tinta); }
+.form-contacto h3:focus { outline: none; }
+.form-contacto p { margin: 0; }
+.fc-nota { font-size: 14.5px; color: var(--tinta-suave); line-height: 1.5; }
+.fc-campo { display: grid; gap: 6px; }
+.fc-campo[hidden] { display: none; }
+.fc-dos { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.fc-campo label { font-family: var(--f-etiqueta); font-size: 13px; font-weight: 700; color: var(--indigo); }
+.fc-campo input, .fc-campo select, .fc-campo textarea { font: inherit; font-family: var(--f-texto); font-size: 16px; color: var(--tinta); padding: 11px 13px; min-height: 46px; border-radius: var(--r-chico); border: 1px solid rgba(46,34,98,.45); background: var(--blanco); width: 100%; }
+.fc-campo textarea { resize: vertical; line-height: 1.5; }
+.form-contacto input:focus-visible, .form-contacto select:focus-visible, .form-contacto textarea:focus-visible, .form-contacto button:focus-visible { outline: 3px solid var(--indigo); outline-offset: 2px; }
+.fc-campo [aria-invalid="true"] { border: 2px solid var(--rojo); }
+.fc-check label { font-size: 15px; line-height: 1.45; cursor: pointer; }
+.fc-ok p { font-size: 16px; }

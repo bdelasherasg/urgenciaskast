@@ -14,6 +14,10 @@ window.UK_CONFIG = {
   // Si queda vacía, las fichas no muestran la oferta del análisis ampliado.
   pedidosUrl: 'https://urgenciaskast-revision.pages.dev/publico/ampliado',
 
+  // Dirección que recibe los formularios de contacto (panel de Lo Común). Si queda vacía, las páginas
+  // muestran solo el correo.
+  contactoUrl: 'https://urgenciaskast-revision.pages.dev/publico/contacto',
+
   // Sitio de Lo Común.
   locomunUrl: 'https://locomun.cl',
 
