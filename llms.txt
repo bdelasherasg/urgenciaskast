@@ -21,6 +21,7 @@ Los datos oficiales se actualizan cada tres horas desde el Senado y la Cámara d
 - [Resumen del sitio](https://urgenciaskast.cl/data/feed.json): cifras del día, próximos plazos y fichas recientes.
 - [Índice de fichas](https://urgenciaskast.cl/data/fichas/indice.json): síntesis y estado de revisión de cada ficha.
 - [Mapa del sitio](https://urgenciaskast.cl/sitemap.xml): todas las páginas, con una ficha por proyecto en /p/BOLETIN.html.
+- [Texto completo](https://urgenciaskast.cl/llms-full.txt): método, glosario y el texto de cada ficha, tal como se publica.
 
 ## Fichas recientes
 

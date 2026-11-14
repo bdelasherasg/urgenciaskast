@@ -159,7 +159,29 @@ def ld_sitio(descripcion):
         {'@type': 'WebSite', '@id': f'{SITIO}/#sitio', 'url': f'{SITIO}/', 'name': 'Urgencias Kast', 'description': descripcion,
          'inLanguage': 'es-CL', 'publisher': {'@id': ORG_LC['@id']}},
         dict(ORG_LC, **{'email': CORREO, 'areaServed': {'@type': 'Country', 'name': 'Chile'}}),
-    ]})
+    ] + ld_datos()})
+
+
+# Archivos de datos públicos, descritos como conjuntos de datos (schema.org/Dataset).
+DATOS_PUBLICOS = [
+    ('urgencias', 'Urgencias de proyectos de ley', 'Proyectos con urgencia del Ejecutivo en el Congreso Nacional de Chile, con etapas, trámites y renovaciones.'),
+    ('agenda', 'Agenda legislativa de dos semanas', 'Citaciones de comisiones del Senado y de la Cámara de Diputadas y Diputados para las próximas dos semanas.'),
+    ('feed', 'Resumen diario de Urgencias Kast', 'Cifras del día, próximos plazos de urgencias y fichas recientes.'),
+]
+
+
+def ld_datos():
+    fuentes = leer_json(ruta('data', 'urgencias.json'), {}).get('fuentes') or []
+    salida = []
+    for nombre, titulo, desc in DATOS_PUBLICOS:
+        url = f'{SITIO}/data/{nombre}.json'
+        salida.append({'@type': 'Dataset', '@id': url, 'name': titulo, 'description': desc, 'url': url,
+                       'inLanguage': 'es-CL', 'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
+                       'isAccessibleForFree': True, 'creator': {'@id': ORG_LC['@id']},
+                       'spatialCoverage': {'@type': 'Country', 'name': 'Chile'},
+                       **({'isBasedOn': fuentes} if fuentes and nombre == 'urgencias' else {}),
+                       'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'application/json', 'contentUrl': url}]})
+    return salida
 
 
 def ld_articulo(titulo, descripcion, url, publicado, modificado=None, autor=None, migas=None):
@@ -559,6 +581,7 @@ Los datos oficiales se actualizan cada tres horas desde el Senado y la Cámara d
 - [Resumen del sitio]({SITIO}/data/feed.json): cifras del día, próximos plazos y fichas recientes.
 - [Índice de fichas]({SITIO}/data/fichas/indice.json): síntesis y estado de revisión de cada ficha.
 - [Mapa del sitio]({SITIO}/sitemap.xml): todas las páginas, con una ficha por proyecto en /p/BOLETIN.html.
+- [Texto completo]({SITIO}/llms-full.txt): método, glosario y el texto de cada ficha, tal como se publica.
 
 ## Fichas recientes
 
