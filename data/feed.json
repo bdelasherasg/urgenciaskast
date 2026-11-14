@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-13T22:32-03:00",
+ "actualizado": "2026-11-14T04:03-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -404,6 +404,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "13872-17",
+   "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+   "publicado": "2026-11-14",
+   "url": "https://urgenciaskast.cl/p/13872-17.html"
+  },
+  {
    "boletin": "13529-34",
    "sintesis": "Obliga a los lugares privados de uso público a poner en sus baños el fono de ayuda por violencia contra la mujer. La Comisión de la Mujer lo aprobó en general. La Cámara lo debate.",
    "publicado": "2026-11-13",
@@ -414,12 +420,6 @@
    "sintesis": "Regula las neurotecnologías, que leen o modifican la actividad del cerebro, y protege los datos neuronales de las personas. El Senado lo aprobó en 2021. Hoy lo discute la Cámara.",
    "publicado": "2026-11-13",
    "url": "https://urgenciaskast.cl/p/13828-19.html"
-  },
-  {
-   "boletin": "13872-17",
-   "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
-   "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/13872-17.html"
   },
   {
    "boletin": "14950-07",
