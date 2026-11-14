@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-14T04:03-03:00",
+ "actualizado": "2026-11-14T04:08-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -410,6 +410,12 @@
    "url": "https://urgenciaskast.cl/p/13872-17.html"
   },
   {
+   "boletin": "18224-18",
+   "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
+   "publicado": "2026-11-14",
+   "url": "https://urgenciaskast.cl/p/18224-18.html"
+  },
+  {
    "boletin": "13529-34",
    "sintesis": "Obliga a los lugares privados de uso público a poner en sus baños el fono de ayuda por violencia contra la mujer. La Comisión de la Mujer lo aprobó en general. La Cámara lo debate.",
    "publicado": "2026-11-13",
@@ -432,12 +438,6 @@
    "sintesis": "Prohíbe las competiciones no autorizadas entre perros que pongan en peligro su integridad y las sanciona como maltrato animal. La Cámara lo aprobó en general. Espera su votación en particular.",
    "publicado": "2026-11-13",
    "url": "https://urgenciaskast.cl/p/15387-12.html"
-  },
-  {
-   "boletin": "15779-03",
-   "sintesis": "Busca que arriendos, aranceles educacionales, créditos hipotecarios y planes de salud se fijen en pesos y no en unidades de fomento. Está en primer trámite en la Cámara, refundido con otra moción.",
-   "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/15779-03.html"
   }
  ],
  "analisis": [
