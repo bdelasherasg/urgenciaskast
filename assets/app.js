@@ -564,10 +564,25 @@
     if (!A) { cont.innerHTML = '<p class="vacio">La agenda aún no está disponible. Vuelva en unos minutos.</p>'; return; }
     var fC = $('#a-camara'), fU = $('#a-urgencia'), fT = $('#a-texto');
     var est = [];
-    Object.keys(A.fuentes || {}).forEach(function (k) {
-      var f = A.fuentes[k];
-      var nombre = k === 'senado' ? 'Senado' : 'Cámara';
-      est.push('<span class="chip">' + nombre + ': ' + (f.estado === 'ok' ? plural(f.citaciones, 'citación', 'citaciones') + ', consultadas el ' + esc(fCorta(f.consultado)) : f.estado === 'asistida' ? plural(f.citaciones, 'citación cargada', 'citaciones cargadas') + ' por el equipo desde camara.cl el ' + esc(fCorta(f.consultado)) + ' (el sitio de la Cámara no entrega los datos al sistema; confirme en camara.cl)' : (f.conservadas ? 'sin actualizar; se muestran las últimas citaciones obtenidas' : 'citaciones no disponibles por ahora; se muestran los plazos de urgencia')) + '</span>');
+    var FUENTES_AGENDA = ['senado', 'camara', 'sala_senado', 'sala_camara', 'tabla_sala'];
+    FUENTES_AGENDA.forEach(function (k) {
+      var f = (A.fuentes || {})[k];
+      if (!f) return;
+      var txt;
+      if (k === 'senado' || k === 'camara') {
+        var nombre = k === 'senado' ? 'Comisiones del Senado' : 'Comisiones de la Cámara';
+        txt = nombre + ': ' + (f.estado === 'ok' ? plural(f.citaciones || 0, 'citación', 'citaciones') + ', consultadas el ' + esc(fCorta(f.consultado))
+          : f.estado === 'asistida' ? plural(f.citaciones || 0, 'citación cargada', 'citaciones cargadas') + ' por el equipo desde camara.cl el ' + esc(fCorta(f.consultado)) + ' (el sitio de la Cámara no entrega los datos al sistema; confirme en camara.cl)'
+          : (f.conservadas ? 'sin actualizar; se muestran las últimas citaciones obtenidas' : 'citaciones no disponibles por ahora; se muestran los plazos de urgencia'));
+      } else if (k === 'sala_senado' || k === 'sala_camara') {
+        var sala = k === 'sala_senado' ? 'Sala del Senado' : 'Sala de la Cámara';
+        txt = sala + ': ' + (f.estado === 'ok' ? plural(f.sesiones || 0, 'sesión', 'sesiones') + ', consultadas el ' + esc(fCorta(f.consultado))
+          : (f.conservadas ? 'sin actualizar; se muestran las últimas sesiones obtenidas' : 'sesiones no disponibles por ahora'));
+      } else {
+        if (f.estado !== 'asistida' || !f.tablas) return;
+        txt = 'Tablas de Sala: ' + plural(f.tablas, 'tabla cargada', 'tablas cargadas') + ' por el equipo';
+      }
+      est.push('<span class="chip">' + txt + '</span>');
     });
     $('#estado-fuentes').innerHTML = est.join('');
     $('#rango').textContent = 'Del ' + fLarga(A.desde) + ' al ' + fLarga(A.hasta);
