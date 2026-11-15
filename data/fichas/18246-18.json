@@ -1,7 +1,7 @@
 {
   "version": 2,
   "boletin": "18246-18",
-  "nivel": "basica",
+  "nivel": "completa",
   "sintesis": "Prohíbe a menores de 16 años usar redes sociales y a menores de 18 las apuestas y la pornografía en línea. Está en votación en particular en una comisión de la Cámara.",
   "materia": "el acceso de menores de edad a redes sociales y otras plataformas",
   "resumen": {
@@ -91,9 +91,99 @@
       }
     ]
   },
-  "posiciones": [],
-  "posiciones_sin_registro": "",
-  "encuadre": {},
+  "posiciones": [
+    {
+      "organizacion": "UCSC",
+      "tipo": "Universidad (académico de Psicología)",
+      "vocero": "Horacio Salgado",
+      "postura": "A favor de restringir el acceso",
+      "argumento": "Sobre un proyecto que fija el límite en 16 años (la nota no da el boletín): sostiene que el uso de redes se relaciona con ansiedad, depresión y problemas de atención, y que las plataformas deberían demostrar antes que no hacen daño.",
+      "fecha": "24 y 28 de julio de 2026",
+      "fuentes": [
+        "p3",
+        "p4"
+      ]
+    }
+  ],
+  "posiciones_sin_registro": "No encontramos en las notas declaraciones de gremios, empresas de plataformas, organizaciones de la sociedad civil ni organismos autónomos sobre este proyecto. La Defensoría de la Niñez aparece solo como fuente de datos citada en una moción del Senado. Las posiciones salen solo de la prensa: ningún documento guardado es un informe de comisión con exposiciones de organizaciones.",
+  "encuadre": {
+    "intro": "Análisis acotado: se hizo con 7 notas de prensa de 6 medios. Lo óptimo es contar con al menos 3 notas de 2 o más medios con declaraciones de organizaciones. Lectura de 7 notas de 6 medios publicadas entre el 24 de julio y el 19 de octubre de 2026, reunidas por el recolector de Lo Común y por búsqueda en la web. Algunas notas se refieren a otras propuestas sobre la misma materia; cada una se identifica en el texto.",
+    "marcos": [
+      {
+        "titulo": "Restringir el acceso por edad",
+        "quienes": "Un académico de la UCSC y los autores de la moción del Senado sobre menores de 14 años",
+        "problema": "Según una nota sobre un proyecto con límite de 16 años, las redes afectan la salud mental, la atención y el aprendizaje de los menores. La moción del Senado de 14 años destaca el contacto con desconocidos y las experiencias negativas en línea.",
+        "problema_fuentes": [
+          "p3",
+          "p4",
+          "p6",
+          "p7"
+        ],
+        "causa": "Las notas apuntan a herramientas que alargan el uso, como las reproducciones automáticas y las notificaciones programadas.",
+        "causa_fuentes": [
+          "p3"
+        ],
+        "solucion": "Prohibir el registro bajo una edad mínima, con verificación de edad. La moción del Senado permite a menores de 14 años usar redes con consentimiento verificable de sus padres.",
+        "solucion_fuentes": [
+          "p3",
+          "p4",
+          "p6",
+          "p7"
+        ],
+        "palabras": [
+          "verificación de edad",
+          "salud mental",
+          "consentimiento verificable"
+        ]
+      },
+      {
+        "titulo": "Regular el diseño y el riesgo de cada plataforma",
+        "quienes": "El Ejecutivo y la discusión sobre prohibir o regular",
+        "problema": "La ministra de Desarrollo Social dice que el proyecto es prioritario y que debe centrarse en el riesgo real de cada plataforma. Un texto de opinión cita también el diseño adictivo y el ciberacoso.",
+        "problema_fuentes": [
+          "p1",
+          "p2",
+          "p5"
+        ],
+        "causa": "El texto de opinión señala el diseño adictivo de los servicios como una de las causas de los riesgos.",
+        "causa_fuentes": [
+          "p5"
+        ],
+        "solucion": "Las indicaciones del Ejecutivo cambian la definición de plataforma digital y excluyen servicios estatales, educativos, financieros, de salud y de emergencia. El texto de opinión plantea obligar a ofrecer servicios seguros desde el diseño.",
+        "solucion_fuentes": [
+          "p1",
+          "p2",
+          "p5"
+        ],
+        "palabras": [
+          "riesgo real",
+          "seguridad por diseño",
+          "prioritario"
+        ]
+      }
+    ],
+    "disputa": {
+      "palabra": "prohibir",
+      "oraciones": [
+        {
+          "texto": "Para unos, la respuesta es prohibir el acceso bajo una edad mínima.",
+          "fuentes": [
+            "p3"
+          ]
+        },
+        {
+          "texto": "Para otros, la respuesta es regular el diseño de las plataformas sin prohibir.",
+          "fuentes": [
+            "p5"
+          ]
+        },
+        {
+          "texto": "El debate usa la misma palabra con dos alcances, según cada lado.",
+          "fuentes": []
+        }
+      ]
+    }
+  },
   "fuentes": [
     {
       "id": "f1",
@@ -136,10 +226,59 @@
       "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
       "fecha": "11 de noviembre de 2026",
       "nota": "Sesiones citadas para el 16 y el 17 de noviembre de 2026."
+    },
+    {
+      "id": "p1",
+      "titulo": "La Tercera, «Cambio de urgencia del gobierno obliga a suspender votación de proyecto que regula el uso de redes sociales por menores de edad»",
+      "url": "https://www.latercera.com/politica/noticia/cambio-de-urgencia-del-gobierno-obliga-a-suspender-votacion-de-proyecto-que-regula-el-uso-de-redes-sociales-por-menores-de-edad/",
+      "fecha": "Septiembre de 2026",
+      "nota": "Suspensión de la votación en particular por el cambio de urgencia."
+    },
+    {
+      "id": "p2",
+      "titulo": "Diario y Radio Universidad de Chile, «Cambio de urgencia del Gobierno interrumpe votación de ley que protege a menores de edad en redes sociales»",
+      "url": "https://radio.uchile.cl/2026/09/08/cambio-de-urgencia-del-gobierno-interrumpe-votacion-de-ley-que-protege-a-menores-de-edad-en-redes-sociales/",
+      "fecha": "8 de septiembre de 2026",
+      "nota": "Indicaciones del Ejecutivo y reacciones en la comisión."
+    },
+    {
+      "id": "p3",
+      "titulo": "Diario Constitucional, «¿Por qué Chile quiere limitar el acceso de menores de 16 años a las redes sociales?»",
+      "url": "https://www.diarioconstitucional.cl/2026/07/24/por-que-chile-quiere-limitar-el-acceso-de-menores-de-16-anos-a-las-redes-sociales/",
+      "fecha": "24 de julio de 2026",
+      "nota": "Proyecto con límite de 16 años; opinión de un académico. Solo se leyó un extracto."
+    },
+    {
+      "id": "p4",
+      "titulo": "G5 Noticias, «¿Por qué Chile quiere limitar el acceso de menores de 16 años a las redes sociales?»",
+      "url": "https://g5noticias.cl/2026/07/28/por-que-chile-quiere-limitar-el-acceso-de-menores-de-16-anos-a-las-redes-sociales/",
+      "fecha": "28 de julio de 2026",
+      "nota": "Proyecto con límite de 16 años; opinión de un académico."
+    },
+    {
+      "id": "p5",
+      "titulo": "Diario Constitucional, «Infancia digital bajo presión: ¿Prohibir o regular las plataformas?»",
+      "url": "https://www.diarioconstitucional.cl/contrapuntos/infancia-digital-bajo-presion-prohibir-o-regular-las-plataformas-2/",
+      "fecha": "17 de septiembre de 2026",
+      "nota": "Texto de contrapunto sobre prohibir o regular. Solo se leyó un extracto."
+    },
+    {
+      "id": "p6",
+      "titulo": "El América, «Presentan moción para regular plataformas digitales y proteger a menores de edad»",
+      "url": "https://elamerica.cl/2026/10/19/presentan-mocion-para-regular-plataformas-digitales-y-proteger-a-menores-de-edad/",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Moción del Senado sobre menores de 14 años; es otro proyecto sobre la misma materia."
+    },
+    {
+      "id": "p7",
+      "titulo": "Diario Concepción, «Consentimiento verificable y control: lo que exige el nuevo proyecto a los padres para el uso de redes sociales»",
+      "url": "https://www.diarioconcepcion.cl/politica/2026/10/19/proyecto-ley-prohibe-redes-sociales-menores-14-anos.html",
+      "fecha": "19 de octubre de 2026",
+      "nota": "Moción del Senado sobre menores de 14 años; es otro proyecto sobre la misma materia."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-15",
+  "publicado": "2026-11-15",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-15 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
