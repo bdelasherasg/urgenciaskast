@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-15T19:50-03:00",
+ "actualizado": "2026-11-15T20:47-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -404,16 +404,16 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "18224-18",
+   "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
+   "publicado": "2026-11-15",
+   "url": "https://urgenciaskast.cl/p/18224-18.html"
+  },
+  {
    "boletin": "13872-17",
    "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
    "publicado": "2026-11-14",
    "url": "https://urgenciaskast.cl/p/13872-17.html"
-  },
-  {
-   "boletin": "18224-18",
-   "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
-   "publicado": "2026-11-14",
-   "url": "https://urgenciaskast.cl/p/18224-18.html"
   },
   {
    "boletin": "13529-34",
