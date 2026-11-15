@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T01:09-03:00",
+ "actualizado": "2026-11-15T03:06-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -16950,6 +16950,6 @@
    "dias_tramite": 41
   }
  ],
- "errores_de_consulta": 2,
+ "errores_de_consulta": 19,
  "conservados_sin_respuesta": 0
 }
