@@ -1135,6 +1135,8 @@
         '<div class="dlg-trampa" aria-hidden="true"><label for="' + id + '-web">No complete este campo</label><input id="' + id + '-web" name="sitio_web" type="text" tabindex="-1" autocomplete="off"></div>' +
         '<div class="dlg-check fc-check"><input id="' + id + '-aut" name="autoriza" type="checkbox" required aria-required="true" aria-describedby="' + id + '-priv">' +
         '<label for="' + id + '-aut">Autorizo que Lo Común use estos datos solo para responder este mensaje. <span aria-hidden="true">*</span></label></div>' +
+        '<div class="dlg-check fc-check"><input id="' + id + '-nov" name="novedades" type="checkbox">' +
+        '<label for="' + id + '-nov">Quiero recibir por correo las novedades de Urgencias Kast y de Lo Común. Puedo darme de baja cuando quiera. (Opcional)</label></div>' +
         '<p class="fc-nota" id="' + id + '-priv">Sus datos no se publican ni se comparten. Se eliminan cuando ya no los necesitamos y, a más tardar, un año después de recibidos. Puede pedir verlos, corregirlos o eliminarlos con este mismo formulario. Más detalles en <a href="/privacidad.html">Privacidad y datos personales</a>.</p>' +
         '<p class="dlg-msg" role="alert" hidden></p>' +
         '<div class="acciones"><button type="submit" class="boton">Enviar mensaje</button></div></form>';
@@ -1158,7 +1160,7 @@
         btn.disabled = true; btn.textContent = 'Enviando…';
         fetch(CFG.contactoUrl, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({
           tipo: f.tipo.value, nombre: f.nombre.value, correo: f.correo.value, organizacion: f.organizacion.value, mensaje: f.mensaje.value,
-          autoriza: f.autoriza.checked, pagina: location.pathname, sitio_web: f.sitio_web.value, ms: Date.now() - inicio }) })
+          autoriza: f.autoriza.checked, novedades: f.novedades.checked, pagina: location.pathname, sitio_web: f.sitio_web.value, ms: Date.now() - inicio }) })
           .then(function (r) { return r.json().catch(function () { return {}; }).then(function (d) { if (!r.ok) throw new Error(d.error || 'No pudimos enviar su mensaje.'); return d; }); })
           .then(function () {
             caja.innerHTML = '<div class="form-contacto fc-ok"><h3 tabindex="-1">Mensaje enviado</h3><p>Gracias. Lo recibimos y le responderemos a su correo desde ' + esc(CFG.correo || '') + '.</p></div>';
