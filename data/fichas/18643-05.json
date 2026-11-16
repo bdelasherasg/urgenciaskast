@@ -165,5 +165,12 @@
   "consultado": "2026-11-10",
   "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "financiamiento de la casa propia",
+    "Fondo Nacional para la Vivienda",
+    "ahorro para la casa propia",
+    "crédito hipotecario",
+    "reforma al mercado de capitales"
+  ]
 }

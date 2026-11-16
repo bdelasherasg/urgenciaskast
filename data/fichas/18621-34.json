@@ -139,5 +139,12 @@
   "consultado": "2026-11-12",
   "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "violencia de género",
+    "violencia contra las mujeres",
+    "medidas cautelares de protección",
+    "violencia intrafamiliar y género",
+    "jueces y medidas de protección"
+  ]
 }

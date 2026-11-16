@@ -112,5 +112,12 @@
   "consultado": "2026-11-10",
   "publicado": "2026-11-10",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "uso de la fuerza",
+    "uso de fuerza policial",
+    "principios para policías",
+    "deberes de Fuerzas Armadas",
+    "Tribunal Constitucional requerimiento"
+  ]
 }

@@ -529,7 +529,8 @@ def indice_fichas():
         f = leer_json(r)
         if f and f.get('version') == 2 and f.get('boletin'):
             idx[f['boletin']] = {'sintesis': f.get('sintesis', ''), 'nivel': f.get('nivel', ''), 'publicado': f.get('publicado', ''),
-                                 'materia': f.get('materia', ''), 'revision': f.get('estado_revision', 'aprobada')}
+                                 'materia': f.get('materia', ''), 'revision': f.get('estado_revision', 'aprobada'),
+                                 'busqueda_prensa': f.get('busqueda_prensa') or []}
     escribir(ruta('data', 'fichas', 'indice.json'), json.dumps(idx, ensure_ascii=False, indent=1) + '\n')
     return idx
 
@@ -612,7 +613,7 @@ def huella_proyecto(b, urg, ag):
     """Resumen de lo que, si cambia, cambia lo que ve el lector: texto de la ficha, etapa, urgencia, trámites y resultados."""
     import hashlib
     f = leer_json(ruta('data', 'fichas', f'{b}.json')) or {}
-    f = {k: v for k, v in f.items() if k != 'consultado'}
+    f = {k: v for k, v in f.items() if k not in ('consultado', 'busqueda_prensa')}
     pr = next((x for x in urg.get('proyectos', []) if x['boletin'] == b), None) or (ag.get('proyectos') or {}).get(b) or {}
     vig = pr.get('urgencia_vigente') or {}
     datos = {'ficha': f,

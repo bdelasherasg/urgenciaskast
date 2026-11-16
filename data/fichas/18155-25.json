@@ -288,5 +288,12 @@
   "consultado": "2026-10-30",
   "publicado": "2026-10-30",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "delitos contra comunidad educativa",
+    "agravantes en establecimientos educacionales",
+    "penas por delitos en colegios",
+    "delitos contra la propiedad escolar",
+    "seguridad en colegios"
+  ]
 }

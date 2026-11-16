@@ -148,5 +148,12 @@
   "consultado": "2026-11-13",
   "publicado": "2026-11-13",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "concepto de lobista",
+    "obligaciones de lobistas",
+    "transparencia de lobistas",
+    "publicidad de actividades de lobby",
+    "ley del lobby"
+  ]
 }

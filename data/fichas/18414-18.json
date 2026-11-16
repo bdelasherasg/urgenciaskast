@@ -150,5 +150,12 @@
   "consultado": "2026-11-12",
   "publicado": "2026-11-12",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "notificación de medidas cautelares",
+    "alejamiento por violencia intrafamiliar",
+    "notificación por correo electrónico",
+    "medidas de alejamiento",
+    "violencia intrafamiliar en tramitación"
+  ]
 }

@@ -115,5 +115,12 @@
   "consultado": "2026-11-11",
   "publicado": "2026-11-11",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
+  "busqueda_prensa": [
+    "beneficios para discapacidad",
+    "ley de discapacidad",
+    "acceso a beneficios sociales",
+    "personas con discapacidad",
+    "trámites para discapacidad"
+  ]
 }
