@@ -351,6 +351,8 @@ def tabla_estatica(urg, ag, idx):
                 citados.add(b)
                 nombre = esc(recortar(nombre_proyecto(b, urg, ag, idx), 200))
                 que = (f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{nombre}</a>' if tiene_pagina(b, urg, ag, idx) else nombre) + f' (boletín {esc(b)}{", refundido con " + esc(", ".join(otros)) if otros else ""})'
+                if not tiene_pagina(b, urg, ag, idx):
+                    que += f'. Sin datos oficiales para este número. {esc(AVISO_SIN_DATOS)}'
                 v = (por_b.get(b) or {}).get('urgencia_vigente') or {}
                 e = (ag.get('especiales') or {}).get(b) or {}
                 if v.get('estado') == 'vigente' and (v.get('vence') or '') >= hoy.isoformat():

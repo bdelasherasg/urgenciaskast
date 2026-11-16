@@ -24,6 +24,11 @@ class BoletinSinDatos(unittest.TestCase):
         self.assertIn('errata en el número de la citación', html)
         self.assertIn('esta fila se actualiza', html)
 
+    def test_tabla_estatica_avisa_posible_errata(self):
+        html = paginas.tabla_estatica(self.urg, self.ag, self.idx)
+        self.assertIn('Boletín 18574-17', html.replace('boletín', 'Boletín'))
+        self.assertIn('Sin datos oficiales para este número. Puede deberse a una errata', html)
+
     def test_boletin_con_datos_no_lleva_aviso(self):
         self.ag['sesiones'][0]['boletines'] = ['18331-17']
         html = paginas.agenda_estatica(self.urg, self.ag, self.idx)
