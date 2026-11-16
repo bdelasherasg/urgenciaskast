@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18702-05",
   "nivel": "completa",
-  "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+  "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
   "materia": "el presupuesto del Estado para 2027",
   "resumen": {
     "problema": [
@@ -103,25 +103,19 @@
     ],
     "estado": [
       {
-        "texto": "El 9 de noviembre la Cámara recibió el informe de la Comisión Mixta, en primer trámite.",
+        "texto": "Entre el 9 y el 13 de noviembre, la Sala de la Cámara votó 545 veces: 300 aprobaciones y 245 rechazos.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "El 15 de noviembre la Cámara envió el proyecto al Senado, que lo revisa en segundo trámite.",
         "fuentes": [
           "f10"
         ]
       },
       {
-        "texto": "Entre el 9 y el 13 de noviembre, la Sala votó 478 veces: 270 aprobaciones y 208 rechazos.",
-        "fuentes": [
-          "f11"
-        ]
-      },
-      {
-        "texto": "La última, el 13 de noviembre, se rechazó por 55 votos contra 58.",
-        "fuentes": [
-          "f11"
-        ]
-      },
-      {
-        "texto": "La Sala del Senado tiene citado el proyecto del 17 al 19 de noviembre.",
+        "texto": "La Sala del Senado lo tiene citado del 16 al 19 de noviembre.",
         "fuentes": [
           "f12"
         ]
@@ -330,8 +324,8 @@
       "id": "f10",
       "titulo": "Senado, tramitación del boletín 18702-05 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-      "fecha": "13 de noviembre de 2026",
-      "nota": "Etapa y trámites."
+      "fecha": "15 de noviembre de 2026",
+      "nota": "Etapa y trámites, hasta el oficio a la Cámara revisora."
     },
     {
       "id": "f11",
@@ -344,7 +338,7 @@
       "id": "f12",
       "titulo": "Senado, sesiones de Sala de la legislatura 374 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
-      "fecha": "13 de noviembre de 2026",
+      "fecha": "16 de noviembre de 2026",
       "nota": "Sesiones de Sala citadas para tratar el proyecto."
     },
     {
@@ -355,8 +349,8 @@
       "nota": "Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026."
     }
   ],
-  "consultado": "2026-11-13",
-  "publicado": "2026-11-13",
+  "consultado": "2026-11-16",
+  "publicado": "2026-11-16",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-16 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
