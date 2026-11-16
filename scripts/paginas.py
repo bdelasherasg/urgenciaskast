@@ -99,7 +99,12 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <meta name="twitter:image" content="{SITIO}/assets/compartir.png">
 <meta name="robots" content="index, follow, max-image-preview:large">
 {extra_head}<meta name="theme-color" content="#e4def7">
+<link rel="icon" href="{base}favicon.ico" sizes="48x48">
 <link rel="icon" href="{base}assets/simbolo.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="96x96" href="{base}assets/icono-96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="{base}assets/icono-192.png">
+<link rel="apple-touch-icon" href="{base}assets/apple-touch-icon.png">
+<link rel="manifest" href="{base}site.webmanifest">
 <link rel="preload" href="{base}assets/fonts/instrument-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{base}assets/fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{base}assets/estilo.css?v={v}">
@@ -138,7 +143,8 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 # reemplaza al cargar. Las fichas no se rehacen aquí: scripts/prerender.mjs escribe lo mismo que dibuja app.js.
 MESES_L = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
 DIAS_L = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo']
-ORG_LC = {'@type': 'Organization', '@id': f'{LOCOMUN}/#organizacion', 'name': 'Lo Común', 'url': f'{LOCOMUN}/'}
+ORG_LC = {'@type': 'Organization', '@id': f'{LOCOMUN}/#organizacion', 'name': 'Lo Común', 'url': f'{LOCOMUN}/',
+          'logo': {'@type': 'ImageObject', 'url': f'{LOCOMUN}/img/marca/icono-512.png', 'width': 512, 'height': 512}}
 CORREO = 'contacto@locomun.cl'
 
 
@@ -157,7 +163,7 @@ def jsonld(dato):
 def ld_sitio(descripcion):
     return jsonld({'@context': 'https://schema.org', '@graph': [
         {'@type': 'WebSite', '@id': f'{SITIO}/#sitio', 'url': f'{SITIO}/', 'name': 'Urgencias Kast', 'description': descripcion,
-         'inLanguage': 'es-CL', 'publisher': {'@id': ORG_LC['@id']}},
+         'inLanguage': 'es-CL', 'image': f'{SITIO}/assets/compartir.png', 'publisher': {'@id': ORG_LC['@id']}},
         dict(ORG_LC, **{'email': CORREO, 'areaServed': {'@type': 'Country', 'name': 'Chile'}}),
     ] + ld_datos()})
 
