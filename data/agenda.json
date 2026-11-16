@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-16T15:27-03:00",
+ "actualizado": "2026-11-16T16:34-03:00",
  "desde": "2026-11-16",
  "hasta": "2026-11-29",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T15:27",
-   "citaciones": 7,
+   "consultado": "2026-11-16T16:34",
+   "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T15:27",
+   "consultado": "2026-11-16T16:34",
    "sesiones": 8,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T15:27",
+   "consultado": "2026-11-16T16:34",
    "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T15:27",
+   "consultado": "2026-11-16T16:34",
    "grupos": 10
   }
  },
@@ -1227,6 +1227,31 @@
   },
   {
    "fecha": "2026-11-23",
+   "hora": "11:15",
+   "horario": "11:15 a 14:00",
+   "camara": "Senado",
+   "organo": "Comisión de Minería y Energía",
+   "lugar": "Sala de Sesiones, Santiago",
+   "materias": [
+    "1.- Seminario: \"Resiliencia de la Infraestructura Energética en Chile\".",
+    "Visión del Gobierno: Ministra de Energía, señora Ximena Rincón.",
+    "Marco internacional: De la Agencia Internacional de Energía, AIE, el analista en electricidad, sistemas eléctricos, redes, y seguridad del suministro eléctrico, señor Javier Jorquera.",
+    "Panel 1. Resistir y recuperarse: lecciones del apagón del 25F.",
+    "Modera: Sen. Daniel Núñez.",
+    "Exponen:",
+    "- Del Coordinador Eléctrico Nacional, el Director Ejecutivo, señor Ramón Castañeda.",
+    "- De Transelec, el Gerente General, señor Arturo Le Blanc.",
+    "- De Senapred, la Directora Nacional, señora Alicia Cebrian.",
+    "Panel 2. Redes para el futuro: Buenas prácticas. Nuevos riesgos climáticos y de seguridad."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
+  },
+  {
+   "fecha": "2026-11-23",
    "hora": "15:00",
    "horario": "15:00 a 18:00",
    "camara": "Senado",
@@ -1916,25 +1941,7 @@
    "camara": "Senado"
   },
   {
-   "boletin": "18286-03",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18341-25",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18434-07",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18754-17",
    "vence": "2026-11-17",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -8808,9 +8815,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-10-19",
-     "retiro": null,
+     "retiro": "2026-11-16",
      "camara": "Cámara de Diputados",
      "oficio": "388-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-16",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "465-374"
     }
    ],
    "tramites": [
@@ -8849,6 +8863,12 @@
      "descripcion": "Cuenta del Mensaje 388-374 que retira y hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta del Mensaje 465-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -8856,18 +8876,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18271-07",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18952&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 1,
+   "renovaciones": 2,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 2,
+   "urgencias_gobierno": 3,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-19",
-    "vence": "2026-11-18",
+    "desde": "2026-11-16",
+    "vence": "2026-12-16",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "388-374",
+    "oficio": "465-374",
     "mixta": false
    },
    "dias_tramite": 187
@@ -9267,6 +9287,12 @@
     {
      "fecha": "2026-09-01",
      "descripcion": "Cuenta de proyecto . Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-03",
+     "descripcion": "Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     },
@@ -9912,6 +9938,12 @@
      "descripcion": "Cuenta de proyecto . Pasa a Comisión de Educación",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Indicación Ejecutivo N° 444-374",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -10394,9 +10426,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-10-19",
-     "retiro": null,
+     "retiro": "2026-11-16",
      "camara": "Cámara de Diputados",
      "oficio": "388-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-16",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "465-374"
     }
    ],
    "tramites": [
@@ -10441,6 +10480,18 @@
      "descripcion": "Cuenta, oficio de la Comisión de Mujeres y Equidad de Género mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en mensaje y moción, contenidos en los boletines Nºs 18621-34 y 18682-34, respectivamente. ACORDADO. Con consulta al Ejecutivo.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta del Mensaje 465-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Oficio de S.E. el Presidente de la República mediante el cual manifiesta su conformidad en orden a refundir los proyectos de ley iniciados, en mensaje y moción, contenidos en los boletines números 18621-34 y 18682-34. (463/374)",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -10448,18 +10499,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18621-34",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19305&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 2,
+   "renovaciones": 3,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 3,
+   "urgencias_gobierno": 4,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-10-19",
-    "vence": "2026-11-18",
+    "desde": "2026-11-16",
+    "vence": "2026-12-16",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "388-374",
+    "oficio": "465-374",
     "mixta": false
    },
    "dias_tramite": 77

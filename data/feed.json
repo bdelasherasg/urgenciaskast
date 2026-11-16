@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-16T15:27-03:00",
+ "actualizado": "2026-11-16T16:34-03:00",
  "conteos": {
-  "urgencias_vigentes": 43,
+  "urgencias_vigentes": 42,
   "discusion_inmediata": 10,
-  "vencen_7_dias": 18,
+  "vencen_7_dias": 11,
   "citaciones_7_dias": 27
  },
  "proximos_vencimientos": [

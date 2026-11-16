@@ -635,7 +635,6 @@ Vence en 2 días · 18 nov 2026. La discusión inmediata corre en la Cámara des
 30 jun 2026Renueva la discusión inmediata · Senado6 días
 23 jun 2026Renueva la discusión inmediata · Senado6 días
 16 jun 2026Pone urgencia discusión inmediata · Senado6 días
-- 18 ago 2026 · SenadoCuenta de segundo informe de comisión.La Sala recibe el informe de la comisión.
 - 1 sep 2026 · SenadoDiscusión particular. Queda pendienteLa Sala vota el texto artículo por artículo.
 - 8 sep 2026 · SenadoLa Honorable Senadora señora Kaiser y el Ejecutivo hacen reserva de constitucionalidad
 - 8 sep 2026 · SenadoDiscusión particular. AprobadoLa Sala vota el texto artículo por artículo.
@@ -643,6 +642,7 @@ Vence en 2 días · 18 nov 2026. La discusión inmediata corre en la Cámara des
 - 21 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social, y a la Comisión de Hacienda en lo que corresponda.La Sala toma conocimiento del proyecto y lo envía a comisión.
 - 2 nov 2026 · CámaraS.E. el Presidente de la República formula indicaciones al proyecto. (277-374). Incluye informe financiero sustitutivo N° 263/30.10.2026.
 - 16 nov 2026 · CámaraPrimer informe de comisión de Trabajo y Seguridad Social. Pasa a Comisión de HaciendaLa comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 16 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 18 nov 2026 · 10:00Citado: Sala de la Cámara, CámaraSegún la citación publicada.
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
@@ -4320,14 +4320,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18271-07.html
 
-Urgencias/Boletín 18271-07SimpleVence en 2 díasAhora en la CámaraCitado el 18 nov 2026
+Urgencias/Boletín 18271-07SimpleVence en 30 díasAhora en la CámaraCitado el 18 nov 2026
 Título oficialEstablece la obligación de declarar los aportes provenientes desde el extranjero para personas jurídicas sin fines de lucro
 ## Obliga a las organizaciones sin fines de lucro a declarar los aportes que reciben desde el extranjero, con multa si no lo hacen. Está en primer trámite en la Cámara de Diputados.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18271-07
 13 may 2026, Cámara
-Simple · Vence en 2 días
+Simple · Vence en 30 días
 18 nov 2026, 15:00 · Comisión de Medio Ambiente y Recursos Naturales
 187 días
 La moción dice que no existe una obligación general de declarar los aportes que llegan desde el extranjero.1 Dice que esto genera falta de trazabilidad de los recursos y dificultad para fiscalizar.1 Menciona el debate sobre organizaciones y Noruega ligadas a la Ley Lafkenche.1
@@ -4337,9 +4337,10 @@ Afecta a las personas jurídicas sin fines de lucro que reciben aportes del extr
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 Ingresó a la Cámara de Diputados el 13 de mayo de 2026 y el 20 de mayo pasó a la Comisión de Constitución.3 Ese día la Sala acordó enviarlo después a la Comisión de Medio Ambiente y Recursos Naturales.2 Esta última comisión lo tiene citado el 18 de noviembre de 2026 para continuar la discusión general.4 Tiene urgencia simple desde el 19 de octubre de 2026.3
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 2 días · 18 nov 2026. La simple corre en la Cámara desde el 19 de octubre de 2026.5
-2urgencias desde marzo de 2026
-1renovaciones
+Vence en 30 días · 16 dic 2026. La simple corre en la Cámara desde el 16 de noviembre de 2026.5
+3urgencias desde marzo de 2026
+2renovaciones
+16 nov 2026Renueva la simple · Cámara30 días
 19 oct 2026Renueva la simple · Cámara30 días
 21 sep 2026Pone urgencia simple · Cámara30 días
 - 13 may 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
@@ -4425,14 +4426,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18286-03.html
 
-Urgencias/Boletín 18286-03SumaVence mañanaAhora en la Cámara
+Urgencias/Boletín 18286-03SumaVence en 15 díasAhora en la Cámara
 Título oficialModifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados
 ## Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con suma urgencia.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18286-03
 2 jun 2026, Cámara
-Suma · Vence mañana
+Suma · Vence en 15 días
 167 días
 El mensaje dice que la presencia ante notario solo para autorizar firmas limita las contrataciones electrónicas.1 Dice también que los trámites presenciales generan costos y esperas, sobre todo para las pymes.1
 Cuando el notario solo autoriza o certifica firmas, ese requisito se podría cumplir con firma electrónica avanzada con sellado de tiempo.1 El sellado de tiempo permite acreditar la fecha y la hora de un documento electrónico.2
@@ -4440,10 +4441,11 @@ Modifica la ley N° 19.799 sobre documentos electrónicos y firma electrónica.2
 Afecta a personas y empresas que firman contratos y documentos, a los notarios y a los prestadores acreditados de certificación.1
 El informe financiero complementario N° 207, del 27 de agosto de 2026, informa un mayor gasto de $39.195 miles el primer año.4 Informa $37.894 miles al año en régimen, para contratar un funcionario en la Subsecretaría de Economía.4 El informe N° 226, del 15 de septiembre de 2026, dice que sus indicaciones no inciden en el presupuesto fiscal.3
 La Comisión de Economía de la Cámara aprobó la idea de legislar por unanimidad.2 Su informe es del 6 de octubre de 2026, y se dio cuenta de él el 19 de octubre.5 El 2 de noviembre se renovó la urgencia suma.5
-Vence mañana. La suma corre en la Cámara desde el 2 de noviembre de 2026.6
-9urgencias desde marzo de 2026
-7renovaciones
+Vence en 15 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.6
+10urgencias desde marzo de 2026
+8renovaciones
 1cambios de tipo
+16 nov 2026Renueva la suma · Cámara15 días
 2 nov 2026Renueva la suma · Cámara15 días
 19 oct 2026Renueva la suma · Cámara15 días
 7 oct 2026Cambia a suma · Cámara15 días
@@ -4587,8 +4589,6 @@ URL: https://urgenciaskast.cl/p/18318-19.html
 Urgencias/Boletín 18318-19SimpleVence en 9 díasAhora en la CámaraCitado el 16 nov 2026
 Título oficialEstablece un estatuto de responsabilidad algorítmica y protección digital de niños, niñas y adolescentes
 ## Fija reglas para que las plataformas digitales protejan a niños, niñas y adolescentes, y prohíbe el diseño que busca captar su atención de forma compulsiva. Está en primer trámite en la Cámara.
-Revisión pendiente · piloto de prueba
-Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18318-19
 2 jun 2026, Cámara
 Simple · Vence en 9 días
@@ -4634,7 +4634,7 @@ FechaComisiónResultado
 - 7Senado, ficha de tramitación del boletín 18318-19Consulta automática. Etapas, trámites y urgencias.
 - 8Cámara de Diputadas y Diputados, tramitación del boletín 18318-19Consulta automática
 - 9Texto del proyecto (moción)Documento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con lista de verificación.
 
 ## Boletín 18326-18
 
@@ -4723,14 +4723,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18331-17.html
 
-Urgencias/Boletín 18331-17SumaVence mañanaAhora en la CámaraCitado el 16 nov 2026
+Urgencias/Boletín 18331-17SumaVence en 15 díasAhora en la CámaraCitado el 16 nov 2026
 Título oficialModifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas
 ## Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18331-17
 5 jun 2026, Cámara
-Suma · Vence mañana
+Suma · Vence en 15 días
 16 nov 2026, 17:15 · Comisión de Derechos Humanos y Pueblos Originarios
 164 días
 La moción dice que el Instituto Nacional de Derechos Humanos (INDH) tiene deficiencias en el pluralismo de su Consejo, la transparencia de sus acuerdos y el uso de sus acciones judiciales.1 Afirma además que ha caído la confianza en el organismo.1
@@ -4739,8 +4739,10 @@ Las querellas, que son acciones penales, se aprobarían por dos tercios del Cons
 Afecta al INDH, a su Consejo y a las personas que observan la función policial en manifestaciones por encargo del Instituto.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 Ingresó el 5 de junio de 2026 y pasó a la Comisión de Derechos Humanos y Pueblos Originarios.2 En octubre se acordó refundirlo con el boletín 18754-17, iniciado en mensaje.2 Tiene urgencia Suma desde el 2 de noviembre.2 La comisión lo tiene citado el 16 y el 18 de noviembre de 2026 para continuar la discusión general.3
-Vence mañana. La suma corre en la Cámara desde el 2 de noviembre de 2026.4
-1urgencias desde marzo de 2026
+Vence en 15 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.4
+2urgencias desde marzo de 2026
+1renovaciones
+16 nov 2026Renueva la suma · Cámara15 días
 2 nov 2026Pone urgencia suma · Cámara15 días
 - 5 jun 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 10 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Derechos Humanos y Pueblos OriginariosLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -4778,13 +4780,13 @@ Afecta la participación de Chile en la Junta de Gobernadores del organismo.1 El
 Dato pendiente No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.
 El Senado aprobó el proyecto el 19 de agosto de 2026, en general y en particular a la vez, tras el informe unánime de su Comisión de Relaciones Exteriores.52 El 20 de octubre de 2026, la Comisión de Relaciones Exteriores de la Cámara despachó el proyecto.4 El 4 de noviembre de 2026 se dio cuenta del informe. Está en segundo trámite en la Cámara, sin urgencia.5
 6
-- 10 jun 2026 · SenadoOficio N°. Enmienda autenticada
 - 10 jun 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Relaciones ExterioresLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 24 jun 2026 · SenadoPrimer informe de comisión de Relaciones Exteriores.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 30 jun 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 19 ago 2026 · SenadoDiscusión general. Aprobado en general y particular a la vezLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
 - 19 ago 2026 · SenadoOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 1 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración LatinoamericanaLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 3 nov 2026 · CámaraPrimer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 4 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 16 nov 2026 · 15:01Citado: Sala de la Cámara, CámaraSegún la citación publicada.
 #### Qué pasó en las comisiones de la Cámara
@@ -4806,59 +4808,23 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18341-25.html
 
-Urgencias/Boletín 18341-25SumaVence mañanaAhora en la Cámara
-Título oficialCrea el registro de actos vandálicos e incivilidades
+Urgencias/Boletín 18341-25
+Título oficial del proyecto
 ## Crea un registro de actos vandálicos e incivilidades, con restricciones temporales a beneficios del Estado. Está en primer trámite en la Cámara, con urgencia suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18341-25
-12 jun 2026, Cámara
-Suma · Vence mañana
-157 días
 El mensaje dice que ha aumentado la percepción de inseguridad y las conductas que dañan los espacios públicos y la convivencia.1
 Propone crear un registro nacional de actos vandálicos e incivilidades, a cargo del Registro Civil.1 Una persona podría preguntar si otra aparece anotada, con un máximo de cinco consultas en doce meses.1 Las indicaciones del gobierno separan el registro en dos, uno de actos vandálicos y otro de incivilidades.2
 Estar anotado traería restricciones temporales para acceder a subsidios, becas, fondos públicos y permisos.1 Modifica el Código Penal y crea un delito por rayados no autorizados en bienes públicos o privados.1 También restringe la gratuidad en la educación superior en delitos graves.1
 Afecta a las personas que cometan las conductas que el proyecto lista y a los organismos que entregan beneficios.1
 Hacienda estimó un costo de 952.736 miles de pesos el primer año.1 Desde el segundo año, el costo permanente sería de 128.377 miles de pesos.1
 El proyecto ingresó el 12 de junio de 2026 y está en primer trámite en la Cámara.3 Pasó a las comisiones de Seguridad Ciudadana y de Hacienda.3 El gobierno renovó la urgencia suma el 2 de noviembre de 2026.3
-Vence mañana. La suma corre en la Cámara desde el 2 de noviembre de 2026.4
-15urgencias desde marzo de 2026
-12renovaciones
-2cambios de tipo
-2 nov 2026Renueva la suma · Cámara15 días
-19 oct 2026Renueva la suma · Cámara15 días
-7 oct 2026Cambia a suma · Cámara15 días
-5 oct 2026Renueva la discusión inmediata · Cámara6 días
-30 sep 2026Renueva la discusión inmediata · Cámara6 días
-28 sep 2026Cambia a discusión inmediata · Cámara6 días
-21 sep 2026Renueva la suma · Cámara15 días
-7 sep 2026Renueva la suma · Cámara15 días
-31 ago 2026Renueva la suma · Cámara15 días
-17 ago 2026Renueva la suma · Cámara15 días
-3 ago 2026Renueva la suma · Cámara15 días
-20 jul 2026Renueva la suma · Cámara15 días
-6 jul 2026Renueva la suma · Cámara15 días
-22 jun 2026Renueva la suma · Cámara15 días
-15 jun 2026Pone urgencia suma · Cámara15 días
-- 12 jun 2026 · CámaraIngreso de proyecto. Incluye informe financiero N° 117/01.06.2026.El proyecto entra al Congreso.
-- 12 jun 2026 · CámaraTexto del Mensaje
-- 15 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y a Comisión de Hacienda en lo que corresponda.La Sala toma conocimiento del proyecto y lo envía a comisión.
-- 15 jun 2026 · CámaraEl diputado Cuello hace reserva de constitucionalidad, en virtud de lo dispuesto en el artículo 19 N°2 de la Constitución Política.
-- 21 ago 2026 · CámaraS.E. el Presidente de la República formula indicaciones al proyecto. (144-374). Incluye informe financiero complementario N° 203/20.08.2026.
-- 26 oct 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
-#### Qué pasó en las comisiones de la Cámara
-Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
-FechaComisiónResultado
-19 oct 2026Seguridad CiudadanaSin resultado informado.
-19 oct 2026Seguridad CiudadanaDespachado por la comisión. Se despachó el proyecto. Pasa a la Comisión de Hacienda. Se designó diputado informante al señor Leiva. El proyecto contiene normas de quorum calificado
 ### Para conducir la discusión de el registro de actos vandálicos e incivilidades
 Fuentes · consultadas el 11 de noviembre de 2026
 - 1Senado, mensaje del boletín 18.341-25 e informe financiero 117 (texto del proyecto)2026-06-12. Antecedentes, contenido e informe financiero.
 - 2Oficio 144-374 con indicaciones del Presidente e informe financiero complementario 203 (20 de agosto de 2026)2026-08-21. Indicaciones.
 - 3Senado, tramitación del boletín 18.341-252026-11-10. Etapa y urgencias.
-- 4Senado, ficha de tramitación del boletín 18341-25Consulta automática. Etapas, trámites y urgencias.
-- 5Cámara de Diputadas y Diputados, tramitación del boletín 18341-25Consulta automática
-- 6Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18345-13
@@ -5402,6 +5368,7 @@ Ingresó el 7 de julio de 2026 y el 14 de julio pasó a la Comisión de Educaci�
 4
 - 7 jul 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 14 jul 2026 · CámaraCuenta de proyecto. Pasa a Comisión de EducaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 16 nov 2026 · CámaraIndicación Ejecutivo N° 444-374
 - 17 nov 2026 · 15:00Citado: Comisión de Educación, CámaraSegún la citación publicada.
 ### Para conducir la discusión de la regulación de los apoderados en el sistema escolar
 - 1Moción: Modifica la ley N°20.370, general de educación, para regular a los apoderados en el sistema educacional chileno7 de julio de 2026. Fundamentos y texto del proyecto.
@@ -5466,14 +5433,14 @@ Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-11, con l
 
 URL: https://urgenciaskast.cl/p/18478-13.html
 
-Urgencias/Boletín 18478-13SumaVence mañanaAhora en la CámaraCitado el 17 nov 2026
+Urgencias/Boletín 18478-13SumaVence en 15 díasAhora en la CámaraCitado el 17 nov 2026
 Título oficialPerfecciona los mecanismos de adaptabilidad de la jornada de trabajo y establece un régimen especial para el sector turismo y actividades conexas
 ## Amplía los plazos para distribuir la jornada de trabajo y crea un régimen especial para el turismo. Está en primer trámite en la Cámara, con urgencia suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18478-13
 21 jul 2026, Cámara
-Suma · Vence mañana
+Suma · Vence en 15 días
 17 nov 2026, 17:30 · Comisión de Trabajo y Seguridad Social
 118 días
 El mensaje dice que el período de referencia de cuatro semanas es muy inferior al de la mayoría de los países de la OCDE, que ronda las dieciséis semanas.1 Afirma que el turismo tiene ciclos de alta actividad que duran varios meses.1
@@ -5482,9 +5449,10 @@ Modifica los artículos 22, 22 bis, 32 y 38 del Código del Trabajo.2 Exige un p
 Afecta a trabajadores y empleadores con pactos de jornada, en especial del sector turismo.12
 El informe financiero N° 151, de la Dirección de Presupuestos, es del 14 de julio de 2026.1 Dice que el proyecto no irroga mayor gasto fiscal.1 Explica que regula materias entre privados y no compromete recursos públicos.1
 El proyecto ingresó el 21 de julio de 2026 y está en primer trámite en la Cámara.4 Está en la Comisión de Trabajo y Seguridad Social.4 Después pasará a la Comisión de Economía y Turismo.3 El gobierno renovó la urgencia suma el 2 de noviembre de 2026.4
-Vence mañana. La suma corre en la Cámara desde el 2 de noviembre de 2026.5
-9urgencias desde marzo de 2026
-8renovaciones
+Vence en 15 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.5
+10urgencias desde marzo de 2026
+9renovaciones
+16 nov 2026Renueva la suma · Cámara15 días
 2 nov 2026Renueva la suma · Cámara15 días
 19 oct 2026Renueva la suma · Cámara15 días
 5 oct 2026Renueva la suma · Cámara15 días
@@ -5829,14 +5797,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18576-06.html
 
-Urgencias/Boletín 18576-06SumaVence mañanaAhora en la CámaraCitado el 17 nov 2026
+Urgencias/Boletín 18576-06SumaVence en 15 díasAhora en la CámaraCitado el 17 nov 2026
 Título oficialModifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias
 ## Amplía de dos a tres años la vigencia de las patentes municipales provisorias y de uno a dos años su extensión, para evitar el cierre de negocios en trámite de permisos. Está en primer trámite en la Cámara.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18576-06
 6 ago 2026, Cámara
-Suma · Vence mañana
+Suma · Vence en 15 días
 17 nov 2026, 10:00 · Sala de la Cámara
 102 días
 La patente provisoria permite funcionar a un negocio mientras obtiene sus permisos.1 Si el plazo vence sin permisos, la patente caduca y el negocio debe cesar sus actividades de inmediato.1 Los autores dicen que el plazo legal es más corto que lo que demoran los trámites.1
@@ -5845,9 +5813,10 @@ Modifica el artículo 26 de la Ley sobre Rentas Municipales.1 Reduce de sesenta 
 Afecta a los negocios con patente provisoria vigente cuando se publique la ley.1 Afecta a las municipalidades, que otorgan estas patentes.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 La Comisión de Gobierno Interior aprobó la idea de legislar por unanimidad, según su informe del 10 de noviembre de 2026.2 El 11 de noviembre se dio cuenta del informe y el proyecto quedó para tabla.3 Tiene urgencia suma desde el 2 de noviembre.3
-Vence mañana. La suma corre en la Cámara desde el 2 de noviembre de 2026.4
-2urgencias desde marzo de 2026
-1renovaciones
+Vence en 15 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.4
+3urgencias desde marzo de 2026
+2renovaciones
+16 nov 2026Renueva la suma · Cámara15 días
 2 nov 2026Renueva la suma · Cámara15 días
 20 oct 2026Pone urgencia suma · Cámara15 días
 - 6 ago 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
@@ -6059,14 +6028,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18621-34.html
 
-Urgencias/Boletín 18621-34SimpleVence en 2 díasAhora en la CámaraCitado el 18 nov 2026
+Urgencias/Boletín 18621-34SimpleVence en 30 díasAhora en la CámaraCitado el 18 nov 2026
 Título oficialPerfecciona las normas sobre medidas cautelares en los procedimientos de violencia intrafamiliar y de violencia contra las mujeres en razón de su género, y modifica las leyes que indica
 ## Perfecciona las medidas de protección que dictan los jueces en casos de violencia intrafamiliar y de violencia contra las mujeres por razón de género. Está en primer trámite en la Cámara.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18621-34
 31 ago 2026, Cámara
-Simple · Vence en 2 días
+Simple · Vence en 30 días
 18 nov 2026, 15:00 · Comisión de Mujeres y Equidad de Género
 77 días
 El mensaje dice que al aplicar juntas las leyes sobre esta violencia hay problemas de competencia, coordinación y continuidad.2 Cita que en 2024 solo un 20,8% de las víctimas de femicidio contaba con medidas cautelares vigentes.2
@@ -6076,9 +6045,10 @@ Afecta a las víctimas, a los denunciados, a los tribunales y a Gendarmería de 
 El informe financiero del 31 de agosto de 2026 dice que el proyecto no irrogará mayor gasto fiscal.1
 El proyecto está en primer trámite en la Cámara de Diputados, con urgencia simple desde el 19 de octubre de 2026.4 El 21 de octubre de 2026 la Comisión de Mujeres y Equidad de Género continuó la discusión general.3 El 10 de noviembre de 2026 la Sala acordó refundirlo con el boletín 18682-34, con consulta al Ejecutivo.4 La comisión tiene citada la continuación de la discusión general el 18 de noviembre de 2026.5
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 2 días · 18 nov 2026. La simple corre en la Cámara desde el 19 de octubre de 2026.6
-3urgencias desde marzo de 2026
-2renovaciones
+Vence en 30 días · 16 dic 2026. La simple corre en la Cámara desde el 16 de noviembre de 2026.6
+4urgencias desde marzo de 2026
+3renovaciones
+16 nov 2026Renueva la simple · Cámara30 días
 19 oct 2026Renueva la simple · Cámara30 días
 21 sep 2026Renueva la simple · Cámara30 días
 7 sep 2026Pone urgencia simple · Cámara30 días
@@ -6086,6 +6056,7 @@ Vence en 2 días · 18 nov 2026. La simple corre en la Cámara desde el 19 de oc
 - 31 ago 2026 · CámaraTexto del Mensaje.
 - 31 ago 2026 · CámaraCuenta de proyecto. Pasa a Comisión Mujeres y Equidad de GéneroLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 10 nov 2026 · CámaraCuenta, oficio de la Comisión de Mujeres y Equidad de Género mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en mensaje y moción, contenidos en los boletines Nºs 18621-34 y 18682-34, respectivamente. ACORDADO. Con consulta al Ejecutivo.
+- 16 nov 2026 · CámaraOficio de S.E. el Presidente de la República mediante el cual manifiesta su conformidad en orden a refundir los proyectos de ley iniciados, en mensaje y moción, contenidos en los boletines números 18621-34 y 18682-34. (463/374)
 - 18 nov 2026 · 15:00Citado: Comisión de Mujeres y Equidad de Género, CámaraSegún la citación publicada.
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
@@ -6868,14 +6839,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18754-17.html
 
-Urgencias/Boletín 18754-17SumaVence mañanaAhora en la Cámara
+Urgencias/Boletín 18754-17SumaVence en 15 díasAhora en la Cámara
 Título oficialReforma el Instituto Nacional de Derechos Humanos
 ## Reforma el Instituto Nacional de Derechos Humanos: reduce su Consejo de 11 a 5 miembros, crea una Dirección Ejecutiva y elimina su facultad de presentar querellas. Está en primer trámite en la Cámara, con urgencia suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18754-17
 19 oct 2026, Cámara
-Suma · Vence mañana
+Suma · Vence en 15 días
 28 días
 El mensaje dice que existe consenso en que el Instituto necesita una reforma profunda.1 Señala que el Consejo tiene muchos integrantes, lo que dificulta decidir con rapidez.1 Dice que el Director concentra la dirección, la representación legal y la gestión administrativa.2
 Reduce el Consejo de 11 a 5 miembros.3 Sube el máximo de sesiones del Consejo de 5 a 10 al mes, con una dieta tope de 4 unidades tributarias mensuales por sesión.3 Crea una Dirección Ejecutiva y elimina la facultad del Instituto de presentar querellas criminales.3 Mantiene el domicilio en Santiago y deja al Instituto organizar su estructura territorial.3
@@ -6883,11 +6854,13 @@ Modifica la ley N° 20.405, que regula el Instituto.1 Propone límites más acot
 Afecta al Consejo y al personal del Instituto.3
 El informe financiero N° 231, del 19 de octubre de 2026, calcula un menor gasto fiscal.3 Sería de $1.210.426 miles el primer año, $3.113.142 miles el segundo y $3.720.995 miles en régimen, es decir, con la reforma ya aplicada.3
 Ingresó a la Cámara el 19 de octubre de 2026 y pasó a la Comisión de Derechos Humanos y Pueblos Originarios, y a la de Hacienda en lo que corresponda.4 El 28 de octubre de 2026 el Ejecutivo aceptó refundirlo con el boletín 18331-17.4 Tiene urgencia suma, que el Ejecutivo hizo presente el 2 de noviembre de 2026.4
-Vence mañana. La suma corre en la Cámara desde el 2 de noviembre de 2026.5
-3urgencias desde marzo de 2026
+Vence en 15 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.5
+4urgencias desde marzo de 2026
+1renovaciones
 2cambios de tipo
-2 nov 2026Cambia a suma · Cámara15 días
+16 nov 2026Cambia a suma · Cámara15 días
 2 nov 2026Cambia a discusión inmediata · Cámara6 días
+2 nov 2026Renueva la suma · Cámara15 días
 19 oct 2026Pone urgencia suma · Cámara15 días
 - 19 oct 2026 · CámaraIngreso de proyecto. Incluye IF N°231El proyecto entra al Congreso.
 - 19 oct 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Derechos Humanos y Pueblos Originarios, y a la Comisión de Hacienda en lo que correspondaLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -7103,14 +7076,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18819-03.html
 
-Urgencias/Boletín 18819-03SumaVence en 2 díasAhora en la CámaraCitado el 17 nov 2026
+Urgencias/Boletín 18819-03SumaVence en 15 díasAhora en la CámaraCitado el 17 nov 2026
 Título oficialFomenta la industria de capital de riesgo, mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo
 ## Autoriza a CORFO a aportar a fondos de capital de riesgo y fondos de fondos para movilizar inversión privada. Está en primer trámite en la Cámara, con urgencia Suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18819-03
 28 oct 2026, Cámara
-Suma · Vence en 2 días
+Suma · Vence en 15 días
 17 nov 2026, 17:30 · Comisión de Economía, Fomento; Micro, Pequeña y Mediana
 19 días
 El mensaje dice que Chile captó en 2025 cerca del 6% de la inversión de capital de riesgo de la región.1 El capital de riesgo es dinero que inversionistas ponen en empresas nuevas a cambio de participar en ellas.1
@@ -7119,9 +7092,10 @@ La ley exigiría informes públicos de evaluación de sus resultados.2 Si el pri
 Afecta a CORFO y a las administradoras que gestionan los fondos.2
 El informe financiero N° 261, de octubre de 2026, dice que los aportes de CORFO no afectan el patrimonio neto del Fisco.2 Dice que el mayor gasto del primer año se paga con recursos del Ministerio de Economía.2 El primer año CORFO podría pagar cuotas por hasta 25.000.000 de dólares.2
 Ingresó el 28 de octubre de 2026 a la Cámara de Diputados, en primer trámite, y pasó a las comisiones de Economía y de Hacienda.4 Tiene urgencia Suma, que el Gobierno hizo presente de nuevo el 3 de noviembre.4 La Comisión de Economía lo tiene citado el 17 de noviembre de 2026 para continuar la discusión general.5
-Vence en 2 días · 18 nov 2026. La suma corre en la Cámara desde el 3 de noviembre de 2026.6
-2urgencias desde marzo de 2026
-1renovaciones
+Vence en 15 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.6
+3urgencias desde marzo de 2026
+2renovaciones
+16 nov 2026Renueva la suma · Cámara15 días
 3 nov 2026Renueva la suma · Cámara15 días
 28 oct 2026Pone urgencia suma · Cámara15 días
 - 28 oct 2026 · CámaraIngreso de proyecto. Incluye IF N°261 28.10.26.El proyecto entra al Congreso.
@@ -7266,6 +7240,7 @@ Vence en 2 días · 18 nov 2026. La discusión inmediata corre en la Cámara des
 - 12 nov 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Hacienda.La Sala toma conocimiento del proyecto y lo envía a comisión.
 - 16 nov 2026 · CámaraIndicación sustitutiva N° 443-374
 - 16 nov 2026 · CámaraPrimer informe de comisión de Hacienda.La Comisión de Hacienda revisa las normas que afectan el gasto o los ingresos públicos.
+- 16 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 16 nov 2026 · 15:01Citado: Sala de la Cámara, CámaraSegún la citación publicada.
 ### Para conducir la discusión de las alzas de los precios de la gasolina y el diésel
 - 1Mensaje N° 439-374 del Presidente de la República, boletín 18885-0512 de noviembre de 2026. Fundamentos y contenido del proyecto.
