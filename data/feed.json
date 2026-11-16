@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-15T20:53-03:00",
+ "actualizado": "2026-11-15T21:25-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -404,6 +404,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "16888-06",
+   "sintesis": "Moderniza la ley del lobby: crea los representantes calificados de intereses y amplía las autoridades obligadas. Es mensaje del gobierno y está refundido con dos mociones. Falta su votación general en la Cámara.",
+   "publicado": "2026-11-16",
+   "url": "https://urgenciaskast.cl/p/16888-06.html"
+  },
+  {
    "boletin": "18224-18",
    "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
    "publicado": "2026-11-15",
@@ -432,12 +438,6 @@
    "sintesis": "Regula las neurotecnologías, que leen o modifican la actividad del cerebro, y protege los datos neuronales de las personas. El Senado lo aprobó en 2021. Hoy lo discute la Cámara.",
    "publicado": "2026-11-13",
    "url": "https://urgenciaskast.cl/p/13828-19.html"
-  },
-  {
-   "boletin": "14950-07",
-   "sintesis": "Exige que el abogado del niño conozca a fondo el caso y que los peritos acrediten su especialización. La comisión del Senado lo aprobó en general, en primer trámite.",
-   "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/14950-07.html"
   }
  ],
  "analisis": [
