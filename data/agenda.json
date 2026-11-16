@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-16T17:24-03:00",
+ "actualizado": "2026-11-16T17:30-03:00",
  "desde": "2026-11-16",
  "hasta": "2026-11-29",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T17:23",
+   "consultado": "2026-11-16T17:29",
    "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T17:24",
+   "consultado": "2026-11-16T17:30",
    "sesiones": 8,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T17:24",
+   "consultado": "2026-11-16T17:30",
    "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T17:24",
+   "consultado": "2026-11-16T17:30",
    "grupos": 11
   }
  },
@@ -1905,24 +1905,6 @@
  ],
  "probables": [
   {
-   "boletin": "16300-07",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18211-25",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18239-36",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
    "boletin": "18314-07",
    "vence": "2026-11-16",
    "tipo": "Discusión inmediata",
@@ -1941,106 +1923,16 @@
    "camara": "Senado"
   },
   {
-   "boletin": "18434-07",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18881-25",
    "vence": "2026-11-17",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
   },
   {
-   "boletin": "18788-07",
-   "vence": "2026-11-24",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
    "boletin": "18803-13",
    "vence": "2026-11-24",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "12213-07",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "12712-24",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "15047-11",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "15261-25",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "15767-29",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "15850-11",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "16143-02",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "16725-06",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "17111-07",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "17170-07",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "17628-13",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "17914-13",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18029-17",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
   },
   {
    "boletin": "18255-31",
@@ -2055,19 +1947,7 @@
    "camara": "Senado"
   },
   {
-   "boletin": "18282-07",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
    "boletin": "18389-04",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18427-07",
    "vence": "2026-11-25",
    "tipo": "Suma",
    "camara": "Senado"
@@ -3326,6 +3206,217 @@
    },
    "dias_tramite": 1433
   },
+  "15767-29": {
+   "boletin": "15767-29",
+   "titulo": "Deroga la ley N°18.356, que establece normas sobre control de las artes marciales y deroga la ley N°18.039, e incorpora el concepto de artes marciales en la ley N°19.712, del Deporte",
+   "fecha_ingreso": "2023-03-22",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Discusión particular",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-03",
+     "retiro": "2026-06-16",
+     "camara": "Senado",
+     "oficio": "127-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-06-16",
+     "retiro": "2026-07-14",
+     "camara": "Senado",
+     "oficio": "153-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-07-14",
+     "retiro": "2026-08-11",
+     "camara": "Senado",
+     "oficio": "203-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-08-11",
+     "retiro": "2026-09-08",
+     "camara": "Senado",
+     "oficio": "253-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-09-08",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "311-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-06",
+     "retiro": "2026-10-20",
+     "camara": "Senado",
+     "oficio": "376-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-20",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "394-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-10",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "454-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2024-01-12",
+     "descripcion": "Primer informe de comisión de Deportes y Recreación.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2024-01-15",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2024-03-12",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2024-03-12",
+     "descripcion": "Oficio de ley a Cámara Revisora .  Oficio N° 19274. Comunica al Senado que la Cámara de Diputados ha aprobado el proyecto de ley.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2024-03-12",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-13",
+     "descripcion": "Primer informe de comisión de Cultura, Patrimonio, Artes, Deportes y Recreación.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-01-14",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-03",
+     "descripcion": "Cuenta del Mensaje 127-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-03",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 18/06/2026 a las 12:00",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-16",
+     "descripcion": "Cuenta del Mensaje 153-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-17",
+     "descripcion": "La Sala acuerda ampliar el plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 25 de junio de 2026, en la Secretaría del Senado",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-25",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-14",
+     "descripcion": "Cuenta del Mensaje 203-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Cuenta del Mensaje 253-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Segundo informe de comisión de Cultura, Patrimonio, Artes, Deportes y Recreación.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15767-29",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=15767-29",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16301&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 5,
+   "cambios_tipo": 2,
+   "urgencias_gobierno": 8,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-11-10",
+    "vence": "2026-11-25",
+    "camara": "Senado",
+    "estado": "vigente",
+    "plazo_dias": 15,
+    "oficio": "454-374",
+    "mixta": false
+   },
+   "dias_tramite": 1335
+  },
   "15779-03": {
    "boletin": "15779-03",
    "titulo": "Modifica diversos cuerpos legales para eliminar la unidad de fomento como sistema de reajustabilidad en casos que indica",
@@ -3533,6 +3624,588 @@
     "plazo_dias": null
    },
    "dias_tramite": 1323
+  },
+  "15850-11": {
+   "boletin": "15850-11",
+   "titulo": "Modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal",
+   "fecha_ingreso": "2023-04-18",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Suma",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Discusión particular",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-08-29",
+     "retiro": "2023-09-13",
+     "camara": "Senado",
+     "oficio": "1032-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-09-13",
+     "retiro": "2023-09-27",
+     "camara": "Senado",
+     "oficio": "1177-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-09-27",
+     "retiro": "2023-10-11",
+     "camara": "Senado",
+     "oficio": "1230-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-10-11",
+     "retiro": "2023-10-25",
+     "camara": "Senado",
+     "oficio": "1311-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-10-25",
+     "retiro": "2023-11-07",
+     "camara": "Senado",
+     "oficio": "1404-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-11-07",
+     "retiro": "2023-11-21",
+     "camara": "Senado",
+     "oficio": "1440-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-11-22",
+     "retiro": "2023-11-29",
+     "camara": "Senado",
+     "oficio": "1529-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-11-29",
+     "retiro": "2023-12-13",
+     "camara": "Senado",
+     "oficio": "1609-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-12-13",
+     "retiro": "2023-12-20",
+     "camara": "Senado",
+     "oficio": "1673-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2023-12-20",
+     "retiro": "2024-01-03",
+     "camara": "Senado",
+     "oficio": "1755-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-01-03",
+     "retiro": "2024-01-17",
+     "camara": "Senado",
+     "oficio": "1813-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-01-17",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1923-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-03-05",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2023-371"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-03-12",
+     "retiro": "2024-03-20",
+     "camara": "Senado",
+     "oficio": "59-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-03-20",
+     "retiro": "2024-04-03",
+     "camara": "Senado",
+     "oficio": "146-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-04-03",
+     "retiro": "2024-04-17",
+     "camara": "Senado",
+     "oficio": "210-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-04-17",
+     "retiro": "2024-04-24",
+     "camara": "Senado",
+     "oficio": "325-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-04-24",
+     "retiro": "2024-05-08",
+     "camara": "Senado",
+     "oficio": "388-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-05-13",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "502-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-05-30",
+     "retiro": "2024-06-12",
+     "camara": "Senado",
+     "oficio": "624-372"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2024-06-12",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "751-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2024-07-23",
+     "retiro": "2024-08-14",
+     "camara": "Senado",
+     "oficio": "1051-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2024-08-14",
+     "retiro": "2024-09-11",
+     "camara": "Senado",
+     "oficio": "1290-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2024-09-11",
+     "retiro": "2024-10-09",
+     "camara": "Senado",
+     "oficio": "1526-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2024-10-09",
+     "retiro": "2024-11-05",
+     "camara": "Senado",
+     "oficio": "1750-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2024-11-05",
+     "retiro": "2024-12-04",
+     "camara": "Senado",
+     "oficio": "2017-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2024-12-04",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2288-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-01-08",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2535-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-03-04",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2756-372"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-03-11",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "3-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-04-15",
+     "retiro": "2025-05-14",
+     "camara": "Senado",
+     "oficio": "162-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-05-14",
+     "retiro": "2025-06-11",
+     "camara": "Senado",
+     "oficio": "418-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-06-11",
+     "retiro": "2025-07-09",
+     "camara": "Senado",
+     "oficio": "647-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-07-09",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "789-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-08-12",
+     "retiro": "2025-09-10",
+     "camara": "Senado",
+     "oficio": "944-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-09-10",
+     "retiro": "2025-10-08",
+     "camara": "Senado",
+     "oficio": "1062-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-10-08",
+     "retiro": "2025-11-05",
+     "camara": "Senado",
+     "oficio": "1140-373"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-11-05",
+     "retiro": "2025-12-03",
+     "camara": "Senado",
+     "oficio": "1236-373."
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2025-12-03",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1323-373"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-01-06",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1459-373"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-01-20",
+     "retiro": "2026-01-26",
+     "camara": "Senado",
+     "oficio": "1546-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-01-26",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1573-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-03-03",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "1605-373"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-03-17",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "2-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-04-07",
+     "retiro": "2026-04-14",
+     "camara": "Senado",
+     "oficio": "26-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-04-14",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "39-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-05",
+     "retiro": "2026-05-20",
+     "camara": "Senado",
+     "oficio": "74-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-20",
+     "retiro": "2026-06-02",
+     "camara": "Senado",
+     "oficio": "114-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-02",
+     "retiro": "2026-06-16",
+     "camara": "Senado",
+     "oficio": "125-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-16",
+     "retiro": "2026-06-23",
+     "camara": "Senado",
+     "oficio": "152-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-23",
+     "retiro": "2026-07-07",
+     "camara": "Senado",
+     "oficio": "169-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-07",
+     "retiro": "2026-07-22",
+     "camara": "Senado",
+     "oficio": "187-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-22",
+     "retiro": "2026-08-04",
+     "camara": "Senado",
+     "oficio": "219-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-04",
+     "retiro": "2026-08-18",
+     "camara": "Senado",
+     "oficio": "232-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-18",
+     "retiro": "2026-09-01",
+     "camara": "Senado",
+     "oficio": "268-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-01",
+     "retiro": "2026-09-08",
+     "camara": "Senado",
+     "oficio": "284-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-08",
+     "retiro": "2026-09-22",
+     "camara": "Senado",
+     "oficio": "309-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-22",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "334-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-06",
+     "retiro": "2026-10-20",
+     "camara": "Senado",
+     "oficio": "376-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-20",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "394-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-10",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "454-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-06-02",
+     "descripcion": "Cuenta del Mensaje 125-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-16",
+     "descripcion": "Cuenta del Mensaje 152-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-23",
+     "descripcion": "Cuenta del Mensaje 169-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-24",
+     "descripcion": "La Sala acuerda eximir del trámite de la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-30",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07",
+     "descripcion": "Cuenta del Mensaje 187-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 14/08/2026 a las 12:00",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22",
+     "descripcion": "Cuenta del Mensaje 219-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "Cuenta del Mensaje 232-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-14",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-14",
+     "descripcion": "Oficio N°. IF 200-2026",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-18",
+     "descripcion": "Cuenta del Mensaje 268-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta del Mensaje 284-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 309-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Segundo informe de comisión de Salud.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15850-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=15850-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16388&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 17,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 18,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-11-10",
+    "vence": "2026-11-25",
+    "camara": "Senado",
+    "estado": "vigente",
+    "plazo_dias": 15,
+    "oficio": "454-374",
+    "mixta": false
+   },
+   "dias_tramite": 1308
   },
   "16172-17": {
    "boletin": "16172-17",
