@@ -558,7 +558,10 @@ def construir_fichas(v):
         # El contenido lo dibuja assets/app.js; scripts/prerender.mjs lo escribe además entre los marcadores, idéntico.
         cuerpo = ('<div id="ficha"><!--pre--><div class="envoltura"><p class="vacio">Cargando la ficha…</p></div><!--/pre--></div>'
                   + relacionados(b, urg, ag, idx, F, pub))
-        extra = ((f'<meta property="article:published_time" content="{esc(pub)}">\n' if pub else '')
+        # Sin ficha, la página es solo una reseña de datos oficiales (o un aviso de que el proyecto salió del seguimiento):
+        # no se pide indexarla. Apenas el proyecto tiene ficha, la marca desaparece sola en la siguiente generación.
+        sin_indexar = '' if f else '<meta name="robots" content="noindex,follow">\n'
+        extra = (sin_indexar + (f'<meta property="article:published_time" content="{esc(pub)}">\n' if pub else '')
                  + ld_articulo(recortar(titulo, 110), desc, f'{SITIO}/p/{b}.html', pub or None, (F or {}).get('consultado'), migas=[('Urgencias Kast', f'{SITIO}/'), (f'Boletín {b}', f'{SITIO}/p/{b}.html')]))
         escribir(ruta('p', f'{b}.html'), layout(cuerpo, base='../', titulo=titulo_ficha(b, f, p), descripcion=desc,
                                                pagina='ficha', ruta_url=f'p/{b}.html', og_tipo='article', og_titulo=recortar(titulo, 120),
@@ -647,7 +650,7 @@ def construir_mapa(boletines, idx=None, fechas=None):
     idx = idx or {}
     fechas = fechas or {}
     fijas = ['', 'agenda.html', 'como-leer.html', 'glosario.html', 'asesoria.html', 'aportar.html', 'privacidad.html', 'analisis.html', 'analisis/falsabilidad-kast.html']
-    urls = [(f'{SITIO}/{u}', '') for u in fijas] + [(f'{SITIO}/p/{b}.html', fechas.get(b, '')) for b in boletines]
+    urls = [(f'{SITIO}/{u}', '') for u in fijas] + [(f'{SITIO}/p/{b}.html', fechas.get(b, '')) for b in boletines if b in idx]
     escribir(ruta('sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
              + ''.join(f'  <url><loc>{u}</loc>' + (f'<lastmod>{m}</lastmod>' if m else '') + '</url>\n' for u, m in urls) + '</urlset>\n')
 
