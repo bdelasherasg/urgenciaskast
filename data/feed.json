@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-15T21:44-03:00",
+ "actualizado": "2026-11-15T21:49-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 10,
@@ -416,6 +416,18 @@
    "url": "https://urgenciaskast.cl/p/16888-06.html"
   },
   {
+   "boletin": "17002-17",
+   "sintesis": "Devuelve la nacionalidad chilena a una mujer que la perdió al nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+   "publicado": "2026-11-16",
+   "url": "https://urgenciaskast.cl/p/17002-17.html"
+  },
+  {
+   "boletin": "17198-17",
+   "sintesis": "Devuelve la nacionalidad chilena a un hombre que debió renunciar a ella para nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
+   "publicado": "2026-11-16",
+   "url": "https://urgenciaskast.cl/p/17198-17.html"
+  },
+  {
    "boletin": "18224-18",
    "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
    "publicado": "2026-11-16",
@@ -426,18 +438,6 @@
    "sintesis": "Prohíbe a menores de 16 años usar redes sociales y a menores de 18 las apuestas y la pornografía en línea. Está en votación en particular en una comisión de la Cámara.",
    "publicado": "2026-11-16",
    "url": "https://urgenciaskast.cl/p/18246-18.html"
-  },
-  {
-   "boletin": "13872-17",
-   "sintesis": "Devuelve la nacionalidad chilena a una persona que la perdió al entregar su pasaporte en un consulado. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
-   "publicado": "2026-11-14",
-   "url": "https://urgenciaskast.cl/p/13872-17.html"
-  },
-  {
-   "boletin": "13529-34",
-   "sintesis": "Obliga a los lugares privados de uso público a poner en sus baños el fono de ayuda por violencia contra la mujer. La Comisión de la Mujer lo aprobó en general. La Cámara lo debate.",
-   "publicado": "2026-11-13",
-   "url": "https://urgenciaskast.cl/p/13529-34.html"
   }
  ],
  "analisis": [
