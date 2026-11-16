@@ -6,6 +6,8 @@
   var CFG = window.UK_CONFIG || {};
   var GLO = window.UK_GLOSARIO || {};
   var BASE = document.documentElement.getAttribute('data-base') || '';
+  // Aviso para los boletines citados que no tienen datos oficiales (mismo texto en scripts/paginas.py).
+  var AVISO_SIN_DATOS = 'Puede deberse a una errata en el número de la citación o a que el proyecto aún no figura en las fuentes oficiales. Si se corrige, esta fila se actualiza.';
   var DIA = 24 * 60 * 60 * 1000;
   var MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
   var MESES_L = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
@@ -450,7 +452,7 @@
       // El título oficial queda al pasar el cursor (y en la ficha): en la fila, solo la síntesis y el boletín.
       var oficial = f.i && f.i.sintesis && f.p && f.p.titulo ? ' title="Título oficial: ' + esc(recortar(f.p.titulo, 300)) + '"' : '';
       var titulo = f.b && href ? '<a href="' + href + '"' + oficial + '>' + esc(recortar(f.titulo, 200)) + '</a>' : '<span class="' + (f.b ? 'que-sin-pagina' : 'que-materia') + '">' + esc(recortar(f.titulo, 220)) + '</span>';
-      var bol = f.b ? '<span class="bol-num">Boletín ' + esc(f.b) + (f.otros.length ? ', refundido con ' + esc(f.otros.join(', ')) : '') + (href ? '' : ' · sin datos oficiales para este número') + '</span>'
+      var bol = f.b ? '<span class="bol-num">Boletín ' + esc(f.b) + (f.otros.length ? ', refundido con ' + esc(f.otros.join(', ')) : '') + (href ? '' : ' · sin datos oficiales para este número') + '</span>' + (href ? '' : '<small class="aviso-datos">' + esc(AVISO_SIN_DATOS) + '</small>')
         : (f.extra ? '<span class="bol-num">' + esc(f.extra) + '</span>' : '');
       var act = f.sinEfecto ? '<span class="et-act et-sin-efecto">Sin efecto</span>'
         : f.sinSesion ? '' : (f.pasada ? (f.resultado ? '<span class="resultado">' + esc(f.resultado) + '</span>' : '<span class="sin-urg">Sin resultado informado</span>')
@@ -534,7 +536,7 @@
         var p = nom.p;
         var urg = p && p.urgencia_vigente && p.urgencia_vigente.estado === 'vigente' ? ' ' + chipUrg(p.urgencia_vigente.tipo, !probable) : '';
         var titulo = nom.sintesis || nom.oficial || 'Proyecto de ley';
-        if (!hayPagina(b, U, A, IDX)) return '<li><span class="bol">' + esc(b) + '</span>' + esc(titulo) + ' <small>(sin datos oficiales para este número de boletín)</small></li>';
+        if (!hayPagina(b, U, A, IDX)) return '<li><span class="bol">' + esc(b) + '</span>' + esc(titulo) + ' <small>(sin datos oficiales para este número de boletín). ' + esc(AVISO_SIN_DATOS) + '</small></li>';
         return '<li><a href="' + urlFicha(b) + '"><span class="bol">' + esc(b) + '</span>' + esc(recortar(titulo, 190)) + '</a>' + urg + '</li>';
       }).join('') + (s._mas ? '<li class="mas"><a href="' + BASE + 'agenda.html#d' + s._dia + '">' + plural(s._mas, 'proyecto más', 'proyectos más') + ' con plazo ese día</a></li>' : '') + '</ul>';
     } else if (s.materias && s.materias.length) {

@@ -21,6 +21,9 @@ from zoneinfo import ZoneInfo
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITIO = 'https://urgenciaskast.cl'
 LOCOMUN = 'https://locomun.cl'
+# Aviso para los boletines citados que no tienen datos oficiales (mismo texto en assets/app.js).
+AVISO_SIN_DATOS = ('Puede deberse a una errata en el número de la citación o a que el proyecto aún no figura en las '
+                   'fuentes oficiales. Si se corrige, esta fila se actualiza.')
 
 
 def hoy_chile():
@@ -387,7 +390,7 @@ def agenda_estatica(urg, ag, idx):
         li = ''.join(
             f'<li><b>{esc(x.get("hora"))}</b> {esc(x.get("camara"))}, {esc(x.get("organo"))}: '
             + '; '.join((f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{esc(recortar(nombre_proyecto(b, urg, ag, idx), 160))}</a> (boletín {esc(b)})'
-                         if tiene_pagina(b, urg, ag, idx) else f'boletín {esc(b)}, sin datos oficiales para ese número') for b in x['boletines'])
+                         if tiene_pagina(b, urg, ag, idx) else f'boletín {esc(b)}, sin datos oficiales para ese número. {esc(AVISO_SIN_DATOS)}') for b in x['boletines'])
             + '</li>' for x in lista)
         partes.append(f'<section><h2>{esc(fecha_larga(f, dia=True))}</h2><ul>{li}</ul></section>')
     return '<h2 class="solo-lector">Citaciones confirmadas de las próximas dos semanas</h2>' + ''.join(partes)
@@ -600,12 +603,13 @@ def construir_feed(urg, ag, idx):
             for p in vig[:6]],
         'agenda': [{
             'fecha': s['fecha'], 'hora': s.get('hora', ''), 'camara': s.get('camara', ''), 'organo': s.get('organo', ''),
-            'proyectos': [{'boletin': b, 'titulo': titulo(b), 'sintesis': (idx.get(b) or {}).get('sintesis', ''), 'url': f'{SITIO}/p/{b}.html'} for b in s['boletines']]}
+            'proyectos': [{'boletin': b, 'titulo': titulo(b), 'sintesis': (idx.get(b) or {}).get('sintesis', ''), 'url': f'{SITIO}/p/{b}.html'} for b in s['boletines'] if tiene_pagina(b, urg, ag, idx)]}
             for s in sesiones[:12]],
         'fichas_recientes': sorted([{'boletin': b, 'sintesis': f['sintesis'], 'publicado': f.get('publicado', ''), 'url': f'{SITIO}/p/{b}.html'}
                                     for b, f in idx.items()], key=lambda x: x['publicado'], reverse=True)[:6],
         'analisis': [{k: a[k] for k in ('serie', 'numero', 'titulo', 'autor', 'fecha', 'resumen')} | {'url': f'{SITIO}/{a["ruta"]}'} for a in analisis],
     }
+    feed['agenda'] = [x for x in feed['agenda'] if x['proyectos']]  # sin sesiones cuyos boletines no tienen página
     escribir(ruta('data', 'feed.json'), json.dumps(feed, ensure_ascii=False, indent=1) + '\n')
 
 
