@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-16T12:30-03:00",
+ "actualizado": "2026-11-16T15:27-03:00",
  "desde": "2026-11-16",
  "hasta": "2026-11-29",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T12:29",
-   "citaciones": 6,
+   "consultado": "2026-11-16T15:27",
+   "citaciones": 7,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,29 +19,47 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T12:29",
+   "consultado": "2026-11-16T15:27",
    "sesiones": 8,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T12:29",
-   "sesiones": 11,
+   "consultado": "2026-11-16T15:27",
+   "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
   "tabla_sala": {
    "estado": "asistida",
    "tablas": 13,
    "creadas": 0,
-   "sin_tabla": 1
+   "sin_tabla": 2
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T12:29",
+   "consultado": "2026-11-16T15:27",
    "grupos": 10
   }
  },
  "sesiones": [
+  {
+   "fecha": "2026-11-16",
+   "hora": "10:00",
+   "horario": "10:00 a 12:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 991,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_senado": "10299",
+   "actividad": "Sala"
+  },
   {
    "fecha": "2026-11-16",
    "hora": "14:20",
@@ -141,6 +159,43 @@
    "fecha": "2026-11-16",
    "hora": "15:00",
    "horario": "15:00 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "lugar": "Sala N° 10 de Comisiones - Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° 15589-07 ) Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
+    "2.- ( Bol.N° 17637-07 ) Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales"
+   ],
+   "boletines": [
+    "15589-07",
+    "17637-07"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Minería y Energía",
+   "lugar": "Sala 1, Valparaíso",
+   "materias": [
+    "1.- Conocer la \"Política Nacional de Salud y Seguridad en la Minería en Chile, situación actual, desafíos en prevención de accidentes y fortalecimiento de la fiscalización\".",
+    "A esta sesión fueron especialmente invitados, el Ministro de Minería; Sernageomin; Dirección del Trabajo; Instituto de Seguridad Laboral; Confederación de Trabajadores del Cobre, y Confederación Minera de Chile."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:01",
+   "horario": "15:01 a 17:00",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "lugar": "",
@@ -305,43 +360,6 @@
    "tabla_leida": "2026-11-13T08:06",
    "asistida": true,
    "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "15:00",
-   "horario": "15:00 a 17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "lugar": "Sala N° 10 de Comisiones - Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 15589-07 ) Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
-    "2.- ( Bol.N° 17637-07 ) Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales"
-   ],
-   "boletines": [
-    "15589-07",
-    "17637-07"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "15:00",
-   "horario": "15:00 a 17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Minería y Energía",
-   "lugar": "Sala 1, Valparaíso",
-   "materias": [
-    "1.- Conocer la \"Política Nacional de Salud y Seguridad en la Minería en Chile, situación actual, desafíos en prevención de accidentes y fortalecimiento de la fiscalización\".",
-    "A esta sesión fueron especialmente invitados, el Ministro de Minería; Sernageomin; Dirección del Trabajo; Instituto de Seguridad Laboral; Confederación de Trabajadores del Cobre, y Confederación Minera de Chile."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Audiencia"
   },
   {
    "fecha": "2026-11-16",
@@ -1220,6 +1238,26 @@
    "boletines": [
     "17196-17",
     "17446-17"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "11:15",
+   "horario": "11:15 a 12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Familia, Infancia y Adolescencia",
+   "lugar": "Sala 5, (Valparaíso)",
+   "materias": [
+    "1.- ( Bol.N° 18554-36 ) Continuar con el estudio del proyecto de ley, en primer trámite constitucional, originado en moción de la Honorable Senadora señora Astudillo, que modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud.",
+    "A este punto han sido invitados el Ministro de la Corte de Apelaciones de Temuco, señor Alberto René Amiot y la Ministra encargada de los asuntos de infancia de la Corte Suprema, señora María Soledad Melo.",
+    "2.- Exposición de la Relatora Especial de las Naciones Unidas, señora Reem Alsalem, acerca de la violencia contra las mujeres y las niñas, según su informe de 2025 en el que se pronunció sobre la gestación subrogada, una práctica que involucra a mujeres, niñas y niños, y que es objeto de discusión mundial."
+   ],
+   "boletines": [
+    "18554-36"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
@@ -7933,6 +7971,280 @@
    },
    "dias_tramite": 215
   },
+  "18208-25": {
+   "boletin": "18208-25",
+   "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
+   "fecha_ingreso": "2026-04-20",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia_actual": "Simple",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión general",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-04-21",
+     "retiro": "2026-05-05",
+     "camara": "Senado",
+     "oficio": "54-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-05",
+     "retiro": "2026-05-20",
+     "camara": "Senado",
+     "oficio": "73-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-05-20",
+     "retiro": "2026-06-02",
+     "camara": "Senado",
+     "oficio": "114-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-02",
+     "retiro": "2026-06-16",
+     "camara": "Senado",
+     "oficio": "125-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-16",
+     "retiro": "2026-06-23",
+     "camara": "Senado",
+     "oficio": "152-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-23",
+     "retiro": "2026-07-07",
+     "camara": "Senado",
+     "oficio": "169-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-07",
+     "retiro": "2026-07-21",
+     "camara": "Senado",
+     "oficio": "187-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-21",
+     "retiro": "2026-08-04",
+     "camara": "Senado",
+     "oficio": "214-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-04",
+     "retiro": "2026-08-18",
+     "camara": "Senado",
+     "oficio": "232-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-18",
+     "retiro": "2026-09-08",
+     "camara": "Senado",
+     "oficio": "268-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-08",
+     "retiro": "2026-09-23",
+     "camara": "Senado",
+     "oficio": "309-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-23",
+     "retiro": "2026-09-29",
+     "camara": "Senado",
+     "oficio": "342-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-09-29",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "343-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-05",
+     "retiro": "2026-10-19",
+     "camara": "Cámara de Diputados",
+     "oficio": "370-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-19",
+     "retiro": "2026-11-02",
+     "camara": "Cámara de Diputados",
+     "oficio": "385-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-02",
+     "retiro": "2026-11-16",
+     "camara": "Cámara de Diputados",
+     "oficio": "437-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-16",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "465-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-08-18",
+     "descripcion": "Cuenta del Mensaje 268-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-28",
+     "descripcion": "Oficio N°24 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-28",
+     "descripcion": "Primer informe de comisión de Seguridad Pública.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 309-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto de ley hasta las 13.30 horas del dia 23 de septiembre de 2026, en la Secretaría del Senado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Discusión general . Queda pendiente Se solicita segunda discusión y queda terminada la primera",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-23",
+     "descripcion": "Cuenta del Mensaje 342-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-23",
+     "descripcion": "Discusión general . Queda pendiente",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-29",
+     "descripcion": "Cuenta del Mensaje 343-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-29",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-29",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 370-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 385-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 437-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-09",
+     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-09",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta oficio N° 313-2026 de la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta del Mensaje 465-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18208-25",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18208-25",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18863&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 12,
+   "cambios_tipo": 4,
+   "urgencias_gobierno": 17,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Simple",
+    "desde": "2026-11-16",
+    "vence": "2026-12-16",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 30,
+    "oficio": "465-374",
+    "mixta": false
+   },
+   "dias_tramite": 210
+  },
   "18223-15": {
    "boletin": "18223-15",
    "titulo": "Establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros, hasta la entrada en vigencia de la ley N° 21.553",
@@ -8124,6 +8436,12 @@
     {
      "fecha": "2026-10-26",
      "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Oficio N°442-374. Indicación Ejecutivo",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -8370,6 +8688,12 @@
     {
      "fecha": "2026-10-26",
      "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Indicación del Ejecutivo N°442-374.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -8689,6 +9013,12 @@
     {
      "fecha": "2026-10-26",
      "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Oficio N°442-374. Indicación Ejecutivo",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -9530,6 +9860,12 @@
      "descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Oficio N°442-374. Indicación Ejecutivo",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -9841,6 +10177,62 @@
     "plazo_dias": null
    },
    "dias_tramite": 110
+  },
+  "18554-36": {
+   "boletin": "18554-36",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
+   "fecha_ingreso": "2026-08-05",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Familia, Infancia y Adolescencia.",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Familia, Infancia y Adolescencia.. Se remite el proyecto a la Corte Suprema.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Oficio N° a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Oficio N°260-26 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18554-36",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18554-36",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19236&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 103
   },
   "18574-25": {
    "boletin": "18574-25",

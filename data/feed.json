@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-16T12:29-03:00",
+ "actualizado": "2026-11-16T15:27-03:00",
  "conteos": {
-  "urgencias_vigentes": 44,
+  "urgencias_vigentes": 43,
   "discusion_inmediata": 10,
-  "vencen_7_dias": 19,
+  "vencen_7_dias": 18,
   "citaciones_7_dias": 27
  },
  "proximos_vencimientos": [
@@ -136,6 +136,26 @@
   {
    "fecha": "2026-11-16",
    "hora": "15:00",
+   "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "proyectos": [
+    {
+     "boletin": "15589-07",
+     "titulo": "Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
+     "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
+     "url": "https://urgenciaskast.cl/p/15589-07.html"
+    },
+    {
+     "boletin": "17637-07",
+     "titulo": "Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales",
+     "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
+     "url": "https://urgenciaskast.cl/p/17637-07.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:01",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "proyectos": [
@@ -233,26 +253,6 @@
   },
   {
    "fecha": "2026-11-16",
-   "hora": "15:00",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "proyectos": [
-    {
-     "boletin": "15589-07",
-     "titulo": "Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
-     "sintesis": "Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.",
-     "url": "https://urgenciaskast.cl/p/15589-07.html"
-    },
-    {
-     "boletin": "17637-07",
-     "titulo": "Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales",
-     "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
-     "url": "https://urgenciaskast.cl/p/17637-07.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-16",
    "hora": "17:00",
    "camara": "Senado",
    "organo": "Sala del Senado",
@@ -260,7 +260,7 @@
     {
      "boletin": "18702-05",
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
@@ -368,7 +368,7 @@
     {
      "boletin": "18702-05",
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Comisión Mixta lo despachó y la Cámara de Diputados lo vota en Sala.",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
