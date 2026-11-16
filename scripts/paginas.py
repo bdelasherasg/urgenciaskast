@@ -209,6 +209,60 @@ def titulo_corto(t, n=60):
     return primera if len(primera) <= n else recortar(primera, n)
 
 
+SUFIJO_TITULO = ' · Urgencias Kast'
+LIMITE_TITULO = 60
+
+
+PALABRAS_VACIAS = {'a', 'al', 'con', 'de', 'del', 'el', 'en', 'la', 'las', 'lo', 'los', 'o', 'para', 'por', 'que', 'se', 'sin', 'su', 'sus', 'un', 'una', 'y', 'e', 'u'}
+
+
+def tema_de_ficha(f, p):
+    """Tema de una ficha: primera frase de busqueda_prensa si existe; si no, la frase de síntesis; si no, el título oficial."""
+    bp = (f or {}).get('busqueda_prensa')
+    if isinstance(bp, str):
+        bp = [bp]
+    if bp and str(bp[0]).strip():
+        return re.sub(r'\s+', ' ', str(bp[0])).strip().rstrip('.'), 'busqueda_prensa'
+    sint = re.sub(r'\s+', ' ', str((f or {}).get('sintesis') or '')).strip()
+    if sint:
+        return re.split(r'(?<=[a-záéíóúñ0-9])[.,;:]\s', sint, maxsplit=1)[0].rstrip('.,;:'), 'sintesis'
+    t = re.sub(r'\s+', ' ', str((p or {}).get('titulo') or '')).strip()
+    return re.split(r'(?<=[a-záéíóúñ0-9])\.\s', t, maxsplit=1)[0].rstrip('.'), 'titulo oficial'
+
+
+def corte_palabra(t, n):
+    """Corta en un límite de palabra, sin puntos suspensivos y sin terminar en artículo o preposición."""
+    if len(t) > n:
+        t = t[:n + 1].rsplit(' ', 1)[0]
+    pal = t.rstrip(' ,;:').split(' ')
+    while len(pal) > 1 and pal[-1].lower() in PALABRAS_VACIAS:
+        pal.pop()
+    return ' '.join(pal)
+
+
+def titulo_ficha(b, f, p):
+    """Boletín N: tema · Urgencias Kast, con un máximo de 60 caracteres (el sufijo solo se agrega si el tema completo cabe con él)."""
+    tema, _ = tema_de_ficha(f, p)
+    if not tema:
+        return f'Boletín {b}{SUFIJO_TITULO}'
+    ini = f'Boletín {b}: '
+    con = LIMITE_TITULO - len(ini) - len(SUFIJO_TITULO)
+    if len(tema) <= con:
+        return ini + tema + SUFIJO_TITULO
+    return ini + corte_palabra(tema, LIMITE_TITULO - len(ini))
+
+
+def descripcion_ficha(sintesis):
+    """Frase de síntesis cortada en un límite de palabra, de 140 a 160 caracteres cuando es posible."""
+    s = re.sub(r'\s+', ' ', str(sintesis or '')).strip()
+    if len(s) <= 160:
+        return s
+    m = re.match(r'(.{139,159}?[.!?])(?=\s)', s)
+    if m:
+        return m.group(1)
+    return corte_palabra(s, 159) + '…'
+
+
 def tiene_pagina(b, urg, ag, idx):
     """Hay página de proyecto si se conocen sus datos oficiales o tiene ficha (lo mismo que construir_fichas)."""
     return b in idx or b in (ag.get('proyectos') or {}) or any(x['boletin'] == b for x in urg.get('proyectos', []))
@@ -495,7 +549,7 @@ def construir_fichas(v):
         f = idx.get(b) or {}
         titulo = f.get('sintesis') or p.get('titulo') or f'Boletín {b}'
         if f.get('sintesis'):
-            desc = recortar(f['sintesis'], 155)
+            desc = descripcion_ficha(f['sintesis'])
         else:
             urgv = (p.get('urgencia_vigente') or {}).get('tipo')
             desc = f'Boletín {b}' + (f', con urgencia {urgv.lower()}' if urgv else '') + '. Plazos, tramitación y fuentes oficiales, explicados.'
@@ -506,7 +560,7 @@ def construir_fichas(v):
                   + relacionados(b, urg, ag, idx, F, pub))
         extra = ((f'<meta property="article:published_time" content="{esc(pub)}">\n' if pub else '')
                  + ld_articulo(recortar(titulo, 110), desc, f'{SITIO}/p/{b}.html', pub or None, (F or {}).get('consultado'), migas=[('Urgencias Kast', f'{SITIO}/'), (f'Boletín {b}', f'{SITIO}/p/{b}.html')]))
-        escribir(ruta('p', f'{b}.html'), layout(cuerpo, base='../', titulo=titulo_corto(titulo) + ' · Urgencias Kast', descripcion=desc,
+        escribir(ruta('p', f'{b}.html'), layout(cuerpo, base='../', titulo=titulo_ficha(b, f, p), descripcion=desc,
                                                pagina='ficha', ruta_url=f'p/{b}.html', og_tipo='article', og_titulo=recortar(titulo, 120),
                                                attr_body=f' data-boletin="{esc(b)}"', v=v, extra_head=extra))
     print(f'Páginas por proyecto: {len(boletines)}')
