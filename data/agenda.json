@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-15T21:49-03:00",
- "desde": "2026-11-15",
- "hasta": "2026-11-28",
+ "actualizado": "2026-11-16T03:32-03:00",
+ "desde": "2026-11-16",
+ "hasta": "2026-11-29",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-15T21:49",
+   "consultado": "2026-11-16T03:32",
    "citaciones": 6,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,19 +13,19 @@
    "estado": "asistida",
    "consultado": "2026-11-11T16:56",
    "citaciones": 17,
-   "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-46: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden",
+   "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
-   "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-46"
+   "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-15T21:49",
+   "consultado": "2026-11-16T03:32",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-15T21:49",
+   "consultado": "2026-11-16T03:32",
    "sesiones": 11,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-15T21:49",
+   "consultado": "2026-11-16T03:32",
    "grupos": 10
   }
  },
@@ -1838,12 +1838,6 @@
  ],
  "probables": [
   {
-   "boletin": "14309-04",
-   "vence": "2026-11-15",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
    "boletin": "16300-07",
    "vence": "2026-11-16",
    "tipo": "Discusión inmediata",
@@ -2115,7 +2109,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2692
+   "dias_tramite": 2693
   },
   "13529-34": {
    "boletin": "13529-34",
@@ -2177,7 +2171,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2370
+   "dias_tramite": 2371
   },
   "13828-19": {
    "boletin": "13828-19",
@@ -2444,7 +2438,7 @@
     "oficio": "347-374",
     "mixta": false
    },
-   "dias_tramite": 2230
+   "dias_tramite": 2231
   },
   "13872-17": {
    "boletin": "13872-17",
@@ -2518,7 +2512,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2203
+   "dias_tramite": 2204
   },
   "14773-02": {
    "boletin": "14773-02",
@@ -2841,7 +2835,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 1776
+   "dias_tramite": 1777
   },
   "14950-07": {
    "boletin": "14950-07",
@@ -2927,7 +2921,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1656
+   "dias_tramite": 1657
   },
   "15387-12": {
    "boletin": "15387-12",
@@ -3007,7 +3001,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1852
+   "dias_tramite": 1853
   },
   "15589-07": {
    "boletin": "15589-07",
@@ -3281,7 +3275,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 1432
+   "dias_tramite": 1433
   },
   "15779-03": {
    "boletin": "15779-03",
@@ -3391,7 +3385,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1327
+   "dias_tramite": 1328
   },
   "15787-03": {
    "boletin": "15787-03",
@@ -3489,7 +3483,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1322
+   "dias_tramite": 1323
   },
   "16172-17": {
    "boletin": "16172-17",
@@ -3551,7 +3545,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1200
+   "dias_tramite": 1201
   },
   "16397-15": {
    "boletin": "16397-15",
@@ -3757,7 +3751,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 1111
+   "dias_tramite": 1112
   },
   "16552-12": {
    "boletin": "16552-12",
@@ -4241,7 +4235,7 @@
     "oficio": "410-374",
     "mixta": false
    },
-   "dias_tramite": 1040
+   "dias_tramite": 1041
   },
   "16593-06": {
    "boletin": "16593-06",
@@ -4550,7 +4544,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 1033
+   "dias_tramite": 1034
   },
   "16708-11": {
    "boletin": "16708-11",
@@ -4735,7 +4729,7 @@
     "oficio": "368-374",
     "mixta": false
    },
-   "dias_tramite": 956
+   "dias_tramite": 957
   },
   "16709-11": {
    "boletin": "16709-11",
@@ -4920,239 +4914,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 956
-  },
-  "16777-07": {
-   "boletin": "16777-07",
-   "titulo": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales",
-   "fecha_ingreso": "2024-04-23",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Suma",
-   "etapa": "Tercer trámite constitucional (Senado)",
-   "subetapa": "Discusión única",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "ingreso": "2025-11-25",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1274-373"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-01-20",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "1552-373"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-03-24",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "04-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-04-22",
-     "retiro": "2026-05-20",
-     "camara": "Cámara de Diputados",
-     "oficio": "58-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-05-20",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "113-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-06-15",
-     "retiro": "2026-07-13",
-     "camara": "Cámara de Diputados",
-     "oficio": "147-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-07-13",
-     "retiro": "2026-08-10",
-     "camara": "Cámara de Diputados",
-     "oficio": "196-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-08-10",
-     "retiro": "2026-09-07",
-     "camara": "Cámara de Diputados",
-     "oficio": "245-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-07",
-     "retiro": "2026-10-05",
-     "camara": "Cámara de Diputados",
-     "oficio": "302-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-05",
-     "retiro": "2026-10-19",
-     "camara": "Cámara de Diputados",
-     "oficio": "369-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-19",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "385-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-04-22",
-     "descripcion": "Cuenta del Mensaje 58-374 que hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-05-20",
-     "descripcion": "Cuenta del Mensaje 113-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-06-15",
-     "descripcion": "Cuenta del Mensaje 147-374 que hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-06",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (091-374). Incluye informe financiero complementario N° 148/06.07.2026.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-13",
-     "descripcion": "Cuenta del Mensaje 196-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-14",
-     "descripcion": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-07-15",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-10",
-     "descripcion": "Cuenta del Mensaje 245-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-12",
-     "descripcion": "Discusión general . Aprobado en general .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-12",
-     "descripcion": "Oficio N°21.496. Remite las indicaciones presentadas durante la discusión general en Sala.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "Cuenta del Mensaje 302-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-05",
-     "descripcion": "Cuenta del Mensaje 369-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (185-374). Incluye informe financiero complementario N° 241/06.10.2026.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta del Mensaje 385-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-19",
-     "descripcion": "Cuenta de segundo informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-26",
-     "descripcion": "La diputada Emilia Nuyado Ancapichún formula reserva de constitucionalidad.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-26",
-     "descripcion": "Discusión particular . Aprobado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-26",
-     "descripcion": "Discusión particular . Aprobado con modificaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-26",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=16777-07",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16777-07",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17381&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 7,
-   "cambios_tipo": 1,
-   "urgencias_gobierno": 9,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-10-19",
-    "vence": "2026-11-03",
-    "camara": "Cámara de Diputados",
-    "estado": "en_espera",
-    "plazo_dias": 15,
-    "oficio": "385-374",
-    "mixta": false
-   },
-   "dias_tramite": 936
+   "dias_tramite": 957
   },
   "16888-06": {
    "boletin": "16888-06",
@@ -5461,7 +5223,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 898
+   "dias_tramite": 899
   },
   "16988-06": {
    "boletin": "16988-06",
@@ -5770,7 +5532,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 853
+   "dias_tramite": 854
   },
   "17002-17": {
    "boletin": "17002-17",
@@ -5844,7 +5606,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 844
+   "dias_tramite": 845
   },
   "17049-13": {
    "boletin": "17049-13",
@@ -5996,7 +5758,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 899
+   "dias_tramite": 900
   },
   "17196-17": {
    "boletin": "17196-17",
@@ -6040,7 +5802,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 755
+   "dias_tramite": 756
   },
   "17198-17": {
    "boletin": "17198-17",
@@ -6114,7 +5876,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 755
+   "dias_tramite": 756
   },
   "17247-13": {
    "boletin": "17247-13",
@@ -6170,7 +5932,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 724
+   "dias_tramite": 725
   },
   "17337-07": {
    "boletin": "17337-07",
@@ -6268,7 +6030,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 671
+   "dias_tramite": 672
   },
   "17446-17": {
    "boletin": "17446-17",
@@ -6312,7 +6074,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 591
+   "dias_tramite": 592
   },
   "17462-11": {
    "boletin": "17462-11",
@@ -6368,7 +6130,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 599
+   "dias_tramite": 600
   },
   "17637-07": {
    "boletin": "17637-07",
@@ -6691,7 +6453,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 516
+   "dias_tramite": 517
   },
   "17709-02": {
    "boletin": "17709-02",
@@ -6753,7 +6515,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 488
+   "dias_tramite": 489
   },
   "17737-14": {
    "boletin": "17737-14",
@@ -6863,7 +6625,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 478
+   "dias_tramite": 479
   },
   "17800-11": {
    "boletin": "17800-11",
@@ -6986,7 +6748,7 @@
     "oficio": "346-374",
     "mixta": false
    },
-   "dias_tramite": 452
+   "dias_tramite": 453
   },
   "17820-09": {
    "boletin": "17820-09",
@@ -7072,7 +6834,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 439
+   "dias_tramite": 440
   },
   "17900-17": {
    "boletin": "17900-17",
@@ -7146,7 +6908,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 403
+   "dias_tramite": 404
   },
   "17981-35": {
    "boletin": "17981-35",
@@ -7286,7 +7048,7 @@
     "oficio": "407-374",
     "mixta": false
    },
-   "dias_tramite": 356
+   "dias_tramite": 357
   },
   "17999-07": {
    "boletin": "17999-07",
@@ -7342,7 +7104,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 349
+   "dias_tramite": 350
   },
   "18081-17": {
    "boletin": "18081-17",
@@ -7416,7 +7178,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 293
+   "dias_tramite": 294
   },
   "18166-24": {
    "boletin": "18166-24",
@@ -7484,7 +7246,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 221
+   "dias_tramite": 222
   },
   "18176-35": {
    "boletin": "18176-35",
@@ -7630,186 +7392,7 @@
     "oficio": "407-374",
     "mixta": false
    },
-   "dias_tramite": 215
-  },
-  "18189-14": {
-   "boletin": "18189-14",
-   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
-   "fecha_ingreso": "2026-04-15",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Suma",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Discusión general",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-05",
-     "retiro": "2026-08-17",
-     "camara": "Cámara de Diputados",
-     "oficio": "236-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-17",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "263-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-08",
-     "retiro": "2026-09-22",
-     "camara": "Senado",
-     "oficio": "308-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-22",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "334-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "376-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-27",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "414-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-04-15",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-04-20",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Cuenta del Mensaje 236-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-10",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-17",
-     "descripcion": "Cuenta del Mensaje 263-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "IF 219. Informe financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 308-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-22",
-     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18189-14",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18189-14",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18859&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 5,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 6,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-10-27",
-    "vence": "2026-11-11",
-    "camara": "Senado",
-    "estado": "vencida",
-    "plazo_dias": 15,
-    "oficio": "414-374",
-    "mixta": false
-   },
-   "dias_tramite": 214
+   "dias_tramite": 216
   },
   "18198-15": {
    "boletin": "18198-15",
@@ -7877,7 +7460,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 214
+   "dias_tramite": 215
   },
   "18205-29": {
    "boletin": "18205-29",
@@ -7933,7 +7516,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 214
+   "dias_tramite": 215
   },
   "18223-15": {
    "boletin": "18223-15",
@@ -7977,7 +7560,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 204
+   "dias_tramite": 205
   },
   "18224-18": {
    "boletin": "18224-18",
@@ -8149,7 +7732,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 202
+   "dias_tramite": 203
   },
   "18228-04": {
    "boletin": "18228-04",
@@ -8217,7 +7800,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 201
+   "dias_tramite": 202
   },
   "18246-18": {
    "boletin": "18246-18",
@@ -8395,7 +7978,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 193
+   "dias_tramite": 194
   },
   "18267-24": {
    "boletin": "18267-24",
@@ -8463,7 +8046,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 186
+   "dias_tramite": 187
   },
   "18271-07": {
    "boletin": "18271-07",
@@ -8548,7 +8131,7 @@
     "oficio": "388-374",
     "mixta": false
    },
-   "dias_tramite": 186
+   "dias_tramite": 187
   },
   "18318-19": {
    "boletin": "18318-19",
@@ -8714,7 +8297,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 166
+   "dias_tramite": 167
   },
   "18326-18": {
    "boletin": "18326-18",
@@ -8758,7 +8341,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 166
+   "dias_tramite": 167
   },
   "18329-06": {
    "boletin": "18329-06",
@@ -8880,7 +8463,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 163
+   "dias_tramite": 164
   },
   "18334-10": {
    "boletin": "18334-10",
@@ -8966,7 +8549,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 158
+   "dias_tramite": 159
   },
   "18345-13": {
    "boletin": "18345-13",
@@ -9052,7 +8635,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 160
+   "dias_tramite": 161
   },
   "18349-06": {
    "boletin": "18349-06",
@@ -9149,7 +8732,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 159
+   "dias_tramite": 160
   },
   "18378-18": {
    "boletin": "18378-18",
@@ -9381,7 +8964,7 @@
     "oficio": "430-374",
     "mixta": false
    },
-   "dias_tramite": 149
+   "dias_tramite": 150
   },
   "18415-18": {
    "boletin": "18415-18",
@@ -9553,7 +9136,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 145
+   "dias_tramite": 146
   },
   "18461-04": {
    "boletin": "18461-04",
@@ -9597,7 +9180,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 131
+   "dias_tramite": 132
   },
   "18509-35": {
    "boletin": "18509-35",
@@ -9659,7 +9242,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 117
+   "dias_tramite": 118
   },
   "18530-02": {
    "boletin": "18530-02",
@@ -9732,7 +9315,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 109
+   "dias_tramite": 110
   },
   "18532-06": {
    "boletin": "18532-06",
@@ -9842,7 +9425,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 109
+   "dias_tramite": 110
   },
   "18574-25": {
    "boletin": "18574-25",
@@ -9902,7 +9485,7 @@
     "oficio": "439-374",
     "mixta": false
    },
-   "dias_tramite": 100
+   "dias_tramite": 101
   },
   "18594-25": {
    "boletin": "18594-25",
@@ -9968,7 +9551,7 @@
     "oficio": "387-374",
     "mixta": false
    },
-   "dias_tramite": 96
+   "dias_tramite": 97
   },
   "18621-34": {
    "boletin": "18621-34",
@@ -10066,7 +9649,7 @@
     "oficio": "388-374",
     "mixta": false
    },
-   "dias_tramite": 76
+   "dias_tramite": 77
   },
   "18622-24": {
    "boletin": "18622-24",
@@ -10116,7 +9699,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 109
+   "dias_tramite": 110
   },
   "18680-15": {
    "boletin": "18680-15",
@@ -10195,7 +9778,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 73
+   "dias_tramite": 74
   },
   "18702-05": {
    "boletin": "18702-05",
@@ -10347,7 +9930,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 46
+   "dias_tramite": 47
   },
   "18729-15": {
    "boletin": "18729-15",
@@ -10413,7 +9996,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 53
+   "dias_tramite": 54
   },
   "18730-29": {
    "boletin": "18730-29",
@@ -10492,7 +10075,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 39
+   "dias_tramite": 40
   },
   "18744-15": {
    "boletin": "18744-15",
@@ -10558,7 +10141,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 48
+   "dias_tramite": 49
   },
   "18825-09": {
    "boletin": "18825-09",
@@ -10602,7 +10185,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 25
+   "dias_tramite": 26
   }
  },
  "seguidos": [
