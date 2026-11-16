@@ -13,17 +13,26 @@ import glob
 import hashlib
 import html
 import json
+import math
 import os
 import re
 import sys
+import unicodedata
 from zoneinfo import ZoneInfo
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITIO = 'https://urgenciaskast.cl'
 LOCOMUN = 'https://locomun.cl'
 # Aviso para los boletines citados que no tienen datos oficiales (mismo texto en assets/app.js).
-AVISO_SIN_DATOS = ('Puede deberse a una errata en el número de la citación o a que el proyecto aún no figura en las '
-                   'fuentes oficiales. Si se corrige, esta fila se actualiza.')
+AVISO_CAUSAS = 'Puede deberse a una errata en el número de la citación o a que el proyecto aún no figura en las fuentes oficiales.'
+AVISO_CORRECCION = 'Si se corrige, esta fila se actualiza.'
+AVISO_SIN_DATOS = AVISO_CAUSAS + ' ' + AVISO_CORRECCION
+AVISO_PROPONE_UNO = 'Por la materia citada, podría corresponder al proyecto'
+AVISO_PROPONE_VARIOS = 'Por la materia citada, podría corresponder a uno de estos proyectos:'
+AVISO_YA_CITADO = '(ya figura en esta citación)'
+AVISO_Y_OTROS = 'y otros'
+ERRATA_MINIMO = 0.5    # fracción mínima de la materia citada que explica el título del candidato (cada palabra pesa más cuanto menos títulos la usan)
+ERRATA_MAXIMO = 3      # candidatos que se muestran en la fila
 
 
 def hoy_chile():
@@ -271,6 +280,95 @@ def tiene_pagina(b, urg, ag, idx):
     return b in idx or b in (ag.get('proyectos') or {}) or any(x['boletin'] == b for x in urg.get('proyectos', []))
 
 
+# Palabras de las citaciones que no identifican la materia.
+PALABRAS_DE_CITACION = {_r[:6] for _r in ('continuar', 'discusion', 'general', 'particular', 'proyecto', 'proyectos', 'refundidos',
+                                      'relativos', 'relativo', 'relativa', 'boletin', 'boletines', 'sesion', 'votacion',
+                                      'tratar', 'seguir', 'conocer', 'analizar', 'iniciar', 'proseguir', 'mocion', 'mensaje')}
+
+
+def _raices(texto):
+    """Raíces (primeras seis letras, sin tildes) de las palabras de cinco letras o más de un texto."""
+    t = unicodedata.normalize('NFD', str(texto or '').lower())
+    t = ''.join(c for c in t if unicodedata.category(c) != 'Mn')
+    return {w[:6] for w in re.findall(r'[a-z]{5,}', t)}
+
+
+def candidatos_errata(b, urg, ag, idx):
+    """Proyectos con página cuya materia coincide con la que cita la citación del boletín b, que no tiene datos oficiales.
+
+    No usa el número: puede estar mal escrito en cualquiera de sus cifras. Compara las palabras distintivas del título
+    del candidato con la materia de las sesiones que citan a b. Incluye a los boletines ya citados en esas mismas
+    sesiones, porque el número equivocado puede ser un error de uno de ellos. Devuelve hasta ERRATA_MAXIMO candidatos,
+    del que más coincide al que menos, y cuántos más había."""
+    sesiones = [x for x in (ag.get('sesiones') or []) if b in (x.get('boletines') or [])]
+    if not sesiones:
+        return {'candidatos': [], 'mas': 0}
+    # Solo la descripción de la materia (primer párrafo): los siguientes listan invitados y otros asuntos.
+    materia = ' '.join((x.get('materias') or [''])[0] for x in sesiones)
+    materia = re.sub(r'\d{3,6}-\d{2}', ' ', materia)
+    citados = {c for x in sesiones for c in (x.get('boletines') or [])}
+    camaras = {x.get('camara') for x in sesiones}
+    ficha = {}
+    for x in urg.get('proyectos', []):
+        ficha[x['boletin']] = (x.get('titulo') or '', x.get('camara_actual') or '')
+    for k, v in (ag.get('proyectos') or {}).items():
+        ficha.setdefault(k, (v.get('titulo') or '', ''))
+    for k in idx:
+        ficha.setdefault(k, ('', ''))
+    textos = {k: (t or (idx.get(k) or {}).get('sintesis', ''), cam) for k, (t, cam) in ficha.items()}  # solo el título oficial
+    raices = {k: _raices(t) for k, (t, _) in textos.items()}
+    frecuencia = {}
+    for r in raices.values():
+        for w in r:
+            frecuencia[w] = frecuencia.get(w, 0) + 1
+    total = max(1, len(raices))
+    en_materia = _raices(materia) - PALABRAS_DE_CITACION
+    def pesar(w):
+        return math.log(total / frecuencia.get(w, 1))
+    if len(en_materia) < 3:  # materia demasiado corta (por ejemplo, «tabla de la sesión»): no hay con qué comparar
+        return {'candidatos': [], 'mas': 0}
+    de_materia = sum(pesar(w) for w in en_materia)
+    puntaje = []
+    for k, r in raices.items():
+        if k == b or not de_materia:
+            continue
+        comunes = [w for w in r if w in en_materia]
+        cobertura = sum(pesar(w) for w in comunes) / de_materia
+        if len(comunes) >= 3 and cobertura >= ERRATA_MINIMO:
+            puntaje.append((-round(cobertura, 3), 0 if textos[k][1] in camaras else 1, k))
+    puntaje.sort()
+    cand = [{'boletin': k, 'titulo': recortar(nombre_proyecto(k, urg, ag, idx), 90), 'ya_citado': k in citados}
+            for _, _, k in puntaje[:ERRATA_MAXIMO]]
+    return {'candidatos': cand, 'mas': max(0, len(puntaje) - ERRATA_MAXIMO)}
+
+
+def aviso_html(b, urg, ag, idx):
+    """Aviso de una fila con un boletín sin datos oficiales, con enlaces a los proyectos que podrían corresponder."""
+    r = candidatos_errata(b, urg, ag, idx)
+    c = r['candidatos']
+    if not c:
+        return esc(AVISO_SIN_DATOS)
+    lista = '; '.join(f'<a href="{{{{BASE}}}}p/{esc(x["boletin"])}.html">{esc(x["boletin"])}</a>, «{esc(x["titulo"])}»'
+                      + (f' {esc(AVISO_YA_CITADO)}' if x['ya_citado'] else '') for x in c)
+    if r['mas']:
+        lista += f'; {esc(AVISO_Y_OTROS)}'
+    propone = AVISO_PROPONE_UNO if len(c) == 1 and not r['mas'] else AVISO_PROPONE_VARIOS
+    return f'{esc(AVISO_CAUSAS)} {esc(propone)} {lista}. {esc(AVISO_CORRECCION)}'
+
+
+def construir_erratas(urg, ag, idx):
+    """data/erratas_citacion.json: para cada boletín citado sin datos oficiales, los proyectos que podrían corresponder
+    (lo lee assets/app.js; las tablas estáticas usan la misma función)."""
+    salida = {}
+    citados = {c for x in (ag.get('sesiones') or []) for c in (x.get('boletines') or [])}
+    for b in sorted(citados):
+        if not tiene_pagina(b, urg, ag, idx):
+            salida[b] = candidatos_errata(b, urg, ag, idx)
+    escribir(ruta('data', 'erratas_citacion.json'),
+             json.dumps({'descripcion': 'Boletines citados sin datos oficiales y proyectos que podrían corresponder según la materia citada.',
+                         'boletines': salida}, ensure_ascii=False, indent=1) + '\n')
+
+
 def relacionados(b, urg, ag, idx, F, pub):
     """Bloque visible bajo la ficha: otros proyectos de la misma comisión y fechas de publicación y actualización."""
     organos = {}
@@ -352,7 +450,7 @@ def tabla_estatica(urg, ag, idx):
                 nombre = esc(recortar(nombre_proyecto(b, urg, ag, idx), 200))
                 que = (f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{nombre}</a>' if tiene_pagina(b, urg, ag, idx) else nombre) + f' (boletín {esc(b)}{", refundido con " + esc(", ".join(otros)) if otros else ""})'
                 if not tiene_pagina(b, urg, ag, idx):
-                    que += f'. Sin datos oficiales para este número. {esc(AVISO_SIN_DATOS)}'
+                    que += f'. Sin datos oficiales para este número. {aviso_html(b, urg, ag, idx)}'
                 v = (por_b.get(b) or {}).get('urgencia_vigente') or {}
                 e = (ag.get('especiales') or {}).get(b) or {}
                 if v.get('estado') == 'vigente' and (v.get('vence') or '') >= hoy.isoformat():
@@ -392,7 +490,7 @@ def agenda_estatica(urg, ag, idx):
         li = ''.join(
             f'<li><b>{esc(x.get("hora"))}</b> {esc(x.get("camara"))}, {esc(x.get("organo"))}: '
             + '; '.join((f'<a href="{{{{BASE}}}}p/{esc(b)}.html">{esc(recortar(nombre_proyecto(b, urg, ag, idx), 160))}</a> (boletín {esc(b)})'
-                         if tiene_pagina(b, urg, ag, idx) else f'boletín {esc(b)}, sin datos oficiales para ese número. {esc(AVISO_SIN_DATOS)}') for b in x['boletines'])
+                         if tiene_pagina(b, urg, ag, idx) else f'boletín {esc(b)}, sin datos oficiales para ese número. {aviso_html(b, urg, ag, idx)}') for b in x['boletines'])
             + '</li>' for x in lista)
         partes.append(f'<section><h2>{esc(fecha_larga(f, dia=True))}</h2><ul>{li}</ul></section>')
     return '<h2 class="solo-lector">Citaciones confirmadas de las próximas dos semanas</h2>' + ''.join(partes)
@@ -711,6 +809,7 @@ def principal():
         construir_sitio(v)
     urg, ag, idx, boletines = construir_fichas(v)
     construir_feed(urg, ag, idx)
+    construir_erratas(urg, ag, idx)
     construir_mapa(boletines, idx, fechas_cambio(boletines, urg, ag))
     construir_llms()
 

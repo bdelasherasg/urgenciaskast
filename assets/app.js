@@ -7,7 +7,23 @@
   var GLO = window.UK_GLOSARIO || {};
   var BASE = document.documentElement.getAttribute('data-base') || '';
   // Aviso para los boletines citados que no tienen datos oficiales (mismo texto en scripts/paginas.py).
-  var AVISO_SIN_DATOS = 'Puede deberse a una errata en el número de la citación o a que el proyecto aún no figura en las fuentes oficiales. Si se corrige, esta fila se actualiza.';
+  var AVISO_CAUSAS = 'Puede deberse a una errata en el número de la citación o a que el proyecto aún no figura en las fuentes oficiales.';
+  var AVISO_CORRECCION = 'Si se corrige, esta fila se actualiza.';
+  var AVISO_SIN_DATOS = AVISO_CAUSAS + ' ' + AVISO_CORRECCION;
+  var AVISO_PROPONE_UNO = 'Por la materia citada, podría corresponder al proyecto';
+  var AVISO_PROPONE_VARIOS = 'Por la materia citada, podría corresponder a uno de estos proyectos:';
+  var AVISO_YA_CITADO = '(ya figura en esta citación)';
+  var AVISO_Y_OTROS = 'y otros';
+  // Proyectos que podrían corresponder a cada boletín citado sin datos (data/erratas_citacion.json, lo escribe scripts/paginas.py).
+  var ERRATAS = {};
+  function avisoSinDatos(b) {
+    var e = ERRATAS[b] || {}, c = e.candidatos || [];
+    if (!c.length) return esc(AVISO_SIN_DATOS);
+    var lista = c.map(function (x) {
+      return '<a href="' + urlFicha(x.boletin) + '">' + esc(x.boletin) + '</a>, «' + esc(x.titulo) + '»' + (x.ya_citado ? ' ' + esc(AVISO_YA_CITADO) : '');
+    }).join('; ') + (e.mas ? '; ' + esc(AVISO_Y_OTROS) : '');
+    return esc(AVISO_CAUSAS) + ' ' + esc(c.length === 1 && !e.mas ? AVISO_PROPONE_UNO : AVISO_PROPONE_VARIOS) + ' ' + lista + '. ' + esc(AVISO_CORRECCION);
+  }
   var DIA = 24 * 60 * 60 * 1000;
   var MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
   var MESES_L = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
@@ -452,7 +468,7 @@
       // El título oficial queda al pasar el cursor (y en la ficha): en la fila, solo la síntesis y el boletín.
       var oficial = f.i && f.i.sintesis && f.p && f.p.titulo ? ' title="Título oficial: ' + esc(recortar(f.p.titulo, 300)) + '"' : '';
       var titulo = f.b && href ? '<a href="' + href + '"' + oficial + '>' + esc(recortar(f.titulo, 200)) + '</a>' : '<span class="' + (f.b ? 'que-sin-pagina' : 'que-materia') + '">' + esc(recortar(f.titulo, 220)) + '</span>';
-      var bol = f.b ? '<span class="bol-num">Boletín ' + esc(f.b) + (f.otros.length ? ', refundido con ' + esc(f.otros.join(', ')) : '') + (href ? '' : ' · sin datos oficiales para este número') + '</span>' + (href ? '' : '<small class="aviso-datos">' + esc(AVISO_SIN_DATOS) + '</small>')
+      var bol = f.b ? '<span class="bol-num">Boletín ' + esc(f.b) + (f.otros.length ? ', refundido con ' + esc(f.otros.join(', ')) : '') + (href ? '' : ' · sin datos oficiales para este número') + '</span>' + (href ? '' : '<small class="aviso-datos">' + avisoSinDatos(f.b) + '</small>')
         : (f.extra ? '<span class="bol-num">' + esc(f.extra) + '</span>' : '');
       var act = f.sinEfecto ? '<span class="et-act et-sin-efecto">Sin efecto</span>'
         : f.sinSesion ? '' : (f.pasada ? (f.resultado ? '<span class="resultado">' + esc(f.resultado) + '</span>' : '<span class="sin-urg">Sin resultado informado</span>')
@@ -536,7 +552,7 @@
         var p = nom.p;
         var urg = p && p.urgencia_vigente && p.urgencia_vigente.estado === 'vigente' ? ' ' + chipUrg(p.urgencia_vigente.tipo, !probable) : '';
         var titulo = nom.sintesis || nom.oficial || 'Proyecto de ley';
-        if (!hayPagina(b, U, A, IDX)) return '<li><span class="bol">' + esc(b) + '</span>' + esc(titulo) + ' <small>(sin datos oficiales para este número de boletín). ' + esc(AVISO_SIN_DATOS) + '</small></li>';
+        if (!hayPagina(b, U, A, IDX)) return '<li><span class="bol">' + esc(b) + '</span>' + esc(titulo) + ' <small>(sin datos oficiales para este número de boletín). ' + avisoSinDatos(b) + '</small></li>';
         return '<li><a href="' + urlFicha(b) + '"><span class="bol">' + esc(b) + '</span>' + esc(recortar(titulo, 190)) + '</a>' + urg + '</li>';
       }).join('') + (s._mas ? '<li class="mas"><a href="' + BASE + 'agenda.html#d' + s._dia + '">' + plural(s._mas, 'proyecto más', 'proyectos más') + ' con plazo ese día</a></li>' : '') + '</ul>';
     } else if (s.materias && s.materias.length) {
@@ -1186,13 +1202,15 @@
     Promise.all([cargar('data/urgencias.json'), cargarOpc('data/agenda.json'), cargarOpc('data/fichas/indice.json'),
       pagina !== 'agenda' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null),
       pagina !== 'agenda' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null),
-      pagina === 'ficha' ? cargarOpc('data/presupuesto_vigente.json') : Promise.resolve(null)]).then(function (r) {
+      pagina === 'ficha' ? cargarOpc('data/presupuesto_vigente.json') : Promise.resolve(null),
+      pagina !== 'ficha' ? cargarOpc('data/erratas_citacion.json') : Promise.resolve(null)]).then(function (r) {
       var U = r[0], A = r[1], IDX = r[2] || {};
       RESULTADOS = (r[3] && r[3].resultados) || [];
       VOTACIONES = (r[4] && r[4].votaciones) || [];
       VOTOS_PARTIDA = (r[4] && r[4].por_partida) || {};
       ESPECIALES = (A && A.especiales) || {};
       LEYES_PRESUPUESTO = (r[5] && r[5].leyes) || {};
+      ERRATAS = (r[6] && r[6].boletines) || {};
       if (pagina === 'portada') { portada(U, A, IDX); loComun(); }
       else if (pagina === 'agenda') agenda(U, A, IDX);
       else ficha(U, A, IDX);
