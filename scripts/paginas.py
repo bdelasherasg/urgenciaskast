@@ -605,10 +605,49 @@ def construir_feed(urg, ag, idx):
     escribir(ruta('data', 'feed.json'), json.dumps(feed, ensure_ascii=False, indent=1) + '\n')
 
 
-def construir_mapa(boletines, idx=None):
+def huella_proyecto(b, urg, ag):
+    """Resumen de lo que, si cambia, cambia lo que ve el lector: texto de la ficha, etapa, urgencia, trámites y resultados."""
+    import hashlib
+    f = leer_json(ruta('data', 'fichas', f'{b}.json')) or {}
+    f = {k: v for k, v in f.items() if k != 'consultado'}
+    pr = next((x for x in urg.get('proyectos', []) if x['boletin'] == b), None) or (ag.get('proyectos') or {}).get(b) or {}
+    vig = pr.get('urgencia_vigente') or {}
+    datos = {'ficha': f,
+             'estado': [pr.get(k) for k in ('etapa', 'subetapa', 'estado', 'urgencia_actual')],
+             'urgencia': [vig.get(k) for k in ('tipo', 'desde', 'vence', 'estado')],
+             'urgencias': len(pr.get('urgencias') or []), 'tramites': len(pr.get('tramites') or [])}
+    return hashlib.sha1(json.dumps(datos, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:12]
+
+
+def fechas_cambio(boletines, urg, ag):
+    """Fecha real del último cambio de cada ficha, guardada en data/lastmod.json.
+    La fecha cambia solo cuando cambia la huella del proyecto; si no cambia, se conserva la anterior."""
+    arch = ruta('data', 'lastmod.json')
+    previo = leer_json(arch, {}) or {}
+    hoy = hoy_chile()
+    salida = {}
+    for b in boletines:
+        h = huella_proyecto(b, urg, ag)
+        ant = previo.get(b)
+        if ant and ant.get('h') == h:
+            salida[b] = ant
+            continue
+        f = leer_json(ruta('data', 'fichas', f'{b}.json')) or {}
+        if ant:
+            fecha = str(hoy)
+        else:
+            # Primera vez que se ve el proyecto: se parte de la fecha conocida más cercana al último cambio.
+            fecha = str(f.get('consultado') or f.get('publicado') or '')[:10]
+        salida[b] = {'h': h, 'f': fecha}
+    escribir(arch, json.dumps(salida, ensure_ascii=False, indent=0, sort_keys=True) + '\n')
+    return {b: v['f'] for b, v in salida.items()}
+
+
+def construir_mapa(boletines, idx=None, fechas=None):
     idx = idx or {}
+    fechas = fechas or {}
     fijas = ['', 'agenda.html', 'como-leer.html', 'glosario.html', 'asesoria.html', 'aportar.html', 'privacidad.html', 'analisis.html', 'analisis/falsabilidad-kast.html']
-    urls = [(f'{SITIO}/{u}', '') for u in fijas] + [(f'{SITIO}/p/{b}.html', (idx.get(b) or {}).get('publicado', '')) for b in boletines]
+    urls = [(f'{SITIO}/{u}', '') for u in fijas] + [(f'{SITIO}/p/{b}.html', fechas.get(b, '')) for b in boletines]
     escribir(ruta('sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
              + ''.join(f'  <url><loc>{u}</loc>' + (f'<lastmod>{m}</lastmod>' if m else '') + '</url>\n' for u, m in urls) + '</urlset>\n')
 
@@ -662,7 +701,7 @@ def principal():
         construir_sitio(v)
     urg, ag, idx, boletines = construir_fichas(v)
     construir_feed(urg, ag, idx)
-    construir_mapa(boletines, idx)
+    construir_mapa(boletines, idx, fechas_cambio(boletines, urg, ag))
     construir_llms()
 
 
