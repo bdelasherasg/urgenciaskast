@@ -4180,7 +4180,6 @@ Vence en 9 días · 25 nov 2026. La suma corre en el Senado desde el 10 de novie
 15 jun 2026Renueva la suma · Cámara15 días
 2 jun 2026Renueva la suma · Cámara15 días
 19 may 2026Pone urgencia suma · Cámara15 días
-- 31 ago 2026 · CámaraCuenta de primer informe de comisión. (Desarrollo social). Pasa a Hacienda.La Sala recibe el informe de la comisión.
 - 8 sep 2026 · CámaraS.E. el Presidente de la República formula indicaciones al proyecto. (165-374). Incluye informe financiero complementario N° 224/08.09.2026.
 - 22 sep 2026 · CámaraPrimer informe de comisión de Hacienda.La Comisión de Hacienda revisa las normas que afectan el gasto o los ingresos públicos.
 - 23 sep 2026 · CámaraCuenta de primer informe de comisión. (Hacienda). Queda para tabla.La Sala recibe el informe de la comisión.
@@ -4188,6 +4187,7 @@ Vence en 9 días · 25 nov 2026. La suma corre en el Senado desde el 10 de novie
 - 29 sep 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 29 sep 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Familia, Infancia y Adolescencia y a la Comisión de Hacienda en su casoLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 11 nov 2026 · SenadoPrimer informe de comisión de Familia, Infancia y Adolescencia..La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 16 nov 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 ### Para conducir la discusión de la devolución del IVA de pañales y medicamentos
 Fuentes · consultadas el 11 de noviembre de 2026
 - 1Senado, mensaje del boletín 18.255-31 (texto del proyecto)2026-05-18. Fundamentos y diseño del beneficio.
@@ -6359,7 +6359,7 @@ Ver los proyectos con urgencia
 
 URL: https://urgenciaskast.cl/p/18702-05.html
 
-Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en la CámaraCitado el 16 nov 2026
+Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en el SenadoCitado el 16 nov 2026
 Título oficialLey de Presupuestos para el Sector Público correspondiente al año 2027
 ## Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.
 Revisión pendiente · piloto de prueba
@@ -6373,8 +6373,8 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 - 5. Plazo y tramitación
 18702-05
 30 sep 2026, Cámara
-Segundo trámite, Cámara
-16 nov 2026, 17:00 · Sala del Senado
+Segundo trámite, Senado
+16 nov 2026, 17:17 · Sala del Senado
 47 días
 Análisis ampliado
 Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:
@@ -6545,7 +6545,6 @@ Bloque 5 · Hecho
 ### Plazo para despachar el Presupuesto
 La Ley de Presupuestos no lleva urgencias. La Constitución (artículo 67) da al Congreso 60 días desde que el Presidente presenta el proyecto para despacharlo; si no lo despacha a tiempo, rige el proyecto presentado.
 Vence en 13 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026».
-- 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 29 Ministerio de las Culturas, las Artes y el PatrimonioUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 - 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 31 Gobiernos RegionalesUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 20 oct 2026 · SenadoInforme de comisión Tercera Subcomisión Mixta de Presupuestos. PARTIDA 32 Ministerio de Seguridad PúblicaUna comisión con integrantes de ambas cámaras busca un acuerdo.
@@ -6553,7 +6552,8 @@ Vence en 13 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Di
 - 9 nov 2026 · SenadoInforme de comisión Especial Mixta de Presupuestos.
 - 9 nov 2026 · CámaraCuenta informe Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 - 15 nov 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
-- 16 nov 2026 · 17:00Citado: Sala del Senado, SenadoSegún la citación publicada.
+- 16 nov 2026 · SenadoCuenta de proyecto. Queda para tabla
+- 16 nov 2026 · 17:17Citado: Sala del Senado, SenadoSegún la citación publicada.
 - 17 nov 2026 · 10:00Citado: Sala del Senado, SenadoSegún la citación publicada.
 - 17 nov 2026 · 15:00Citado: Sala del Senado, SenadoSegún la citación publicada.
 - 18 nov 2026 · 10:00Citado: Sala del Senado, SenadoSegún la citación publicada.
@@ -7165,14 +7165,15 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18885-05.html
 
-Urgencias/Boletín 18885-05Discusión inmediataVence en 2 díasAhora en la CámaraCitado el 16 nov 2026
+Urgencias/Boletín 18885-05Discusión inmediataEn espera en la otra cámaraAhora en el SenadoCitado el 16 nov 2026
 Título oficialEstablece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diesel, y aliviar la carga financiera de las empresas de transporte de carga
 ## Frena las alzas de la gasolina y el diésel hasta el 3 de febrero de 2027 y alivia la carga de las empresas de transporte. Está en primer trámite en la Cámara, con discusión inmediata.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18885-05
 12 nov 2026, Cámara
-Discusión inmediata · Vence en 2 días
+Segundo trámite, Senado
+Discusión inmediata · En espera en la otra cámara
 16 nov 2026, 15:01 · Sala de la Cámara
 4 días
 El gobierno dice que la guerra en Medio Oriente subió el precio internacional del diésel cerca de 80% y el de las gasolinas cerca de 40%.1 Afirma que el mecanismo que frena esas alzas, llamado MEPCO, costó cerca de $1,4 billones al fisco entre marzo y noviembre de 2026.1
@@ -7182,15 +7183,17 @@ Afecta a quienes compran gasolina y diésel y a las empresas de transporte de ca
 El informe financiero N° 270 estima un efecto negativo en las cuentas fiscales de $172.969 millones el primer año, 2026, y de $365.905 millones el segundo, en pesos de 2026.2 Dice que se financiará con la venta de activos del Tesoro Público y que las cifras pueden variar con los precios.2
 El mensaje ingresó a la Cámara de Diputados el 12 de noviembre de 2026, con urgencia de discusión inmediata.3 Pasó a la Comisión de Hacienda.3
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene discusión inmediata, la más corta.
-Vence en 2 días · 18 nov 2026. La discusión inmediata corre en la Cámara desde el 12 de noviembre de 2026.4
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 12 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.4
 1urgencias desde marzo de 2026
 12 nov 2026Pone urgencia discusión inmediata · Cámara6 días
-- 12 nov 2026 · CámaraIngreso de proyecto. Incluye I.F. N° 270/12.11.2026.El proyecto entra al Congreso.
 - 12 nov 2026 · CámaraTexto del Mensaje.
 - 12 nov 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Hacienda.La Sala toma conocimiento del proyecto y lo envía a comisión.
 - 16 nov 2026 · CámaraIndicación sustitutiva N° 443-374
 - 16 nov 2026 · CámaraPrimer informe de comisión de Hacienda.La Comisión de Hacienda revisa las normas que afectan el gasto o los ingresos públicos.
 - 16 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+- 16 nov 2026 · CámaraDiscusión general. Aprobado en general y particular a la vez.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 16 nov 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 16 nov 2026 · SenadoCuenta de proyecto. Pasa a Comisión de HaciendaLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 16 nov 2026 · 15:01Citado: Sala de la Cámara, CámaraSegún la citación publicada.
 ### Para conducir la discusión de las alzas de los precios de la gasolina y el diésel
 - 1Mensaje N° 439-374 del Presidente de la República, boletín 18885-0512 de noviembre de 2026. Fundamentos y contenido del proyecto.

@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-16T16:39-03:00",
+ "actualizado": "2026-11-16T17:23-03:00",
  "conteos": {
-  "urgencias_vigentes": 42,
-  "discusion_inmediata": 10,
-  "vencen_7_dias": 11,
+  "urgencias_vigentes": 41,
+  "discusion_inmediata": 9,
+  "vencen_7_dias": 10,
   "citaciones_7_dias": 27
  },
  "proximos_vencimientos": [
@@ -253,20 +253,6 @@
   },
   {
    "fecha": "2026-11-16",
-   "hora": "17:00",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "proyectos": [
-    {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-16",
    "hora": "17:15",
    "camara": "Cámara de Diputados",
    "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
@@ -282,6 +268,20 @@
      "titulo": "",
      "sintesis": "",
      "url": "https://urgenciaskast.cl/p/18574-17.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "17:17",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "proyectos": [
+    {
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]
   },

@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-16T16:40-03:00",
+ "actualizado": "2026-11-16T17:24-03:00",
  "desde": "2026-11-16",
  "hasta": "2026-11-29",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T16:39",
+   "consultado": "2026-11-16T17:23",
    "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T16:39",
+   "consultado": "2026-11-16T17:24",
    "sesiones": 8,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T16:39",
+   "consultado": "2026-11-16T17:24",
    "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,8 +37,8 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T16:40",
-   "grupos": 10
+   "consultado": "2026-11-16T17:24",
+   "grupos": 11
   }
  },
  "sesiones": [
@@ -195,7 +195,7 @@
   {
    "fecha": "2026-11-16",
    "hora": "15:01",
-   "horario": "15:01 a 17:00",
+   "horario": "15:01 a 16:53",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "lugar": "",
@@ -235,7 +235,7 @@
    "clase": "Ordinaria",
    "tabla": "cargada",
    "id_camara": "4854",
-   "celebrada": false,
+   "celebrada": true,
    "puntos": [
     {
      "orden": 1,
@@ -363,8 +363,30 @@
   },
   {
    "fecha": "2026-11-16",
-   "hora": "17:00",
-   "horario": "17:00 a 20:00",
+   "hora": "17:15",
+   "horario": "17:15",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
+   "lugar": "Sala Ramón Pérez Opazo",
+   "materias": [
+    "continuar con la discusión en general de los proyectos de ley refundidos relativos a la reforma del Instituto Nacional de Derechos Humanos (boletines N° 18574-17 y 18331-17).",
+    "Para este objeto, se acordó recibir al exministro de Justicia y Derechos Humanos, Jaime Gajardo; a la directora del Centro de Derechos Humanos de la Universidad Diego Portales, Lidia Casas Becerra; a la Presidenta de la Agrupación de Familiares de Detenidos Desaparecidos, Marta Vega Alvarado y a la expresidenta de la Comisión Asesora Presidencial para el Fortalecimiento del INDH, Antonia Urrejola.",
+    "Asimismo, se acordó invitar, durante toda la tramitación de los proyectos de ley refundidos, al Ministro de Justicia y Derechos Humanos o quien designe en su representación; al Subsecretario de Derechos Humanos o quien designe en su representación; al Director del INDH, señor Yerko Ljubetic y a una representante de la Asociación de Funcionarias y Funcionarios del Instituto Nacional de Derechos Humanos, en calidad de oyente."
+   ],
+   "boletines": [
+    "18331-17",
+    "18574-17"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "17:17",
+   "horario": "17:17 a 20:00",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
@@ -395,28 +417,6 @@
    ],
    "tabla_leida": "2026-11-13T08:04",
    "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "17:15",
-   "horario": "17:15",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
-   "lugar": "Sala Ramón Pérez Opazo",
-   "materias": [
-    "continuar con la discusión en general de los proyectos de ley refundidos relativos a la reforma del Instituto Nacional de Derechos Humanos (boletines N° 18574-17 y 18331-17).",
-    "Para este objeto, se acordó recibir al exministro de Justicia y Derechos Humanos, Jaime Gajardo; a la directora del Centro de Derechos Humanos de la Universidad Diego Portales, Lidia Casas Becerra; a la Presidenta de la Agrupación de Familiares de Detenidos Desaparecidos, Marta Vega Alvarado y a la expresidenta de la Comisión Asesora Presidencial para el Fortalecimiento del INDH, Antonia Urrejola.",
-    "Asimismo, se acordó invitar, durante toda la tramitación de los proyectos de ley refundidos, al Ministro de Justicia y Derechos Humanos o quien designe en su representación; al Subsecretario de Derechos Humanos o quien designe en su representación; al Director del INDH, señor Yerko Ljubetic y a una representante de la Asociación de Funcionarias y Funcionarios del Instituto Nacional de Derechos Humanos, en calidad de oyente."
-   ],
-   "boletines": [
-    "18331-17",
-    "18574-17"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
    "actividad": "Discusión"
   },
   {
@@ -10652,16 +10652,10 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "",
    "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Cuenta de proyecto",
+   "subetapa": "Discusión única",
    "estado": "En tramitación",
    "urgencias": [],
    "tramites": [
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 17 Ministerio de Minería",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
     {
      "fecha": "2026-10-20",
      "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 18 Ministerio de Vivienda y Urbanismo",
@@ -10775,6 +10769,12 @@
      "descripcion": "Oficio de ley a Cámara Revisora .",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta de proyecto . Queda para tabla",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "enlaces": {
@@ -10785,7 +10785,7 @@
    "renovaciones": 0,
    "cambios_tipo": 0,
    "urgencias_gobierno": 0,
-   "camara_actual": "Cámara de Diputados",
+   "camara_actual": "Senado",
    "urgencia_vigente": {
     "tipo": "",
     "desde": null,
