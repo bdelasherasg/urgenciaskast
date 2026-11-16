@@ -1,0 +1,20 @@
+{
+ "descripcion": "Boletines citados sin datos oficiales y proyectos que podrían corresponder según la materia citada.",
+ "boletines": {
+  "18574-17": {
+   "candidatos": [
+    {
+     "boletin": "18754-17",
+     "titulo": "Reforma el Instituto Nacional de Derechos Humanos: reduce su Consejo de 11 a 5 miembros,…",
+     "ya_citado": false
+    },
+    {
+     "boletin": "18331-17",
+     "titulo": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su…",
+     "ya_citado": true
+    }
+   ],
+   "mas": 0
+  }
+ }
+}
