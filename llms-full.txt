@@ -6012,6 +6012,7 @@ Vence en 2 días · 18 nov 2026. La simple corre en la Cámara desde el 19 de oc
 19 oct 2026Pone urgencia simple · Cámara30 días
 - 11 ago 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 18 ago 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Seguridad CiudadanaLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 2 nov 2026 · CámaraPrimer informe de comisión de Seguridad Ciudadana.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 10 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 18 nov 2026 · 10:00Citado: Sala de la Cámara, CámaraSegún la citación publicada.
 ### Para conducir la discusión de la sanción de la extorsión territorial
@@ -6419,6 +6420,7 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 - 5. Plazo y tramitación
 18702-05
 30 sep 2026, Cámara
+Segundo trámite, Cámara
 16 nov 2026, 17:00 · Sala del Senado
 47 días
 Análisis ampliado
@@ -6482,7 +6484,7 @@ PartidaAprobadaVigente a septiembre
 Total del Gobierno Central94.808+ US$ 12.369 millones96.608+ US$ 12.551 millones
 Montos en pesos y dólares de 2026, sin ajustar por inflación: no se restan directamente de las cifras del proyecto. Cada monto suma los gastos de la partida tal como los publica la Dipres, sin consolidar: la partida Tesoro Público incluye los aportes que financian a las demás, y las transferencias entre servicios se cuentan en ambos. Por eso las partidas no suman el total, y las cifras de PresupuestoKast.cl, que sí consolidan, son menores. Fuente: Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular, publicado el 30 oct 2026.
 #### Votaciones de la Sala de la Cámara, por partida
-La Sala de la Cámara ha votado 478 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
+La Sala de la Cámara ha votado 545 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
 PartidaVotaciones
 01Presidencia de la República75 aprobadas · 2 rechazadas
 02Congreso Nacional63 aprobadas · 3 rechazadas
@@ -6517,7 +6519,7 @@ PartidaVotaciones
 31Gobiernos Regionales199 aprobadas · 10 rechazadas
 32Seguridad Pública104 aprobadas · 6 rechazadas
 50Tesoro Público2010 aprobadas · 10 rechazadas
-Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. 2 votaciones no corresponden a una partida (por ejemplo, la votación en general). Fuente: Cámara de Diputadas y Diputados, datos abiertos.
+Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. 69 votaciones no corresponden a una partida (por ejemplo, la votación en general). Fuente: Cámara de Diputadas y Diputados, datos abiertos.
 #### Para ir más a fondo
 Estas pantallas de PresupuestoKast.cl amplían lo que ve arriba:
 - Inicio: cuánto propone gastar el Ejecutivo en cada partida y cuánto cambia respecto de la ley vigente.
@@ -6590,7 +6592,6 @@ Bloque 5 · Hecho
 ### Plazo para despachar el Presupuesto
 La Ley de Presupuestos no lleva urgencias. La Constitución (artículo 67) da al Congreso 60 días desde que el Presidente presenta el proyecto para despacharlo; si no lo despacha a tiempo, rige el proyecto presentado.
 Vence en 13 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026».
-- 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 28 Servicio ElectoralUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 29 Ministerio de las Culturas, las Artes y el PatrimonioUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 - 20 oct 2026 · SenadoInforme de comisión Cuarta Subcomisión Mixta de Presupuestos. PARTIDA 31 Gobiernos RegionalesUna comisión con integrantes de ambas cámaras busca un acuerdo.
@@ -6598,6 +6599,7 @@ Vence en 13 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Di
 - 20 oct 2026 · SenadoInforme de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 50 Tesoro PublicoUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 9 nov 2026 · SenadoInforme de comisión Especial Mixta de Presupuestos.
 - 9 nov 2026 · CámaraCuenta informe Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 15 nov 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 16 nov 2026 · 17:00Citado: Sala del Senado, SenadoSegún la citación publicada.
 - 17 nov 2026 · 10:00Citado: Sala del Senado, SenadoSegún la citación publicada.
 - 17 nov 2026 · 15:00Citado: Sala del Senado, SenadoSegún la citación publicada.
@@ -7229,6 +7231,7 @@ Vence en 2 días · 18 nov 2026. La discusión inmediata corre en la Cámara des
 - 12 nov 2026 · CámaraIngreso de proyecto. Incluye I.F. N° 270/12.11.2026.El proyecto entra al Congreso.
 - 12 nov 2026 · CámaraTexto del Mensaje.
 - 12 nov 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Hacienda.La Sala toma conocimiento del proyecto y lo envía a comisión.
+- 13 nov 2026 · CámaraOficio N° 443-374. Formula indicación sustitutiva
 - 16 nov 2026 · 15:00Citado: Sala de la Cámara, CámaraSegún la citación publicada.
 ### Para conducir la discusión de las alzas de los precios de la gasolina y el diésel
 - 1Mensaje N° 439-374 del Presidente de la República, boletín 18885-0512 de noviembre de 2026. Fundamentos y contenido del proyecto.

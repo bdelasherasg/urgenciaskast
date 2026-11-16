@@ -1,20 +1,20 @@
 {
- "actualizado": "2026-11-16T03:32-03:00",
+ "actualizado": "2026-11-16T12:29-03:00",
  "desde": "2026-11-02",
  "fuente": "Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)",
  "votaciones": [
   {
    "fecha": "2026-11-13",
    "boletin": "18702-05",
-   "votaciones": 77,
-   "aprobadas": 38,
-   "rechazadas": 39,
+   "votaciones": 144,
+   "aprobadas": 68,
+   "rechazadas": 76,
    "ultima": {
-    "hora": "05:15",
+    "hora": "06:05",
     "resultado": "Rechazado",
-    "si": 55,
-    "no": 58,
-    "abstencion": 2
+    "si": 50,
+    "no": 62,
+    "abstencion": 1
    }
   },
   {
@@ -147,8 +147,8 @@
  "por_partida": {
   "18702-05": {
    "fuente": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin=18702-05",
-   "total": 478,
-   "sin_partida": 2,
+   "total": 545,
+   "sin_partida": 69,
    "partidas": {
     "01": {
      "votaciones": 7,
