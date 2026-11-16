@@ -101,6 +101,12 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "avisos_congreso": [
+    {
+      "texto": "Un oficio del 18 de marzo de 2025 que figura en este proyecto menciona en su encabezado el boletín 17368-05 y no el 16888-06. Puede ser un error de número en el documento. Esta ficha no usa ese oficio.",
+      "fecha": "2025-03-18"
+    }
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -146,7 +152,7 @@
     }
   ],
   "consultado": "2026-11-13",
-  "publicado": "2026-11-13",
-  "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "publicado": "2026-11-16",
+  "estado_revision": "aprobada",
+  "revision": "Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con lista de verificación."
 }
