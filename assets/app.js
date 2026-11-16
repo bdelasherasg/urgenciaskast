@@ -649,7 +649,7 @@
         main.innerHTML = '<div class="envoltura pagina-cabeza"><p class="eyebrow">Boletín ' + esc(b) + '</p><h1>Este proyecto no está en seguimiento</h1>' +
           '<p class="bajada">No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el ' +
           '<a href="https://portallegislativo.senado.cl/proyectos-ley?boletin=' + encodeURIComponent(b) + '" rel="noopener">sitio del Senado</a>.</p>' +
-          '<p><a class="boton" href="' + BASE + 'index.html">Ver los proyectos con urgencia</a></p></div>';
+          '<p><a class="boton" href="' + (BASE || './') + '">Ver los proyectos con urgencia</a></p></div>';
         return;
       }
       pintarFicha(b, p, F, U, A, IDX, main);
@@ -961,7 +961,7 @@
 
     main.innerHTML =
       '<section class="envoltura ficha-encabezado" aria-labelledby="titulo">' +
-      '<nav class="migas" aria-label="Ruta"><a href="' + BASE + 'index.html">Urgencias</a><span aria-hidden="true">/</span><span>Boletín ' + esc(b) + '</span></nav>' +
+      '<nav class="migas" aria-label="Ruta"><a href="' + (BASE || './') + '">Urgencias</a><span aria-hidden="true">/</span><span>Boletín ' + esc(b) + '</span></nav>' +
       '<div class="chips">' + chips + '</div>' +
       ((F && F.sintesis && p) ? '<p class="titulo-oficial"><b>Título oficial</b>' + esc(p.titulo) + '</p>' : '<p class="titulo-oficial"><b>Título oficial del proyecto</b></p>') +
       '<h1 id="titulo">' + esc(titulo) + '</h1>' +

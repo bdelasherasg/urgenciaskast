@@ -67,14 +67,14 @@ SIMBOLO = ('<svg viewBox="0 0 48 48" aria-hidden="true"><polyline points="5,41 1
            '<circle cx="23" cy="19" r="3.6" fill="#f6f0e2"/><circle cx="33" cy="25" r="3.6" fill="#f6f0e2"/>'
            '<circle cx="43" cy="6" r="4.6" fill="#f2b42a"/></svg>')
 
-NAV = [('agenda', 'agenda.html', 'Agenda'), ('urgencias', 'index.html#urgencias', 'Urgencias'),
+NAV = [('agenda', 'agenda.html', 'Agenda'), ('urgencias', '#urgencias', 'Urgencias'),
        ('analisis', 'analisis.html', 'Prueba pública'), ('como-leer', 'como-leer.html', 'Cómo leer'),
        ('glosario', 'glosario.html', 'Glosario')]
 
 
 def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og_tipo='website', og_titulo=None,
            attr_body='', v='', extra_head=''):
-    menu = ''.join(f'<a href="{base}{href}"{" aria-current=\"page\"" if clave == nav else ""}>{texto}</a>' for clave, href, texto in NAV)
+    menu = ''.join(f'<a href="{base if href.startswith('#') is False else (base or './')}{href}"{" aria-current=\"page\"" if clave == nav else ""}>{texto}</a>' for clave, href, texto in NAV)
     menu += f'<a class="destacado" href="{base}asesoria.html"{" aria-current=\"page\"" if nav == "asesoria" else ""}>Asesoría</a>'
     return f'''<!doctype html>
 <html lang="es" data-base="{base}">
@@ -117,7 +117,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <a class="saltar" href="#contenido">Ir al contenido</a>
 <header class="cabecera">
   <div class="envoltura">
-    <div class="marca"><a class="marca-logo" href="{base}index.html" aria-label="Urgencias Kast, inicio">{SIMBOLO}</a><span class="marca-textos"><a class="marca-nombre" href="{base}index.html">Urgencias Kast</a><a class="marca-firma" href="{LOCOMUN}" target="_blank" rel="noopener" title="Ir a locomun.cl (se abre en otra pestaña)">Una producción de Lo Común · Laboratorio Político y Estratégico</a></span></div>
+    <div class="marca"><a class="marca-logo" href="{base or './'}" aria-label="Urgencias Kast, inicio">{SIMBOLO}</a><span class="marca-textos"><a class="marca-nombre" href="{base or './'}">Urgencias Kast</a><a class="marca-firma" href="{LOCOMUN}" target="_blank" rel="noopener" title="Ir a locomun.cl (se abre en otra pestaña)">Una producción de Lo Común · Laboratorio Político y Estratégico</a></span></div>
     <nav class="menu" aria-label="Principal">{menu}</nav>
   </div>
 </header>
@@ -127,7 +127,7 @@ def layout(cuerpo, *, base, titulo, descripcion, pagina, nav='', ruta_url='', og
 <footer class="pie">
   <div class="envoltura">
     <div class="firma-pie">{SIMBOLO}<div><p><b style="color:var(--t-base)">Urgencias Kast</b> es una producción pública de Lo Común: Laboratorio de Relato y Producción Narrativa.</p><p>No recibe financiamiento de actores políticos. Se sostiene con aportes voluntarios.</p><p>Contenido bajo licencia <a style="display:inline" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" rel="license">CC BY-SA 4.0</a>.</p></div></div>
-    <nav aria-label="El sitio"><strong>El sitio</strong><a href="{base}agenda.html">Agenda de dos semanas</a><a href="{base}index.html#urgencias">Proyectos con urgencia</a><a href="{base}como-leer.html">Cómo leer Urgencias Kast</a><a href="{base}glosario.html">Glosario</a></nav>
+    <nav aria-label="El sitio"><strong>El sitio</strong><a href="{base}agenda.html">Agenda de dos semanas</a><a href="{base or './'}#urgencias">Proyectos con urgencia</a><a href="{base}como-leer.html">Cómo leer Urgencias Kast</a><a href="{base}glosario.html">Glosario</a></nav>
     <nav aria-label="Lo Común"><strong>Lo Común</strong><a href="{base}asesoria.html">Asesoría</a><a href="{base}analisis.html">Prueba pública</a><a href="{base}aportar.html">Aportar</a><a href="{LOCOMUN}" rel="noopener">Sitio de Lo Común</a></nav>
     <div><strong>Datos y contacto</strong><a href="{base}data/urgencias.json">Urgencias (JSON)</a><a href="{base}data/agenda.json">Agenda (JSON)</a><a href="{base}privacidad.html">Privacidad y datos personales</a><p style="margin-top:8px">Correcciones y contacto: <b data-correo style="color:var(--crema)"></b></p></div>
   </div>
