@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-17T00:55-03:00",
+ "actualizado": "2026-11-17T06:28-03:00",
  "conteos": {
   "urgencias_vigentes": 35,
   "discusion_inmediata": 3,
@@ -338,6 +338,18 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "18208-25",
+   "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia simple.",
+   "publicado": "2026-11-17",
+   "url": "https://urgenciaskast.cl/p/18208-25.html"
+  },
+  {
+   "boletin": "18554-36",
+   "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
+   "publicado": "2026-11-17",
+   "url": "https://urgenciaskast.cl/p/18554-36.html"
+  },
+  {
    "boletin": "14950-07",
    "sintesis": "Exige que el abogado del niño conozca a fondo el caso y que los peritos acrediten su especialización. La comisión del Senado lo aprobó en general, en primer trámite.",
    "publicado": "2026-11-16",
@@ -360,18 +372,6 @@
    "sintesis": "Devuelve la nacionalidad chilena a un hombre que debió renunciar a ella para nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
    "publicado": "2026-11-16",
    "url": "https://urgenciaskast.cl/p/17198-17.html"
-  },
-  {
-   "boletin": "18224-18",
-   "sintesis": "Obliga a las redes sociales a verificar la edad y a desactivar el diseño adictivo en cuentas de menores, sin prohibir el acceso. Está en votación en particular en una comisión de la Cámara.",
-   "publicado": "2026-11-16",
-   "url": "https://urgenciaskast.cl/p/18224-18.html"
-  },
-  {
-   "boletin": "18246-18",
-   "sintesis": "Prohíbe a menores de 16 años usar redes sociales y a menores de 18 las apuestas y la pornografía en línea. Está en votación en particular en una comisión de la Cámara.",
-   "publicado": "2026-11-16",
-   "url": "https://urgenciaskast.cl/p/18246-18.html"
   }
  ],
  "analisis": [

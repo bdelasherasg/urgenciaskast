@@ -1008,9 +1008,9 @@
   ]
  },
  "18208-25": {
-  "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia suma.",
+  "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia simple.",
   "nivel": "basica",
-  "publicado": "2026-11-11",
+  "publicado": "2026-11-17",
   "materia": "el juicio oral cuando el acusado no comparece",
   "revision": "pendiente",
   "busqueda_prensa": [
@@ -1593,6 +1593,20 @@
    "educación pública Chile",
    "calendario de instalación",
    "sistema de educación pública"
+  ]
+ },
+ "18554-36": {
+  "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
+  "nivel": "basica",
+  "publicado": "2026-11-17",
+  "materia": "la protección de niños abandonados en hospitales",
+  "revision": "pendiente",
+  "busqueda_prensa": [
+   "niños abandonados en hospitales",
+   "abandono de recién nacidos",
+   "guaguas abandonadas hospital",
+   "protección niños abandonados salud",
+   "aviso de abandono en 24 horas"
   ]
  },
  "18574-25": {
