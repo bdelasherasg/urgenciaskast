@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-17T13:01-03:00",
+ "actualizado": "2026-11-17T15:28-03:00",
  "conteos": {
-  "urgencias_vigentes": 34,
-  "discusion_inmediata": 3,
-  "vencen_7_dias": 4,
+  "urgencias_vigentes": 33,
+  "discusion_inmediata": 2,
+  "vencen_7_dias": 3,
   "citaciones_7_dias": 21
  },
  "proximos_vencimientos": [
@@ -16,14 +16,6 @@
    "urgencia": "Suma",
    "vence": "2026-11-17",
    "url": "https://urgenciaskast.cl/p/18434-07.html"
-  },
-  {
-   "boletin": "18623-07",
-   "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
-   "sintesis": "Posterga hasta el 15 de octubre de 2027 la ley de datos personales y amplía de tres a cinco el consejo de la Agencia. El Senado lo aprobó; ahora lo revisa la Cámara.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18623-07.html"
   },
   {
    "boletin": "18881-25",
@@ -56,6 +48,14 @@
    "urgencia": "Suma",
    "vence": "2026-11-25",
    "url": "https://urgenciaskast.cl/p/12213-07.html"
+  },
+  {
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
+   "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
+   "urgencia": "Suma",
+   "vence": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/12712-24.html"
   }
  ],
  "agenda": [
@@ -177,7 +177,7 @@
   },
   {
    "fecha": "2026-11-17",
-   "hora": "15:00",
+   "hora": "15:15",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "proyectos": [
@@ -350,6 +350,12 @@
    "url": "https://urgenciaskast.cl/p/18554-36.html"
   },
   {
+   "boletin": "18885-05",
+   "sintesis": "Pone un tope a los precios de la gasolina y el diésel hasta el 7 de abril de 2027 y mejora beneficios tributarios del transporte. La Cámara y el Senado lo aprobaron el 16 de noviembre.",
+   "publicado": "2026-11-17",
+   "url": "https://urgenciaskast.cl/p/18885-05.html"
+  },
+  {
    "boletin": "14950-07",
    "sintesis": "Exige que el abogado del niño conozca a fondo el caso y que los peritos acrediten su especialización. La comisión del Senado lo aprobó en general, en primer trámite.",
    "publicado": "2026-11-16",
@@ -366,12 +372,6 @@
    "sintesis": "Devuelve la nacionalidad chilena a una mujer que la perdió al nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
    "publicado": "2026-11-16",
    "url": "https://urgenciaskast.cl/p/17002-17.html"
-  },
-  {
-   "boletin": "17198-17",
-   "sintesis": "Devuelve la nacionalidad chilena a un hombre que debió renunciar a ella para nacionalizarse en Alemania. El Senado lo aprobó el 11 de noviembre y pasó a la Cámara.",
-   "publicado": "2026-11-16",
-   "url": "https://urgenciaskast.cl/p/17198-17.html"
   }
  ],
  "analisis": [

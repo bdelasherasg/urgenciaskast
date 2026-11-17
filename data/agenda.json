@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-17T13:02-03:00",
+ "actualizado": "2026-11-17T15:28-03:00",
  "desde": "2026-11-17",
  "hasta": "2026-11-30",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-17T13:01",
+   "consultado": "2026-11-17T15:28",
    "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-17T13:01",
+   "consultado": "2026-11-17T15:28",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-17T13:01",
+   "consultado": "2026-11-17T15:28",
    "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,8 +37,8 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-17T13:02",
-   "grupos": 10
+   "consultado": "2026-11-17T15:28",
+   "grupos": 11
   }
  },
  "sesiones": [
@@ -222,7 +222,7 @@
   {
    "fecha": "2026-11-17",
    "hora": "10:17",
-   "horario": "10:17 a 14:00",
+   "horario": "10:17 a 13:56",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
@@ -297,8 +297,8 @@
   },
   {
    "fecha": "2026-11-17",
-   "hora": "15:00",
-   "horario": "15:00 a 20:00",
+   "hora": "15:15",
+   "horario": "15:15 a 20:00",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
@@ -2505,7 +2505,7 @@
     },
     {
      "fecha": "2026-11-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -5831,7 +5831,7 @@
     },
     {
      "fecha": "2026-11-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -6101,7 +6101,7 @@
     },
     {
      "fecha": "2026-11-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -7133,7 +7133,7 @@
     },
     {
      "fecha": "2026-11-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -7403,7 +7403,7 @@
     },
     {
      "fecha": "2026-11-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
@@ -8832,7 +8832,7 @@
     },
     {
      "fecha": "2026-10-21",
-     "descripcion": "Los Comités Parlamentarios acordaron con fecha 21 de octubre de 2026, invertir el orden de las comisiones que deben conocer el proyecto de ley, de manera que sea informado primero por la Comisión de Medio Ambiente y Recursos Naturales y luego por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "descripcion": "Los Comités Parlamentarios acordaron invertir el orden de las comisiones que deben conocer el proyecto de ley, de manera que sea informado primero por la Comisión de Medio Ambiente y Recursos Naturales y, luego, por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
@@ -8844,7 +8844,7 @@
     },
     {
      "fecha": "2026-10-21",
-     "descripcion": "Oficio N° 21.675. Comunica a la Comisión de Constitución el acuerdo de los Comités Parlamentarios en orden a remitir este proyecto a dicha Comisión el, con posterioridad al informe por parte de la Comisión de Medio Ambiente y Recursos Naturales..",
+     "descripcion": "Oficio N° 21.675. Comunica a la Comisión de Constitución el acuerdo de los Comités Parlamentarios en orden a remitir este proyecto a dicha Comisión con posterioridad al informe por parte de la Comisión de Medio Ambiente y Recursos Naturales..",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
@@ -10526,6 +10526,18 @@
     {
      "fecha": "2026-09-01",
      "descripcion": "A petición de la diputada Gazmuri la Sala acordó remitir el proyecto a la Comisión de Hacienda, una vez informado por la de Cultura.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Oficio N° 21.542. Comunica a la Comisión de Hacienda, el acuerdo de la Sala en orden a remitirle el proyecto, con posterioridad al informe de la Comisión de Cultura, Artes y Comunicaciones.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-01",
+     "descripcion": "Oficio N° 21.543. Comunica a la Comisión de Cultura que este proyecto ha sido remitido a la Comisión de Hacienda, con posterioridad a su informe.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
