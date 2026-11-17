@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "boletin": "18554-36",
+  "nivel": "basica",
+  "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
+  "materia": "la protección de niños abandonados en hospitales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que un niño abandonado en un hospital sufre daños en su desarrollo si no recibe cuidado y afecto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que hoy la medida urgente para entregar al niño a otra familia dura como máximo 90 días.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que los directores de hospitales y clínicas particulares informen el abandono de un niño o niña en un plazo de 24 horas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El aviso va al Servicio de Protección Especializada de la Niñez y Adolescencia o al Tribunal de Familia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Busca que el juez prefiera confiar al niño a una familia o a un programa de acogida.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El artículo 1 agrega una frase al inciso segundo del artículo 38 de la ley 21.430, sobre derechos de la niñez y adolescencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los directores deben reportar cada seis meses la cifra de niños en esa situación al Departamento de Estadísticas e Información de Salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El resto del texto no se pudo leer, por lo que otros cambios son dato pendiente.",
+        "fuentes": [
+          "f1"
+        ],
+        "pendiente": true
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los directores de hospitales y clínicas particulares y a los niños abandonados en ellos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Senado consultó a la Corte Suprema porque una norma toca las atribuciones de los tribunales.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La senadora Astudillo presentó la moción el 5 de agosto de 2026.",
+        "fuentes": [
+          "f1",
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 11 de agosto pasó a la Comisión de Familia, Infancia y Adolescencia y se pidió el parecer de la Corte Suprema.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite en el Senado, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "niños abandonados en hospitales",
+    "abandono de recién nacidos",
+    "guaguas abandonadas hospital",
+    "protección niños abandonados salud",
+    "aviso de abandono en 24 horas"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Senado, moción del boletín 18.554-36 (texto del proyecto)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19236&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-05",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio 260/SEC/26 del Senado a la Corte Suprema (11 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36999&tipodoc=ofic",
+      "fecha": "2026-08-11",
+      "nota": "Consulta a la Corte Suprema."
+    },
+    {
+      "id": "f3",
+      "titulo": "Senado, tramitación del boletín 18.554-36",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18554",
+      "fecha": "2026-11-16",
+      "nota": "Etapa y urgencias."
+    }
+  ],
+  "consultado": "2026-11-17",
+  "publicado": "2026-11-17",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-17 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
