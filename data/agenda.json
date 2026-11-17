@@ -1,31 +1,31 @@
 {
- "actualizado": "2026-11-16T19:27-03:00",
- "desde": "2026-11-16",
- "hasta": "2026-11-29",
+ "actualizado": "2026-11-17T00:56-03:00",
+ "desde": "2026-11-17",
+ "hasta": "2026-11-30",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T19:27",
-   "citaciones": 8,
+   "consultado": "2026-11-17T00:55",
+   "citaciones": 6,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
    "estado": "asistida",
    "consultado": "2026-11-11T16:56",
-   "citaciones": 17,
+   "citaciones": 12,
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T19:27",
-   "sesiones": 8,
+   "consultado": "2026-11-17T00:55",
+   "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-16T19:27",
+   "consultado": "2026-11-17T00:55",
    "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -33,392 +33,15 @@
    "estado": "asistida",
    "tablas": 13,
    "creadas": 0,
-   "sin_tabla": 2
+   "sin_tabla": 1
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-16T19:27",
-   "grupos": 11
+   "consultado": "2026-11-17T00:56",
+   "grupos": 10
   }
  },
  "sesiones": [
-  {
-   "fecha": "2026-11-16",
-   "hora": "10:00",
-   "horario": "10:00 a 12:00",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 991,
-   "clase": "Ordinaria",
-   "tabla": "por_confirmar",
-   "id_senado": "10299",
-   "actividad": "Sala"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "14:20",
-   "horario": "14:20",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Futuro, Ciencias, Tecnología, Conocimiento e",
-   "lugar": "Sala Arturo Longton Guerrero",
-   "materias": [
-    "Innovación Continuar con la votación en particular del proyecto de ley, en primer tr ámite constitucional, con urgencia calificada de “simple”, originado en las siguientes mociones refundidas:",
-    "1) El que establece un marco integral de protección de niñas, niños y adolescentes en el uso de redes sociales (boletín N° 18224-18), de los diputados y diputadas Lorena Fries (A), Jaime Araya, Matías Fernández, Ana María Gazmuri, Andrea Macías, Luis Malla, Cristian Mella, José Montalva, Zandra Parisi y Gonzalo Winter.",
-    "2) El que protege a los menores de edad frente a la adicci ón a las nuevas tecnologías y prohíbe el acceso a redes sociales y otras plataformas (boletín N° 18246-18), de las diputadas y diputados Diego Schalper (A), Héctor Barría, Patricio Briones, Andrés Celis, Tomás Kast, Raúl Leiva, Paula Olmos, Ximena Ossandón, Macarena Santelices y Héctor Ulloa.",
-    "3) El que establece un estatuto de responsabilidad algor ítmica y protección digital de niños, niñas y adolescentes (boletín N° 18318-19), de las diputadas y diputados Daniel Manouchehri (A), Patricio Briones, Andrés Celis, Carolina Cucumides, Cristóbal Martínez, José Montalva, Daniela Serrano, Consuelo Veloso, Gonzalo Winter y Gael Yeomans.",
-    "4) El que modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales (boletín N° 18415-18), de los diputados y diputadas Sara Concha (A), Patricio Briones, Andrés Celis, Tomás Kast, José Montalva, Francesca Muñoz y Tamara Ramírez.",
-    "La Ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May y/o el Subsecretario de la Niñez, señor Marcelo Sánchez Ahumada."
-   ],
-   "boletines": [
-    "18224-18",
-    "18246-18",
-    "18318-19",
-    "18415-18"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Votación"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "14:50",
-   "horario": "14:50",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Cultura, Artes y Comunicaciones",
-   "lugar": "Sala Ramón Pérez Opazo",
-   "materias": [
-    "Continuar la discusión general del proyecto de ley, originado en moci ón del diputado señor Urruticoechea y de la diputada señora Rodríguez, que establece requisitos de elegibilidad para acceder a fondos p úblicos destinados a actividades culturales y artísticas, correspondiente al boletín N° 18622-24.",
-    "Recibir a representantes de la Academia Bibliotecaria del Instituto Nacional, con el objeto de dar a conocer el patrimonio bibliogr áfico de la institución y los trabajos de conservación preventiva, restauración y catalogación de su fondo histórico.",
-    "Se encuentran invitados la Presidenta del Directorio del Consejo Nacional de Televisión, señora Eliana Rozas Ortúzar; la Presidenta del Colegio de Periodistas de Chile, señora Rocío Alorda Zelada y el señor Cristian Antoine Faúndez, académico, periodista, historiador y gestor cultural chileno.",
-    "Se encuentran invitados representantes de la Academia Bibliotecaria del Instituto Nacional."
-   ],
-   "boletines": [
-    "18622-24"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "14:50",
-   "horario": "14:50",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Recursos Hídricos y Desertificación",
-   "lugar": "Sala N° 410",
-   "materias": [
-    "Iniciar el estudio en general del proyecto de ley, originado en moci ón de los diputados señores Daniel Bustos; Héctor Barría; Sofía González; Leandro Kunstmann; Cristian Menchaca; Javier Muñoz; Emilia Nuyado; Ignacio Urcullú; Eileen Urqueta y Guillermo Valdés, que “modifica la Ley N°19.525, que regula sistema de avaluación y drenaje en aguas lluvias, y la ley General de Urbanismo y Construcciones, para incorporar la gesti ón integral de las aguas lluvias”, boletín N°18825-09.",
-    "Para estos efectos se invitó a:",
-    "- Don Jorge Gironas, profesor asociado del Departamento de Ingenier ía Hidráulica y Ambiental de la Pontificia Universidad Católica de Chile."
-   ],
-   "boletines": [
-    "18825-09"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "14:50",
-   "horario": "14:50",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de la Familia",
-   "lugar": "Sala Octavio Jara Wolff",
-   "materias": [
-    "Continuar la discusión general del proyecto de ley, iniciado en moción de los diputados señores Irarrázaval, Urruticoechea, Celedón, Durán y Ortiz; y de las diputadas señoras Parisi, Naranjo y Olmos, que refuerza la protección integral de niños, niñas y adolescentes en procesos judiciales y establece medidas de prevención y sanción de falsos informes y denuncias, boletín N°18326-18, en primer trámite constitucional y reglamentario.",
-    "Luego de recibir las exposiciones de los invitados que se mencionan a continuación, se VOTARÁ EN GENERAL EL PROYECTO DE LEY.",
-    "1.- Se escuchará la opinión de la profesora del departamento de Derecho Privado de la Facultad de Derecho de la Universidad de Chile, se ñora Javiera Verdugo, y de la vocera de la Agrupación Girasol, madres de niños neurodivergentes contra la violencia vicaria, señora Elizabeth Coña.",
-    "2.- Para responder las consultas que quedaron pendientes de la sesi ón anterior, se invita nuevamente a los representantes de las siguientes instituciones:",
-    "La Presidenta de la Fundación Crianza Compartida, y perito judicial, señora Carolina Valenzuela;",
-    "El periodista, señor Javier Rebolledo;",
-    "La Coordinadora de Estudios y Litigio Estratégico de la Corporación Humanas, señora Jennifer Alfaro, y La Fundadora de la Fundación Resistencia Materna Chile, señora Patricia Marambio."
-   ],
-   "boletines": [
-    "18326-18"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "15:00",
-   "horario": "15:00 a 17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "lugar": "Sala N° 10 de Comisiones - Valparaíso",
-   "materias": [
-    "1.- ( Bol.N° 15589-07 ) Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
-    "2.- ( Bol.N° 17637-07 ) Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales"
-   ],
-   "boletines": [
-    "15589-07",
-    "17637-07"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "15:00",
-   "horario": "15:00 a 17:00",
-   "camara": "Senado",
-   "organo": "Comisión de Minería y Energía",
-   "lugar": "Sala 1, Valparaíso",
-   "materias": [
-    "1.- Conocer la \"Política Nacional de Salud y Seguridad en la Minería en Chile, situación actual, desafíos en prevención de accidentes y fortalecimiento de la fiscalización\".",
-    "A esta sesión fueron especialmente invitados, el Ministro de Minería; Sernageomin; Dirección del Trabajo; Instituto de Seguridad Laboral; Confederación de Trabajadores del Cobre, y Confederación Minera de Chile."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Audiencia"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "15:01",
-   "horario": "15:01 a 16:53",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "lugar": "",
-   "materias": [
-    "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diésel, y aliviar la carga financiera de las empresas de transporte de carga. Boletín Nº 18885-05.",
-    "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado. Boletín Nº 18208-25(S).",
-    "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito os deportivo. Boletines N 17981-35(S) y 18176-35(S), refundidos.",
-    "Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión os de delitos. Boletines N 18329-06 y 18349-06, refundidos.",
-    "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad. Boletín N° 16708-11(S).",
-    "Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por os incumplimiento. Boletines N 16593-06, 16888-06 y 16988-06, refundidos.",
-    "Dispone la obligación de publicar en los baños de los lugares de concurrencia de público, un aviso relativo a la prevención y denuncia de la violencia contra la mujer. Boletín N° 13529-34.",
-    "Modifica diversos cuerpos legales para prohibir y sancionar la maternidad subrogada. Boletín N° 17337-07.",
-    "Ordena la realización anual y aleatoria de controles de consumo de drogas para el personal de las fuerzas armadas y de orden y seguridad pública. Boletín N° 17709-02.",
-    "Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera. Boletín N° 18198-15."
-   ],
-   "boletines": [
-    "18885-05",
-    "18208-25",
-    "17981-35",
-    "18176-35",
-    "18329-06",
-    "18349-06",
-    "16708-11",
-    "16593-06",
-    "16888-06",
-    "16988-06",
-    "13529-34",
-    "17337-07",
-    "17709-02",
-    "18198-15",
-    "18334-10"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 94,
-   "clase": "Ordinaria",
-   "tabla": "cargada",
-   "id_camara": "4854",
-   "celebrada": true,
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del Día",
-     "texto": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diésel, y aliviar la carga financiera de las empresas de transporte de carga. Boletín Nº 18885-05.",
-     "boletines": [
-      "18885-05"
-     ],
-     "detalle": "Pendiente en C. de Hacienda · Mensaje · 1er. trámite constitucional · D. INMEDIATA (18.11.2026)",
-     "urgencia": {
-      "tipo": "Discusión inmediata",
-      "vence": "2026-11-18"
-     }
-    },
-    {
-     "orden": 2,
-     "seccion": "Orden del Día",
-     "texto": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado. Boletín Nº 18208-25(S).",
-     "boletines": [
-      "18208-25"
-     ],
-     "detalle": "Mensaje · 2º trámite constitucional · SUMA (17.11.2026) · Informante: Sra. Naveillán (Seguridad Ciudadana) · En tabla: 09.11.2026",
-     "urgencia": {
-      "tipo": "Suma",
-      "vence": "2026-11-17"
-     }
-    },
-    {
-     "orden": 3,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito os deportivo. Boletines N 17981-35(S) y 18176-35(S), refundidos.",
-     "boletines": [
-      "17981-35",
-      "18176-35"
-     ],
-     "detalle": "Mociones · 2° trámite constitucional · SIMPLE (25.11.2026) · Informante: Sra. Gazmuri (Personas Mayores y Discapacidad) · En tabla: 17.08.2026",
-     "urgencia": {
-      "tipo": "Simple",
-      "vence": "2026-11-25"
-     }
-    },
-    {
-     "orden": 4,
-     "seccion": "Orden del Día",
-     "texto": "Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión os de delitos. Boletines N 18329-06 y 18349-06, refundidos.",
-     "boletines": [
-      "18329-06",
-      "18349-06"
-     ],
-     "detalle": "Mociones · 1er. trámite constitucional · SIMPLE (27.11.2026) · Informante: Sr. Olivares (Gobierno) · En tabla: 07.09.2026",
-     "urgencia": {
-      "tipo": "Simple",
-      "vence": "2026-11-27"
-     }
-    },
-    {
-     "orden": 5,
-     "seccion": "Orden del Día",
-     "texto": "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad. Boletín N° 16708-11(S).",
-     "boletines": [
-      "16708-11"
-     ],
-     "detalle": "Moción · 2° trámite constitucional · 2° trámite reglamentario · Informante: Sr. Arroyo (Segundo informe de la C. de Salud) · En tabla: 27.10.2026"
-    },
-    {
-     "orden": 6,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por os incumplimiento. Boletines N 16593-06, 16888-06 y 16988-06, refundidos.",
-     "boletines": [
-      "16593-06",
-      "16888-06",
-      "16988-06"
-     ],
-     "detalle": "Mensaje y mociones · 1er. trámite constitucional · LOC · Informante: Sr. Bianchi (Hacienda) · Nota: rendido informe de la C. de Gobierno · En tabla: 04.05.2026"
-    },
-    {
-     "orden": 7,
-     "seccion": "Orden del Día",
-     "texto": "Dispone la obligación de publicar en los baños de los lugares de concurrencia de público, un aviso relativo a la prevención y denuncia de la violencia contra la mujer. Boletín N° 13529-34.",
-     "boletines": [
-      "13529-34"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informe de la C. de Mujeres · En tabla: 17.06.2026 · Discusión pendiente (09.09.2026)"
-    },
-    {
-     "orden": 8,
-     "seccion": "Orden del Día",
-     "texto": "Modifica diversos cuerpos legales para prohibir y sancionar la maternidad subrogada. Boletín N° 17337-07.",
-     "boletines": [
-      "17337-07"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Irarrázaval (De la Familia) · En tabla: 03.08.2026"
-    },
-    {
-     "orden": 9,
-     "seccion": "Orden del Día",
-     "texto": "Ordena la realización anual y aleatoria de controles de consumo de drogas para el personal de las fuerzas armadas y de orden y seguridad pública. Boletín N° 17709-02.",
-     "boletines": [
-      "17709-02"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Brito (Defensa) · En tabla: 17.08.2026 · Nota: la comisión rechaza la idea de legislar"
-    },
-    {
-     "orden": 10,
-     "seccion": "Orden del Día",
-     "texto": "Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera. Boletín N° 18198-15.",
-     "boletines": [
-      "18198-15"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · LOC · Informante: Sr. Guzmán (Pesca) · En tabla: 05.10.2026"
-    },
-    {
-     "orden": 11,
-     "seccion": "Orden del Día",
-     "texto": "Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria. Boletín N° 18334-10(S).",
-     "boletines": [
-      "18334-10"
-     ],
-     "detalle": "2° trámite constitucional · Informante: Sr. Venegas (RR.EE.) · En tabla: 04.11.2026"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:06",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "17:15",
-   "horario": "17:15",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
-   "lugar": "Sala Ramón Pérez Opazo",
-   "materias": [
-    "continuar con la discusión en general de los proyectos de ley refundidos relativos a la reforma del Instituto Nacional de Derechos Humanos (boletines N° 18574-17 y 18331-17).",
-    "Para este objeto, se acordó recibir al exministro de Justicia y Derechos Humanos, Jaime Gajardo; a la directora del Centro de Derechos Humanos de la Universidad Diego Portales, Lidia Casas Becerra; a la Presidenta de la Agrupación de Familiares de Detenidos Desaparecidos, Marta Vega Alvarado y a la expresidenta de la Comisión Asesora Presidencial para el Fortalecimiento del INDH, Antonia Urrejola.",
-    "Asimismo, se acordó invitar, durante toda la tramitación de los proyectos de ley refundidos, al Ministro de Justicia y Derechos Humanos o quien designe en su representación; al Subsecretario de Derechos Humanos o quien designe en su representación; al Director del INDH, señor Yerko Ljubetic y a una representante de la Asociación de Funcionarias y Funcionarios del Instituto Nacional de Derechos Humanos, en calidad de oyente."
-   ],
-   "boletines": [
-    "18331-17",
-    "18574-17"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-16",
-   "hora": "17:17",
-   "horario": "17:17 a 20:00",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 80,
-   "clase": "Especial",
-   "tabla": "cargada",
-   "id_senado": "10335",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
-     "boletines": [
-      "18702-05"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
   {
    "fecha": "2026-11-17",
    "hora": "09:00",
@@ -1309,44 +932,6 @@
  ],
  "pasadas": [
   {
-   "fecha": "2026-11-09",
-   "hora": "14:33",
-   "horario": "14:33 a 18:14",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "lugar": "",
-   "materias": [],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 89,
-   "clase": "Ordinaria",
-   "tabla": "por_confirmar",
-   "id_camara": "4849",
-   "celebrada": true,
-   "actividad": "Sala"
-  },
-  {
-   "fecha": "2026-11-09",
-   "hora": "18:30",
-   "horario": "18:30 a 19:55",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "lugar": "",
-   "materias": [],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 90,
-   "clase": "Especial",
-   "tabla": "por_confirmar",
-   "id_camara": "4850",
-   "celebrada": true,
-   "actividad": "Sala"
-  },
-  {
    "fecha": "2026-11-10",
    "hora": "14:03",
    "horario": "14:03 a 23:01",
@@ -1901,45 +1486,386 @@
    "id_camara": "4853",
    "celebrada": true,
    "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "10:00",
+   "horario": "10:00 a 12:00",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 991,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_senado": "10299",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "14:20",
+   "horario": "14:20",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Futuro, Ciencias, Tecnología, Conocimiento e",
+   "lugar": "Sala Arturo Longton Guerrero",
+   "materias": [
+    "Innovación Continuar con la votación en particular del proyecto de ley, en primer tr ámite constitucional, con urgencia calificada de “simple”, originado en las siguientes mociones refundidas:",
+    "1) El que establece un marco integral de protección de niñas, niños y adolescentes en el uso de redes sociales (boletín N° 18224-18), de los diputados y diputadas Lorena Fries (A), Jaime Araya, Matías Fernández, Ana María Gazmuri, Andrea Macías, Luis Malla, Cristian Mella, José Montalva, Zandra Parisi y Gonzalo Winter.",
+    "2) El que protege a los menores de edad frente a la adicci ón a las nuevas tecnologías y prohíbe el acceso a redes sociales y otras plataformas (boletín N° 18246-18), de las diputadas y diputados Diego Schalper (A), Héctor Barría, Patricio Briones, Andrés Celis, Tomás Kast, Raúl Leiva, Paula Olmos, Ximena Ossandón, Macarena Santelices y Héctor Ulloa.",
+    "3) El que establece un estatuto de responsabilidad algor ítmica y protección digital de niños, niñas y adolescentes (boletín N° 18318-19), de las diputadas y diputados Daniel Manouchehri (A), Patricio Briones, Andrés Celis, Carolina Cucumides, Cristóbal Martínez, José Montalva, Daniela Serrano, Consuelo Veloso, Gonzalo Winter y Gael Yeomans.",
+    "4) El que modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales (boletín N° 18415-18), de los diputados y diputadas Sara Concha (A), Patricio Briones, Andrés Celis, Tomás Kast, José Montalva, Francesca Muñoz y Tamara Ramírez.",
+    "La Ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May y/o el Subsecretario de la Niñez, señor Marcelo Sánchez Ahumada."
+   ],
+   "boletines": [
+    "18224-18",
+    "18246-18",
+    "18318-19",
+    "18415-18"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "14:50",
+   "horario": "14:50",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Cultura, Artes y Comunicaciones",
+   "lugar": "Sala Ramón Pérez Opazo",
+   "materias": [
+    "Continuar la discusión general del proyecto de ley, originado en moci ón del diputado señor Urruticoechea y de la diputada señora Rodríguez, que establece requisitos de elegibilidad para acceder a fondos p úblicos destinados a actividades culturales y artísticas, correspondiente al boletín N° 18622-24.",
+    "Recibir a representantes de la Academia Bibliotecaria del Instituto Nacional, con el objeto de dar a conocer el patrimonio bibliogr áfico de la institución y los trabajos de conservación preventiva, restauración y catalogación de su fondo histórico.",
+    "Se encuentran invitados la Presidenta del Directorio del Consejo Nacional de Televisión, señora Eliana Rozas Ortúzar; la Presidenta del Colegio de Periodistas de Chile, señora Rocío Alorda Zelada y el señor Cristian Antoine Faúndez, académico, periodista, historiador y gestor cultural chileno.",
+    "Se encuentran invitados representantes de la Academia Bibliotecaria del Instituto Nacional."
+   ],
+   "boletines": [
+    "18622-24"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "14:50",
+   "horario": "14:50",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Recursos Hídricos y Desertificación",
+   "lugar": "Sala N° 410",
+   "materias": [
+    "Iniciar el estudio en general del proyecto de ley, originado en moci ón de los diputados señores Daniel Bustos; Héctor Barría; Sofía González; Leandro Kunstmann; Cristian Menchaca; Javier Muñoz; Emilia Nuyado; Ignacio Urcullú; Eileen Urqueta y Guillermo Valdés, que “modifica la Ley N°19.525, que regula sistema de avaluación y drenaje en aguas lluvias, y la ley General de Urbanismo y Construcciones, para incorporar la gesti ón integral de las aguas lluvias”, boletín N°18825-09.",
+    "Para estos efectos se invitó a:",
+    "- Don Jorge Gironas, profesor asociado del Departamento de Ingenier ía Hidráulica y Ambiental de la Pontificia Universidad Católica de Chile."
+   ],
+   "boletines": [
+    "18825-09"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "14:50",
+   "horario": "14:50",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de la Familia",
+   "lugar": "Sala Octavio Jara Wolff",
+   "materias": [
+    "Continuar la discusión general del proyecto de ley, iniciado en moción de los diputados señores Irarrázaval, Urruticoechea, Celedón, Durán y Ortiz; y de las diputadas señoras Parisi, Naranjo y Olmos, que refuerza la protección integral de niños, niñas y adolescentes en procesos judiciales y establece medidas de prevención y sanción de falsos informes y denuncias, boletín N°18326-18, en primer trámite constitucional y reglamentario.",
+    "Luego de recibir las exposiciones de los invitados que se mencionan a continuación, se VOTARÁ EN GENERAL EL PROYECTO DE LEY.",
+    "1.- Se escuchará la opinión de la profesora del departamento de Derecho Privado de la Facultad de Derecho de la Universidad de Chile, se ñora Javiera Verdugo, y de la vocera de la Agrupación Girasol, madres de niños neurodivergentes contra la violencia vicaria, señora Elizabeth Coña.",
+    "2.- Para responder las consultas que quedaron pendientes de la sesi ón anterior, se invita nuevamente a los representantes de las siguientes instituciones:",
+    "La Presidenta de la Fundación Crianza Compartida, y perito judicial, señora Carolina Valenzuela;",
+    "El periodista, señor Javier Rebolledo;",
+    "La Coordinadora de Estudios y Litigio Estratégico de la Corporación Humanas, señora Jennifer Alfaro, y La Fundadora de la Fundación Resistencia Materna Chile, señora Patricia Marambio."
+   ],
+   "boletines": [
+    "18326-18"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "lugar": "Sala N° 10 de Comisiones - Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° 15589-07 ) Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
+    "2.- ( Bol.N° 17637-07 ) Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales"
+   ],
+   "boletines": [
+    "15589-07",
+    "17637-07"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:00",
+   "horario": "15:00 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Minería y Energía",
+   "lugar": "Sala 1, Valparaíso",
+   "materias": [
+    "1.- Conocer la \"Política Nacional de Salud y Seguridad en la Minería en Chile, situación actual, desafíos en prevención de accidentes y fortalecimiento de la fiscalización\".",
+    "A esta sesión fueron especialmente invitados, el Ministro de Minería; Sernageomin; Dirección del Trabajo; Instituto de Seguridad Laboral; Confederación de Trabajadores del Cobre, y Confederación Minera de Chile."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "15:01",
+   "horario": "15:01 a 16:53",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [
+    "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diésel, y aliviar la carga financiera de las empresas de transporte de carga. Boletín Nº 18885-05.",
+    "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado. Boletín Nº 18208-25(S).",
+    "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito os deportivo. Boletines N 17981-35(S) y 18176-35(S), refundidos.",
+    "Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión os de delitos. Boletines N 18329-06 y 18349-06, refundidos.",
+    "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad. Boletín N° 16708-11(S).",
+    "Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por os incumplimiento. Boletines N 16593-06, 16888-06 y 16988-06, refundidos.",
+    "Dispone la obligación de publicar en los baños de los lugares de concurrencia de público, un aviso relativo a la prevención y denuncia de la violencia contra la mujer. Boletín N° 13529-34.",
+    "Modifica diversos cuerpos legales para prohibir y sancionar la maternidad subrogada. Boletín N° 17337-07.",
+    "Ordena la realización anual y aleatoria de controles de consumo de drogas para el personal de las fuerzas armadas y de orden y seguridad pública. Boletín N° 17709-02.",
+    "Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera. Boletín N° 18198-15."
+   ],
+   "boletines": [
+    "18885-05",
+    "18208-25",
+    "17981-35",
+    "18176-35",
+    "18329-06",
+    "18349-06",
+    "16708-11",
+    "16593-06",
+    "16888-06",
+    "16988-06",
+    "13529-34",
+    "17337-07",
+    "17709-02",
+    "18198-15",
+    "18334-10"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 94,
+   "clase": "Ordinaria",
+   "tabla": "cargada",
+   "id_camara": "4854",
+   "celebrada": true,
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del Día",
+     "texto": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diésel, y aliviar la carga financiera de las empresas de transporte de carga. Boletín Nº 18885-05.",
+     "boletines": [
+      "18885-05"
+     ],
+     "detalle": "Pendiente en C. de Hacienda · Mensaje · 1er. trámite constitucional · D. INMEDIATA (18.11.2026)",
+     "urgencia": {
+      "tipo": "Discusión inmediata",
+      "vence": "2026-11-18"
+     }
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del Día",
+     "texto": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado. Boletín Nº 18208-25(S).",
+     "boletines": [
+      "18208-25"
+     ],
+     "detalle": "Mensaje · 2º trámite constitucional · SUMA (17.11.2026) · Informante: Sra. Naveillán (Seguridad Ciudadana) · En tabla: 09.11.2026",
+     "urgencia": {
+      "tipo": "Suma",
+      "vence": "2026-11-17"
+     }
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito os deportivo. Boletines N 17981-35(S) y 18176-35(S), refundidos.",
+     "boletines": [
+      "17981-35",
+      "18176-35"
+     ],
+     "detalle": "Mociones · 2° trámite constitucional · SIMPLE (25.11.2026) · Informante: Sra. Gazmuri (Personas Mayores y Discapacidad) · En tabla: 17.08.2026",
+     "urgencia": {
+      "tipo": "Simple",
+      "vence": "2026-11-25"
+     }
+    },
+    {
+     "orden": 4,
+     "seccion": "Orden del Día",
+     "texto": "Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión os de delitos. Boletines N 18329-06 y 18349-06, refundidos.",
+     "boletines": [
+      "18329-06",
+      "18349-06"
+     ],
+     "detalle": "Mociones · 1er. trámite constitucional · SIMPLE (27.11.2026) · Informante: Sr. Olivares (Gobierno) · En tabla: 07.09.2026",
+     "urgencia": {
+      "tipo": "Simple",
+      "vence": "2026-11-27"
+     }
+    },
+    {
+     "orden": 5,
+     "seccion": "Orden del Día",
+     "texto": "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad. Boletín N° 16708-11(S).",
+     "boletines": [
+      "16708-11"
+     ],
+     "detalle": "Moción · 2° trámite constitucional · 2° trámite reglamentario · Informante: Sr. Arroyo (Segundo informe de la C. de Salud) · En tabla: 27.10.2026"
+    },
+    {
+     "orden": 6,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por os incumplimiento. Boletines N 16593-06, 16888-06 y 16988-06, refundidos.",
+     "boletines": [
+      "16593-06",
+      "16888-06",
+      "16988-06"
+     ],
+     "detalle": "Mensaje y mociones · 1er. trámite constitucional · LOC · Informante: Sr. Bianchi (Hacienda) · Nota: rendido informe de la C. de Gobierno · En tabla: 04.05.2026"
+    },
+    {
+     "orden": 7,
+     "seccion": "Orden del Día",
+     "texto": "Dispone la obligación de publicar en los baños de los lugares de concurrencia de público, un aviso relativo a la prevención y denuncia de la violencia contra la mujer. Boletín N° 13529-34.",
+     "boletines": [
+      "13529-34"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informe de la C. de Mujeres · En tabla: 17.06.2026 · Discusión pendiente (09.09.2026)"
+    },
+    {
+     "orden": 8,
+     "seccion": "Orden del Día",
+     "texto": "Modifica diversos cuerpos legales para prohibir y sancionar la maternidad subrogada. Boletín N° 17337-07.",
+     "boletines": [
+      "17337-07"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Irarrázaval (De la Familia) · En tabla: 03.08.2026"
+    },
+    {
+     "orden": 9,
+     "seccion": "Orden del Día",
+     "texto": "Ordena la realización anual y aleatoria de controles de consumo de drogas para el personal de las fuerzas armadas y de orden y seguridad pública. Boletín N° 17709-02.",
+     "boletines": [
+      "17709-02"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Brito (Defensa) · En tabla: 17.08.2026 · Nota: la comisión rechaza la idea de legislar"
+    },
+    {
+     "orden": 10,
+     "seccion": "Orden del Día",
+     "texto": "Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera. Boletín N° 18198-15.",
+     "boletines": [
+      "18198-15"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · LOC · Informante: Sr. Guzmán (Pesca) · En tabla: 05.10.2026"
+    },
+    {
+     "orden": 11,
+     "seccion": "Orden del Día",
+     "texto": "Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria. Boletín N° 18334-10(S).",
+     "boletines": [
+      "18334-10"
+     ],
+     "detalle": "2° trámite constitucional · Informante: Sr. Venegas (RR.EE.) · En tabla: 04.11.2026"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:06",
+   "asistida": true,
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "17:15",
+   "horario": "17:15",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
+   "lugar": "Sala Ramón Pérez Opazo",
+   "materias": [
+    "continuar con la discusión en general de los proyectos de ley refundidos relativos a la reforma del Instituto Nacional de Derechos Humanos (boletines N° 18574-17 y 18331-17).",
+    "Para este objeto, se acordó recibir al exministro de Justicia y Derechos Humanos, Jaime Gajardo; a la directora del Centro de Derechos Humanos de la Universidad Diego Portales, Lidia Casas Becerra; a la Presidenta de la Agrupación de Familiares de Detenidos Desaparecidos, Marta Vega Alvarado y a la expresidenta de la Comisión Asesora Presidencial para el Fortalecimiento del INDH, Antonia Urrejola.",
+    "Asimismo, se acordó invitar, durante toda la tramitación de los proyectos de ley refundidos, al Ministro de Justicia y Derechos Humanos o quien designe en su representación; al Subsecretario de Derechos Humanos o quien designe en su representación; al Director del INDH, señor Yerko Ljubetic y a una representante de la Asociación de Funcionarias y Funcionarios del Instituto Nacional de Derechos Humanos, en calidad de oyente."
+   ],
+   "boletines": [
+    "18331-17",
+    "18574-17"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora": "17:17",
+   "horario": "17:17 a 22:05",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 80,
+   "clase": "Especial",
+   "tabla": "cargada",
+   "id_senado": "10335",
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
   }
  ],
  "probables": [
-  {
-   "boletin": "16300-07",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18211-25",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18239-36",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18314-07",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18643-05",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "18806-07",
-   "vence": "2026-11-16",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
   {
    "boletin": "18434-07",
    "vence": "2026-11-17",
@@ -2158,7 +2084,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2693
+   "dias_tramite": 2694
   },
   "13529-34": {
    "boletin": "13529-34",
@@ -2220,7 +2146,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2371
+   "dias_tramite": 2372
   },
   "13828-19": {
    "boletin": "13828-19",
@@ -2487,7 +2413,7 @@
     "oficio": "347-374",
     "mixta": false
    },
-   "dias_tramite": 2231
+   "dias_tramite": 2232
   },
   "13872-17": {
    "boletin": "13872-17",
@@ -2561,7 +2487,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2204
+   "dias_tramite": 2205
   },
   "14773-02": {
    "boletin": "14773-02",
@@ -2884,7 +2810,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 1777
+   "dias_tramite": 1778
   },
   "14950-07": {
    "boletin": "14950-07",
@@ -2970,7 +2896,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1657
+   "dias_tramite": 1658
   },
   "15387-12": {
    "boletin": "15387-12",
@@ -3050,7 +2976,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1853
+   "dias_tramite": 1854
   },
   "15589-07": {
    "boletin": "15589-07",
@@ -3324,7 +3250,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 1433
+   "dias_tramite": 1434
   },
   "15779-03": {
    "boletin": "15779-03",
@@ -3434,7 +3360,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1328
+   "dias_tramite": 1329
   },
   "15787-03": {
    "boletin": "15787-03",
@@ -3532,7 +3458,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1323
+   "dias_tramite": 1324
   },
   "16172-17": {
    "boletin": "16172-17",
@@ -3594,7 +3520,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1201
+   "dias_tramite": 1202
   },
   "16397-15": {
    "boletin": "16397-15",
@@ -3800,7 +3726,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 1112
+   "dias_tramite": 1113
   },
   "16552-12": {
    "boletin": "16552-12",
@@ -4284,7 +4210,7 @@
     "oficio": "410-374",
     "mixta": false
    },
-   "dias_tramite": 1041
+   "dias_tramite": 1042
   },
   "16593-06": {
    "boletin": "16593-06",
@@ -4593,7 +4519,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 1034
+   "dias_tramite": 1035
   },
   "16708-11": {
    "boletin": "16708-11",
@@ -4778,7 +4704,7 @@
     "oficio": "368-374",
     "mixta": false
    },
-   "dias_tramite": 957
+   "dias_tramite": 958
   },
   "16709-11": {
    "boletin": "16709-11",
@@ -4963,7 +4889,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 957
+   "dias_tramite": 958
   },
   "16777-07": {
    "boletin": "16777-07",
@@ -5195,7 +5121,7 @@
     "oficio": "385-374",
     "mixta": false
    },
-   "dias_tramite": 937
+   "dias_tramite": 938
   },
   "16888-06": {
    "boletin": "16888-06",
@@ -5504,7 +5430,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 899
+   "dias_tramite": 900
   },
   "16988-06": {
    "boletin": "16988-06",
@@ -5813,7 +5739,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 854
+   "dias_tramite": 855
   },
   "17002-17": {
    "boletin": "17002-17",
@@ -5887,7 +5813,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 845
+   "dias_tramite": 846
   },
   "17049-13": {
    "boletin": "17049-13",
@@ -6039,7 +5965,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 900
+   "dias_tramite": 901
   },
   "17196-17": {
    "boletin": "17196-17",
@@ -6083,7 +6009,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 756
+   "dias_tramite": 757
   },
   "17198-17": {
    "boletin": "17198-17",
@@ -6157,7 +6083,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 756
+   "dias_tramite": 757
   },
   "17247-13": {
    "boletin": "17247-13",
@@ -6213,7 +6139,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 725
+   "dias_tramite": 726
   },
   "17337-07": {
    "boletin": "17337-07",
@@ -6311,7 +6237,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 672
+   "dias_tramite": 673
   },
   "17446-17": {
    "boletin": "17446-17",
@@ -6355,7 +6281,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 592
+   "dias_tramite": 593
   },
   "17462-11": {
    "boletin": "17462-11",
@@ -6411,7 +6337,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 600
+   "dias_tramite": 601
   },
   "17637-07": {
    "boletin": "17637-07",
@@ -6734,7 +6660,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 517
+   "dias_tramite": 518
   },
   "17709-02": {
    "boletin": "17709-02",
@@ -6796,7 +6722,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 489
+   "dias_tramite": 490
   },
   "17737-14": {
    "boletin": "17737-14",
@@ -6906,7 +6832,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 479
+   "dias_tramite": 480
   },
   "17800-11": {
    "boletin": "17800-11",
@@ -7029,7 +6955,7 @@
     "oficio": "346-374",
     "mixta": false
    },
-   "dias_tramite": 453
+   "dias_tramite": 454
   },
   "17820-09": {
    "boletin": "17820-09",
@@ -7115,7 +7041,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 440
+   "dias_tramite": 441
   },
   "17900-17": {
    "boletin": "17900-17",
@@ -7189,7 +7115,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 404
+   "dias_tramite": 405
   },
   "17981-35": {
    "boletin": "17981-35",
@@ -7329,7 +7255,7 @@
     "oficio": "407-374",
     "mixta": false
    },
-   "dias_tramite": 357
+   "dias_tramite": 358
   },
   "17999-07": {
    "boletin": "17999-07",
@@ -7385,7 +7311,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 350
+   "dias_tramite": 351
   },
   "18081-17": {
    "boletin": "18081-17",
@@ -7459,7 +7385,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 294
+   "dias_tramite": 295
   },
   "18166-24": {
    "boletin": "18166-24",
@@ -7527,7 +7453,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 222
+   "dias_tramite": 223
   },
   "18176-35": {
    "boletin": "18176-35",
@@ -7673,7 +7599,7 @@
     "oficio": "407-374",
     "mixta": false
    },
-   "dias_tramite": 216
+   "dias_tramite": 217
   },
   "18189-14": {
    "boletin": "18189-14",
@@ -7852,7 +7778,7 @@
     "oficio": "414-374",
     "mixta": false
    },
-   "dias_tramite": 215
+   "dias_tramite": 216
   },
   "18198-15": {
    "boletin": "18198-15",
@@ -7920,7 +7846,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 215
+   "dias_tramite": 216
   },
   "18205-29": {
    "boletin": "18205-29",
@@ -7976,7 +7902,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 215
+   "dias_tramite": 216
   },
   "18208-25": {
    "boletin": "18208-25",
@@ -8250,7 +8176,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 210
+   "dias_tramite": 211
   },
   "18223-15": {
    "boletin": "18223-15",
@@ -8294,7 +8220,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 205
+   "dias_tramite": 206
   },
   "18224-18": {
    "boletin": "18224-18",
@@ -8472,7 +8398,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 203
+   "dias_tramite": 204
   },
   "18228-04": {
    "boletin": "18228-04",
@@ -8540,7 +8466,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 202
+   "dias_tramite": 203
   },
   "18246-18": {
    "boletin": "18246-18",
@@ -8724,7 +8650,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 194
+   "dias_tramite": 195
   },
   "18267-24": {
    "boletin": "18267-24",
@@ -8792,7 +8718,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 187
+   "dias_tramite": 188
   },
   "18271-07": {
    "boletin": "18271-07",
@@ -8890,7 +8816,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 187
+   "dias_tramite": 188
   },
   "18318-19": {
    "boletin": "18318-19",
@@ -9062,7 +8988,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 167
+   "dias_tramite": 168
   },
   "18326-18": {
    "boletin": "18326-18",
@@ -9106,7 +9032,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 167
+   "dias_tramite": 168
   },
   "18329-06": {
    "boletin": "18329-06",
@@ -9228,7 +9154,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 164
+   "dias_tramite": 165
   },
   "18334-10": {
    "boletin": "18334-10",
@@ -9320,7 +9246,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 159
+   "dias_tramite": 160
   },
   "18345-13": {
    "boletin": "18345-13",
@@ -9406,7 +9332,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 161
+   "dias_tramite": 162
   },
   "18349-06": {
    "boletin": "18349-06",
@@ -9503,7 +9429,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 160
+   "dias_tramite": 161
   },
   "18378-18": {
    "boletin": "18378-18",
@@ -9735,7 +9661,7 @@
     "oficio": "430-374",
     "mixta": false
    },
-   "dias_tramite": 150
+   "dias_tramite": 151
   },
   "18415-18": {
    "boletin": "18415-18",
@@ -9913,7 +9839,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 146
+   "dias_tramite": 147
   },
   "18461-04": {
    "boletin": "18461-04",
@@ -9963,7 +9889,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 132
+   "dias_tramite": 133
   },
   "18509-35": {
    "boletin": "18509-35",
@@ -10025,7 +9951,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 118
+   "dias_tramite": 119
   },
   "18530-02": {
    "boletin": "18530-02",
@@ -10098,7 +10024,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 110
+   "dias_tramite": 111
   },
   "18532-06": {
    "boletin": "18532-06",
@@ -10208,7 +10134,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 110
+   "dias_tramite": 111
   },
   "18554-36": {
    "boletin": "18554-36",
@@ -10264,7 +10190,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 103
+   "dias_tramite": 104
   },
   "18574-25": {
    "boletin": "18574-25",
@@ -10324,7 +10250,7 @@
     "oficio": "439-374",
     "mixta": false
    },
-   "dias_tramite": 101
+   "dias_tramite": 102
   },
   "18594-25": {
    "boletin": "18594-25",
@@ -10396,7 +10322,7 @@
     "oficio": "387-374",
     "mixta": false
    },
-   "dias_tramite": 97
+   "dias_tramite": 98
   },
   "18621-34": {
    "boletin": "18621-34",
@@ -10513,7 +10439,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 77
+   "dias_tramite": 78
   },
   "18622-24": {
    "boletin": "18622-24",
@@ -10563,7 +10489,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 110
+   "dias_tramite": 111
   },
   "18680-15": {
    "boletin": "18680-15",
@@ -10642,7 +10568,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 74
+   "dias_tramite": 75
   },
   "18702-05": {
    "boletin": "18702-05",
@@ -10794,7 +10720,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 47
+   "dias_tramite": 48
   },
   "18729-15": {
    "boletin": "18729-15",
@@ -10860,7 +10786,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 54
+   "dias_tramite": 55
   },
   "18730-29": {
    "boletin": "18730-29",
@@ -10939,7 +10865,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 40
+   "dias_tramite": 41
   },
   "18744-15": {
    "boletin": "18744-15",
@@ -11005,7 +10931,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 49
+   "dias_tramite": 50
   },
   "18825-09": {
    "boletin": "18825-09",
@@ -11049,7 +10975,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 26
+   "dias_tramite": 27
   }
  },
  "seguidos": [

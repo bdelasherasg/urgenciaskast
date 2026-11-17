@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-16T19:27-03:00",
- "desde": "2026-11-02",
+ "actualizado": "2026-11-17T00:56-03:00",
+ "desde": "2026-11-03",
  "fuente": "Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)",
  "votaciones": [
   {
@@ -141,20 +141,6 @@
     "si": 77,
     "no": 51,
     "abstencion": 14
-   }
-  },
-  {
-   "fecha": "2026-11-02",
-   "boletin": "18525-06",
-   "votaciones": 2,
-   "aprobadas": 2,
-   "rechazadas": 0,
-   "ultima": {
-    "hora": "19:16",
-    "resultado": "Aprobado",
-    "si": 126,
-    "no": 4,
-    "abstencion": 4
    }
   }
  ],
