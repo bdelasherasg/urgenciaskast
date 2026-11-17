@@ -2,18 +2,18 @@
   "version": 2,
   "boletin": "18885-05",
   "nivel": "basica",
-  "sintesis": "Frena las alzas de la gasolina y el diésel hasta el 3 de febrero de 2027 y alivia la carga de las empresas de transporte. Está en primer trámite en la Cámara, con discusión inmediata.",
+  "sintesis": "Pone un tope a los precios de la gasolina y el diésel hasta el 7 de abril de 2027 y mejora beneficios tributarios del transporte. La Cámara y el Senado lo aprobaron el 16 de noviembre.",
   "materia": "las alzas de los precios de la gasolina y el diésel",
   "resumen": {
     "problema": [
       {
-        "texto": "El gobierno dice que la guerra en Medio Oriente subió el precio internacional del diésel cerca de 80% y el de las gasolinas cerca de 40%.",
+        "texto": "El gobierno dice que la guerra en Medio Oriente subió el diésel cerca de 80% y las gasolinas cerca de 40%.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "Afirma que el mecanismo que frena esas alzas, llamado MEPCO, costó cerca de $1,4 billones al fisco entre marzo y noviembre de 2026.",
+        "texto": "Afirma que el mecanismo MEPCO, que frena esas alzas, costó cerca de $1,4 billones al fisco entre marzo y noviembre de 2026.",
         "fuentes": [
           "f1"
         ]
@@ -21,78 +21,76 @@
     ],
     "propone": [
       {
-        "texto": "Deja sin efecto las alzas del 11 de noviembre, de cerca de $40 por litro.",
+        "texto": "Fija un tope a los precios hasta el 7 de abril de 2027: las gasolinas no superan su nivel del 5 de noviembre de 2026 y el diésel queda $100 por litro bajo ese nivel.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "Impide nuevas alzas de precios hasta el 3 de febrero de 2027.",
+        "texto": "En 2027, los transportistas de carga recuperan 90%, 65% o 50% del impuesto al diésel, según sus ingresos.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       },
       {
-        "texto": "Sube durante 2027 el porcentaje del impuesto al diésel que recuperan los transportistas de carga, entre 31% y 80% según sus ingresos.",
+        "texto": "El reintegro de peajes de los buses rurales, interurbanos e internacionales sube de 35% a 70%.",
         "fuentes": [
-          "f1"
+          "f5",
+          "f6"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Por un tiempo, suspende el ajuste semanal de hasta 2,4% que permite la ley 20.765.",
+        "texto": "Mientras rige el tope, no se aplica el artículo 4 de la ley 20.765, que obliga a volver al precio internacional si el costo fiscal pasa de un límite.",
         "fuentes": [
-          "f1"
+          "f2",
+          "f6"
         ]
       },
       {
-        "texto": "Los montos negativos de recuperación del impuesto se descuentan de créditos futuros, sin pago inmediato.",
+        "texto": "Los montos negativos de recuperación del impuesto se descuentan de créditos futuros.",
         "fuentes": [
-          "f1"
+          "f6"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a quienes compran gasolina y diésel y a las empresas de transporte de carga.",
+        "texto": "Afecta a quienes compran combustibles y a las empresas de transporte de carga y de pasajeros, y reduce lo que recauda el fisco.",
         "fuentes": [
-          "f1"
-        ]
-      },
-      {
-        "texto": "También afecta al fisco, que recauda menos impuesto a los combustibles.",
-        "fuentes": [
-          "f1",
-          "f2"
+          "f5",
+          "f6"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "El informe financiero N° 270 estima un efecto negativo en las cuentas fiscales de $172.969 millones el primer año, 2026, y de $365.905 millones el segundo, en pesos de 2026.",
+        "texto": "El informe financiero sustitutivo N° 273 estima un efecto negativo en las cuentas fiscales de $278.827 millones el primer año, 2026, y de $523.411 millones el segundo.",
         "fuentes": [
-          "f2"
+          "f5"
         ]
       },
       {
-        "texto": "Dice que se financiará con la venta de activos del Tesoro Público y que las cifras pueden variar con los precios.",
+        "texto": "Los menores ingresos se financian con la venta de activos del Tesoro Público.",
         "fuentes": [
-          "f2"
+          "f5"
         ]
       }
     ],
     "estado": [
       {
-        "texto": "El mensaje ingresó a la Cámara de Diputados el 12 de noviembre de 2026, con urgencia de discusión inmediata.",
+        "texto": "El 16 de noviembre de 2026, la Cámara aprobó el proyecto en general y en particular a la vez.",
         "fuentes": [
-          "f3"
+          "f2",
+          "f13"
         ]
       },
       {
-        "texto": "Pasó a la Comisión de Hacienda.",
+        "texto": "Ese día el Senado lo aprobó sin modificaciones y lo devolvió a la Cámara.",
         "fuentes": [
-          "f3"
+          "f7",
+          "f13"
         ]
       }
     ]
@@ -100,38 +98,59 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
-  "fuentes": [
-    {
-      "id": "f1",
-      "titulo": "Mensaje N° 439-374 del Presidente de la República, boletín 18885-05",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19564&tipodoc=mensaje_mocion",
-      "fecha": "12 de noviembre de 2026",
-      "nota": "Fundamentos y contenido del proyecto."
-    },
-    {
-      "id": "f2",
-      "titulo": "Informe financiero N° 270 de la Dirección de Presupuestos, 12 de noviembre de 2026",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19564&tipodoc=mensaje_mocion",
-      "fecha": "12 de noviembre de 2026",
-      "nota": "Efecto fiscal y financiamiento."
-    },
-    {
-      "id": "f3",
-      "titulo": "Senado, tramitación oficial del boletín 18885-05",
-      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18885",
-      "fecha": "12 de noviembre de 2026",
-      "nota": "Etapas y urgencias."
-    }
-  ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
-  "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
   "busqueda_prensa": [
     "alzas de combustibles",
     "alzas de la gasolina",
     "precio del diésel",
     "frenar alzas de combustibles",
     "empresas de transporte de carga"
-  ]
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje N° 439-374 del Presidente de la República, boletín 18885-05",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19564&tipodoc=mensaje_mocion",
+      "fecha": "12 de noviembre de 2026",
+      "nota": "Fundamentos del proyecto y primer texto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Hacienda de la Cámara de Diputados, primer trámite",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28402&tipodoc=info",
+      "fecha": "16 de noviembre de 2026",
+      "nota": "Votación en comisión, explicación del Ejecutivo y antecedentes."
+    },
+    {
+      "id": "f5",
+      "titulo": "Indicación sustitutiva N° 443-374 con el Informe Financiero Sustitutivo N° 273",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37478&tipodoc=ofic",
+      "fecha": "16 de noviembre de 2026",
+      "nota": "Efecto fiscal y financiamiento."
+    },
+    {
+      "id": "f6",
+      "titulo": "Oficio N° 21.762 de la Cámara de Diputados al Senado, texto aprobado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37485&tipodoc=ofic",
+      "fecha": "16 de noviembre de 2026",
+      "nota": "Texto del proyecto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Oficio N° 377/SEC/26 del Senado a la Cámara de Diputados",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37486&tipodoc=ofic",
+      "fecha": "16 de noviembre de 2026",
+      "nota": "Aprobación del Senado sin cambios."
+    },
+    {
+      "id": "f13",
+      "titulo": "Senado, tramitación oficial del boletín 18885-05",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18885",
+      "fecha": "17 de noviembre de 2026",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-17",
+  "publicado": "2026-11-17",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-17 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
