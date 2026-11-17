@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18208-25",
   "nivel": "basica",
-  "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia suma.",
+  "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia simple.",
   "materia": "el juicio oral cuando el acusado no comparece",
   "resumen": {
     "problema": [
@@ -83,12 +83,25 @@
         "fuentes": [
           "f2"
         ]
+      },
+      {
+        "texto": "El 16 de noviembre de 2026 el Ejecutivo retiró la urgencia suma y presentó urgencia simple.",
+        "fuentes": [
+          "f4"
+        ]
       }
     ]
   },
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "sentencia sin comparecencia",
+    "juicio oral penal",
+    "acusado que no comparece",
+    "incomparecencia injustificada",
+    "continuidad del juicio oral"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -115,19 +128,12 @@
       "id": "f4",
       "titulo": "Senado, tramitación del boletín 18.208-25",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18208",
-      "fecha": "2026-11-10",
+      "fecha": "2026-11-16",
       "nota": "Etapa y urgencias."
     }
   ],
-  "consultado": "2026-11-11",
-  "publicado": "2026-11-11",
+  "consultado": "2026-11-17",
+  "publicado": "2026-11-17",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "sentencia sin comparecencia",
-    "juicio oral penal",
-    "acusado que no comparece",
-    "incomparecencia injustificada",
-    "continuidad del juicio oral"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-17 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
