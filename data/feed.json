@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-17T06:33-03:00",
+ "actualizado": "2026-11-17T13:01-03:00",
  "conteos": {
-  "urgencias_vigentes": 35,
+  "urgencias_vigentes": 34,
   "discusion_inmediata": 3,
   "vencen_7_dias": 4,
-  "citaciones_7_dias": 20
+  "citaciones_7_dias": 21
  },
  "proximos_vencimientos": [
   {
@@ -42,26 +42,26 @@
    "url": "https://urgenciaskast.cl/p/14782-13.html"
   },
   {
-   "boletin": "18788-07",
-   "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
-   "sintesis": "Reforma la Constitución para que los beneficios de reducción de condena de los condenados por delitos sexuales se rijan por la ley vigente al resolverlos. Está en la Comisión de Constitución de la Cámara.",
-   "urgencia": "Suma",
-   "vence": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/18788-07.html"
-  },
-  {
    "boletin": "18803-13",
    "titulo": "Modifica la ley N° 21.063, que crea el seguro para el acompañamiento de niños y niñas (Ley Sanna), para incorporar nueva contingencia y extender la cobertura en aquellas que indica",
    "sintesis": "Amplía el seguro Ley Sanna, que da permiso y subsidio a quienes acompañan a un niño con una condición grave de salud. Está en primer trámite en la Cámara, con urgencia suma.",
    "urgencia": "Suma",
    "vence": "2026-11-24",
    "url": "https://urgenciaskast.cl/p/18803-13.html"
+  },
+  {
+   "boletin": "12213-07",
+   "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
+   "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
+   "urgencia": "Suma",
+   "vence": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/12213-07.html"
   }
  ],
  "agenda": [
   {
    "fecha": "2026-11-17",
-   "hora": "10:00",
+   "hora": "10:01",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "proyectos": [
@@ -135,7 +135,7 @@
   },
   {
    "fecha": "2026-11-17",
-   "hora": "10:00",
+   "hora": "10:17",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "proyectos": [

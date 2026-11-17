@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-17T06:34-03:00",
+ "actualizado": "2026-11-17T13:02-03:00",
  "desde": "2026-11-17",
  "hasta": "2026-11-30",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-17T06:33",
-   "citaciones": 6,
+   "consultado": "2026-11-17T13:01",
+   "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-17T06:33",
+   "consultado": "2026-11-17T13:01",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-17T06:33",
+   "consultado": "2026-11-17T13:01",
    "sesiones": 12,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-17T06:34",
+   "consultado": "2026-11-17T13:02",
    "grupos": 10
   }
  },
@@ -60,8 +60,8 @@
   },
   {
    "fecha": "2026-11-17",
-   "hora": "10:00",
-   "horario": "10:00 a 14:00",
+   "hora": "10:01",
+   "horario": "10:01 a 14:00",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "lugar": "",
@@ -221,8 +221,8 @@
   },
   {
    "fecha": "2026-11-17",
-   "hora": "10:00",
-   "horario": "10:00 a 14:00",
+   "hora": "10:17",
+   "horario": "10:17 a 14:00",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
@@ -850,8 +850,26 @@
   },
   {
    "fecha": "2026-11-23",
+   "hora": "10:00",
+   "horario": "10:00 a 13:45",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "lugar": "Sala N° 3, tercer piso, Senado en SANTIAGO",
+   "materias": [
+    "1.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
+   ],
+   "boletines": [
+    "18643-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-23",
    "hora": "11:15",
-   "horario": "11:15 a 14:00",
+   "horario": "11:15 a 14:15",
    "camara": "Senado",
    "organo": "Comisión de Minería y Energía",
    "lugar": "Sala de Sesiones, Santiago",
@@ -881,11 +899,39 @@
    "organo": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
    "lugar": "Salón Pedro León Gallo Goyenechea, edificio del ex Congreso",
    "materias": [
-    "1.- Conocer la opinión de diversas autoridades, académicos, representantes de organizaciones y de experiencias comparadas, respecto de ?Derechos Humanos y Empresas?, en el marco de las iniciativas legislativas vinculadas a esta materia, correspondientes a los proyectos de ley contenidos en los boletines Nos 17.196-17 y 17.446-17."
+    "1.- Conocer la opinión de diversas autoridades, académicos, representantes de organizaciones y de experiencias comparadas, respecto de ?Derechos Humanos y Empresas?, en el marco de las iniciativas legislativas vinculadas a esta materia, correspondientes a los proyectos de ley contenidos en los boletines Nos 17.196-17 y 17.446-17.",
+    "Invitados:",
+    "La Directora de la Oficina de la OIT para el Cono Sur de América Latina, señora Yukiko Arai.",
+    "La Embajadora de la Unión Europea, señora Claudia Gintersdorfer.",
+    "La Académica e Investigadora en Derecho Internacional de los derechos humanos, de la Facultad de Derecho de la Universidad Diego Portales, señora Judith Schönsteiner.",
+    "El Representante de la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, ACNUDH, señor Hernán Vales.",
+    "El Académico de la Pontificia Universidad Católica de Valparaíso, señor Dante Pesce.",
+    "El Académico de la Pontificia Universidad Católica, señor Juan Ibáñez.",
+    "El Académico de la Universidad Chile, señor Abel Piñones.",
+    "El Académico de la Universidad Chile, señor Salvador Millaleo."
    ],
    "boletines": [
     "17196-17",
     "17446-17"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "10:30",
+   "horario": "10:30 a 12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° S 2773-05 ) Oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar como Consejero del Consejo Directivo del Administrador del Fondo Autónomo de Protección Previsional, al señor Augusto Iglesias Palau, por el período que indica",
+    "2.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
+   ],
+   "boletines": [
+    "18643-05"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
@@ -1877,12 +1923,6 @@
    "vence": "2026-11-17",
    "tipo": "Discusión inmediata",
    "camara": "Senado"
-  },
-  {
-   "boletin": "18788-07",
-   "vence": "2026-11-24",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
   },
   {
    "boletin": "18803-13",
@@ -8791,6 +8831,24 @@
      "camara": "Cámara de Diputados"
     },
     {
+     "fecha": "2026-10-21",
+     "descripcion": "Los Comités Parlamentarios acordaron con fecha 21 de octubre de 2026, invertir el orden de las comisiones que deben conocer el proyecto de ley, de manera que sea informado primero por la Comisión de Medio Ambiente y Recursos Naturales y luego por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Oficio N°21.674. Comunica a la Comisión de Medio Ambiente el acuerdo de los Comités Parlamentarios en orden a remitir este proyecto a dicha instancia, en calidad de comisión técnica, y luego a la Comisión de Constitución, Legislación, Justicia y Reglamento..",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-21",
+     "descripcion": "Oficio N° 21.675. Comunica a la Comisión de Constitución el acuerdo de los Comités Parlamentarios en orden a remitir este proyecto a dicha Comisión el, con posterioridad al informe por parte de la Comisión de Medio Ambiente y Recursos Naturales..",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
      "fecha": "2026-11-16",
      "descripcion": "Cuenta del Mensaje 465-374 que retira y hace presente la urgencia Simple",
      "etapa": "Primer trámite constitucional",
@@ -10954,6 +11012,12 @@
     {
      "fecha": "2026-10-28",
      "descripcion": "Cuenta de proyecto . Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-17",
+     "descripcion": "Cuenta, oficio de la Comisión de Recursos Hídricos y Desertificación por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto (194/24/2026). RECHAZADO.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     }
