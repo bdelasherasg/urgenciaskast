@@ -103,7 +103,7 @@
     ],
     "estado": [
       {
-        "texto": "Entre el 9 y el 13 de noviembre, la Sala de la Cámara votó 545 veces: 300 aprobaciones y 245 rechazos.",
+        "texto": "Entre el 9 y el 13 de noviembre, la Sala de la Cámara votó 561 veces: 302 aprobaciones y 259 rechazos.",
         "fuentes": [
           "f11"
         ]
@@ -115,7 +115,7 @@
         ]
       },
       {
-        "texto": "La Sala del Senado lo tiene citado del 16 al 19 de noviembre.",
+        "texto": "La Sala del Senado lo tuvo en tabla el 17 de noviembre y lo tiene citado el 18 y el 19.",
         "fuentes": [
           "f12"
         ]
@@ -270,6 +270,13 @@
       ]
     }
   },
+  "busqueda_prensa": [
+    "Ley de Presupuestos 2027",
+    "presupuesto del sector público",
+    "gasto neto de 105,8 billones",
+    "ingresos y gastos del Estado",
+    "presupuesto fiscal 2027"
+  ],
   "fuentes": [
     {
       "id": "f2",
@@ -338,8 +345,8 @@
       "id": "f12",
       "titulo": "Senado, sesiones de Sala de la legislatura 374 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
-      "fecha": "16 de noviembre de 2026",
-      "nota": "Sesiones de Sala citadas para tratar el proyecto."
+      "fecha": "18 de noviembre de 2026",
+      "nota": "Sesiones de Sala del Senado del 17 de noviembre y sesiones citadas del 18 y 19 de noviembre."
     },
     {
       "id": "f13",
@@ -349,15 +356,8 @@
       "nota": "Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026."
     }
   ],
-  "consultado": "2026-11-16",
-  "publicado": "2026-11-16",
+  "consultado": "2026-11-18",
+  "publicado": "2026-11-18",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-16 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "Ley de Presupuestos 2027",
-    "presupuesto del sector público",
-    "gasto neto de 105,8 billones",
-    "ingresos y gastos del Estado",
-    "presupuesto fiscal 2027"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-18 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
