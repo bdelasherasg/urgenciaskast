@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-18T15:28-03:00",
+ "actualizado": "2026-11-18T17:35-03:00",
  "desde": "2026-11-18",
  "hasta": "2026-12-01",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-18T15:27",
-   "citaciones": 13,
+   "consultado": "2026-11-18T17:34",
+   "citaciones": 14,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-18T15:27",
+   "consultado": "2026-11-18T17:34",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-18T15:27",
+   "consultado": "2026-11-18T17:34",
    "sesiones": 9,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-18T15:27",
+   "consultado": "2026-11-18T17:34",
    "grupos": 11
   }
  },
@@ -472,6 +472,28 @@
    "id_camara": "4857",
    "celebrada": false,
    "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
+   "horario": "15:30 a 17:00",
+   "camara": "Senado",
+   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+   "lugar": "Salón de Los Presidentes, Santiago",
+   "materias": [
+    "1.- ( Bol.N° 18559-37 ) De 15:30 a 16:00 horas:",
+    "Iniciar la discusión en general, del proyecto de ley, en primer trámite constitucional, que autoriza erigir un monumento, en la región de Arica y Parinacota, en homenaje a \"La Cantinera\", heroína de la Guerra del Pacífico (Boletín N° 18.559-37).",
+    "2.- ( Bol.N° 12712-24 ) De 16:00 a 17:00 horas:",
+    "Continuar la discusión en particular del proyecto de ley, en segundo trámite constitucional, de Patrimonio Cultural (Boletín N° 12.712-24)."
+   ],
+   "boletines": [
+    "12712-24",
+    "18559-37"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
   },
   {
    "fecha": "2026-11-24",
@@ -1854,12 +1876,6 @@
   },
   {
    "boletin": "12213-07",
-   "vence": "2026-11-25",
-   "tipo": "Suma",
-   "camara": "Senado"
-  },
-  {
-   "boletin": "12712-24",
    "vence": "2026-11-25",
    "tipo": "Suma",
    "camara": "Senado"
@@ -9679,6 +9695,50 @@
    },
    "dias_tramite": 105
   },
+  "18559-37": {
+   "boletin": "18559-37",
+   "titulo": "Autoriza erigir un monumento, en la región de Arica y Parinacota, en homenaje a \"La Cantinera\", heroína de la Guerra del Pacífico",
+   "fecha_ingreso": "2026-08-10",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-08-10",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18559-37",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18559-37",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19249&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 100
+  },
   "18574-25": {
    "boletin": "18574-25",
    "titulo": "Modifica el Código Penal para tipificar supuestos de tenencia de armas cortantes o punzantes en establecimientos penitenciarios",
@@ -10301,30 +10361,6 @@
    "tramites": [
     {
      "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 22 Ministerio Secretaría General de la Presidencia de la República",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos .  PARTIDA 23 Ministerio Público",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos .  PARTIDA 24 Ministerio de Energía",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 25 Ministerio del Medio Ambiente",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
      "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos .  PARTIDA 26 Ministerio del Deporte",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
@@ -10416,6 +10452,30 @@
     {
      "fecha": "2026-11-17",
      "descripcion": "El Ejecutivo hizo reserva de constitucionalidad respecto de la ind 13",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad por el rechazo de la ind 253",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad respecto del rechazo de la ind 253",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad por el rechazo de la ind 39",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad respecto de la ind 7",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }

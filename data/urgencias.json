@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T15:27-03:00",
+ "actualizado": "2026-11-18T17:34-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -31,7 +31,7 @@
    "camara_origen": "Senado",
    "urgencia_actual": "Discusión inmediata",
    "etapa": "Segundo trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
+   "subetapa": "Oficio modificaciones a Cámara de Origen",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -742,6 +742,12 @@
     {
      "fecha": "2026-11-18",
      "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "Discusión general . Aprobado en general y particular con modificaciones .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     },
@@ -16389,6 +16395,6 @@
    "dias_tramite": 1142
   }
  ],
- "errores_de_consulta": 7,
+ "errores_de_consulta": 10,
  "conservados_sin_respuesta": 0
 }

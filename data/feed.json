@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-18T15:27-03:00",
+ "actualizado": "2026-11-18T17:34-03:00",
  "conteos": {
   "urgencias_vigentes": 42,
   "discusion_inmediata": 5,
   "vencen_7_dias": 8,
-  "citaciones_7_dias": 14
+  "citaciones_7_dias": 15
  },
  "proximos_vencimientos": [
   {
@@ -264,6 +264,26 @@
    ]
   },
   {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
+   "camara": "Senado",
+   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+   "proyectos": [
+    {
+     "boletin": "12712-24",
+     "titulo": "Ley de Patrimonio Cultural",
+     "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
+     "url": "https://urgenciaskast.cl/p/12712-24.html"
+    },
+    {
+     "boletin": "18559-37",
+     "titulo": "Autoriza erigir un monumento, en la región de Arica y Parinacota, en homenaje a \"La Cantinera\", heroína de la Guerra del Pacífico",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18559-37.html"
+    }
+   ]
+  },
+  {
    "fecha": "2026-11-24",
    "hora": "10:00",
    "camara": "Senado",
@@ -288,20 +308,6 @@
      "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
      "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
      "url": "https://urgenciaskast.cl/p/18643-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "11:15",
-   "camara": "Senado",
-   "organo": "Comisión de Familia, Infancia y Adolescencia",
-   "proyectos": [
-    {
-     "boletin": "18554-36",
-     "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
-     "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
-     "url": "https://urgenciaskast.cl/p/18554-36.html"
     }
    ]
   }
