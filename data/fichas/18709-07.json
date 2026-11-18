@@ -93,6 +93,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "Servicio de Acceso a la Justicia",
+    "Defensoría de Víctimas",
+    "implementación regional del servicio",
+    "acceso a la justicia Chile",
+    "entrada en operación regional"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -130,15 +137,8 @@
       "nota": "Efectos fiscales."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-18",
+  "publicado": "2026-11-18",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "Servicio de Acceso a la Justicia",
-    "Defensoría de Víctimas",
-    "implementación regional del servicio",
-    "acceso a la justicia Chile",
-    "entrada en operación regional"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-18 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
