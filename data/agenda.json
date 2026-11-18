@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-18T06:34-03:00",
+ "actualizado": "2026-11-18T08:44-03:00",
  "desde": "2026-11-18",
  "hasta": "2026-12-01",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-18T06:34",
+   "consultado": "2026-11-18T08:43",
    "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-18T06:34",
-   "sesiones": 5,
+   "consultado": "2026-11-18T08:44",
+   "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-18T06:34",
+   "consultado": "2026-11-18T08:44",
    "sesiones": 10,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -33,11 +33,11 @@
    "estado": "asistida",
    "tablas": 11,
    "creadas": 2,
-   "sin_tabla": 1
+   "sin_tabla": 2
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-18T06:34",
+   "consultado": "2026-11-18T08:44",
    "grupos": 10
   }
  },
@@ -453,6 +453,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "17:00",
+   "horario": "17:00 a 19:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 97,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4857",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-24",
