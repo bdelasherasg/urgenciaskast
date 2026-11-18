@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-18T14:26-03:00",
+ "actualizado": "2026-11-18T15:28-03:00",
  "desde": "2026-11-18",
  "hasta": "2026-12-01",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-18T14:26",
+   "consultado": "2026-11-18T15:27",
    "citaciones": 13,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-18T14:26",
+   "consultado": "2026-11-18T15:27",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-18T14:26",
+   "consultado": "2026-11-18T15:27",
    "sesiones": 9,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-18T14:26",
+   "consultado": "2026-11-18T15:27",
    "grupos": 11
   }
  },
@@ -45,7 +45,7 @@
   {
    "fecha": "2026-11-18",
    "hora": "10:00",
-   "horario": "10:00 a 14:00",
+   "horario": "10:00 a 14:56",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "lugar": "",
@@ -82,7 +82,7 @@
    "clase": "Ordinaria",
    "tabla": "cargada",
    "id_camara": "4856",
-   "celebrada": false,
+   "celebrada": true,
    "puntos": [
     {
      "orden": 1,
@@ -297,8 +297,8 @@
   },
   {
    "fecha": "2026-11-18",
-   "hora": "15:00",
-   "horario": "15:00 a 20:00",
+   "hora": "15:16",
+   "horario": "15:16 a 20:00",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "lugar": "",
@@ -456,8 +456,8 @@
   },
   {
    "fecha": "2026-11-23",
-   "hora": "17:00",
-   "horario": "17:00 a 19:00",
+   "hora": "15:30",
+   "horario": "15:30 a 17:30",
    "camara": "Cámara de Diputados",
    "organo": "Sala de la Cámara",
    "lugar": "",
@@ -1817,10 +1817,34 @@
  ],
  "probables": [
   {
+   "boletin": "14309-04",
+   "vence": "2026-11-23",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "16743-04",
+   "vence": "2026-11-23",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18211-25",
+   "vence": "2026-11-24",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
    "boletin": "18286-03",
    "vence": "2026-11-24",
    "tipo": "Discusión inmediata",
    "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18314-07",
+   "vence": "2026-11-24",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
   },
   {
    "boletin": "18803-13",

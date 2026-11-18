@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-18T14:26-03:00",
+ "actualizado": "2026-11-18T15:27-03:00",
  "conteos": {
-  "urgencias_vigentes": 35,
-  "discusion_inmediata": 2,
-  "vencen_7_dias": 3,
+  "urgencias_vigentes": 42,
+  "discusion_inmediata": 5,
+  "vencen_7_dias": 8,
   "citaciones_7_dias": 14
  },
  "proximos_vencimientos": [
@@ -18,6 +18,30 @@
    "url": "https://urgenciaskast.cl/p/14782-13.html"
   },
   {
+   "boletin": "14309-04",
+   "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
+   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
+   "urgencia": "Suma",
+   "vence": "2026-11-23",
+   "url": "https://urgenciaskast.cl/p/14309-04.html"
+  },
+  {
+   "boletin": "16743-04",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
+   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
+   "urgencia": "Suma",
+   "vence": "2026-11-23",
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
+  },
+  {
+   "boletin": "18211-25",
+   "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
+   "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-24",
+   "url": "https://urgenciaskast.cl/p/18211-25.html"
+  },
+  {
    "boletin": "18286-03",
    "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
    "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con suma urgencia.",
@@ -26,36 +50,12 @@
    "url": "https://urgenciaskast.cl/p/18286-03.html"
   },
   {
-   "boletin": "18803-13",
-   "titulo": "Modifica la ley N° 21.063, que crea el seguro para el acompañamiento de niños y niñas (Ley Sanna), para incorporar nueva contingencia y extender la cobertura en aquellas que indica",
-   "sintesis": "Amplía el seguro Ley Sanna, que da permiso y subsidio a quienes acompañan a un niño con una condición grave de salud. Está en primer trámite en la Cámara, con urgencia suma.",
-   "urgencia": "Suma",
+   "boletin": "18314-07",
+   "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
+   "sintesis": "Reforma la Constitución para que la ley fije entre cinco y sesenta días la detención de extranjeros con expulsión administrativa. La Cámara la rechazó y el gobierno insiste en el Senado.",
+   "urgencia": "Discusión inmediata",
    "vence": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/18803-13.html"
-  },
-  {
-   "boletin": "12213-07",
-   "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
-   "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
-   "urgencia": "Suma",
-   "vence": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/12213-07.html"
-  },
-  {
-   "boletin": "12712-24",
-   "titulo": "Ley de Patrimonio Cultural",
-   "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
-   "urgencia": "Suma",
-   "vence": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/12712-24.html"
-  },
-  {
-   "boletin": "15047-11",
-   "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
-   "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
-   "urgencia": "Suma",
-   "vence": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/15047-11.html"
+   "url": "https://urgenciaskast.cl/p/18314-07.html"
   }
  ],
  "agenda": [
@@ -203,7 +203,7 @@
   },
   {
    "fecha": "2026-11-18",
-   "hora": "15:00",
+   "hora": "15:16",
    "camara": "Senado",
    "organo": "Sala del Senado",
    "proyectos": [
@@ -308,6 +308,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "18420-25",
+   "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
+   "publicado": "2026-11-18",
+   "url": "https://urgenciaskast.cl/p/18420-25.html"
+  },
+  {
    "boletin": "18702-05",
    "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
    "publicado": "2026-11-18",
@@ -336,12 +342,6 @@
    "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
    "publicado": "2026-11-17",
    "url": "https://urgenciaskast.cl/p/18554-36.html"
-  },
-  {
-   "boletin": "14950-07",
-   "sintesis": "Exige que el abogado del niño conozca a fondo el caso y que los peritos acrediten su especialización. La comisión del Senado lo aprobó en general, en primer trámite.",
-   "publicado": "2026-11-16",
-   "url": "https://urgenciaskast.cl/p/14950-07.html"
   }
  ],
  "analisis": [
