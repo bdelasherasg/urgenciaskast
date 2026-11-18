@@ -63,9 +63,10 @@
     ],
     "costo": [
       {
-        "texto": "No hay informe financiero entre los documentos revisados. Su costo fiscal queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
       }
     ],
     "estado": [
@@ -92,6 +93,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "seguridad portuaria",
+    "puertos y crimen organizado",
+    "agravantes en puertos",
+    "crimen organizado portuario",
+    "obligaciones para puertos"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -116,14 +124,7 @@
     }
   ],
   "consultado": "2026-11-11",
-  "publicado": "2026-11-11",
+  "publicado": "2026-11-18",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "seguridad portuaria",
-    "puertos y crimen organizado",
-    "agravantes en puertos",
-    "crimen organizado portuario",
-    "obligaciones para puertos"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-18 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
