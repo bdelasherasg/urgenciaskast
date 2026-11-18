@@ -1,510 +1,47 @@
 {
- "actualizado": "2026-11-17T22:00-03:00",
- "desde": "2026-11-17",
- "hasta": "2026-11-30",
+ "actualizado": "2026-11-18T06:29-03:00",
+ "desde": "2026-11-18",
+ "hasta": "2026-12-01",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-17T21:59",
-   "citaciones": 9,
+   "consultado": "2026-11-18T06:28",
+   "citaciones": 8,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
    "estado": "asistida",
    "consultado": "2026-11-11T16:56",
-   "citaciones": 12,
+   "citaciones": 3,
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-17T22:00",
-   "sesiones": 6,
+   "consultado": "2026-11-18T06:28",
+   "sesiones": 5,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-17T22:00",
-   "sesiones": 12,
+   "consultado": "2026-11-18T06:28",
+   "sesiones": 10,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
   "tabla_sala": {
    "estado": "asistida",
-   "tablas": 13,
-   "creadas": 0,
+   "tablas": 11,
+   "creadas": 2,
    "sin_tabla": 1
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-17T22:00",
-   "grupos": 11
+   "consultado": "2026-11-18T06:29",
+   "grupos": 10
   }
  },
  "sesiones": [
-  {
-   "fecha": "2026-11-17",
-   "hora": "09:00",
-   "horario": "09:00 a 10:00",
-   "camara": "Senado",
-   "organo": "Comisión de Hacienda",
-   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
-   "materias": [
-    "1.- Informe de Estabilidad Financiera (IEF) del Banco Central de Chile."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Otra"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "10:01",
-   "horario": "10:01 a 13:33",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "lugar": "",
-   "materias": [
-    "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica. Boletín N° 18623-07(S).",
-    "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias. Boletín Nº 18576-06.",
-    "Fortalece el ejercicio de la responsabilidad parental. Boletín N° 18378-18.",
-    "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros. Boletín N° 16397-15.",
-    "Modifica la ley N° 21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros. Boletín N° 15387-12.",
-    "Sobre protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y las neurotecnologías. Boletín N° 13828-19(S).",
-    "Modifica la ley Nº 20.027, que establece normas para el financiamiento de estudios de educación superior, en materia de cobro de las deudas del Crédito con Aval del Estado. Boletín N° 18228-04.",
-    "Modifica el Código del Trabajo para extender la duración del permiso postnatal parental. Boletín N° 17049-13.",
-    "Modifica la ley N° 19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para restringir las causales de reconocimiento de la calidad de indígena. Boletín N° 16172-17.",
-    "Reconoce al fútbol amateur como actividad de interés público y establece normas sobre prevención de la violencia, seguridad, responsabilidad y transparencia en esa actividad. Boletín N° 18205-29."
-   ],
-   "boletines": [
-    "18623-07",
-    "18576-06",
-    "18378-18",
-    "16397-15",
-    "15387-12",
-    "13828-19",
-    "18228-04",
-    "17049-13",
-    "16172-17",
-    "18205-29",
-    "12760-29"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 95,
-   "clase": "Ordinaria",
-   "tabla": "cargada",
-   "id_camara": "4855",
-   "celebrada": true,
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica. Boletín N° 18623-07(S).",
-     "boletines": [
-      "18623-07"
-     ],
-     "detalle": "Pendiente en C. de Hacienda · Mensaje · 2° trámite constitucional · D. INMEDIATA (17.11.2026) · Informantes: Sr. Irarrázaval (Constitución) y Sr(a) (Hacienda)",
-     "urgencia": {
-      "tipo": "Discusión inmediata",
-      "vence": "2026-11-17"
-     }
-    },
-    {
-     "orden": 2,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias. Boletín Nº 18576-06.",
-     "boletines": [
-      "18576-06"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · SUMA (17.11.2026) · Informante: Sr. Ortiz (Gobierno) · En tabla: 11.11.2026",
-     "urgencia": {
-      "tipo": "Suma",
-      "vence": "2026-11-17"
-     }
-    },
-    {
-     "orden": 3,
-     "seccion": "Orden del Día",
-     "texto": "Fortalece el ejercicio de la responsabilidad parental. Boletín N° 18378-18.",
-     "boletines": [
-      "18378-18"
-     ],
-     "detalle": "Mensaje · 1er. trámite constitucional · LOC · SIMPLE (27.11.2026) · Informante: Sr. Celedón (De la Familia) · En tabla: 26.10.2026",
-     "urgencia": {
-      "tipo": "Simple",
-      "vence": "2026-11-27"
-     }
-    },
-    {
-     "orden": 4,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros. Boletín N° 16397-15.",
-     "boletines": [
-      "16397-15"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · 2° trámite reglamentario · SIMPLE (02.12.2026) · Informante: Sr. Menchaca (Segundo informe de la C. de OO.PP., Transportes y Telecomunicaciones) · En tabla: 09.11.2026",
-     "urgencia": {
-      "tipo": "Simple",
-      "vence": "2026-12-02"
-     }
-    },
-    {
-     "orden": 5,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros. Boletín N° 15387-12.",
-     "boletines": [
-      "15387-12"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · 2° trámite reglamentario · Informante: Sr. Crisóstomo (Segundo informe de la C. de Medio Ambiente) · En tabla: 21.09.2026"
-    },
-    {
-     "orden": 6,
-     "seccion": "Orden del Día",
-     "texto": "Sobre protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y las neurotecnologías. Boletín N° 13828-19(S).",
-     "boletines": [
-      "13828-19"
-     ],
-     "detalle": "Moción · 2° trámite constitucional · LOC · Informe de la C. de Futuro · En tabla: 11.05.2026 · Discusión pendiente (05.10.2026)"
-    },
-    {
-     "orden": 7,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley Nº 20.027, que establece normas para el financiamiento de estudios de educación superior, en materia de cobro de las deudas del Crédito con Aval del Estado. Boletín N° 18228-04.",
-     "boletines": [
-      "18228-04"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sra. Yeomans (Futuro) · En tabla: 22.06.2026 · Nota: la comisión rechaza la idea de legislar"
-    },
-    {
-     "orden": 8,
-     "seccion": "Orden del Día",
-     "texto": "Modifica el Código del Trabajo para extender la duración del permiso postnatal parental. Boletín N° 17049-13.",
-     "boletines": [
-      "17049-13"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · QC · Informes de las comisiones de Economía y de Trabajo, rendidos · Informante: Sra. Macías (Desarrollo Social) · En tabla: 10.08.2026"
-    },
-    {
-     "orden": 9,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para restringir las causales de reconocimiento de la calidad de indígena. Boletín N° 16172-17.",
-     "boletines": [
-      "16172-17"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sra. Naveillán (DD.HH. y Pueblos Originarios) · En tabla: 17.08.2026"
-    },
-    {
-     "orden": 10,
-     "seccion": "Orden del Día",
-     "texto": "Reconoce al fútbol amateur como actividad de interés público y establece normas sobre prevención de la violencia, seguridad, responsabilidad y transparencia en esa actividad. Boletín N° 18205-29.",
-     "boletines": [
-      "18205-29"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Carvajal (Deportes) · En tabla: 27.10.2026"
-    },
-    {
-     "orden": 11,
-     "seccion": "Orden del Día",
-     "texto": "Denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud. Boletín Nº 12760-29.",
-     "boletines": [
-      "12760-29"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Briones (Deportes) · En tabla: 11.11.2026"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:06",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "10:17",
-   "horario": "10:17 a 13:56",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 81,
-   "clase": "Especial",
-   "tabla": "cargada",
-   "id_senado": "10323",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
-     "boletines": [
-      "18702-05"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "15:00",
-   "horario": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Deportes y Recreación",
-   "lugar": "Sala Octavio Jara Wolff",
-   "materias": [
-    "Continuar con la discusión general del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, que modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional, correspondiente al boletín N° 18730-29, con urgencia calificada de “simple”.",
-    "Para tales efectos, se encuentran invitados, como representantes del básquetbol, doña Patricia Bermúdez y los señores Miguel Ureta, Pablo Ares, Carlos Álvarez y Gerardo Isla, y el Presidente de la Asociaci ón Nacional de Fútbol Profesional (ANFP), don Pablo Milad Abusleme, o quien tenga a bien designar en su representación."
-   ],
-   "boletines": [
-    "18730-29"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "15:00",
-   "horario": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Educación",
-   "lugar": "Sala de Conferencias Inés Enríquez",
-   "materias": [
-    "Sesión citada con objeto de iniciar la votación en particular del proyecto de ley, de origen en moción de los diputados y diputadas Paz Charpentier (A), José Kast, Hans Marowski, Ricardo Neumann, Javier Olivares y Javiera Rodríguez, que modifica la ley N° 20.370, general de educación, para regular a los apoderados en el sistema educacional chileno (boletín N° 18461-04), en primer trámite constitucional.",
-    "En relación a lo anterior, la Comisión ha invitado al Subsecretario de Educación, señor Daniel Rodriguez Morales."
-   ],
-   "boletines": [
-    "18461-04"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Votación"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "15:15",
-   "horario": "15:15 a 20:03",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 82,
-   "clase": "Especial",
-   "tabla": "cargada",
-   "id_senado": "10324",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
-     "boletines": [
-      "18702-05"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "horario": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Defensa Nacional",
-   "lugar": "Sala N° 408",
-   "materias": [
-    "Destinar la primera hora posterior a la cuenta, para dar curso la discusi ón y votación en segundo trámite constitucional y segundo trámite reglamentario, del proyecto de ley iniciado en mensaje que “Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.\". BOLETÍN N° 14773-02(S). Urgencia simple.",
-    "Se hace presente que la Comisión fijó plazo para presentar indicaciones hasta el día 16 de noviembre (completo).",
-    "Continuar la tramitación en general del proyecto de ley iniciado en moci ón, en primer trámite constitucional y reglamentario, que ''Modifica las sanciones a los delitos de espionaje y protege la informaci ón estratégica del Estado''. BOLETÍN N° 18530-02. Urgencia simple.",
-    "Se ha invitado al señor Ministro de Relaciones Exteriores.",
-    "Se ha invitado al señor Ministro de Defensa Nacional. Asimismo, se ha invitado a un representante de la Academia Nacional de Estudios Pol íticos y Estratégicos, y a un representante de Academia Athenalab, para dar su opinión sobre el proyecto."
-   ],
-   "boletines": [
-    "14773-02",
-    "18530-02"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Votación"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "horario": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Economía, Fomento; Micro, Pequeña y Mediana",
-   "lugar": "Sala Ramón Pérez Opazo",
-   "materias": [
-    "Empresa; Protección de los Consumidores y Turismo Continuar la discusión general del proyecto de ley iniciado en mensaje de S. E. el Presidente de la República que fomenta la industria de capital de riesgo, mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo, boletín N° 18819-03, con urgencia calificada de “suma”, en primer trámite constitucional y primero reglamentario.",
-    "Para tales efectos se escuchará la exposición de los representantes de las siguientes instituciones:",
-    "El Presidente de la Asociación Emprendedores de Chile, ASECH, señor Nicolás Shea.",
-    "El Presidente de la Asociación Chilena de Venture Capital, ACVC, Francisco Guzmán.",
-    "El Presidente de FinteChile, señor José Gabriel Carrasco.",
-    "Asimismo, se encuentran invitados a participar de la tramitaci ón de dicha iniciativa legal el Ministro de Economía, Fomento y Turismo, señor Daniel Mas; el Subsecretario de Economía, señor Karlfranz Koehler, y el Vicepresidente Ejecutivo de Corfo, señor José Ignacio Mujica."
-   ],
-   "boletines": [
-    "18819-03"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "horario": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Obras Públicas, Transportes y Telecomunicaciones",
-   "lugar": "Sala de Conferencias Inés Enríquez",
-   "materias": [
-    "Proyecto de Ley con urgencia calificada de simple, que perfecciona la Ley N°21.473, sobre publicidad visible desde caminos, vías o espacios públicos, en el sentido de facilitar la instalación de elementos publicitarios.",
-    "BOLETÍN Nº17.820-09.",
-    "Se procederá a votar en general el proyecto.",
-    "Proyecto iniciado en moción de los diputados señores Riquelme, Sánchez, Kunstmann, Menchaca, Vergara, Ross; Kast, don José Antonio, y Lorca; y de la diputada señora Del Real, con urgencia calificada de simple, que \"modifica la ley N°18.290, de Tránsito, con el objeto de elevar las sanciones por alteración de sistemas de escape y emisiones de vehículos motorizados\". BOLETÍN N°18680-15.",
-    "Para éste y los siguientes proyectos, se encuentran invitados los representantes del “Mundo Tuerca”, señores Héctor Peña Meneses;",
-    "Cristopher Cabezas Pardo; Carlos Galeas Jofré; Franklin Reyes Rojas, y Felipe Joui Antillo.",
-    "Proyecto que modifica la ley N°18.290, de Tránsito, para sancionar las alteraciones de los sistemas de escape y el uso de dispositivos destinados a aumentar el ruido de vehículos motorizados, y establecer su retiro de circulación, Boletín N°18.729-15.",
-    "Proyecto que modifica el DFL 1 de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N°18.290, de Tránsito, con el fin de prohibir y sancionar la circulación de vehículos motorizados con “tronadores” o que mantengan modificaciones para aumentar el ruido de sus motores o sistemas de escape, Boletín N°18.744-15.",
-    "Luego de escuchar a los invitados, se procederá a votar en general.",
-    "Moción, copatrocinada por los congresistas Alejandro Bernales, Felipe Camaño, Pier Karlezi, Patricio Pinilla (A) y Cristián Tapia, que establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros, hasta la entrada en vigencia de la ley N° 21.553. BOLETÍN N° 18.223-15."
-   ],
-   "boletines": [
-    "17820-09",
-    "18223-15",
-    "18680-15",
-    "18729-15",
-    "18744-15"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Votación"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "horario": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Personas Mayores y Discapacidad",
-   "lugar": "Sala Octavio Jara Wolff",
-   "materias": [
-    "Recibir al ministro del Trabajo y Previsión Social y al superintendente de Pensiones para conocer la magnitud y las causas de las p érdidas de los fondos de pensiones D y E, su impacto estimado sobre las personas mayores y las medidas inmediatas y políticas públicas previstas para abordar sus consecuencias.",
-    "Continuar con la discusión en general del proyecto de ley que \"Modifica la ley N° 20.422, sobre igualdad de oportunidades e inclusión social de personas con discapacidad, para especificar el deber de se ñalización auditiva de estaciones y paradas en los servicios de transporte p úblico.\".",
-    "Boletín N° 18509-35.",
-    "Para este objeto se ha invitado a la Corporación para la Inclusión de Personas con Discapacidad Visual y Sordociegas;",
-    "a la Asociaci ón de Ciegos de Chile y a los autores del proyecto de ley."
-   ],
-   "boletines": [
-    "18509-35"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "horario": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Salud",
-   "lugar": "Sala Juan Lobos Krause",
-   "materias": [
-    "Recibir al Subsecretario de Redes Asistenciales, señor Julio Montt Vidal, o a quien designe, para que se refiera a los siguientes temas:",
-    "- Situación del Hospital Traumatológico de Concepción a raíz de la inundación ocurrida el 21 de octubre, particularmente respecto de las pérdidas de medicamentos, insumos y otros bienes, la afectaci ón de los espacios clínicos y de rehabilitación, y las medidas adoptadas para la reposición de los bienes perdidos y la prevención de nuevas inundaciones.",
-    "- Estrategia de la red de atención para el accidente cerebrovascular en el norte y en el resto del país, e informe sobre el cronograma y presupuesto definitivo para la adquisición e instalación de un segundo angiógrafo biplano 3D en el Hospital Regional de Antofagasta; los plazos para la operativización de los escáneres TAC en los hospitales comunitarios de Tocopilla, Taltal y Mejillones; y las gestiones para destrabar el financiamiento de la Unidad de Tratamiento del Ataque Cerebrovascular (UTA",
-    "Continuar la discusión del proyecto de ley que \"Modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel\". Boletín N° 17.800-11. Urgencia Simple.",
-    "Se ha invitado a la diputada Marlene Pérez Cartes, como autora del proyecto."
-   ],
-   "boletines": [
-    "17800-11"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "17:30",
-   "horario": "17:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Trabajo y Seguridad Social",
-   "lugar": "Sala Manuel Bustos Huerta",
-   "materias": [
-    "La sesión tiene por objeto iniciar el estudio en particular del proyecto de ley, originado en mensaje de S.E. el Presidente de la República, que “Perfecciona los mecanismos de adaptabilidad de la jornada de trabajo y establece un régimen especial para el sector turismo y actividades conexas”, correspondiente al boletín N° 18.478-13, en primer trámite constitucional y primer trámite reglamentario, con urgencia calificada de “suma”.",
-    "Para estos efectos, han sido invitados:",
-    "- El señor Subsecretario de Trabajo, don Gustavo Rosende; y - La señora Subsecretaria de Turismo, doña María Paz Lagos Valdivieso."
-   ],
-   "boletines": [
-    "18478-13"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-17",
-   "hora": "19:30",
-   "horario": "19:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Futuro, Ciencias, Tecnología, Conocimiento e",
-   "lugar": "Sala Arturo Longton Guerrero",
-   "materias": [
-    "Innovación Continuar con la votación en particular del proyecto de ley, en primer tr ámite constitucional, con urgencia calificada de “simple”, originado en las siguientes mociones refundidas:",
-    "1) El que establece un marco integral de protección de niñas, niños y adolescentes en el uso de redes sociales (boletín N° 18224-18), de los diputados y diputadas Lorena Fries (A), Jaime Araya, Matías Fernández, Ana María Gazmuri, Andrea Macías, Luis Malla, Cristian Mella, José Montalva, Zandra Parisi y Gonzalo Winter.",
-    "2) El que protege a los menores de edad frente a la adicci ón a las nuevas tecnologías y prohíbe el acceso a redes sociales y otras plataformas (boletín N° 18246-18), de las diputadas y diputados Diego Schalper (A), Héctor Barría, Patricio Briones, Andrés Celis, Tomás Kast, Raúl Leiva, Paula Olmos, Ximena Ossandón, Macarena Santelices y Héctor Ulloa.",
-    "3) El que establece un estatuto de responsabilidad algor ítmica y protección digital de niños, niñas y adolescentes (boletín N° 18318-19), de las diputadas y diputados Daniel Manouchehri (A), Patricio Briones, Andrés Celis, Carolina Cucumides, Cristóbal Martínez, José Montalva, Daniela Serrano, Consuelo Veloso, Gonzalo Winter y Gael Yeomans.",
-    "4) El que modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales (boletín N° 18415-18), de los diputados y diputadas Sara Concha (A), Patricio Briones, Andrés Celis, Tomás Kast, José Montalva, Francesca Muñoz y Tamara Ramírez.",
-    "La Ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May y/o el Subsecretario de la Niñez, señor Marcelo Sánchez Ahumada."
-   ],
-   "boletines": [
-    "18224-18",
-    "18246-18",
-    "18318-19",
-    "18415-18"
-   ],
-   "estado": "citada",
-   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
-   "asistida": true,
-   "tipo": "comision",
-   "actividad": "Votación"
-  },
   {
    "fecha": "2026-11-18",
    "hora": "10:00",
@@ -994,233 +531,6 @@
   }
  ],
  "pasadas": [
-  {
-   "fecha": "2026-11-10",
-   "hora": "14:03",
-   "horario": "14:03 a 23:01",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "lugar": "",
-   "materias": [],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 91,
-   "clase": "Especial",
-   "tabla": "por_confirmar",
-   "id_camara": "4851",
-   "celebrada": true,
-   "actividad": "Sala"
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "15:16",
-   "horario": "15:16 a 15:53",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Oficio de Su Excelencia el Presidente de la República, con el que solicita el acuerdo del Senado para designar como Ministros Suplentes del Tribunal Constitucional a la señora Sandra Ponce de León Salucci y a la señora Leslie Sánchez Lobos. (Boletín N° S 2765-05)."
-   ],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 76,
-   "clase": "Especial",
-   "tabla": "cargada",
-   "id_senado": "10321",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Oficio de Su Excelencia el Presidente de la República, con el que solicita el acuerdo del Senado para designar como Ministros Suplentes del Tribunal Constitucional a la señora Sandra Ponce de León Salucci y a la señora Leslie Sánchez Lobos. (Boletín N° S 2765-05).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "2/3",
-     "boletin_senado": "S 2765-05"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Otra"
-  },
-  {
-   "fecha": "2026-11-10",
-   "hora": "16:06",
-   "horario": "16:06 a 18:45",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Oficio de Su Excelencia el Presidente de la República, mediante el cual, de conformidad con lo dispuesto en el artículo 42 de la Constitución Política de la República, solicita el acuerdo del Congreso Nacional para prorrogar la vigencia del estado de excepción constitucional de emergencia, en la Región de La Araucanía, y las provincias de Arauco y del Biobío, de la Región del Biobío. (Siempre que hubiere ingresado el mencionado oficio del Primer Mandatario).",
-    "Proyecto de ley, en primer trámite constitucional, que proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena (Boletín N° 18806-07).",
-    "Regula la prevención y mitigación de incendios forestales, y otras materias que indica (Boletín N° 16335-14).",
-    "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales (Boletín N° 18585-25).",
-    "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal (Boletín N° 15850-11).",
-    "Proyecto de ley, en segundo trámite constitucional, que modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia (Boletín N° 18464-14).",
-    "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación (Boletín N° 18189-14). Con urgencia calificada de Suma.",
-    "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de medidas para promover y apoyar las actividades tendientes a valorizar y difundir la reconocida obra del poeta Gonzalo Rojas Pizarro, con motivo de conmemorarse 110 años de su nacimiento. (Boletín N° S 2725-12).",
-    "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indican para ampliar la cobertura del examen preventivo gratuito de mamografía, con el objeto de fortalecer la detección temprana del cáncer de mama (Boletín N° S 2727-12).",
-    "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa de ley que contemple un marco normativo integral para el desarrollo sostenible de la industria de data centers en Chile (Boletín N° S 2737-12)."
-   ],
-   "boletines": [
-    "18806-07",
-    "16335-14",
-    "18585-25",
-    "15850-11",
-    "18464-14",
-    "18189-14"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 77,
-   "clase": "Ordinaria",
-   "tabla": "cargada",
-   "id_senado": "10316",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Oficio de Su Excelencia el Presidente de la República, mediante el cual, de conformidad con lo dispuesto en el artículo 42 de la Constitución Política de la República, solicita el acuerdo del Congreso Nacional para prorrogar la vigencia del estado de excepción constitucional de emergencia, en la Región de La Araucanía, y las provincias de Arauco y del Biobío, de la Región del Biobío. (Siempre que hubiere ingresado el mencionado oficio del Primer Mandatario).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2772-14"
-    },
-    {
-     "orden": 2,
-     "seccion": "Orden del día",
-     "texto": "Proyecto de ley, en primer trámite constitucional, que proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena (Boletín N° 18806-07).",
-     "boletines": [
-      "18806-07"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple"
-    },
-    {
-     "orden": 3,
-     "seccion": "Orden del día",
-     "texto": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica (Boletín N° 16335-14).",
-     "boletines": [
-      "16335-14"
-     ],
-     "detalle": "",
-     "quorum": "L.O.C."
-    },
-    {
-     "orden": 4,
-     "seccion": "Orden del día",
-     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales (Boletín N° 18585-25).",
-     "boletines": [
-      "18585-25"
-     ],
-     "detalle": "",
-     "quorum": "Q.C."
-    },
-    {
-     "orden": 5,
-     "seccion": "Orden del día",
-     "texto": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal (Boletín N° 15850-11).",
-     "boletines": [
-      "15850-11"
-     ],
-     "detalle": "",
-     "quorum": "Q.C."
-    },
-    {
-     "orden": 6,
-     "seccion": "Orden del día",
-     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia (Boletín N° 18464-14).",
-     "boletines": [
-      "18464-14"
-     ],
-     "detalle": "",
-     "quorum": "L.O.C."
-    },
-    {
-     "orden": 7,
-     "seccion": "Orden del día",
-     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación (Boletín N° 18189-14). Con urgencia calificada de Suma.",
-     "boletines": [
-      "18189-14"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "urgencia": {
-      "tipo": "Suma"
-     }
-    },
-    {
-     "orden": 1,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de medidas para promover y apoyar las actividades tendientes a valorizar y difundir la reconocida obra del poeta Gonzalo Rojas Pizarro, con motivo de conmemorarse 110 años de su nacimiento. (Boletín N° S 2725-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2725-12"
-    },
-    {
-     "orden": 2,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indican para ampliar la cobertura del examen preventivo gratuito de mamografía, con el objeto de fortalecer la detección temprana del cáncer de mama (Boletín N° S 2727-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2727-12"
-    },
-    {
-     "orden": 3,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa de ley que contemple un marco normativo integral para el desarrollo sostenible de la industria de data centers en Chile (Boletín N° S 2737-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2737-12"
-    },
-    {
-     "orden": 4,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Adopte las medidas que correspondan para fortalecer la capacidad submarina de la defensa nacional, mediante la implementación de un programa estratégico de reemplazo de los submarinos de mayor antigüedad al servicio de la Armada de Chile (Boletín N° S 2739-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2739-12"
-    },
-    {
-     "orden": 5,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse una agenda legislativa integral con el objeto de fortalecer el proceso de descentralización en el país (Boletín N° S 2743-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2743-12"
-    },
-    {
-     "orden": 6,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente las iniciativas legales que correspondan, y adopte las medidas administrativas y presupuestarias necesarias para fortalecer la protección de la salud del personal de las Fuerzas Armadas y de Orden y Seguridad Pública (Boletín N° S 2744-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2744-12"
-    },
-    {
-     "orden": 7,
-     "seccion": "Tiempo de votaciones",
-     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse la actualización de la Política de Defensa Nacional y de la Política Militar, priorizando la recuperación y modernización de las capacidades disuasivas de las Fuerzas Armadas, el fortalecimiento de la ciberdefensa, la preparación frente a nuevas amenazas y una planificación estratégica de largo plazo que garantice la soberanía, la seguridad dentro de sus límites constitucionales y los intereses permanentes de Chile (Boletín N° S 2767-12).",
-     "boletines": [],
-     "detalle": "",
-     "quorum": "Mayoría Simple",
-     "boletin_senado": "S 2767-12"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
   {
    "fecha": "2026-11-11",
    "hora": "09:31",
@@ -1926,21 +1236,472 @@
    "tabla_leida": "2026-11-13T08:04",
    "asistida": true,
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "09:00",
+   "horario": "09:00 a 10:00",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "lugar": "Sala 12, segundo piso, Senado en Valparaíso",
+   "materias": [
+    "1.- Informe de Estabilidad Financiera (IEF) del Banco Central de Chile."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Otra"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "10:01",
+   "horario": "10:01 a 13:33",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [
+    "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica. Boletín N° 18623-07(S).",
+    "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias. Boletín Nº 18576-06.",
+    "Fortalece el ejercicio de la responsabilidad parental. Boletín N° 18378-18.",
+    "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros. Boletín N° 16397-15.",
+    "Modifica la ley N° 21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros. Boletín N° 15387-12.",
+    "Sobre protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y las neurotecnologías. Boletín N° 13828-19(S).",
+    "Modifica la ley Nº 20.027, que establece normas para el financiamiento de estudios de educación superior, en materia de cobro de las deudas del Crédito con Aval del Estado. Boletín N° 18228-04.",
+    "Modifica el Código del Trabajo para extender la duración del permiso postnatal parental. Boletín N° 17049-13.",
+    "Modifica la ley N° 19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para restringir las causales de reconocimiento de la calidad de indígena. Boletín N° 16172-17.",
+    "Reconoce al fútbol amateur como actividad de interés público y establece normas sobre prevención de la violencia, seguridad, responsabilidad y transparencia en esa actividad. Boletín N° 18205-29."
+   ],
+   "boletines": [
+    "18623-07",
+    "18576-06",
+    "18378-18",
+    "16397-15",
+    "15387-12",
+    "13828-19",
+    "18228-04",
+    "17049-13",
+    "16172-17",
+    "18205-29",
+    "12760-29"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 95,
+   "clase": "Ordinaria",
+   "tabla": "cargada",
+   "id_camara": "4855",
+   "celebrada": true,
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica. Boletín N° 18623-07(S).",
+     "boletines": [
+      "18623-07"
+     ],
+     "detalle": "Pendiente en C. de Hacienda · Mensaje · 2° trámite constitucional · D. INMEDIATA (17.11.2026) · Informantes: Sr. Irarrázaval (Constitución) y Sr(a) (Hacienda)",
+     "urgencia": {
+      "tipo": "Discusión inmediata",
+      "vence": "2026-11-17"
+     }
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias. Boletín Nº 18576-06.",
+     "boletines": [
+      "18576-06"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · SUMA (17.11.2026) · Informante: Sr. Ortiz (Gobierno) · En tabla: 11.11.2026",
+     "urgencia": {
+      "tipo": "Suma",
+      "vence": "2026-11-17"
+     }
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del Día",
+     "texto": "Fortalece el ejercicio de la responsabilidad parental. Boletín N° 18378-18.",
+     "boletines": [
+      "18378-18"
+     ],
+     "detalle": "Mensaje · 1er. trámite constitucional · LOC · SIMPLE (27.11.2026) · Informante: Sr. Celedón (De la Familia) · En tabla: 26.10.2026",
+     "urgencia": {
+      "tipo": "Simple",
+      "vence": "2026-11-27"
+     }
+    },
+    {
+     "orden": 4,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros. Boletín N° 16397-15.",
+     "boletines": [
+      "16397-15"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · 2° trámite reglamentario · SIMPLE (02.12.2026) · Informante: Sr. Menchaca (Segundo informe de la C. de OO.PP., Transportes y Telecomunicaciones) · En tabla: 09.11.2026",
+     "urgencia": {
+      "tipo": "Simple",
+      "vence": "2026-12-02"
+     }
+    },
+    {
+     "orden": 5,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley N° 21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros. Boletín N° 15387-12.",
+     "boletines": [
+      "15387-12"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · 2° trámite reglamentario · Informante: Sr. Crisóstomo (Segundo informe de la C. de Medio Ambiente) · En tabla: 21.09.2026"
+    },
+    {
+     "orden": 6,
+     "seccion": "Orden del Día",
+     "texto": "Sobre protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y las neurotecnologías. Boletín N° 13828-19(S).",
+     "boletines": [
+      "13828-19"
+     ],
+     "detalle": "Moción · 2° trámite constitucional · LOC · Informe de la C. de Futuro · En tabla: 11.05.2026 · Discusión pendiente (05.10.2026)"
+    },
+    {
+     "orden": 7,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley Nº 20.027, que establece normas para el financiamiento de estudios de educación superior, en materia de cobro de las deudas del Crédito con Aval del Estado. Boletín N° 18228-04.",
+     "boletines": [
+      "18228-04"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informante: Sra. Yeomans (Futuro) · En tabla: 22.06.2026 · Nota: la comisión rechaza la idea de legislar"
+    },
+    {
+     "orden": 8,
+     "seccion": "Orden del Día",
+     "texto": "Modifica el Código del Trabajo para extender la duración del permiso postnatal parental. Boletín N° 17049-13.",
+     "boletines": [
+      "17049-13"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · QC · Informes de las comisiones de Economía y de Trabajo, rendidos · Informante: Sra. Macías (Desarrollo Social) · En tabla: 10.08.2026"
+    },
+    {
+     "orden": 9,
+     "seccion": "Orden del Día",
+     "texto": "Modifica la ley N° 19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para restringir las causales de reconocimiento de la calidad de indígena. Boletín N° 16172-17.",
+     "boletines": [
+      "16172-17"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informante: Sra. Naveillán (DD.HH. y Pueblos Originarios) · En tabla: 17.08.2026"
+    },
+    {
+     "orden": 10,
+     "seccion": "Orden del Día",
+     "texto": "Reconoce al fútbol amateur como actividad de interés público y establece normas sobre prevención de la violencia, seguridad, responsabilidad y transparencia en esa actividad. Boletín N° 18205-29.",
+     "boletines": [
+      "18205-29"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Carvajal (Deportes) · En tabla: 27.10.2026"
+    },
+    {
+     "orden": 11,
+     "seccion": "Orden del Día",
+     "texto": "Denomina al gimnasio fiscal de Ancud, Gimnasio Fiscal Luis Caco Suárez de Ancud. Boletín Nº 12760-29.",
+     "boletines": [
+      "12760-29"
+     ],
+     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Briones (Deportes) · En tabla: 11.11.2026"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:06",
+   "asistida": true,
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "10:17",
+   "horario": "10:17 a 13:56",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 81,
+   "clase": "Especial",
+   "tabla": "cargada",
+   "id_senado": "10323",
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:00",
+   "horario": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Deportes y Recreación",
+   "lugar": "Sala Octavio Jara Wolff",
+   "materias": [
+    "Continuar con la discusión general del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, que modifica el Capítulo VI del Título II del Libro I del Código del Trabajo, para ampliar la relación especial de trabajo a deportistas de modalidades o especialidades deportivas distintas al fútbol profesional, correspondiente al boletín N° 18730-29, con urgencia calificada de “simple”.",
+    "Para tales efectos, se encuentran invitados, como representantes del básquetbol, doña Patricia Bermúdez y los señores Miguel Ureta, Pablo Ares, Carlos Álvarez y Gerardo Isla, y el Presidente de la Asociaci ón Nacional de Fútbol Profesional (ANFP), don Pablo Milad Abusleme, o quien tenga a bien designar en su representación."
+   ],
+   "boletines": [
+    "18730-29"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:00",
+   "horario": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Educación",
+   "lugar": "Sala de Conferencias Inés Enríquez",
+   "materias": [
+    "Sesión citada con objeto de iniciar la votación en particular del proyecto de ley, de origen en moción de los diputados y diputadas Paz Charpentier (A), José Kast, Hans Marowski, Ricardo Neumann, Javier Olivares y Javiera Rodríguez, que modifica la ley N° 20.370, general de educación, para regular a los apoderados en el sistema educacional chileno (boletín N° 18461-04), en primer trámite constitucional.",
+    "En relación a lo anterior, la Comisión ha invitado al Subsecretario de Educación, señor Daniel Rodriguez Morales."
+   ],
+   "boletines": [
+    "18461-04"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "15:15",
+   "horario": "15:15 a 20:03",
+   "camara": "Senado",
+   "organo": "Sala del Senado",
+   "lugar": "",
+   "materias": [
+    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
+   ],
+   "boletines": [
+    "18702-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 82,
+   "clase": "Especial",
+   "tabla": "cargada",
+   "id_senado": "10324",
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "tabla_leida": "2026-11-13T08:04",
+   "asistida": true,
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "17:30",
+   "horario": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Defensa Nacional",
+   "lugar": "Sala N° 408",
+   "materias": [
+    "Destinar la primera hora posterior a la cuenta, para dar curso la discusi ón y votación en segundo trámite constitucional y segundo trámite reglamentario, del proyecto de ley iniciado en mensaje que “Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.\". BOLETÍN N° 14773-02(S). Urgencia simple.",
+    "Se hace presente que la Comisión fijó plazo para presentar indicaciones hasta el día 16 de noviembre (completo).",
+    "Continuar la tramitación en general del proyecto de ley iniciado en moci ón, en primer trámite constitucional y reglamentario, que ''Modifica las sanciones a los delitos de espionaje y protege la informaci ón estratégica del Estado''. BOLETÍN N° 18530-02. Urgencia simple.",
+    "Se ha invitado al señor Ministro de Relaciones Exteriores.",
+    "Se ha invitado al señor Ministro de Defensa Nacional. Asimismo, se ha invitado a un representante de la Academia Nacional de Estudios Pol íticos y Estratégicos, y a un representante de Academia Athenalab, para dar su opinión sobre el proyecto."
+   ],
+   "boletines": [
+    "14773-02",
+    "18530-02"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "17:30",
+   "horario": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Economía, Fomento; Micro, Pequeña y Mediana",
+   "lugar": "Sala Ramón Pérez Opazo",
+   "materias": [
+    "Empresa; Protección de los Consumidores y Turismo Continuar la discusión general del proyecto de ley iniciado en mensaje de S. E. el Presidente de la República que fomenta la industria de capital de riesgo, mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo, boletín N° 18819-03, con urgencia calificada de “suma”, en primer trámite constitucional y primero reglamentario.",
+    "Para tales efectos se escuchará la exposición de los representantes de las siguientes instituciones:",
+    "El Presidente de la Asociación Emprendedores de Chile, ASECH, señor Nicolás Shea.",
+    "El Presidente de la Asociación Chilena de Venture Capital, ACVC, Francisco Guzmán.",
+    "El Presidente de FinteChile, señor José Gabriel Carrasco.",
+    "Asimismo, se encuentran invitados a participar de la tramitaci ón de dicha iniciativa legal el Ministro de Economía, Fomento y Turismo, señor Daniel Mas; el Subsecretario de Economía, señor Karlfranz Koehler, y el Vicepresidente Ejecutivo de Corfo, señor José Ignacio Mujica."
+   ],
+   "boletines": [
+    "18819-03"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "17:30",
+   "horario": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Obras Públicas, Transportes y Telecomunicaciones",
+   "lugar": "Sala de Conferencias Inés Enríquez",
+   "materias": [
+    "Proyecto de Ley con urgencia calificada de simple, que perfecciona la Ley N°21.473, sobre publicidad visible desde caminos, vías o espacios públicos, en el sentido de facilitar la instalación de elementos publicitarios.",
+    "BOLETÍN Nº17.820-09.",
+    "Se procederá a votar en general el proyecto.",
+    "Proyecto iniciado en moción de los diputados señores Riquelme, Sánchez, Kunstmann, Menchaca, Vergara, Ross; Kast, don José Antonio, y Lorca; y de la diputada señora Del Real, con urgencia calificada de simple, que \"modifica la ley N°18.290, de Tránsito, con el objeto de elevar las sanciones por alteración de sistemas de escape y emisiones de vehículos motorizados\". BOLETÍN N°18680-15.",
+    "Para éste y los siguientes proyectos, se encuentran invitados los representantes del “Mundo Tuerca”, señores Héctor Peña Meneses;",
+    "Cristopher Cabezas Pardo; Carlos Galeas Jofré; Franklin Reyes Rojas, y Felipe Joui Antillo.",
+    "Proyecto que modifica la ley N°18.290, de Tránsito, para sancionar las alteraciones de los sistemas de escape y el uso de dispositivos destinados a aumentar el ruido de vehículos motorizados, y establecer su retiro de circulación, Boletín N°18.729-15.",
+    "Proyecto que modifica el DFL 1 de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N°18.290, de Tránsito, con el fin de prohibir y sancionar la circulación de vehículos motorizados con “tronadores” o que mantengan modificaciones para aumentar el ruido de sus motores o sistemas de escape, Boletín N°18.744-15.",
+    "Luego de escuchar a los invitados, se procederá a votar en general.",
+    "Moción, copatrocinada por los congresistas Alejandro Bernales, Felipe Camaño, Pier Karlezi, Patricio Pinilla (A) y Cristián Tapia, que establece un régimen transitorio de exención de sanciones para conductores de aplicaciones de transporte remunerado de pasajeros, hasta la entrada en vigencia de la ley N° 21.553. BOLETÍN N° 18.223-15."
+   ],
+   "boletines": [
+    "17820-09",
+    "18223-15",
+    "18680-15",
+    "18729-15",
+    "18744-15"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "17:30",
+   "horario": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Personas Mayores y Discapacidad",
+   "lugar": "Sala Octavio Jara Wolff",
+   "materias": [
+    "Recibir al ministro del Trabajo y Previsión Social y al superintendente de Pensiones para conocer la magnitud y las causas de las p érdidas de los fondos de pensiones D y E, su impacto estimado sobre las personas mayores y las medidas inmediatas y políticas públicas previstas para abordar sus consecuencias.",
+    "Continuar con la discusión en general del proyecto de ley que \"Modifica la ley N° 20.422, sobre igualdad de oportunidades e inclusión social de personas con discapacidad, para especificar el deber de se ñalización auditiva de estaciones y paradas en los servicios de transporte p úblico.\".",
+    "Boletín N° 18509-35.",
+    "Para este objeto se ha invitado a la Corporación para la Inclusión de Personas con Discapacidad Visual y Sordociegas;",
+    "a la Asociaci ón de Ciegos de Chile y a los autores del proyecto de ley."
+   ],
+   "boletines": [
+    "18509-35"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "17:30",
+   "horario": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Salud",
+   "lugar": "Sala Juan Lobos Krause",
+   "materias": [
+    "Recibir al Subsecretario de Redes Asistenciales, señor Julio Montt Vidal, o a quien designe, para que se refiera a los siguientes temas:",
+    "- Situación del Hospital Traumatológico de Concepción a raíz de la inundación ocurrida el 21 de octubre, particularmente respecto de las pérdidas de medicamentos, insumos y otros bienes, la afectaci ón de los espacios clínicos y de rehabilitación, y las medidas adoptadas para la reposición de los bienes perdidos y la prevención de nuevas inundaciones.",
+    "- Estrategia de la red de atención para el accidente cerebrovascular en el norte y en el resto del país, e informe sobre el cronograma y presupuesto definitivo para la adquisición e instalación de un segundo angiógrafo biplano 3D en el Hospital Regional de Antofagasta; los plazos para la operativización de los escáneres TAC en los hospitales comunitarios de Tocopilla, Taltal y Mejillones; y las gestiones para destrabar el financiamiento de la Unidad de Tratamiento del Ataque Cerebrovascular (UTA",
+    "Continuar la discusión del proyecto de ley que \"Modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel\". Boletín N° 17.800-11. Urgencia Simple.",
+    "Se ha invitado a la diputada Marlene Pérez Cartes, como autora del proyecto."
+   ],
+   "boletines": [
+    "17800-11"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "17:30",
+   "horario": "17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Trabajo y Seguridad Social",
+   "lugar": "Sala Manuel Bustos Huerta",
+   "materias": [
+    "La sesión tiene por objeto iniciar el estudio en particular del proyecto de ley, originado en mensaje de S.E. el Presidente de la República, que “Perfecciona los mecanismos de adaptabilidad de la jornada de trabajo y establece un régimen especial para el sector turismo y actividades conexas”, correspondiente al boletín N° 18.478-13, en primer trámite constitucional y primer trámite reglamentario, con urgencia calificada de “suma”.",
+    "Para estos efectos, han sido invitados:",
+    "- El señor Subsecretario de Trabajo, don Gustavo Rosende; y - La señora Subsecretaria de Turismo, doña María Paz Lagos Valdivieso."
+   ],
+   "boletines": [
+    "18478-13"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora": "19:30",
+   "horario": "19:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Futuro, Ciencias, Tecnología, Conocimiento e",
+   "lugar": "Sala Arturo Longton Guerrero",
+   "materias": [
+    "Innovación Continuar con la votación en particular del proyecto de ley, en primer tr ámite constitucional, con urgencia calificada de “simple”, originado en las siguientes mociones refundidas:",
+    "1) El que establece un marco integral de protección de niñas, niños y adolescentes en el uso de redes sociales (boletín N° 18224-18), de los diputados y diputadas Lorena Fries (A), Jaime Araya, Matías Fernández, Ana María Gazmuri, Andrea Macías, Luis Malla, Cristian Mella, José Montalva, Zandra Parisi y Gonzalo Winter.",
+    "2) El que protege a los menores de edad frente a la adicci ón a las nuevas tecnologías y prohíbe el acceso a redes sociales y otras plataformas (boletín N° 18246-18), de las diputadas y diputados Diego Schalper (A), Héctor Barría, Patricio Briones, Andrés Celis, Tomás Kast, Raúl Leiva, Paula Olmos, Ximena Ossandón, Macarena Santelices y Héctor Ulloa.",
+    "3) El que establece un estatuto de responsabilidad algor ítmica y protección digital de niños, niñas y adolescentes (boletín N° 18318-19), de las diputadas y diputados Daniel Manouchehri (A), Patricio Briones, Andrés Celis, Carolina Cucumides, Cristóbal Martínez, José Montalva, Daniela Serrano, Consuelo Veloso, Gonzalo Winter y Gael Yeomans.",
+    "4) El que modifica la ley N° 21.663, marco de ciberseguridad, para incorporar los principios de protección a la infancia y adolescencia, restricción etaria e información preventiva en entornos digitales (boletín N° 18415-18), de los diputados y diputadas Sara Concha (A), Patricio Briones, Andrés Celis, Tomás Kast, José Montalva, Francesca Muñoz y Tamara Ramírez.",
+    "La Ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May y/o el Subsecretario de la Niñez, señor Marcelo Sánchez Ahumada."
+   ],
+   "boletines": [
+    "18224-18",
+    "18246-18",
+    "18318-19",
+    "18415-18"
+   ],
+   "estado": "citada",
+   "fuente": "Cámara, citaciones copiadas de camara.cl por el equipo (confirme en camara.cl)",
+   "asistida": true,
+   "tipo": "comision",
+   "actividad": "Votación"
   }
  ],
  "probables": [
-  {
-   "boletin": "18434-07",
-   "vence": "2026-11-17",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18881-25",
-   "vence": "2026-11-17",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
   {
    "boletin": "18803-13",
    "vence": "2026-11-24",
@@ -2078,6 +1839,36 @@
    "vence": "2026-11-25",
    "tipo": "Suma",
    "camara": "Senado"
+  },
+  {
+   "boletin": "18286-03",
+   "vence": "2026-12-01",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18478-13",
+   "vence": "2026-12-01",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18576-06",
+   "vence": "2026-12-01",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18754-17",
+   "vence": "2026-12-01",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18819-03",
+   "vence": "2026-12-01",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
   }
  ],
  "proyectos": {
@@ -2135,7 +1926,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2694
+   "dias_tramite": 2695
   },
   "13529-34": {
    "boletin": "13529-34",
@@ -2197,7 +1988,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2372
+   "dias_tramite": 2373
   },
   "13828-19": {
    "boletin": "13828-19",
@@ -2464,7 +2255,7 @@
     "oficio": "347-374",
     "mixta": false
    },
-   "dias_tramite": 2232
+   "dias_tramite": 2233
   },
   "13872-17": {
    "boletin": "13872-17",
@@ -2538,7 +2329,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2205
+   "dias_tramite": 2206
   },
   "14773-02": {
    "boletin": "14773-02",
@@ -2861,7 +2652,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 1778
+   "dias_tramite": 1779
   },
   "14950-07": {
    "boletin": "14950-07",
@@ -2947,7 +2738,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1658
+   "dias_tramite": 1659
   },
   "15387-12": {
    "boletin": "15387-12",
@@ -3027,7 +2818,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1854
+   "dias_tramite": 1855
   },
   "15589-07": {
    "boletin": "15589-07",
@@ -3301,7 +3092,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 1434
+   "dias_tramite": 1435
   },
   "15779-03": {
    "boletin": "15779-03",
@@ -3411,7 +3202,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1329
+   "dias_tramite": 1330
   },
   "15787-03": {
    "boletin": "15787-03",
@@ -3509,7 +3300,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1324
+   "dias_tramite": 1325
   },
   "16172-17": {
    "boletin": "16172-17",
@@ -3571,7 +3362,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1202
+   "dias_tramite": 1203
   },
   "16397-15": {
    "boletin": "16397-15",
@@ -3777,7 +3568,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 1113
+   "dias_tramite": 1114
   },
   "16552-12": {
    "boletin": "16552-12",
@@ -4261,7 +4052,7 @@
     "oficio": "410-374",
     "mixta": false
    },
-   "dias_tramite": 1042
+   "dias_tramite": 1043
   },
   "16593-06": {
    "boletin": "16593-06",
@@ -4570,7 +4361,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 1035
+   "dias_tramite": 1036
   },
   "16708-11": {
    "boletin": "16708-11",
@@ -4755,7 +4546,7 @@
     "oficio": "368-374",
     "mixta": false
    },
-   "dias_tramite": 958
+   "dias_tramite": 959
   },
   "16709-11": {
    "boletin": "16709-11",
@@ -4940,7 +4731,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 958
+   "dias_tramite": 959
   },
   "16777-07": {
    "boletin": "16777-07",
@@ -5172,7 +4963,7 @@
     "oficio": "385-374",
     "mixta": false
    },
-   "dias_tramite": 938
+   "dias_tramite": 939
   },
   "16888-06": {
    "boletin": "16888-06",
@@ -5481,7 +5272,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 900
+   "dias_tramite": 901
   },
   "16988-06": {
    "boletin": "16988-06",
@@ -5790,7 +5581,7 @@
     "oficio": "1603-373",
     "mixta": false
    },
-   "dias_tramite": 855
+   "dias_tramite": 856
   },
   "17002-17": {
    "boletin": "17002-17",
@@ -5864,7 +5655,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 846
+   "dias_tramite": 847
   },
   "17049-13": {
    "boletin": "17049-13",
@@ -6016,7 +5807,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 901
+   "dias_tramite": 902
   },
   "17196-17": {
    "boletin": "17196-17",
@@ -6060,7 +5851,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 757
+   "dias_tramite": 758
   },
   "17198-17": {
    "boletin": "17198-17",
@@ -6134,7 +5925,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 757
+   "dias_tramite": 758
   },
   "17247-13": {
    "boletin": "17247-13",
@@ -6190,7 +5981,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 726
+   "dias_tramite": 727
   },
   "17337-07": {
    "boletin": "17337-07",
@@ -6288,7 +6079,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 673
+   "dias_tramite": 674
   },
   "17446-17": {
    "boletin": "17446-17",
@@ -6332,7 +6123,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 593
+   "dias_tramite": 594
   },
   "17462-11": {
    "boletin": "17462-11",
@@ -6388,7 +6179,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 601
+   "dias_tramite": 602
   },
   "17637-07": {
    "boletin": "17637-07",
@@ -6711,7 +6502,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 518
+   "dias_tramite": 519
   },
   "17709-02": {
    "boletin": "17709-02",
@@ -6773,7 +6564,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 490
+   "dias_tramite": 491
   },
   "17737-14": {
    "boletin": "17737-14",
@@ -6883,7 +6674,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 480
+   "dias_tramite": 481
   },
   "17800-11": {
    "boletin": "17800-11",
@@ -7006,7 +6797,7 @@
     "oficio": "346-374",
     "mixta": false
    },
-   "dias_tramite": 454
+   "dias_tramite": 455
   },
   "17820-09": {
    "boletin": "17820-09",
@@ -7092,7 +6883,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 441
+   "dias_tramite": 442
   },
   "17900-17": {
    "boletin": "17900-17",
@@ -7166,7 +6957,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 405
+   "dias_tramite": 406
   },
   "17981-35": {
    "boletin": "17981-35",
@@ -7306,7 +7097,7 @@
     "oficio": "407-374",
     "mixta": false
    },
-   "dias_tramite": 358
+   "dias_tramite": 359
   },
   "17999-07": {
    "boletin": "17999-07",
@@ -7362,7 +7153,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 351
+   "dias_tramite": 352
   },
   "18081-17": {
    "boletin": "18081-17",
@@ -7436,7 +7227,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 295
+   "dias_tramite": 296
   },
   "18166-24": {
    "boletin": "18166-24",
@@ -7504,7 +7295,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 223
+   "dias_tramite": 224
   },
   "18176-35": {
    "boletin": "18176-35",
@@ -7650,186 +7441,7 @@
     "oficio": "407-374",
     "mixta": false
    },
-   "dias_tramite": 217
-  },
-  "18189-14": {
-   "boletin": "18189-14",
-   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
-   "fecha_ingreso": "2026-04-15",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Suma",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Discusión general",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-05",
-     "retiro": "2026-08-17",
-     "camara": "Cámara de Diputados",
-     "oficio": "236-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-08-17",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "263-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-08",
-     "retiro": "2026-09-22",
-     "camara": "Senado",
-     "oficio": "308-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-22",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "334-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "376-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-27",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "414-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-04-15",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-04-20",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Cuenta del Mensaje 236-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-05",
-     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-10",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-17",
-     "descripcion": "Cuenta del Mensaje 263-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "IF 219. Informe financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 308-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-22",
-     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18189-14",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18189-14",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18859&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 5,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 6,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-10-27",
-    "vence": "2026-11-11",
-    "camara": "Senado",
-    "estado": "vencida",
-    "plazo_dias": 15,
-    "oficio": "414-374",
-    "mixta": false
-   },
-   "dias_tramite": 216
+   "dias_tramite": 218
   },
   "18198-15": {
    "boletin": "18198-15",
@@ -7897,7 +7509,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 216
+   "dias_tramite": 217
   },
   "18205-29": {
    "boletin": "18205-29",
@@ -7953,7 +7565,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 216
+   "dias_tramite": 217
   },
   "18208-25": {
    "boletin": "18208-25",
@@ -8227,7 +7839,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 211
+   "dias_tramite": 212
   },
   "18223-15": {
    "boletin": "18223-15",
@@ -8271,7 +7883,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 206
+   "dias_tramite": 207
   },
   "18224-18": {
    "boletin": "18224-18",
@@ -8449,7 +8061,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 204
+   "dias_tramite": 205
   },
   "18228-04": {
    "boletin": "18228-04",
@@ -8517,7 +8129,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 203
+   "dias_tramite": 204
   },
   "18246-18": {
    "boletin": "18246-18",
@@ -8701,7 +8313,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 195
+   "dias_tramite": 196
   },
   "18267-24": {
    "boletin": "18267-24",
@@ -8769,7 +8381,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 188
+   "dias_tramite": 189
   },
   "18271-07": {
    "boletin": "18271-07",
@@ -8885,7 +8497,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 188
+   "dias_tramite": 189
   },
   "18318-19": {
    "boletin": "18318-19",
@@ -9057,7 +8669,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 168
+   "dias_tramite": 169
   },
   "18326-18": {
    "boletin": "18326-18",
@@ -9101,7 +8713,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 168
+   "dias_tramite": 169
   },
   "18329-06": {
    "boletin": "18329-06",
@@ -9223,7 +8835,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 165
+   "dias_tramite": 166
   },
   "18334-10": {
    "boletin": "18334-10",
@@ -9315,7 +8927,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 160
+   "dias_tramite": 161
   },
   "18345-13": {
    "boletin": "18345-13",
@@ -9401,7 +9013,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 162
+   "dias_tramite": 163
   },
   "18349-06": {
    "boletin": "18349-06",
@@ -9498,7 +9110,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 161
+   "dias_tramite": 162
   },
   "18378-18": {
    "boletin": "18378-18",
@@ -9730,7 +9342,7 @@
     "oficio": "430-374",
     "mixta": false
    },
-   "dias_tramite": 151
+   "dias_tramite": 152
   },
   "18415-18": {
    "boletin": "18415-18",
@@ -9908,7 +9520,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 147
+   "dias_tramite": 148
   },
   "18461-04": {
    "boletin": "18461-04",
@@ -9958,7 +9570,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 133
+   "dias_tramite": 134
   },
   "18509-35": {
    "boletin": "18509-35",
@@ -10020,7 +9632,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 119
+   "dias_tramite": 120
   },
   "18530-02": {
    "boletin": "18530-02",
@@ -10093,7 +9705,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 111
+   "dias_tramite": 112
   },
   "18532-06": {
    "boletin": "18532-06",
@@ -10203,7 +9815,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 111
+   "dias_tramite": 112
   },
   "18554-36": {
    "boletin": "18554-36",
@@ -10259,7 +9871,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 104
+   "dias_tramite": 105
   },
   "18574-25": {
    "boletin": "18574-25",
@@ -10319,7 +9931,7 @@
     "oficio": "439-374",
     "mixta": false
    },
-   "dias_tramite": 102
+   "dias_tramite": 103
   },
   "18594-25": {
    "boletin": "18594-25",
@@ -10391,7 +10003,7 @@
     "oficio": "387-374",
     "mixta": false
    },
-   "dias_tramite": 98
+   "dias_tramite": 99
   },
   "18621-34": {
    "boletin": "18621-34",
@@ -10508,7 +10120,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 78
+   "dias_tramite": 79
   },
   "18622-24": {
    "boletin": "18622-24",
@@ -10570,7 +10182,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 111
+   "dias_tramite": 112
   },
   "18623-07": {
    "boletin": "18623-07",
@@ -10788,7 +10400,7 @@
     "oficio": "459-374",
     "mixta": false
    },
-   "dias_tramite": 77
+   "dias_tramite": 78
   },
   "18680-15": {
    "boletin": "18680-15",
@@ -10867,7 +10479,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 75
+   "dias_tramite": 76
   },
   "18702-05": {
    "boletin": "18702-05",
@@ -11019,7 +10631,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 48
+   "dias_tramite": 49
   },
   "18709-07": {
    "boletin": "18709-07",
@@ -11203,7 +10815,7 @@
     "oficio": "449-374",
     "mixta": false
    },
-   "dias_tramite": 43
+   "dias_tramite": 44
   },
   "18729-15": {
    "boletin": "18729-15",
@@ -11269,7 +10881,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 55
+   "dias_tramite": 56
   },
   "18730-29": {
    "boletin": "18730-29",
@@ -11348,7 +10960,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 41
+   "dias_tramite": 42
   },
   "18744-15": {
    "boletin": "18744-15",
@@ -11414,7 +11026,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 50
+   "dias_tramite": 51
   },
   "18825-09": {
    "boletin": "18825-09",
@@ -11464,7 +11076,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 27
+   "dias_tramite": 28
   },
   "18885-05": {
    "boletin": "18885-05",
@@ -11602,7 +11214,7 @@
     "oficio": "462-374",
     "mixta": false
    },
-   "dias_tramite": 5
+   "dias_tramite": 6
   }
  },
  "seguidos": [
