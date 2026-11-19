@@ -9,13 +9,13 @@
       {
         "texto": "Los autores dicen que hay ofensas a los policías que no son graves, pero que, a su juicio, erosionan su autoridad.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       },
       {
         "texto": "Recuerdan que la ley N° 20.064 eliminó el desacato contra Carabineros.",
         "fuentes": [
-          "f2"
+          "f1"
         ]
       }
     ],
@@ -109,6 +109,13 @@
     "sanciones atentado contra la autoridad"
   ],
   "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Aumenta sanciones aplicables al delito de atentado contra la autoridad cometido contra miembros de las Fuerzas de Orden y Seguridad Pública (30 de junio de 2025)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18306&tipodoc=mensaje_mocion",
+      "fecha": "2025-06-30",
+      "nota": "Texto original de la moción y sus fundamentos."
+    },
     {
       "id": "f2",
       "titulo": "Primer informe de la Comisión de Seguridad Ciudadana de la Cámara (18 de agosto de 2026)",
