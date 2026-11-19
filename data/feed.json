@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-19T15:34-03:00",
+ "actualizado": "2026-11-19T17:40-03:00",
  "conteos": {
   "urgencias_vigentes": 41,
   "discusion_inmediata": 4,
   "vencen_7_dias": 30,
-  "citaciones_7_dias": 16
+  "citaciones_7_dias": 20
  },
  "proximos_vencimientos": [
   {
@@ -84,6 +84,26 @@
      "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
      "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
      "url": "https://urgenciaskast.cl/p/18643-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "10:30",
+   "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "proyectos": [
+    {
+     "boletin": "17637-07",
+     "titulo": "Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales",
+     "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
+     "url": "https://urgenciaskast.cl/p/17637-07.html"
+    },
+    {
+     "boletin": "18764-07",
+     "titulo": "Sanciona la administración temeraria de los fondos de pensiones",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18764-07.html"
     }
    ]
   },
@@ -228,20 +248,6 @@
      "titulo": "Modifica la ley N°18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para prohibir la utilización de elementos de propaganda electoral fabricados con material plástico no compostable",
      "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
      "url": "https://urgenciaskast.cl/p/14024-12.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "15:00",
-   "camara": "Senado",
-   "organo": "Comisión Mixta para Boletín Nº 15975-25",
-   "proyectos": [
-    {
-     "boletin": "15975-25",
-     "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/15975-25.html"
     }
    ]
   }

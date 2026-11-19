@@ -173,22 +173,44 @@ Permite copiar, adaptar y difundir el contenido citando la fuente y compartiendo
 
 URL: https://urgenciaskast.cl/p/11929-13.html
 
-Urgencias/Boletín 11929-13
-Título oficial del proyecto
+Urgencias/Boletín 11929-13SimpleVence en 7 díasAhora en el SenadoCitado el 25 nov 2026
+Título oficialModifica el Código del Trabajo para crear el contrato por horas.
 ## Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 11929-13
+19 jul 2018, Senado
+Primer trámite, Senado
+Simple · Vence en 7 días
+Próxima citación
+25 nov 2026, 12:30 · Comisión de Trabajo y Previsión Social
+3045 días
 La moción dice que la jornada laboral del Código del Trabajo es rígida y deja poco espacio para el acuerdo entre las partes.1 Afirma que esa rigidez lleva a trabajar de manera informal, con menos protección.1
 Propone un contrato por horas, dentro de la jornada parcial.1 Las horas no pueden pasar de treinta a la semana ni de ciento veinte al mes.1 El aviso del turno no puede darse con menos de 24 horas de anticipación.1
 Agrega un artículo 40 ter al Código del Trabajo.1 Si el empleador no usa todas las horas pactadas, el trabajador conserva el pago de tres cuartas partes de ellas.1 Si el empleador incumple las normas, se presume una jornada completa.1
 Afecta a trabajadores y empleadores que pacten esta modalidad.1
 Dato pendiente No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.
 El proyecto ingresó el 19 de julio de 2018 y está en primer trámite en el Senado.2 Espera el primer informe de la Comisión de Trabajo y Previsión Social.2 El gobierno hizo presente la urgencia simple el 27 de octubre de 2026.2
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 7 días · 26 nov 2026. La simple corre en el Senado desde el 27 de octubre de 2026.3
+6urgencias desde marzo de 2026
+5renovaciones
+27 oct 2026Renueva la simple · Senado30 días
+29 sep 2026Renueva la simple · Senado30 días
+1 sep 2026Renueva la simple · Senado30 días
+4 ago 2026Renueva la simple · Senado30 días
+7 jul 2026Renueva la simple · Senado30 días
+9 jun 2026Pone urgencia simple · Senado30 días
+- 19 jul 2018 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
+- 31 jul 2018 · SenadoCuenta de proyecto. Pasa a Comisión de Trabajo y Previsión SocialLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 25 nov 2026 · 12:30Citado: Comisión de Trabajo y Previsión Social, SenadoSegún la citación publicada.
 ### Para conducir la discusión de la creación del contrato por horas
 Fuentes · consultadas el 11 de noviembre de 2026
 - 1Senado, moción del boletín 11.929-13 (texto del proyecto)2018-07-19. Fundamentos y articulado.
 - 2Senado, tramitación del boletín 11.929-132026-11-10. Etapa y urgencias.
+- 3Senado, ficha de tramitación del boletín 11929-13Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 11929-13Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 12213-07
@@ -320,7 +342,6 @@ Análisis ampliado
 ### Se solicitó un análisis ampliado y no había suficientes menciones en prensa
 Si considera que el proyecto se ha vuelto contingente en los últimos días u horas, solicite el análisis ampliado nuevamente.
 Solicitar análisis ampliado nuevamente
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 3 jul 2019 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 9 jul 2019 · CámaraCuenta de proyecto. Pasa a Comisión de Deportes y Recreación.La Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -357,7 +378,6 @@ Crea un artículo único, que impone esta obligación a restaurantes, supermerca
 Afecta a los propietarios de espacios privados de concurrencia pública.1 En la comisión se discutió quién fiscalizaría el cumplimiento, sin definirlo.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 En la comisión, el Ministerio de la Mujer dijo que fiscalizar la medida podría requerir un informe financiero.3
 El proyecto ingresó el 20 de mayo de 2020 y está en primer trámite en la Cámara de Diputados.4 El 10 de junio de 2026, la Comisión de Mujeres y Equidad de Género lo aprobó en general por 11 votos a favor y ninguno en contra.2 El 9 de septiembre de 2026 su discusión general en la Sala quedó pendiente.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 20 may 2020 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 26 may 2020 · CámaraCuenta de proyecto. Pasa a Comisión Mujeres y Equidad de GéneroLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -457,7 +477,6 @@ Modifica la ley N° 18.700, sobre votaciones populares y escrutinios.4 Suprime s
 Afecta a las candidaturas que hacen propaganda con carteles, afiches y letreros.2 Según el informe de la Cámara, el Servicio Electoral, las municipalidades y Carabineros solo fiscalizan la propaganda puesta en lugares no autorizados.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5 El informe de la Cámara dice que no hay normas que requieran trámite de Hacienda.3
 La Cámara aprobó el proyecto el 21 de septiembre de 2021 y lo envió al Senado.45 El 13 de marzo de 2024 la Sala del Senado lo devolvió a la Comisión de Medio Ambiente para un nuevo primer informe.5 Esa comisión está citada el 24 de noviembre de 2026 para seguir su estudio.6
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 7
 - 15 ene 2024 · SenadoPrimer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 16 ene 2024 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
@@ -545,24 +564,40 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/14744-35.html
 
-Urgencias/Boletín 14744-35
-Título oficial del proyecto
+Urgencias/Boletín 14744-35Sin plazo informadoAhora en el SenadoCitado el 25 nov 2026
+Título oficialModifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley
 ## Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14744-35
+9 dic 2021, Cámara
+Próxima citación
+25 nov 2026, 12:30 · Comisión del Adulto Mayor y Discapacidad
+1806 días
 La moción dice que los trámites para obtener o renovar beneficios para personas con discapacidad son lentos y burocráticos.1
 La comisión de la Cámara señaló que la idea central es agilizar los trámites y precisar los criterios para otorgar o renovar los beneficios.2 El texto aprobado dice que el Estado procurará usar herramientas que den el acceso más rápido posible a los beneficios.3
 Agrega un inciso tercero al artículo 12 de la ley 20.422.3 El Estado debe adecuar los trámites cuando sea necesario e incorporar tecnologías de inclusión en los servicios públicos.3 También debe procurar eliminar toda medida que pueda dañar la dignidad de estas personas.3
 Afecta a las personas con discapacidad y a los servicios públicos que entregan beneficios.3
 No hay informe financiero entre los documentos revisados. La comisión de la Cámara dejó constancia de que ninguna norma debía pasar por la Comisión de Hacienda.2
 La Cámara aprobó el proyecto en general y particular el 12 de marzo de 2024.34 Hoy está en segundo trámite en el Senado, en la Comisión del Adulto Mayor y Discapacidad.4
+5
+- 9 dic 2021 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
+- 14 dic 2021 · CámaraCuenta de proyecto. Pasa a Comisión de Personas Mayores y DiscapacidadLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 16 oct 2023 · CámaraPrimer informe de comisión de Personas Mayores y Discapacidad.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 17 oct 2023 · CámaraCuenta de primer informe de comisión. Queda para tabla.La Sala recibe el informe de la comisión.
+- 12 mar 2024 · CámaraDiscusión general. Aprobado en general y particular a la vezLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 12 mar 2024 · CámaraOficio de ley a Cámara Revisora. Oficio N° 19273. Comunica al Senado que la Cámara de Diputados ha aprobado el proyecto de ley.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 12 mar 2024 · SenadoCuenta de proyecto. Pasa a Comisión del Adulto Mayor y DiscapacidadLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 25 nov 2026 · 12:30Citado: Comisión del Adulto Mayor y Discapacidad, SenadoSegún la citación publicada.
 ### Para conducir la discusión de el acceso más rápido de las personas con discapacidad a sus beneficios
 Fuentes · consultadas el 11 de noviembre de 2026
 - 1Senado, moción del boletín 14.744-35 (texto del proyecto)2021-12-09. Fundamentos.
 - 2Cámara, informe de la Comisión de Personas Mayores y Discapacidad (16 de octubre de 2023)2023-10-16. Idea matriz y trámite de Hacienda.
 - 3Oficio 19.273 de la Cámara de Diputados al Senado (12 de marzo de 2024)2024-03-12. Texto aprobado por la Cámara.
 - 4Senado, tramitación del boletín 14.744-352026-11-10. Etapa.
+- 5Senado, ficha de tramitación del boletín 14744-35Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 14744-35Consulta automática
+- 7Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 14773-02
@@ -616,14 +651,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/14782-13.html
 
-Urgencias/Boletín 14782-13Discusión inmediataEn espera en la otra cámaraAhora en el Senado
+Urgencias/Boletín 14782-13Discusión inmediataEn espera en la otra cámaraAhora en la Cámara
 Título oficialEquipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.
 ## Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14782-13
 4 ene 2022, Senado
-Tercer trámite, Senado
+Tercer trámite, Cámara
 Discusión inmediata · En espera en la otra cámara
 1780 días
 El mensaje original dice que el artículo 203 del Código del Trabajo da sala cuna solo a empresas con 20 o más trabajadoras.1 Dice que eso desincentiva contratar mujeres.1 Cita una brecha de participación laboral de 21,9 puntos entre hombres y mujeres.1
@@ -633,9 +668,10 @@ Afecta a trabajadores con hijos menores de dos años, a empleadores y a salas cu
 El informe financiero de junio de 2026 dice que el fondo se financia con descuentos a cuentas de cesantía, sin costo adicional para el empleador.4 Si el fondo no alcanza, la diferencia la paga el Fisco.4
 El Senado lo aprobó el 8 de septiembre de 2026.3 Está en la Cámara, en segundo trámite, con discusión inmediata.5 El 2 de noviembre el Presidente presentó indicaciones con un nuevo informe financiero.25
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene discusión inmediata, la más corta.
-Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 12 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.6
-20urgencias desde marzo de 2026
-19renovaciones
+Urgencia en espera. El proyecto pasó a la Cámara después de la última urgencia, del 19 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.6
+21urgencias desde marzo de 2026
+20renovaciones
+19 nov 2026Renueva la discusión inmediata · Senado6 días
 12 nov 2026Renueva la discusión inmediata · Cámara6 días
 9 nov 2026Renueva la discusión inmediata · Cámara6 días
 3 nov 2026Renueva la discusión inmediata · Cámara6 días
@@ -657,7 +693,6 @@ Urgencia en espera. El proyecto pasó a el Senado después de la última urgenci
 23 jun 2026Renueva la discusión inmediata · Senado6 días
 16 jun 2026Pone urgencia discusión inmediata · Senado6 días
 Tercer trámite: la cámara de origen vota los cambios de la otra.
-- 21 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social, y a la Comisión de Hacienda en lo que corresponda.La Sala toma conocimiento del proyecto y lo envía a comisión.
 - 2 nov 2026 · CámaraS.E. el Presidente de la República formula indicaciones al proyecto. (277-374). Incluye informe financiero sustitutivo N° 263/30.10.2026.
 - 16 nov 2026 · CámaraPrimer informe de comisión de Trabajo y Seguridad Social. Pasa a Comisión de HaciendaLa comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 16 nov 2026 · CámaraCuenta de primer informe de comisión. (Trabajo). Pasa a Hacienda.La Sala recibe el informe de la comisión.
@@ -665,6 +700,7 @@ Tercer trámite: la cámara de origen vota los cambios de la otra.
 - 18 nov 2026 · CámaraDiscusión general. Aprobado en general y particular con modificaciones.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
 - 18 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 19 nov 2026 · CámaraOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
+- 19 nov 2026 · SenadoCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
@@ -882,7 +918,6 @@ Agrega un artículo 11 bis a la ley 21.020.2 Quien infrinja la prohibición come
 Afecta a quienes organizan competiciones entre perros y a sus dueños.2
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5 La comisión indicó que el proyecto no requiere pasar por la Comisión de Hacienda.3
 El 18 de agosto de 2026, la Sala de la Cámara aprobó el proyecto en general, con 80 votos a favor.45 Hubo indicaciones, es decir, propuestas de cambio. El 9 de septiembre de 2026, la Comisión de Medio Ambiente entregó su segundo informe.25 El 21 de septiembre de 2026 el proyecto quedó para tabla, en primer trámite en la Cámara.5
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 6
 - 20 oct 2021 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 3 oct 2022 · CámaraCuenta de proyecto. Pasa a Comisión Medio Ambiente y Recursos NaturalesLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -1069,7 +1104,6 @@ Modifica la ley de arriendo de predios urbanos, la ley de educación y la ley de
 Afectaría a arrendadores, arrendatarios, instituciones de educación, bancos e isapres.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 El informe de la Comisión de Economía indicó que el proyecto no contiene normas que requieran trámite de Hacienda.2
 El proyecto ingresó el 29 de marzo de 2023 y se refundió con el boletín 15787-03, que trata los contratos educacionales.43 El 15 de julio de 2025, la Comisión de Economía lo aprobó en general por 5 votos a favor y 1 en contra. Su informe es del 11 de septiembre de 2025.24 En ese informe la comisión dejó constancia de que rechazó los artículos de ambas mociones. El 20 de enero de 2026 la Sala dejó pendiente la discusión general.24
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 10 abr 2023 · CámaraOficio N°18.254. El diputado Raúl Leiva Carvajal retira su firma como autor del proyecto.
 - 17 abr 2023 · CámaraCuenta de Oficio de la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo (N°249), por el cual solicita recabar el acuerdo de la Sala para refundir los proyectos contenidos en los boletines 15779-03 y 15787-03. ACORDADO.
@@ -1107,7 +1141,6 @@ Agrega un inciso final al artículo 17 D de la ley del consumidor, la ley 19.496
 Afecta a colegios y universidades privados que cobran en UF, y a las familias que pagan esos servicios.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 El proyecto ingresó el 3 de abril de 2023 y se refundió con el boletín 15779-03, sobre el fin de la UF en ciertos cobros.32 El 11 de septiembre de 2025, la Comisión de Economía emitió su primer informe del proyecto refundido.3 El 20 de enero de 2026 la Sala dejó pendiente la discusión general. El proyecto está en primer trámite en la Cámara.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 17 abr 2023 · CámaraOficio N°18.280. La Cámara de Diputadas accede a la petición para refundir los proyectos correspondientes a los boletines Nos. 15.779-03 y 15.787-03.
 - 31 may 2023 · CámaraCuenta de una comunicación del diputado señor Santana por la cual informa que retira su patrocinio al proyecto.
@@ -1332,7 +1365,6 @@ Elimina la letra c) del artículo 2 de la ley 19.253, que reconoce como indígen
 Afecta a quienes piden el certificado de calidad indígena de la Corporación Nacional de Desarrollo Indígena.1 En la comisión, una diputada afirmó que quitar la autoidentificación podría incumplir el Convenio 169 de la OIT.2
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3 La comisión dejó constancia de que ninguna norma debe ser conocida por la Comisión de Hacienda.2
 El proyecto ingresó el 3 de agosto de 2023 y está en primer trámite en la Cámara.3 El 8 de julio de 2026, la Comisión de Derechos Humanos y Pueblos Originarios lo aprobó en general por 8 votos a favor y 2 en contra.2 Su informe se dio a conocer el 17 de agosto de 2026 y el proyecto quedó para tabla.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 3 ago 2023 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 9 ago 2023 · CámaraCuenta de proyecto. Pasa a Comisión de Derechos Humanos y Pueblos OriginariosLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -1996,6 +2028,40 @@ Fuentes · consultadas el 30 de octubre de 2026
 - 9Infobae, «Chile agiliza la expulsión de migrantes irregulares: el Congreso aprobó la ley surgida de un proyecto multipartidista»21 de octubre de 2026. Declaraciones del ministro Segpres.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 16886-12
+
+URL: https://urgenciaskast.cl/p/16886-12.html
+
+Urgencias/Boletín 16886-12Sin plazo informadoAhora en el SenadoCitado el 24 nov 2026
+Título oficial del proyecto
+## Dicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales
+- 1. Resumen del proyecto
+16886-12
+29 may 2024, Cámara
+Próxima citación
+24 nov 2026, 15:00 · Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+904 días
+Bloque 1
+### Resumen en preparación
+Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
+Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
+¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+1
+- 8 sep 2025 · CámaraNuevo primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 10 sep 2025 · CámaraCuenta nuevo primer informe. Queda para tabla.
+- 7 oct 2025 · CámaraDiscusión general. Queda pendiente.La Sala discute la idea de legislar.
+- 7 oct 2025 · CámaraDiscusión general. Queda pendiente Discusión pendiente. Queda pendiente.La Sala discute la idea de legislar.
+- 8 oct 2025 · CámaraEl diputado Irarrázaval formula reserva de constitucionalidad respecto del proyecto de ley.
+- 8 oct 2025 · CámaraDiscusión general. Aprobado en general y particular a la vezLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 8 oct 2025 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 8 oct 2025 · SenadoCuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y CiudadaníaLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 24 nov 2026 · 15:00Citado: Comisión de Derechos Humanos, Nacionalidad y Ciudadanía, SenadoSegún la citación publicada.
+### Para conducir la discusión de este proyecto
+Fuentes
+- 1Senado, ficha de tramitación del boletín 16886-12Consulta automática. Etapas, trámites y urgencias.
+- 2Cámara de Diputadas y Diputados, tramitación del boletín 16886-12Consulta automática
+- 3Texto del proyecto (moción)Documento original del proyecto.
+
 ## Boletín 16888-06
 
 URL: https://urgenciaskast.cl/p/16888-06.html
@@ -2113,7 +2179,6 @@ Modifica el Título II del Código del Trabajo, sobre protección a la maternida
 Afecta a madres y padres trabajadores, y a sus empleadores.2 En la comisión de Trabajo se advirtió que permisos muy largos podrían afectar a las pymes y al empleo femenino formal.5
 Es una moción parlamentaria. En su expediente no figura un informe financiero.7 El Ministerio de Hacienda respondió que la Dirección de Presupuestos solo emite informes financieros de proyectos del Ejecutivo.6 El 3 de noviembre de 2025 la Comisión de Hacienda devolvió el proyecto sin informar.3
 El proyecto ingresó el 30 de mayo de 2024 y está en primer trámite en la Cámara, sin urgencia.7 Informaron las comisiones de Economía, Trabajo, Hacienda y, el 10 de agosto de 2026, Desarrollo Social.7 El 5 de mayo de 2026 la Sala dejó pendiente la discusión general. Un diputado dejó una reserva de constitucionalidad.7
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 8
 - 3 nov 2025 · CámaraPrimer informe de comisión de Hacienda.La Comisión de Hacienda revisa las normas que afectan el gasto o los ingresos públicos.
 - 3 nov 2025 · CámaraCuenta de primer informe de comisión. (Certificado de Hacienda, devuelve nuevamente el proyecto sin informar). Queda para tabla.La Sala recibe el informe de la comisión.
@@ -2320,7 +2385,6 @@ Esas empresas deberán publicar en su sitio web una declaración de sus mayores 
 La autora calcula que los umbrales de tamaño cubren unas 1.300 empresas, según datos del Servicio de Impuestos Internos de 2022.1 La declaración debe considerar a los trabajadores, a los consumidores y a las comunidades donde operan la empresa y sus proveedores.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 Ingresó al Senado el 21 de octubre de 2024 y pasó a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.2 Sigue en primer trámite, a la espera del primer informe de comisión, y no tiene urgencia.2
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 3
 - 21 oct 2024 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 21 oct 2024 · SenadoCuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y CiudadaníaLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -2372,7 +2436,6 @@ Interpreta el artículo 10 del Estatuto Administrativo y el artículo 2 del Esta
 Afecta al personal a contrata del Estado y de las municipalidades, y a los organismos que los contratan.1 El Ministerio del Trabajo advirtió en la comisión que podría generar una estabilidad laboral de hecho y efectos fiscales.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 La comisión recibió al entonces ministro de Hacienda y a expertos, que expusieron sobre sus posibles efectos fiscales.3
 El proyecto ingresó el 21 de noviembre de 2024 y está en primer trámite en la Cámara, sin urgencia.4 El 2 de diciembre de 2024, la Comisión de Trabajo y Seguridad Social lo aprobó en general por 8 votos a favor y ninguno en contra.2 Su informe es del 2 de junio de 2026 y se dio cuenta de él en la Sala el 15 de junio de 2026.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 21 nov 2024 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 26 nov 2024 · CámaraCuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad SocialLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -2409,7 +2472,6 @@ Modifica solo el artículo 2 de la ley N° 21.255, mediante un artículo único.
 Afecta a los mapas que se usan en colegios y a los que representan a Chile ante otros países y organismos internacionales.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 El proyecto ingresó al Senado el 10 de diciembre de 2024 y pasó a la Comisión Especial de Zonas Extremas y Territorios Especiales.2 Está en primer trámite constitucional y no tiene urgencia.2 Esa comisión lo tiene citado para el 2 de diciembre de 2026.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 10 dic 2024 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 11 dic 2024 · SenadoCuenta de proyecto. Comisión Especial de Zonas Extremas y Territorios Especiales
@@ -2442,7 +2504,6 @@ Crea delitos en el Código Penal, con presidio y multas, para quienes intermedie
 Afecta a parejas o personas que recurran a la subrogación, a las mujeres gestantes, a médicos y a establecimientos de salud.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3 La comisión dejó constancia de que no hay normas que deban ser conocidas por la Comisión de Hacienda.2
 El proyecto ingresó el 13 de enero de 2025 y está en primer trámite en la Cámara, sin urgencia.3 El 26 de enero de 2026, la Comisión de la Familia lo aprobó en general por unanimidad. Su informe es del 24 de julio de 2026.23 El 3 de agosto de 2026 el proyecto quedó para tabla.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 14 ene 2025 · CámaraOficio N°20164. Comunica a la Comisión de la Familia la asignación del proyecto de ley, a solicitud del diputado Juan Irarrázaval Rossel.
 - 15 ene 2025 · CámaraCuenta, Comunicación de la diputada señora Bello por la cual informa que retira su patrocinio al proyecto.
@@ -2482,7 +2543,6 @@ Cada empresa debe elaborar un reporte anual con los daños causados y posibles, 
 Afecta a las grandes empresas, a sus filiales y a sus socios comerciales.1 También involucra a trabajadores, usuarios y localidades donde operan, y a organismos como el Ministerio de Justicia y el Instituto de Derechos Humanos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 Ingresó al Senado el 3 de abril de 2025 y el 8 de abril pasó a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.2 Sigue en primer trámite, a la espera del primer informe de comisión, y no tiene urgencia.2
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 3
 - 3 abr 2025 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 8 abr 2025 · SenadoCuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y CiudadaníaLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -2513,7 +2573,6 @@ Es una ley nueva, con tres artículos y dos artículos transitorios.1 Un reglame
 Afecta a los prestadores de salud públicos y privados, al Ministerio de Salud y a las personas con riesgo o diagnóstico de este cáncer.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3 La Comisión de Salud dejó constancia de que el proyecto no requiere pasar por la Comisión de Hacienda.2
 El proyecto ingresó el 26 de marzo de 2025 y está en primer trámite en la Cámara, sin urgencia.3 El 21 de julio de 2026, la Comisión de Salud entregó su informe. Aprobó el proyecto en general por 5 votos a favor y 3 abstenciones.23 El 3 de agosto de 2026 el proyecto quedó para tabla.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 26 mar 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 9 abr 2025 · CámaraCuenta de proyecto. Pasa a Comisión de SaludLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -2679,7 +2738,7 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/17637-07.html
 
-Urgencias/Boletín 17637-07SimpleVence en 21 díasAhora en el Senado
+Urgencias/Boletín 17637-07SimpleVence en 21 díasAhora en el SenadoCitado el 23 nov 2026
 Título oficialModifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales
 ## Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.
 Revisión pendiente · piloto de prueba
@@ -2693,6 +2752,8 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 17637-07
 17 jun 2025, Cámara
 Simple · Vence en 21 días
+Próxima citación
+23 nov 2026, 10:30 · Comisión de Constitución, Legislación, Justicia y Reglamento
 520 días
 Análisis ampliado
 Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:
@@ -2753,6 +2814,7 @@ Vence en 21 días · 10 dic 2026. La simple corre en el Senado desde el 10 de no
 - 25 nov 2025 · CámaraDiscusión general. Aprobado en general y particular a la vezLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
 - 25 nov 2025 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 25 nov 2025 · SenadoCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 23 nov 2026 · 10:30Citado: Comisión de Constitución, Legislación, Justicia y Reglamento, SenadoSegún la citación publicada.
 ### Para conducir la discusión de el delito de reclutamiento de menores por bandas criminales
 - 1Diario Constitucional, «Sancionar el reclutamiento de menores en bandas criminales»13 de noviembre de 2025. Texto despachado por la Comisión de Constitución de la Cámara y fundamentos de la moción.
 - 2La Tercera, «Proyecto busca penalizar hasta con 5 años de cárcel a quienes recluten menores de edad para bandas criminales»Sin fecha visible (discusión en comisión de la Cámara, 2025). Contenido y fundamentos de la moción.
@@ -2846,7 +2908,6 @@ Reemplaza el último inciso del artículo 14 de la ley 20.000, que sanciona el t
 Afecta a todo el personal de las fuerzas armadas, de orden y seguridad, y a sus autoridades.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 La comisión indicó que el artículo único no requiere pasar por la Comisión de Hacienda.2 En el debate, un diputado sostuvo que el proyecto genera gasto fiscal y que sería materia del Presidente de la República.3
 El proyecto ingresó el 15 de julio de 2025 y está en primer trámite en la Cámara, sin urgencia.4 El 10 de julio de 2026 la Comisión de Defensa Nacional lo rechazó en general, por no alcanzar el quórum: 6 votos a favor, 3 en contra y 3 abstenciones.2 El 19 de agosto de 2026 los comités parlamentarios acordaron aplazar su discusión en la Sala.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 15 jul 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 23 jul 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Defensa Nacional.La Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -2882,7 +2943,6 @@ Agrega un numeral al artículo 20 de la ley 21.442, de copropiedad inmobiliaria.
 Afecta a administradores y comités de administración de condominios, y a sus residentes.3 El Ministerio de Vivienda podría complementar las reglas y hacer un formato tipo de certificado.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5
 La Cámara aprobó el proyecto el 24 de marzo de 2026, en general y en particular a la vez.54 El 27 de octubre de 2026 el Senado lo aprobó con modificaciones, tras el informe unánime de su Comisión de Vivienda.32 El 28 de octubre de 2026 la Cámara recibió esas modificaciones. El proyecto está en tercer trámite y quedó para tabla.5
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 6
 Tercer trámite: la cámara de origen vota los cambios de la otra.
 - 24 mar 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
@@ -3274,7 +3334,6 @@ Agrega un inciso segundo al número 14 del artículo 32 de la Constitución, sob
 Afecta la facultad del Presidente de la República y a las personas condenadas por esos delitos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3 La comisión dejó constancia de que el proyecto no requiere pasar por la Comisión de Hacienda.2
 El proyecto ingresó el 1 de diciembre de 2025 y está en primer trámite en la Cámara, sin urgencia.3 El 2 de marzo de 2026, la Comisión de Constitución lo rechazó en general, por no alcanzar la mayoría: 5 votos a favor, 4 en contra y 1 abstención.2 Ese mismo día se dio cuenta de su informe y el proyecto quedó para tabla.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 1 dic 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 2 dic 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -3479,7 +3538,6 @@ Modifica la ley 19.928, de fomento de la música chilena, y la ley del consumido
 Afecta a las productoras de eventos musicales masivos y a quienes compran entradas. Fiscalizaría el Servicio Nacional del Consumidor.3
 El informe financiero N° 173, del 17 de julio de 2026, dice que el proyecto no irrogará un mayor gasto fiscal, porque la fiscalización se hará con la dotación y el presupuesto vigentes.3
 El proyecto ingresó el 8 de abril de 2026 y se refundió con el boletín 18267-24, sobre teloneros chilenos.4 El 10 de agosto de 2026, la Comisión de Cultura entregó su informe. La idea de legislar se aprobó por unanimidad.24 El proyecto está en primer trámite en la Cámara, sin urgencia.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 8 abr 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 13 abr 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Cultura, Artes y ComunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -3609,7 +3667,6 @@ Modifica la Ley de Navegación y el Código del Trabajo, en el control de jornad
 Afecta a dueños de naves, capitanes, oficiales y tripulaciones, y la Dirección General del Territorio Marítimo aplicaría las nuevas reglas.13
 El informe financiero N° 189, del 5 de agosto de 2026, dice que el proyecto no tendrá incidencia en el presupuesto fiscal, porque se aplicará con el personal y los recursos vigentes de la autoridad marítima.3
 El proyecto ingresó el 15 de abril de 2026 y pasó a la Comisión de Pesca, Acuicultura e Intereses Marítimos.54 El 5 de octubre de 2026 se dio cuenta de su primer informe, que aprobó el proyecto en general por unanimidad.25 El proyecto está en primer trámite en la Cámara, sin urgencia, y quedó para tabla.5
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 6
 - 15 abr 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 20 abr 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y TelecomunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -3646,7 +3703,6 @@ Es una ley nueva, que se aplicaría a las organizaciones y torneos de fútbol am
 Afecta a la Asociación Nacional de Fútbol Amateur, a las asociaciones regionales y locales, y a quienes juegan o asisten a los partidos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero y la comisión dijo que no es competencia de Hacienda.32
 El proyecto ingresó el 15 de abril de 2026 y pasó a la Comisión de Deportes y Recreación.3 El 6 de octubre de 2026 esa comisión entregó su informe. Aprobó el proyecto en general por unanimidad, con 12 votos a favor.23 El 27 de octubre de 2026 se dio cuenta del informe en la Sala. El proyecto sigue en primer trámite, sin urgencia.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 15 abr 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 20 abr 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Deportes y RecreaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -3800,7 +3856,6 @@ Mientras rija, no se exigiría licencia profesional a los conductores de las emp
 La moción dice que circulan cerca de 140.000 conductores de aplicaciones.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 Ingresó el 25 de abril de 2026 y el 4 de mayo pasó a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.3 Esa comisión lo trató el 20 de octubre de 2026 y el resultado registrado fue «Pendiente».2 Sin urgencia, figura en la citación de esa comisión del 17 de noviembre de 2026.34
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 25 abr 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 4 may 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y TelecomunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -3948,7 +4003,6 @@ Agrega un artículo 18 ter a la ley 20.027, de financiamiento de estudios superi
 Afecta a quienes tienen deudas morosas del CAE y a la Tesorería General de la República.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 La comisión indicó que el proyecto aprobado por ella no requiere pasar por la Comisión de Hacienda.2
 El proyecto ingresó el 28 de abril de 2026 y se derivó a la Comisión de Futuro, Ciencias y Tecnología.43 El 22 de junio de 2026 esa comisión rechazó la idea de legislar, por no alcanzar el quórum: 6 votos a favor, 5 en contra y 1 abstención.2 El proyecto está en primer trámite en la Cámara, sin urgencia.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 28 abr 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 4 may 2026 · CámaraCuenta de proyecto. Pasa a Comisión de EducaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -4288,7 +4342,6 @@ Modifica el artículo 17 de la ley 19.928, de fomento de la música chilena.1 Se
 Afecta a los artistas nacionales que actúan como teloneros y a las productoras de conciertos de artistas extranjeros.1
 El informe financiero N° 173, del 17 de julio de 2026, se refiere al proyecto refundido y dice que no irrogará un mayor gasto fiscal.3
 El proyecto ingresó el 13 de mayo de 2026 y el 23 de junio se acordó refundirlo con el boletín 18166-24.4 El 10 de agosto de 2026, la Comisión de Cultura entregó su informe. La idea de legislar se aprobó por unanimidad.24 El proyecto está en primer trámite en la Cámara, sin urgencia.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 13 may 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 20 may 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Cultura, Artes y ComunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -4644,7 +4697,6 @@ Modifica el Código Civil, la ley de Tribunales de Familia y normas penales.1 Lo
 Afecta a niños y padres en procesos de familia, y a peritos y abogados que intervienen en ellos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 Ingresó el 2 de junio de 2026 y el 10 de junio pasó a la Comisión de la Familia, en primer trámite, sin urgencia.3 El 19 de octubre de 2026 esa comisión continuó su estudio y escuchó al Ministro de Justicia.2 Está citada el 16 de noviembre de 2026 para continuar la discusión general y votar en general.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 5
 - 2 jun 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 10 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de la FamiliaLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -4762,7 +4814,6 @@ Es un proyecto de acuerdo de artículo único: aprueba la enmienda, no modifica 
 Afecta la participación de Chile en la Junta de Gobernadores del organismo.1 El mensaje indica que mejoraría la representación del grupo de países de América Latina y el Caribe.1
 Dato pendiente No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.
 El Senado aprobó el proyecto el 19 de agosto de 2026, en general y en particular a la vez, tras el informe unánime de su Comisión de Relaciones Exteriores.52 El 20 de octubre de 2026, la Comisión de Relaciones Exteriores de la Cámara despachó el proyecto.4 El 4 de noviembre de 2026 se dio cuenta del informe. Está en segundo trámite en la Cámara, sin urgencia.5
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 6
 - 10 jun 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Relaciones ExterioresLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 24 jun 2026 · SenadoPrimer informe de comisión de Relaciones Exteriores.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
@@ -4828,7 +4879,6 @@ Agrega un inciso final al artículo 57 del Código del Trabajo, que regula el em
 Afecta a trabajadores con deudas en cobranza, a sus acreedores y a los bancos.1 En la comisión se dijo que el proyecto tendría impacto fiscal, por una menor recaudación.5
 Es una moción parlamentaria. En su expediente no figura un informe financiero.6 La comisión indicó que el articulado no requiere pasar por la Comisión de Hacienda.3
 El proyecto ingresó el 8 de junio de 2026 y la Sala lo radicó en la Comisión de Educación.64 El 2 de septiembre de 2026 esa comisión lo declaró inadmisible. El 23 de septiembre la Sala lo declaró admisible, por 53 votos contra 52.26 El 2 de noviembre de 2026 la comisión entregó un nuevo informe: rechazó el proyecto en general, por 5 votos a favor y 7 en contra.2
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 7
 - 15 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad SocialLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 15 jun 2026 · CámaraA solicitud del diputado Moreno, el proyecto se radica en la Comisión de Educación. ACORDADO
@@ -5315,7 +5365,6 @@ Nadie podría ser apoderado de más de tres estudiantes de distintas familias, s
 Afecta a los apoderados, a los padres y a los establecimientos educacionales.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 Ingresó el 7 de julio de 2026 y el 14 de julio pasó a la Comisión de Educación, en primer trámite, sin urgencia.2 Esa comisión lo tiene citado el 17 de noviembre de 2026 para iniciar la votación en particular.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 7 jul 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 14 jul 2026 · CámaraCuenta de proyecto. Pasa a Comisión de EducaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -5445,7 +5494,6 @@ El reglamento actual debería modificarse en seis meses desde la publicación de
 Afecta a las personas con discapacidad visual y a los servicios de transporte público con sistemas de sonido.1 La moción dice que no impone comprar ni instalar equipos nuevos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4
 Ingresó a la Cámara de Diputados el 21 de julio de 2026 y el 3 de agosto pasó a la Comisión de Personas Mayores y Discapacidad.4 Después deberá verlo la Comisión de Obras Públicas, Transportes y Telecomunicaciones.23 La primera comisión lo tiene citado el 17 de noviembre de 2026, a las 17:30, para continuar su discusión en general.5
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 6
 - 21 jul 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 3 ago 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Personas Mayores y Discapacidad.La Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -5680,7 +5728,6 @@ Dato pendiente El resto del texto no se pudo leer, por lo que otros cambios son 
 Afecta a los directores de hospitales y clínicas particulares y a los niños abandonados en ellos.1 El Senado consultó a la Corte Suprema porque una norma toca las atribuciones de los tribunales.2
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 La senadora Astudillo presentó la moción el 5 de agosto de 2026.13 El 11 de agosto pasó a la Comisión de Familia, Infancia y Adolescencia y se pidió el parecer de la Corte Suprema.23 Está en primer trámite en el Senado, sin urgencia.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 5 ago 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 11 ago 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Familia, Infancia y Adolescencia.. Se remite el proyecto a la Corte Suprema.La Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -5718,7 +5765,6 @@ Crea un fondo especial con contribuciones, legados y donaciones privadas.1 Orden
 Afecta a la región de Arica y Parinacota, donde se erigiría el monumento.1 La comisión incluiría al gobernador regional, al alcalde de Arica y al rector de la Universidad de Tarapacá, entre otros.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2 La moción dice que la obra se financiaría solo con aportes privados, donaciones y colectas públicas.1
 El proyecto ingresó al Senado el 10 de agosto de 2026 y pasó a la Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación.2 No tiene urgencia.2 La comisión está citada el 23 de noviembre de 2026 para iniciar la discusión en general.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 10 ago 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 11 ago 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Cultura, Patrimonio, Artes, Deportes y RecreaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -6056,7 +6102,6 @@ Define espectáculo pornográfico como toda actividad que muestre de forma expl�
 Afecta a las actividades culturales y artísticas que quieran acceder a fondos públicos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 Ingresó a la Cámara de Diputados el 29 de julio de 2026.2 El 1 de septiembre pasó a la Comisión de Cultura, Artes y Comunicaciones y, una vez informado, irá a la Comisión de Hacienda.2 La Comisión de Cultura lo tiene citado el 16 de noviembre de 2026, a las 14:50, para continuar la discusión general.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 29 jul 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 1 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Cultura, Artes y ComunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -6809,6 +6854,35 @@ Vence en 12 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de novi
 - 7Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 18764-07
+
+URL: https://urgenciaskast.cl/p/18764-07.html
+
+Urgencias/Boletín 18764-07Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
+Título oficial del proyecto
+## Sanciona la administración temeraria de los fondos de pensiones
+- 1. Resumen del proyecto
+18764-07
+21 oct 2026, Senado
+Primer trámite, Senado
+Próxima citación
+23 nov 2026, 10:30 · Comisión de Constitución, Legislación, Justicia y Reglamento
+29 días
+Bloque 1
+### Resumen en preparación
+Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
+Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
+¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+1
+- 21 oct 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
+- 21 oct 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 23 nov 2026 · 10:30Citado: Comisión de Constitución, Legislación, Justicia y Reglamento, SenadoSegún la citación publicada.
+### Para conducir la discusión de este proyecto
+Fuentes
+- 1Senado, ficha de tramitación del boletín 18764-07Consulta automática. Etapas, trámites y urgencias.
+- 2Cámara de Diputadas y Diputados, tramitación del boletín 18764-07Consulta automática
+- 3Texto del proyecto (moción)Documento original del proyecto.
+
 ## Boletín 18779-07
 
 URL: https://urgenciaskast.cl/p/18779-07.html
@@ -7069,7 +7143,6 @@ Modifica la ley 19.525 y el artículo 134 de la Ley General de Urbanismo y Const
 Afecta a los ministerios de Obras Públicas y de Vivienda y Urbanismo, y a quienes urbanizan terrenos.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 Ingresó a la Cámara de Diputados el 21 de octubre de 2026 y el 28 de octubre pasó a la Comisión de Obras Públicas, Transportes y Telecomunicaciones.2 La Comisión de Recursos Hídricos y Desertificación lo tiene citado el 16 de noviembre de 2026, a las 14:50, para iniciar su estudio en general.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
 4
 - 21 oct 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 28 oct 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y TelecomunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
