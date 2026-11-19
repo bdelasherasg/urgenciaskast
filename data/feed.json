@@ -1,22 +1,14 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-18T23:37-03:00",
+ "actualizado": "2026-11-19T06:27-03:00",
  "conteos": {
-  "urgencias_vigentes": 27,
-  "discusion_inmediata": 5,
-  "vencen_7_dias": 8,
-  "citaciones_7_dias": 15
+  "urgencias_vigentes": 26,
+  "discusion_inmediata": 4,
+  "vencen_7_dias": 15,
+  "citaciones_7_dias": 13
  },
  "proximos_vencimientos": [
-  {
-   "boletin": "14782-13",
-   "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
-   "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-18",
-   "url": "https://urgenciaskast.cl/p/14782-13.html"
-  },
   {
    "boletin": "14309-04",
    "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
@@ -44,7 +36,7 @@
   {
    "boletin": "18286-03",
    "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
-   "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con suma urgencia.",
+   "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-24",
    "url": "https://urgenciaskast.cl/p/18286-03.html"
@@ -56,165 +48,17 @@
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-24",
    "url": "https://urgenciaskast.cl/p/18314-07.html"
+  },
+  {
+   "boletin": "18643-05",
+   "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+   "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-24",
+   "url": "https://urgenciaskast.cl/p/18643-05.html"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-18",
-   "hora": "10:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "proyectos": [
-    {
-     "boletin": "14782-13",
-     "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
-     "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
-     "url": "https://urgenciaskast.cl/p/14782-13.html"
-    },
-    {
-     "boletin": "18594-25",
-     "titulo": "Modifica el Código Penal y el Código Procesal Penal para sancionar la extorsión territorial y el cobro de protección",
-     "sintesis": "Agrava las penas de la extorsión usada para controlar un territorio, como el cobro de protección, y castiga a quienes recaudan esos pagos. Tiene urgencia simple, en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/18594-25.html"
-    },
-    {
-     "boletin": "16709-11",
-     "titulo": "Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad",
-     "sintesis": "Agrega la infertilidad a la información y orientación que la ley de regulación de la fertilidad reconoce a las personas. El Senado lo aprobó. La Cámara lo aprobó en general y espera su votación en particular.",
-     "url": "https://urgenciaskast.cl/p/16709-11.html"
-    },
-    {
-     "boletin": "17737-14",
-     "titulo": "Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia",
-     "sintesis": "Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y ahora la Cámara debe pronunciarse sobre ellos, en tercer trámite.",
-     "url": "https://urgenciaskast.cl/p/17737-14.html"
-    },
-    {
-     "boletin": "18345-13",
-     "titulo": "Modifica el Código del Trabajo para resguardar la inembargabilidad de las remuneraciones de los trabajadores ante acciones de cobranza",
-     "sintesis": "Protege el sueldo del trabajador frente a embargos, aunque ya esté depositado en su cuenta bancaria. La Comisión de Educación lo rechazó en general. Está en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/18345-13.html"
-    },
-    {
-     "boletin": "17999-07",
-     "titulo": "Modifica la Carta Fundamental para limitar la facultad del Presidente de la República para conceder indultos particulares",
-     "sintesis": "Prohíbe que el Presidente indulte a personas condenadas por crímenes de lesa humanidad. La Comisión de Constitución lo rechazó en general. Está en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/17999-07.html"
-    },
-    {
-     "boletin": "17247-13",
-     "titulo": "Interpreta el artículo 10 del Estatuto Administrativo y el artículo 2° del Estatuto Administrativo para Funcionarios Municipales, en el sentido de que el principio de confianza legítima es aplicable a los empleos a contrata que indica",
-     "sintesis": "Declara que el personal a contrata renovado por un segundo año seguido tiene confianza legítima de que seguirá en su cargo. La Comisión de Trabajo lo aprobó en general. Está en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/17247-13.html"
-    },
-    {
-     "boletin": "17462-11",
-     "titulo": "Establece medidas para fomentar la concientización y detección temprana del cáncer de tiroides",
-     "sintesis": "Permite informar en los centros de salud sobre el cáncer de tiroides y crear un registro nacional de pacientes. La Comisión de Salud lo aprobó en general y espera su discusión en la Sala.",
-     "url": "https://urgenciaskast.cl/p/17462-11.html"
-    },
-    {
-     "boletin": "18166-24",
-     "titulo": "Introduce la obligación de las empresas productoras de conciertos y eventos musicales masivos en orden a garantizar la adecuada visibilidad del espectáculo a sus asistentes",
-     "sintesis": "Obliga a las productoras de conciertos masivos a informar la visibilidad de cada sector antes de vender las entradas. La Comisión de Cultura lo aprobó en general. Está en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/18166-24.html"
-    },
-    {
-     "boletin": "18267-24",
-     "titulo": "Modifica la ley N° 19.928, sobre fomento de la música chilena, para regular y proteger la participación de teloneros chilenos en conciertos de artistas extranjeros",
-     "sintesis": "Protege las condiciones de los teloneros chilenos en conciertos de artistas extranjeros y crea multas por incumplir. Se tramita refundido con otra moción, en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/18267-24.html"
-    },
-    {
-     "boletin": "15779-03",
-     "titulo": "Modifica diversos cuerpos legales para eliminar la unidad de fomento como sistema de reajustabilidad en casos que indica",
-     "sintesis": "Busca que arriendos, aranceles educacionales, créditos hipotecarios y planes de salud se fijen en pesos y no en unidades de fomento. Está en primer trámite en la Cámara, refundido con otra moción.",
-     "url": "https://urgenciaskast.cl/p/15779-03.html"
-    },
-    {
-     "boletin": "15787-03",
-     "titulo": "Modifica la ley N°19.496, que establece normas sobre protección de los derechos de los consumidores, para exigir que los contratos de prestación de servicios educacionales sean pactados en moneda nacional",
-     "sintesis": "Prohíbe que los contratos de servicios educacionales se pacten en unidades de fomento y exige que se fijen en moneda nacional. Está en primer trámite en la Cámara, refundido con otra moción.",
-     "url": "https://urgenciaskast.cl/p/15787-03.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-18",
-   "hora": "10:17",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "proyectos": [
-    {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-18",
-   "hora": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
-   "proyectos": [
-    {
-     "boletin": "18331-17",
-     "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
-     "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
-     "url": "https://urgenciaskast.cl/p/18331-17.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-18",
-   "hora": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Medio Ambiente y Recursos Naturales",
-   "proyectos": [
-    {
-     "boletin": "16552-12",
-     "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
-     "sintesis": "Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.",
-     "url": "https://urgenciaskast.cl/p/16552-12.html"
-    },
-    {
-     "boletin": "18271-07",
-     "titulo": "Establece la obligación de declarar los aportes provenientes desde el extranjero para personas jurídicas sin fines de lucro",
-     "sintesis": "Obliga a las organizaciones sin fines de lucro a declarar los aportes que reciben desde el extranjero, con multa si no lo hacen. Está en primer trámite en la Cámara de Diputados.",
-     "url": "https://urgenciaskast.cl/p/18271-07.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-18",
-   "hora": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Mujeres y Equidad de Género",
-   "proyectos": [
-    {
-     "boletin": "18621-34",
-     "titulo": "Perfecciona las normas sobre medidas cautelares en los procedimientos de violencia intrafamiliar y de violencia contra las mujeres en razón de su género, y modifica las leyes que indica",
-     "sintesis": "Perfecciona las medidas de protección que dictan los jueces en casos de violencia intrafamiliar y de violencia contra las mujeres por razón de género. Está en primer trámite en la Cámara.",
-     "url": "https://urgenciaskast.cl/p/18621-34.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-18",
-   "hora": "15:16",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "proyectos": [
-    {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
-    }
-   ]
-  },
   {
    "fecha": "2026-11-19",
    "hora": "10:00",
@@ -310,9 +154,99 @@
      "url": "https://urgenciaskast.cl/p/18643-05.html"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "11:15",
+   "camara": "Senado",
+   "organo": "Comisión de Familia, Infancia y Adolescencia",
+   "proyectos": [
+    {
+     "boletin": "18554-36",
+     "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
+     "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
+     "url": "https://urgenciaskast.cl/p/18554-36.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Defensa Nacional",
+   "proyectos": [
+    {
+     "boletin": "16143-02",
+     "titulo": "Para la protección de la infraestructura crítica del país",
+     "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/16143-02.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+   "proyectos": [
+    {
+     "boletin": "14024-12",
+     "titulo": "Modifica la ley N°18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para prohibir la utilización de elementos de propaganda electoral fabricados con material plástico no compostable",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/14024-12.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "10:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "proyectos": [
+    {
+     "boletin": "18643-05",
+     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18643-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
+   "proyectos": [
+    {
+     "boletin": "18420-25",
+     "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+     "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
+     "url": "https://urgenciaskast.cl/p/18420-25.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Obras Públicas",
+   "proyectos": [
+    {
+     "boletin": "8654-15",
+     "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
+     "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
+     "url": "https://urgenciaskast.cl/p/8654-15.html"
+    }
+   ]
   }
  ],
  "fichas_recientes": [
+  {
+   "boletin": "18286-03",
+   "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
+   "publicado": "2026-11-19",
+   "url": "https://urgenciaskast.cl/p/18286-03.html"
+  },
   {
    "boletin": "18420-25",
    "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
@@ -342,12 +276,6 @@
    "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia simple.",
    "publicado": "2026-11-17",
    "url": "https://urgenciaskast.cl/p/18208-25.html"
-  },
-  {
-   "boletin": "18554-36",
-   "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
-   "publicado": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18554-36.html"
   }
  ],
  "analisis": [
