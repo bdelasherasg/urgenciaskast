@@ -83,9 +83,9 @@
         ]
       },
       {
-        "texto": "Tiene discusión inmediata desde el 21 de octubre de 2026.",
+        "texto": "El 18 de noviembre de 2026 el Presidente hizo presente la urgencia suma, que reemplazó a la discusión inmediata.",
         "fuentes": [
-          "f13"
+          "f17"
         ]
       }
     ]
@@ -93,6 +93,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "creación de nuevos colegios",
+    "colegios subvencionados",
+    "contrato de arriendo escolar",
+    "comodato para colegios",
+    "demanda educacional"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -149,17 +156,17 @@
       "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37442&tipodoc=ofic",
       "fecha": "2026-11-11",
       "nota": "Enmiendas aprobadas y rechazada; comisión mixta."
+    },
+    {
+      "id": "f17",
+      "titulo": "Tramitación del boletín 16743-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16743",
+      "fecha": "2026-11-18",
+      "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-19",
+  "publicado": "2026-11-19",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "creación de nuevos colegios",
-    "colegios subvencionados",
-    "contrato de arriendo escolar",
-    "comodato para colegios",
-    "demanda educacional"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
