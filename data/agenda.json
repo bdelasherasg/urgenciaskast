@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-19T06:34-03:00",
+ "actualizado": "2026-11-19T08:43-03:00",
  "desde": "2026-11-19",
  "hasta": "2026-12-02",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-19T06:34",
+   "consultado": "2026-11-19T08:43",
    "citaciones": 15,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,18 +13,18 @@
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 2,
+   "conservadas": 3,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-19T06:34",
+   "consultado": "2026-11-19T08:43",
    "sesiones": 5,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-19T06:34",
+   "consultado": "2026-11-19T08:43",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-19T06:34",
+   "consultado": "2026-11-19T08:43",
    "grupos": 9
   }
  },
@@ -163,6 +163,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
+   "horario": "15:30 a 17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 97,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4857",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-23",
