@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-19T15:28-03:00",
+ "actualizado": "2026-11-19T15:34-03:00",
  "conteos": {
   "urgencias_vigentes": 41,
   "discusion_inmediata": 4,
@@ -74,7 +74,21 @@
    ]
   },
   {
-   "fecha": "2026-11-19",
+   "fecha": "2026-11-23",
+   "hora": "10:00",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "proyectos": [
+    {
+     "boletin": "18643-05",
+     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18643-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "hora": "14:00",
    "camara": "Senado",
    "organo": "Comisión de Salud",
@@ -90,20 +104,6 @@
      "titulo": "Optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos",
      "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
      "url": "https://urgenciaskast.cl/p/17567-11.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-23",
-   "hora": "10:00",
-   "camara": "Senado",
-   "organo": "Comisión de Hacienda",
-   "proyectos": [
-    {
-     "boletin": "18643-05",
-     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
-     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
-     "url": "https://urgenciaskast.cl/p/18643-05.html"
     }
    ]
   },
@@ -260,6 +260,12 @@
    "url": "https://urgenciaskast.cl/p/16743-04.html"
   },
   {
+   "boletin": "17293-27",
+   "sintesis": "Agrega a la ley del Estatuto Antártico que los mapas educativos y los usados ante organismos internacionales muestren la Antártica Chilena a la misma escala que el territorio continental. Está en primer trámite en el Senado.",
+   "publicado": "2026-11-19",
+   "url": "https://urgenciaskast.cl/p/17293-27.html"
+  },
+  {
    "boletin": "17662-07",
    "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con urgencia suma.",
    "publicado": "2026-11-19",
@@ -276,12 +282,6 @@
    "sintesis": "Autoriza erigir en Arica y Parinacota un monumento a La Cantinera, heroína de la Guerra del Pacífico, financiado con aportes privados. Está en primer trámite en el Senado, sin urgencia.",
    "publicado": "2026-11-19",
    "url": "https://urgenciaskast.cl/p/18559-37.html"
-  },
-  {
-   "boletin": "18420-25",
-   "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
-   "publicado": "2026-11-18",
-   "url": "https://urgenciaskast.cl/p/18420-25.html"
   }
  ],
  "analisis": [

@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-19T15:29-03:00",
+ "actualizado": "2026-11-19T15:35-03:00",
  "desde": "2026-11-19",
  "hasta": "2026-12-02",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-19T15:29",
+   "consultado": "2026-11-19T15:34",
    "citaciones": 18,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,18 +13,18 @@
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 4,
+   "conservadas": 6,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-19T15:29",
+   "consultado": "2026-11-19T15:34",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-19T15:29",
+   "consultado": "2026-11-19T15:34",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-19T15:29",
+   "consultado": "2026-11-19T15:35",
    "grupos": 9
   }
  },
@@ -75,26 +75,6 @@
    ],
    "tabla_leida": "2026-11-13T08:04",
    "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-19",
-   "hora": "14:00",
-   "horario": "14:00 a 15:30",
-   "camara": "Senado",
-   "organo": "Comisión de Salud",
-   "lugar": "Sala 3, Santiago.",
-   "materias": [
-    "1.- ( Bol.N° 15047-11 ) Proyecto de ley que optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos (Boletines N°s. 15.047-11 y 17.567-11, refundidos).",
-    "A esta sesión se invitará al Director de CENABAST; a la Presidenta de la Corporación FAME Chile; a la Directora de Participación e Incidencia Ciudadana de la Fundación Me Muevo, y al Dr. Patricio Ibáñez."
-   ],
-   "boletines": [
-    "15047-11",
-    "17567-11"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
    "actividad": "Discusión"
   },
   {
@@ -160,6 +140,26 @@
   },
   {
    "fecha": "2026-11-23",
+   "hora": "14:00",
+   "horario": "14:00 a 15:30",
+   "camara": "Senado",
+   "organo": "Comisión de Salud",
+   "lugar": "Sala 3, Santiago.",
+   "materias": [
+    "1.- ( Bol.N° 15047-11 ) Proyecto de ley que optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos (Boletines N°s. 15.047-11 y 17.567-11, refundidos).",
+    "A esta sesión se invitará al Director de CENABAST; a la Presidenta de la Corporación FAME Chile; a la Directora de Participación e Incidencia Ciudadana de la Fundación Me Muevo, y al Dr. Patricio Ibáñez."
+   ],
+   "boletines": [
+    "15047-11",
+    "17567-11"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-23",
    "hora": "15:00",
    "horario": "15:00 a 18:00",
    "camara": "Senado",
@@ -183,6 +183,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
+   "horario": "15:30 a 17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 97,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4857",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-23",
@@ -319,6 +338,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 98,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4858",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-24",
