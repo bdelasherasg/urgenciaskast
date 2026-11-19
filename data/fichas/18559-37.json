@@ -1,0 +1,148 @@
+{
+  "version": 2,
+  "boletin": "18559-37",
+  "nivel": "basica",
+  "sintesis": "Autoriza erigir en Arica y Parinacota un monumento a La Cantinera, heroína de la Guerra del Pacífico, financiado con aportes privados. Está en primer trámite en el Senado, sin urgencia.",
+  "materia": "el monumento a La Cantinera en Arica y Parinacota",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que la historia militar tradicional relegó el papel de la mujer en la Guerra del Pacífico.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen que persiste una deuda de memoria en el espacio público, aunque el Estado ya fijó el 27 de noviembre como Día Nacional de la Cantinera.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Autoriza erigir en la región de Arica y Parinacota un monumento en homenaje a «La Cantinera», figura de la Guerra del Pacífico.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea una comisión especial de diez integrantes, sin pago, que coordinaría y ejecutaría la obra.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esa comisión definiría la ubicación y convocaría a un concurso público nacional para el diseño.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea un fondo especial con contribuciones, legados y donaciones privadas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ordena abrir una cuenta especial en el Banco del Estado de Chile para los fondos reunidos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si sobran fondos, se usarían en investigación histórica y en actividades educativas sobre la mujer en la historia militar y social.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a la región de Arica y Parinacota, donde se erigiría el monumento.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La comisión incluiría al gobernador regional, al alcalde de Arica y al rector de la Universidad de Tarapacá, entre otros.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La moción dice que la obra se financiaría solo con aportes privados, donaciones y colectas públicas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 10 de agosto de 2026 y pasó a la Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión está citada el 23 de noviembre de 2026 para iniciar la discusión en general.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "monumento La Cantinera",
+    "La Cantinera Arica",
+    "monumento Guerra del Pacífico Arica",
+    "Día Nacional de la Cantinera",
+    "homenaje cantineras Guerra del Pacífico"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: autoriza erigir un monumento a «La Cantinera» en la región de Arica y Parinacota",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19249&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-10",
+      "nota": "Fundamentos y texto completo de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18559-37 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18559",
+      "fecha": "2026-11-18",
+      "nota": "Etapas, fechas y urgencias."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-18",
+      "nota": "Citación de la Comisión de Cultura del 23 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-19",
+  "publicado": "2026-11-19",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
