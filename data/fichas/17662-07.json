@@ -1,0 +1,152 @@
+{
+  "version": 2,
+  "boletin": "17662-07",
+  "nivel": "basica",
+  "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con urgencia suma.",
+  "materia": "las sanciones por ofensas y atentados contra policías",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que hay ofensas a los policías que no son graves, pero que, a su juicio, erosionan su autoridad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Recuerdan que la ley N° 20.064 eliminó el desacato contra Carabineros.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto de la Cámara sanciona con prisión en su grado máximo y multa de una a cuatro UTM los insultos u ofensas graves a carabineros y policías de Investigaciones en sus funciones.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "La misma pena se aplicaría a quien ofenda a gendarmes fuera de los recintos penales.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código Penal: en el atentado contra la autoridad agrega la circunstancia de actuar en grupo o amparado en él.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Si el atentado es contra carabineros, policías de Investigaciones o gendarmes, se aplicaría solo la pena privativa de libertad.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Modifica el Código Procesal Penal para permitir detener en flagrancia por esa ofensa.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a carabineros, policías de Investigaciones y gendarmes, y a quienes los ofendan en sus funciones.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. Según el informe de la comisión, ningún artículo requiere trámite en Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Un informe financiero de julio de 2026 decía que las indicaciones del Presidente no incidían en el presupuesto. Se retiraron el 17 de agosto.",
+        "fuentes": [
+          "f5",
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto en general y en particular a la vez el 1 de septiembre de 2026, y lo envió al Senado.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Está en segundo trámite en la Comisión de Seguridad Pública del Senado, que puede discutirlo en general y en particular.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma desde el 18 de noviembre de 2026.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "atentado contra la autoridad carabineros",
+    "ofensas a carabineros proyecto",
+    "insultos a Carabineros prisión",
+    "desacato Carabineros proyecto de ley",
+    "sanciones atentado contra la autoridad"
+  ],
+  "fuentes": [
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Seguridad Ciudadana de la Cámara (18 de agosto de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28195&tipodoc=info",
+      "fecha": "2026-08-18",
+      "nota": "Idea matriz, constancias y antecedentes del proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21.546 de la Cámara: texto aprobado (1 de septiembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37112&tipodoc=ofic",
+      "fecha": "2026-09-01",
+      "nota": "Texto que la Cámara envió al Senado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 142-374: el Presidente retira las indicaciones del 3 de julio de 2026",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37204&tipodoc=ofic",
+      "fecha": "2026-08-17",
+      "nota": "Retiro de las indicaciones."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 092-374 con indicaciones del Presidente e informe financiero N° 152 (3 de julio de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36775&tipodoc=ofic",
+      "fecha": "2026-07-06",
+      "nota": "Informe financiero de las indicaciones que luego se retiraron."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 17662-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17662",
+      "fecha": "2026-11-18",
+      "nota": "Etapas, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-19",
+  "publicado": "2026-11-19",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
