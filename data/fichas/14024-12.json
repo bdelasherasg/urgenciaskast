@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "boletin": "14024-12",
+  "nivel": "basica",
+  "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
+  "materia": "la prohibición del plástico no compostable en la propaganda electoral",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que el plástico de las pancartas de campaña, sobre todo el PVC, es de difícil reciclaje y contamina.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen que la ley regula el lugar y el tamaño de la propaganda, pero no su material.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto que aprobó la Cámara agrega una regla: la propaganda permitida no podrá hacerse, total o parcialmente, con plásticos no compostables.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Un plástico compostable es el que puede degradarse hasta convertirse en abono para el suelo.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El informe del Senado describe como objetivo prohibir carteles, afiches y letreros de plástico, en espacios públicos y privados.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley N° 18.700, sobre votaciones populares y escrutinios.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Suprime seis incisos de su artículo 35 y agrega un inciso final con esa prohibición.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Es una norma orgánica constitucional, que necesita la mayoría absoluta de los senadores en ejercicio.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las candidaturas que hacen propaganda con carteles, afiches y letreros.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Según el informe de la Cámara, el Servicio Electoral, las municipalidades y Carabineros solo fiscalizan la propaganda puesta en lugares no autorizados.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El informe de la Cámara dice que no hay normas que requieran trámite de Hacienda.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 21 de septiembre de 2021 y lo envió al Senado.",
+        "fuentes": [
+          "f5",
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 13 de marzo de 2024 la Sala del Senado lo devolvió a la Comisión de Medio Ambiente para un nuevo primer informe.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "Esa comisión está citada el 24 de noviembre de 2026 para seguir su estudio.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "propaganda electoral plástico",
+    "palomas electorales plástico",
+    "prohibir plástico propaganda electoral",
+    "basura electoral campañas",
+    "carteles electorales PVC"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: prohíbe el plástico no compostable como material de propaganda electoral",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=14592&tipodoc=mensaje_mocion",
+      "fecha": "2021-01-19",
+      "nota": "Fundamentos y texto original de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Medio Ambiente del Senado (15 de enero de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26249&tipodoc=info",
+      "fecha": "2024-01-15",
+      "nota": "Objetivo, quórum y discusión en el Senado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Primer informe de la Comisión de Medio Ambiente de la Cámara (26 de julio de 2021)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=23854&tipodoc=info",
+      "fecha": "2021-07-26",
+      "nota": "Idea matriz, quórum y normas de Hacienda."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 16.917 de la Cámara: texto aprobado y votaciones (21 de septiembre de 2021)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=29188&tipodoc=ofic",
+      "fecha": "2021-09-21",
+      "nota": "Texto que la Cámara envió al Senado."
+    },
+    {
+      "id": "f10",
+      "titulo": "Tramitación del boletín 14024-12 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14024",
+      "fecha": "2026-11-18",
+      "nota": "Etapas, fechas y urgencias."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-18",
+      "nota": "Citación de la Comisión de Medio Ambiente del 24 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-19",
+  "publicado": "2026-11-19",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
