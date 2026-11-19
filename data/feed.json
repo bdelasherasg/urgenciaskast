@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-19T06:27-03:00",
+ "actualizado": "2026-11-19T06:34-03:00",
  "conteos": {
   "urgencias_vigentes": 26,
   "discusion_inmediata": 4,
@@ -122,7 +122,7 @@
     {
      "boletin": "18559-37",
      "titulo": "Autoriza erigir un monumento, en la región de Arica y Parinacota, en homenaje a \"La Cantinera\", heroína de la Guerra del Pacífico",
-     "sintesis": "",
+     "sintesis": "Autoriza erigir en Arica y Parinacota un monumento a La Cantinera, heroína de la Guerra del Pacífico, financiado con aportes privados. Está en primer trámite en el Senado, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18559-37.html"
     }
    ]
@@ -192,7 +192,7 @@
     {
      "boletin": "14024-12",
      "titulo": "Modifica la ley N°18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para prohibir la utilización de elementos de propaganda electoral fabricados con material plástico no compostable",
-     "sintesis": "",
+     "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
      "url": "https://urgenciaskast.cl/p/14024-12.html"
     }
    ]
@@ -242,40 +242,40 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "14024-12",
+   "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
+   "publicado": "2026-11-19",
+   "url": "https://urgenciaskast.cl/p/14024-12.html"
+  },
+  {
+   "boletin": "16743-04",
+   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
+   "publicado": "2026-11-19",
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
+  },
+  {
+   "boletin": "17662-07",
+   "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con urgencia suma.",
+   "publicado": "2026-11-19",
+   "url": "https://urgenciaskast.cl/p/17662-07.html"
+  },
+  {
    "boletin": "18286-03",
    "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
    "publicado": "2026-11-19",
    "url": "https://urgenciaskast.cl/p/18286-03.html"
   },
   {
+   "boletin": "18559-37",
+   "sintesis": "Autoriza erigir en Arica y Parinacota un monumento a La Cantinera, heroína de la Guerra del Pacífico, financiado con aportes privados. Está en primer trámite en el Senado, sin urgencia.",
+   "publicado": "2026-11-19",
+   "url": "https://urgenciaskast.cl/p/18559-37.html"
+  },
+  {
    "boletin": "18420-25",
    "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
    "publicado": "2026-11-18",
    "url": "https://urgenciaskast.cl/p/18420-25.html"
-  },
-  {
-   "boletin": "18702-05",
-   "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
-   "publicado": "2026-11-18",
-   "url": "https://urgenciaskast.cl/p/18702-05.html"
-  },
-  {
-   "boletin": "18709-07",
-   "sintesis": "Junta en dos fechas, enero de 2028 y enero de 2029, la entrada en operación regional del Servicio Nacional de Acceso a la Justicia. La Cámara y el Senado lo aprobaron sin cambios.",
-   "publicado": "2026-11-18",
-   "url": "https://urgenciaskast.cl/p/18709-07.html"
-  },
-  {
-   "boletin": "18885-05",
-   "sintesis": "Pone un tope a los precios de la gasolina y el diésel hasta el 7 de abril de 2027 y mejora beneficios tributarios del transporte. La Cámara y el Senado lo aprobaron el 16 de noviembre.",
-   "publicado": "2026-11-18",
-   "url": "https://urgenciaskast.cl/p/18885-05.html"
-  },
-  {
-   "boletin": "18208-25",
-   "sintesis": "Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia simple.",
-   "publicado": "2026-11-17",
-   "url": "https://urgenciaskast.cl/p/18208-25.html"
   }
  ],
  "analisis": [
