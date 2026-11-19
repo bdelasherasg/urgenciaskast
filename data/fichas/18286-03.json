@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18286-03",
   "nivel": "basica",
-  "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con suma urgencia.",
+  "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
   "materia": "la firma electrónica avanzada y los documentos electrónicos",
   "resumen": {
     "problema": [
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "texto": "El 2 de noviembre se renovó la urgencia suma.",
+        "texto": "El 18 de noviembre de 2026 el Presidente hizo presente la urgencia de discusión inmediata, que reemplazó a la suma.",
         "fuentes": [
           "f10"
         ]
@@ -105,6 +105,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "firma electrónica avanzada",
+    "firma ante notario",
+    "documentos electrónicos",
+    "sellado de tiempo",
+    "servicios de certificación"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -138,19 +145,12 @@
       "id": "f10",
       "titulo": "Tramitación del boletín 18286-03 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18286",
-      "fecha": "2026-11-11",
+      "fecha": "2026-11-18",
       "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-19",
+  "publicado": "2026-11-19",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "firma electrónica avanzada",
-    "firma ante notario",
-    "documentos electrónicos",
-    "sellado de tiempo",
-    "servicios de certificación"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
