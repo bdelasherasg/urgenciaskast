@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "boletin": "17293-27",
+  "nivel": "basica",
+  "sintesis": "Agrega a la ley del Estatuto Antártico que los mapas educativos y los usados ante organismos internacionales muestren la Antártica Chilena a la misma escala que el territorio continental. Está en primer trámite en el Senado.",
+  "materia": "la representación de la Antártica Chilena en los mapas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los senadores autores dicen que la población valora poco el territorio antártico y que los planes de estudio tienen poco contenido sobre él.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen que los mapas de Chile suelen mostrar la Antártica Chilena como un rectángulo pequeño en una esquina.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, el territorio antártico mide 1.250.257,6 km² y el continental, 756.770 km².",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone agregar un inciso final al artículo 2 de la ley N° 21.255, que define el Territorio Chileno Antártico.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Estado velaría por que los mapas usados en el sistema educativo y ante organismos internacionales muestren ese territorio en la misma escala o proporción que el territorio continental.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica solo el artículo 2 de la ley N° 21.255, mediante un artículo único.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los autores buscan que el Estado tenga un papel más activo en la difusión del territorio antártico.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los mapas que se usan en colegios y a los que representan a Chile ante otros países y organismos internacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 10 de diciembre de 2024 y pasó a la Comisión Especial de Zonas Extremas y Territorios Especiales.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite constitucional y no tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Esa comisión lo tiene citado para el 2 de diciembre de 2026.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "Antártica Chilena mapas",
+    "representación cartográfica Antártica",
+    "Estatuto Antártico proyecto",
+    "mapas Chile Antártica escala",
+    "territorio antártico chileno educación"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica (10 de diciembre de 2024)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17929&tipodoc=mensaje_mocion",
+      "fecha": "2024-12-10",
+      "nota": "Fundamentos, idea matriz, contenido y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17293-27 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17293",
+      "fecha": "2026-11-19",
+      "nota": "Etapas, fechas y urgencias."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-19",
+      "nota": "Sesión de la Comisión Especial de Zonas Extremas y Territorios Especiales citada para el 2 de diciembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-19",
+  "publicado": "2026-11-19",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
