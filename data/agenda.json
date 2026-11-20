@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-19T17:40-03:00",
+ "actualizado": "2026-11-19T23:23-03:00",
  "desde": "2026-11-19",
  "hasta": "2026-12-02",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-19T17:40",
-   "citaciones": 22,
+   "consultado": "2026-11-19T23:22",
+   "citaciones": 25,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 8,
+   "conservadas": 10,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-19T17:40",
+   "consultado": "2026-11-19T23:22",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-19T17:40",
+   "consultado": "2026-11-19T23:22",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-19T17:40",
+   "consultado": "2026-11-19T23:23",
    "grupos": 9
   }
  },
@@ -342,6 +342,25 @@
   {
    "fecha": "2026-11-23",
    "hora": "15:30",
+   "horario": "15:30 a 17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 97,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4857",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
    "horario": "15:30 a 17:00",
    "camara": "Senado",
    "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
@@ -379,6 +398,47 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "09:30",
+   "horario": "09:30 a 11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Salud",
+   "lugar": "Sala 11 Dr. Fernando Monckeberg, Valparaíso.",
+   "materias": [
+    "1.- Tratar el tema de Envejecimiento Activo.",
+    "A este punto, se invitará al Profesor emérito de la UC Louvain, Bélgica, señor Michel Poulain, para que exponga sobre el impacto de las zonas azules en la longevidad, desafíos para Chile e Iberoamérica.",
+    "2.- ( Bol.N° 11058-11 ) Proyecto de ley para regular la venta de bebidas con aditivos energizantes y sustancias estimulantes a menores de edad (Boletines N°s. 11.058-11 y 15.241-11, refundidos).",
+    "A este asunto, se invitará a la Subsecretaria de Salud Pública y al Presidente de la Sociedad Chilena de Pediatría."
+   ],
+   "boletines": [
+    "11058-11",
+    "15241-11"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 98,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4858",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-24",
@@ -469,6 +529,25 @@
    ],
    "boletines": [
     "18643-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "11:00",
+   "horario": "11:00 a 12:00",
+   "camara": "Senado",
+   "organo": "Comisión de Seguridad Pública",
+   "lugar": "Sala N° 10, Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° 18881-25 ) Continuar el estudio del proyecto de ley, en primer trámite constitucional, que deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal (Boletín N° 18.881-25).",
+    "Para tratar este asunto serán invitados el Ministro de Justicia y Derechos Humanos, señor Fernando Rabat; el Fiscal Nacional del Ministerio Público, señor Ángel Valencia; la Defensora Nacional de la Defensoría Penal Pública, señora Verónica Encina, y el Director Nacional de Gendarmería, señor Rubén Pérez."
+   ],
+   "boletines": [
+    "18881-25"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
@@ -587,6 +666,25 @@
    ],
    "boletines": [
     "17877-33"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "09:30",
+   "horario": "09:30 a 11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Transportes y Telecomunicaciones",
+   "lugar": "Sala 5, (Valparaíso)",
+   "materias": [
+    "1.- ( Bol.N° 18888-03 ) Iniciar el estudio del proyecto de ley, en primer trámite constitucional, originado en moción de los Honorables Senadores señoras Astudillo, Carvajal y Cicardini y señores Castro y De Urresti, que modifica el Código de Comercio para regular la renegociación de contratos de transporte ante alzas en el precio de los combustibles y establece normas de transparencia y acceso a precios preferenciales.",
+    "A esta sesión han sido invitados el Ministro de Economía, Fomento y Turismo, señor Daniel Mas; el Presidente de la Corporación Nacional de Consumidores y Usuarios (CONADECUS), señor Hernán Calderón; el Presidente de la Federación de Dueños de Camiones de la Quinta Región (FEDEQUINTA), señor Iván Mateluna; el Presidente Nacional de la Confederación Fuerza del Norte (CTFN), señor Cristián Sandoval; el Presidente de la Asociación Gremial Comando Defensa Puerto Iquique, Unión de Camioneros (C.D.P.I."
+   ],
+   "boletines": [
+    "18888-03"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
@@ -1943,6 +2041,12 @@
    "camara": "Senado"
   },
   {
+   "boletin": "16300-07",
+   "vence": "2026-11-25",
+   "tipo": "Discusión inmediata",
+   "camara": "Senado"
+  },
+  {
    "boletin": "16725-06",
    "vence": "2026-11-25",
    "tipo": "Suma",
@@ -2064,6 +2168,68 @@
   }
  ],
  "proyectos": {
+  "11058-11": {
+   "boletin": "11058-11",
+   "titulo": "Regula la venta de bebidas con aditivos energizantes y sustancias estimulantes a menores de edad.",
+   "fecha_ingreso": "2016-12-21",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Salud",
+   "estado": "Archivado",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2016-12-21",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2017-01-03",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2019-03-06",
+     "descripcion": "Archivado Artículo 36, inc. 2º, del Reglamento del Senado. Oficio Nº 19-S de la Comisión de Salud, 04.03.2019.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-08-09",
+     "descripcion": "Desarchivado Legislatura N° 370, sesión 43. A solicitud del Honorable Senador señor Chahuán.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-08-09",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondientes a los boletines N° 11.058-11 y N° 15.241-11.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=11058-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=11058-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=11572&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 3620
+  },
   "11929-13": {
    "boletin": "11929-13",
    "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
@@ -3817,6 +3983,56 @@
     "mixta": false
    },
    "dias_tramite": 1718
+  },
+  "15241-11": {
+   "boletin": "15241-11",
+   "titulo": "Prohíbe la venta a menores de edad de bebidas energéticas que contengan aditivos energizantes y sustancias estimulantes.",
+   "fecha_ingreso": "2022-08-02",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Salud",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2022-08-02",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-08-03",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-08-09",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondientes a los boletines N° 11.058-11 y N° 15.241-11.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15241-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=15241-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15753&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 1570
   },
   "15387-12": {
    "boletin": "15387-12",
@@ -11735,12 +11951,6 @@
    "tramites": [
     {
      "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos.  PARTIDA 27 Ministerio de la Mujer y la equidad de genero",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
      "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 28 Servicio Electoral",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
@@ -11850,6 +12060,12 @@
     {
      "fecha": "2026-11-19",
      "descripcion": "El Ejecutivo hizo reserva de constitucionalidad de la ind 1134",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-19",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad de las ind 1141 y 115",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }
@@ -12315,6 +12531,56 @@
     "mixta": false
    },
    "dias_tramite": 7
+  },
+  "18888-03": {
+   "boletin": "18888-03",
+   "titulo": "Proyecto de ley que modifica el Código de Comercio para regular la renegociación de contratos de transporte ante alzas en el precio de los combustibles y establece normas de transparencia y acceso a precios preferenciales",
+   "fecha_ingreso": "2026-11-13",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Economía",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-11-13",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Economía",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "La Sala acuerda que el proyecto sea conocido por la Comisión de Transportes y Telecomunicaciones, en lugar de la Comisión de Economía",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18888-03",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18888-03",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19566&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 6
   },
   "8654-15": {
    "boletin": "8654-15",

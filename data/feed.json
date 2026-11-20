@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-19T17:40-03:00",
+ "actualizado": "2026-11-19T23:22-03:00",
  "conteos": {
-  "urgencias_vigentes": 41,
-  "discusion_inmediata": 4,
-  "vencen_7_dias": 30,
-  "citaciones_7_dias": 20
+  "urgencias_vigentes": 42,
+  "discusion_inmediata": 5,
+  "vencen_7_dias": 31,
+  "citaciones_7_dias": 23
  },
  "proximos_vencimientos": [
   {
@@ -183,6 +183,26 @@
   },
   {
    "fecha": "2026-11-24",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Salud",
+   "proyectos": [
+    {
+     "boletin": "11058-11",
+     "titulo": "Regula la venta de bebidas con aditivos energizantes y sustancias estimulantes a menores de edad.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/11058-11.html"
+    },
+    {
+     "boletin": "15241-11",
+     "titulo": "Prohíbe la venta a menores de edad de bebidas energéticas que contengan aditivos energizantes y sustancias estimulantes.",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/15241-11.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
    "hora": "10:00",
    "camara": "Senado",
    "organo": "Comisión de Vivienda y Urbanismo",
@@ -211,6 +231,20 @@
   },
   {
    "fecha": "2026-11-24",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Seguridad Pública",
+   "proyectos": [
+    {
+     "boletin": "18881-25",
+     "titulo": "Deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal",
+     "sintesis": "Deroga la ley que permite reducir las condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal. Está en primer trámite en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18881-25.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
    "hora": "11:15",
    "camara": "Senado",
    "organo": "Comisión de Familia, Infancia y Adolescencia",
@@ -220,34 +254,6 @@
      "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
      "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18554-36.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Defensa Nacional",
-   "proyectos": [
-    {
-     "boletin": "16143-02",
-     "titulo": "Para la protección de la infraestructura crítica del país",
-     "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/16143-02.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
-   "proyectos": [
-    {
-     "boletin": "14024-12",
-     "titulo": "Modifica la ley N°18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para prohibir la utilización de elementos de propaganda electoral fabricados con material plástico no compostable",
-     "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
-     "url": "https://urgenciaskast.cl/p/14024-12.html"
     }
    ]
   }
