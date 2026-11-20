@@ -1,0 +1,134 @@
+{
+  "version": 2,
+  "boletin": "11058-11",
+  "nivel": "basica",
+  "sintesis": "Prohíbe vender bebidas con aditivos energizantes y estimulantes a menores de edad. Es una moción del Senado de 2016, refundida con otro proyecto en 2022. Espera el primer informe de la Comisión de Salud.",
+  "materia": "la venta de bebidas energéticas a menores de edad",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que las normas actuales no protegen bien a los menores de edad frente a bebidas con aditivos y estimulantes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Citan a la Organización Mundial de la Salud, que advierte un peligro para la salud pública, sobre todo entre los jóvenes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señalan que estas bebidas se venden sin límite de edad, a diferencia del alcohol y el tabaco.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Busca regular la venta y el consumo de bebidas sin alcohol que tienen estimulantes, como las energéticas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Establece la prohibición de venderlas o entregarlas a menores de edad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El texto guardado de la moción se corta antes del articulado, por lo que su redacción exacta queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Hoy estas bebidas se rigen por el Reglamento Sanitario de los Alimentos, dentro de los suplementos alimentarios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción revisa leyes de otros países, que prohíben la venta a menores y definen qué es una bebida energética.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afectaría a quienes venden o distribuyen estas bebidas y a los menores de edad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción cita un estudio del Senda, con escolares mayores de 12 años, que halló más consumo en colegios particulares pagados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 21 de diciembre de 2016 y pasó a la Comisión de Salud.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Se archivó en 2019 y se desarchivó el 9 de agosto de 2022.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Ese día la Sala lo refundió con el boletín 15.241-11, y sigue en primer trámite.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "bebidas energéticas menores de edad",
+    "venta de bebidas energéticas",
+    "prohibir bebidas energéticas a menores",
+    "bebidas energizantes colegios",
+    "cafeína bebidas energéticas niños"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Regula la venta de bebidas con aditivos energizantes y sustancias estimulantes a menores de edad",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=11572&tipodoc=mensaje_mocion",
+      "fecha": "2016-12-21",
+      "nota": "Fundamentos y objetivo de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 11058-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=11058",
+      "fecha": "2026-11-20",
+      "nota": "Etapa, fechas y urgencia."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
