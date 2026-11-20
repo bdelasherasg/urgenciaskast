@@ -69,9 +69,10 @@
     ],
     "costo": [
       {
-        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
-        "fuentes": [],
-        "pendiente": true
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
       }
     ],
     "estado": [
@@ -98,6 +99,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "contrato por horas",
+    "trabajo por horas",
+    "jornada por horas",
+    "contratos de 120 horas",
+    "empleo por horas Senado"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -114,15 +122,8 @@
       "nota": "Etapa y urgencias."
     }
   ],
-  "consultado": "2026-11-11",
-  "publicado": "2026-11-11",
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "contrato por horas",
-    "trabajo por horas",
-    "jornada por horas",
-    "contratos de 120 horas",
-    "empleo por horas Senado"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
