@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-20T15:35-03:00",
+ "actualizado": "2026-11-20T17:23-03:00",
  "desde": "2026-11-20",
  "hasta": "2026-12-03",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-20T15:35",
-   "citaciones": 27,
+   "consultado": "2026-11-20T17:22",
+   "citaciones": 29,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 20,
+   "conservadas": 22,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-20T15:35",
+   "consultado": "2026-11-20T17:22",
    "sesiones": 5,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-20T15:35",
+   "consultado": "2026-11-20T17:22",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-20T15:35",
+   "consultado": "2026-11-20T17:22",
    "grupos": 9
   }
  },
@@ -75,6 +75,29 @@
    "boletines": [
     "17637-07",
     "18764-07"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "11:00",
+   "horario": "11:00 a 12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Gobierno, Descentralización y Regionalización",
+   "lugar": "Sala N° 144, Santiago",
+   "materias": [
+    "1.- ( Bol.N° 18850-06 ) Iniciar la discusión del proyecto de ley, en primer trámite constitucional, que establece un límite a la reelección de los dirigentes vecinales (Boletín N° 18.850-06).",
+    "2.- ( Bol.N° 18338-06 ) Escuchar exposiciones sobre el proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios (Boletines N°s 18.338-06; 17.211-06; 18.020-06, y 17.790-06, refundidos)."
+   ],
+   "boletines": [
+    "17211-06",
+    "17790-06",
+    "18020-06",
+    "18338-06",
+    "18850-06"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
@@ -421,6 +444,25 @@
   {
    "fecha": "2026-11-23",
    "hora": "15:30",
+   "horario": "15:30 a 17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 97,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4857",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
    "horario": "15:30 a 17:00",
    "camara": "Senado",
    "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
@@ -449,6 +491,7 @@
    "lugar": "Sala N° 10 de Comisiones - Valparaíso",
    "materias": [
     "1.- ( Bol.N° 12213-07 ) Modifica diversos textos legales en materia de ejecución de sanciones penales.",
+    "A esta sesión han sido invitados la Defensora Nacional de la Defensoría Penal Pública, señora Verónica Encina Vera; el Director Ejecutivo de la Fundación Paz Ciudadana, señor Daniel Johnson Rodríguez, y el Presidente de la Asociación Nacional de Magistrados y Magistradas del Poder Judicial de Chile, señor Javier Mora Méndez.",
     "2.- ( Bol.N° 15905-25 ) Modifica diversos cuerpos legales para suprimir la facultad judicial de ordenar notificaciones por medio de funcionarios de Carabineros.",
     "A esta sesión ha sido invitado el Ministro de Seguridad, señor Martín Arrau García-Huidobro."
    ],
@@ -501,6 +544,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 98,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4858",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-24",
@@ -884,6 +946,24 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "11:00",
+   "horario": "11:00 a 12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Agricultura",
+   "lugar": "Sala 7. tercer piso de Comisiones, Valparaíso",
+   "materias": [
+    "1.- Recibir a Cotrisa para que se refiera a antecedentes relativos a eventual compra de trigo por el organismo y la situación del mercado de granos.",
+    "Invitado:",
+    "El Gerente General de Cotrisa, Señor Gonzalo Becerra."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Audiencia"
   },
   {
    "fecha": "2026-11-25",
@@ -9086,6 +9166,56 @@
    },
    "dias_tramite": 760
   },
+  "17211-06": {
+   "boletin": "17211-06",
+   "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.",
+   "fecha_ingreso": "2024-10-29",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Gobierno, Descentralización y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2024-10-29",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-30",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondiente a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17211-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17211-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17837&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 752
+  },
   "17247-13": {
    "boletin": "17247-13",
    "titulo": "Interpreta el artículo 10 del Estatuto Administrativo y el artículo 2° del Estatuto Administrativo para Funcionarios Municipales, en el sentido de que el principio de confianza legítima es aplicable a los empleos a contrata que indica",
@@ -9879,6 +10009,56 @@
    },
    "dias_tramite": 483
   },
+  "17790-06": {
+   "boletin": "17790-06",
+   "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.",
+   "fecha_ingreso": "2025-08-20",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Gobierno, Descentralización y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2025-08-20",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-09-02",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondiente a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17790-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17790-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18442&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 457
+  },
   "17800-11": {
    "boletin": "17800-11",
    "titulo": "Modifica el Código Sanitario en materia de rotulación y etiquetado del recurso jurel",
@@ -10508,6 +10688,56 @@
     "plazo_dias": null
    },
    "dias_tramite": 354
+  },
+  "18020-06": {
+   "boletin": "18020-06",
+   "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos",
+   "fecha_ingreso": "2025-12-16",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Gobierno, Descentralización y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2025-12-16",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-12-17",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondiente a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18020-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18020-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18683&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 339
   },
   "18166-24": {
    "boletin": "18166-24",
@@ -11665,6 +11895,68 @@
    "cambios_tipo": 0,
    "urgencias_gobierno": 0,
    "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 163
+  },
+  "18338-06": {
+   "boletin": "18338-06",
+   "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios",
+   "fecha_ingreso": "2026-06-10",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Gobierno, Descentralización y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-06-10",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-16",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-16",
+     "descripcion": "La Sala acuerda que el proyecto de ley, una vez despachado por la Comisión de Gobierno, Descentralización y Regionalización, sea conocido por la Comisión de Educación, en dos sesiones.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-23",
+     "descripcion": "El Honorable Senador señor De Urresti adhiere a este proyecto de ley",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondientes a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18338-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18338-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19014&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
    "urgencia_vigente": {
     "tipo": "",
     "desde": null,
@@ -13560,6 +13852,50 @@
     "plazo_dias": null
    },
    "dias_tramite": 30
+  },
+  "18850-06": {
+   "boletin": "18850-06",
+   "titulo": "Proyecto de ley que consagra un límite a la reelección de los dirigentes vecinales",
+   "fecha_ingreso": "2026-11-04",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Gobierno, Descentralización y Regionalización",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-11-04",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-10",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18850-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18850-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19533&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 16
   },
   "18885-05": {
    "boletin": "18885-05",
