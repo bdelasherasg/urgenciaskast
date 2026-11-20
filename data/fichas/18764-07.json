@@ -1,0 +1,147 @@
+{
+  "version": 2,
+  "boletin": "18764-07",
+  "nivel": "basica",
+  "sintesis": "Crea un delito para quienes, en una AFP, causan por imprudencia grave un perjuicio relevante a los fondos de pensiones. Está en primer trámite, en la Comisión de Constitución del Senado.",
+  "materia": "la sanción penal de la administración temeraria de los fondos de pensiones",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el ahorro previsional es un patrimonio para la vejez, la invalidez y la sobrevivencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que hoy no hay un delito específico para quien causa un perjuicio grave a los fondos por imprudencia temeraria, es decir, por una falta grave de cuidado sin intención de dañar.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Menciona una nota de Bloomberg del 13 de octubre de 2026 sobre pérdidas en derivados de los fondos, y aclara que no prueba responsabilidades.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Agrega un artículo 159 ter al decreto ley 3.500 que sanciona esa imprudencia en la inversión de los fondos de pensiones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Alcanza a directores, gerentes y ejecutivos de una AFP, y a quienes deciden, ejecutan o controlan sus inversiones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Exige un perjuicio de más de 400 unidades tributarias mensuales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La pena es de 61 a 540 días de presidio, y de 541 días a tres años si el perjuicio supera 40.000 unidades.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Suma una inhabilitación de tres a cinco años para ejercer cargos de inversión o control en entidades que administran fondos de terceros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Incorpora el nuevo delito al catálogo de delitos económicos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La indemnización de perjuicios del artículo 149 sigue igual.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a directivos y ejecutivos de las AFP y a quienes controlan sus inversiones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "No modifica cotizaciones, prestaciones ni comisiones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La moción ingresó al Senado el 21 de octubre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Ese día pasó a la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite y no tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "administración temeraria AFP",
+    "delito imprudencia temeraria fondos de pensiones",
+    "derivados fondos de pensiones",
+    "responsabilidad penal de las AFP",
+    "pérdidas fondos de pensiones derivados"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Sanciona la administración temeraria de los fondos de pensiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19445&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-21",
+      "nota": "Fundamentos y contenido de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18764-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18764",
+      "fecha": "2026-11-19",
+      "nota": "Etapa, fechas y urgencia."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
