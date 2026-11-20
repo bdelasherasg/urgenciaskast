@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-19T23:22-03:00",
+ "actualizado": "2026-11-20T06:29-03:00",
  "conteos": {
-  "urgencias_vigentes": 42,
+  "urgencias_vigentes": 27,
   "discusion_inmediata": 5,
-  "vencen_7_dias": 31,
-  "citaciones_7_dias": 23
+  "vencen_7_dias": 16,
+  "citaciones_7_dias": 22
  },
  "proximos_vencimientos": [
   {
@@ -59,20 +59,6 @@
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-19",
-   "hora": "10:16",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "proyectos": [
-    {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
-    }
-   ]
-  },
   {
    "fecha": "2026-11-23",
    "hora": "10:00",
@@ -256,9 +242,29 @@
      "url": "https://urgenciaskast.cl/p/18554-36.html"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Defensa Nacional",
+   "proyectos": [
+    {
+     "boletin": "16143-02",
+     "titulo": "Para la protección de la infraestructura crítica del país",
+     "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/16143-02.html"
+    }
+   ]
   }
  ],
  "fichas_recientes": [
+  {
+   "boletin": "14782-13",
+   "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. La Cámara lo aprobó con cambios y ahora está en tercer trámite en el Senado.",
+   "publicado": "2026-11-20",
+   "url": "https://urgenciaskast.cl/p/14782-13.html"
+  },
   {
    "boletin": "14024-12",
    "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
@@ -288,12 +294,6 @@
    "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
    "publicado": "2026-11-19",
    "url": "https://urgenciaskast.cl/p/18286-03.html"
-  },
-  {
-   "boletin": "18559-37",
-   "sintesis": "Autoriza erigir en Arica y Parinacota un monumento a La Cantinera, heroína de la Guerra del Pacífico, financiado con aportes privados. Está en primer trámite en el Senado, sin urgencia.",
-   "publicado": "2026-11-19",
-   "url": "https://urgenciaskast.cl/p/18559-37.html"
   }
  ],
  "analisis": [
