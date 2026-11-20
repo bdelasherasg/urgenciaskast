@@ -1,0 +1,177 @@
+{
+  "version": 2,
+  "boletin": "15975-25",
+  "nivel": "basica",
+  "sintesis": "Crea un sistema para analizar información económica y detectar el crimen organizado y el lavado de dinero, con la UAF, el SII y Aduanas. Está en Comisión Mixta, que busca resolver las diferencias entre las cámaras.",
+  "materia": "el sistema de inteligencia económica contra el crimen organizado",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que busca perseguir la «ruta del dinero» del lavado de activos y otros delitos del crimen organizado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone usar análisis de datos y trabajo coordinado entre instituciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea un sistema de inteligencia económica con la Unidad de Análisis Financiero (UAF), el Servicio de Impuestos Internos (SII) y Aduanas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los organismos podrán intercambiar información reservada, y deben mantenerla secreta.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Cámara agregó un comité de coordinación con los jefes de la UAF, el SII y Aduanas.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica leyes financieras, tributarias y de casinos para reforzar controles y probidad.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La UAF podría pedir información sujeta a secreto bancario sin autorización judicial en casos acotados.",
+        "fuentes": [
+          "f25"
+        ]
+      },
+      {
+        "texto": "El Senado rechazó esta modificación de la Cámara.",
+        "fuentes": [
+          "f12",
+          "f27"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a la UAF, el SII y Aduanas, y a entidades reguladas como bancos y casinos.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sus funcionarios de inteligencia quedan sujetos a secreto estricto y a controles reforzados.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Según el informe financiero N° 41 de enero de 2026, el gasto fiscal sube 1.673.011 miles de pesos el primer año.",
+        "fuentes": [
+          "f25"
+        ]
+      },
+      {
+        "texto": "Hacienda lo estimó en el Senado en cerca de 1.600 millones el primer año y 1.300 millones en régimen.",
+        "fuentes": [
+          "f27"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto con enmiendas el 5 de marzo de 2026.",
+        "fuentes": [
+          "f14"
+        ]
+      },
+      {
+        "texto": "El 9 de junio el Senado rechazó cuatro de ellas y se formó una Comisión Mixta, que propone cómo resolver las diferencias.",
+        "fuentes": [
+          "f12"
+        ]
+      },
+      {
+        "texto": "Está citada para votar sus proposiciones el 24 de noviembre de 2026.",
+        "fuentes": [
+          "f29"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "inteligencia económica crimen organizado",
+    "ruta del dinero lavado de activos",
+    "secreto bancario UAF",
+    "Unidad de Análisis Financiero proyecto",
+    "Comisión Mixta inteligencia económica"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16514&tipodoc=mensaje_mocion",
+      "fecha": "2023-05-31",
+      "nota": "Fundamentos y contenido del mensaje."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Informe de comisión de Seguridad Pública · Tercer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27938&tipodoc=info",
+      "fecha": "2026-04-21",
+      "nota": "Resumen de las enmiendas de la Cámara en tercer trámite."
+    },
+    {
+      "id": "f12",
+      "titulo": "Oficio N° 186",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36701&tipodoc=ofic",
+      "fecha": "2026-06-09",
+      "nota": "Rechazo de enmiendas y formación de la Comisión Mixta."
+    },
+    {
+      "id": "f14",
+      "titulo": "Oficio N° 21.072",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35915&tipodoc=ofic",
+      "fecha": "2026-03-05",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f25",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27877&tipodoc=info",
+      "fecha": "2026-01-28",
+      "nota": "Pasajes sobre costo fiscal."
+    },
+    {
+      "id": "f27",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Informe de comisión de Seguridad Pública · Tercer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27938&tipodoc=info",
+      "fecha": "2026-04-21",
+      "nota": "Costo según Hacienda en el Senado."
+    },
+    {
+      "id": "f29",
+      "titulo": "Senado, citaciones por fecha: Comisión Mixta para el boletín 15975-25",
+      "url": "https://portallegislativo.senado.cl/proyectos-ley?boletin=15975-25",
+      "fecha": "2026-11-20",
+      "nota": "Citación a votar proposiciones."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
