@@ -115,7 +115,7 @@
         ]
       },
       {
-        "texto": "La Sala del Senado lo tuvo en tabla el 17 de noviembre y lo tiene citado el 18 y el 19.",
+        "texto": "La Sala del Senado lo trató del 16 al 19 de noviembre. La última fue la sesión 85.",
         "fuentes": [
           "f12"
         ]
@@ -345,8 +345,8 @@
       "id": "f12",
       "titulo": "Senado, sesiones de Sala de la legislatura 374 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
-      "fecha": "18 de noviembre de 2026",
-      "nota": "Sesiones de Sala del Senado del 17 de noviembre y sesiones citadas del 18 y 19 de noviembre."
+      "fecha": "19 de noviembre de 2026",
+      "nota": "Sesiones de Sala del Senado del 16 al 19 de noviembre."
     },
     {
       "id": "f13",
@@ -357,7 +357,7 @@
     }
   ],
   "consultado": "2026-11-18",
-  "publicado": "2026-11-18",
+  "publicado": "2026-11-20",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-18 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
