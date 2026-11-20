@@ -1,0 +1,135 @@
+{
+  "version": 2,
+  "boletin": "18888-03",
+  "nivel": "basica",
+  "sintesis": "Permite renegociar contratos de transporte de carga cuando suben mucho los combustibles y exige transparencia de precios. Moción del Senado de noviembre de 2026, que ve la Comisión de Transportes y Telecomunicaciones.",
+  "materia": "la renegociación de contratos de transporte por alzas de combustibles",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que el alza del precio de los combustibles ha subido los costos de familias y empresas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirman que las empresas pequeñas de transporte de carga no pueden renegociar sus contratos ni acceder a los precios de las grandes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dicen lo mismo de los transportistas pequeños de pasajeros, el transporte escolar y los taxis.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Permite que cualquiera de las partes pida renegociar un contrato de transporte de carga si suben mucho los combustibles.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se cumple si el alza dura cuatro semanas seguidas, o llega a 100 pesos por litro en hasta ocho semanas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Obliga a distribuidoras y comercializadoras a publicar sus precios y condiciones de contratación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código de Comercio: agrega un inciso final al artículo 170 y un artículo 172 bis.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las distribuidoras no podrán impedir que agrupaciones de transportistas pequeños, asociaciones de consumidores, transporte escolar y taxis accedan a precios preferenciales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afectaría a transportistas de carga y de pasajeros de menor tamaño, a taxis y al transporte escolar.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a las distribuidoras y comercializadoras de gasolina, diésel y gas de uso vehicular.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 13 de noviembre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 16 de noviembre la Sala acordó que lo vea la Comisión de Transportes y Telecomunicaciones, en lugar de la de Economía.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite, sin urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "alza de combustibles transportistas",
+    "renegociar contratos de transporte",
+    "precio de los combustibles transporte de carga",
+    "precios preferenciales combustibles transportistas",
+    "camioneros combustibles proyecto"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código de Comercio para regular la renegociación de contratos de transporte ante alzas en el precio de los combustibles",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19566&tipodoc=mensaje_mocion",
+      "fecha": "2026-11-13",
+      "nota": "Antecedentes y articulado de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18888-03 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18888",
+      "fecha": "2026-11-20",
+      "nota": "Etapa, fechas y urgencia."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
