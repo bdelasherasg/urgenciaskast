@@ -75,11 +75,10 @@
     ],
     "costo": [
       {
-        "texto": "El expediente registra el informe financiero N° 153 del 16 de junio de 2025, presentado con indicaciones del Ejecutivo. No se pudo acceder a su contenido, por lo que el costo fiscal queda como dato pendiente.",
+        "texto": "Es una moción parlamentaria. La tramitación registra el informe financiero N° 153 de junio de 2025, pero su texto no está en las fuentes. No se informan cifras.",
         "fuentes": [
           "f7"
-        ],
-        "pendiente": true
+        ]
       }
     ],
     "estado": [
