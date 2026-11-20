@@ -1,0 +1,135 @@
+{
+  "version": 2,
+  "boletin": "15241-11",
+  "nivel": "basica",
+  "sintesis": "Prohíbe vender, ofrecer o entregar a menores de edad bebidas energéticas y similares que pongan en riesgo su salud. Moción de 2022, refundida con el boletín 11.058-11, en primer trámite en el Senado.",
+  "materia": "la venta de bebidas energéticas a menores de edad",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Los autores dicen que el Decreto Supremo 997 de 1996 regula estas bebidas de manera superficial.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostienen que no protege bien a los menores de edad frente a un consumo que consideran desmedido.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Citan a la Organización Mundial de la Salud: sus ventas no se regulan por edad, a diferencia del alcohol y el tabaco.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El artículo único prohíbe vender, ofrecer o entregar a menores de edad, a cualquier título, bebidas con sustancias aditivas o estimulantes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La prohibición rige para las que, por su concentración, signifiquen un riesgo para la salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pone como ejemplo las bebidas energéticas con cafeína, taurina, tiamina u otra sustancia similar.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "El texto no dice a qué norma se agregaría la prohibición ni fija sanciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los autores piden mejorar el resguardo que hoy da el decreto citado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afectaría a quienes venden o entregan estas bebidas y a los menores de edad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción cita un estudio del Senda con escolares mayores de 12 años, que halló más consumo en colegios particulares pagados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 2 de agosto de 2022 y pasó a la Comisión de Salud.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 9 de agosto de 2022 la Sala lo refundió con el boletín 11.058-11, que es el proyecto matriz.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite, sin urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "bebidas energéticas menores de edad",
+    "prohibición venta bebidas energéticas",
+    "bebidas energéticas escolares",
+    "cafeína y taurina menores",
+    "bebidas energizantes proyecto de ley"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Prohíbe la venta a menores de edad de bebidas energéticas que contengan aditivos energizantes y sustancias estimulantes",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15753&tipodoc=mensaje_mocion",
+      "fecha": "2022-08-02",
+      "nota": "Fundamentos y artículo único de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 15241-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15241",
+      "fecha": "2026-11-20",
+      "nota": "Etapa, fechas y urgencia."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
