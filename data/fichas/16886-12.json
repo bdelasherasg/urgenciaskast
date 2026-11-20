@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "boletin": "16886-12",
+  "nivel": "basica",
+  "sintesis": "Crea un marco legal para proteger a las personas defensoras del medio ambiente y los derechos humanos, con deberes para el Estado y agravantes penales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
+  "materia": "la protección de personas defensoras del medio ambiente",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que defender el medio ambiente es una actividad de alto riesgo, sobre todo en América Latina.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita 1.733 defensores asesinados en una década en el mundo, un 68% de ellos en la región.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que Chile, parte del Acuerdo de Escazú desde 2022, debe aplicarlo con una ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Crea un marco legal para proteger a las personas defensoras de los derechos humanos en asuntos ambientales.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Reconoce derechos, como actuar en un entorno seguro, acceder a información ambiental y participar en las decisiones.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Obliga al Estado a prevenir, investigar y sancionar ataques, amenazas e intimidaciones contra ellas.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Hace responsables penalmente a las personas jurídicas por delitos contra estos defensores, según la ley 20.393.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Modifica la ley de delitos económicos y agrega al Código Penal una agravante: cometer el delito contra quien defiende derechos humanos.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Ante una denuncia con indicios suficientes, el denunciado debe probar que no hubo vulneración.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a personas, grupos y organizaciones que defienden el medio ambiente, a los órganos del Estado y a quienes sean denunciados por agredirlos.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El expediente registra el informe financiero N° 153 del 16 de junio de 2025, presentado con indicaciones del Ejecutivo. No se pudo acceder a su contenido, por lo que el costo fiscal queda como dato pendiente.",
+        "fuentes": [
+          "f7"
+        ],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara de Diputados aprobó el proyecto el 8 de octubre de 2025.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Desde entonces está en segundo trámite en el Senado, en la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía, que debe emitir su primer informe.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia vigente.",
+        "fuentes": [
+          "f7"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "defensores ambientales",
+    "protección de defensores ambientales",
+    "Acuerdo de Escazú ley",
+    "defensores de la naturaleza",
+    "personas defensoras del medio ambiente"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Dicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17495&tipodoc=mensaje_mocion",
+      "fecha": "2024-05-29",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 20836",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35336&tipodoc=ofic",
+      "fecha": "2025-10-08",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 16886-12 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16886",
+      "fecha": "2026-11-19",
+      "nota": "Etapa, fechas y urgencia."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
