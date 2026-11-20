@@ -2,18 +2,18 @@
   "version": 2,
   "boletin": "14782-13",
   "nivel": "basica",
-  "sintesis": "Extiende el derecho a sala cuna a trabajadores con hijos menores de dos años, sin el límite de 20 trabajadoras, y crea un fondo para financiarlo. Está en la Cámara, con discusión inmediata.",
+  "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. La Cámara lo aprobó con cambios y ahora está en tercer trámite en el Senado.",
   "materia": "el derecho a sala cuna y su fondo de financiamiento",
   "resumen": {
     "problema": [
       {
-        "texto": "El mensaje original dice que el artículo 203 del Código del Trabajo da sala cuna solo a empresas con 20 o más trabajadoras.",
+        "texto": "El mensaje original dice que el Código del Trabajo da sala cuna solo a empresas con 20 o más trabajadoras.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "Dice que eso desincentiva contratar mujeres.",
+        "texto": "Dice que esto desincentiva contratar mujeres.",
         "fuentes": [
           "f1"
         ]
@@ -27,72 +27,79 @@
     ],
     "propone": [
       {
-        "texto": "Hace exigible la sala cuna para todas las personas trabajadoras con hijos menores de dos años.",
+        "texto": "Permite que todos los trabajadores accedan a sala cuna para sus hijos menores de dos años.",
         "fuentes": [
-          "f9"
+          "f2"
         ]
       },
       {
-        "texto": "Crea un Fondo de Sala Cuna y un registro público de salas cuna.",
+        "texto": "Crea un Fondo de Sala Cuna, que paga un aporte por cada niño.",
         "fuentes": [
-          "f9"
+          "f2"
+        ]
+      },
+      {
+        "texto": "El fondo se financia con una cotización del empleador de 0,30% de las remuneraciones, compensada con una rebaja en el seguro de cesantía.",
+        "fuentes": [
+          "f2"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Modifica el artículo 203 del Código del Trabajo.",
-        "fuentes": [
-          "f9"
-        ]
-      },
-      {
-        "texto": "Los trabajadores podrían elegir una sala cuna inscrita en el registro.",
-        "fuentes": [
-          "f9"
-        ]
-      }
-    ],
-    "afecta": [
-      {
-        "texto": "Afecta a trabajadores con hijos menores de dos años, a empleadores y a salas cuna.",
-        "fuentes": [
-          "f9"
-        ]
-      }
-    ],
-    "costo": [
-      {
-        "texto": "El informe financiero de junio de 2026 dice que el fondo se financia con descuentos a cuentas de cesantía, sin costo adicional para el empleador.",
-        "fuentes": [
-          "f9"
-        ]
-      },
-      {
-        "texto": "Si el fondo no alcanza, la diferencia la paga el Fisco.",
-        "fuentes": [
-          "f9"
-        ]
-      }
-    ],
-    "estado": [
-      {
-        "texto": "El Senado lo aprobó el 8 de septiembre de 2026.",
+        "texto": "Modifica los artículos 203, 204 y 205 del Código del Trabajo.",
         "fuentes": [
           "f8"
         ]
       },
       {
-        "texto": "Está en la Cámara, en segundo trámite, con discusión inmediata.",
+        "texto": "El acceso parte con las trabajadoras, desde el mes 12 tras publicarse la ley, y llega a todos los trabajadores desde el mes 48.",
         "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a trabajadores dependientes e independientes con hijos menores de dos años, a sus empleadores y a las salas cuna.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero que acompaña las indicaciones del 30 de octubre estima un gasto fiscal de 11.044 millones de pesos el primer año y de 6.158 millones en régimen.",
+        "fuentes": [
+          "f9",
           "f11"
         ]
       },
       {
-        "texto": "El 2 de noviembre el Presidente presentó indicaciones con un nuevo informe financiero.",
+        "texto": "Incluye aportes fiscales al fondo en sus dos primeros años.",
         "fuentes": [
-          "f7",
           "f11"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Senado aprobó el proyecto el 8 de septiembre de 2026.",
+        "fuentes": [
+          "f15"
+        ]
+      },
+      {
+        "texto": "El 18 de noviembre la Cámara lo aprobó con modificaciones, tras los informes de las comisiones de Trabajo y de Hacienda.",
+        "fuentes": [
+          "f8",
+          "f15"
+        ]
+      },
+      {
+        "texto": "Desde el 19 de noviembre está en tercer trámite en el Senado, que revisa esos cambios. Tiene urgencia de discusión inmediata.",
+        "fuentes": [
+          "f15"
         ]
       }
     ]
@@ -100,52 +107,66 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
-  "fuentes": [
-    {
-      "id": "f1",
-      "titulo": "Senado, mensaje del boletín 14.782-13 (texto original, enero de 2022)",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15274&tipodoc=mensaje_mocion",
-      "fecha": "2022-01-04",
-      "nota": "Fundamentos del mensaje original."
-    },
-    {
-      "id": "f7",
-      "titulo": "Oficio 277-374: indicaciones del Ejecutivo (2 de noviembre de 2026)",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37385&tipodoc=ofic",
-      "fecha": "2026-11-02",
-      "nota": "Indicaciones e informe financiero sustitutivo."
-    },
-    {
-      "id": "f8",
-      "titulo": "Oficio 286/SEC/26 del Senado a la Cámara (8 de septiembre de 2026)",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37166&tipodoc=ofic",
-      "fecha": "2026-09-09",
-      "nota": "Texto aprobado por el Senado."
-    },
-    {
-      "id": "f9",
-      "titulo": "Informe financiero sustitutivo IF 128 (junio de 2026)",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36774&tipodoc=ofic",
-      "fecha": "2026-06-22",
-      "nota": "Contenido y financiamiento."
-    },
-    {
-      "id": "f11",
-      "titulo": "Senado, tramitación del boletín 14.782-13",
-      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14782",
-      "fecha": "2026-11-10",
-      "nota": "Etapa y urgencias."
-    }
-  ],
-  "consultado": "2026-11-10",
-  "publicado": "2026-11-10",
-  "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-10 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
   "busqueda_prensa": [
     "sala cuna universal",
     "derecho a sala cuna",
     "fondo solidario de sala cuna",
     "sala cuna para independientes",
     "sala cuna sin límite de trabajadoras"
-  ]
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15274&tipodoc=mensaje_mocion",
+      "fecha": "2022-01-04",
+      "nota": "Fundamentos del mensaje original."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Hacienda · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28408&tipodoc=info",
+      "fecha": "2026-11-18",
+      "nota": "Contenido aprobado por la Cámara y efecto fiscal."
+    },
+    {
+      "id": "f3",
+      "titulo": "Informe de comisión · Primer informe de comisión de Trabajo y Seguridad Social · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28403&tipodoc=info",
+      "fecha": "2026-11-16",
+      "nota": "Informe de la comisión técnica."
+    },
+    {
+      "id": "f8",
+      "titulo": "Oficio N° 21.776",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37516&tipodoc=ofic",
+      "fecha": "2026-11-19",
+      "nota": "Modificaciones de la Cámara al texto del Senado."
+    },
+    {
+      "id": "f9",
+      "titulo": "Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (277-374). Incluye informe financiero sustitutivo N° 263/30.10.2026.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37385&tipodoc=ofic",
+      "fecha": "2026-11-02",
+      "nota": "Indicaciones del Ejecutivo e informe financiero sustitutivo."
+    },
+    {
+      "id": "f11",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28408&tipodoc=info",
+      "fecha": "2026-11-18",
+      "nota": "Pasajes sobre costo fiscal."
+    },
+    {
+      "id": "f15",
+      "titulo": "Tramitación del boletín 14782-13 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14782",
+      "fecha": "2026-11-19",
+      "nota": "Etapa, fechas y urgencia."
+    }
+  ],
+  "consultado": "2026-11-20",
+  "publicado": "2026-11-20",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
