@@ -1892,7 +1892,7 @@
  "18702-05": {
   "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
   "nivel": "completa",
-  "publicado": "2026-11-18",
+  "publicado": "2026-11-20",
   "materia": "el presupuesto del Estado para 2027",
   "revision": "pendiente",
   "busqueda_prensa": [
@@ -2125,6 +2125,20 @@
    "precio del diésel",
    "frenar alzas de combustibles",
    "empresas de transporte de carga"
+  ]
+ },
+ "18888-03": {
+  "sintesis": "Permite renegociar contratos de transporte de carga cuando suben mucho los combustibles y exige transparencia de precios. Moción del Senado de noviembre de 2026, que ve la Comisión de Transportes y Telecomunicaciones.",
+  "nivel": "basica",
+  "publicado": "2026-11-20",
+  "materia": "la renegociación de contratos de transporte por alzas de combustibles",
+  "revision": "pendiente",
+  "busqueda_prensa": [
+   "alza de combustibles transportistas",
+   "renegociar contratos de transporte",
+   "precio de los combustibles transporte de carga",
+   "precios preferenciales combustibles transportistas",
+   "camioneros combustibles proyecto"
   ]
  },
  "2771-05": {
