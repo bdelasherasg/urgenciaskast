@@ -2,7 +2,7 @@
  "11929-13": {
   "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
   "nivel": "basica",
-  "publicado": "2026-11-11",
+  "publicado": "2026-11-20",
   "materia": "la creación del contrato por horas",
   "revision": "pendiente",
   "busqueda_prensa": [
@@ -321,6 +321,20 @@
    "distribución de fármacos"
   ]
  },
+ "15975-25": {
+  "sintesis": "Crea un sistema para analizar información económica y detectar el crimen organizado y el lavado de dinero, con la UAF, el SII y Aduanas. Está en Comisión Mixta, que busca resolver las diferencias entre las cámaras.",
+  "nivel": "basica",
+  "publicado": "2026-11-20",
+  "materia": "el sistema de inteligencia económica contra el crimen organizado",
+  "revision": "pendiente",
+  "busqueda_prensa": [
+   "inteligencia económica crimen organizado",
+   "ruta del dinero lavado de activos",
+   "secreto bancario UAF",
+   "Unidad de Análisis Financiero proyecto",
+   "Comisión Mixta inteligencia económica"
+  ]
+ },
  "16143-02": {
   "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
   "nivel": "basica",
@@ -515,6 +529,20 @@
    "ingreso a domicilios con permiso judicial",
    "prohibición de volver",
    "ley de migraciones"
+  ]
+ },
+ "16886-12": {
+  "sintesis": "Crea un marco legal para proteger a las personas defensoras del medio ambiente y los derechos humanos, con deberes para el Estado y agravantes penales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-20",
+  "materia": "la protección de personas defensoras del medio ambiente",
+  "revision": "pendiente",
+  "busqueda_prensa": [
+   "defensores ambientales",
+   "protección de defensores ambientales",
+   "Acuerdo de Escazú ley",
+   "defensores de la naturaleza",
+   "personas defensoras del medio ambiente"
   ]
  },
  "16888-06": {
@@ -1915,6 +1943,20 @@
    "dirección ejecutiva del INDH",
    "querellas del Instituto",
    "Instituto de Derechos Humanos"
+  ]
+ },
+ "18764-07": {
+  "sintesis": "Crea un delito para quienes, en una AFP, causan por imprudencia grave un perjuicio relevante a los fondos de pensiones. Está en primer trámite, en la Comisión de Constitución del Senado.",
+  "nivel": "basica",
+  "publicado": "2026-11-20",
+  "materia": "la sanción penal de la administración temeraria de los fondos de pensiones",
+  "revision": "pendiente",
+  "busqueda_prensa": [
+   "administración temeraria AFP",
+   "delito imprudencia temeraria fondos de pensiones",
+   "derivados fondos de pensiones",
+   "responsabilidad penal de las AFP",
+   "pérdidas fondos de pensiones derivados"
   ]
  },
  "18779-07": {

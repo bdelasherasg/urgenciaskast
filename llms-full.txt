@@ -220,7 +220,7 @@ La moción dice que la jornada laboral del Código del Trabajo es rígida y deja
 Propone un contrato por horas, dentro de la jornada parcial.1 Las horas no pueden pasar de treinta a la semana ni de ciento veinte al mes.1 El aviso del turno no puede darse con menos de 24 horas de anticipación.1
 Agrega un artículo 40 ter al Código del Trabajo.1 Si el empleador no usa todas las horas pactadas, el trabajador conserva el pago de tres cuartas partes de ellas.1 Si el empleador incumple las normas, se presume una jornada completa.1
 Afecta a trabajadores y empleadores que pacten esta modalidad.1
-Dato pendiente No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
 El proyecto ingresó el 19 de julio de 2018 y está en primer trámite en el Senado.2 Espera el primer informe de la Comisión de Trabajo y Previsión Social.2 El gobierno hizo presente la urgencia simple el 27 de octubre de 2026.2
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
 Vence en 6 días · 26 nov 2026. La simple corre en el Senado desde el 27 de octubre de 2026.3
@@ -236,13 +236,13 @@ Vence en 6 días · 26 nov 2026. La simple corre en el Senado desde el 27 de oct
 - 31 jul 2018 · SenadoCuenta de proyecto. Pasa a Comisión de Trabajo y Previsión SocialLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 25 nov 2026 · 12:30Citado: Comisión de Trabajo y Previsión Social, SenadoSegún la citación publicada.
 ### Para conducir la discusión de la creación del contrato por horas
-Fuentes · consultadas el 11 de noviembre de 2026
+Fuentes · consultadas el 20 de noviembre de 2026
 - 1Senado, moción del boletín 11.929-13 (texto del proyecto)2018-07-19. Fundamentos y articulado.
 - 2Senado, tramitación del boletín 11.929-132026-11-10. Etapa y urgencias.
 - 3Senado, ficha de tramitación del boletín 11929-13Consulta automática. Etapas, trámites y urgencias.
 - 4Cámara de Diputadas y Diputados, tramitación del boletín 11929-13Consulta automática
 - 5Texto del proyecto (moción)Documento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 12213-07
 
@@ -1193,8 +1193,10 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/15975-25.html
 
 Urgencias/Boletín 15975-25SumaPlazo vencidoAhora en el SenadoCitado el 24 nov 2026
-## Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado
-- 1. Resumen del proyecto
+Título oficialCrea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado
+## Crea un sistema para analizar información económica y detectar el crimen organizado y el lavado de dinero, con la UAF, el SII y Aduanas. Está en Comisión Mixta, que busca resolver las diferencias entre las cámaras.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 15975-25
 31 may 2023, Senado
 Comisión mixta, Senado
@@ -1202,13 +1204,14 @@ Suma · Plazo vencido
 Próxima citación
 24 nov 2026, 15:00 · Comisión Mixta para Boletín Nº 15975-25
 1269 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+El mensaje dice que busca perseguir la «ruta del dinero» del lavado de activos y otros delitos del crimen organizado.1 Propone usar análisis de datos y trabajo coordinado entre instituciones.1
+Crea un sistema de inteligencia económica con la Unidad de Análisis Financiero (UAF), el Servicio de Impuestos Internos (SII) y Aduanas.1 Los organismos podrán intercambiar información reservada, y deben mantenerla secreta.1 La Cámara agregó un comité de coordinación con los jefes de la UAF, el SII y Aduanas.2
+Modifica leyes financieras, tributarias y de casinos para reforzar controles y probidad.2 La UAF podría pedir información sujeta a secreto bancario sin autorización judicial en casos acotados.5 El Senado rechazó esta modificación de la Cámara.36
+Afecta a la UAF, el SII y Aduanas, y a entidades reguladas como bancos y casinos.2 Sus funcionarios de inteligencia quedan sujetos a secreto estricto y a controles reforzados.2
+Según el informe financiero N° 41 de enero de 2026, el gasto fiscal sube 1.673.011 miles de pesos el primer año.5 Hacienda lo estimó en el Senado en cerca de 1.600 millones el primer año y 1.300 millones en régimen.6
+La Cámara aprobó el proyecto con enmiendas el 5 de marzo de 2026.4 El 9 de junio el Senado rechazó cuatro de ellas y se formó una Comisión Mixta, que propone cómo resolver las diferencias.3 Está citada para votar sus proposiciones el 24 de noviembre de 2026.7
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene suma urgencia, de quince días.
-Plazo vencido el 12 de julio de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.1
+Plazo vencido el 12 de julio de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.7
 8urgencias desde marzo de 2026
 6renovaciones
 1cambios de tipo
@@ -1230,11 +1233,18 @@ En comisión mixta: ambas cámaras buscan un acuerdo.
 - 21 oct 2026 · SenadoCuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión MixtaUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 16 nov 2026 · SenadoOficio N°.
 - 24 nov 2026 · 15:00Citado: Comisión Mixta para Boletín Nº 15975-25, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 15975-25Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 15975-25Consulta automática
-- 3Texto del mensaje presidencialDocumento original del proyecto.
+### Para conducir la discusión de el sistema de inteligencia económica contra el crimen organizado
+Fuentes · consultadas el 20 de noviembre de 2026
+- 1Mensaje: Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado2023-05-31. Fundamentos y contenido del mensaje.
+- 2Informe de comisión · Informe de comisión de Seguridad Pública · Tercer trámite constitucional2026-04-21. Resumen de las enmiendas de la Cámara en tercer trámite.
+- 3Oficio N° 1862026-06-09. Rechazo de enmiendas y formación de la Comisión Mixta.
+- 4Oficio N° 21.0722026-03-05. Texto aprobado por la Cámara.
+- 5Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Segundo trámite constitucional2026-01-28. Pasajes sobre costo fiscal.
+- 6Pasajes sobre costo fiscal en: Informe de comisión · Informe de comisión de Seguridad Pública · Tercer trámite constitucional2026-04-21. Costo según Hacienda en el Senado.
+- 7Senado, citaciones por fecha: Comisión Mixta para el boletín 15975-252026-11-20. Citación a votar proposiciones.
+- 8Cámara de Diputadas y Diputados, tramitación del boletín 15975-25Consulta automática
+- 9Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16143-02
 
@@ -1926,20 +1936,23 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/16886-12.html
 
 Urgencias/Boletín 16886-12Sin plazo informadoAhora en el SenadoCitado el 24 nov 2026
-## Dicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales
-- 1. Resumen del proyecto
+Título oficialDicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales
+## Crea un marco legal para proteger a las personas defensoras del medio ambiente y los derechos humanos, con deberes para el Estado y agravantes penales. La Cámara lo aprobó y está en segundo trámite en el Senado.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16886-12
 29 may 2024, Cámara
 Segundo trámite, Senado
 Próxima citación
 24 nov 2026, 15:00 · Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
 905 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que defender el medio ambiente es una actividad de alto riesgo, sobre todo en América Latina.1 Cita 1.733 defensores asesinados en una década en el mundo, un 68% de ellos en la región.1 Afirma que Chile, parte del Acuerdo de Escazú desde 2022, debe aplicarlo con una ley.1
+Crea un marco legal para proteger a las personas defensoras de los derechos humanos en asuntos ambientales.2 Reconoce derechos, como actuar en un entorno seguro, acceder a información ambiental y participar en las decisiones.2 Obliga al Estado a prevenir, investigar y sancionar ataques, amenazas e intimidaciones contra ellas.2
+Hace responsables penalmente a las personas jurídicas por delitos contra estos defensores, según la ley 20.393.2 Modifica la ley de delitos económicos y agrega al Código Penal una agravante: cometer el delito contra quien defiende derechos humanos.2 Ante una denuncia con indicios suficientes, el denunciado debe probar que no hubo vulneración.2
+Afecta a personas, grupos y organizaciones que defienden el medio ambiente, a los órganos del Estado y a quienes sean denunciados por agredirlos.2
+Dato pendiente El expediente registra el informe financiero N° 153 del 16 de junio de 2025, presentado con indicaciones del Ejecutivo. No se pudo acceder a su contenido, por lo que el costo fiscal queda como dato pendiente.
+La Cámara de Diputados aprobó el proyecto el 8 de octubre de 2025.3 Desde entonces está en segundo trámite en el Senado, en la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía, que debe emitir su primer informe.3 No tiene urgencia vigente.3
+4
 Segundo trámite: lo revisa la otra cámara.
 - 8 sep 2025 · CámaraNuevo primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 10 sep 2025 · CámaraCuenta nuevo primer informe. Queda para tabla.
@@ -1950,11 +1963,15 @@ Segundo trámite: lo revisa la otra cámara.
 - 8 oct 2025 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 8 oct 2025 · SenadoCuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y CiudadaníaLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 24 nov 2026 · 15:00Citado: Comisión de Derechos Humanos, Nacionalidad y Ciudadanía, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 16886-12Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 16886-12Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la protección de personas defensoras del medio ambiente
+Fuentes · consultadas el 20 de noviembre de 2026
+- 1Moción: Dicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales2024-05-29. Fundamentos de la moción.
+- 2Oficio N° 208362025-10-08. Texto aprobado por la Cámara.
+- 3Tramitación del boletín 16886-12 (servicio web público del Senado)2026-11-19. Etapa, fechas y urgencia.
+- 4Senado, ficha de tramitación del boletín 16886-12Consulta automática. Etapas, trámites y urgencias.
+- 5Cámara de Diputadas y Diputados, tramitación del boletín 16886-12Consulta automática
+- 6Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16888-06
 
@@ -6498,28 +6515,34 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18764-07.html
 
 Urgencias/Boletín 18764-07Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
-## Sanciona la administración temeraria de los fondos de pensiones
-- 1. Resumen del proyecto
+Título oficialSanciona la administración temeraria de los fondos de pensiones
+## Crea un delito para quienes, en una AFP, causan por imprudencia grave un perjuicio relevante a los fondos de pensiones. Está en primer trámite, en la Comisión de Constitución del Senado.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18764-07
 21 oct 2026, Senado
 Primer trámite, Senado
 Próxima citación
 23 nov 2026, 10:30 · Comisión de Constitución, Legislación, Justicia y Reglamento
 30 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que el ahorro previsional es un patrimonio para la vejez, la invalidez y la sobrevivencia.1 Afirma que hoy no hay un delito específico para quien causa un perjuicio grave a los fondos por imprudencia temeraria, es decir, por una falta grave de cuidado sin intención de dañar.1 Menciona una nota de Bloomberg del 13 de octubre de 2026 sobre pérdidas en derivados de los fondos, y aclara que no prueba responsabilidades.1
+Agrega un artículo 159 ter al decreto ley 3.500 que sanciona esa imprudencia en la inversión de los fondos de pensiones.1 Alcanza a directores, gerentes y ejecutivos de una AFP, y a quienes deciden, ejecutan o controlan sus inversiones.1 Exige un perjuicio de más de 400 unidades tributarias mensuales.1 La pena es de 61 a 540 días de presidio, y de 541 días a tres años si el perjuicio supera 40.000 unidades.1
+Suma una inhabilitación de tres a cinco años para ejercer cargos de inversión o control en entidades que administran fondos de terceros.1 Incorpora el nuevo delito al catálogo de delitos económicos.1 La indemnización de perjuicios del artículo 149 sigue igual.1
+Afecta a directivos y ejecutivos de las AFP y a quienes controlan sus inversiones.1 No modifica cotizaciones, prestaciones ni comisiones.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+La moción ingresó al Senado el 21 de octubre de 2026.2 Ese día pasó a la Comisión de Constitución, Legislación, Justicia y Reglamento.2 Está en primer trámite y no tiene urgencia.2
+3
 - 21 oct 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 21 oct 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 23 nov 2026 · 10:30Citado: Comisión de Constitución, Legislación, Justicia y Reglamento, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18764-07Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18764-07Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la sanción penal de la administración temeraria de los fondos de pensiones
+Fuentes · consultadas el 20 de noviembre de 2026
+- 1Moción: Sanciona la administración temeraria de los fondos de pensiones2026-10-21. Fundamentos y contenido de la moción.
+- 2Tramitación del boletín 18764-07 (servicio web público del Senado)2026-11-19. Etapa, fechas y urgencia.
+- 3Senado, ficha de tramitación del boletín 18764-07Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18764-07Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18779-07
 
