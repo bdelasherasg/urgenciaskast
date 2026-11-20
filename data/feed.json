@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-20T08:42-03:00",
+ "actualizado": "2026-11-20T15:29-03:00",
  "conteos": {
   "urgencias_vigentes": 27,
   "discusion_inmediata": 5,
   "vencen_7_dias": 16,
-  "citaciones_7_dias": 22
+  "citaciones_7_dias": 24
  },
  "proximos_vencimientos": [
   {
@@ -95,6 +95,20 @@
   },
   {
    "fecha": "2026-11-23",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+   "proyectos": [
+    {
+     "boletin": "16553-12",
+     "titulo": "Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/16553-12.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "hora": "14:00",
    "camara": "Senado",
    "organo": "Comisión de Salud",
@@ -157,6 +171,26 @@
    "fecha": "2026-11-24",
    "hora": "09:30",
    "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "proyectos": [
+    {
+     "boletin": "12213-07",
+     "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
+     "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/12213-07.html"
+    },
+    {
+     "boletin": "15905-25",
+     "titulo": "Modifica diversos cuerpos legales para suprimir la facultad judicial de ordenar notificaciones por medio de funcionarios de Carabineros",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/15905-25.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "09:30",
+   "camara": "Senado",
    "organo": "Comisión de Economía",
    "proyectos": [
     {
@@ -176,13 +210,13 @@
     {
      "boletin": "11058-11",
      "titulo": "Regula la venta de bebidas con aditivos energizantes y sustancias estimulantes a menores de edad.",
-     "sintesis": "",
+     "sintesis": "Prohíbe vender bebidas con aditivos energizantes y estimulantes a menores de edad. Es una moción del Senado de 2016, refundida con otro proyecto en 2022. Espera el primer informe de la Comisión de Salud.",
      "url": "https://urgenciaskast.cl/p/11058-11.html"
     },
     {
      "boletin": "15241-11",
      "titulo": "Prohíbe la venta a menores de edad de bebidas energéticas que contengan aditivos energizantes y sustancias estimulantes.",
-     "sintesis": "",
+     "sintesis": "Prohíbe vender, ofrecer o entregar a menores de edad bebidas energéticas y similares que pongan en riesgo su salud. Moción de 2022, refundida con el boletín 11.058-11, en primer trámite en el Senado.",
      "url": "https://urgenciaskast.cl/p/15241-11.html"
     }
    ]
@@ -228,37 +262,15 @@
      "url": "https://urgenciaskast.cl/p/18881-25.html"
     }
    ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "11:15",
-   "camara": "Senado",
-   "organo": "Comisión de Familia, Infancia y Adolescencia",
-   "proyectos": [
-    {
-     "boletin": "18554-36",
-     "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
-     "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
-     "url": "https://urgenciaskast.cl/p/18554-36.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Defensa Nacional",
-   "proyectos": [
-    {
-     "boletin": "16143-02",
-     "titulo": "Para la protección de la infraestructura crítica del país",
-     "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/16143-02.html"
-    }
-   ]
   }
  ],
  "fichas_recientes": [
+  {
+   "boletin": "11058-11",
+   "sintesis": "Prohíbe vender bebidas con aditivos energizantes y estimulantes a menores de edad. Es una moción del Senado de 2016, refundida con otro proyecto en 2022. Espera el primer informe de la Comisión de Salud.",
+   "publicado": "2026-11-20",
+   "url": "https://urgenciaskast.cl/p/11058-11.html"
+  },
   {
    "boletin": "11929-13",
    "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
@@ -272,6 +284,12 @@
    "url": "https://urgenciaskast.cl/p/14782-13.html"
   },
   {
+   "boletin": "15241-11",
+   "sintesis": "Prohíbe vender, ofrecer o entregar a menores de edad bebidas energéticas y similares que pongan en riesgo su salud. Moción de 2022, refundida con el boletín 11.058-11, en primer trámite en el Senado.",
+   "publicado": "2026-11-20",
+   "url": "https://urgenciaskast.cl/p/15241-11.html"
+  },
+  {
    "boletin": "15975-25",
    "sintesis": "Crea un sistema para analizar información económica y detectar el crimen organizado y el lavado de dinero, con la UAF, el SII y Aduanas. Está en Comisión Mixta, que busca resolver las diferencias entre las cámaras.",
    "publicado": "2026-11-20",
@@ -282,18 +300,6 @@
    "sintesis": "Crea un marco legal para proteger a las personas defensoras del medio ambiente y los derechos humanos, con deberes para el Estado y agravantes penales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
    "publicado": "2026-11-20",
    "url": "https://urgenciaskast.cl/p/16886-12.html"
-  },
-  {
-   "boletin": "18764-07",
-   "sintesis": "Crea un delito para quienes, en una AFP, causan por imprudencia grave un perjuicio relevante a los fondos de pensiones. Está en primer trámite, en la Comisión de Constitución del Senado.",
-   "publicado": "2026-11-20",
-   "url": "https://urgenciaskast.cl/p/18764-07.html"
-  },
-  {
-   "boletin": "14024-12",
-   "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
-   "publicado": "2026-11-19",
-   "url": "https://urgenciaskast.cl/p/14024-12.html"
   }
  ],
  "analisis": [
