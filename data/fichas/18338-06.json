@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "18338-06",
+  "nivel": "basica",
+  "sintesis": "Permite sancionar a las empresas de alimentación pública que incumplan y excluye por cinco años a las que deban sueldos o finiquitos. Es el proyecto matriz de cuatro refundidos, en primer trámite en el Senado.",
+  "materia": "la protección laboral y la calidad del servicio de alimentación pública",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las condiciones laborales de las manipuladoras no han estado suficientemente protegidas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Menciona irregularidades de las empresas, como alimentos en mal estado, recogidas en dictámenes de la Contraloría.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que las bases de licitación puedan fijar multas por incumplir los índices de estudiantes por manipuladora, y el término del contrato si se repite.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Propone excluir por cinco años a las empresas que hayan quedado debiendo sueldos o finiquitos, o que hayan sido sancionadas por alimentos en mal estado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La exclusión alcanzaría también a quienes hayan sido condenados por cohecho o colusión.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega una frase al inciso séptimo del artículo 6 de la ley 19.886 y un inciso octavo nuevo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las empresas que ofertan servicios de alimentación, a sus dueños y directivos, y a las manipuladoras.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 10 de junio de 2026 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 4 de agosto de 2026 la Sala lo refundió con los boletines 17211-06, 17790-06 y 18020-06. Este es el proyecto matriz.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "manipuladoras de alimentos",
+    "empresas de alimentación inhabilitadas",
+    "exclusión de proveedores del Estado",
+    "alimentación en mal estado Junaeb",
+    "compras públicas manipuladoras"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19014&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-10",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18338-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18338",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
