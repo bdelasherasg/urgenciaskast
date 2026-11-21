@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "boletin": "15905-25",
+  "nivel": "basica",
+  "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.",
+  "materia": "el fin de las notificaciones judiciales por Carabineros",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que Carabineros dedica muchos funcionarios a recibir y cumplir órdenes judiciales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la cuenta pública de Carabineros de 2021, 757.721 de las 1.445.824 órdenes judiciales fueron notificaciones y citaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción sostiene que esas tareas restan tiempo a la prevención del delito.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone eliminar las facultades que hoy permiten a Carabineros hacer notificaciones en tres procedimientos judiciales.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 705 del Código de Procedimiento Civil, el artículo 8 de la ley 18.287 de juzgados de policía local y el artículo 23 de la ley 19.968 de tribunales de familia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "En juicios de mínima cuantía, la notificación la haría el secretario del tribunal u otro funcionario, y no un vecino de confianza o un carabinero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a Carabineros, a los tribunales civiles, a los juzgados de policía local y a los tribunales de familia.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "La moción dice que podrían notificar funcionarios municipales y judiciales, receptores, notarios y funcionarios del Registro Civil.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El informe de la comisión de la Cámara dice que no hay normas que deba conocer la Comisión de Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto en general y en particular el 6 de mayo de 2024 y lo envió al Senado.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "En el Senado pasó a la Comisión de Constitución, que debe entregar su primer informe.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 6 de octubre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "notificaciones judiciales Carabineros",
+    "notificar resoluciones judiciales",
+    "Carabineros tareas administrativas",
+    "juzgados de policía local notificaciones",
+    "tribunales de familia notificaciones"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica diversos cuerpos legales para suprimir la facultad judicial de ordenar notificaciones por medio de funcionarios de Carabineros",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16444&tipodoc=mensaje_mocion",
+      "fecha": "2023-05-09",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Seguridad Ciudadana · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=26417&tipodoc=info",
+      "fecha": "2024-04-19",
+      "nota": "Informe de la Comisión de Seguridad Ciudadana de la Cámara."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 19449",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33257&tipodoc=ofic",
+      "fecha": "2024-05-06",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 15905-25 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15905",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
