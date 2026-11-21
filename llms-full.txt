@@ -1663,8 +1663,10 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/16553-12.html
 
 Urgencias/Boletín 16553-12SimpleVence en 19 díasAhora en el SenadoCitado el 23 nov 2026
-## Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica
-- 1. Resumen del proyecto
+Título oficialFortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica
+## Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia simple.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16553-12
 10 ene 2024, Cámara
 Segundo trámite, Senado
@@ -1672,13 +1674,14 @@ Simple · Vence en 19 días
 Próxima citación
 23 nov 2026, 12:30 · Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales
 1046 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+El mensaje del Presidente dice que la Superintendencia del Medio Ambiente necesita herramientas para fiscalizar con más eficacia.1 Más del 50% de las denuncias que recibe tratan de ruidos.6
+Propone reforzar las facultades de fiscalización y sanción de la Superintendencia.2 Crea un procedimiento simplificado para sancionar infracciones leves.4 Amplía las medidas urgentes que puede tomar ante un riesgo inminente.4
+Modifica la ley 20.417, que creó la Superintendencia, la ley 19.300 de bases del medio ambiente y la ley 20.600 de tribunales ambientales.5 La ley 19.300 pasaría a prohibir el fraccionamiento de proyectos.5
+Afecta a quienes fiscaliza la Superintendencia y a quienes presentan denuncias.14 Las municipalidades pasarían a fiscalizar los ruidos molestos.4 Los juzgados de policía local verían las infracciones a la norma de ruidos.3
+El informe financiero N° 22, de 14 de enero de 2025, sustituye a los anteriores y calcula un mayor gasto fiscal de $319.491 miles el primer año y de $653.208 miles en régimen, con 18 funcionarios más.5 Un informe complementario de octubre de 2025 dice que las indicaciones no suman gasto.3 El primer año se pagaría con el presupuesto del Ministerio del Medio Ambiente.5
+La Cámara aprobó el proyecto el 21 de enero de 2025 y el Senado lo aprobó en general el 30 de septiembre de 2025.7 Su segundo informe de comisión es del 11 de mayo de 2026.7 Tiene urgencia simple desde el 10 de noviembre de 2026.7
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 19 días · 10 dic 2026. La simple corre en el Senado desde el 10 de noviembre de 2026.1
+Vence en 19 días · 10 dic 2026. La simple corre en el Senado desde el 10 de noviembre de 2026.8
 6urgencias desde marzo de 2026
 5renovaciones
 10 nov 2026Renueva la simple · Senado30 días
@@ -1695,11 +1698,19 @@ Vence en 19 días · 10 dic 2026. La simple corre en el Senado desde el 10 de no
 - 7 may 2026 · SenadoBoletín de indicaciones.
 - 11 may 2026 · SenadoSegundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales. COMPARADO DE INDICACIONESLa comisión revisó las indicaciones y entrega su segundo informe.
 - 23 nov 2026 · 12:30Citado: Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 16553-12Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 16553-12Consulta automática
-- 3Texto del mensaje presidencialDocumento original del proyecto.
+### Para conducir la discusión de el fortalecimiento de la Superintendencia del Medio Ambiente
+Fuentes · consultadas el 21 de noviembre de 2026
+- 1Mensaje: Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica2024-01-10. Mensaje del Presidente de la República con los fundamentos.
+- 2Informe de comisión · Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales · Segundo trámite constitucional2025-08-18. Primer informe de la Comisión de Medio Ambiente del Senado.
+- 3Informe financiero N° I.F. 313: Informe financiero2025-10-22. Informe financiero complementario N° 313, de octubre de 2025.
+- 4Informe financiero N° : Informe financiero N° 09/10.01.2024, acompañado al mensaje 291-371.2024-01-15. Informe financiero original, con los elementos principales del proyecto.
+- 5Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional2025-01-17. Informe de la Comisión de Hacienda de la Cámara: contenido y costo.
+- 6Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales · Segundo trámite constitucional2025-08-18. Pasajes sobre costo y ruidos en el informe de la comisión del Senado.
+- 7Tramitación del boletín 16553-12 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
+- 8Senado, ficha de tramitación del boletín 16553-12Consulta automática. Etapas, trámites y urgencias.
+- 9Cámara de Diputadas y Diputados, tramitación del boletín 16553-12Consulta automática
+- 10Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16593-06
 
@@ -2358,29 +2369,35 @@ Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con l
 URL: https://urgenciaskast.cl/p/17211-06.html
 
 Urgencias/Boletín 17211-06Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
-## Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.
-- 1. Resumen del proyecto
+Título oficialModifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.
+## Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17211-06
 29 oct 2024, Senado
 Primer trámite, Senado
 Próxima citación
 23 nov 2026, 11:00 · Comisión de Gobierno, Descentralización y Regionalización
 753 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que a veces las empresas que terminan contratos con la Junaeb no pagan los finiquitos de las manipuladoras de alimentos.1 Según la moción, los sindicatos han denunciado que algunas empresas ofrecen pagarlos en cuotas.1
+Propone que las empresas acrediten, al presentar su oferta, un patrimonio propio que asegure el pago de deudas laborales y con proveedores.1 También pide una boleta de garantía que cubra al menos el monto estimado de los finiquitos.1 Pide además fijar una dirección comercial para recibir demandas y contratar un seguro de salud para enfermedades de las manipuladoras.1
+Agrega un artículo 4 bis a la ley 19.886.1
+Afecta a las empresas que ofrecen raciones de alimentación al Estado y a las manipuladoras de alimentos.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó al Senado el 29 de octubre de 2024 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.2 El 4 de agosto de 2026 la Sala acordó refundirlo con los boletines 17211-06, 17790-06, 18020-06 y 18338-06, que es el proyecto matriz.2 No tiene urgencia.2
+3
 - 29 oct 2024 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 30 oct 2024 · SenadoCuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 4 ago 2026 · SenadoLa Sala acuerda refundir los proyectos de ley correspondiente a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06
 - 23 nov 2026 · 11:00Citado: Comisión de Gobierno, Descentralización y Regionalización, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17211-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17211-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de los requisitos para empresas que suministran raciones de alimentación
+Fuentes · consultadas el 21 de noviembre de 2026
+- 1Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.2024-10-29. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 17211-06 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
+- 3Senado, ficha de tramitación del boletín 17211-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17211-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17247-13
 
@@ -2898,29 +2915,35 @@ Ver los proyectos con urgencia
 URL: https://urgenciaskast.cl/p/17790-06.html
 
 Urgencias/Boletín 17790-06Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
-## Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.
-- 1. Resumen del proyecto
+Título oficialModifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.
+## Busca proteger a las manipuladoras de alimentos en las licitaciones públicas: continuidad laboral, tope de raciones y retención de pagos para finiquitos. Está en primer trámite en el Senado, refundido con otros tres proyectos.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17790-06
 20 ago 2025, Senado
 Primer trámite, Senado
 Próxima citación
 23 nov 2026, 11:00 · Comisión de Gobierno, Descentralización y Regionalización
 458 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que la protección laboral de las manipuladoras se ha regulado sobre todo en las leyes de presupuesto, que duran un año.1 Dice que sus sindicatos han expresado disconformidad con algunas situaciones laborales.1
+Propone dar más puntaje en las licitaciones a quien ofrezca mantener al menos al 75% de las trabajadoras en condiciones iguales o mejores.1 Fija en 50 el máximo de raciones por manipuladora e incluye informes trimestrales sobre la situación financiera de la empresa y las enfermedades laborales.1 Permite retener los últimos tres pagos a las empresas para asegurar los finiquitos.1
+Modifica los artículos 6 y 11 de la ley 19.886.1
+Afecta a las manipuladoras, a las empresas que prestan servicios de alimentación y a la Junaeb.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó el 20 de agosto de 2025 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.2 El 4 de agosto de 2026 la Sala acordó refundirlo con los boletines 17211-06, 17790-06, 18020-06 y 18338-06, que es el proyecto matriz.2 No tiene urgencia.2
+3
 - 20 ago 2025 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 2 sep 2025 · SenadoCuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 4 ago 2026 · SenadoLa Sala acuerda refundir los proyectos de ley correspondiente a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06
 - 23 nov 2026 · 11:00Citado: Comisión de Gobierno, Descentralización y Regionalización, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17790-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17790-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la protección de las trabajadoras de empresas de alimentación
+Fuentes · consultadas el 21 de noviembre de 2026
+- 1Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.2025-08-20. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 17790-06 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
+- 3Senado, ficha de tramitación del boletín 17790-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17790-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17800-11
 
@@ -3271,29 +3294,35 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18020-06.html
 
 Urgencias/Boletín 18020-06Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
-## Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos
-- 1. Resumen del proyecto
+Título oficialModifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos
+## Permite incluir en los contratos de alimentación pública condiciones de infraestructura, un tope de 50 raciones por manipuladora e informes financieros. Está en primer trámite en el Senado, refundido con otros tres proyectos.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18020-06
 16 dic 2025, Senado
 Primer trámite, Senado
 Próxima citación
 23 nov 2026, 11:00 · Comisión de Gobierno, Descentralización y Regionalización
 340 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que las manipuladoras han logrado mejores condiciones mediante glosas de las leyes de presupuesto.1 Como esas leyes duran un año, dice la moción, cada año hay incertidumbre sobre si se mantienen.1
+Propone que los contratos puedan incluir infraestructura mínima y maquinaria adecuada para preparar alimentos y prevenir accidentes y enfermedades.1 También permite fijar un máximo de 50 raciones por trabajadora.1 Y permite exigir informes sobre la situación financiera de la empresa y las enfermedades frecuentes del personal.1
+Agrega una frase final al inciso séptimo del artículo 6 de la ley 19.886.1
+Afecta a las manipuladoras de alimentos y a las empresas que ganan licitaciones de alimentación en establecimientos educacionales.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó el 16 de diciembre de 2025 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.2 El 4 de agosto de 2026 la Sala acordó refundirlo con los boletines 17211-06, 17790-06, 18020-06 y 18338-06, que es el proyecto matriz.2 No tiene urgencia.2
+3
 - 16 dic 2025 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 17 dic 2025 · SenadoCuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 4 ago 2026 · SenadoLa Sala acuerda refundir los proyectos de ley correspondiente a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06
 - 23 nov 2026 · 11:00Citado: Comisión de Gobierno, Descentralización y Regionalización, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18020-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18020-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de las condiciones laborales de las manipuladoras de alimentos
+Fuentes · consultadas el 21 de noviembre de 2026
+- 1Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos2025-12-16. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18020-06 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
+- 3Senado, ficha de tramitación del boletín 18020-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18020-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18029-17
 
@@ -4707,31 +4736,37 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18338-06.html
 
 Urgencias/Boletín 18338-06Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
-## Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios
-- 1. Resumen del proyecto
+Título oficialModifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios
+## Permite sancionar a las empresas de alimentación pública que incumplan y excluye por cinco años a las que deban sueldos o finiquitos. Es el proyecto matriz de cuatro refundidos, en primer trámite en el Senado.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18338-06
 10 jun 2026, Senado
 Primer trámite, Senado
 Próxima citación
 23 nov 2026, 11:00 · Comisión de Gobierno, Descentralización y Regionalización
 164 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que las condiciones laborales de las manipuladoras no han estado suficientemente protegidas.1 Menciona irregularidades de las empresas, como alimentos en mal estado, recogidas en dictámenes de la Contraloría.1
+Propone que las bases de licitación puedan fijar multas por incumplir los índices de estudiantes por manipuladora, y el término del contrato si se repite.1 Propone excluir por cinco años a las empresas que hayan quedado debiendo sueldos o finiquitos, o que hayan sido sancionadas por alimentos en mal estado.1 La exclusión alcanzaría también a quienes hayan sido condenados por cohecho o colusión.1
+Agrega una frase al inciso séptimo del artículo 6 de la ley 19.886 y un inciso octavo nuevo.1
+Afecta a las empresas que ofertan servicios de alimentación, a sus dueños y directivos, y a las manipuladoras.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó el 10 de junio de 2026 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.2 El 4 de agosto de 2026 la Sala lo refundió con los boletines 17211-06, 17790-06 y 18020-06. Este es el proyecto matriz.2 No tiene urgencia.2
+3
 - 10 jun 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 16 jun 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 16 jun 2026 · SenadoLa Sala acuerda que el proyecto de ley, una vez despachado por la Comisión de Gobierno, Descentralización y Regionalización, sea conocido por la Comisión de Educación, en dos sesiones.
 - 23 jun 2026 · SenadoEl Honorable Senador señor De Urresti adhiere a este proyecto de ley
 - 4 ago 2026 · SenadoLa Sala acuerda refundir los proyectos de ley correspondientes a los Boletines N° 18.338-06, 18.020-06, 17.211-06 y 17.790-06
 - 23 nov 2026 · 11:00Citado: Comisión de Gobierno, Descentralización y Regionalización, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18338-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18338-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la protección laboral y la calidad del servicio de alimentación pública
+Fuentes · consultadas el 21 de noviembre de 2026
+- 1Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios2026-06-10. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18338-06 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
+- 3Senado, ficha de tramitación del boletín 18338-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18338-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18341-25
 
@@ -6993,28 +7028,34 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18850-06.html
 
 Urgencias/Boletín 18850-06Sin plazo informadoAhora en el SenadoCitado el 23 nov 2026
-## Proyecto de ley que consagra un límite a la reelección de los dirigentes vecinales
-- 1. Resumen del proyecto
+Título oficialProyecto de ley que consagra un límite a la reelección de los dirigentes vecinales
+## Limita a dos períodos consecutivos la reelección de los directores de las juntas de vecinos y otras organizaciones comunitarias. Está en primer trámite en el Senado, sin urgencia.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18850-06
 4 nov 2026, Senado
 Primer trámite, Senado
 Próxima citación
 23 nov 2026, 11:00 · Comisión de Gobierno, Descentralización y Regionalización
 17 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción dice que la falta de recambio de los dirigentes debilita a las organizaciones vecinales.1 Sostiene que, sin límites, el liderazgo se personaliza y puede crear dirigencias que concentran la relación con el municipio.1 Recuerda que la ley 19.692, del año 2000, eliminó el límite que tenía la ley 19.418.1
+Propone que los directores puedan ser reelegidos hasta por dos períodos consecutivos.1 Quien llegue a ese límite no podría postularse en la elección siguiente.1
+Modifica el artículo 19 del texto refundido de la ley 19.418, sobre juntas de vecinos y organizaciones comunitarias.1
+Afecta a los directores de las juntas de vecinos y de las demás organizaciones comunitarias regidas por esa ley.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó al Senado el 4 de noviembre de 2026.2 El 10 de noviembre pasó a la Comisión de Gobierno, Descentralización y Regionalización.2 No tiene urgencia.2
+3
 - 4 nov 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 10 nov 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 23 nov 2026 · 11:00Citado: Comisión de Gobierno, Descentralización y Regionalización, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18850-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18850-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de el límite a la reelección de dirigentes vecinales
+Fuentes · consultadas el 21 de noviembre de 2026
+- 1Moción: Proyecto de ley que consagra un límite a la reelección de los dirigentes vecinales2026-11-04. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18850-06 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
+- 3Senado, ficha de tramitación del boletín 18850-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18850-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18860-15
 

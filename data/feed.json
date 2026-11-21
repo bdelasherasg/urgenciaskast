@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-21T06:28-03:00",
+ "actualizado": "2026-11-21T06:33-03:00",
  "conteos": {
   "urgencias_vigentes": 27,
   "discusion_inmediata": 5,
@@ -102,31 +102,31 @@
     {
      "boletin": "17211-06",
      "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.",
-     "sintesis": "",
+     "sintesis": "Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
      "url": "https://urgenciaskast.cl/p/17211-06.html"
     },
     {
      "boletin": "17790-06",
      "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.",
-     "sintesis": "",
+     "sintesis": "Busca proteger a las manipuladoras de alimentos en las licitaciones públicas: continuidad laboral, tope de raciones y retención de pagos para finiquitos. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
      "url": "https://urgenciaskast.cl/p/17790-06.html"
     },
     {
      "boletin": "18020-06",
      "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos",
-     "sintesis": "",
+     "sintesis": "Permite incluir en los contratos de alimentación pública condiciones de infraestructura, un tope de 50 raciones por manipuladora e informes financieros. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
      "url": "https://urgenciaskast.cl/p/18020-06.html"
     },
     {
      "boletin": "18338-06",
      "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios",
-     "sintesis": "",
+     "sintesis": "Permite sancionar a las empresas de alimentación pública que incumplan y excluye por cinco años a las que deban sueldos o finiquitos. Es el proyecto matriz de cuatro refundidos, en primer trámite en el Senado.",
      "url": "https://urgenciaskast.cl/p/18338-06.html"
     },
     {
      "boletin": "18850-06",
      "titulo": "Proyecto de ley que consagra un límite a la reelección de los dirigentes vecinales",
-     "sintesis": "",
+     "sintesis": "Limita a dos períodos consecutivos la reelección de los directores de las juntas de vecinos y otras organizaciones comunitarias. Está en primer trámite en el Senado, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/18850-06.html"
     }
    ]
@@ -140,7 +140,7 @@
     {
      "boletin": "16553-12",
      "titulo": "Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
-     "sintesis": "",
+     "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia simple.",
      "url": "https://urgenciaskast.cl/p/16553-12.html"
     }
    ]
@@ -296,34 +296,34 @@
    "url": "https://urgenciaskast.cl/p/15905-25.html"
   },
   {
-   "boletin": "11058-11",
-   "sintesis": "Prohíbe vender bebidas con aditivos energizantes y estimulantes a menores de edad. Es una moción del Senado de 2016, refundida con otro proyecto en 2022. Espera el primer informe de la Comisión de Salud.",
-   "publicado": "2026-11-20",
-   "url": "https://urgenciaskast.cl/p/11058-11.html"
+   "boletin": "16553-12",
+   "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia simple.",
+   "publicado": "2026-11-21",
+   "url": "https://urgenciaskast.cl/p/16553-12.html"
   },
   {
-   "boletin": "11929-13",
-   "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
-   "publicado": "2026-11-20",
-   "url": "https://urgenciaskast.cl/p/11929-13.html"
+   "boletin": "17211-06",
+   "sintesis": "Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+   "publicado": "2026-11-21",
+   "url": "https://urgenciaskast.cl/p/17211-06.html"
   },
   {
-   "boletin": "14782-13",
-   "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. La Cámara lo aprobó con cambios y ahora está en tercer trámite en el Senado.",
-   "publicado": "2026-11-20",
-   "url": "https://urgenciaskast.cl/p/14782-13.html"
+   "boletin": "17790-06",
+   "sintesis": "Busca proteger a las manipuladoras de alimentos en las licitaciones públicas: continuidad laboral, tope de raciones y retención de pagos para finiquitos. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+   "publicado": "2026-11-21",
+   "url": "https://urgenciaskast.cl/p/17790-06.html"
   },
   {
-   "boletin": "15241-11",
-   "sintesis": "Prohíbe vender, ofrecer o entregar a menores de edad bebidas energéticas y similares que pongan en riesgo su salud. Moción de 2022, refundida con el boletín 11.058-11, en primer trámite en el Senado.",
-   "publicado": "2026-11-20",
-   "url": "https://urgenciaskast.cl/p/15241-11.html"
+   "boletin": "18020-06",
+   "sintesis": "Permite incluir en los contratos de alimentación pública condiciones de infraestructura, un tope de 50 raciones por manipuladora e informes financieros. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+   "publicado": "2026-11-21",
+   "url": "https://urgenciaskast.cl/p/18020-06.html"
   },
   {
-   "boletin": "15975-25",
-   "sintesis": "Crea un sistema para analizar información económica y detectar el crimen organizado y el lavado de dinero, con la UAF, el SII y Aduanas. Está en Comisión Mixta, que busca resolver las diferencias entre las cámaras.",
-   "publicado": "2026-11-20",
-   "url": "https://urgenciaskast.cl/p/15975-25.html"
+   "boletin": "18338-06",
+   "sintesis": "Permite sancionar a las empresas de alimentación pública que incumplan y excluye por cinco años a las que deban sueldos o finiquitos. Es el proyecto matriz de cuatro refundidos, en primer trámite en el Senado.",
+   "publicado": "2026-11-21",
+   "url": "https://urgenciaskast.cl/p/18338-06.html"
   }
  ],
  "analisis": [
