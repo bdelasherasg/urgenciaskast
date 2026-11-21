@@ -1,0 +1,183 @@
+{
+  "version": 2,
+  "boletin": "16553-12",
+  "nivel": "basica",
+  "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia simple.",
+  "materia": "el fortalecimiento de la Superintendencia del Medio Ambiente",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje del Presidente dice que la Superintendencia del Medio Ambiente necesita herramientas para fiscalizar con más eficacia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Más del 50% de las denuncias que recibe tratan de ruidos.",
+        "fuentes": [
+          "f14"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone reforzar las facultades de fiscalización y sanción de la Superintendencia.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Crea un procedimiento simplificado para sancionar infracciones leves.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Amplía las medidas urgentes que puede tomar ante un riesgo inminente.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la ley 20.417, que creó la Superintendencia, la ley 19.300 de bases del medio ambiente y la ley 20.600 de tribunales ambientales.",
+        "fuentes": [
+          "f13"
+        ]
+      },
+      {
+        "texto": "La ley 19.300 pasaría a prohibir el fraccionamiento de proyectos.",
+        "fuentes": [
+          "f13"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes fiscaliza la Superintendencia y a quienes presentan denuncias.",
+        "fuentes": [
+          "f1",
+          "f6"
+        ]
+      },
+      {
+        "texto": "Las municipalidades pasarían a fiscalizar los ruidos molestos.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Los juzgados de policía local verían las infracciones a la norma de ruidos.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 22, de 14 de enero de 2025, sustituye a los anteriores y calcula un mayor gasto fiscal de $319.491 miles el primer año y de $653.208 miles en régimen, con 18 funcionarios más.",
+        "fuentes": [
+          "f13"
+        ]
+      },
+      {
+        "texto": "Un informe complementario de octubre de 2025 dice que las indicaciones no suman gasto.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "El primer año se pagaría con el presupuesto del Ministerio del Medio Ambiente.",
+        "fuentes": [
+          "f13"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara aprobó el proyecto el 21 de enero de 2025 y el Senado lo aprobó en general el 30 de septiembre de 2025.",
+        "fuentes": [
+          "f16"
+        ]
+      },
+      {
+        "texto": "Su segundo informe de comisión es del 11 de mayo de 2026.",
+        "fuentes": [
+          "f16"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia simple desde el 10 de noviembre de 2026.",
+        "fuentes": [
+          "f16"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "Superintendencia del Medio Ambiente",
+    "fiscalización ambiental",
+    "sanciones ambientales",
+    "ruidos molestos denuncias",
+    "ley orgánica de la SMA"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17133&tipodoc=mensaje_mocion",
+      "fecha": "2024-01-10",
+      "nota": "Mensaje del Presidente de la República con los fundamentos."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27436&tipodoc=info",
+      "fecha": "2025-08-18",
+      "nota": "Primer informe de la Comisión de Medio Ambiente del Senado."
+    },
+    {
+      "id": "f5",
+      "titulo": "Informe financiero N° I.F. 313: Informe financiero",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35371&tipodoc=ofic",
+      "fecha": "2025-10-22",
+      "nota": "Informe financiero complementario N° 313, de octubre de 2025."
+    },
+    {
+      "id": "f6",
+      "titulo": "Informe financiero N° : Informe financiero N° 09/10.01.2024, acompañado al mensaje 291-371.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=32880&tipodoc=ofic",
+      "fecha": "2024-01-15",
+      "nota": "Informe financiero original, con los elementos principales del proyecto."
+    },
+    {
+      "id": "f13",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27050&tipodoc=info",
+      "fecha": "2025-01-17",
+      "nota": "Informe de la Comisión de Hacienda de la Cámara: contenido y costo."
+    },
+    {
+      "id": "f14",
+      "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27436&tipodoc=info",
+      "fecha": "2025-08-18",
+      "nota": "Pasajes sobre costo y ruidos en el informe de la comisión del Senado."
+    },
+    {
+      "id": "f16",
+      "titulo": "Tramitación del boletín 16553-12 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16553",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
