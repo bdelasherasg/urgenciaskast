@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "18850-06",
+  "nivel": "basica",
+  "sintesis": "Limita a dos períodos consecutivos la reelección de los directores de las juntas de vecinos y otras organizaciones comunitarias. Está en primer trámite en el Senado, sin urgencia.",
+  "materia": "el límite a la reelección de dirigentes vecinales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la falta de recambio de los dirigentes debilita a las organizaciones vecinales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que, sin límites, el liderazgo se personaliza y puede crear dirigencias que concentran la relación con el municipio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Recuerda que la ley 19.692, del año 2000, eliminó el límite que tenía la ley 19.418.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que los directores puedan ser reelegidos hasta por dos períodos consecutivos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien llegue a ese límite no podría postularse en la elección siguiente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 19 del texto refundido de la ley 19.418, sobre juntas de vecinos y organizaciones comunitarias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los directores de las juntas de vecinos y de las demás organizaciones comunitarias regidas por esa ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 4 de noviembre de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 10 de noviembre pasó a la Comisión de Gobierno, Descentralización y Regionalización.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "límite a la reelección dirigentes vecinales",
+    "juntas de vecinos reelección",
+    "dirigentes vecinales dos períodos",
+    "ley 19.418 juntas de vecinos",
+    "recambio de dirigentes vecinales"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Proyecto de ley que consagra un límite a la reelección de los dirigentes vecinales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19533&tipodoc=mensaje_mocion",
+      "fecha": "2026-11-04",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18850-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18850",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
