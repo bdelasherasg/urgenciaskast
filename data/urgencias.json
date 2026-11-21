@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T23:17-03:00",
+ "actualizado": "2026-11-21T06:28-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -709,7 +709,7 @@
     "oficio": "471-374",
     "mixta": true
    },
-   "dias_tramite": 1984
+   "dias_tramite": 1985
   },
   {
    "boletin": "16743-04",
@@ -1251,7 +1251,7 @@
     "oficio": "471-374",
     "mixta": true
    },
-   "dias_tramite": 955
+   "dias_tramite": 956
   },
   {
    "boletin": "18211-25",
@@ -1533,7 +1533,7 @@
     "oficio": "470-374",
     "mixta": false
    },
-   "dias_tramite": 212
+   "dias_tramite": 213
   },
   {
    "boletin": "18286-03",
@@ -1753,7 +1753,7 @@
     "oficio": "468-374",
     "mixta": false
    },
-   "dias_tramite": 171
+   "dias_tramite": 172
   },
   {
    "boletin": "18314-07",
@@ -2010,7 +2010,7 @@
     "oficio": "470-374",
     "mixta": false
    },
-   "dias_tramite": 165
+   "dias_tramite": 166
   },
   {
    "boletin": "18643-05",
@@ -2233,7 +2233,7 @@
     "oficio": "470-374",
     "mixta": false
    },
-   "dias_tramite": 72
+   "dias_tramite": 73
   },
   {
    "boletin": "18803-13",
@@ -2330,7 +2330,7 @@
     "oficio": "447-374",
     "mixta": false
    },
-   "dias_tramite": 24
+   "dias_tramite": 25
   },
   {
    "boletin": "16300-07",
@@ -2600,7 +2600,7 @@
     "oficio": "476-374",
     "mixta": false
    },
-   "dias_tramite": 1152
+   "dias_tramite": 1153
   },
   {
    "boletin": "18255-31",
@@ -2888,7 +2888,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 186
+   "dias_tramite": 187
   },
   {
    "boletin": "18258-07",
@@ -3165,7 +3165,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 186
+   "dias_tramite": 187
   },
   {
    "boletin": "18389-04",
@@ -3441,7 +3441,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 150
+   "dias_tramite": 151
   },
   {
    "boletin": "18436-15",
@@ -3665,7 +3665,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 135
+   "dias_tramite": 136
   },
   {
    "boletin": "18464-14",
@@ -3901,7 +3901,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 128
+   "dias_tramite": 129
   },
   {
    "boletin": "18584-25",
@@ -4100,7 +4100,7 @@
     "oficio": "455-374",
     "mixta": false
    },
-   "dias_tramite": 95
+   "dias_tramite": 96
   },
   {
    "boletin": "18585-25",
@@ -4298,7 +4298,7 @@
     "oficio": "454-374",
     "mixta": false
    },
-   "dias_tramite": 95
+   "dias_tramite": 96
   },
   {
    "boletin": "18644-14",
@@ -4469,7 +4469,7 @@
     "oficio": "455-374",
     "mixta": false
    },
-   "dias_tramite": 60
+   "dias_tramite": 61
   },
   {
    "boletin": "18331-17",
@@ -4554,7 +4554,7 @@
     "oficio": "464-17",
     "mixta": false
    },
-   "dias_tramite": 168
+   "dias_tramite": 169
   },
   {
    "boletin": "18478-13",
@@ -4755,7 +4755,7 @@
     "oficio": "464-374",
     "mixta": false
    },
-   "dias_tramite": 122
+   "dias_tramite": 123
   },
   {
    "boletin": "18576-06",
@@ -4859,7 +4859,7 @@
     "oficio": "464-374",
     "mixta": false
    },
-   "dias_tramite": 106
+   "dias_tramite": 107
   },
   {
    "boletin": "18754-17",
@@ -4976,7 +4976,7 @@
     "oficio": "464-17",
     "mixta": false
    },
-   "dias_tramite": 32
+   "dias_tramite": 33
   },
   {
    "boletin": "18819-03",
@@ -5068,7 +5068,7 @@
     "oficio": "464-374",
     "mixta": false
    },
-   "dias_tramite": 23
+   "dias_tramite": 24
   },
   {
    "boletin": "17662-07",
@@ -5291,7 +5291,7 @@
     "oficio": "473-374",
     "mixta": false
    },
-   "dias_tramite": 508
+   "dias_tramite": 509
   },
   {
    "boletin": "18189-14",
@@ -5483,7 +5483,7 @@
     "oficio": "471-374",
     "mixta": false
    },
-   "dias_tramite": 219
+   "dias_tramite": 220
   },
   {
    "boletin": "18224-18",
@@ -5674,7 +5674,7 @@
     "oficio": "469-374",
     "mixta": false
    },
-   "dias_tramite": 207
+   "dias_tramite": 208
   },
   {
    "boletin": "18246-18",
@@ -5871,7 +5871,7 @@
     "oficio": "469-374",
     "mixta": false
    },
-   "dias_tramite": 198
+   "dias_tramite": 199
   },
   {
    "boletin": "18318-19",
@@ -6056,7 +6056,7 @@
     "oficio": "469-374",
     "mixta": false
    },
-   "dias_tramite": 171
+   "dias_tramite": 172
   },
   {
    "boletin": "18415-18",
@@ -6247,7 +6247,7 @@
     "oficio": "469-374",
     "mixta": false
    },
-   "dias_tramite": 150
+   "dias_tramite": 151
   },
   {
    "boletin": "18806-07",
@@ -6326,7 +6326,7 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 24
+   "dias_tramite": 25
   },
   {
    "boletin": "18881-25",
@@ -6386,7 +6386,7 @@
     "oficio": "460-374",
     "mixta": false
    },
-   "dias_tramite": 10
+   "dias_tramite": 11
   },
   {
    "boletin": "18315-07",
@@ -6598,7 +6598,7 @@
     "oficio": "326-374",
     "mixta": false
    },
-   "dias_tramite": 165
+   "dias_tramite": 166
   },
   {
    "boletin": "14782-13",
@@ -7379,7 +7379,7 @@
     "oficio": "475-374",
     "mixta": false
    },
-   "dias_tramite": 1781
+   "dias_tramite": 1782
   },
   {
    "boletin": "16335-14",
@@ -8716,9 +8716,9 @@
     "oficio": "452-374",
     "mixta": false
    },
-   "dias_tramite": 1144
+   "dias_tramite": 1145
   }
  ],
- "errores_de_consulta": 11,
+ "errores_de_consulta": 10,
  "conservados_sin_respuesta": 0
 }
