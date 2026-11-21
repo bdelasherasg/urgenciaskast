@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "18020-06",
+  "nivel": "basica",
+  "sintesis": "Permite incluir en los contratos de alimentación pública condiciones de infraestructura, un tope de 50 raciones por manipuladora e informes financieros. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+  "materia": "las condiciones laborales de las manipuladoras de alimentos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las manipuladoras han logrado mejores condiciones mediante glosas de las leyes de presupuesto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Como esas leyes duran un año, dice la moción, cada año hay incertidumbre sobre si se mantienen.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que los contratos puedan incluir infraestructura mínima y maquinaria adecuada para preparar alimentos y prevenir accidentes y enfermedades.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También permite fijar un máximo de 50 raciones por trabajadora.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Y permite exigir informes sobre la situación financiera de la empresa y las enfermedades frecuentes del personal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega una frase final al inciso séptimo del artículo 6 de la ley 19.886.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las manipuladoras de alimentos y a las empresas que ganan licitaciones de alimentación en establecimientos educacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 16 de diciembre de 2025 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 4 de agosto de 2026 la Sala acordó refundirlo con los boletines 17211-06, 17790-06, 18020-06 y 18338-06, que es el proyecto matriz.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "manipuladoras de alimentos",
+    "condiciones laborales manipuladoras",
+    "raciones por manipuladora",
+    "alimentación escolar licitaciones",
+    "glosas presupuesto manipuladoras"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18683&tipodoc=mensaje_mocion",
+      "fecha": "2025-12-16",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18020-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18020",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
