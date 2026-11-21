@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "17790-06",
+  "nivel": "basica",
+  "sintesis": "Busca proteger a las manipuladoras de alimentos en las licitaciones públicas: continuidad laboral, tope de raciones y retención de pagos para finiquitos. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+  "materia": "la protección de las trabajadoras de empresas de alimentación",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la protección laboral de las manipuladoras se ha regulado sobre todo en las leyes de presupuesto, que duran un año.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que sus sindicatos han expresado disconformidad con algunas situaciones laborales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone dar más puntaje en las licitaciones a quien ofrezca mantener al menos al 75% de las trabajadoras en condiciones iguales o mejores.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Fija en 50 el máximo de raciones por manipuladora e incluye informes trimestrales sobre la situación financiera de la empresa y las enfermedades laborales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite retener los últimos tres pagos a las empresas para asegurar los finiquitos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica los artículos 6 y 11 de la ley 19.886.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las manipuladoras, a las empresas que prestan servicios de alimentación y a la Junaeb.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 20 de agosto de 2025 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 4 de agosto de 2026 la Sala acordó refundirlo con los boletines 17211-06, 17790-06, 18020-06 y 18338-06, que es el proyecto matriz.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "manipuladoras de alimentos",
+    "protección laboral manipuladoras",
+    "licitaciones alimentación escolar",
+    "máximo de raciones por manipuladora",
+    "ley de compras públicas alimentación"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18442&tipodoc=mensaje_mocion",
+      "fecha": "2025-08-20",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17790-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17790",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
