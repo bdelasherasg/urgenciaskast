@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "17211-06",
+  "nivel": "basica",
+  "sintesis": "Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+  "materia": "los requisitos para empresas que suministran raciones de alimentación",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que a veces las empresas que terminan contratos con la Junaeb no pagan los finiquitos de las manipuladoras de alimentos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, los sindicatos han denunciado que algunas empresas ofrecen pagarlos en cuotas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Propone que las empresas acrediten, al presentar su oferta, un patrimonio propio que asegure el pago de deudas laborales y con proveedores.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También pide una boleta de garantía que cubra al menos el monto estimado de los finiquitos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pide además fijar una dirección comercial para recibir demandas y contratar un seguro de salud para enfermedades de las manipuladoras.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo 4 bis a la ley 19.886.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las empresas que ofrecen raciones de alimentación al Estado y a las manipuladoras de alimentos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 29 de octubre de 2024 y pasó a la Comisión de Gobierno, Descentralización y Regionalización.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 4 de agosto de 2026 la Sala acordó refundirlo con los boletines 17211-06, 17790-06, 18020-06 y 18338-06, que es el proyecto matriz.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "No tiene urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "manipuladoras de alimentos finiquitos",
+    "empresas de alimentación Junaeb",
+    "licitaciones alimentación escolar",
+    "garantía finiquitos manipuladoras",
+    "tías del casino"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17837&tipodoc=mensaje_mocion",
+      "fecha": "2024-10-29",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17211-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17211",
+      "fecha": "2026-11-20",
+      "nota": "Etapas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-21",
+  "publicado": "2026-11-21",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
