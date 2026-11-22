@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-21T16:19-03:00",
+ "actualizado": "2026-11-21T22:22-03:00",
  "desde": "2026-11-21",
  "hasta": "2026-12-04",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-21T16:18",
+   "consultado": "2026-11-21T22:22",
    "citaciones": 29,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,18 +13,18 @@
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 32,
+   "conservadas": 34,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-21T16:18",
+   "consultado": "2026-11-21T22:22",
    "sesiones": 5,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-21T16:18",
+   "consultado": "2026-11-21T22:22",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-21T16:18",
+   "consultado": "2026-11-21T22:22",
    "grupos": 9
   }
  },
@@ -558,6 +558,25 @@
   {
    "fecha": "2026-11-23",
    "hora": "15:30",
+   "horario": "15:30 a 17:30",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 97,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4857",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-23",
+   "hora": "15:30",
    "horario": "15:30 a 17:00",
    "camara": "Senado",
    "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
@@ -639,6 +658,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 98,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4858",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-24",
@@ -13593,23 +13631,11 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Discusión única",
+   "etapa": "Tercer trámite constitucional (C.Diputados)",
+   "subetapa": "Cuenta oficio con modificaciones de Cámara Revisora",
    "estado": "En tramitación",
    "urgencias": [],
    "tramites": [
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 29 Ministerio de las Culturas, las Artes y el Patrimonio",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "camara": "Senado"
-    },
     {
      "fecha": "2026-10-20",
      "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos .  PARTIDA 31 Gobiernos Regionales",
@@ -13713,8 +13739,20 @@
      "camara": "Senado"
     },
     {
+     "fecha": "2026-11-19",
+     "descripcion": "Discusión única . Aprobado con modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
      "fecha": "2026-11-20",
      "descripcion": "La Honorable Senadora señora Cicardini hizo reserva de constitucionalidad de la ind N° 1150",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-21",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }
