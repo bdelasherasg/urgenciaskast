@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18702-05",
   "nivel": "completa",
-  "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. La Cámara de Diputados lo votó en Sala el 13 de noviembre y lo envió al Senado, que lo revisa.",
+  "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
   "materia": "el presupuesto del Estado para 2027",
   "resumen": {
     "problema": [
@@ -109,15 +109,16 @@
         ]
       },
       {
-        "texto": "El 15 de noviembre la Cámara envió el proyecto al Senado, que lo revisa en segundo trámite.",
+        "texto": "La Sala del Senado lo trató del 16 al 19 de noviembre y lo aprobó con modificaciones el 19.",
         "fuentes": [
-          "f10"
+          "f10",
+          "f12"
         ]
       },
       {
-        "texto": "La Sala del Senado lo trató del 16 al 19 de noviembre. La última fue la sesión 85.",
+        "texto": "El 21 de noviembre el Senado envió los cambios a la Cámara de Diputados, que ahora los revisa en tercer trámite.",
         "fuentes": [
-          "f12"
+          "f10"
         ]
       }
     ]
@@ -331,8 +332,8 @@
       "id": "f10",
       "titulo": "Senado, tramitación del boletín 18702-05 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-      "fecha": "15 de noviembre de 2026",
-      "nota": "Etapa y trámites, hasta el oficio a la Cámara revisora."
+      "fecha": "21 de noviembre de 2026",
+      "nota": "Etapa y trámites, hasta el oficio con las modificaciones del Senado a la Cámara de origen."
     },
     {
       "id": "f11",
@@ -356,8 +357,8 @@
       "nota": "Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026."
     }
   ],
-  "consultado": "2026-11-18",
-  "publicado": "2026-11-20",
+  "consultado": "2026-11-22",
+  "publicado": "2026-11-22",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-22 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
