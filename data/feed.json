@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-21T22:22-03:00",
+ "actualizado": "2026-11-22T06:28-03:00",
  "conteos": {
-  "urgencias_vigentes": 42,
+  "urgencias_vigentes": 27,
   "discusion_inmediata": 5,
-  "vencen_7_dias": 31,
+  "vencen_7_dias": 16,
   "citaciones_7_dias": 25
  },
  "proximos_vencimientos": [
@@ -290,6 +290,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "18702-05",
+   "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
+   "publicado": "2026-11-22",
+   "url": "https://urgenciaskast.cl/p/18702-05.html"
+  },
+  {
    "boletin": "15905-25",
    "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.",
    "publicado": "2026-11-21",
@@ -318,12 +324,6 @@
    "sintesis": "Permite incluir en los contratos de alimentación pública condiciones de infraestructura, un tope de 50 raciones por manipuladora e informes financieros. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
    "publicado": "2026-11-21",
    "url": "https://urgenciaskast.cl/p/18020-06.html"
-  },
-  {
-   "boletin": "18338-06",
-   "sintesis": "Permite sancionar a las empresas de alimentación pública que incumplan y excluye por cinco años a las que deban sueldos o finiquitos. Es el proyecto matriz de cuatro refundidos, en primer trámite en el Senado.",
-   "publicado": "2026-11-21",
-   "url": "https://urgenciaskast.cl/p/18338-06.html"
   }
  ],
  "analisis": [
