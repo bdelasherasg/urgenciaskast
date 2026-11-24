@@ -1,19 +1,19 @@
 {
- "actualizado": "2026-11-24T10:46-03:00",
+ "actualizado": "2026-11-24T11:17-03:00",
  "desde": "2026-11-10",
  "fuente": "Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)",
  "votaciones": [
   {
    "fecha": "2026-11-23",
    "boletin": "18702-05",
-   "votaciones": 7,
-   "aprobadas": 5,
-   "rechazadas": 2,
+   "votaciones": 31,
+   "aprobadas": 26,
+   "rechazadas": 5,
    "ultima": {
-    "hora": "19:55",
-    "resultado": "Rechazado",
-    "si": 68,
-    "no": 73,
+    "hora": "20:14",
+    "resultado": "Aprobado",
+    "si": 99,
+    "no": 42,
     "abstencion": 0
    }
   },
@@ -119,7 +119,7 @@
  "por_partida": {
   "18702-05": {
    "fuente": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin=18702-05",
-   "total": 568,
+   "total": 592,
    "sin_partida": 89,
    "partidas": {
     "01": {
@@ -159,46 +159,46 @@
      "ultima": "2026-11-10"
     },
     "07": {
-     "votaciones": 34,
-     "aprobadas": 20,
+     "votaciones": 36,
+     "aprobadas": 22,
      "rechazadas": 14,
-     "ultima": "2026-11-10"
+     "ultima": "2026-11-23"
     },
     "08": {
-     "votaciones": 29,
-     "aprobadas": 19,
+     "votaciones": 31,
+     "aprobadas": 21,
      "rechazadas": 10,
-     "ultima": "2026-11-10"
+     "ultima": "2026-11-23"
     },
     "09": {
-     "votaciones": 1,
-     "aprobadas": 0,
+     "votaciones": 2,
+     "aprobadas": 1,
      "rechazadas": 1,
-     "ultima": "2026-11-11"
+     "ultima": "2026-11-23"
     },
     "10": {
-     "votaciones": 32,
-     "aprobadas": 15,
-     "rechazadas": 17,
-     "ultima": "2026-11-11"
+     "votaciones": 36,
+     "aprobadas": 18,
+     "rechazadas": 18,
+     "ultima": "2026-11-23"
     },
     "11": {
-     "votaciones": 14,
-     "aprobadas": 3,
+     "votaciones": 16,
+     "aprobadas": 5,
      "rechazadas": 11,
-     "ultima": "2026-11-11"
+     "ultima": "2026-11-23"
     },
     "12": {
-     "votaciones": 25,
-     "aprobadas": 10,
+     "votaciones": 27,
+     "aprobadas": 12,
      "rechazadas": 15,
-     "ultima": "2026-11-11"
+     "ultima": "2026-11-23"
     },
     "13": {
-     "votaciones": 19,
+     "votaciones": 20,
      "aprobadas": 5,
-     "rechazadas": 14,
-     "ultima": "2026-11-11"
+     "rechazadas": 15,
+     "ultima": "2026-11-23"
     },
     "14": {
      "votaciones": 5,
@@ -207,10 +207,10 @@
      "ultima": "2026-11-12"
     },
     "15": {
-     "votaciones": 32,
-     "aprobadas": 22,
-     "rechazadas": 10,
-     "ultima": "2026-11-12"
+     "votaciones": 42,
+     "aprobadas": 31,
+     "rechazadas": 11,
+     "ultima": "2026-11-23"
     },
     "16": {
      "votaciones": 66,

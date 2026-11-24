@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-24T10:46-03:00",
+ "actualizado": "2026-11-24T11:17-03:00",
  "desde": "2026-11-24",
  "hasta": "2026-12-07",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-24T10:45",
+   "consultado": "2026-11-24T11:16",
    "citaciones": 24,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,18 +13,18 @@
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-49: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 26,
+   "conservadas": 28,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-24T10:45",
+   "consultado": "2026-11-24T11:16",
    "sesiones": 5,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-24T10:45",
+   "consultado": "2026-11-24T11:16",
    "sesiones": 9,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-24T10:46",
+   "consultado": "2026-11-24T11:17",
    "grupos": 8
   }
  },
@@ -561,6 +561,25 @@
   },
   {
    "fecha": "2026-11-24",
+   "hora": "10:02",
+   "horario": "10:02 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 98,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4858",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-24",
    "hora": "10:30",
    "horario": "10:30 a 12:30",
    "camara": "Senado",
@@ -581,7 +600,7 @@
   {
    "fecha": "2026-11-24",
    "hora": "11:00",
-   "horario": "11:00 a 12:00",
+   "horario": "11:00 a 12:30",
    "camara": "Senado",
    "organo": "Comisión de Seguridad Pública",
    "lugar": "Sala N° 6, tercer piso, Valparaíso",
@@ -809,6 +828,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 99,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4859",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-11-25",
@@ -12238,12 +12276,6 @@
    "urgencias": [],
    "tramites": [
     {
-     "fecha": "2026-11-09",
-     "descripcion": "Cuenta informe Comisión Mixta .",
-     "etapa": "Discusión Ley de Presupuesto en Cámara de Origen",
-     "camara": "Cámara de Diputados"
-    },
-    {
      "fecha": "2026-11-10",
      "descripcion": "Discusión única . Queda pendiente .",
      "etapa": "Primer trámite constitucional",
@@ -12293,7 +12325,7 @@
     },
     {
      "fecha": "2026-11-18",
-     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad respecto de la indicación N° 7",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad respecto de las ind N° 7 y 988",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     },
@@ -12301,6 +12333,12 @@
      "fecha": "2026-11-18",
      "descripcion": "La Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de la dieta de los ex Presidentes",
      "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "La Honorable Senadora señora Pascual hizo reserva de constitucionalidad de la ind 664",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
      "camara": "Senado"
     },
     {

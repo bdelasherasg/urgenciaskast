@@ -6189,7 +6189,7 @@ PartidaAprobadaVigente a septiembre
 Total del Gobierno Central94.808+ US$ 12.369 millones96.608+ US$ 12.551 millones
 Montos en pesos y dólares de 2026, sin ajustar por inflación: no se restan directamente de las cifras del proyecto. Cada monto suma los gastos de la partida tal como los publica la Dipres, sin consolidar: la partida Tesoro Público incluye los aportes que financian a las demás, y las transferencias entre servicios se cuentan en ambos. Por eso las partidas no suman el total, y las cifras de PresupuestoKast.cl, que sí consolidan, son menores. Fuente: Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular, publicado el 30 oct 2026.
 #### Votaciones de la Sala de la Cámara, por partida
-La Sala de la Cámara ha votado 568 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
+La Sala de la Cámara ha votado 592 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
 PartidaVotaciones
 01Presidencia de la República75 aprobadas · 2 rechazadas
 02Congreso Nacional84 aprobadas · 4 rechazadas
@@ -6197,15 +6197,15 @@ PartidaVotaciones
 04Contraloría10 aprobadas · 1 rechazadas
 05Interior20 aprobadas · 2 rechazadas
 06Relaciones Exteriores126 aprobadas · 6 rechazadas
-07Economía3420 aprobadas · 14 rechazadas
-08Hacienda2919 aprobadas · 10 rechazadas
-09Educación10 aprobadas · 1 rechazadas
-10Justicia y Derechos Humanos3215 aprobadas · 17 rechazadas
-11Defensa Nacional143 aprobadas · 11 rechazadas
-12Obras Públicas2510 aprobadas · 15 rechazadas
-13Agricultura195 aprobadas · 14 rechazadas
+07Economía3622 aprobadas · 14 rechazadas
+08Hacienda3121 aprobadas · 10 rechazadas
+09Educación21 aprobadas · 1 rechazadas
+10Justicia y Derechos Humanos3618 aprobadas · 18 rechazadas
+11Defensa Nacional165 aprobadas · 11 rechazadas
+12Obras Públicas2712 aprobadas · 15 rechazadas
+13Agricultura205 aprobadas · 15 rechazadas
 14Bienes Nacionales53 aprobadas · 2 rechazadas
-15Trabajo y Previsión Social3222 aprobadas · 10 rechazadas
+15Trabajo y Previsión Social4231 aprobadas · 11 rechazadas
 16Salud6634 aprobadas · 32 rechazadas
 17Minería10 aprobadas · 1 rechazadas
 18Vivienda6556 aprobadas · 9 rechazadas
