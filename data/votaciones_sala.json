@@ -1,19 +1,47 @@
 {
- "actualizado": "2026-11-24T11:17-03:00",
+ "actualizado": "2026-11-24T20:57-03:00",
  "desde": "2026-11-10",
  "fuente": "Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)",
  "votaciones": [
   {
+   "fecha": "2026-11-24",
+   "boletin": "18286-03",
+   "votaciones": 2,
+   "aprobadas": 2,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:01",
+    "resultado": "Aprobado",
+    "si": 135,
+    "no": 0,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-24",
+   "boletin": "18224-18",
+   "votaciones": 2,
+   "aprobadas": 1,
+   "rechazadas": 1,
+   "ultima": {
+    "hora": "13:03",
+    "resultado": "Rechazado",
+    "si": 53,
+    "no": 82,
+    "abstencion": 0
+   }
+  },
+  {
    "fecha": "2026-11-23",
    "boletin": "18702-05",
-   "votaciones": 31,
-   "aprobadas": 26,
-   "rechazadas": 5,
+   "votaciones": 41,
+   "aprobadas": 31,
+   "rechazadas": 10,
    "ultima": {
-    "hora": "20:14",
+    "hora": "20:25",
     "resultado": "Aprobado",
-    "si": 99,
-    "no": 42,
+    "si": 70,
+    "no": 69,
     "abstencion": 0
    }
   },
@@ -119,7 +147,7 @@
  "por_partida": {
   "18702-05": {
    "fuente": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin=18702-05",
-   "total": 592,
+   "total": 602,
    "sin_partida": 89,
    "partidas": {
     "01": {
@@ -213,10 +241,10 @@
      "ultima": "2026-11-23"
     },
     "16": {
-     "votaciones": 66,
-     "aprobadas": 34,
+     "votaciones": 67,
+     "aprobadas": 35,
      "rechazadas": 32,
-     "ultima": "2026-11-12"
+     "ultima": "2026-11-23"
     },
     "17": {
      "votaciones": 1,
@@ -225,16 +253,16 @@
      "ultima": "2026-11-12"
     },
     "18": {
-     "votaciones": 65,
+     "votaciones": 66,
      "aprobadas": 56,
-     "rechazadas": 9,
-     "ultima": "2026-11-12"
+     "rechazadas": 10,
+     "ultima": "2026-11-23"
     },
     "19": {
-     "votaciones": 13,
-     "aprobadas": 5,
+     "votaciones": 14,
+     "aprobadas": 6,
      "rechazadas": 8,
-     "ultima": "2026-11-12"
+     "ultima": "2026-11-23"
     },
     "20": {
      "votaciones": 1,
@@ -243,16 +271,16 @@
      "ultima": "2026-11-12"
     },
     "21": {
-     "votaciones": 29,
-     "aprobadas": 20,
+     "votaciones": 30,
+     "aprobadas": 21,
      "rechazadas": 9,
-     "ultima": "2026-11-12"
+     "ultima": "2026-11-23"
     },
     "22": {
-     "votaciones": 1,
-     "aprobadas": 1,
+     "votaciones": 2,
+     "aprobadas": 2,
      "rechazadas": 0,
-     "ultima": "2026-11-12"
+     "ultima": "2026-11-23"
     },
     "23": {
      "votaciones": 9,
@@ -273,16 +301,16 @@
      "ultima": "2026-11-13"
     },
     "26": {
-     "votaciones": 2,
+     "votaciones": 3,
      "aprobadas": 1,
-     "rechazadas": 1,
-     "ultima": "2026-11-13"
+     "rechazadas": 2,
+     "ultima": "2026-11-23"
     },
     "27": {
-     "votaciones": 1,
+     "votaciones": 2,
      "aprobadas": 0,
-     "rechazadas": 1,
-     "ultima": "2026-11-13"
+     "rechazadas": 2,
+     "ultima": "2026-11-23"
     },
     "28": {
      "votaciones": 2,
@@ -291,10 +319,10 @@
      "ultima": "2026-11-13"
     },
     "29": {
-     "votaciones": 1,
+     "votaciones": 2,
      "aprobadas": 0,
-     "rechazadas": 1,
-     "ultima": "2026-11-13"
+     "rechazadas": 2,
+     "ultima": "2026-11-23"
     },
     "30": {
      "votaciones": 3,
@@ -309,16 +337,16 @@
      "ultima": "2026-11-13"
     },
     "32": {
-     "votaciones": 10,
+     "votaciones": 11,
      "aprobadas": 4,
-     "rechazadas": 6,
-     "ultima": "2026-11-13"
+     "rechazadas": 7,
+     "ultima": "2026-11-23"
     },
     "50": {
-     "votaciones": 20,
-     "aprobadas": 10,
+     "votaciones": 21,
+     "aprobadas": 11,
      "rechazadas": 10,
-     "ultima": "2026-11-13"
+     "ultima": "2026-11-23"
     }
    }
   }

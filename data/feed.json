@@ -1,61 +1,61 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-24T11:16-03:00",
+ "actualizado": "2026-11-24T20:57-03:00",
  "conteos": {
-  "urgencias_vigentes": 27,
-  "discusion_inmediata": 5,
-  "vencen_7_dias": 13,
-  "citaciones_7_dias": 21
+  "urgencias_vigentes": 44,
+  "discusion_inmediata": 9,
+  "vencen_7_dias": 10,
+  "citaciones_7_dias": 22
  },
  "proximos_vencimientos": [
   {
-   "boletin": "18211-25",
-   "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
-   "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
+   "boletin": "16743-04",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
+   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
    "urgencia": "Discusión inmediata",
-   "vence": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/18211-25.html"
+   "vence": "2026-11-26",
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
   },
   {
-   "boletin": "18286-03",
-   "titulo": "Modifica la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, y otros cuerpos legales relacionados",
-   "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/18286-03.html"
-  },
-  {
-   "boletin": "18314-07",
-   "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
-   "sintesis": "Reforma la Constitución para que la ley fije entre cinco y sesenta días la detención de extranjeros con expulsión administrativa. La Cámara la rechazó y el gobierno insiste en el Senado.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/18314-07.html"
-  },
-  {
-   "boletin": "18643-05",
-   "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
-   "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
-   "urgencia": "Discusión inmediata",
-   "vence": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/18643-05.html"
+   "boletin": "14309-04",
+   "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
+   "sintesis": "Crea una subvención del Estado para la modalidad educativa de reingreso, que atiende a niños y jóvenes fuera del sistema escolar regular. Una comisión mixta debe resolver las diferencias entre Cámara y Senado.",
+   "urgencia": "Suma",
+   "vence": "2026-11-29",
+   "url": "https://urgenciaskast.cl/p/14309-04.html"
   },
   {
    "boletin": "16300-07",
    "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
    "sintesis": "Extiende la legítima defensa privilegiada al policía o militar que, estando de franco, repele una agresión grave contra sí o contra un tercero. La Cámara lo aprobó; el Senado lo revisa.",
    "urgencia": "Discusión inmediata",
-   "vence": "2026-11-25",
+   "vence": "2026-11-30",
    "url": "https://urgenciaskast.cl/p/16300-07.html"
   },
   {
-   "boletin": "18255-31",
-   "titulo": "Establece un beneficio de compensación por la compra de pañales y de medicamentos",
-   "sintesis": "Crea un beneficio que devuelve el IVA de pañales y medicamentos de uso permanente a los hogares del 80 por ciento más vulnerable. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
-   "urgencia": "Suma",
-   "vence": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/18255-31.html"
+   "boletin": "17662-07",
+   "titulo": "Aumenta sanciones aplicables al delito de atentado contra la autoridad cometido contra miembros de las Fuerzas de Orden y Seguridad Pública",
+   "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con urgencia suma.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-30",
+   "url": "https://urgenciaskast.cl/p/17662-07.html"
+  },
+  {
+   "boletin": "18211-25",
+   "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
+   "sintesis": "Aumenta en un grado las penas de ciertos delitos cometidos con el rostro cubierto en reuniones en lugares públicos, y lo suma a las circunstancias agravantes. Está en el Senado, con discusión inmediata.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-30",
+   "url": "https://urgenciaskast.cl/p/18211-25.html"
+  },
+  {
+   "boletin": "18314-07",
+   "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
+   "sintesis": "Reforma la Constitución para que la ley fije entre cinco y sesenta días la detención de extranjeros con expulsión administrativa. La Cámara la rechazó y el gobierno insiste en el Senado.",
+   "urgencia": "Discusión inmediata",
+   "vence": "2026-11-30",
+   "url": "https://urgenciaskast.cl/p/18314-07.html"
   }
  ],
  "agenda": [
