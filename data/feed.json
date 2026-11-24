@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-24T06:27-03:00",
+ "actualizado": "2026-11-24T10:45-03:00",
  "conteos": {
-  "urgencias_vigentes": 26,
+  "urgencias_vigentes": 27,
   "discusion_inmediata": 5,
   "vencen_7_dias": 13,
-  "citaciones_7_dias": 20
+  "citaciones_7_dias": 21
  },
  "proximos_vencimientos": [
   {
@@ -213,6 +213,20 @@
    "fecha": "2026-11-24",
    "hora": "15:00",
    "camara": "Senado",
+   "organo": "Comisión Mixta para Boletín N° 18702-05",
+   "proyectos": [
+    {
+     "boletin": "18702-05",
+     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
+     "url": "https://urgenciaskast.cl/p/18702-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "camara": "Senado",
    "organo": "Comisión Mixta para Boletín Nº 15975-25",
    "proyectos": [
     {
@@ -234,20 +248,6 @@
      "titulo": "Dicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales",
      "sintesis": "Crea un marco legal para proteger a las personas defensoras del medio ambiente y los derechos humanos, con deberes para el Estado y agravantes penales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
      "url": "https://urgenciaskast.cl/p/16886-12.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "09:30",
-   "camara": "Senado",
-   "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
-   "proyectos": [
-    {
-     "boletin": "17877-33",
-     "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
-     "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
-     "url": "https://urgenciaskast.cl/p/17877-33.html"
     }
    ]
   }

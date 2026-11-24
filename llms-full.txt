@@ -1590,7 +1590,7 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/16552-12.html
 
-Urgencias/Boletín 16552-12SimpleVence en 2 díasAhora en la Cámara
+Urgencias/Boletín 16552-12SumaVence en 15 díasAhora en la Cámara
 Título oficialModifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia
 ## Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.
 Revisión pendiente · piloto de prueba
@@ -1599,7 +1599,7 @@ Esta ficha la redactó un sistema automático a partir de documentos oficiales y
 Mensaje del Presidente
 10 ene 2024, Senado
 Segundo trámite, Cámara
-Simple · Vence en 2 días
+Suma · Vence en 15 días
 1049 días
 El mensaje dice que los proyectos con efectos ambientales los califican autoridades de nombramiento político.1 Dice que esto genera incertidumbre y demoras en la tramitación.1
 El mensaje busca fortalecer la institucionalidad ambiental de la ley 19.300, que fija las bases generales del medio ambiente.1 Reforma la evaluación de impacto ambiental, la responsabilidad por daño ambiental y el Consejo de Ministros para la Sustentabilidad y el Cambio Climático.1
@@ -1607,11 +1607,12 @@ El mensaje propone reemplazar las comisiones de evaluación y el comité de mini
 Los titulares de proyectos deben presentar una Declaración o un Estudio de Impacto Ambiental ante el Servicio de Evaluación Ambiental de la región de las obras.3
 El segundo informe de Hacienda del Senado cita un informe financiero que estima un mayor gasto fiscal de $1.212 millones el primer año y $941 millones en régimen.4 Los informes financieros complementarios de julio y agosto de 2026 dicen que las indicaciones no significan mayor gasto fiscal.52
 El Senado lo aprobó en particular el 14 de abril de 2026 y la Cámara lo recibió el 20 de abril.6 Está en segundo trámite, en la Comisión de Medio Ambiente y Recursos Naturales, con urgencia simple desde el 27 de octubre de 2026.6 La comisión está citada el 18 de noviembre de 2026 para continuar la discusión y votación particular.7
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 2 días · 26 nov 2026. La simple corre en la Cámara desde el 27 de octubre de 2026.8
-11urgencias desde marzo de 2026
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene suma urgencia, de quince días.
+Vence en 15 días · 9 dic 2026. La suma corre en la Cámara desde el 24 de noviembre de 2026.8
+12urgencias desde marzo de 2026
 7renovaciones
-3cambios de tipo
+4cambios de tipo
+24 nov 2026Cambia a suma · Cámara15 días
 27 oct 2026Renueva la simple · Cámara30 días
 7 sep 2026Renueva la simple · Cámara30 días
 17 ago 2026Renueva la simple · Cámara30 días
@@ -5437,8 +5438,8 @@ Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un 
 0urgencias desde marzo de 2026
 - 5 ago 2026 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 11 ago 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Familia, Infancia y Adolescencia.. Se remite el proyecto a la Corte Suprema.La Sala toma conocimiento del proyecto y lo envía a comisión.
-- 11 ago 2026 · SenadoOficio N° a la Corte Suprema
 - 11 ago 2026 · SenadoOficio N°260-26 a la Corte Suprema
+- 24 nov 2026 · SenadoOficio N° 337-2026. Respuesta de la Corte Suprema
 - 24 nov 2026 · 11:15Citado: Comisión de Familia, Infancia y Adolescencia, SenadoSegún la citación publicada.
 ### Para conducir la discusión de la protección de niños abandonados en hospitales
 Fuentes · consultadas el 17 de noviembre de 2026
@@ -6108,7 +6109,7 @@ Ver los proyectos con urgencia
 
 URL: https://urgenciaskast.cl/p/18702-05.html
 
-Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en la Cámara
+Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en la CámaraCitado el 24 nov 2026
 Título oficialLey de Presupuestos para el Sector Público correspondiente al año 2027
 ## Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.
 Revisión pendiente · piloto de prueba
@@ -6123,7 +6124,9 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 18702-05
 Mensaje del Presidente
 30 sep 2026, Cámara
-Tercer trámite, Cámara
+Comisión mixta, Cámara
+Próxima citación
+24 nov 2026, 15:00 · Comisión Mixta para Boletín N° 18702-05
 55 días
 Análisis ampliado
 Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:
@@ -6186,13 +6189,13 @@ PartidaAprobadaVigente a septiembre
 Total del Gobierno Central94.808+ US$ 12.369 millones96.608+ US$ 12.551 millones
 Montos en pesos y dólares de 2026, sin ajustar por inflación: no se restan directamente de las cifras del proyecto. Cada monto suma los gastos de la partida tal como los publica la Dipres, sin consolidar: la partida Tesoro Público incluye los aportes que financian a las demás, y las transferencias entre servicios se cuentan en ambos. Por eso las partidas no suman el total, y las cifras de PresupuestoKast.cl, que sí consolidan, son menores. Fuente: Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular, publicado el 30 oct 2026.
 #### Votaciones de la Sala de la Cámara, por partida
-La Sala de la Cámara ha votado 561 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
+La Sala de la Cámara ha votado 568 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
 PartidaVotaciones
 01Presidencia de la República75 aprobadas · 2 rechazadas
-02Congreso Nacional63 aprobadas · 3 rechazadas
+02Congreso Nacional84 aprobadas · 4 rechazadas
 03Poder Judicial53 aprobadas · 2 rechazadas
 04Contraloría10 aprobadas · 1 rechazadas
-05Interior10 aprobadas · 1 rechazadas
+05Interior20 aprobadas · 2 rechazadas
 06Relaciones Exteriores126 aprobadas · 6 rechazadas
 07Economía3420 aprobadas · 14 rechazadas
 08Hacienda2919 aprobadas · 10 rechazadas
@@ -6221,7 +6224,7 @@ PartidaVotaciones
 31Gobiernos Regionales199 aprobadas · 10 rechazadas
 32Seguridad Pública104 aprobadas · 6 rechazadas
 50Tesoro Público2010 aprobadas · 10 rechazadas
-Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. 85 votaciones no corresponden a una partida (por ejemplo, la votación en general). Fuente: Cámara de Diputadas y Diputados, datos abiertos.
+Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. 89 votaciones no corresponden a una partida (por ejemplo, la votación en general). Fuente: Cámara de Diputadas y Diputados, datos abiertos.
 #### Para ir más a fondo
 Estas pantallas de PresupuestoKast.cl amplían lo que ve arriba:
 - Inicio: cuánto propone gastar el Ejecutivo en cada partida y cuánto cambia respecto de la ley vigente.
@@ -6294,15 +6297,16 @@ Bloque 5 · Hecho
 ### Plazo para despachar el Presupuesto
 La Ley de Presupuestos no lleva urgencias. La Constitución (artículo 67) da al Congreso 60 días desde que el Presidente presenta el proyecto para despacharlo; si no lo despacha a tiempo, rige el proyecto presentado.
 Vence en 5 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026».
-Tercer trámite: la cámara de origen vota los cambios de la otra.
-- 18 nov 2026 · SenadoLa Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de la dieta de los ex Presidentes
-- 18 nov 2026 · SenadoEl Ejecutivo hizo reserva de constitucionalidad respecto del rechazo de la ind 253
+En comisión mixta: ambas cámaras buscan un acuerdo.
 - 18 nov 2026 · SenadoEl Ejecutivo hizo reserva de constitucionalidad por el rechazo de la ind 39
 - 19 nov 2026 · SenadoEl Ejecutivo hizo reserva de constitucionalidad de la ind 1134
 - 19 nov 2026 · SenadoEl Ejecutivo hizo reserva de constitucionalidad de las ind 359, 1141, 1023 y 1150
 - 19 nov 2026 · SenadoDiscusión única. Aprobado con modificaciones
 - 21 nov 2026 · SenadoOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
+- 23 nov 2026 · CámaraDiscusión única. Rechazadas las modificaciones.
 - 23 nov 2026 · CámaraCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
+- 24 nov 2026 · CámaraOficio rechazo modificaciones a Cámara Revisora.
+- 24 nov 2026 · 15:00Citado: Comisión Mixta para Boletín N° 18702-05, SenadoSegún la citación publicada.
 ### Para conducir la discusión de el presupuesto del Estado para 2027
 Fuentes · consultadas el 22 de noviembre de 2026
 - 1Emol, «Presupuesto 2027: Las seis claves del primer proyecto de Kast, los ruidos y las primeras batallas en el Congreso»11 de octubre de 2026. Variaciones por sector, plazos y primeras votaciones en subcomisiones.
