@@ -196,7 +196,7 @@ def ld_datos():
         salida.append({'@type': 'Dataset', '@id': url, 'name': titulo, 'description': desc, 'url': url,
                        'inLanguage': 'es-CL', 'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
                        'isAccessibleForFree': True, 'creator': {'@id': ORG_LC['@id']},
-                       'spatialCoverage': {'@type': 'Country', 'name': 'Chile'},
+                       'spatialCoverage': {'@type': 'Place', 'name': 'Chile'},
                        **({'isBasedOn': fuentes} if fuentes and nombre == 'urgencias' else {}),
                        'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'application/json', 'contentUrl': url}]})
     return salida
