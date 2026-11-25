@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "17662-07",
   "nivel": "basica",
-  "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con urgencia suma.",
+  "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con discusión inmediata.",
   "materia": "las sanciones por ofensas y atentados contra policías",
   "resumen": {
     "problema": [
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "texto": "Tiene urgencia suma desde el 18 de noviembre de 2026.",
+        "texto": "Desde el 24 de noviembre de 2026 tiene discusión inmediata.",
         "fuentes": [
           "f6"
         ]
@@ -148,12 +148,12 @@
       "id": "f6",
       "titulo": "Tramitación del boletín 17662-07 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17662",
-      "fecha": "2026-11-18",
+      "fecha": "2026-11-25",
       "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-19",
-  "publicado": "2026-11-19",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
