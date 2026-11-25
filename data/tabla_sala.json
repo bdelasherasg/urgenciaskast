@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T16:13",
+ "actualizado": "2026-11-25T16:15",
  "fuente": "Tablas de Sala de camara.cl y senado.cl, cargadas por el equipo en el panel",
  "sesiones": [
   {
@@ -686,6 +686,195 @@
    "leido": "2026-11-25T16:13"
   },
   {
+   "camara": "Senado",
+   "numero": 87,
+   "fecha": "2026-11-24",
+   "horario": "15:19 a 16:34",
+   "clase": "Especial",
+   "fuente": "Senado, Tabla semanal (copiada)",
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación (Boletín N° 18189-14). Con urgencia calificada de Suma.",
+     "boletines": [
+      "18189-14"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Suma"
+     }
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia (Boletín N° 18464-14). Con urgencia calificada de Suma.",
+     "boletines": [
+      "18464-14"
+     ],
+     "detalle": "",
+     "quorum": "L.O.C.",
+     "urgencia": {
+      "tipo": "Suma"
+     }
+    }
+   ],
+   "cargado_por": "bernardo",
+   "leido": "2026-11-25T16:15"
+  },
+  {
+   "camara": "Senado",
+   "numero": 88,
+   "fecha": "2026-11-24",
+   "horario": "16:40 a 19:23",
+   "clase": "Ordinaria",
+   "fuente": "Senado, Tabla semanal (copiada)",
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en tercer trámite constitucional, que equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna. (Boletín N° 14782-13). Con urgencia calificada de Discusión inmediata.",
+     "boletines": [
+      "14782-13"
+     ],
+     "detalle": "",
+     "quorum": "Q.C.",
+     "urgencia": {
+      "tipo": "Discusión inmediata"
+     }
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad (Boletín N° 15589-07). Con urgencia calificada de Simple.",
+     "boletines": [
+      "15589-07"
+     ],
+     "detalle": "",
+     "quorum": "L.O.C.",
+     "urgencia": {
+      "tipo": "Simple"
+     }
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal (Boletín N° 15850-11). Con urgencia calificada de Suma.",
+     "boletines": [
+      "15850-11"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "urgencia": {
+      "tipo": "Suma"
+     }
+    },
+    {
+     "orden": 4,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en tercer trámite constitucional, que modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales (Boletín N° 16777-07).",
+     "boletines": [
+      "16777-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 1,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de medidas para promover y apoyar las actividades tendientes a valorizar y difundir la reconocida obra del poeta Gonzalo Rojas Pizarro, con motivo de conmemorarse 110 años de su nacimiento. (Boletín N° S 2725-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2725-12"
+    },
+    {
+     "orden": 2,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indican para ampliar la cobertura del examen preventivo gratuito de mamografía, con el objeto de fortalecer la detección temprana del cáncer de mama (Boletín N° S 2727-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2727-12"
+    },
+    {
+     "orden": 3,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa de ley que contemple un marco normativo integral para el desarrollo sostenible de la industria de data centers en Chile (Boletín N° S 2737-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2737-12"
+    },
+    {
+     "orden": 4,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Adopte las medidas que correspondan para fortalecer la capacidad submarina de la defensa nacional, mediante la implementación de un programa estratégico de reemplazo de los submarinos de mayor antigüedad al servicio de la Armada de Chile (Boletín N° S 2739-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2739-12"
+    },
+    {
+     "orden": 5,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse una agenda legislativa integral con el objeto de fortalecer el proceso de descentralización en el país (Boletín N° S 2743-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2743-12"
+    },
+    {
+     "orden": 6,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, presente las iniciativas legales que correspondan, y adopte las medidas administrativas y presupuestarias necesarias para fortalecer la protección de la salud del personal de las Fuerzas Armadas y de Orden y Seguridad Pública (Boletín N° S 2744-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2744-12"
+    },
+    {
+     "orden": 7,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse la actualización de la Política de Defensa Nacional y de la Política Militar, priorizando la recuperación y modernización de las capacidades disuasivas de las Fuerzas Armadas, el fortalecimiento de la ciberdefensa, la preparación frente a nuevas amenazas y una planificación estratégica de largo plazo que garantice la soberanía, la seguridad dentro de sus límites constitucionales y los intereses permanentes de Chile (Boletín N° S 2767-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2767-12"
+    },
+    {
+     "orden": 8,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya a los Ministerios de Hacienda y de Salud, para que realicen los estudios técnicos, epidemiológicos, económicos y presupuestarios pertinentes, y gestionen, en el marco de la elaboración del siguiente decreto de garantías explícitas en salud (2028-2031), la ampliación de la garantía GES N° 47, \"Salud oral integral de personas de 60 años\" (Boletín N° S 2769-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2769-12"
+    },
+    {
+     "orden": 9,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de acuerdo con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, mandate al Ministerio de Salud y al Ministerio del Medio Ambiente, y a la Corporación Nacional del Cobre de Chile, a adoptar medidas estructurales e intersectoriales ante los hallazgos de contaminación por metales pesados en los establecimientos educacionales de la comuna de Calama (Boletín N° S 2770-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2770-12"
+    },
+    {
+     "orden": 10,
+     "seccion": "Tiempo de votaciones",
+     "texto": "Proyecto de Acuerdo de los Honorables Senadores señoras Gatica, Astudillo, Balladares, Cariola, Cicardini, Flores, Kaiser, Núñez, Órdenes, Sepúlveda y Vodanovic y señores Araya, Bianchi, Calisto, Castro, Espinoza, Flores, Huenchumilla, Ibáñez, Keitel, Kusanovic, Longton, Mirosevic, Moreira, Saavedra, Van Rysselberghe, y Walker, con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, impulse la adopción de medidas transitorias y focalizadas para mitigar el impacto del alza de los combustibles en las familias y en las micro, pequeñas y medianas empresas (Boletín N° S 2774-12).",
+     "boletines": [],
+     "detalle": "",
+     "quorum": "Mayoría Simple",
+     "boletin_senado": "S 2774-12"
+    }
+   ],
+   "cargado_por": "bernardo",
+   "leido": "2026-11-25T16:15"
+  },
+  {
    "camara": "Cámara de Diputados",
    "numero": null,
    "fecha": "2026-11-25",
@@ -705,6 +894,51 @@
    ],
    "cargado_por": "bernardo",
    "leido": "2026-11-25T16:13"
+  },
+  {
+   "camara": "Senado",
+   "numero": 89,
+   "fecha": "2026-11-25",
+   "horario": "16:00 a 20:00",
+   "clase": "Ordinaria",
+   "fuente": "Senado, Tabla semanal (copiada)",
+   "puntos": [
+    {
+     "orden": 1,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
+     "boletines": [
+      "18702-05"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    },
+    {
+     "orden": 2,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en tercer trámite constitucional, que equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna. (Boletín N° 14782-13). Segunda discusión. Con urgencia calificada de Discusión inmediata.",
+     "boletines": [
+      "14782-13"
+     ],
+     "detalle": "",
+     "quorum": "Q.C.",
+     "urgencia": {
+      "tipo": "Discusión inmediata"
+     }
+    },
+    {
+     "orden": 3,
+     "seccion": "Orden del día",
+     "texto": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.968, que crea los Tribunales de Familia, con el objeto de garantizar el debido proceso en causas relativas a niños, niñas y adolescentes. (Boletín N° 14950-07).",
+     "boletines": [
+      "14950-07"
+     ],
+     "detalle": "",
+     "quorum": "Mayoría Simple"
+    }
+   ],
+   "cargado_por": "bernardo",
+   "leido": "2026-11-25T16:15"
   }
  ]
 }
