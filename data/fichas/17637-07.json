@@ -120,7 +120,7 @@
         ]
       },
       {
-        "texto": "Tiene urgencia simple desde el 10 de noviembre de 2026.",
+        "texto": "El 24 de noviembre de 2026 pasó de urgencia simple a suma.",
         "fuentes": [
           "f8"
         ]
@@ -157,6 +157,13 @@
       }
     ]
   },
+  "busqueda_prensa": [
+    "reclutamiento de menores",
+    "reclutamiento de niños criminal",
+    "bandas criminales y menores",
+    "delito de reclutar adolescentes",
+    "asociaciones criminales y menores"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -211,7 +218,7 @@
       "id": "f8",
       "titulo": "Senado, tramitación oficial del boletín 17637-07",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17637",
-      "fecha": "12 de noviembre de 2026",
+      "fecha": "25 de noviembre de 2026",
       "nota": "Etapas y urgencias."
     },
     {
@@ -222,15 +229,8 @@
       "nota": "Indicación sustitutiva; el texto disponible no muestra las cifras."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "reclutamiento de menores",
-    "reclutamiento de niños criminal",
-    "bandas criminales y menores",
-    "delito de reclutar adolescentes",
-    "asociaciones criminales y menores"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
