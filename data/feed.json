@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-24T20:57-03:00",
+ "actualizado": "2026-11-25T05:36-03:00",
  "conteos": {
   "urgencias_vigentes": 44,
   "discusion_inmediata": 9,
-  "vencen_7_dias": 10,
-  "citaciones_7_dias": 22
+  "vencen_7_dias": 13,
+  "citaciones_7_dias": 11
  },
  "proximos_vencimientos": [
   {
@@ -60,67 +60,35 @@
  ],
  "agenda": [
   {
-   "fecha": "2026-11-24",
+   "fecha": "2026-11-25",
    "hora": "09:30",
    "camara": "Senado",
-   "organo": "Comisión de Economía",
+   "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
    "proyectos": [
     {
-     "boletin": "14838-03",
-     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
-     "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
-     "url": "https://urgenciaskast.cl/p/14838-03.html"
+     "boletin": "17877-33",
+     "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
+     "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
+     "url": "https://urgenciaskast.cl/p/17877-33.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
+   "fecha": "2026-11-25",
    "hora": "09:30",
    "camara": "Senado",
-   "organo": "Comisión de Salud",
+   "organo": "Comisión de Transportes y Telecomunicaciones",
    "proyectos": [
     {
-     "boletin": "11058-11",
-     "titulo": "Regula la venta de bebidas con aditivos energizantes y sustancias estimulantes a menores de edad.",
-     "sintesis": "Prohíbe vender bebidas con aditivos energizantes y estimulantes a menores de edad. Es una moción del Senado de 2016, refundida con otro proyecto en 2022. Espera el primer informe de la Comisión de Salud.",
-     "url": "https://urgenciaskast.cl/p/11058-11.html"
-    },
-    {
-     "boletin": "15047-11",
-     "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
-     "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/15047-11.html"
-    },
-    {
-     "boletin": "15241-11",
-     "titulo": "Prohíbe la venta a menores de edad de bebidas energéticas que contengan aditivos energizantes y sustancias estimulantes.",
-     "sintesis": "Prohíbe vender, ofrecer o entregar a menores de edad bebidas energéticas y similares que pongan en riesgo su salud. Moción de 2022, refundida con el boletín 11.058-11, en primer trámite en el Senado.",
-     "url": "https://urgenciaskast.cl/p/15241-11.html"
-    },
-    {
-     "boletin": "17567-11",
-     "titulo": "Optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos",
-     "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/17567-11.html"
+     "boletin": "18888-03",
+     "titulo": "Proyecto de ley que modifica el Código de Comercio para regular la renegociación de contratos de transporte ante alzas en el precio de los combustibles y establece normas de transparencia y acceso a precios preferenciales",
+     "sintesis": "Permite renegociar contratos de transporte de carga cuando suben mucho los combustibles y exige transparencia de precios. Moción del Senado de noviembre de 2026, que ve la Comisión de Transportes y Telecomunicaciones.",
+     "url": "https://urgenciaskast.cl/p/18888-03.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
-   "hora": "10:00",
-   "camara": "Senado",
-   "organo": "Comisión de Vivienda y Urbanismo",
-   "proyectos": [
-    {
-     "boletin": "18644-14",
-     "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
-     "sintesis": "Incluye las obras de Bomberos en la excepción de permisos municipales para facilitar la construcción de cuarteles y abre un plazo hasta 2029 para regularizar los existentes. Está en segundo trámite, en el Senado.",
-     "url": "https://urgenciaskast.cl/p/18644-14.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
+   "fecha": "2026-11-25",
    "hora": "10:30",
    "camara": "Senado",
    "organo": "Comisión de Hacienda",
@@ -134,36 +102,8 @@
    ]
   },
   {
-   "fecha": "2026-11-24",
+   "fecha": "2026-11-25",
    "hora": "11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Seguridad Pública",
-   "proyectos": [
-    {
-     "boletin": "18881-25",
-     "titulo": "Deroga el sistema de reducción de condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal",
-     "sintesis": "Deroga la ley que permite reducir las condenas por buena conducta y establece una circunstancia agravante de responsabilidad penal. Está en primer trámite en el Senado, con discusión inmediata.",
-     "url": "https://urgenciaskast.cl/p/18881-25.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "11:15",
-   "camara": "Senado",
-   "organo": "Comisión de Familia, Infancia y Adolescencia",
-   "proyectos": [
-    {
-     "boletin": "18554-36",
-     "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
-     "sintesis": "Obliga a los hospitales y clínicas a avisar en 24 horas cuando un niño o niña queda abandonado en ellos. Es una moción del Senado, en primer trámite y sin urgencia.",
-     "url": "https://urgenciaskast.cl/p/18554-36.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-24",
-   "hora": "12:30",
    "camara": "Senado",
    "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
    "proyectos": [
@@ -174,80 +114,108 @@
      "url": "https://urgenciaskast.cl/p/12213-07.html"
     },
     {
-     "boletin": "15905-25",
-     "titulo": "Modifica diversos cuerpos legales para suprimir la facultad judicial de ordenar notificaciones por medio de funcionarios de Carabineros",
-     "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/15905-25.html"
+     "boletin": "17637-07",
+     "titulo": "Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales",
+     "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
+     "url": "https://urgenciaskast.cl/p/17637-07.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
+   "fecha": "2026-11-25",
+   "hora": "11:00",
+   "camara": "Senado",
+   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
+   "proyectos": [
+    {
+     "boletin": "18420-25",
+     "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+     "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
+     "url": "https://urgenciaskast.cl/p/18420-25.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-25",
    "hora": "12:30",
    "camara": "Senado",
-   "organo": "Comisión de Defensa Nacional",
+   "organo": "Comisión de Educación",
    "proyectos": [
     {
-     "boletin": "16143-02",
-     "titulo": "Para la protección de la infraestructura crítica del país",
-     "sintesis": "Crea un régimen para proteger la infraestructura crítica del país, con catálogo, planes y deberes para sus operadores. Está en primer trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/16143-02.html"
+     "boletin": "17622-04",
+     "titulo": "Modifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educacional",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17622-04.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
+   "fecha": "2026-11-25",
    "hora": "12:30",
    "camara": "Senado",
-   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+   "organo": "Comisión de Obras Públicas",
    "proyectos": [
     {
-     "boletin": "14024-12",
-     "titulo": "Modifica la ley N°18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para prohibir la utilización de elementos de propaganda electoral fabricados con material plástico no compostable",
-     "sintesis": "Prohíbe fabricar con plástico no compostable la propaganda electoral permitida. La Cámara lo aprobó en 2021. Está en el Senado, donde una comisión prepara un nuevo primer informe. No tiene urgencia.",
-     "url": "https://urgenciaskast.cl/p/14024-12.html"
+     "boletin": "8654-15",
+     "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
+     "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
+     "url": "https://urgenciaskast.cl/p/8654-15.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
-   "hora": "15:00",
+   "fecha": "2026-11-25",
+   "hora": "12:30",
    "camara": "Senado",
-   "organo": "Comisión Mixta para Boletín N° 18702-05",
+   "organo": "Comisión de Trabajo y Previsión Social",
    "proyectos": [
     {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
+     "boletin": "11929-13",
+     "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
+     "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
+     "url": "https://urgenciaskast.cl/p/11929-13.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
-   "hora": "15:00",
+   "fecha": "2026-11-25",
+   "hora": "12:30",
    "camara": "Senado",
-   "organo": "Comisión Mixta para Boletín Nº 15975-25",
+   "organo": "Comisión del Adulto Mayor y Discapacidad",
    "proyectos": [
     {
-     "boletin": "15975-25",
-     "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-     "sintesis": "Crea un sistema para analizar información económica y detectar el crimen organizado y el lavado de dinero, con la UAF, el SII y Aduanas. Está en Comisión Mixta, que busca resolver las diferencias entre las cámaras.",
-     "url": "https://urgenciaskast.cl/p/15975-25.html"
+     "boletin": "14744-35",
+     "titulo": "Modifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley",
+     "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
+     "url": "https://urgenciaskast.cl/p/14744-35.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-24",
-   "hora": "15:00",
+   "fecha": "2026-11-25",
+   "hora": "15:15",
    "camara": "Senado",
-   "organo": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+   "organo": "Comisión Mixta para Boletín Nº 16743-04",
    "proyectos": [
     {
-     "boletin": "16886-12",
-     "titulo": "Dicta normas sobre protección de personas defensoras de la naturaleza y los derechos humanos medioambientales",
-     "sintesis": "Crea un marco legal para proteger a las personas defensoras del medio ambiente y los derechos humanos, con deberes para el Estado y agravantes penales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
-     "url": "https://urgenciaskast.cl/p/16886-12.html"
+     "boletin": "16743-04",
+     "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
+     "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
+     "url": "https://urgenciaskast.cl/p/16743-04.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-12-01",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Economía",
+   "proyectos": [
+    {
+     "boletin": "14838-03",
+     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
+     "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
+     "url": "https://urgenciaskast.cl/p/14838-03.html"
     }
    ]
   }
