@@ -1219,7 +1219,7 @@ URL: https://urgenciaskast.cl/p/15905-25.html
 
 Urgencias/Boletín 15905-25SimpleVence en 29 díasAhora en el Senado
 Título oficialModifica diversos cuerpos legales para suprimir la facultad judicial de ordenar notificaciones por medio de funcionarios de Carabineros
-## Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.
+## Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 15905-25
@@ -1231,9 +1231,9 @@ Propone eliminar las facultades que hoy permiten a Carabineros hacer notificacio
 Modifica el artículo 705 del Código de Procedimiento Civil, el artículo 8 de la ley 18.287 de juzgados de policía local y el artículo 23 de la ley 19.968 de tribunales de familia.3 En juicios de mínima cuantía, la notificación la haría el secretario del tribunal u otro funcionario, y no un vecino de confianza o un carabinero.2
 Afecta a Carabineros, a los tribunales civiles, a los juzgados de policía local y a los tribunales de familia.23 La moción dice que podrían notificar funcionarios municipales y judiciales, receptores, notarios y funcionarios del Registro Civil.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 El informe de la comisión de la Cámara dice que no hay normas que deba conocer la Comisión de Hacienda.2
-La Cámara aprobó el proyecto en general y en particular el 6 de mayo de 2024 y lo envió al Senado.34 En el Senado pasó a la Comisión de Constitución, que debe entregar su primer informe.4 Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 6 de octubre de 2026.4
+La Cámara aprobó el proyecto en general y en particular el 6 de mayo de 2024 y lo envió al Senado.34 En el Senado pasó a la Comisión de Constitución, que debe entregar su primer informe.4 El 24 de noviembre de 2026, el Gobierno le puso urgencia simple, un plazo para tratarlo. Antes tenía urgencia suma.54
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 29 días · 24 dic 2026. La simple corre en el Senado desde el 24 de noviembre de 2026.5
+Vence en 29 días · 24 dic 2026. La simple corre en el Senado desde el 24 de noviembre de 2026.6
 14urgencias desde marzo de 2026
 9renovaciones
 4cambios de tipo
@@ -1252,15 +1252,16 @@ Vence en 29 días · 24 dic 2026. La simple corre en el Senado desde el 24 de no
 5 may 2026Renueva la simple · Senado30 días
 7 abr 2026Pone urgencia simple · Senado30 días
 ### Para conducir la discusión de el fin de las notificaciones judiciales por Carabineros
-Fuentes · consultadas el 21 de noviembre de 2026
+Fuentes · consultadas el 25 de noviembre de 2026
 - 1Moción: Modifica diversos cuerpos legales para suprimir la facultad judicial de ordenar notificaciones por medio de funcionarios de Carabineros2023-05-09. Fundamentos y texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Seguridad Ciudadana · Primer trámite constitucional2024-04-19. Informe de la Comisión de Seguridad Ciudadana de la Cámara.
 - 3Oficio N° 194492024-05-06. Texto aprobado por la Cámara.
 - 4Tramitación del boletín 15905-25 (servicio web público del Senado)2026-11-20. Etapas y urgencias.
-- 5Senado, ficha de tramitación del boletín 15905-25Consulta automática. Etapas, trámites y urgencias.
-- 6Cámara de Diputadas y Diputados, tramitación del boletín 15905-25Consulta automática
-- 7Texto del proyecto (moción)Documento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+- 5Senado, tramitación del boletín 15905-25 (datos recogidos por la agenda del sitio)2026-11-25. Urgencia simple hecha presente el 24 de noviembre de 2026.
+- 6Senado, ficha de tramitación del boletín 15905-25Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 15905-25Consulta automática
+- 8Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 15975-25
 
@@ -1608,12 +1609,12 @@ Mensaje del Presidente
 Segundo trámite, Cámara
 Suma · Vence en 14 días
 1050 días
-El mensaje dice que los proyectos con efectos ambientales los califican autoridades de nombramiento político.1 Dice que esto genera incertidumbre y demoras en la tramitación.1
-El mensaje busca fortalecer la institucionalidad ambiental de la ley 19.300, que fija las bases generales del medio ambiente.1 Reforma la evaluación de impacto ambiental, la responsabilidad por daño ambiental y el Consejo de Ministros para la Sustentabilidad y el Cambio Climático.1
-El mensaje propone reemplazar las comisiones de evaluación y el comité de ministros por órganos técnicos.1 Las indicaciones de julio de 2026 reincorporan la Comisión de Evaluación.5 Las de agosto de 2026 precisan cuándo se puede rechazar una Declaración o un Estudio de Impacto Ambiental.2
-Los titulares de proyectos deben presentar una Declaración o un Estudio de Impacto Ambiental ante el Servicio de Evaluación Ambiental de la región de las obras.3
-El segundo informe de Hacienda del Senado cita un informe financiero que estima un mayor gasto fiscal de $1.212 millones el primer año y $941 millones en régimen.4 Los informes financieros complementarios de julio y agosto de 2026 dicen que las indicaciones no significan mayor gasto fiscal.52
-El Senado lo aprobó en particular el 14 de abril de 2026 y la Cámara lo recibió el 20 de abril.6 Está en segundo trámite, en la Comisión de Medio Ambiente y Recursos Naturales, con urgencia simple desde el 27 de octubre de 2026.6 La comisión está citada el 18 de noviembre de 2026 para continuar la discusión y votación particular.7
+El mensaje dice que los proyectos con efectos ambientales los califican autoridades de nombramiento político.1 Dice que esto genera dudas y demoras.1
+El proyecto busca fortalecer la ley 19.300, que fija las bases generales del medio ambiente.1 Cambia la evaluación ambiental, la responsabilidad por daños y un consejo de ministros del área.1
+El mensaje proponía cambiar las comisiones de evaluación y el comité de ministros por órganos técnicos.1 En julio de 2026, indicaciones, o cambios del Presidente, repusieron la Comisión de Evaluación.6 Las de agosto precisan cuándo rechazar un proyecto.3 Las de noviembre mantienen un comité de ministros para reclamos sobre estudios ambientales.2 Un reclamo no resuelto a tiempo podría darse por rechazado y llegar al Tribunal Ambiental.2 La ley regiría a los doce meses, y no a los dieciocho, salvo las reglas de reclamo.2
+Los dueños de proyectos presentan declaraciones o estudios al Servicio de Evaluación Ambiental.4 Ellos y personas afectadas podrían reclamar.2
+Según el informe financiero complementario de noviembre de 2026, las nuevas indicaciones no suman gasto fiscal.2 Un informe anterior, citado por Hacienda del Senado, estimaba $1.212 millones el primer año.5 Luego, $941 millones al año en funcionamiento normal.5
+El Senado lo aprobó el 14 de abril de 2026 y la Cámara lo recibió el 20.7 Está en la Comisión de Medio Ambiente y Recursos Naturales.7 El 18 de noviembre ingresaron las nuevas indicaciones.72 Desde el 24 de noviembre tiene urgencia suma.7
 Vence en 14 días · 9 dic 2026. La suma corre en la Cámara desde el 24 de noviembre de 2026.8
 12urgencias desde marzo de 2026
 7renovaciones
@@ -1639,17 +1640,18 @@ Vence en 14 días · 9 dic 2026. La suma corre en la Cámara desde el 24 de novi
 - 12 ago 2026 · CámaraS.E. el Presidente de la República retira y formula indicación al proyecto. (137-374). Incluye informe financiero complementario N° 196/12.08.2026.
 - 18 nov 2026 · CámaraS.E. el Presidente de la República retira y formula indicación al proyecto. (441-374). Incluye informe financiero complementario N° 272/17.11.2026.
 ### Para conducir la discusión de la reforma a la institucionalidad ambiental
-- 1Mensaje del Presidente de la República, boletín 16.552-12 (10 de enero de 2024)10 de enero de 2024. Fundamentos y objetivos. El texto está cortado.
-- 2Oficio 137-374: indicación del Presidente con informe financiero complementario N° 196 (12 de agosto de 2026)12 de agosto de 2026. Indicación sobre causales de calificación desfavorable.
-- 3Oficio 114-374: indicaciones del Presidente (22 de julio de 2026)22 de julio de 2026. Indicaciones con informe financiero complementario N° 170.
-- 4Segundo informe de la Comisión de Hacienda del Senado (27 de enero de 2026), pasajes sobre costo27 de enero de 2026. Cita informes financieros anteriores.
-- 5Oficio 114-374: informe financiero complementario N° 170 (22 de julio de 2026)22 de julio de 2026. Efecto de las indicaciones sobre el presupuesto.
-- 6Senado, tramitación del boletín 16.552-1212 de noviembre de 2026. Trámites y urgencias.
-- 7Cámara de Diputadas y Diputados, citaciones de comisiones11 de noviembre de 2026. Sesión citada para el 18 de noviembre de 2026.
+Fuentes · consultadas el 25 de noviembre de 2026
+- 1Mensaje: Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia2024-01-10. Fundamentos y objetivos. El texto está cortado.
+- 2Oficio N° : S.E. el Presidente de la República retira y formula indicación al proyecto. (441-374). Incluye informe financiero complementario N° 272/17.11.2026.2026-11-18. Indicaciones de noviembre de 2026 e informe financiero complementario N° 272.
+- 3Oficio N° : S.E. el Presidente de la República retira y formula indicación al proyecto. (137-374). Incluye informe financiero complementario N° 196/12.08.2026.2026-08-12. Indicación de agosto de 2026 sobre causales de rechazo.
+- 4Oficio N° : S.E. el Presidente de la República retira y formula indicaciones al proyecto. (114-374). Incluye informe financiero complementario N° 170/22.07.2026.2026-07-22. Indicaciones de julio de 2026. El texto está cortado.
+- 5Pasajes sobre costo fiscal en: Informe de comisión · Segundo informe de comisión de Hacienda · Primer trámite constitucional2026-01-27. Pasajes que reproducen informes financieros anteriores.
+- 6Pasajes sobre costo fiscal en: Oficio N° : S.E. el Presidente de la República retira y formula indicaciones al proyecto. (114-374). Incluye informe financiero complementario N° 170/22.07.2026.2026-07-22. Informe financiero complementario N° 170.
+- 7Tramitación del boletín 16552-12 (servicio web público del Senado)2026-11-24. Trámites y urgencias.
 - 8Senado, ficha de tramitación del boletín 16552-12Consulta automática. Etapas, trámites y urgencias.
 - 9Cámara de Diputadas y Diputados, tramitación del boletín 16552-12Consulta automática
 - 10Texto del mensaje presidencialDocumento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16553-12
 
@@ -6217,7 +6219,7 @@ URL: https://urgenciaskast.cl/p/18702-05.html
 
 Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en el Senado
 Título oficialLey de Presupuestos para el Sector Público correspondiente al año 2027
-## Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.
+## Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 Antes de leer
@@ -6240,15 +6242,15 @@ Se elabora con las notas de una lista fija de medios nacionales, y cada afirmaci
 #### Qué es y qué plazo tiene
 La Ley de Presupuestos fija cuánto puede gastar el Estado en 2027.6 El Presidente la presentó a la Cámara el 30 de septiembre.6 El Congreso tiene 60 días para despacharla.1
 #### Cuánto propone gastar
-El gasto total neto es de 105,8 billones de pesos y 6.297 millones de dólares.6 Fija un déficit estructural de 1,8% del producto, un punto menos que este año.6 La Ley 2026 aprobó gastos por 94,81 billones de pesos y 12.369 millones de dólares de ese año.11
+El mensaje propone un gasto neto de 105,8 billones de pesos y 6.297 millones de dólares.6 La ley 2026 aprobó 94,81 billones de pesos y 12.369 millones de dólares, en moneda de ese año.9 En septiembre regían 96,61 billones y 12.551 millones.9
 #### Qué cambia respecto de la ley vigente
-Suspende en 2027 que un funcionario de planta tenga también un empleo a contrata.6 Permite reponer un cupo por cada tres vacantes.6
+Impide en 2027 que un funcionario de planta, con cargo permanente, tome además un empleo temporal a contrata.612 Quienes ya lo hacen quedan fuera.12 El mensaje propone cubrir solo un cupo por cada tres vacantes que se produzcan.6
 #### Qué partidas se rechazaron o modificaron
-La Comisión Mixta despachó todas las partidas y el articulado entre el 2 y el 5 de noviembre.7 Algunas partidas se aprobaron con cambios y otras quedaron con materias pendientes.7 En la Sala de la Cámara, las partidas con más votaciones fueron Salud (66), Vivienda (65) y Economía (34).9
+El 23 de noviembre, la Cámara aprobó los cambios del Senado, salvo algunos.11 Los rechazados tocan las partidas, o presupuestos, de Congreso, Interior, Justicia, Agricultura, Trabajo, Vivienda, Deporte, Mujer, Culturas y Seguridad Pública.11 En toda la tramitación, la Cámara votó más veces sobre Salud (67), Vivienda (66) y Trabajo (42).8
 #### Gasto total y endeudamiento
-El artículo 3 autoriza al Presidente a contraer deuda por hasta 25.000 millones de dólares.67 Permite, además, otros 600 millones de dólares.67 El artículo 2 permite garantías del Estado de hasta 500 millones de dólares a empresas públicas y universidades estatales.6
+El gasto neto propuesto es de 105,8 billones de pesos.6 El Senado agregó un artículo para que el Presidente contraiga deuda por hasta 25.000 millones de dólares.10 Suma otros 600 millones de dólares.10 La Cámara aprobó ese artículo con 95 votos a favor.11
 #### En qué va
-Entre el 9 y el 13 de noviembre, la Sala de la Cámara votó 561 veces: 302 aprobaciones y 259 rechazos.9 La Sala del Senado lo trató del 16 al 19 de noviembre y lo aprobó con modificaciones el 19.810 El 21 de noviembre el Senado envió los cambios a la Cámara de Diputados, que ahora los revisa en tercer trámite.8
+La Cámara aprobó el proyecto el 12 de noviembre.7 El 19, el Senado lo aprobó con cambios.7 El 23, la Sala de la Cámara votó 41 veces: 31 aprobaciones y 10 rechazos.8 El 24 pasó a Comisión Mixta, de diputados y senadores, para resolver las diferencias.711
 Bloque 2
 ### El detalle, partida por partida
 Aquí mostramos, de forma oportuna y cómoda, lo que la Ley de Presupuestos 2026 fijó para cada partida y cuántas veces votó la Cámara en cada una. No es una auditoría ni reemplaza los documentos oficiales: es un punto de partida para ubicarse.
@@ -6411,22 +6413,23 @@ En comisión mixta: ambas cámaras buscan un acuerdo.
 - 24 nov 2026 · CámaraOficio rechazo modificaciones a Cámara Revisora.
 - 24 nov 2026 · SenadoCuenta oficio rechazo a modificaciones.
 ### Para conducir la discusión de el presupuesto del Estado para 2027
-Fuentes · consultadas el 22 de noviembre de 2026
+Fuentes · consultadas el 25 de noviembre de 2026
 - 1Emol, «Presupuesto 2027: Las seis claves del primer proyecto de Kast, los ruidos y las primeras batallas en el Congreso»11 de octubre de 2026. Variaciones por sector, plazos y primeras votaciones en subcomisiones.
 - 2Emol, «Gremios empresariales valoran Presupuesto 2027, pero urgen que anuncios se traduzcan pronto en resultados»1 de octubre de 2026. Declaraciones de CPC, SNA y CChC.
 - 3T13, «Alcaldes de oficialismo y oposición rechazan proyecto de Ley Presupuestos 2027»20 de octubre de 2026. Comunicado del comité ejecutivo de la Asociación Chilena de Municipalidades.
 - 4El Desconcierto, «Paro nacional del 1 de octubre suma a la CUT, profesores y sindicatos por el Presupuesto 2027»28 de septiembre de 2026. Convocatoria de la Confech y organizaciones adherentes.
 - 5Emol, «Diálogo de sordos: Gobernadores piden rechazar el presupuesto para regiones tras reunión con Dipres»16 de octubre de 2026. Partida de gobiernos regionales y postura de Agorechi.
 - 6Mensaje presidencial: Ley de Presupuestos para el Sector Público correspondiente al año 202730 de septiembre de 2026. Contenido del articulado, gasto total, deuda y garantías.
-- 7Informe de la Comisión Especial Mixta de Presupuestos sobre el proyecto de Ley de Presupuestos 20279 de noviembre de 2026. Despacho de las partidas y del articulado.
-- 8Senado, tramitación del boletín 18702-05 (servicio web público)21 de noviembre de 2026. Etapa y trámites, hasta el oficio con las modificaciones del Senado a la Cámara de origen.
-- 9Cámara de Diputadas y Diputados, votaciones de Sala del boletín 18702-05 (datos abiertos)13 de noviembre de 2026. Votaciones de Sala entre el 9 y el 13 de noviembre.
-- 10Senado, sesiones de Sala de la legislatura 374 (servicio web público)19 de noviembre de 2026. Sesiones de Sala del Senado del 16 al 19 de noviembre.
-- 11Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular30 de octubre de 2026. Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026.
-- 12Senado, ficha de tramitación del boletín 18702-05Consulta automática. Etapas, trámites y urgencias.
-- 13Cámara de Diputadas y Diputados, tramitación del boletín 18702-05Consulta automática
-- 14Texto del mensaje presidencialDocumento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-22 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+- 7Senado, tramitación del boletín 18702-05 (servicio web público)24 de noviembre de 2026. Etapa y trámites, hasta la cuenta del rechazo de las modificaciones en el Senado.
+- 8Cámara de Diputadas y Diputados, votaciones de Sala del boletín 18702-05 (datos abiertos)23 de noviembre de 2026. Votaciones de Sala de toda la tramitación, hasta el 23 de noviembre.
+- 9Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular30 de octubre de 2026. Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026.
+- 10Senado, oficio 379/SEC/26 con las modificaciones al proyecto20 de noviembre de 2026. Cambios aprobados por el Senado. El texto está cortado.
+- 11Cámara de Diputadas y Diputados, oficio 21.783 sobre las enmiendas del Senado23 de noviembre de 2026. Enmiendas rechazadas e integrantes de la Comisión Mixta.
+- 12Cámara de Diputadas y Diputados, oficio 21.755 con el texto aprobado en primer trámite13 de noviembre de 2026. Texto aprobado por la Cámara. La lectura está cortada.
+- 13Senado, ficha de tramitación del boletín 18702-05Consulta automática. Etapas, trámites y urgencias.
+- 14Cámara de Diputadas y Diputados, tramitación del boletín 18702-05Consulta automática
+- 15Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18707-07
 
@@ -7017,31 +7020,39 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18903-07.html
 
 Urgencias/Boletín 18903-07SumaVence en 13 díasAhora en la Cámara
-## Modifica el Código de Procedimiento Civil para mejorar el acceso a la justicia de la ciudadanía
-- 1. Resumen del proyecto
+Título oficialModifica el Código de Procedimiento Civil para mejorar el acceso a la justicia de la ciudadanía
+## Hace electrónica la mayoría de las notificaciones en juicios civiles y ajusta la apelación y las pruebas. Está en primer trámite, en la Comisión de Constitución de la Cámara, con urgencia suma.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18903-07
 Mensaje del Presidente
 23 nov 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 13 días
 2 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-Vence en 13 días · 8 dic 2026. La suma corre en la Cámara desde el 23 de noviembre de 2026.1
+El mensaje dice que los juicios civiles sufren atrasos, demasiadas formalidades y altos costos.1 El juicio ordinario dura cerca de 424 días ante el primer tribunal que lo resuelve.1 Agrega que los receptores, que avisan las decisiones del tribunal, son caros y escasos.1
+Los avisos oficiales, o notificaciones, serían por regla general electrónicos.3 Se excluyen el primer aviso y los casos que exigen cédula, una notificación escrita.3 Permite convenciones probatorias, que son acuerdos entre las partes sobre la prueba, con control del tribunal.1 Busca evitar el exceso de testigos sobre un mismo punto.1
+En una apelación, revisión por un tribunal superior, la otra parte tendría cinco días para responder.2 Cada abogado podría alegar hasta treinta minutos sobre la sentencia final.2 Para otras decisiones, el tope sería de quince minutos.2 Da cinco días para pedir ciertas pruebas durante la apelación.32
+Afecta a las personas con juicios civiles, a sus abogados y a los tribunales.12 También a los receptores, porque muchos avisos dejarían de requerir su trabajo.1
+El informe financiero N° 255 dice que el proyecto no implica un mayor gasto fiscal.3
+El Gobierno lo ingresó a la Cámara el 23 de noviembre de 2026.4 Está en primer trámite, en la Comisión de Constitución, Legislación, Justicia y Reglamento.4 Tiene urgencia suma, un plazo para tratarlo, desde ese mismo día.4
+Vence en 13 días · 8 dic 2026. La suma corre en la Cámara desde el 23 de noviembre de 2026.5
 1urgencias desde marzo de 2026
 0renovaciones
 23 nov 2026Pone urgencia suma · Cámara15 días
 - 23 nov 2026 · CámaraIngreso de proyecto. Incluye I.F. N°255.El proyecto entra al Congreso.
 - 23 nov 2026 · CámaraTexto del Mensaje.
 - 23 nov 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento.La Sala toma conocimiento del proyecto y lo envía a comisión.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18903-07Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18903-07Consulta automática
-- 3Texto del mensaje presidencialDocumento original del proyecto.
+### Para conducir la discusión de los cambios a los juicios civiles
+Fuentes · consultadas el 25 de noviembre de 2026
+- 1Mensaje: Modifica el Código de Procedimiento Civil para mejorar el acceso a la justicia de la ciudadanía2026-11-23. Fundamentos y contenido. El texto está cortado.
+- 2Oficio N° 448-374: Texto del Mensaje.2026-11-23. Texto del mensaje con parte del articulado.
+- 3Pasajes sobre costo fiscal en: Mensaje: Modifica el Código de Procedimiento Civil para mejorar el acceso a la justicia de la ciudadanía2026-11-23. Informe financiero N° 255.
+- 4Tramitación del boletín 18903-07 (servicio web público del Senado)2026-11-24. Etapa, comisión y urgencia.
+- 5Senado, ficha de tramitación del boletín 18903-07Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18903-07Consulta automática
+- 7Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 2765-13
 

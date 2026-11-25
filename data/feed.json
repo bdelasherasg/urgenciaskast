@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-25T06:31-03:00",
+ "actualizado": "2026-11-25T06:37-03:00",
  "conteos": {
   "urgencias_vigentes": 44,
   "discusion_inmediata": 9,
@@ -222,40 +222,40 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "15905-25",
+   "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia simple.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/15905-25.html"
+  },
+  {
+   "boletin": "16552-12",
+   "sintesis": "Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/16552-12.html"
+  },
+  {
    "boletin": "17622-04",
    "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
    "publicado": "2026-11-25",
    "url": "https://urgenciaskast.cl/p/17622-04.html"
   },
   {
+   "boletin": "18702-05",
+   "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/18702-05.html"
+  },
+  {
+   "boletin": "18903-07",
+   "sintesis": "Hace electrónica la mayoría de las notificaciones en juicios civiles y ajusta la apelación y las pruebas. Está en primer trámite, en la Comisión de Constitución de la Cámara, con urgencia suma.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/18903-07.html"
+  },
+  {
    "boletin": "17800-11",
    "sintesis": "Agrega al Código Sanitario reglas para que solo la especie jurel se venda con ese nombre y su envase informe especie y origen. Está en la Comisión de Salud de la Cámara.",
    "publicado": "2026-11-24",
    "url": "https://urgenciaskast.cl/p/17800-11.html"
-  },
-  {
-   "boletin": "18702-05",
-   "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
-   "publicado": "2026-11-22",
-   "url": "https://urgenciaskast.cl/p/18702-05.html"
-  },
-  {
-   "boletin": "15905-25",
-   "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.",
-   "publicado": "2026-11-21",
-   "url": "https://urgenciaskast.cl/p/15905-25.html"
-  },
-  {
-   "boletin": "16553-12",
-   "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia simple.",
-   "publicado": "2026-11-21",
-   "url": "https://urgenciaskast.cl/p/16553-12.html"
-  },
-  {
-   "boletin": "17211-06",
-   "sintesis": "Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
-   "publicado": "2026-11-21",
-   "url": "https://urgenciaskast.cl/p/17211-06.html"
   }
  ],
  "analisis": [

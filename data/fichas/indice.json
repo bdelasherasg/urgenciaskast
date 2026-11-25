@@ -350,9 +350,9 @@
   ]
  },
  "15905-25": {
-  "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.",
+  "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia simple.",
   "nivel": "basica",
-  "publicado": "2026-11-21",
+  "publicado": "2026-11-25",
   "materia": "el fin de las notificaciones judiciales por Carabineros",
   "revision": "pendiente",
   "busqueda_prensa": [
@@ -464,7 +464,7 @@
  "16552-12": {
   "sintesis": "Reforma la ley de bases del medio ambiente para cambiar cómo se evalúan y califican los proyectos con efectos ambientales. Está en segundo trámite en la Cámara, en la Comisión de Medio Ambiente.",
   "nivel": "basica",
-  "publicado": "2026-11-12",
+  "publicado": "2026-11-25",
   "materia": "la reforma a la institucionalidad ambiental",
   "revision": "pendiente",
   "busqueda_prensa": [
@@ -1988,9 +1988,9 @@
   ]
  },
  "18702-05": {
-  "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
+  "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.",
   "nivel": "completa",
-  "publicado": "2026-11-22",
+  "publicado": "2026-11-25",
   "materia": "el presupuesto del Estado para 2027",
   "revision": "pendiente",
   "busqueda_prensa": [
@@ -2251,6 +2251,20 @@
    "precio de los combustibles transporte de carga",
    "precios preferenciales combustibles transportistas",
    "camioneros combustibles proyecto"
+  ]
+ },
+ "18903-07": {
+  "sintesis": "Hace electrónica la mayoría de las notificaciones en juicios civiles y ajusta la apelación y las pruebas. Está en primer trámite, en la Comisión de Constitución de la Cámara, con urgencia suma.",
+  "nivel": "basica",
+  "publicado": "2026-11-25",
+  "materia": "los cambios a los juicios civiles",
+  "revision": "pendiente",
+  "busqueda_prensa": [
+   "notificaciones electrónicas juicios civiles",
+   "reforma al procedimiento civil",
+   "receptores judiciales",
+   "convenciones probatorias",
+   "alegatos en cortes de apelaciones"
   ]
  },
  "2771-05": {
