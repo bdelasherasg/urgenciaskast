@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "16777-07",
   "nivel": "basica",
-  "sintesis": "Castiga con presidio la introducción ilícita al país de plagas vegetales o enfermedades animales. La Cámara lo aprobó con cambios y el Senado lo revisa en tercer trámite, con urgencia suma.",
+  "sintesis": "Castiga con presidio la introducción ilícita al país de plagas vegetales o enfermedades animales. El Congreso lo aprobó y está en trámite de aprobación presidencial.",
   "materia": "la introducción de plagas y enfermedades animales",
   "resumen": {
     "problema": [
@@ -21,13 +21,14 @@
     ],
     "propone": [
       {
-        "texto": "El texto del Senado castiga con presidio a quien introduzca una plaga o enfermedad animal con carga o mercancías destinadas a la venta.",
+        "texto": "El texto final castiga con presidio a quien introduzca a propósito e ilícitamente una plaga o enfermedad animal.",
         "fuentes": [
-          "f10"
+          "f6",
+          "f12"
         ]
       },
       {
-        "texto": "La Cámara cambió esa regla: castiga introducir la plaga a propósito, aunque no llegue a propagarse.",
+        "texto": "La pena se aplica aunque la plaga no llegue a propagarse.",
         "fuentes": [
           "f6"
         ]
@@ -89,19 +90,19 @@
     ],
     "estado": [
       {
-        "texto": "El proyecto está en tercer trámite en el Senado, con urgencia suma.",
+        "texto": "El 24 de noviembre, el Senado aprobó los cambios de la Cámara.",
         "fuentes": [
           "f12"
         ]
       },
       {
-        "texto": "El 26 de octubre la Cámara lo aprobó con modificaciones.",
+        "texto": "Ese día envió el proyecto de ley al Ejecutivo, es decir, al Gobierno.",
         "fuentes": [
           "f12"
         ]
       },
       {
-        "texto": "El 27 de octubre el Senado dio cuenta de esas modificaciones y el proyecto quedó para tabla.",
+        "texto": "Está en trámite de aprobación presidencial.",
         "fuentes": [
           "f12"
         ]
@@ -111,6 +112,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "plagas vegetales",
+    "enfermedades animales",
+    "introducción ilícita de plagas",
+    "presidio por plagas",
+    "sanidad agrícola y penas"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -151,19 +159,12 @@
       "id": "f12",
       "titulo": "Senado, tramitación del boletín 16777-07 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16777",
-      "fecha": "12 de noviembre de 2026",
-      "nota": "Etapa, urgencia y trámites."
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Etapa y trámites, hasta el envío del proyecto al Ejecutivo."
     }
   ],
-  "consultado": "2026-11-13",
-  "publicado": "2026-11-13",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "plagas vegetales",
-    "enfermedades animales",
-    "introducción ilícita de plagas",
-    "presidio por plagas",
-    "sanidad agrícola y penas"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
