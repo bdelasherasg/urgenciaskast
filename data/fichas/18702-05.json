@@ -80,15 +80,10 @@
         ]
       },
       {
-        "texto": "Hasta el 23, la Cámara votó más sobre Salud (67), Vivienda (66) y Trabajo (42).",
+        "texto": "Hasta el 23, la Cámara votó más veces sobre Salud (67), Vivienda (66) y Trabajo (42).",
         "fuentes": [
           "f11"
         ]
-      },
-      {
-        "texto": "No se pudo revisar qué propone la Comisión Mixta.",
-        "fuentes": [],
-        "pendiente": true
       }
     ],
     "costo": [
