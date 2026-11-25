@@ -1,0 +1,160 @@
+{
+  "version": 2,
+  "boletin": "17622-04",
+  "nivel": "basica",
+  "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
+  "materia": "la continuidad de las clases en los colegios",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que en Chile las clases se suspenden con facilidad y frecuencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Menciona paros, cortes de agua, violencia y elecciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que perder clases daña a los estudiantes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que faltan reglas claras para exigir clases sin interrupciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Las clases de párvulos, básica y media solo podrían interrumpirse con permiso previo del Ministerio de Educación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un reglamento, que es una norma que detalla la ley, fijaría las causas, plazos y condiciones del permiso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los sostenedores, que administran colegios reconocidos por el Estado, deberían tener planes ante paros no autorizados.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se sancionaría no aplicarlos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo 10 bis a la Ley General de Educación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Promover, organizar o hacer un paro no autorizado dañaría gravemente la convivencia escolar.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Por esos actos, directivos, profesores y asistentes podrían perder su cargo sin indemnización.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "A los estudiantes se les aplicarían el procedimiento y las medidas de la ley 21.128.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a estudiantes, padres, apoderados, profesores, asistentes de la educación, directivos y sostenedores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó al Senado el 17 de junio de 2025 y está en primer trámite.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 18 de junio de 2025 pasó a la Comisión de Educación.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La comisión citó para el 25 de noviembre de 2026 el inicio del debate sobre la idea general del proyecto.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "suspensión de clases",
+    "paros de profesores",
+    "continuidad del servicio educacional",
+    "autorización para suspender clases",
+    "paralizaciones en colegios"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educaciona",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18266&tipodoc=mensaje_mocion",
+      "fecha": "2025-06-17",
+      "nota": "Fundamentos y texto de la moción. El texto está cortado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17622-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17622",
+      "fecha": "2026-11-24",
+      "nota": "Etapa, comisión y trámites."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-25",
+      "nota": "Citación de la Comisión de Educación para el 25 de noviembre de 2026."
+    }
+  ],
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
