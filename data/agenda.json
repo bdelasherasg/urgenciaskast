@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-25T18:28-03:00",
+ "actualizado": "2026-11-25T18:34-03:00",
  "desde": "2026-11-25",
  "hasta": "2026-12-08",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T18:28",
+   "consultado": "2026-11-25T18:34",
    "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T18:28",
+   "consultado": "2026-11-25T18:34",
    "sesiones": 7,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T18:28",
+   "consultado": "2026-11-25T18:34",
    "sesiones": 8,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T18:28",
+   "consultado": "2026-11-25T18:34",
    "grupos": 12
   }
  },
