@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "16553-12",
   "nivel": "basica",
-  "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia simple.",
+  "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia suma.",
   "materia": "el fortalecimiento de la Superintendencia del Medio Ambiente",
   "resumen": {
     "problema": [
@@ -108,7 +108,7 @@
         ]
       },
       {
-        "texto": "Tiene urgencia simple desde el 10 de noviembre de 2026.",
+        "texto": "El 24 de noviembre de 2026 pasó a urgencia suma y el Senado abrió plazo hasta el 27 para proponer cambios.",
         "fuentes": [
           "f16"
         ]
@@ -172,12 +172,12 @@
       "id": "f16",
       "titulo": "Tramitación del boletín 16553-12 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16553",
-      "fecha": "2026-11-20",
+      "fecha": "2026-11-25",
       "nota": "Etapas y urgencias."
     }
   ],
-  "consultado": "2026-11-21",
-  "publicado": "2026-11-21",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
