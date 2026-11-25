@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18702-05",
   "nivel": "completa",
-  "sintesis": "Fija los ingresos y gastos del Estado para 2027, con un gasto neto de 105,8 billones de pesos. El Senado lo aprobó con modificaciones el 19 de noviembre y la Cámara lo revisa en tercer trámite.",
+  "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.",
   "materia": "el presupuesto del Estado para 2027",
   "resumen": {
     "problema": [
@@ -27,19 +27,19 @@
     ],
     "propone": [
       {
-        "texto": "El gasto total neto es de 105,8 billones de pesos y 6.297 millones de dólares.",
+        "texto": "El mensaje propone un gasto neto de 105,8 billones de pesos y 6.297 millones de dólares.",
         "fuentes": [
           "f8"
         ]
       },
       {
-        "texto": "Fija un déficit estructural de 1,8% del producto, un punto menos que este año.",
+        "texto": "La ley 2026 aprobó 94,81 billones de pesos y 12.369 millones de dólares, en moneda de ese año.",
         "fuentes": [
-          "f8"
+          "f13"
         ]
       },
       {
-        "texto": "La Ley 2026 aprobó gastos por 94,81 billones de pesos y 12.369 millones de dólares de ese año.",
+        "texto": "En septiembre regían 96,61 billones y 12.551 millones.",
         "fuentes": [
           "f13"
         ]
@@ -47,13 +47,20 @@
     ],
     "cambia": [
       {
-        "texto": "Suspende en 2027 que un funcionario de planta tenga también un empleo a contrata.",
+        "texto": "Impide en 2027 que un funcionario de planta, con cargo permanente, tome además un empleo temporal a contrata.",
         "fuentes": [
-          "f8"
+          "f8",
+          "f16"
         ]
       },
       {
-        "texto": "Permite reponer un cupo por cada tres vacantes.",
+        "texto": "Quienes ya lo hacen quedan fuera.",
+        "fuentes": [
+          "f16"
+        ]
+      },
+      {
+        "texto": "El mensaje propone cubrir solo un cupo por cada tres vacantes que se produzcan.",
         "fuentes": [
           "f8"
         ]
@@ -61,19 +68,19 @@
     ],
     "afecta": [
       {
-        "texto": "La Comisión Mixta despachó todas las partidas y el articulado entre el 2 y el 5 de noviembre.",
+        "texto": "El 23 de noviembre, la Cámara aprobó los cambios del Senado, salvo algunos.",
         "fuentes": [
-          "f9"
+          "f15"
         ]
       },
       {
-        "texto": "Algunas partidas se aprobaron con cambios y otras quedaron con materias pendientes.",
+        "texto": "Los rechazados tocan las partidas, o presupuestos, de Congreso, Interior, Justicia, Agricultura, Trabajo, Vivienda, Deporte, Mujer, Culturas y Seguridad Pública.",
         "fuentes": [
-          "f9"
+          "f15"
         ]
       },
       {
-        "texto": "En la Sala de la Cámara, las partidas con más votaciones fueron Salud (66), Vivienda (65) y Economía (34).",
+        "texto": "En toda la tramitación, la Cámara votó más veces sobre Salud (67), Vivienda (66) y Trabajo (42).",
         "fuentes": [
           "f11"
         ]
@@ -81,44 +88,54 @@
     ],
     "costo": [
       {
-        "texto": "El artículo 3 autoriza al Presidente a contraer deuda por hasta 25.000 millones de dólares.",
-        "fuentes": [
-          "f8",
-          "f9"
-        ]
-      },
-      {
-        "texto": "Permite, además, otros 600 millones de dólares.",
-        "fuentes": [
-          "f8",
-          "f9"
-        ]
-      },
-      {
-        "texto": "El artículo 2 permite garantías del Estado de hasta 500 millones de dólares a empresas públicas y universidades estatales.",
+        "texto": "El gasto neto propuesto es de 105,8 billones de pesos.",
         "fuentes": [
           "f8"
+        ]
+      },
+      {
+        "texto": "El Senado agregó un artículo para que el Presidente contraiga deuda por hasta 25.000 millones de dólares.",
+        "fuentes": [
+          "f14"
+        ]
+      },
+      {
+        "texto": "Suma otros 600 millones de dólares.",
+        "fuentes": [
+          "f14"
+        ]
+      },
+      {
+        "texto": "La Cámara aprobó ese artículo con 95 votos a favor.",
+        "fuentes": [
+          "f15"
         ]
       }
     ],
     "estado": [
       {
-        "texto": "Entre el 9 y el 13 de noviembre, la Sala de la Cámara votó 561 veces: 302 aprobaciones y 259 rechazos.",
+        "texto": "La Cámara aprobó el proyecto el 12 de noviembre.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 19, el Senado lo aprobó con cambios.",
+        "fuentes": [
+          "f10"
+        ]
+      },
+      {
+        "texto": "El 23, la Sala de la Cámara votó 41 veces: 31 aprobaciones y 10 rechazos.",
         "fuentes": [
           "f11"
         ]
       },
       {
-        "texto": "La Sala del Senado lo trató del 16 al 19 de noviembre y lo aprobó con modificaciones el 19.",
+        "texto": "El 24 pasó a Comisión Mixta, de diputados y senadores, para resolver las diferencias.",
         "fuentes": [
           "f10",
-          "f12"
-        ]
-      },
-      {
-        "texto": "El 21 de noviembre el Senado envió los cambios a la Cámara de Diputados, que ahora los revisa en tercer trámite.",
-        "fuentes": [
-          "f10"
+          "f15"
         ]
       }
     ]
@@ -322,32 +339,18 @@
       "nota": "Contenido del articulado, gasto total, deuda y garantías."
     },
     {
-      "id": "f9",
-      "titulo": "Informe de la Comisión Especial Mixta de Presupuestos sobre el proyecto de Ley de Presupuestos 2027",
-      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28375&tipodoc=info",
-      "fecha": "9 de noviembre de 2026",
-      "nota": "Despacho de las partidas y del articulado."
-    },
-    {
       "id": "f10",
       "titulo": "Senado, tramitación del boletín 18702-05 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-      "fecha": "21 de noviembre de 2026",
-      "nota": "Etapa y trámites, hasta el oficio con las modificaciones del Senado a la Cámara de origen."
+      "fecha": "24 de noviembre de 2026",
+      "nota": "Etapa y trámites, hasta la cuenta del rechazo de las modificaciones en el Senado."
     },
     {
       "id": "f11",
       "titulo": "Cámara de Diputadas y Diputados, votaciones de Sala del boletín 18702-05 (datos abiertos)",
       "url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin=18702-05",
-      "fecha": "13 de noviembre de 2026",
-      "nota": "Votaciones de Sala entre el 9 y el 13 de noviembre."
-    },
-    {
-      "id": "f12",
-      "titulo": "Senado, sesiones de Sala de la legislatura 374 (servicio web público)",
-      "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
-      "fecha": "19 de noviembre de 2026",
-      "nota": "Sesiones de Sala del Senado del 16 al 19 de noviembre."
+      "fecha": "23 de noviembre de 2026",
+      "nota": "Votaciones de Sala de toda la tramitación, hasta el 23 de noviembre."
     },
     {
       "id": "f13",
@@ -355,10 +358,31 @@
       "url": "https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-septiembre-de-2026-del-gobierno-central-ley-regular",
       "fecha": "30 de octubre de 2026",
       "nota": "Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026."
+    },
+    {
+      "id": "f14",
+      "titulo": "Senado, oficio 379/SEC/26 con las modificaciones al proyecto",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37517&tipodoc=ofic",
+      "fecha": "20 de noviembre de 2026",
+      "nota": "Cambios aprobados por el Senado. El texto está cortado."
+    },
+    {
+      "id": "f15",
+      "titulo": "Cámara de Diputadas y Diputados, oficio 21.783 sobre las enmiendas del Senado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37524&tipodoc=ofic",
+      "fecha": "23 de noviembre de 2026",
+      "nota": "Enmiendas rechazadas e integrantes de la Comisión Mixta."
+    },
+    {
+      "id": "f16",
+      "titulo": "Cámara de Diputadas y Diputados, oficio 21.755 con el texto aprobado en primer trámite",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37466&tipodoc=ofic",
+      "fecha": "13 de noviembre de 2026",
+      "nota": "Texto aprobado por la Cámara. La lectura está cortada."
     }
   ],
-  "consultado": "2026-11-22",
-  "publicado": "2026-11-22",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-22 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
