@@ -89,19 +89,25 @@
     ],
     "estado": [
       {
-        "texto": "La Cámara lo aprobó en general y en particular a la vez el 21 de septiembre de 2026.",
+        "texto": "La Cámara lo aprobó el 21 de septiembre de 2026.",
         "fuentes": [
           "f8"
         ]
       },
       {
-        "texto": "La Comisión de Seguridad Pública del Senado lo aprobó en general por unanimidad, con cinco votos a favor.",
+        "texto": "La comisión de Seguridad del Senado lo aprobó en general, con cinco votos a favor.",
         "fuentes": [
           "f2"
         ]
       },
       {
-        "texto": "El 10 de noviembre el Senado lo aprobó en general y fijó hasta el 26 de noviembre, a las 12:00, el plazo para presentar indicaciones.",
+        "texto": "El 10 de noviembre el Senado hizo lo mismo y abrió plazo para proponer cambios hasta el 26.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Desde el 24 de noviembre tiene discusión inmediata.",
         "fuentes": [
           "f8"
         ]
@@ -111,6 +117,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "registros de ADN",
+    "huellas genéticas Carabineros",
+    "cotejo de ADN policial",
+    "Servicio Médico Legal y ADN",
+    "investigaciones penales con ADN"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -144,19 +157,12 @@
       "id": "f8",
       "titulo": "Senado, tramitación del boletín 18.585-25",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18585",
-      "fecha": "2026-11-11",
+      "fecha": "2026-11-25",
       "nota": "Etapas y urgencias."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "registros de ADN",
-    "huellas genéticas Carabineros",
-    "cotejo de ADN policial",
-    "Servicio Médico Legal y ADN",
-    "investigaciones penales con ADN"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
