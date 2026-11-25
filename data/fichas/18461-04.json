@@ -69,9 +69,15 @@
     ],
     "costo": [
       {
-        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "texto": "El informe financiero N° 276, del 16 de noviembre de 2026, dice que el proyecto no afectará el presupuesto fiscal.",
         "fuentes": [
-          "f2"
+          "f4"
+        ]
+      },
+      {
+        "texto": "Una nueva tarea de las oficinas regionales de Educación se haría con sus recursos actuales.",
+        "fuentes": [
+          "f4"
         ]
       }
     ],
@@ -83,9 +89,16 @@
         ]
       },
       {
-        "texto": "Esa comisión lo tiene citado el 17 de noviembre de 2026 para iniciar la votación en particular.",
+        "texto": "Esa comisión lo citó para el 17 de noviembre de 2026, para iniciar la votación en particular.",
         "fuentes": [
           "f3"
+        ]
+      },
+      {
+        "texto": "El 16 de noviembre se registró una indicación del Presidente, o sea, una propuesta de cambio.",
+        "fuentes": [
+          "f5",
+          "f4"
         ]
       }
     ]
@@ -93,6 +106,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "apoderados en colegios",
+    "regulación de apoderados",
+    "límite de estudiantes por apoderado",
+    "delegar apoderado escolar",
+    "prioridad de apoderados"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -114,17 +134,24 @@
       "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-47",
       "fecha": "17 de noviembre de 2026",
       "nota": "Citación copiada de camara.cl por el equipo; conviene confirmarla allí."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio 444-374 con una indicación del Presidente e informe financiero N° 276 (16 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37484&tipodoc=ofic",
+      "fecha": "2026-11-16",
+      "nota": "Indicación e informe financiero."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18461-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18461",
+      "fecha": "2026-11-25",
+      "nota": "Etapas y fechas."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "apoderados en colegios",
-    "regulación de apoderados",
-    "límite de estudiantes por apoderado",
-    "delegar apoderado escolar",
-    "prioridad de apoderados"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
