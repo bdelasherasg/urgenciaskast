@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "11929-13",
   "nivel": "basica",
-  "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
+  "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia suma.",
   "materia": "la creación del contrato por horas",
   "resumen": {
     "problema": [
@@ -89,7 +89,7 @@
         ]
       },
       {
-        "texto": "El gobierno hizo presente la urgencia simple el 27 de octubre de 2026.",
+        "texto": "El 24 de noviembre de 2026, el gobierno cambió la urgencia simple por suma.",
         "fuentes": [
           "f2"
         ]
@@ -118,12 +118,12 @@
       "id": "f2",
       "titulo": "Senado, tramitación del boletín 11.929-13",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=11929",
-      "fecha": "2026-11-10",
+      "fecha": "2026-11-25",
       "nota": "Etapa y urgencias."
     }
   ],
-  "consultado": "2026-11-20",
-  "publicado": "2026-11-20",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
