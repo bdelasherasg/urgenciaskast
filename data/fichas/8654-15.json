@@ -83,12 +83,25 @@
         "fuentes": [
           "f4"
         ]
+      },
+      {
+        "texto": "El 24 de noviembre de 2026, el Presidente le puso urgencia suma.",
+        "fuentes": [
+          "f4"
+        ]
       }
     ]
   },
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "pesaje de camiones",
+    "autocontrol de pesaje",
+    "carga de camiones",
+    "protección de caminos",
+    "empresas generadoras de carga"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -115,19 +128,12 @@
       "id": "f4",
       "titulo": "Senado, tramitación del boletín 8.654-15",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=8654",
-      "fecha": "2026-11-10",
+      "fecha": "2026-11-25",
       "nota": "Etapa."
     }
   ],
-  "consultado": "2026-11-11",
-  "publicado": "2026-11-11",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "pesaje de camiones",
-    "autocontrol de pesaje",
-    "carga de camiones",
-    "protección de caminos",
-    "empresas generadoras de carga"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
