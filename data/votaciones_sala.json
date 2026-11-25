@@ -1,8 +1,50 @@
 {
- "actualizado": "2026-11-25T06:38-03:00",
+ "actualizado": "2026-11-25T15:29-03:00",
  "desde": "2026-11-11",
  "fuente": "Cámara de Diputadas y Diputados, datos abiertos (votaciones de Sala)",
  "votaciones": [
+  {
+   "fecha": "2026-11-25",
+   "boletin": "18702-05",
+   "votaciones": 1,
+   "aprobadas": 1,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:12",
+    "resultado": "Aprobado",
+    "si": 113,
+    "no": 9,
+    "abstencion": 9
+   }
+  },
+  {
+   "fecha": "2026-11-25",
+   "boletin": "18576-06",
+   "votaciones": 1,
+   "aprobadas": 1,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:13",
+    "resultado": "Aprobado",
+    "si": 131,
+    "no": 1,
+    "abstencion": 0
+   }
+  },
+  {
+   "fecha": "2026-11-25",
+   "boletin": "17981-35",
+   "votaciones": 1,
+   "aprobadas": 1,
+   "rechazadas": 0,
+   "ultima": {
+    "hora": "13:14",
+    "resultado": "Aprobado",
+    "si": 127,
+    "no": 0,
+    "abstencion": 5
+   }
+  },
   {
    "fecha": "2026-11-24",
    "boletin": "18286-03",
@@ -133,8 +175,8 @@
  "por_partida": {
   "18702-05": {
    "fuente": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin=18702-05",
-   "total": 602,
-   "sin_partida": 89,
+   "total": 603,
+   "sin_partida": 90,
    "partidas": {
     "01": {
      "votaciones": 7,

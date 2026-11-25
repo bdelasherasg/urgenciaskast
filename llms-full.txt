@@ -256,7 +256,7 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/12213-07.html
 
-Urgencias/Boletín 12213-07SumaVence en 14 díasAhora en el SenadoCitado el 25 nov 2026
+Urgencias/Boletín 12213-07SumaVence en 14 díasAhora en el Senado
 Título oficialModifica diversos textos legales en materia de ejecución de sanciones penales
 ## Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.
 Revisión pendiente · piloto de prueba
@@ -264,8 +264,6 @@ Esta ficha la redactó un sistema automático a partir de documentos oficiales y
 12213-07
 18 oct 2018, Cámara
 Suma · Vence en 14 días
-Próxima citación
-25 nov 2026, 11:00 · Comisión de Constitución, Legislación, Justicia y Reglamento
 2960 días
 La moción dice que el Código Penal regula poco la ejecución de las penas.1 Según la moción, hay pocos controles externos sobre cómo se cumplen las penas.1 El informe de Hacienda menciona la necesidad de especialización y el aumento de la población penitenciaria.4
 Propone que un juez controle cómo se cumplen las penas y las medidas de seguridad.3 Crea juzgados de ejecución de penas y medidas de seguridad, con un procedimiento nuevo.2 El juez conocería los reclamos de los condenados sobre sus derechos, como visitas, salud y trabajo en el penal.1 El juez decidiría sobre la libertad condicional.1
@@ -287,7 +285,6 @@ Vence en 14 días · 9 dic 2026. La suma corre en el Senado desde el 24 de novie
 - 8 abr 2024 · CámaraDiscusión general. Aprobado en general y particular a la vez.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
 - 8 abr 2024 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 9 abr 2024 · SenadoCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento, y a la Comisión de Hacienda, en su casoLa Sala toma conocimiento del proyecto y lo envía a comisión.
-- 25 nov 2026 · 11:00Citado: Comisión de Constitución, Legislación, Justicia y Reglamento, SenadoSegún la citación publicada.
 ### Para conducir la discusión de el control judicial de la ejecución de las penas y los nuevos juzgados de ejecución
 - 1Moción: Modifica diversos textos legales en materia de ejecución de sanciones penales2018-10-18. Fundamentos y texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Hacienda · Primer trámite constitucional2024-04-02. Idea matriz del proyecto en la Comisión de Hacienda de la Cámara.
@@ -1195,14 +1192,14 @@ Urgencia en espera. El proyecto pasó a la Cámara después de la última urgenc
 14 abr 2026Renueva la suma · Senado15 días
 7 abr 2026Renueva la suma · Senado15 días
 17 mar 2026Pone urgencia suma · Senado15 días
-- 30 jun 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
-- 21 jul 2026 · SenadoDiscusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 14/08/2026 a las 12:00La Sala aprueba la idea de legislar.
 - 14 ago 2026 · SenadoBoletín de indicaciones.
 - 14 ago 2026 · SenadoOficio N°. IF 200-2026
 - 20 oct 2026 · SenadoSegundo informe de comisión de Salud.La comisión revisó las indicaciones y entrega su segundo informe.
 - 20 oct 2026 · SenadoCuenta de segundo informe de comisión.La Sala recibe el informe de la comisión.
 - 24 nov 2026 · SenadoDiscusión particular. AprobadoLa Sala vota el texto artículo por artículo.
 - 24 nov 2026 · SenadoOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 25 nov 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 25 nov 2026 · CámaraA solicitud del diputado Benjamín Moreno, la Sala acordó radicar el proyecto en la Comisión de Salud, y una vez despachado, remitirlo a la de Constitución.
 ### Para conducir la discusión de la venta y distribución de medicamentos y la sanción de su venta ilegal
 - 1Moción del boletín 15850-11 (18 de abril de 2023)2023-04-18. Fundamentos y texto original.
 - 2Segundo informe de la Comisión de Salud del Senado (20 de octubre de 2026)2026-10-20. Indicaciones y discusión en particular.
@@ -1758,7 +1755,7 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/16709-11.html
 
-Urgencias/Boletín 16709-11SimpleVence en 28 díasAhora en la Cámara
+Urgencias/Boletín 16709-11SimpleVence en 30 díasAhora en la Cámara
 Título oficialModifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad
 ## Agrega la infertilidad a la información y orientación que la ley de regulación de la fertilidad reconoce a las personas. El Senado lo aprobó. La Cámara lo aprobó en general y espera su votación en particular.
 Revisión pendiente · piloto de prueba
@@ -1766,7 +1763,7 @@ Esta ficha la redactó un sistema automático a partir de documentos oficiales y
 16709-11
 3 abr 2024, Senado
 Segundo trámite, Cámara
-Simple · Vence en 28 días
+Simple · Vence en 30 días
 966 días
 La moción dice que la ley 20.418 reconoce el derecho a información sobre regulación de la fertilidad, pero no dice nada sobre la infertilidad.1 Señala que su orientación es preventiva en embarazo adolescente e infecciones de transmisión sexual, y no abarca los tratamientos de infertilidad.1
 Propone que la información y la orientación que da la ley incluyan también la infertilidad.4
@@ -1775,9 +1772,10 @@ Afecta a las personas que reciben información y orientación en salud sexual y 
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5 La comisión de Salud de la Cámara indicó que el proyecto no requiere trámite de Hacienda.3
 El Senado aprobó el proyecto el 29 de enero de 2025, en general y en particular a la vez.54 El 8 de septiembre de 2026 la Cámara lo aprobó en general.5 El 3 de noviembre de 2026 la Comisión de Salud entregó su segundo informe. El proyecto, con urgencia simple, sigue en segundo trámite en la Cámara.52
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 28 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de noviembre de 2026.6
-7urgencias desde marzo de 2026
-6renovaciones
+Vence en 30 días · 25 dic 2026. La simple corre en la Cámara desde el 25 de noviembre de 2026.6
+8urgencias desde marzo de 2026
+7renovaciones
+25 nov 2026Renueva la simple · Cámara30 días
 23 nov 2026Renueva la simple · Cámara30 días
 26 oct 2026Renueva la simple · Cámara30 días
 28 sep 2026Renueva la simple · Cámara30 días
@@ -1884,9 +1882,9 @@ Permite acreditar el local con un contrato de arriendo o comodato para recibir l
 Modifica el decreto con fuerza de ley N° 2 de 1998, sobre la subvención del Estado a establecimientos educacionales.5 Ciertas solicitudes deberían ser ratificadas por mayoría absoluta del Consejo Nacional de Educación.6
 Afecta a quienes quieren abrir colegios subvencionados y a las familias que buscan cupos.1
 En la Comisión de Hacienda se presentó una estimación conservadora de mayor gasto de $1,85 mil millones.3
-La Cámara lo aprobó con enmiendas el 7 de julio de 2026.4 El 11 de noviembre de 2026 el Senado aprobó esas enmiendas, salvo una que rechazó.8 Por esa diferencia corresponde formar una comisión mixta, que propone cómo resolverla.8 El 18 de noviembre de 2026 el Presidente hizo presente la urgencia suma, que reemplazó a la discusión inmediata.9
+La Cámara lo aprobó con enmiendas el 7 de julio de 2026.4 El 11 de noviembre de 2026 el Senado aprobó esas enmiendas, salvo una que rechazó.8 Por esa diferencia corresponde formar una comisión mixta, que propone cómo resolverla.8 El 24 de noviembre la Cámara comunicó al Senado sus cinco integrantes de esa comisión.10 Ese día se dio cuenta de que el Presidente puso la urgencia discusión inmediata, que reemplazó a la suma.11
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene discusión inmediata, la más corta.
-Vence mañana. La discusión inmediata corre en el Senado desde el 24 de noviembre de 2026, con el plazo de comisión mixta.10
+Vence mañana. La discusión inmediata corre en el Senado desde el 24 de noviembre de 2026, con el plazo de comisión mixta.12
 19urgencias desde marzo de 2026
 15renovaciones
 3cambios de tipo
@@ -1920,7 +1918,7 @@ En comisión mixta: ambas cámaras buscan un acuerdo.
 - 24 nov 2026 · SenadoCuenta oficio integrantes de Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 - 25 nov 2026 · 15:15Citado: Comisión Mixta para Boletín Nº 16743-04, SenadoSegún la citación publicada.
 ### Para conducir la discusión de la creación de nuevos establecimientos educacionales con subvención
-Fuentes · consultadas el 19 de noviembre de 2026
+Fuentes · consultadas el 25 de noviembre de 2026
 - 1Senado, moción del boletín 16.743-04 (texto original)2024-04-09. Fundamentos.
 - 2Senado, informe de la Comisión de Educación, tercer trámite (11 de agosto de 2026)2026-08-11. Informe del tercer trámite.
 - 3Senado, informe de la Comisión de Hacienda, tercer trámite (11 de agosto de 2026)2026-08-11. Estimación de gasto presentada a la comisión.
@@ -1930,10 +1928,12 @@ Fuentes · consultadas el 19 de noviembre de 2026
 - 7Senado, tramitación del boletín 16.743-042026-11-10. Etapa y urgencias.
 - 8Oficio 374/SEC/26 del Senado a la Cámara con el resultado de la votación (11 de noviembre de 2026)2026-11-11. Enmiendas aprobadas y rechazada; comisión mixta.
 - 9Tramitación del boletín 16743-04 (servicio web público del Senado)2026-11-18. Etapas, fechas y urgencias.
-- 10Senado, ficha de tramitación del boletín 16743-04Consulta automática. Etapas, trámites y urgencias.
-- 11Cámara de Diputadas y Diputados, tramitación del boletín 16743-04Consulta automática
-- 12Texto del proyecto (moción)Documento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+- 10Oficio 21.791 de la Cámara al Senado con sus integrantes de la comisión mixta (24 de noviembre de 2026)2026-11-24. Integrantes de la Cámara en la comisión mixta.
+- 11Tramitación del boletín 16743-04 (servicio web público del Senado)2026-11-25. Etapas, fechas y urgencias.
+- 12Senado, ficha de tramitación del boletín 16743-04Consulta automática. Etapas, trámites y urgencias.
+- 13Cámara de Diputadas y Diputados, tramitación del boletín 16743-04Consulta automática
+- 14Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16777-07
 
@@ -2959,7 +2959,7 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/17737-14.html
 
-Urgencias/Boletín 17737-14Sin plazo informadoAhora en la Cámara
+Urgencias/Boletín 17737-14SumaVence en 15 díasAhora en la Cámara
 Título oficialModifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia
 ## Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y ahora la Cámara debe pronunciarse sobre ellos, en tercer trámite.
 Revisión pendiente · piloto de prueba
@@ -2967,6 +2967,7 @@ Esta ficha la redactó un sistema automático a partir de documentos oficiales y
 17737-14
 25 jul 2025, Cámara
 Tercer trámite, Cámara
+Suma · Vence en 15 días
 488 días
 La moción dice que las juntas de vecinos pueden emitir certificados de residencia, pero los condominios se rigen por otra ley que no lo contempla.1 Busca fortalecer la vida comunitaria y dar un trato más equitativo a quienes viven en distintas formas de organización territorial.1
 Faculta al administrador del condominio para emitir certificados de residencia a copropietarios, arrendatarios u ocupantes.3 El administrador tendría cinco días hábiles para emitirlo y debería revisar la identidad y la calidad del solicitante.3 Debería llevar un registro de los certificados emitidos, con nombre, unidad y fecha.3
@@ -2974,10 +2975,10 @@ Agrega un numeral al artículo 20 de la ley 21.442, de copropiedad inmobiliaria.
 Afecta a administradores y comités de administración de condominios, y a sus residentes.3 El Ministerio de Vivienda podría complementar las reglas y hacer un formato tipo de certificado.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5
 La Cámara aprobó el proyecto el 24 de marzo de 2026, en general y en particular a la vez.54 El 27 de octubre de 2026 el Senado lo aprobó con modificaciones, tras el informe unánime de su Comisión de Vivienda.32 El 28 de octubre de 2026 la Cámara recibió esas modificaciones. El proyecto está en tercer trámite y quedó para tabla.5
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-6
-0urgencias desde marzo de 2026
+Vence en 15 días · 10 dic 2026. La suma corre en la Cámara desde el 25 de noviembre de 2026.6
+1urgencias desde marzo de 2026
 0renovaciones
+25 nov 2026Pone urgencia suma · Cámara15 días
 Tercer trámite: la cámara de origen vota los cambios de la otra.
 - 24 mar 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 25 mar 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Vivienda y UrbanismoLa Sala toma conocimiento del proyecto y lo envía a comisión.
@@ -3660,14 +3661,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18189-14.html
 
-Urgencias/Boletín 18189-14SumaEn espera en la otra cámaraAhora en la Cámara
+Urgencias/Boletín 18189-14SumaEn espera en la otra cámaraAhora en el Senado
 Título oficialModifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación
 ## Amplía hasta 2029 el plazo para regularizar viviendas sin recepción definitiva y sube los límites de superficie y avalúo. Está en el Senado, con urgencia suma, tras ser aprobado por su Comisión de Vivienda.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18189-14
 15 abr 2026, Cámara
-Tercer trámite, Cámara
+Tercer trámite, Senado
 Suma · En espera en la otra cámara
 224 días
 La ley N° 20.898 permite regularizar viviendas sin recepción definitiva, pero solo las construidas antes de 2016.1 La moción dice que eso dejó fuera muchas obras posteriores, hechas sobre todo en la pandemia.1 Sin esa recepción, cuesta pedir créditos, vender o regularizar herencias.1
@@ -3676,9 +3677,10 @@ Sube el límite de avalúo de 1.000 a 2.000 unidades de fomento y el de superfic
 Afecta a los propietarios de viviendas sin recepción definitiva.1 Las indicaciones del Presidente piden que el personal municipal oriente, pero no elabore ni certifique antecedentes.3
 Es una moción parlamentaria.1 El informe financiero dice que las indicaciones del Presidente no irrogan mayor gasto fiscal.3
 El proyecto está en segundo trámite en el Senado, con urgencia suma.5 El 19 de agosto la Cámara lo aprobó en general y en particular a la vez.5 El 7 de octubre la Comisión de Vivienda y Urbanismo del Senado lo informó y lo aprobó por unanimidad.2
-Urgencia en espera. El proyecto pasó a la Cámara después de la última urgencia, del 18 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.6
-7urgencias desde marzo de 2026
-6renovaciones
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 25 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.6
+8urgencias desde marzo de 2026
+7renovaciones
+25 nov 2026Renueva la suma · Cámara15 días
 18 nov 2026Renueva la suma · Senado15 días
 27 oct 2026Renueva la suma · Senado15 días
 6 oct 2026Renueva la suma · Senado15 días
@@ -3687,7 +3689,6 @@ Urgencia en espera. El proyecto pasó a la Cámara después de la última urgenc
 17 ago 2026Renueva la suma · Cámara15 días
 5 ago 2026Pone urgencia suma · Cámara15 días
 Tercer trámite: la cámara de origen vota los cambios de la otra.
-- 19 ago 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 - 19 ago 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Vivienda y UrbanismoLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 7 sep 2026 · SenadoBoletín de indicaciones. Indicaciones Ejecutivo
 - 7 sep 2026 · SenadoIF 219. Informe financiero
@@ -3695,6 +3696,7 @@ Tercer trámite: la cámara de origen vota los cambios de la otra.
 - 7 oct 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 - 24 nov 2026 · SenadoDiscusión general. Aprobado en general y particular con modificacionesLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
 - 24 nov 2026 · SenadoOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
+- 25 nov 2026 · CámaraCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 ### Para conducir la discusión de la regularización de viviendas sin recepción definitiva
 - 1Moción: Modifica la ley N° 20.898 para ampliar el régimen excepcional de regularización de viviendas15 de abril de 2026. Fundamentos de la moción.
 - 2Informe de la Comisión de Vivienda y Urbanismo del Senado, segundo trámite7 de octubre de 2026. Debate y votación en la comisión.
@@ -4770,22 +4772,63 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18341-25.html
 
-Urgencias/Boletín 18341-25
+Urgencias/Boletín 18341-25SumaVence en 15 díasAhora en la Cámara
+Título oficialCrea el registro de actos vandálicos e incivilidades
 ## Crea un registro de actos vandálicos e incivilidades, con restricciones temporales a beneficios del Estado. Está en primer trámite en la Cámara, con urgencia suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18341-25
+Mensaje del Presidente
+12 jun 2026, Cámara
+Primer trámite, Cámara
+Suma · Vence en 15 días
+166 días
 El mensaje dice que ha aumentado la percepción de inseguridad y las conductas que dañan los espacios públicos y la convivencia.1
 Propone crear un registro nacional de actos vandálicos e incivilidades, a cargo del Registro Civil.1 Una persona podría preguntar si otra aparece anotada, con un máximo de cinco consultas en doce meses.1 Las indicaciones del gobierno separan el registro en dos, uno de actos vandálicos y otro de incivilidades.2
 Estar anotado traería restricciones temporales para acceder a subsidios, becas, fondos públicos y permisos.1 Modifica el Código Penal y crea un delito por rayados no autorizados en bienes públicos o privados.1 También restringe la gratuidad en la educación superior en delitos graves.1
 Afecta a las personas que cometan las conductas que el proyecto lista y a los organismos que entregan beneficios.1
 Hacienda estimó un costo de 952.736 miles de pesos el primer año.1 Desde el segundo año, el costo permanente sería de 128.377 miles de pesos.1
 El proyecto ingresó el 12 de junio de 2026 y está en primer trámite en la Cámara.3 Pasó a las comisiones de Seguridad Ciudadana y de Hacienda.3 El gobierno renovó la urgencia suma el 2 de noviembre de 2026.3
+Vence en 15 días · 10 dic 2026. La suma corre en la Cámara desde el 25 de noviembre de 2026.4
+17urgencias desde marzo de 2026
+12renovaciones
+4cambios de tipo
+25 nov 2026Cambia a suma · Cámara15 días
+16 nov 2026Cambia a simple · Cámara30 días
+2 nov 2026Renueva la suma · Cámara15 días
+19 oct 2026Renueva la suma · Cámara15 días
+7 oct 2026Cambia a suma · Cámara15 días
+5 oct 2026Renueva la discusión inmediata · Cámara6 días
+30 sep 2026Renueva la discusión inmediata · Cámara6 días
+28 sep 2026Cambia a discusión inmediata · Cámara6 días
+21 sep 2026Renueva la suma · Cámara15 días
+7 sep 2026Renueva la suma · Cámara15 días
+31 ago 2026Renueva la suma · Cámara15 días
+17 ago 2026Renueva la suma · Cámara15 días
+3 ago 2026Renueva la suma · Cámara15 días
+20 jul 2026Renueva la suma · Cámara15 días
+6 jul 2026Renueva la suma · Cámara15 días
+22 jun 2026Renueva la suma · Cámara15 días
+15 jun 2026Pone urgencia suma · Cámara15 días
+- 12 jun 2026 · CámaraIngreso de proyecto. Incluye informe financiero N° 117/01.06.2026.El proyecto entra al Congreso.
+- 12 jun 2026 · CámaraTexto del Mensaje
+- 15 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y a Comisión de Hacienda en lo que corresponda.La Sala toma conocimiento del proyecto y lo envía a comisión.
+- 15 jun 2026 · CámaraEl diputado Cuello hace reserva de constitucionalidad, en virtud de lo dispuesto en el artículo 19 N°2 de la Constitución Política.
+- 21 ago 2026 · CámaraS.E. el Presidente de la República formula indicaciones al proyecto. (144-374). Incluye informe financiero complementario N° 203/20.08.2026.
+- 26 oct 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+19 oct 2026Seguridad CiudadanaSin resultado informado.
+19 oct 2026Seguridad CiudadanaDespachado por la comisión. Se despachó el proyecto. Pasa a la Comisión de Hacienda. Se designó diputado informante al señor Leiva. El proyecto contiene normas de quorum calificado
 ### Para conducir la discusión de el registro de actos vandálicos e incivilidades
 Fuentes · consultadas el 11 de noviembre de 2026
 - 1Senado, mensaje del boletín 18.341-25 e informe financiero 117 (texto del proyecto)2026-06-12. Antecedentes, contenido e informe financiero.
 - 2Oficio 144-374 con indicaciones del Presidente e informe financiero complementario 203 (20 de agosto de 2026)2026-08-21. Indicaciones.
 - 3Senado, tramitación del boletín 18.341-252026-11-10. Etapa y urgencias.
+- 4Senado, ficha de tramitación del boletín 18341-25Consulta automática. Etapas, trámites y urgencias.
+- 5Cámara de Diputadas y Diputados, tramitación del boletín 18341-25Consulta automática
+- 6Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18345-13
@@ -5047,47 +5090,22 @@ Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con l
 
 URL: https://urgenciaskast.cl/p/18420-25.html
 
-Urgencias/Boletín 18420-25SimplePlazo vencidoAhora en el SenadoCitado el 25 nov 2026
-Título oficialModifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado
+Urgencias/Boletín 18420-25
 ## Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18420-25
-24 jun 2026, Senado
-Primer trámite, Senado
-Simple · Plazo vencido
-Próxima citación
-25 nov 2026, 11:00 · Comisión de Intereses Marítimos, Pesca y Acuicultura
-154 días
 La moción dice que los puertos y la cadena logística son un blanco del crimen organizado.1 Afirma que las normas actuales no abordan esos riesgos de forma integrada.1
 Propone obligaciones de seguridad logística para concesionarios y operadores, según el riesgo de cada actividad.1 Esas obligaciones incluyen control de accesos y registro de la carga.1 Exige coordinarse con la Autoridad Marítima, Aduanas, las policías y la Fiscalía.1
 Modifica la ley 19.542, la Ordenanza de Aduanas, el Código Penal y tres leyes más.1 Crea agravantes penales para delitos cometidos usando la infraestructura portuaria.1
 Afecta a concesionarios portuarios, agentes de carga, transportistas y otros operadores.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 La Comisión de Intereses Marítimos aprobó el proyecto en general por 4 votos a favor y ninguno en contra.2 La Sala lo aprobó en general el 11 de agosto de 2026.3 Está en su segundo informe en esa comisión. Luego pasará a la Comisión de Seguridad Pública.3
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Plazo vencido el 8 de octubre de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.4
-2urgencias desde marzo de 2026
-1renovaciones
-8 sep 2026Renueva la simple · Senado30 días
-11 ago 2026Pone urgencia simple · Senado30 días
-- 8 jul 2026 · SenadoLa Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública
-- 8 jul 2026 · SenadoLa Sala acuerda autorizar a la Comisión de Intereses Marítimos, Pesca y Acuicultura para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe
-- 6 ago 2026 · SenadoPrimer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
-- 11 ago 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
-- 11 ago 2026 · SenadoDiscusión general. Aprobado en generalLa Sala aprueba la idea de legislar.
-- 12 ago 2026 · SenadoLa Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del SenadoSe abre un plazo para proponer cambios al texto.
-- 1 sep 2026 · SenadoLa Sala acuerda que el proyecto sea conocido por la Comisión de Seguridad Pública, una vez que sea despachado por la Comisión de Intereses Marítimos, Pesca y Acuicultura
-- 7 sep 2026 · SenadoBoletín de indicaciones.
-- 25 nov 2026 · 11:00Citado: Comisión de Intereses Marítimos, Pesca y Acuicultura, SenadoSegún la citación publicada.
 ### Para conducir la discusión de la seguridad portuaria frente al crimen organizado
 Fuentes · consultadas el 11 de noviembre de 2026
 - 1Senado, moción del boletín 18.420-25 (texto del proyecto)2026-06-24. Fundamentos y articulado.
 - 2Senado, informe de la Comisión de Intereses Marítimos, Pesca y Acuicultura (6 de agosto de 2026)2026-08-06. Objetivo y votación en general.
 - 3Senado, tramitación del boletín 18.420-252026-11-10. Etapa y urgencias.
-- 4Senado, ficha de tramitación del boletín 18420-25Consulta automática. Etapas, trámites y urgencias.
-- 5Cámara de Diputadas y Diputados, tramitación del boletín 18420-25Consulta automática
-- 6Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-18 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18427-07
@@ -5663,15 +5681,14 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18576-06.html
 
-Urgencias/Boletín 18576-06SumaVence en 6 díasAhora en la Cámara
+Urgencias/Boletín 18576-06SumaEn espera en la otra cámaraAhora en el Senado
 Título oficialModifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias
 ## Amplía de dos a tres años la vigencia de las patentes municipales provisorias y de uno a dos años su extensión, para evitar el cierre de negocios en trámite de permisos. Está en primer trámite en la Cámara.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18576-06
 6 ago 2026, Cámara
-Primer trámite, Cámara
-Suma · Vence en 6 días
+Suma · En espera en la otra cámara
 111 días
 La patente provisoria permite funcionar a un negocio mientras obtiene sus permisos.1 Si el plazo vence sin permisos, la patente caduca y el negocio debe cesar sus actividades de inmediato.1 Los autores dicen que el plazo legal es más corto que lo que demoran los trámites.1
 Sube de dos a tres años la vigencia de la patente provisoria.1 Amplía de uno a dos años la extensión que se puede pedir por una sola vez.1 Si el municipio no responde en treinta días al plan de trabajo, la extensión se entiende aprobada.1
@@ -5679,7 +5696,7 @@ Modifica el artículo 26 de la Ley sobre Rentas Municipales.1 Reduce de sesenta 
 Afecta a los negocios con patente provisoria vigente cuando se publique la ley.1 Afecta a las municipalidades, que otorgan estas patentes.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.3
 La Comisión de Gobierno Interior aprobó la idea de legislar por unanimidad, según su informe del 10 de noviembre de 2026.2 El 11 de noviembre se dio cuenta del informe y el proyecto quedó para tabla.3 Tiene urgencia suma desde el 2 de noviembre.3
-Vence en 6 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de noviembre de 2026.4
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 16 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.4
 3urgencias desde marzo de 2026
 2renovaciones
 16 nov 2026Renueva la suma · Cámara15 días
@@ -5690,6 +5707,8 @@ Vence en 6 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de novie
 - 10 nov 2026 · CámaraPrimer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 11 nov 2026 · CámaraCuenta de primer informe de comisión. Queda para tabla.La Sala recibe el informe de la comisión.
 - 17 nov 2026 · CámaraDiscusión general. Queda pendiente.La Sala discute la idea de legislar.
+- 25 nov 2026 · CámaraDiscusión general. Aprobado en general y particular a la vez.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 25 nov 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
@@ -6099,6 +6118,7 @@ Vence en 5 días · 30 nov 2026. La discusión inmediata corre en el Senado desd
 - 28 oct 2026 · SenadoCuenta de proyecto. Pasa a Comisión de HaciendaLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 4 nov 2026 · SenadoCuenta oficio N° 300-2026 de la Corte Suprema.
 - 25 nov 2026 · 10:30Citado: Comisión de Hacienda, SenadoSegún la citación publicada.
+- 30 nov 2026 · 10:00Citado: Comisión de Hacienda, SenadoSegún la citación publicada.
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
@@ -6217,7 +6237,7 @@ Ver los proyectos con urgencia
 
 URL: https://urgenciaskast.cl/p/18702-05.html
 
-Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en el Senado
+Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en la Cámara
 Título oficialLey de Presupuestos para el Sector Público correspondiente al año 2027
 ## Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.
 Revisión pendiente · piloto de prueba
@@ -6232,7 +6252,7 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 18702-05
 Mensaje del Presidente
 30 sep 2026, Cámara
-Comisión mixta, Senado
+Comisión mixta, Cámara
 56 días
 Análisis ampliado
 Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:
@@ -6295,7 +6315,7 @@ PartidaAprobadaVigente a septiembre
 Total del Gobierno Central94.808+ US$ 12.369 millones96.608+ US$ 12.551 millones
 Montos en pesos y dólares de 2026, sin ajustar por inflación: no se restan directamente de las cifras del proyecto. Cada monto suma los gastos de la partida tal como los publica la Dipres, sin consolidar: la partida Tesoro Público incluye los aportes que financian a las demás, y las transferencias entre servicios se cuentan en ambos. Por eso las partidas no suman el total, y las cifras de PresupuestoKast.cl, que sí consolidan, son menores. Fuente: Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular, publicado el 30 oct 2026.
 #### Votaciones de la Sala de la Cámara, por partida
-La Sala de la Cámara ha votado 602 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
+La Sala de la Cámara ha votado 603 veces este proyecto. Cada votación recae sobre una indicación, una votación separada o un reclamo de admisibilidad dentro de una partida.
 PartidaVotaciones
 01Presidencia de la República75 aprobadas · 2 rechazadas
 02Congreso Nacional84 aprobadas · 4 rechazadas
@@ -6330,7 +6350,7 @@ PartidaVotaciones
 31Gobiernos Regionales199 aprobadas · 10 rechazadas
 32Seguridad Pública114 aprobadas · 7 rechazadas
 50Tesoro Público2111 aprobadas · 10 rechazadas
-Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. 89 votaciones no corresponden a una partida (por ejemplo, la votación en general). Fuente: Cámara de Diputadas y Diputados, datos abiertos.
+Una votación rechazada no significa que la partida se rechazó: puede ser una indicación que no prosperó. 90 votaciones no corresponden a una partida (por ejemplo, la votación en general). Fuente: Cámara de Diputadas y Diputados, datos abiertos.
 #### Para ir más a fondo
 Estas pantallas de PresupuestoKast.cl amplían lo que ve arriba:
 - Inicio: cuánto propone gastar el Ejecutivo en cada partida y cuánto cambia respecto de la ley vigente.
@@ -6404,14 +6424,14 @@ Bloque 5 · Hecho
 La Ley de Presupuestos no lleva urgencias. La Constitución (artículo 67) da al Congreso 60 días desde que el Presidente presenta el proyecto para despacharlo; si no lo despacha a tiempo, rige el proyecto presentado.
 Vence en 4 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026».
 En comisión mixta: ambas cámaras buscan un acuerdo.
-- 19 nov 2026 · SenadoEl Ejecutivo hizo reserva de constitucionalidad de la ind 1134
-- 19 nov 2026 · SenadoEl Ejecutivo hizo reserva de constitucionalidad de las ind 359, 1141, 1023 y 1150
-- 19 nov 2026 · SenadoDiscusión única. Aprobado con modificaciones
 - 21 nov 2026 · SenadoOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
 - 23 nov 2026 · CámaraDiscusión única. Rechazadas las modificaciones.
 - 23 nov 2026 · CámaraCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 - 24 nov 2026 · CámaraOficio rechazo modificaciones a Cámara Revisora.
 - 24 nov 2026 · SenadoCuenta oficio rechazo a modificaciones.
+- 25 nov 2026 · SenadoInforme de Comisión Mixta Comisión Mixta para Boletín N° 18702-05.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 25 nov 2026 · CámaraDiscusión informe de Comisión Mixta. Aprobado.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 25 nov 2026 · CámaraOficio aprobación de informe de Comisión Mixta a C. Revisora. Oficio N°21.807. Comunica al Senado la aprobación de la proposición de la Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 ### Para conducir la discusión de el presupuesto del Estado para 2027
 Fuentes · consultadas el 25 de noviembre de 2026
 - 1Emol, «Presupuesto 2027: Las seis claves del primer proyecto de Kast, los ruidos y las primeras batallas en el Congreso»11 de octubre de 2026. Variaciones por sector, plazos y primeras votaciones en subcomisiones.

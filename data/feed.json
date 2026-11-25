@@ -1,11 +1,11 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-25T06:37-03:00",
+ "actualizado": "2026-11-25T15:28-03:00",
  "conteos": {
-  "urgencias_vigentes": 44,
+  "urgencias_vigentes": 45,
   "discusion_inmediata": 9,
-  "vencen_7_dias": 13,
+  "vencen_7_dias": 12,
   "citaciones_7_dias": 11
  },
  "proximos_vencimientos": [
@@ -108,30 +108,10 @@
    "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
    "proyectos": [
     {
-     "boletin": "12213-07",
-     "titulo": "Modifica diversos textos legales en materia de ejecución de sanciones penales",
-     "sintesis": "Crea juzgados y un procedimiento para que un juez controle cómo se cumplen las penas de cárcel y las medidas de seguridad. Está en segundo trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/12213-07.html"
-    },
-    {
      "boletin": "17637-07",
      "titulo": "Modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales",
      "sintesis": "Crea en el Código Penal el delito de reclutar a niños, niñas o adolescentes para bandas criminales. La Cámara lo aprobó; ahora lo revisa la comisión de Constitución del Senado.",
      "url": "https://urgenciaskast.cl/p/17637-07.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "11:00",
-   "camara": "Senado",
-   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
-   "proyectos": [
-    {
-     "boletin": "18420-25",
-     "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-     "sintesis": "Fortalece la seguridad en puertos frente al crimen organizado, con nuevas obligaciones y agravantes penales. Está en primer trámite en el Senado, con urgencia simple.",
-     "url": "https://urgenciaskast.cl/p/18420-25.html"
     }
    ]
   },
@@ -206,6 +186,20 @@
    ]
   },
   {
+   "fecha": "2026-11-30",
+   "hora": "10:00",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "proyectos": [
+    {
+     "boletin": "18643-05",
+     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18643-05.html"
+    }
+   ]
+  },
+  {
    "fecha": "2026-12-01",
    "hora": "09:30",
    "camara": "Senado",
@@ -234,6 +228,12 @@
    "url": "https://urgenciaskast.cl/p/16552-12.html"
   },
   {
+   "boletin": "16743-04",
+   "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/16743-04.html"
+  },
+  {
    "boletin": "17622-04",
    "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
    "publicado": "2026-11-25",
@@ -250,12 +250,6 @@
    "sintesis": "Hace electrónica la mayoría de las notificaciones en juicios civiles y ajusta la apelación y las pruebas. Está en primer trámite, en la Comisión de Constitución de la Cámara, con urgencia suma.",
    "publicado": "2026-11-25",
    "url": "https://urgenciaskast.cl/p/18903-07.html"
-  },
-  {
-   "boletin": "17800-11",
-   "sintesis": "Agrega al Código Sanitario reglas para que solo la especie jurel se venda con ese nombre y su envase informe especie y origen. Está en la Comisión de Salud de la Cámara.",
-   "publicado": "2026-11-24",
-   "url": "https://urgenciaskast.cl/p/17800-11.html"
   }
  ],
  "analisis": [

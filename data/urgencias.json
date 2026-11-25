@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T06:37-03:00",
+ "actualizado": "2026-11-25T15:28-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -3307,110 +3307,6 @@
     "mixta": false
    },
    "dias_tramite": 127
-  },
-  {
-   "boletin": "18576-06",
-   "titulo": "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias",
-   "fecha_ingreso": "2026-08-06",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "Suma",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-20",
-     "retiro": "2026-11-02",
-     "camara": "Cámara de Diputados",
-     "oficio": "391-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-11-02",
-     "retiro": "2026-11-16",
-     "camara": "Cámara de Diputados",
-     "oficio": "437-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-11-16",
-     "retiro": null,
-     "camara": "Cámara de Diputados",
-     "oficio": "464-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-08-06",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-12",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-10-20",
-     "descripcion": "Cuenta del Mensaje 391-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-02",
-     "descripcion": "Cuenta del Mensaje 437-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-10",
-     "descripcion": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-11",
-     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-16",
-     "descripcion": "Cuenta del Mensaje 464-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-17",
-     "descripcion": "Discusión general . Queda pendiente .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18576-06",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18576-06",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19259&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 2,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 3,
-   "camara_actual": "Cámara de Diputados",
-   "urgencia_vigente": {
-    "tipo": "Suma",
-    "desde": "2026-11-16",
-    "vence": "2026-12-01",
-    "camara": "Cámara de Diputados",
-    "estado": "vigente",
-    "plazo_dias": 15,
-    "oficio": "464-374",
-    "mixta": false
-   },
-   "dias_tramite": 111
   },
   {
    "boletin": "18819-03",
@@ -14115,6 +14011,424 @@
    "dias_tramite": 5139
   },
   {
+   "boletin": "17737-14",
+   "titulo": "Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia",
+   "fecha_ingreso": "2025-07-25",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Tercer trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión única",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-25",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "492-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2025-07-25",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2025-08-06",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-01-07",
+     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-01-12",
+     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-03-24",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-03-24",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-03-25",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-10",
+     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-14",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-23",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 08/10/2026 a las 12:00",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Discusión particular . Aprobado con modificaciones Al no haberse presentado indicaciones al proyecto de ley y en virtud del artículo 120 del Reglamento del Senado, la Sala da por aprobado en particular la presente iniciativa legal",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-28",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Cuenta del Mensaje 492-374 que hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17737-14",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17737-14",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18385&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 1,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-11-25",
+    "vence": "2026-12-10",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 15,
+    "oficio": "492-374",
+    "mixta": false
+   },
+   "dias_tramite": 488
+  },
+  {
+   "boletin": "18341-25",
+   "titulo": "Crea el registro de actos vandálicos e incivilidades",
+   "fecha_ingreso": "2026-06-12",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión general",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-15",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "146-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-06-22",
+     "retiro": "2026-07-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "162-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-06",
+     "retiro": "2026-07-20",
+     "camara": "Cámara de Diputados",
+     "oficio": "182-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-07-20",
+     "retiro": "2026-08-03",
+     "camara": "Cámara de Diputados",
+     "oficio": "210-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-03",
+     "retiro": "2026-08-17",
+     "camara": "Cámara de Diputados",
+     "oficio": "224-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-17",
+     "retiro": "2026-08-31",
+     "camara": "Cámara de Diputados",
+     "oficio": "263-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-31",
+     "retiro": "2026-09-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "281-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-07",
+     "retiro": "2026-09-21",
+     "camara": "Cámara de Diputados",
+     "oficio": "303-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-21",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "326-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-09-28",
+     "retiro": "2026-09-30",
+     "camara": "Cámara de Diputados",
+     "oficio": "345-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-09-30",
+     "retiro": "2026-10-05",
+     "camara": "Cámara de Diputados",
+     "oficio": "357-374"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "ingreso": "2026-10-05",
+     "retiro": "2026-10-07",
+     "camara": "Cámara de Diputados",
+     "oficio": "366-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-07",
+     "retiro": "2026-10-19",
+     "camara": "Cámara de Diputados",
+     "oficio": "379-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-19",
+     "retiro": "2026-11-02",
+     "camara": "Cámara de Diputados",
+     "oficio": "385-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-02",
+     "retiro": "2026-11-16",
+     "camara": "Cámara de Diputados",
+     "oficio": "437-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-16",
+     "retiro": "2026-11-25",
+     "camara": "Cámara de Diputados",
+     "oficio": "465-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-25",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "493-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-06-12",
+     "descripcion": "Ingreso de proyecto .  Incluye informe financiero N° 117/01.06.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-12",
+     "descripcion": "Texto del Mensaje",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-15",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana y a Comisión de Hacienda en lo que corresponda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-15",
+     "descripcion": "El diputado Cuello hace reserva de constitucionalidad, en virtud de lo dispuesto en el artículo 19 N°2 de la Constitución Política.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-15",
+     "descripcion": "Cuenta del Mensaje 146-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-06-22",
+     "descripcion": "Cuenta del Mensaje 162-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-06",
+     "descripcion": "Cuenta del Mensaje 182-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-07-20",
+     "descripcion": "Cuenta del Mensaje 210-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-03",
+     "descripcion": "Cuenta del Mensaje 224-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-17",
+     "descripcion": "Cuenta del Mensaje 263-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-21",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (144-374). Incluye informe financiero complementario N° 203/20.08.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-31",
+     "descripcion": "Cuenta del Mensaje 281-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "Cuenta del Mensaje 303-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-21",
+     "descripcion": "Cuenta del Mensaje 326-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-28",
+     "descripcion": "Cuenta del Mensaje 345-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-09-30",
+     "descripcion": "Cuenta del Mensaje 357-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-05",
+     "descripcion": "Cuenta del Mensaje 366-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta del Mensaje 379-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-19",
+     "descripcion": "Cuenta del Mensaje 385-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-10-26",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 437-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta del Mensaje 465-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Cuenta del Mensaje 493-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18341-25",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18341-25",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19025&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 12,
+   "cambios_tipo": 4,
+   "urgencias_gobierno": 17,
+   "camara_actual": "Cámara de Diputados",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-11-25",
+    "vence": "2026-12-10",
+    "camara": "Cámara de Diputados",
+    "estado": "vigente",
+    "plazo_dias": 15,
+    "oficio": "493-374",
+    "mixta": false
+   },
+   "dias_tramite": 166
+  },
+  {
    "boletin": "17567-11",
    "titulo": "Optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos",
    "fecha_ingreso": "2025-06-02",
@@ -16586,208 +16900,120 @@
    "dias_tramite": 1786
   },
   {
-   "boletin": "18189-14",
-   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
-   "fecha_ingreso": "2026-04-15",
+   "boletin": "18576-06",
+   "titulo": "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias",
+   "fecha_ingreso": "2026-08-06",
    "iniciativa": "Moción",
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Suma",
-   "etapa": "Tercer trámite constitucional (C.Diputados)",
-   "subetapa": "Cuenta oficio con modificaciones de Cámara Revisora",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Cuenta de proyecto",
    "estado": "En tramitación",
    "urgencias": [
     {
      "tipo": "Suma",
-     "ingreso": "2026-08-05",
-     "retiro": "2026-08-17",
+     "ingreso": "2026-10-20",
+     "retiro": "2026-11-02",
      "camara": "Cámara de Diputados",
-     "oficio": "236-374"
+     "oficio": "391-374"
     },
     {
      "tipo": "Suma",
-     "ingreso": "2026-08-17",
+     "ingreso": "2026-11-02",
+     "retiro": "2026-11-16",
+     "camara": "Cámara de Diputados",
+     "oficio": "437-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-16",
      "retiro": null,
      "camara": "Cámara de Diputados",
-     "oficio": "263-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-08",
-     "retiro": "2026-09-22",
-     "camara": "Senado",
-     "oficio": "308-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-09-22",
-     "retiro": "2026-10-06",
-     "camara": "Senado",
-     "oficio": "334-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-06",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "376-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-10-27",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "414-374"
-    },
-    {
-     "tipo": "Suma",
-     "ingreso": "2026-11-18",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "471-374"
+     "oficio": "464-374"
     }
    ],
    "tramites": [
     {
-     "fecha": "2026-04-15",
+     "fecha": "2026-08-06",
      "descripcion": "Ingreso de proyecto .",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-04-20",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
+     "fecha": "2026-08-12",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-08-05",
-     "descripcion": "Cuenta del Mensaje 236-374 que hace presente la urgencia Suma",
+     "fecha": "2026-10-20",
+     "descripcion": "Cuenta del Mensaje 391-374 que hace presente la urgencia Suma",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-08-05",
-     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
+     "fecha": "2026-11-02",
+     "descripcion": "Cuenta del Mensaje 437-374 que retira y hace presente la urgencia Suma",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-08-10",
-     "descripcion": "Cuenta de primer informe de comisión .",
+     "fecha": "2026-11-10",
+     "descripcion": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-08-17",
-     "descripcion": "Cuenta del Mensaje 263-374 que retira y hace presente la urgencia Suma",
+     "fecha": "2026-11-11",
+     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-08-19",
+     "fecha": "2026-11-16",
+     "descripcion": "Cuenta del Mensaje 464-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-17",
+     "descripcion": "Discusión general . Queda pendiente .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
      "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
     },
     {
-     "fecha": "2026-08-19",
+     "fecha": "2026-11-25",
      "descripcion": "Oficio de ley a Cámara Revisora .",
      "etapa": "Primer trámite constitucional",
      "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-08-19",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "IF 219. Informe financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 308-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-22",
-     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-06",
-     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-07",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-18",
-     "descripcion": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-24",
-     "descripcion": "Discusión general . Aprobado en general y particular con modificaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-11-24",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
     }
    ],
    "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18189-14",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18189-14",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18859&tipodoc=mensaje_mocion"
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18576-06",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18576-06",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19259&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 6,
+   "renovaciones": 2,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 7,
-   "camara_actual": "Cámara de Diputados",
+   "urgencias_gobierno": 3,
+   "camara_actual": "Senado",
    "urgencia_vigente": {
     "tipo": "Suma",
-    "desde": "2026-11-18",
-    "vence": "2026-12-03",
-    "camara": "Senado",
+    "desde": "2026-11-16",
+    "vence": "2026-12-01",
+    "camara": "Cámara de Diputados",
     "estado": "en_espera",
     "plazo_dias": 15,
-    "oficio": "471-374",
+    "oficio": "464-374",
     "mixta": false
    },
-   "dias_tramite": 224
+   "dias_tramite": 111
   },
   {
    "boletin": "18224-18",
@@ -17681,7 +17907,7 @@
    "camara_origen": "Senado",
    "urgencia_actual": "Suma",
    "etapa": "Segundo trámite constitucional (C.Diputados)",
-   "subetapa": "Cuenta de proyecto",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -18575,6 +18801,18 @@
      "descripcion": "Oficio de ley a Cámara Revisora .",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "A solicitud del diputado Benjamín Moreno, la Sala acordó radicar el proyecto en la Comisión de Salud, y una vez despachado, remitirlo a la de Constitución.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -18597,8 +18835,231 @@
     "mixta": false
    },
    "dias_tramite": 1317
+  },
+  {
+   "boletin": "18189-14",
+   "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
+   "fecha_ingreso": "2026-04-15",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia_actual": "Suma",
+   "etapa": "Tercer trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión única",
+   "estado": "En tramitación",
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-05",
+     "retiro": "2026-08-17",
+     "camara": "Cámara de Diputados",
+     "oficio": "236-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-08-17",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "263-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-08",
+     "retiro": "2026-09-22",
+     "camara": "Senado",
+     "oficio": "308-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-09-22",
+     "retiro": "2026-10-06",
+     "camara": "Senado",
+     "oficio": "334-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-06",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "376-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-10-27",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "414-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-18",
+     "retiro": null,
+     "camara": "Senado",
+     "oficio": "471-374"
+    },
+    {
+     "tipo": "Suma",
+     "ingreso": "2026-11-25",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "496-374"
+    }
+   ],
+   "tramites": [
+    {
+     "fecha": "2026-04-15",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-04-20",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Cuenta del Mensaje 236-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-10",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-17",
+     "descripcion": "Cuenta del Mensaje 263-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-08-19",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "Boletín de indicaciones .  Indicaciones Ejecutivo",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-07",
+     "descripcion": "IF 219. Informe financiero",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-08",
+     "descripcion": "Cuenta del Mensaje 308-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-22",
+     "descripcion": "Cuenta del Mensaje 334-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06",
+     "descripcion": "Cuenta del Mensaje 376-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-07",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-27",
+     "descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-18",
+     "descripcion": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-24",
+     "descripcion": "Discusión general . Aprobado en general y particular con modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-24",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Cuenta del Mensaje 496-374 que hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Cámara de Diputados"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18189-14",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18189-14",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18859&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 7,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 8,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "Suma",
+    "desde": "2026-11-25",
+    "vence": "2026-12-10",
+    "camara": "Cámara de Diputados",
+    "estado": "en_espera",
+    "plazo_dias": 15,
+    "oficio": "496-374",
+    "mixta": false
+   },
+   "dias_tramite": 224
   }
  ],
- "errores_de_consulta": 11,
+ "errores_de_consulta": 10,
  "conservados_sin_respuesta": 0
 }

@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-25T06:38-03:00",
+ "actualizado": "2026-11-25T15:29-03:00",
  "desde": "2026-11-25",
  "hasta": "2026-12-08",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T06:37",
+   "consultado": "2026-11-25T15:28",
    "citaciones": 15,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,18 +13,18 @@
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-49: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 8,
+   "conservadas": 9,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T06:37",
-   "sesiones": 4,
+   "consultado": "2026-11-25T15:29",
+   "sesiones": 7,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T06:37",
+   "consultado": "2026-11-25T15:29",
    "sesiones": 8,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -32,12 +32,12 @@
    "estado": "asistida",
    "tablas": 5,
    "creadas": 9,
-   "sin_tabla": 3
+   "sin_tabla": 6
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T06:38",
-   "grupos": 9
+   "consultado": "2026-11-25T15:29",
+   "grupos": 12
   }
  },
  "sesiones": [
@@ -251,6 +251,25 @@
   },
   {
    "fecha": "2026-11-25",
+   "hora": "10:02",
+   "horario": "10:02 a 13:43",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 99,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4859",
+   "celebrada": true,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-25",
    "hora": "10:30",
    "horario": "10:30 a 12:30",
    "camara": "Senado",
@@ -294,30 +313,10 @@
    "lugar": "Sala N° 10 de Comisiones - Valparaíso",
    "materias": [
     "1.- ( Bol.N° 17637-07 ) Proseguir con el estudio del proyecto de ley, en segundo tramite constitucional, que modifica el Código Penal con el objeto de tipificar el delito de reclutamiento de niños, niñas o adolescentes para cometer ilícitos, por parte de asociaciones delictivas o criminales (Boletín N° 17.637-07).",
-    "2.- ( Bol.N° 12213-07 ) Continuar con el estudio del proyecto de ley, en segundo tramite constitucional, iniciado en moción del Honorables Diputados señor Ilabaca, señora Hertz y señores Alessandri, Garín, Leiva, Schalper y Walker, que modifica diversos textos legales en materia de ejecución de sanciones penales. (Boletín N° 12.213-07)."
+    "2.- Considerar la propuesta formulada por la Mesa del Senado para modificar el Reglamento del Senado en lo relativo a sanciones de la Comisión de Ética y Transparencia."
    ],
    "boletines": [
-    "12213-07",
     "17637-07"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, citaciones por fecha",
-   "tipo": "comision",
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "11:00",
-   "horario": "11:00 a 12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
-   "lugar": "Sala N° 1 de Comisiones, Senado Valparaíso.",
-   "materias": [
-    "1.- ( Bol.N° 18420-25 ) Continuar el estudio de las indicaciones presentadas al proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado.",
-    "A esta sesión han sido invitados el Ministro de Seguridad Pública, señor Carlos Arrau, el Ministro de Hacienda, señor Jorge Quiroz y el Ministro de Transportes y Telecomunicaciones, señor Louis de Grange."
-   ],
-   "boletines": [
-    "18420-25"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
@@ -455,6 +454,24 @@
   },
   {
    "fecha": "2026-11-30",
+   "hora": "10:00",
+   "horario": "10:00 a 13:45",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "lugar": "Sala N°3, tercer piso, Senado en SANTIAGO",
+   "materias": [
+    "1.- ( Bol.N° 18643-05 ) Reforma al mercado de capitales y financiamiento de la casa propia"
+   ],
+   "boletines": [
+    "18643-05"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-11-30",
    "hora": "11:00",
    "horario": "11:00 a 12:30",
    "camara": "Senado",
@@ -469,6 +486,25 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Audiencia"
+  },
+  {
+   "fecha": "2026-11-30",
+   "hora": "12:00",
+   "horario": "12:00 a 23:55",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 100,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4860",
+   "celebrada": false,
+   "actividad": "Sala"
   },
   {
    "fecha": "2026-12-01",
@@ -491,6 +527,25 @@
   },
   {
    "fecha": "2026-12-01",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 101,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4861",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-12-01",
    "hora": "15:00",
    "horario": "15:00 a 16:00",
    "camara": "Senado",
@@ -505,6 +560,25 @@
    "clase": "Especial",
    "tabla": "por_confirmar",
    "id_senado": "10344",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-12-02",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 102,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4862",
+   "celebrada": false,
    "actividad": "Sala"
   },
   {
@@ -1451,12 +1525,6 @@
   },
   {
    "boletin": "18478-13",
-   "vence": "2026-12-01",
-   "tipo": "Suma",
-   "camara": "Cámara de Diputados"
-  },
-  {
-   "boletin": "18576-06",
    "vence": "2026-12-01",
    "tipo": "Suma",
    "camara": "Cámara de Diputados"
@@ -4094,9 +4162,16 @@
     {
      "tipo": "Simple",
      "ingreso": "2026-11-23",
-     "retiro": null,
+     "retiro": "2026-11-25",
      "camara": "Cámara de Diputados",
      "oficio": "478-374"
+    },
+    {
+     "tipo": "Simple",
+     "ingreso": "2026-11-25",
+     "retiro": null,
+     "camara": "Cámara de Diputados",
+     "oficio": "494-374"
     }
    ],
    "tramites": [
@@ -4213,6 +4288,12 @@
      "descripcion": "Cuenta del Mensaje 478-374 que retira y hace presente la urgencia Simple",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Cuenta del Mensaje 494-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -4220,18 +4301,18 @@
     "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16709-11",
     "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17284&tipodoc=mensaje_mocion"
    },
-   "renovaciones": 6,
+   "renovaciones": 7,
    "cambios_tipo": 0,
-   "urgencias_gobierno": 7,
+   "urgencias_gobierno": 8,
    "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "Simple",
-    "desde": "2026-11-23",
-    "vence": "2026-12-23",
+    "desde": "2026-11-25",
+    "vence": "2026-12-25",
     "camara": "Cámara de Diputados",
     "estado": "vigente",
     "plazo_dias": 30,
-    "oficio": "478-374",
+    "oficio": "494-374",
     "mixta": false
    },
    "dias_tramite": 966
@@ -4761,116 +4842,6 @@
     "plazo_dias": null
    },
    "dias_tramite": 526
-  },
-  "17737-14": {
-   "boletin": "17737-14",
-   "titulo": "Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia",
-   "fecha_ingreso": "2025-07-25",
-   "iniciativa": "Moción",
-   "camara_origen": "Cámara de Diputados",
-   "urgencia_actual": "",
-   "etapa": "Tercer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión única",
-   "estado": "En tramitación",
-   "urgencias": [],
-   "tramites": [
-    {
-     "fecha": "2025-07-25",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2025-08-06",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-01-07",
-     "descripcion": "Primer informe de comisión de Vivienda y Desarrollo Urbano.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-01-12",
-     "descripcion": "Cuenta de primer informe de comisión .  Queda para tabla.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-03-24",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-03-24",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-03-25",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Vivienda y Urbanismo",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-10",
-     "descripcion": "Primer informe de comisión de Vivienda y Urbanismo.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-14",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-23",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 08/10/2026 a las 12:00",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Discusión particular . Aprobado con modificaciones Al no haberse presentado indicaciones al proyecto de ley y en virtud del artículo 120 del Reglamento del Senado, la Sala da por aprobado en particular la presente iniciativa legal",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-27",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-10-28",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=17737-14",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=17737-14",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18385&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 0,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 0,
-   "camara_actual": "Cámara de Diputados",
-   "urgencia_vigente": {
-    "tipo": "",
-    "desde": null,
-    "vence": null,
-    "camara": "",
-    "estado": "sin_dato",
-    "plazo_dias": null
-   },
-   "dias_tramite": 488
   },
   "17790-06": {
    "boletin": "17790-06",
@@ -5660,127 +5631,6 @@
    },
    "dias_tramite": 170
   },
-  "18420-25": {
-   "boletin": "18420-25",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-   "fecha_ingreso": "2026-06-24",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia_actual": "Simple",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura",
-   "estado": "En tramitación",
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-08-11",
-     "retiro": "2026-09-08",
-     "camara": "Senado",
-     "oficio": "256-374"
-    },
-    {
-     "tipo": "Simple",
-     "ingreso": "2026-09-08",
-     "retiro": null,
-     "camara": "Senado",
-     "oficio": "311-374"
-    }
-   ],
-   "tramites": [
-    {
-     "fecha": "2026-06-24",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08",
-     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08",
-     "descripcion": "La Sala acuerda autorizar a la Comisión de Intereses Marítimos, Pesca y Acuicultura para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-06",
-     "descripcion": "Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Cuenta del Mensaje 256-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-11",
-     "descripcion": "Discusión general . Aprobado en general",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12",
-     "descripcion": "La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-01",
-     "descripcion": "La Sala acuerda que el proyecto sea conocido por la Comisión de Seguridad Pública, una vez que sea despachado por la Comisión de Intereses Marítimos, Pesca y Acuicultura",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-07",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-09-08",
-     "descripcion": "Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "enlaces": {
-    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18420-25",
-    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18420-25",
-    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19092&tipodoc=mensaje_mocion"
-   },
-   "renovaciones": 1,
-   "cambios_tipo": 0,
-   "urgencias_gobierno": 2,
-   "camara_actual": "Senado",
-   "urgencia_vigente": {
-    "tipo": "Simple",
-    "desde": "2026-09-08",
-    "vence": "2026-10-08",
-    "camara": "Senado",
-    "estado": "vencida",
-    "plazo_dias": 30,
-    "oficio": "311-374",
-    "mixta": false
-   },
-   "dias_tramite": 154
-  },
   "18554-36": {
    "boletin": "18554-36",
    "titulo": "Modifica diversos cuerpos legales, con el objeto de otorgar protección a los niños y niñas abandonados en establecimientos de salud",
@@ -6155,29 +6005,11 @@
    "iniciativa": "Mensaje",
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "",
-   "etapa": "Comisión Mixta por rechazo de modificaciones (Senado)",
-   "subetapa": "Informe de Comisión Mixta Comisión Mixta para Boletín N° 18702-05",
+   "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado)",
+   "subetapa": "Cuenta oficio aprobación de informe de Comisión Mixta",
    "estado": "En tramitación",
    "urgencias": [],
    "tramites": [
-    {
-     "fecha": "2026-11-11",
-     "descripcion": "Discusión única . Queda pendiente .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-12",
-     "descripcion": "Discusión única . Aprobado .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
-    {
-     "fecha": "2026-11-15",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Cámara de Diputados"
-    },
     {
      "fecha": "2026-11-16",
      "descripcion": "Cuenta de proyecto . Queda para tabla",
@@ -6279,6 +6111,24 @@
      "descripcion": "Cuenta oficio rechazo a modificaciones .",
      "etapa": "Comisión Mixta por rechazo de modificaciones",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Informe de Comisión Mixta Comisión Mixta para Boletín N° 18702-05.",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Discusión informe de Comisión Mixta . Aprobado .",
+     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Oficio aprobación de informe de Comisión Mixta a C. Revisora .  Oficio N°21.807. Comunica al Senado la aprobación de la proposición de la Comisión Mixta.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
+     "camara": "Cámara de Diputados"
     }
    ],
    "enlaces": {
@@ -6289,7 +6139,7 @@
    "renovaciones": 0,
    "cambios_tipo": 0,
    "urgencias_gobierno": 0,
-   "camara_actual": "Senado",
+   "camara_actual": "Cámara de Diputados",
    "urgencia_vigente": {
     "tipo": "",
     "desde": null,
