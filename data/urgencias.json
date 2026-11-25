@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T15:34-03:00",
+ "actualizado": "2026-11-25T16:15-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -18811,6 +18811,18 @@
     {
      "fecha": "2026-11-25",
      "descripcion": "A solicitud del diputado Benjamín Moreno, la Sala acordó radicar el proyecto en la Comisión de Salud, y una vez despachado, remitirlo a la de Constitución.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Oficio N° 21805. Comunica a a Comisión de Salud el acuerdo de la Sala, en orden a asignarle proyecto de ley, correspondiente al boletín N° 15.850-11(S), originalmente remitido solo a la Comisión de Constitución, Legislación, Justicia y Reglamento, durante su primer trámite constitucional.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Cámara de Diputados"
+    },
+    {
+     "fecha": "2026-11-25",
+     "descripcion": "Oficio N° 21806. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento, el acuerdo de la Sala, en orden  remitir a la Comisión de Salud,  el proyecto de ley, correspondiente al boletín N° 15.850-11(S), antes de ser conocido por esa Comisión.",
      "etapa": "Segundo trámite constitucional",
      "camara": "Cámara de Diputados"
     }
