@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "boletin": "18903-07",
+  "nivel": "basica",
+  "sintesis": "Hace electrónica la mayoría de las notificaciones en juicios civiles y ajusta la apelación y las pruebas. Está en primer trámite, en la Comisión de Constitución de la Cámara, con urgencia suma.",
+  "materia": "los cambios a los juicios civiles",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje dice que los juicios civiles sufren atrasos, demasiadas formalidades y altos costos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El juicio ordinario dura cerca de 424 días ante el primer tribunal que lo resuelve.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que los receptores, que avisan las decisiones del tribunal, son caros y escasos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los avisos oficiales, o notificaciones, serían por regla general electrónicos.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Se excluyen el primer aviso y los casos que exigen cédula, una notificación escrita.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Permite convenciones probatorias, que son acuerdos entre las partes sobre la prueba, con control del tribunal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Busca evitar el exceso de testigos sobre un mismo punto.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "En una apelación, revisión por un tribunal superior, la otra parte tendría cinco días para responder.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Cada abogado podría alegar hasta treinta minutos sobre la sentencia final.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Para otras decisiones, el tope sería de quince minutos.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Da cinco días para pedir ciertas pruebas durante la apelación.",
+        "fuentes": [
+          "f3",
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas con juicios civiles, a sus abogados y a los tribunales.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "También a los receptores, porque muchos avisos dejarían de requerir su trabajo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 255 dice que el proyecto no implica un mayor gasto fiscal.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El Gobierno lo ingresó a la Cámara el 23 de noviembre de 2026.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite, en la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Tiene urgencia suma, un plazo para tratarlo, desde ese mismo día.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "notificaciones electrónicas juicios civiles",
+    "reforma al procedimiento civil",
+    "receptores judiciales",
+    "convenciones probatorias",
+    "alegatos en cortes de apelaciones"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Modifica el Código de Procedimiento Civil para mejorar el acceso a la justicia de la ciudadanía",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19584&tipodoc=mensaje_mocion",
+      "fecha": "2026-11-23",
+      "nota": "Fundamentos y contenido. El texto está cortado."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 448-374: Texto del Mensaje.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37519&tipodoc=ofic",
+      "fecha": "2026-11-23",
+      "nota": "Texto del mensaje con parte del articulado."
+    },
+    {
+      "id": "f3",
+      "titulo": "Pasajes sobre costo fiscal en: Mensaje: Modifica el Código de Procedimiento Civil para mejorar el acceso a la justicia de la ciudadanía",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19584&tipodoc=mensaje_mocion",
+      "fecha": "2026-11-23",
+      "nota": "Informe financiero N° 255."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18903-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18903",
+      "fecha": "2026-11-24",
+      "nota": "Etapa, comisión y urgencia."
+    }
+  ],
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
