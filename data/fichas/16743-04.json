@@ -83,9 +83,15 @@
         ]
       },
       {
-        "texto": "El 18 de noviembre de 2026 el Presidente hizo presente la urgencia suma, que reemplazó a la discusión inmediata.",
+        "texto": "El 24 de noviembre la Cámara comunicó al Senado sus cinco integrantes de esa comisión.",
         "fuentes": [
-          "f17"
+          "f18"
+        ]
+      },
+      {
+        "texto": "Ese día se dio cuenta de que el Presidente puso la urgencia discusión inmediata, que reemplazó a la suma.",
+        "fuentes": [
+          "f19"
         ]
       }
     ]
@@ -163,10 +169,24 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16743",
       "fecha": "2026-11-18",
       "nota": "Etapas, fechas y urgencias."
+    },
+    {
+      "id": "f18",
+      "titulo": "Oficio 21.791 de la Cámara al Senado con sus integrantes de la comisión mixta (24 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37527&tipodoc=ofic",
+      "fecha": "2026-11-24",
+      "nota": "Integrantes de la Cámara en la comisión mixta."
+    },
+    {
+      "id": "f19",
+      "titulo": "Tramitación del boletín 16743-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16743",
+      "fecha": "2026-11-25",
+      "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-19",
-  "publicado": "2026-11-19",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
