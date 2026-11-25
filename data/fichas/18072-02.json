@@ -1,0 +1,131 @@
+{
+  "version": 2,
+  "boletin": "18072-02",
+  "nivel": "basica",
+  "sintesis": "Cambia el nombre de la Gobernación Marítima de Castro por Gobernación Marítima de Chiloé. Una comisión del Senado lo aprobó y sigue en primer trámite.",
+  "materia": "el cambio de nombre de la Gobernación Marítima de Castro",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "En 1848 la ley creó una Gobernación Marítima de Chiloé.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En 1953 pasó a figurar como Gobernación Marítima de Castro.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El mensaje quiere igualar su nombre con el de otros servicios públicos de Chiloé.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Reponer el nombre Gobernación Marítima de Chiloé en lugar de Castro.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Reemplaza la palabra «Castro» por «Chiloé» en la ley que organiza a la autoridad marítima.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "En la comisión se aclaró que no cambia el territorio que abarca.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a esa Gobernación Marítima y, según el mensaje, ayuda a identificar a los habitantes del archipiélago.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El mensaje dice que la Armada y la autoridad marítima piden el cambio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "En julio, la Comisión de Defensa Nacional del Senado lo aprobó por 4 votos a 0.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite en el Senado, en discusión general.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 24 de noviembre se informó la urgencia Suma, que fija un plazo breve.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "Gobernación Marítima de Chiloé",
+    "Gobernación Marítima de Castro",
+    "cambio de nombre gobernación marítima",
+    "autoridad marítima en Chiloé"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje N° 301-373: restituye la denominación Gobernación Marítima de Chiloé",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18736&tipodoc=mensaje_mocion",
+      "fecha": "20 de enero de 2026",
+      "nota": "Antecedentes, fundamentos y texto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Primer informe de la Comisión de Defensa Nacional del Senado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28111&tipodoc=info",
+      "fecha": "22 de julio de 2026",
+      "nota": "Debate, votación y texto propuesto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18072-02 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18072",
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Etapa, urgencia y trámites."
+    }
+  ],
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
