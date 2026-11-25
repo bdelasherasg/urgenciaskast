@@ -1,0 +1,183 @@
+{
+  "version": 2,
+  "boletin": "16286-07",
+  "nivel": "basica",
+  "sintesis": "Adapta las reglas de los tribunales de familia a la ley de garantías de la niñez y deroga la Ley de Menores. Está en primer trámite en el Senado, en comisión.",
+  "materia": "los tribunales de familia y los derechos de la niñez",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "Una ley de 2022 creó un sistema para garantizar los derechos de la niñez.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esa ley mandó adaptar las reglas de los tribunales de familia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El mensaje dice que faltan garantías para que los niños sean oídos en juicio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Exige oír a niños y adolescentes en todo juicio de familia donde tengan interés.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pide al menos una audiencia confidencial por juicio, es decir, una entrevista reservada.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Les da un abogado propio si su interés choca con el de quien los representa.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      },
+      {
+        "texto": "Aumenta los jueces de familia y los consejeros técnicos, que apoyan al tribunal.",
+        "fuentes": [
+          "f3",
+          "f2"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Deroga, o deja sin efecto, la Ley de Menores, vigente desde 1967.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También modifica el Código Civil y otras leyes.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Las Oficinas Locales de la Niñez, que dictan medidas de protección, podrán pedir multas por incumplirlas.",
+        "fuentes": [
+          "f3",
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los niños y adolescentes con causas de familia y a los tribunales que las ven.",
+        "fuentes": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El Poder Judicial indica que se reforzarían 88 juzgados.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El mensaje carga el gasto del primer año al presupuesto de Justicia y del Poder Judicial.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Ministerio de Hacienda podrá cubrir lo que falte.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En 2023, el Poder Judicial estimó que se necesitan 940 cargos y que el proyecto considera 354.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "No se pudo acceder a las cifras del informe financiero.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en el Senado, a la espera del primer informe de la Comisión de Constitución.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "El 24 de noviembre se informó la urgencia Suma, que fija un plazo breve.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "reforma tribunales de familia",
+    "derogar la Ley de Menores",
+    "niños sean oídos en juicio",
+    "abogado del niño",
+    "audiencia confidencial de niños"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: reforma a la ley de Tribunales de Familia y derogación de la Ley de Menores",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16841&tipodoc=mensaje_mocion",
+      "fecha": "15 de septiembre de 2023",
+      "nota": "Antecedentes, fundamentos y financiamiento."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 5564 de la Corporación Administrativa del Poder Judicial",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33594&tipodoc=ofic",
+      "fecha": "19 de octubre de 2023",
+      "nota": "Efectos del proyecto en los tribunales."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 287-2023, informe de la Corte Suprema",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=32580&tipodoc=ofic",
+      "fecha": "24 de octubre de 2023",
+      "nota": "Opinión sobre las normas de los tribunales."
+    },
+    {
+      "id": "f4",
+      "titulo": "Anexo del oficio de la Corte Suprema, detalle de dotaciones pedidas por el Poder Judicial",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33591&tipodoc=ofic",
+      "fecha": "26 de septiembre de 2023",
+      "nota": "Comparación de cargos requeridos y considerados."
+    },
+    {
+      "id": "f9",
+      "titulo": "Tramitación del boletín 16286-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16286",
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Etapa, comisión y urgencias."
+    }
+  ],
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
