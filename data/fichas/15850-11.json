@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "15850-11",
   "nivel": "basica",
-  "sintesis": "Prohíbe que las farmacias distribuyan medicamentos y crea delitos por vender medicamentos en lugares no autorizados o falsificados. Está en el Senado, que lo aprobó en general en julio de 2026.",
+  "sintesis": "Fija la venta de medicamentos al detalle, prohíbe que las farmacias los distribuyan y castiga su venta ilegal o falsificada. El Senado lo aprobó y ahora lo revisa la Cámara.",
   "materia": "la venta y distribución de medicamentos y la sanción de su venta ilegal",
   "resumen": {
     "problema": [
@@ -27,56 +27,79 @@
     ],
     "propone": [
       {
-        "texto": "Prohíbe que las farmacias distribuyan medicamentos, es decir, que los repartan en forma masiva. Solo podrían venderlos al detalle.",
+        "texto": "Los medicamentos se entregarían al detalle y según la receta.",
         "fuentes": [
-          "f1"
+          "f7"
         ]
       },
       {
-        "texto": "Crea el delito de vender medicamentos en lugares no autorizados, con pena de 5 años y 1 día a 15 años de presidio y multa de 50 unidades tributarias mensuales.",
+        "texto": "Sin receta, solo se venderían los de venta directa, para uso personal o familiar.",
         "fuentes": [
-          "f1"
+          "f7"
         ]
       },
       {
-        "texto": "Crea delitos por distribuir medicamentos de forma ilegal y por fabricar o vender medicamentos falsificados.",
+        "texto": "Prohíbe que farmacias y centros asistenciales los distribuyan, salvo ciertos traspasos avisados a la autoridad.",
         "fuentes": [
-          "f1"
+          "f7"
+        ]
+      },
+      {
+        "texto": "Venderlos sin permiso tendría cárcel en su nivel más bajo y multa de 50 UTM, una unidad de multas.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "Esa regla excluye los estupefacientes y psicotrópicos.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "También castiga la venta de medicamentos falsificados o adulterados que puedan dañar la salud.",
+        "fuentes": [
+          "f7"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Modifica el Código Sanitario, el Código Penal y un decreto del Ministerio de Salud.",
+        "texto": "Modifica el Código Sanitario, el Código Penal, la ley N° 20.000, sobre drogas, y otras normas.",
         "fuentes": [
-          "f1",
-          "f2"
+          "f7"
         ]
       },
       {
-        "texto": "Según el informe financiero, las indicaciones del Ejecutivo refuerzan las facultades de fiscalización del Instituto de Salud Pública.",
+        "texto": "Da al Instituto de Salud Pública más acceso a información sobre los medicamentos.",
         "fuentes": [
-          "f4"
+          "f7"
+        ]
+      },
+      {
+        "texto": "Los condenados perderían por un tiempo los permisos para farmacias.",
+        "fuentes": [
+          "f7"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a las farmacias, a los profesionales que recetan y a quienes venden medicamentos en lugares no autorizados.",
+        "texto": "Afecta a las farmacias, a los profesionales que recetan y a quienes venden medicamentos sin permiso.",
         "fuentes": [
-          "f1"
+          "f7"
         ]
       }
     ],
     "costo": [
       {
-        "texto": "El informe financiero complementario del 14 de agosto de 2026 dice que las indicaciones usan el presupuesto vigente.",
+        "texto": "El informe financiero del 14 de agosto de 2026 dice que sus cambios usan el presupuesto vigente.",
         "fuentes": [
           "f4"
         ]
       },
       {
-        "texto": "Dice que su aprobación no irrogará mayor gasto fiscal.",
+        "texto": "Dice que no causarían mayor gasto fiscal.",
         "fuentes": [
           "f4"
         ]
@@ -84,21 +107,22 @@
     ],
     "estado": [
       {
-        "texto": "Está en primer trámite constitucional en el Senado, en la etapa de discusión particular.",
+        "texto": "El 24 de noviembre de 2026 el Senado aprobó el proyecto en particular, es decir, en sus detalles.",
         "fuentes": [
-          "f6"
+          "f8"
         ]
       },
       {
-        "texto": "El Senado lo aprobó en general el 21 de julio de 2026 y fijó el 14 de agosto para presentar indicaciones.",
+        "texto": "Ese día lo envió a la Cámara, para su segundo trámite.",
         "fuentes": [
-          "f6"
+          "f7",
+          "f8"
         ]
       },
       {
-        "texto": "La Comisión de Salud emitió su segundo informe el 20 de octubre de 2026.",
+        "texto": "Tiene urgencia suma.",
         "fuentes": [
-          "f6"
+          "f8"
         ]
       }
     ]
@@ -106,6 +130,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "venta ilegal de medicamentos",
+    "farmacias y medicamentos",
+    "medicamentos falsificados",
+    "venta en lugares no autorizados",
+    "distribución de fármacos"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -134,17 +165,24 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15850",
       "fecha": "2026-11-11",
       "nota": "Etapa, trámites y urgencias."
+    },
+    {
+      "id": "f7",
+      "titulo": "Oficio 381/SEC/26 del Senado a la Cámara con el texto aprobado (24 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37535&tipodoc=ofic",
+      "fecha": "2026-11-24",
+      "nota": "Texto aprobado en primer trámite."
+    },
+    {
+      "id": "f8",
+      "titulo": "Tramitación del boletín 15850-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15850",
+      "fecha": "2026-11-25",
+      "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "venta ilegal de medicamentos",
-    "farmacias y medicamentos",
-    "medicamentos falsificados",
-    "venta en lugares no autorizados",
-    "distribución de fármacos"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
