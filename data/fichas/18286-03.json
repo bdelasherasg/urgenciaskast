@@ -2,18 +2,18 @@
   "version": 2,
   "boletin": "18286-03",
   "nivel": "basica",
-  "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo, y fija reglas de prueba para documentos electrónicos. Está en la Cámara, en discusión general, con urgencia de discusión inmediata.",
+  "sintesis": "Permite reemplazar la autorización de firmas ante notario por firma electrónica avanzada con sellado de tiempo y admite pagarés electrónicos. La Cámara lo aprobó y ahora lo revisa el Senado.",
   "materia": "la firma electrónica avanzada y los documentos electrónicos",
   "resumen": {
     "problema": [
       {
-        "texto": "El mensaje dice que la presencia ante notario solo para autorizar firmas limita las contrataciones electrónicas.",
+        "texto": "El mensaje dice que exigir un notario solo para autorizar firmas limita los contratos electrónicos.",
         "fuentes": [
           "f1"
         ]
       },
       {
-        "texto": "Dice también que los trámites presenciales generan costos y esperas, sobre todo para las pymes.",
+        "texto": "Agrega que los trámites presenciales causan costos y esperas, sobre todo a las pymes.",
         "fuentes": [
           "f1"
         ]
@@ -21,41 +21,53 @@
     ],
     "propone": [
       {
-        "texto": "Cuando el notario solo autoriza o certifica firmas, ese requisito se podría cumplir con firma electrónica avanzada con sellado de tiempo.",
+        "texto": "Si el notario solo debe autorizar firmas, bastaría una firma electrónica avanzada con sellado de tiempo.",
         "fuentes": [
-          "f1"
+          "f11"
         ]
       },
       {
-        "texto": "El sellado de tiempo permite acreditar la fecha y la hora de un documento electrónico.",
+        "texto": "El sellado de tiempo fija la fecha y la hora de la firma, con certificación de un prestador acreditado.",
         "fuentes": [
-          "f2"
+          "f11"
+        ]
+      },
+      {
+        "texto": "También permite letras de cambio y pagarés electrónicos, que son documentos sobre deudas.",
+        "fuentes": [
+          "f11"
+        ]
+      },
+      {
+        "texto": "Antes de su primer traspaso, deberían inscribirse en un registro electrónico.",
+        "fuentes": [
+          "f11"
         ]
       }
     ],
     "cambia": [
       {
-        "texto": "Modifica la ley N° 19.799 sobre documentos electrónicos y firma electrónica.",
+        "texto": "Modifica la ley N° 19.799, sobre firma electrónica, y la ley N° 18.092, sobre letras y pagarés.",
         "fuentes": [
-          "f2"
+          "f11"
         ]
       },
       {
-        "texto": "Agrega reglas sobre el valor probatorio de los documentos electrónicos y su impugnación en tribunales.",
+        "texto": "En el Código de Procedimiento Civil agrega reglas para objetar documentos electrónicos ante un tribunal.",
         "fuentes": [
-          "f2"
+          "f11"
         ]
       },
       {
-        "texto": "Excluye, entre otros, los actos de derecho familiar y los que exigen comparecencia personal.",
+        "texto": "La regla sobre notarios no rige en derecho de familia ni si la ley exige presentarse en persona.",
         "fuentes": [
-          "f1"
+          "f11"
         ]
       }
     ],
     "afecta": [
       {
-        "texto": "Afecta a personas y empresas que firman contratos y documentos, a los notarios y a los prestadores acreditados de certificación.",
+        "texto": "Afecta a personas y empresas que firman documentos, a notarios y a prestadores de certificación.",
         "fuentes": [
           "f1"
         ]
@@ -63,19 +75,19 @@
     ],
     "costo": [
       {
-        "texto": "El informe financiero complementario N° 207, del 27 de agosto de 2026, informa un mayor gasto de $39.195 miles el primer año.",
+        "texto": "El informe financiero N° 207, de agosto de 2026, calcula un gasto de $39.195 miles el primer año.",
         "fuentes": [
           "f8"
         ]
       },
       {
-        "texto": "Informa $37.894 miles al año en régimen, para contratar un funcionario en la Subsecretaría de Economía.",
+        "texto": "Después serían $37.894 miles al año, para contratar un funcionario.",
         "fuentes": [
           "f8"
         ]
       },
       {
-        "texto": "El informe N° 226, del 15 de septiembre de 2026, dice que sus indicaciones no inciden en el presupuesto fiscal.",
+        "texto": "El informe N° 226, de septiembre, dice que sus cambios no afectan el presupuesto.",
         "fuentes": [
           "f3"
         ]
@@ -83,21 +95,22 @@
     ],
     "estado": [
       {
-        "texto": "La Comisión de Economía de la Cámara aprobó la idea de legislar por unanimidad.",
+        "texto": "El 24 de noviembre de 2026 la Cámara aprobó el proyecto en general y en particular, o sea, su idea y sus detalles.",
         "fuentes": [
-          "f2"
+          "f12",
+          "f11"
         ]
       },
       {
-        "texto": "Su informe es del 6 de octubre de 2026, y se dio cuenta de él el 19 de octubre.",
+        "texto": "Ese día pasó al Senado, a la Comisión de Economía.",
         "fuentes": [
-          "f10"
+          "f12"
         ]
       },
       {
-        "texto": "El 18 de noviembre de 2026 el Presidente hizo presente la urgencia de discusión inmediata, que reemplazó a la suma.",
+        "texto": "Según la tramitación, tiene urgencia de discusión inmediata.",
         "fuentes": [
-          "f10"
+          "f12"
         ]
       }
     ]
@@ -147,10 +160,24 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18286",
       "fecha": "2026-11-18",
       "nota": "Etapas, fechas y urgencias."
+    },
+    {
+      "id": "f11",
+      "titulo": "Oficio 21.790 de la Cámara al Senado con el texto aprobado (24 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37532&tipodoc=ofic",
+      "fecha": "2026-11-24",
+      "nota": "Texto aprobado en primer trámite."
+    },
+    {
+      "id": "f12",
+      "titulo": "Tramitación del boletín 18286-03 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18286",
+      "fecha": "2026-11-25",
+      "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-19",
-  "publicado": "2026-11-19",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-19 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
