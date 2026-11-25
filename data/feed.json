@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-25T15:28-03:00",
+ "actualizado": "2026-11-25T15:34-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 9,
@@ -36,7 +36,7 @@
   {
    "boletin": "17662-07",
    "titulo": "Aumenta sanciones aplicables al delito de atentado contra la autoridad cometido contra miembros de las Fuerzas de Orden y Seguridad Pública",
-   "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con urgencia suma.",
+   "sintesis": "Sanciona con prisión y multa los insultos graves a carabineros y policías de Investigaciones, y agrava el atentado contra la autoridad. La Cámara lo aprobó; el Senado lo estudia con discusión inmediata.",
    "urgencia": "Discusión inmediata",
    "vence": "2026-11-30",
    "url": "https://urgenciaskast.cl/p/17662-07.html"
@@ -152,7 +152,7 @@
     {
      "boletin": "11929-13",
      "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
-     "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia simple.",
+     "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia suma.",
      "url": "https://urgenciaskast.cl/p/11929-13.html"
     }
    ]
@@ -216,6 +216,18 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "11929-13",
+   "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia suma.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/11929-13.html"
+  },
+  {
+   "boletin": "15850-11",
+   "sintesis": "Fija la venta de medicamentos al detalle, prohíbe que las farmacias los distribuyan y castiga su venta ilegal o falsificada. El Senado lo aprobó y ahora lo revisa la Cámara.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/15850-11.html"
+  },
+  {
    "boletin": "15905-25",
    "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia simple.",
    "publicado": "2026-11-25",
@@ -228,28 +240,16 @@
    "url": "https://urgenciaskast.cl/p/16552-12.html"
   },
   {
+   "boletin": "16553-12",
+   "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia suma.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/16553-12.html"
+  },
+  {
    "boletin": "16743-04",
    "sintesis": "Facilita crear colegios con subvención: permite acreditar el local con un contrato de arriendo o comodato y define cómo se determina la demanda. El Senado rechazó una enmienda de la Cámara; sigue una comisión mixta.",
    "publicado": "2026-11-25",
    "url": "https://urgenciaskast.cl/p/16743-04.html"
-  },
-  {
-   "boletin": "17622-04",
-   "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
-   "publicado": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/17622-04.html"
-  },
-  {
-   "boletin": "18702-05",
-   "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.",
-   "publicado": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/18702-05.html"
-  },
-  {
-   "boletin": "18903-07",
-   "sintesis": "Hace electrónica la mayoría de las notificaciones en juicios civiles y ajusta la apelación y las pruebas. Está en primer trámite, en la Comisión de Constitución de la Cámara, con urgencia suma.",
-   "publicado": "2026-11-25",
-   "url": "https://urgenciaskast.cl/p/18903-07.html"
   }
  ],
  "analisis": [

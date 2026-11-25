@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-25T15:29-03:00",
+ "actualizado": "2026-11-25T15:35-03:00",
  "desde": "2026-11-25",
  "hasta": "2026-12-08",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T15:28",
+   "consultado": "2026-11-25T15:34",
    "citaciones": 15,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -13,18 +13,18 @@
    "estado": "sin_actualizar",
    "detalle": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48: HTTP Error 403: Forbidden; https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-49: HTTP Error 403: Forbidden",
    "control": [],
-   "conservadas": 9,
+   "conservadas": 13,
    "url": "https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana=2026-48"
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T15:29",
+   "consultado": "2026-11-25T15:34",
    "sesiones": 7,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T15:29",
+   "consultado": "2026-11-25T15:34",
    "sesiones": 8,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,7 +36,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T15:29",
+   "consultado": "2026-11-25T15:35",
    "grupos": 12
   }
  },
@@ -247,6 +247,25 @@
    "tabla": "por_confirmar",
    "id_camara": "4859",
    "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "10:02",
+   "horario": "10:02 a 13:43",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 99,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4859",
+   "celebrada": true,
    "actividad": "Sala"
   },
   {
@@ -507,6 +526,25 @@
    "actividad": "Sala"
   },
   {
+   "fecha": "2026-11-30",
+   "hora": "12:00",
+   "horario": "12:00 a 23:55",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 100,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4860",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
    "fecha": "2026-12-01",
    "hora": "09:30",
    "horario": "09:30 a 11:00",
@@ -546,6 +584,25 @@
   },
   {
    "fecha": "2026-12-01",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 101,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4861",
+   "celebrada": false,
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-12-01",
    "hora": "15:00",
    "horario": "15:00 a 16:00",
    "camara": "Senado",
@@ -560,6 +617,25 @@
    "clase": "Especial",
    "tabla": "por_confirmar",
    "id_senado": "10344",
+   "actividad": "Sala"
+  },
+  {
+   "fecha": "2026-12-02",
+   "hora": "10:00",
+   "horario": "10:00 a 14:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Sala de la Cámara",
+   "lugar": "",
+   "materias": [],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Cámara, datos abiertos (sesiones de Sala)",
+   "tipo": "sala",
+   "numero": 102,
+   "clase": "Ordinaria",
+   "tabla": "por_confirmar",
+   "id_camara": "4862",
+   "celebrada": false,
    "actividad": "Sala"
   },
   {
@@ -6072,7 +6148,7 @@
     },
     {
      "fecha": "2026-11-19",
-     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad de las ind 359, 1141, 1023 y 1150",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad de las ind 359, 1141 y 1023",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     },
