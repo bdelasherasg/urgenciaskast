@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-25T16:21-03:00",
+ "actualizado": "2026-11-25T18:28-03:00",
  "conteos": {
   "urgencias_vigentes": 46,
   "discusion_inmediata": 9,
   "vencen_7_dias": 12,
-  "citaciones_7_dias": 20
+  "citaciones_7_dias": 22
  },
  "proximos_vencimientos": [
   {
@@ -116,7 +116,7 @@
     {
      "boletin": "18702-05",
      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.",
+     "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara aprobó el informe de la Comisión Mixta, ahora en el Senado.",
      "url": "https://urgenciaskast.cl/p/18702-05.html"
     }
    ]

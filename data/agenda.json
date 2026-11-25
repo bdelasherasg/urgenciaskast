@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-25T16:22-03:00",
+ "actualizado": "2026-11-25T18:28-03:00",
  "desde": "2026-11-25",
  "hasta": "2026-12-08",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T16:21",
-   "citaciones": 15,
+   "consultado": "2026-11-25T18:28",
+   "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T16:21",
+   "consultado": "2026-11-25T18:28",
    "sesiones": 7,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-25T16:21",
+   "consultado": "2026-11-25T18:28",
    "sesiones": 8,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,7 +37,7 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-25T16:22",
+   "consultado": "2026-11-25T18:28",
    "grupos": 12
   }
  },
@@ -672,6 +672,48 @@
   },
   {
    "fecha": "2026-12-01",
+   "hora": "10:30",
+   "horario": "10:30 a 12:00",
+   "camara": "Senado",
+   "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "lugar": "Sala N° 10 de Comisiones - Valparaíso",
+   "materias": [
+    "1.- ( Bol.N° S 2776-09 ) Proyecto de acuerdo que modifica el Reglamento del Senado, en lo relativo al régimen de sanciones aplicables por la Comisión de Ética y Transparencia.",
+    "Para este asunto ha sido especialmente invitado el Secretario General del Senado, señor Luis Rojas Gallardo.",
+    "2.- ( Bol.N° 18764-07 ) Sanciona la administración temeraria de los fondos de pensiones.",
+    "Para este punto han sido invitados el Superintendente de Pensiones de Chile, señor Joaquín Cortez Huerta, y el Presidente de la Asociación de AFP de Chile, señor León Fernández de Castro.",
+    "3.- ( Bol.N° 18258-07 ) Modifica la ley N°18.415, orgánica constitucional de los estados de excepción, en materia de control de identidad y otros."
+   ],
+   "boletines": [
+    "18258-07",
+    "18764-07"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Discusión"
+  },
+  {
+   "fecha": "2026-12-01",
+   "hora": "12:30",
+   "horario": "12:30 a 14:00",
+   "camara": "Senado",
+   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+   "lugar": "Sala N° 2 tercer piso, Senado Valparaíso.",
+   "materias": [
+    "1.- ( Bol.N° 16553-12 ) Iniciar el estudio y votar la últimas indicaciones formuladas al proyecto de ley, en segundo trámite constitucional, que fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica.",
+    "A esta sesión han sido invitados la Ministra del Medio Ambiente, señora Francisca Toledo y el Superintendente del Medio Ambiente, señor Emanuel Ibarra."
+   ],
+   "boletines": [
+    "16553-12"
+   ],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Votación"
+  },
+  {
+   "fecha": "2026-12-01",
    "hora": "15:00",
    "horario": "15:00 a 16:00",
    "camara": "Senado",
@@ -715,22 +757,23 @@
    "organo": "Comisión Especial de Zonas Extremas y Territorios Especiales",
    "lugar": "Sala 11, Valparaíso.",
    "materias": [
-    "1.- ( Bol.N° 17293-27 ) HA MODIFICADO SU TABLA.",
-    "Proyecto de ley que modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica.",
+    "1.- ( Bol.N° 17293-27 ) Proyecto de ley que modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica.",
     "2.- Abordar distintas temáticas relacionadas con el territorio antártico chileno.",
-    "A esta sesión se invitará al Ministro de Relaciones Exteriores; al Ministro de Defensa Nacional; al Director Nacional de Fronteras y Límites del Estado, y al Jefe de la División de Asuntos Antárticos de la Cancillería.",
+    "A estos asuntos se invitará al Ministro de Relaciones Exteriores; al Ministro de Defensa Nacional; al Director Nacional de Fronteras y Límites del Estado, y al Jefe de la División de Asuntos Antárticos de la Cancillería.",
+    "3.- ( Bol.N° 18548-11 ) Votar la indicación presentada por el Ejecutivo al proyecto de ley que modifica la ley N° 19.664, con el objeto de establecer la movilidad territorial exclusiva entre zonas extremas y territorios especiales del país para los médicos que deben cumplir su período asistencial obligatorio.",
     "Avenida Pedro Montt s/n, Valparaíso. Teléfono: (56-32) 250 4000 / Morandé 441, Santiago. Teléfono: (56-2) 2519 6700",
     "Contacto",
     "Conéctate con el Senado",
     "Click acá para ir directamente al principio de la página"
    ],
    "boletines": [
-    "17293-27"
+    "17293-27",
+    "18548-11"
    ],
    "estado": "citada",
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
-   "actividad": "Discusión"
+   "actividad": "Votación"
   }
  ],
  "pasadas": [
@@ -8576,6 +8619,68 @@
     "mixta": false
    },
    "dias_tramite": 114
+  },
+  "18548-11": {
+   "boletin": "18548-11",
+   "titulo": "Modifica la ley N° 19.664, con el objeto de establecer la movilidad territorial exclusiva entre zonas extremas y territorios especiales del país para los médicos que deben cumplir su período asistencial obligatorio",
+   "fecha_ingreso": "2026-08-04",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia_actual": "",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión Comisión Especial de Zonas Extremas y Territorios Especiales",
+   "estado": "En tramitación",
+   "urgencias": [],
+   "tramites": [
+    {
+     "fecha": "2026-08-04",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Salud",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-05",
+     "descripcion": "La Sala acuerda que el proyecto sea conocido por la Comisión de Salud y, luego, por la Comisión Especial de Zonas Extremas y Territorios Especiales",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11",
+     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido exclusivamente por la Comisión de Zonas Extremas y Territorios Especiales",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-09-02",
+     "descripcion": "Los Senadores señoras Astudillo y Flores, y señores Bianchi, Calisto, Espinoza, Kuschel y Trisotti adhirieron al presente proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "enlaces": {
+    "senado": "https://portallegislativo.senado.cl/proyectos-ley?boletin=18548-11",
+    "camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=18548-11",
+    "mensaje": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19230&tipodoc=mensaje_mocion"
+   },
+   "renovaciones": 0,
+   "cambios_tipo": 0,
+   "urgencias_gobierno": 0,
+   "camara_actual": "Senado",
+   "urgencia_vigente": {
+    "tipo": "",
+    "desde": null,
+    "vence": null,
+    "camara": "",
+    "estado": "sin_dato",
+    "plazo_dias": null
+   },
+   "dias_tramite": 113
   },
   "18554-36": {
    "boletin": "18554-36",
