@@ -305,7 +305,6 @@ Título oficialLey de Patrimonio Cultural
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 12712-24
-Mensaje del Presidente
 17 jun 2019, Cámara
 Suma · Vence en 14 días
 2718 días
@@ -495,7 +494,6 @@ Título oficialEstablece un sistema de subvenciones para la modalidad educativa 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14309-04
-Mensaje del Presidente
 15 jun 2021, Cámara
 Comisión mixta, Senado
 Suma · Vence en 4 días
@@ -593,6 +591,45 @@ Fuentes · consultadas el 11 de noviembre de 2026
 - 7Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-11 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 14767-03
+
+URL: https://urgenciaskast.cl/p/14767-03.html
+
+Urgencias/Boletín 14767-03SumaVence en 15 díasAhora en el Senado
+## Modifica la ley N°17.336, sobre Propiedad Intelectual, con el objeto de regular las medidas tecnológicas de protección
+- 1. Resumen del proyecto
+14767-03
+22 dic 2021, Cámara
+Suma · Vence en 15 días
+1799 días
+Bloque 1
+### Resumen en preparación
+Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
+Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
+¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+Vence en 15 días · 10 dic 2026. La suma corre en el Senado desde el 25 de noviembre de 2026.1
+5urgencias desde marzo de 2026
+3renovaciones
+1cambios de tipo
+25 nov 2026Renueva la suma · Senado15 días
+6 jul 2026Cambia a suma · Cámara15 días
+8 jun 2026Renueva la simple · Cámara30 días
+11 may 2026Renueva la simple · Cámara30 días
+13 abr 2026Pone urgencia simple · Cámara30 días
+- 15 jun 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+- 24 jun 2026 · CámaraDiscusión general. Queda pendiente.La Sala discute la idea de legislar.
+- 7 jul 2026 · CámaraDiscusión general. Aprobado en general y particular a la vez.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 7 jul 2026 · Cámara.
+- 7 jul 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 7 jul 2026 · SenadoCuenta de proyecto. Pasa a Comisión de EconomíaLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 8 sep 2026 · SenadoPrimer informe de comisión de Economía.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 8 sep 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+### Para conducir la discusión de este proyecto
+Fuentes
+- 1Senado, ficha de tramitación del boletín 14767-03Consulta automática. Etapas, trámites y urgencias.
+- 2Cámara de Diputadas y Diputados, tramitación del boletín 14767-03Consulta automática
+- 3Texto del mensaje presidencialDocumento original del proyecto.
+
 ## Boletín 14773-02
 
 URL: https://urgenciaskast.cl/p/14773-02.html
@@ -621,16 +658,17 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/14782-13.html
 
-Urgencias/Boletín 14782-13Discusión inmediataEn espera en la otra cámaraAhora en la Cámara
+Urgencias/Boletín 14782-13Discusión inmediataEn espera en la otra cámaraAhora en la CámaraCitado el 25 nov 2026
 Título oficialEquipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.
 ## Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. La Cámara lo aprobó con cambios y ahora está en tercer trámite en el Senado.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14782-13
-Mensaje del Presidente
 4 ene 2022, Senado
 Tercer trámite, Cámara
 Discusión inmediata · En espera en la otra cámara
+Próxima citación
+25 nov 2026, 16:16 · Sala del Senado
 1786 días
 El mensaje original dice que el Código del Trabajo da sala cuna solo a empresas con 20 o más trabajadoras.1 Dice que esto desincentiva contratar mujeres.1 Cita una brecha de participación laboral de 21,9 puntos entre hombres y mujeres.1
 Permite que todos los trabajadores accedan a sala cuna para sus hijos menores de dos años.2 Crea un Fondo de Sala Cuna, que paga un aporte por cada niño.2 El fondo se financia con una cotización del empleador de 0,30% de las remuneraciones, compensada con una rebaja en el seguro de cesantía.2
@@ -672,9 +710,14 @@ Tercer trámite: la cámara de origen vota los cambios de la otra.
 - 19 nov 2026 · CámaraOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
 - 19 nov 2026 · SenadoCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 - 24 nov 2026 · SenadoDiscusión única. Queda pendiente La Honorable Senadora señora Provoste solicita segunda discusión
+- 25 nov 2026 · 16:16Citado: Sala del Senado, SenadoSegún la citación publicada.
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+4 nov 2026Trabajo y Seguridad SocialTratado en la sesión. Pasa a la Comisión de Hacienda. Se designó como diputado informante al señor José Carlos Meza Pereira. Por parte del Ejecutivo, asistieron: - El señor Ministro del Trabajo y Previsión Social, don Tomás Rau; - El señor Subsecretario del Trabajo, don Gustavo Rosende; - La señora Subsecretaria de Educación Parvularia, doña María Cristina Tupper; y - La señora Subsecretaria de la Mujer y la Equidad de Género, doña Marcia Raphael.
+4 nov 2026Trabajo y Seguridad SocialContinuó su estudio. Se continuó la votación en particular del proyecto de ley en tabla, correspondiente al boletín N° 14.782-13. Por parte del Ejecutivo, asistieron: - El señor Ministro del Trabajo y Previsión Social, don Tomás Rau; - El señor Subsecretario del Trabajo, don Gustavo Rosende; - La señora Subsecretaria de Educación Parvularia, doña María Cristina Tupper; y - La señora Subsecretaria de la Mujer y la Equidad de Género, doña Marcia Raphael. Además, estuvo presente el diputado Mauro González en reemplazo de la diputada Ximena Ossandón.
+3 nov 2026Trabajo y Seguridad SocialContinuó su estudio. Se continuó la votación en particular del proyecto de ley en tabla, correspondiente al boletín N° 14.782-13. Por parte del Ejecutivo, asistieron: - El señor Ministro del Trabajo y Previsión Social, don Tomás Rau; - El señor Subsecretario del Trabajo, don Gustavo Rosende; - La señora Subsecretaria de Educación Parvularia, doña María Cristina Tupper; y - La señora Subsecretaria de la Mujer y la Equidad de Género, doña Marcia Raphael.
+3 nov 2026Trabajo y Seguridad SocialSe inició su estudio. La Comisión inició el estudio y la votación en particular del proyecto de ley en tabla, correspondiente al boletín N° 14.782-13. Para estos efectos, asistieron los siguientes invitados: - El señor Ministro del Trabajo y Previsión Social, don Tomás Rau; - El señor Subsecretario del Trabajo, don Gustavo Rosende; - La señora Subsecretaria de Educación Parvularia, doña María Cristina Tupper; - El señor Subdirector de Racionalización y Función Pública de la Dirección de Presupuestos (DIPRES), don José Ignacio Llodrá; y - La señora Jefa de la Unidad Actuarial de la División de Estudios de la Superintendencia de Pensiones, doña Cristina Melo.
 20 oct 2026Trabajo y Seguridad SocialAprobado en general. Se aprobó en general por unanimidad el proyecto de ley correspondiente al boletín N° 14.782-13. Para estos efectos, la Comisión escuchó las exposiciones del señor Ministro de Trabajo y Previsión Social, don Tomás Rau; de la señora Ministra de la Mujer y Equidad de Género, doña Judith Marín y de la señora Subsecretaria de Educación Parvularia, doña María Cristina Tupper.
 ### Para conducir la discusión de el derecho a sala cuna y su fondo de financiamiento
 Fuentes · consultadas el 20 de noviembre de 2026
@@ -700,7 +743,6 @@ Título oficialRegula el desarrollo de plataformas de apuestas en línea
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14838-03
-Mensaje del Presidente
 7 mar 2022, Cámara
 Suma · Plazo vencido
 Próxima citación
@@ -739,20 +781,41 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/14950-07.html
 
-Urgencias/Boletín 14950-07
+Urgencias/Boletín 14950-07Sin plazo informadoAhora en el SenadoCitado el 25 nov 2026
+Título oficialModifica la ley N° 19.968, que crea los Tribunales de Familia, con el objeto de garantizar el debido proceso en causas relativas a niños, niñas y adolescentes.
 ## Exige que el abogado del niño conozca a fondo el caso y que los peritos acrediten su especialización. La comisión del Senado lo aprobó en general, en primer trámite.
 14950-07
+4 may 2022, Senado
+Primer trámite, Senado
+Próxima citación
+25 nov 2026, 16:16 · Sala del Senado
+1666 días
 La moción dice que en las causas de familia son clave el interés superior del niño y su derecho a ser oído.1 Señala que la ley creó el curador ad litem, el abogado que defiende al niño en el juicio, y los consejeros técnicos.1
 Exige que el curador ad litem conozca a fondo el litigio y el sentir del niño desde que se pide la medida de protección.1 Le permite pedir al juez una o más entrevistas grabadas en video, para evitar que el niño deba repetir su relato.1 Exige que el juez pida al perito acreditar su especialización en asuntos de niños y adolescentes.1
 Modifica los artículos 19 y 64 de la ley 19.968, de tribunales de familia.1 El proyecto se tramita refundido con el boletín 14982-07, sobre peritaje judicial.42
 Afecta a los niños, niñas y adolescentes en causas de familia, a sus curadores ad litem, a los peritos y a los jueces.12
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4
 El proyecto ingresó el 4 de mayo de 2022 y en 2023 se radicó en la Comisión de Familia, Infancia y Adolescencia del Senado.4 La Corte Suprema informó el proyecto refundido sobre peritaje judicial en junio de 2022.32 El 10 de junio de 2026 la comisión lo aprobó solo en general, por 4 votos a favor y 1 en contra. Sigue en primer trámite en el Senado.24
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
+5
+0urgencias desde marzo de 2026
+- 4 may 2022 · SenadoCuenta de proyecto. Pasa a Comisión Comisión especial encargada de tramitar proyectos de ley relacionados con los niños, niñas yLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 31 may 2022 · SenadoLa Sala acuerda refundir los proyectos de ley correspondientes a los boletines N° 14.950-07 y N° 14.982-07.
+- 28 jun 2022 · SenadoComunicación de la Honorable Senadora señora Rincón, por medio de la cual retira su firma del proyecto de ley.
+- 28 jun 2022 · SenadoCuenta oficio N° 25-2022 de la Corte Suprema
+- 3 oct 2023 · SenadoPor acuerdo de Comités, el proyecto será analizado por la Comisión de Familia, Infancia y Adolescencia, en lugar de la Comisión especial encargada de tramitar proyectos relacionados con los niños, niñas y adolescentes
+- 10 jun 2026 · SenadoPrimer informe de comisión de Familia, Infancia y Adolescencia..La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 17 jun 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+- 6 oct 2026 · SenadoDiscusión general. Queda pendiente Se solicita segunda discusión, quedando terminada la primera.La Sala discute la idea de legislar.
+- 25 nov 2026 · 16:16Citado: Sala del Senado, SenadoSegún la citación publicada.
 ### Para conducir la discusión de el debido proceso en causas de niños y adolescentes
 - 1Moción: Modifica la ley N° 19.968, que crea los Tribunales de Familia, con el objeto de garantizar el debido proceso en causas relativas a niños, niñas y adolescentes.2022-05-04. Texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Familia, Infancia y Adolescencia. · Primer trámite constitucional2026-06-10. Primer informe de comisión (proyectos refundidos).
 - 3Oficio N° 25-20222022-06-28. Informe de la Corte Suprema.
 - 4Tramitación del boletín 14950-07 (servicio web público del Senado)2026-11-13. Etapa y trámites.
+- 5Senado, ficha de tramitación del boletín 14950-07Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 14950-07Consulta automática
+- 7Texto del proyecto (moción)Documento original del proyecto.
 Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con lista de verificación.
 
 ## Boletín 15047-11
@@ -933,7 +996,8 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/15589-07.html
 
-Urgencias/Boletín 15589-07
+Urgencias/Boletín 15589-07SimpleVence en 15 díasAhora en el Senado
+Título oficialModifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad
 ## Endurece las sanciones a adolescentes por delitos graves y crea un listado de conductas violentas con penas más severas. El Senado lo aprobó en general; su comisión lo revisa en particular.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
@@ -942,7 +1006,11 @@ Antes de leer
 Las ciencias sociales estudian cómo actúan las personas, los grupos y las instituciones. Son aplicadas cuando usan esos conocimientos para responder una pregunta práctica con un método que cualquiera puede revisar. Aquí la pregunta es simple: qué propone este proyecto, quién se ha pronunciado sobre él y cómo se discute en público.
 - 2. Qué han dicho las organizaciones
 - 3. Cómo se habla del proyecto
+- 4. Urgencia y tramitación
 15589-07
+14 dic 2022, Cámara
+Simple · Vence en 15 días
+1442 días
 Análisis ampliado
 Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:
 - Qué han dicho las organizaciones: en la prensa revisada no encontramos declaraciones públicas de organizaciones sobre este proyecto, y lo registramos así.
@@ -980,6 +1048,37 @@ Penas más duras, un listado de delitos violentos y separar a los jóvenes mayor
 Palabras que usa
 permisivoendurecimientocontaminación criminológicareinserciónseguridad
 Para disputar este debate con palabras propias, Lo Común hace el análisis completo del campo discursivo, define la idea central con una ficha de significante y prepara respuestas a los ataques previsibles.
+Bloque 4 · Hecho
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 15 días · 10 dic 2026. La simple corre en el Senado desde el 10 de noviembre de 2026.3
+17urgencias desde marzo de 2026
+10renovaciones
+6cambios de tipo
+10 nov 2026Cambia a simple · Senado30 días
+20 oct 2026Renueva la suma · Senado15 días
+6 oct 2026Renueva la suma · Senado15 días
+22 sep 2026Renueva la suma · Senado15 días
+8 sep 2026Renueva la suma · Senado15 días
+1 sep 2026Renueva la suma · Senado15 días
+18 ago 2026Cambia a suma · Senado15 días
+11 ago 2026Renueva la discusión inmediata · Senado6 días
+4 ago 2026Renueva la discusión inmediata · Senado6 días
+21 jul 2026Cambia a discusión inmediata · Senado6 días
+24 jun 2026Cambia a suma · Senado15 días
+23 jun 2026Renueva la simple · Senado30 días
+2 jun 2026Renueva la simple · Senado30 días
+5 may 2026Cambia a simple · Senado30 días
+21 abr 2026Renueva la suma · Senado15 días
+7 abr 2026Cambia a suma · Senado15 días
+24 mar 2026Pone urgencia simple · Senado30 días
+- 8 jul 2026 · SenadoLa Sala acuerda ampliar el plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 20 de julio de 2026, en la Secretaría del SenadoSe abre un plazo para proponer cambios al texto.
+- 20 jul 2026 · SenadoBoletín de indicaciones.
+- 20 jul 2026 · SenadoOficio N°. Informe Financiero
+- 22 jul 2026 · SenadoLa Sala acuerda abrir un nuevo plazo para presentar indicaciones a este proyecto de ley hasta la medianoche del día de hoy, en la Secretaría de la Comisión de Constitución, Legislación, Justicia y ReglamentoSe abre un plazo para proponer cambios al texto.
+- 24 nov 2026 · SenadoLa Sala acuerda abrir un nuevo plazo para presentar indicaciones al presente proyecto de ley por cinco minutos, en la Comisión de Constitución, Legislación, Justicia y ReglamentoSe abre un plazo para proponer cambios al texto.
+- 24 nov 2026 · SenadoSegundo informe de comisión de Constitución, Legislación, Justicia y Reglamento.La comisión revisó las indicaciones y entrega su segundo informe.
+- 24 nov 2026 · SenadoCuenta de segundo informe de comisión.La Sala recibe el informe de la comisión.
+- 24 nov 2026 · SenadoDiscusión particular. Queda pendiente La Honorable Senadora señora Pascual solicita segunda discusiónLa Sala vota el texto artículo por artículo.
 ### Para conducir la discusión de la reforma de la ley de responsabilidad penal adolescente
 - 1BioBioChile, «Senado aprueba en general proyecto que endurece penas de la Ley de Responsabilidad Adolescente»7 de julio de 2026. Votación en general, contenido de la moción y de las indicaciones anunciadas.
 - 2Emol, nota sobre la aprobación en general en el Senado8 de julio de 2026. Votación e indicaciones del gobierno.
@@ -989,6 +1088,8 @@ Para disputar este debate con palabras propias, Lo Común hace el análisis comp
 - 6Cámara de Diputados, oficio N° 20.804 con el texto aprobado17 de septiembre de 2025. Texto que la Cámara envió al Senado.
 - 7Informe financiero complementario N° 171, Dirección de Presupuestos20 de julio de 2026. Efecto de las indicaciones del Ejecutivo.
 - 8Senado, tramitación oficial del boletín 15589-0712 de noviembre de 2026. Etapas y urgencias.
+- 9Cámara de Diputadas y Diputados, tramitación del boletín 15589-07Consulta automática
+- 10Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 15767-29
@@ -1266,7 +1367,6 @@ Título oficialCrea el Subsistema de Inteligencia Económica y establece otras m
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 15975-25
-Mensaje del Presidente
 31 may 2023, Senado
 Comisión mixta, Senado
 Suma · Plazo vencido
@@ -1321,7 +1421,6 @@ Título oficialPara la protección de la infraestructura crítica del país
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16143-02
-Mensaje del Presidente
 2 ago 2023, Senado
 Primer trámite, Senado
 Suma · Vence en 14 días
@@ -1446,7 +1545,6 @@ Urgencias/Boletín 16286-07SumaVence en 14 díasAhora en el Senado
 ## Modifica la ley N° 19.968, que crea los Tribunales de Familia, y otros cuerpos legales, adecuándolos a la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y adolescencia, y deroga la ley N° 16.618, Ley de Menores
 - 1. Resumen del proyecto
 16286-07
-Mensaje del Presidente
 15 sep 2023, Senado
 Primer trámite, Senado
 Suma · Vence en 14 días
@@ -1534,17 +1632,38 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/16335-14.html
 
-Urgencias/Boletín 16335-14
+Urgencias/Boletín 16335-14Discusión inmediataVotación terminadaAhora en la Cámara
+Título oficialRegula la prevención y mitigación de incendios forestales, y otras materias que indica
 ## Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara y el Senado aprobaron el informe de la comisión mixta.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16335-14
+3 oct 2023, Cámara
+Trámite de finalización, Cámara
+Discusión inmediata · Votación terminada
+1149 días
 El mensaje dice que los megaincendios serán cada vez más frecuentes.1 Dice que la ley actual solo exige medidas de gestión forestal ante una corta de bosque, lo que deja un vacío en la prevención.1
 Busca crear nuevos instrumentos, y fortalecer los existentes, para reducir el riesgo de incendios forestales y rurales.1 Incorpora las zonas de interfaz urbano rural forestal en los planes reguladores, con medidas para manejar el paisaje.1
 El mensaje original tenía 39 artículos permanentes y 7 transitorios.1 La comisión mixta propuso cómo resolver las diferencias entre ambas cámaras sobre el texto.2
 Afecta a los planes reguladores y a las zonas de interfaz urbano rural forestal.1
 Un informe de la Comisión de Hacienda recoge un mayor gasto de $796.366 miles el primer año y de $607.334 miles en régimen, en pesos de 2023.5 Según el informe N° 288, las indicaciones de 2024 no irrogan mayor gasto.6
 La comisión mixta entregó su informe el 21 de octubre de 2026.4 La Cámara lo aprobó el 3 de noviembre, salvo el artículo 47 y el número 4 del artículo 48, que no alcanzaron el quórum.3 El Senado lo aprobó el 11 de noviembre y lo comunicó a la Cámara de origen.4
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene discusión inmediata, la más corta.
+El Congreso terminó de votar este proyecto. Está en el Trámite de finalización, por lo que la urgencia ya no fija plazos.7
+3urgencias desde marzo de 2026
+2renovaciones
+10 nov 2026Renueva la discusión inmediata · Senado6 días
+3 nov 2026Renueva la discusión inmediata · Cámara6 días
+28 oct 2026Pone urgencia discusión inmediata · Cámara6 días
+Trámite de finalización: el Congreso terminó de votarlo.
+- 26 oct 2026 · CámaraCuenta informe Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 3 nov 2026 · CámaraDiscusión informe de Comisión Mixta. Aprobado.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 3 nov 2026 · CámaraOficio aprobación de informe de Comisión Mixta a C. Revisora.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 10 nov 2026 · SenadoCuenta oficio aprobación de informe de Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 10 nov 2026 · SenadoDiscusión informe de Comisión Mixta. Queda pendiente Se solicita aplazamiento de la votaciónUna comisión con integrantes de ambas cámaras busca un acuerdo.
+- 11 nov 2026 · SenadoDiscusión informe de Comisión Mixta. AprobadoUna comisión con integrantes de ambas cámaras busca un acuerdo.
+- 11 nov 2026 · SenadoOficio aprobación de informe de Comisión Mixta a C.de Origen.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 12 nov 2026 · CámaraCuenta oficio aprobación de informe de Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 ### Para conducir la discusión de la prevención y mitigación de incendios forestales
 - 1Cámara, mensaje del boletín 16.335-14 (texto del proyecto, 2023)2023-10-03. Antecedentes y contenido.
 - 2Informe de la Comisión Mixta (21 de octubre de 2026)2026-10-21. Proposición para resolver diferencias entre ambas cámaras.
@@ -1552,6 +1671,9 @@ La comisión mixta entregó su informe el 21 de octubre de 2026.4 La Cámara lo 
 - 4Senado, tramitación del boletín 16.335-142026-11-10. Etapa y urgencias.
 - 5Senado, informe de la Comisión de Hacienda, segundo trámite (informe financiero citado, 29 de enero de 2024)2024-01-29. Gasto fiscal estimado.
 - 6Informe financiero complementario N° 288 (28 de octubre de 2024)2024-10-28. Indicaciones sin mayor gasto.
+- 7Senado, ficha de tramitación del boletín 16335-14Consulta automática. Etapas, trámites y urgencias.
+- 8Cámara de Diputadas y Diputados, tramitación del boletín 16335-14Consulta automática
+- 9Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16391-01
@@ -1567,23 +1689,57 @@ Ver los proyectos con urgencia
 
 URL: https://urgenciaskast.cl/p/16397-15.html
 
-Urgencias/Boletín 16397-15
+Urgencias/Boletín 16397-15SimpleVence en 7 díasAhora en la Cámara
+Título oficialModifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros
 ## Sube la multa y la suspensión de licencia por no usar sistemas de retención infantil o llevar a menores de 12 años en el asiento delantero. Tiene urgencia simple y espera su votación en particular en la Cámara.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16397-15
+31 oct 2023, Cámara
+Primer trámite, Cámara
+Simple · Vence en 7 días
+1121 días
 La moción dice que los accidentes de tránsito han aumentado y que Chile tiene las peores cifras de seguridad vial entre los países de la OCDE.1 Indica que hoy los menores de 8 años deben viajar en sistemas de retención, y los menores de 12 no pueden ir adelante.1
 La moción propone subir las sanciones por incumplir esas reglas, hoy castigadas como infracción gravísima.3 Hoy la multa va de 1,5 a 3 unidades tributarias mensuales y la licencia se suspende de 5 a 45 días.3
 El texto aprobado en el segundo informe fija una multa de 2 a 5 unidades tributarias mensuales.2 Ese texto sube el mínimo de la suspensión de la licencia a 20 días, con un máximo de 45.2 Modifica los artículos 204 y 207 de la ley de Tránsito.2
 Afecta a conductores que llevan niños en sus vehículos.2
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5 La comisión dejó constancia de que el proyecto no requiere pasar por la Comisión de Hacienda.2
 El 19 de agosto de 2026, la Sala de la Cámara aprobó el proyecto en general, con 123 votos a favor.4 El 4 de noviembre de 2026, la Comisión de Obras Públicas, Transportes y Telecomunicaciones entregó su segundo informe, con indicaciones aprobadas por unanimidad.2 El proyecto tiene urgencia simple y está en primer trámite en la Cámara, en discusión particular.5
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 7 días · 2 dic 2026. La simple corre en la Cámara desde el 2 de noviembre de 2026.6
+9urgencias desde marzo de 2026
+8renovaciones
+2 nov 2026Renueva la simple · Cámara30 días
+5 oct 2026Renueva la simple · Cámara30 días
+7 sep 2026Renueva la simple · Cámara30 días
+17 ago 2026Renueva la simple · Cámara30 días
+20 jul 2026Renueva la simple · Cámara30 días
+22 jun 2026Renueva la simple · Cámara30 días
+2 jun 2026Renueva la simple · Cámara30 días
+4 may 2026Renueva la simple · Cámara30 días
+8 abr 2026Pone urgencia simple · Cámara30 días
+- 6 nov 2023 · CámaraCuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y TelecomunicacionesLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 23 jul 2026 · CámaraPrimer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 3 ago 2026 · CámaraCuenta de primer informe de comisión. Queda para tabla.La Sala recibe el informe de la comisión.
+- 11 ago 2026 · CámaraDiscusión pendiente.
+- 19 ago 2026 · CámaraDiscusión general. Aprobado en general.La Sala aprueba la idea de legislar.
+- 19 ago 2026 · CámaraOficio N° 2152. Remite las indicaciones presentadas durante la discusión general en Sala.La Sala discute la idea de legislar.
+- 4 nov 2026 · CámaraSegundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones.La comisión revisó las indicaciones y entrega su segundo informe.
+- 9 nov 2026 · CámaraCuenta de segundo informe de comisión.La Sala recibe el informe de la comisión.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+3 nov 2026Obras Públicas, Transportes y TelecomunicacionesDespachado por la comisión. Se despacha a Sala. Se designó diputado informante el señor Cristian Menchaca.
+20 oct 2026Obras Públicas, Transportes y TelecomunicacionesTratado en la sesión. Se encuentra invitado el Diputado Benjamín Moreno Bascur. Pendiente.
 ### Para conducir la discusión de las sanciones por no usar sillas de retención infantil
 - 1Moción: Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros2023-10-31. Fundamentos de la moción.
 - 2Informe de comisión · Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Segundo trámite constitucional2026-11-04. Segundo informe de comisión, con el texto aprobado.
 - 3Informe de comisión · Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Primer trámite constitucional2026-07-23. Primer informe de comisión.
 - 4Oficio N° 2152: Remite las indicaciones presentadas durante la discusión general en Sala.2026-08-19. Votación en general en Sala.
 - 5Tramitación del boletín 16397-15 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
+- 6Senado, ficha de tramitación del boletín 16397-15Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 16397-15Consulta automática
+- 8Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16552-12
@@ -1596,7 +1752,6 @@ Título oficialModifica diversos cuerpos legales, con el objeto de fortalecer la
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16552-12
-Mensaje del Presidente
 10 ene 2024, Senado
 Segundo trámite, Cámara
 Suma · Vence en 14 días
@@ -1658,7 +1813,6 @@ Título oficialFortalece y mejora la eficacia de la fiscalización y el cumplimi
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16553-12
-Mensaje del Presidente
 10 ene 2024, Cámara
 Suma · Vence en 14 días
 1050 días
@@ -1792,6 +1946,7 @@ Vence en 30 días · 25 dic 2026. La simple corre en la Cámara desde el 25 de n
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+3 nov 2026SaludDespachado por la comisión. La Comisión escuchó la opinión del Ejecutvo en relación a las indicaciones presentadas al proyecto en tabla. Expuso el señor René Guzmán Montes, jefe del Depto de Ciclo Vital, de la División de Prevención y Control de Enfermedades - Diprece, Subsecretaría de Salud Pública, quien participa junto a la señora Camila Skewes Letelier, profesional de la Oficina Nacional de Salud de la Mujer, Departamento de Ciclo Vital, Diprece, Subsecretaría de Salud Pública; señor Benjamín Rug Foster, coordinador legislativo y señor Mirko Slako Martínez, asesor legislativo. La Comisión procedió a la votación del proyecto y fue despachado a la Sala. Se designó como diputado informante al señor Daniel Lilayu Vivanco.
 20 oct 2026SaludQuedó pendiente. Pendiente.
 ### Para conducir la discusión de la información y educación sobre la infertilidad
 - 1Moción: Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad2024-04-03. Fundamentos de la moción.
@@ -1937,17 +2092,44 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/16777-07.html
 
-Urgencias/Boletín 16777-07
+Urgencias/Boletín 16777-07SumaEn espera en la otra cámaraAhora en el Senado
+Título oficialModifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales
 ## Castiga con presidio la introducción ilícita al país de plagas vegetales o enfermedades animales. La Cámara lo aprobó con cambios y el Senado lo revisa en tercer trámite, con urgencia suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16777-07
+23 abr 2024, Senado
+Trámite de aprobacion presidencial (Senado), Senado
+Suma · En espera en la otra cámara
+946 días
 Chile está declarado libre de mosca de la fruta desde 1995, lo que ayuda a sus exportaciones de frutas y verduras.1 La moción dice que hoy no se sanciona la introducción de plagas al territorio nacional.1
 El texto del Senado castiga con presidio a quien introduzca una plaga o enfermedad animal con carga o mercancías destinadas a la venta.4 La Cámara cambió esa regla: castiga introducir la plaga a propósito, aunque no llegue a propagarse.2
 Obliga a subir en un grado la pena cuando la propagación nace de una introducción ilícita.2 Permite decomisar los medios de transporte usados, salvo los de terceros de buena fe.2
 Afecta a quienes traigan al país animales, vegetales o carga con plagas o enfermedades.2 Si la introducción es por negligencia inexcusable, la pena baja a presidio en grado mínimo o multa de 20 unidades tributarias mensuales.2 El Servicio Agrícola y Ganadero conserva sus facultades.2
 Es una moción parlamentaria.1 El informe financiero complementario dice que las indicaciones del Presidente no inciden en el presupuesto fiscal.3 El Ministerio de Agricultura dijo en la comisión que dar más atribuciones al Servicio Agrícola y Ganadero subiría el gasto fiscal.5
 El proyecto está en tercer trámite en el Senado, con urgencia suma.6 El 26 de octubre la Cámara lo aprobó con modificaciones.6 El 27 de octubre el Senado dio cuenta de esas modificaciones y el proyecto quedó para tabla.6
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 19 de octubre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.7
+9urgencias desde marzo de 2026
+7renovaciones
+1cambios de tipo
+19 oct 2026Renueva la suma · Cámara15 días
+5 oct 2026Cambia a suma · Cámara15 días
+7 sep 2026Renueva la simple · Cámara30 días
+10 ago 2026Renueva la simple · Cámara30 días
+13 jul 2026Renueva la simple · Cámara30 días
+15 jun 2026Renueva la simple · Cámara30 días
+20 may 2026Renueva la simple · Cámara30 días
+22 abr 2026Renueva la simple · Cámara30 días
+24 mar 2026Pone urgencia simple · Senado30 días
+Trámite de aprobacion presidencial (Senado)
+- 26 oct 2026 · SenadoDiscusión particular. AprobadoLa Sala vota el texto artículo por artículo.
+- 26 oct 2026 · CámaraDiscusión particular. Aprobado con modificacionesLa Sala vota el texto artículo por artículo.
+- 26 oct 2026 · CámaraOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
+- 27 oct 2026 · SenadoCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
+- 24 nov 2026 · SenadoDiscusión única. Aprobadas las modificaciones
+- 24 nov 2026 · SenadoOficio N° 382-26, que comunica aprobacion de modificaciones
+- 24 nov 2026 · SenadoOficio de ley al Ejecutivo.
+- 25 nov 2026 · CámaraCuenta oficio N? 382-26, que comunica aprobacion de modificaciones
 ### Para conducir la discusión de la introducción de plagas y enfermedades animales
 - 1Moción: Modifica el Código Penal en materia de internación de enfermedades animales o plagas vegetales23 de abril de 2024. Fundamentos y texto original.
 - 2Oficio N° 21.687 de la Cámara de Diputados con las modificaciones al proyecto26 de octubre de 2026. Enmiendas de la Cámara en segundo trámite.
@@ -1955,6 +2137,9 @@ El proyecto está en tercer trámite en el Senado, con urgencia suma.6 El 26 de 
 - 4Oficio N° 87/SEC/26 del Senado con el texto aprobado en primer trámite24 de marzo de 2026. Texto que el Senado envió a la Cámara.
 - 5Informe de la Comisión de Seguridad Pública del Senado, primer trámite3 de noviembre de 2025. Pasajes sobre costo fiscal.
 - 6Senado, tramitación del boletín 16777-07 (servicio web público)12 de noviembre de 2026. Etapa, urgencia y trámites.
+- 7Senado, ficha de tramitación del boletín 16777-07Consulta automática. Etapas, trámites y urgencias.
+- 8Cámara de Diputadas y Diputados, tramitación del boletín 16777-07Consulta automática
+- 9Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16836-06
@@ -2637,7 +2822,6 @@ Título oficialOptimiza el mecanismo de sustentabilidad del Fondo para Diagnóst
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17567-11
-Mensaje del Presidente
 2 jun 2025, Cámara
 Suma · Plazo vencido
 541 días
@@ -2726,7 +2910,6 @@ Título oficialModifica el decreto ley N° 3.500, de 1980, en materia de seguro 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17628-13
-Mensaje del Presidente
 24 jun 2025, Senado
 Primer trámite, Senado
 Suma · Vence en 14 días
@@ -3135,7 +3318,6 @@ Título oficialModifica la ley N° 20.998, con el propósito de modernizar y for
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17877-33
-Mensaje del Presidente
 1 oct 2025, Senado
 Primer trámite, Senado
 Simple · Vence en 29 días
@@ -3329,23 +3511,48 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/17981-35.html
 
-Urgencias/Boletín 17981-35
+Urgencias/Boletín 17981-35SimpleEn espera en la otra cámaraAhora en el Senado
+Título oficialModifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito deportivo
 ## Exige dar un trato equivalente a todas las personas con discapacidad en el deporte, sea física, mental o sensorial. El Senado lo aprobó. Está en segundo trámite en la Cámara, con urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17981-35
+24 nov 2025, Senado
+Tercer trámite, Senado
+Simple · En espera en la otra cámara
+366 días
 La moción dice que la ley del Deporte no menciona de manera específica la discapacidad cognitiva.1 Señala que ese concepto solo se puede deducir de la ley 20.422, de inclusión social de personas con discapacidad.1
 La moción propone agregar la frase «tanto física como cognitiva» en varios artículos de la ley del Deporte.1 El texto aprobado por el Senado exige dar un trato equivalente a todas las personas con discapacidad, sea física, mental o sensorial.3
 Agrega un inciso tercero nuevo al artículo 2 de la ley 19.712, del Deporte.3 El proyecto se tramita refundido con el boletín 18176-35, por acuerdo del Senado del 21 de abril de 2026.52
 Afecta a las personas con discapacidad que practican deporte y a los organismos del sistema deportivo.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5 En la comisión de la Cámara se dijo que una obligación de información no genera necesariamente gasto fiscal.4
 El Senado aprobó el proyecto el 9 de junio de 2026, en general y en particular a la vez.53 El 11 de agosto de 2026, la Comisión de Personas Mayores y Discapacidad de la Cámara entregó su informe, con indicaciones aprobadas por unanimidad.24 El proyecto tiene urgencia simple y está en segundo trámite en la Cámara.5
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 25 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.6
+4urgencias desde marzo de 2026
+3renovaciones
+25 nov 2026Renueva la simple · Cámara30 días
+26 oct 2026Renueva la simple · Cámara30 días
+23 sep 2026Renueva la simple · Cámara30 días
+13 jul 2026Pone urgencia simple · Cámara30 días
+Tercer trámite: la cámara de origen vota los cambios de la otra.
+- 9 jun 2026 · SenadoOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 10 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Personas Mayores y DiscapacidadLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 11 ago 2026 · CámaraPrimer informe de comisión de Personas Mayores y Discapacidad.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 17 ago 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+- 17 ago 2026 · CámaraCuenta de primer informe de comisión. Queda para tabla.La Sala recibe el informe de la comisión.
+- 25 nov 2026 · CámaraDiscusión general. Aprobado en general y particular con modificaciones.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 25 nov 2026 · CámaraOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
+- 25 nov 2026 · SenadoCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 ### Para conducir la discusión de el concepto de discapacidad en el deporte
 - 1Moción: Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito deportivo2025-11-24. Texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Personas Mayores y Discapacidad · Segundo trámite constitucional2026-08-11. Primer informe de la comisión de la Cámara.
 - 3Oficio N° 1892026-06-09. Texto aprobado por el Senado.
 - 4Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Personas Mayores y Discapacidad · Segundo trámite constitucional2026-08-11. Pasajes del informe de la Cámara.
 - 5Tramitación del boletín 17981-35 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
+- 6Senado, ficha de tramitación del boletín 17981-35Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 17981-35Consulta automática
+- 8Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17999-07
@@ -3427,7 +3634,6 @@ Título oficialEstablece el reconocimiento, calificación y reparación, cuando 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18029-17
-Mensaje del Presidente
 24 dic 2025, Senado
 Primer trámite, Senado
 Suma · Vence en 14 días
@@ -3475,7 +3681,6 @@ Urgencias/Boletín 18072-02SumaVence en 14 díasAhora en el Senado
 ## Modifica la ley orgánica de la Dirección General del Territorio Marítimo y de Marina Mercante restituyendo la denominación Gobernación Marítima de Chiloé
 - 1. Resumen del proyecto
 18072-02
-Mensaje del Presidente
 23 ene 2026, Senado
 Primer trámite, Senado
 Suma · Vence en 14 días
@@ -3662,23 +3867,48 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18176-35.html
 
-Urgencias/Boletín 18176-35
+Urgencias/Boletín 18176-35SimpleEn espera en la otra cámaraAhora en el Senado
+Título oficialModifica la ley N° 19.712, del Deporte, con el objeto de promover la inclusión de personas con discapacidad en las actividades deportivas.
 ## Busca promover el deporte entre las personas con discapacidad y precisar sus tipos en la ley del Deporte. Se tramita refundido con otra moción y está en segundo trámite en la Cámara.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18176-35
+14 abr 2026, Senado
+Tercer trámite, Senado
+Simple · En espera en la otra cámara
+225 días
 La moción dice que no se ha logrado masificar la actividad deportiva entre las personas con discapacidad.1 Señala que algunos tipos de discapacidad quedan invisibilizados, en especial la intelectual.1 Agrega que falta información sobre los planes, programas e instalaciones disponibles para ellas.1
 Propone precisar en la ley del Deporte que la discapacidad puede ser física, mental o sensorial, según la ley 20.422.1 Propone definir el deporte inclusivo y mejorar la información sobre los programas de deporte adaptado y paralímpico.1 El texto aprobado por el Senado exige dar un trato equivalente a todas las personas con discapacidad, sea física, mental o sensorial.3
 Agrega un inciso tercero nuevo al artículo 2 de la ley 19.712, del Deporte.3 El proyecto se tramita refundido con el boletín 17981-35, por acuerdo del Senado del 21 de abril de 2026.52
 Afecta a las personas con discapacidad que practican deporte, a sus familias y a los organismos del sistema deportivo.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5 En la comisión de la Cámara se dijo que una obligación de información no genera necesariamente gasto fiscal.4
 El Senado aprobó el proyecto refundido el 9 de junio de 2026, en general y en particular a la vez.53 El 11 de agosto de 2026, la Comisión de Personas Mayores y Discapacidad de la Cámara entregó su informe.25 El proyecto tiene urgencia simple y está en segundo trámite en la Cámara.5
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 25 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.6
+4urgencias desde marzo de 2026
+3renovaciones
+25 nov 2026Renueva la simple · Cámara30 días
+26 oct 2026Renueva la simple · Cámara30 días
+23 sep 2026Renueva la simple · Cámara30 días
+13 jul 2026Pone urgencia simple · Cámara30 días
+Tercer trámite: la cámara de origen vota los cambios de la otra.
+- 9 jun 2026 · SenadoOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 10 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Deportes y RecreaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 10 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Personas Mayores y DiscapacidadLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 11 ago 2026 · CámaraPrimer informe de comisión de Personas Mayores y Discapacidad.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 17 ago 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+- 25 nov 2026 · CámaraDiscusión general. Aprobado en general y particular con modificacionesLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 25 nov 2026 · CámaraOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
+- 25 nov 2026 · SenadoCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 ### Para conducir la discusión de la inclusión de personas con discapacidad en el deporte
 - 1Moción: Modifica la ley N° 19.712, del Deporte, con el objeto de promover la inclusión de personas con discapacidad en las actividades deportivas.2026-04-14. Texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Personas Mayores y Discapacidad · Segundo trámite constitucional2026-08-11. Primer informe de la comisión de la Cámara.
 - 3Oficio N° 1892026-06-09. Texto aprobado por el Senado.
 - 4Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Personas Mayores y Discapacidad · Segundo trámite constitucional2026-08-11. Pasajes del informe de la Cámara.
 - 5Tramitación del boletín 18176-35 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
+- 6Senado, ficha de tramitación del boletín 18176-35Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 18176-35Consulta automática
+- 8Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18189-14
@@ -3783,23 +4013,69 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18208-25.html
 
-Urgencias/Boletín 18208-25
+Urgencias/Boletín 18208-25SimpleVence en 21 díasAhora en la Cámara
+Título oficialModifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado
 ## Permite que el juicio oral penal siga y termine con sentencia aunque el acusado no comparezca sin justificación. El Senado lo aprobó y está en segundo trámite en la Cámara, con urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18208-25
+20 abr 2026, Senado
+Segundo trámite, Cámara
+Simple · Vence en 21 días
+219 días
 El mensaje dice que hoy, si el acusado no llega y es declarado rebelde, el tribunal debe suspender el caso.1 Afirma que eso paraliza el proceso sin límite y deja a las víctimas sin sentencia.1
 El texto del Senado permite que el tribunal haga el juicio sin el acusado, de oficio o a petición de parte.3 Esto exige que la pena pedida no pase de veinte años y que el acusado tenga defensa.3 Se debe advertir al acusado que, si no comparece, el juicio puede hacerse sin él.3
 Modifica el Código Procesal Penal, entre otros sus artículos 101, 252 y 285.3 Agrega un artículo 285 bis sobre el juicio en ausencia.3
 Afecta a acusados que no comparecen, a sus defensas y a las víctimas.13
 No hay informe financiero entre los documentos revisados. La comisión de la Cámara dejó constancia de que ninguna norma es de competencia de Hacienda.2
 El Senado aprobó el proyecto y lo envió a la Cámara el 29 de septiembre de 2026.34 La Comisión de Seguridad Ciudadana de la Cámara lo aprobó en general por mayoría, sin votos en contra.2 El 16 de noviembre de 2026 el Ejecutivo retiró la urgencia suma y presentó urgencia simple.4
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 21 días · 16 dic 2026. La simple corre en la Cámara desde el 16 de noviembre de 2026.5
+17urgencias desde marzo de 2026
+12renovaciones
+4cambios de tipo
+16 nov 2026Cambia a simple · Cámara30 días
+2 nov 2026Renueva la suma · Cámara15 días
+19 oct 2026Renueva la suma · Cámara15 días
+5 oct 2026Cambia a suma · Cámara15 días
+29 sep 2026Cambia a discusión inmediata · Senado6 días
+23 sep 2026Renueva la suma · Senado15 días
+8 sep 2026Renueva la suma · Senado15 días
+18 ago 2026Renueva la suma · Senado15 días
+4 ago 2026Renueva la suma · Senado15 días
+21 jul 2026Renueva la suma · Senado15 días
+7 jul 2026Renueva la suma · Senado15 días
+23 jun 2026Renueva la suma · Senado15 días
+16 jun 2026Renueva la suma · Senado15 días
+2 jun 2026Renueva la suma · Senado15 días
+20 may 2026Renueva la suma · Senado15 días
+5 may 2026Cambia a suma · Senado15 días
+21 abr 2026Pone urgencia simple · Senado30 días
+- 23 sep 2026 · SenadoDiscusión general. Queda pendienteLa Sala discute la idea de legislar.
+- 29 sep 2026 · SenadoDiscusión general. Aprobado en general y particular a la vezLa Sala aprueba la idea de legislar y el texto completo en una sola votación.
+- 29 sep 2026 · SenadoOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 30 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Seguridad CiudadanaLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 9 nov 2026 · CámaraPrimer informe de comisión de Seguridad Ciudadana.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 9 nov 2026 · CámaraCuenta de primer informe de comisión. Queda para tabla.La Sala recibe el informe de la comisión.
+- 12 nov 2026 · CámaraCuenta, oficio N° 313-2026 de la Corte Suprema, mediante el cual remite opinión sobre el proyecto (informe N° 51-2026)
+- 18 nov 2026 · CámaraCuenta, oficio de la Comisión de Constitución, Legislación, Justicia y Reglamento por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. (53/3/2026). RECHAZADO.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+9 nov 2026Seguridad CiudadanaDespachado por la comisión. La Comisión continuó con la votación de este proyecto de ley, con la participación del Ministro de Justicia y Derechos Humanos, y del Fiscal Nacional del Ministerio Público. Se despachó el proyecto. Se designó informante a la diputada Gloria Naveillán. La Comisión acordó calificar toda la iniciativa como normas de quórum simple.
+4 nov 2026Seguridad CiudadanaDespachado por la comisión. NOTA: En virtud de lo dispuesto en el artículo 210 del Reglamento de la Corporación se requiere unanimidad para reabrir el debate sobre alguna disposición de un proyecto despachado, siempre que no se hubiere dado cuenta del informe respectivo a la Cámara o a otra comisión. No hubo acuerdo unánime para reabrir el debate del proyecto, por lo que éste fue despachado a Sala en los términos anteriormente acordados.
+2 nov 2026Seguridad CiudadanaContinuó su estudio. La Comisión continuó con la votación particular del boletín N° 18.208-25, con la participación del Ministro de Justicia y Derechos Humanos y el Fiscal Nacional del Ministerio Público.
+21 oct 2026Seguridad CiudadanaContinuó su estudio. Se escuchó la exposición del Ministro de Justicia y Derechos Humanos, señor Fernando Rabat Celis; del asesor legislativo de la Defensoría Penal Pública, don Leonardo Moreno Holman y del director de la Unidad Especializada de Crimen Organizado y Drogas del Ministerio Público, don Ignacio Castillo Val.
+20 oct 2026Seguridad CiudadanaSe inició su estudio. Se inició la discusión general del proyecto. Se escuchó la exposición del Ministro de justicia, de la Defensora Penal de la Defensoría Penal Pública, señora Verónica Encina y de Ignacio Castillo, representante del Ministerio Público
 ### Para conducir la discusión de el juicio oral cuando el acusado no comparece
 Fuentes · consultadas el 17 de noviembre de 2026
 - 1Senado, mensaje del boletín 18.208-25 (texto del proyecto)2026-04-20. Fundamentos del proyecto.
 - 2Cámara, informe de la Comisión de Seguridad Ciudadana (9 de noviembre de 2026)2026-11-09. Votación en general y competencia de Hacienda.
 - 3Oficio 304/SEC/26 del Senado a la Cámara (29 de septiembre de 2026)2026-09-29. Texto aprobado por el Senado.
 - 4Senado, tramitación del boletín 18.208-252026-11-16. Etapa y urgencias.
+- 5Senado, ficha de tramitación del boletín 18208-25Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18208-25Consulta automática
+- 7Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-17 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18211-25
@@ -3971,6 +4247,7 @@ Urgencia en espera. El proyecto pasó a el Senado después de la última urgenci
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+2 nov 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 19 oct 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 ### Para conducir la discusión de la protección de niñas, niños y adolescentes en redes sociales
 Fuentes · consultadas el 15 de noviembre de 2026
@@ -4151,6 +4428,7 @@ Urgencia en espera. El proyecto pasó a el Senado después de la última urgenci
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+2 nov 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 19 oct 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 ### Para conducir la discusión de el acceso de menores de edad a redes sociales y otras plataformas
 Fuentes · consultadas el 15 de noviembre de 2026
@@ -4182,7 +4460,6 @@ Título oficialEstablece un beneficio de compensación por la compra de pañales
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18255-31
-Mensaje del Presidente
 18 may 2026, Cámara
 Suma · Vence en 14 días
 191 días
@@ -4238,7 +4515,6 @@ Título oficialModifica la ley N°18.415, orgánica constitucional de los estado
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18258-07
-Mensaje del Presidente
 18 may 2026, Cámara
 Suma · Vence en 14 días
 191 días
@@ -4361,6 +4637,10 @@ Vence en 21 días · 16 dic 2026. La simple corre en la Cámara desde el 16 de n
 - 21 oct 2026 · CámaraOficio N°21.674. Comunica a la Comisión de Medio Ambiente el acuerdo de los Comités Parlamentarios en orden a remitir este proyecto a dicha instancia, en calidad de comisión técnica, y luego a la Comisión de Constitución, Legislación, Justicia y Reglamento..
 - 21 oct 2026 · CámaraOficio N° 21.675. Comunica a la Comisión de Constitución el acuerdo de los Comités Parlamentarios en orden a remitir este proyecto a dicha Comisión con posterioridad al informe por parte de la Comisión de Medio Ambiente y Recursos Naturales..
 - 25 nov 2026 · 15:00Citado: Comisión de Medio Ambiente y Recursos Naturales, CámaraSegún la citación publicada.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+4 nov 2026Medio Ambiente y Recursos NaturalesTratado en la sesión. La diputada Paulina Muñoz Minte presentó el proyecto.
 ### Para conducir la discusión de la declaración de aportes del extranjero a organizaciones sin fines de lucro
 - 1Moción, boletín 18271-07 (texto original)13 de mayo de 2026. Fundamentos y texto del proyecto.
 - 2Oficio N° 21.249 de la Cámara de Diputados (20 de mayo de 2026)20 de mayo de 2026. Acuerdo de enviar el proyecto a la Comisión de Medio Ambiente.
@@ -4445,7 +4725,6 @@ Título oficialModifica la ley N° 19.799, sobre documentos electrónicos, firma
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18286-03
-Mensaje del Presidente
 2 jun 2026, Cámara
 Discusión inmediata · En espera en la otra cámara
 176 días
@@ -4533,7 +4812,6 @@ Título oficialReforma la Constitución Política en materia de detención para 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18314-07
-Mensaje del Presidente
 8 jun 2026, Cámara
 Insistencia, Senado
 Discusión inmediata · Vence en 5 días
@@ -4593,7 +4871,6 @@ Título oficialAmplía las hipótesis de tráfico de migrantes y modifica los te
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18315-07
-Mensaje del Presidente
 8 jun 2026, Cámara
 Suma · En espera en la otra cámara
 170 días
@@ -4673,6 +4950,7 @@ Urgencia en espera. El proyecto pasó a el Senado después de la última urgenci
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+2 nov 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 19 oct 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 ### Para conducir la discusión de la protección digital de niños, niñas y adolescentes
 - 1Senado, moción del boletín 18.318-19 (texto original, junio de 2026)2026-06-02. Objetivos, ámbito y definiciones.
@@ -4712,22 +4990,45 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18329-06.html
 
-Urgencias/Boletín 18329-06
+Urgencias/Boletín 18329-06SimpleVence en 2 díasAhora en la Cámara
+Título oficialSanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión de delitos
 ## Castiga con cárcel instalar o usar carpas o rucos en el espacio público cuando dentro hay armas, drogas o especies robadas. La comisión aprobó la idea de legislar. Tiene urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18329-06
+5 jun 2026, Cámara
+Primer trámite, Cámara
+Simple · Vence en 2 días
+173 días
 La moción dice que ha aumentado la ocupación del espacio público con estructuras precarias, como carpas y rucos.1 Señala que muchas de ellas se asocian a delitos, porque dentro se encuentran armas, droga y especies robadas.1
 Castiga con presidio menor en su grado medio a quien levante, mantenga o use una instalación precaria en el espacio público para habitar o pernoctar.1 La pena solo se aplica si dentro hay armas sin autorización, especies de origen delictivo o drogas sobre el consumo personal. No castiga solo pernoctar allí.1
 Agrega un artículo 268 octies al Código Penal, entre los delitos contra el orden público.1 Define instalación precaria como la hecha con materiales ligeros o de desecho, fácil de desmontar.1 El proyecto se tramita refundido con el boletín 18349-06, por acuerdo de la Sala del 8 de julio de 2026.34
 Afecta a quienes instalan o usan estas estructuras, y a los municipios que las retiran.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 La comisión dejó constancia de que el proyecto no requiere trámite de Hacienda.2
 El proyecto ingresó el 5 de junio de 2026 y pasó a la Comisión de Gobierno Interior como comisión técnica.4 El 4 de septiembre de 2026 esa comisión entregó su informe. Aprobó la idea de legislar por 10 votos a favor y 2 abstenciones.24 El proyecto tiene urgencia simple, en primer trámite en la Cámara, y quedó para tabla.4
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 2 días · 27 nov 2026. La simple corre en la Cámara desde el 28 de octubre de 2026.5
+3urgencias desde marzo de 2026
+2renovaciones
+28 oct 2026Renueva la simple · Cámara30 días
+13 jul 2026Renueva la simple · Cámara30 días
+15 jun 2026Pone urgencia simple · Cámara30 días
+- 5 jun 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
+- 10 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.La Sala toma conocimiento del proyecto y lo envía a comisión.
+- 10 jun 2026 · CámaraA solicitud del diputado Coloma el proyecto se radica en la Comisión de Seguridad Ciudadana.
+- 17 jun 2026 · CámaraPor acuerdo de los Comités Parlamentarios, se remite el proyecto a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, en calidad de comisión técnica.
+- 8 jul 2026 · CámaraCuenta, Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización (N° 18/1/2026), mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines 18329-06 y 18349-06. ACORDADO.
+- 8 jul 2026 · CámaraOficio N° 21371. Comunica que la Cámara de Diputados accedió a la solicitud para fusionar los proyectos de ley correspondientes a los boletines Nos. 18.329-06 y 18.349-06.
+- 4 sep 2026 · CámaraPrimer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 7 sep 2026 · CámaraCuenta de primer informe de comisión. Queda para tabla.La Sala recibe el informe de la comisión.
 ### Para conducir la discusión de la sanción a los rucos usados para delitos
 - 1Moción: Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión de delitos2026-06-05. Texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional2026-09-04. Primer informe de comisión (proyectos refundidos).
 - 3Oficio N° 21371: Comunica que la Cámara de Diputados accedió a la solicitud para fusionar los proyectos de ley correspondientes a los boletines Nos. 18.329-06 y 18.349-06.2026-07-08. Refundición con el boletín 18349-06.
 - 4Tramitación del boletín 18329-06 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
+- 5Senado, ficha de tramitación del boletín 18329-06Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18329-06Consulta automática
+- 7Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18331-17
@@ -4763,6 +5064,11 @@ Vence en 13 días · 8 dic 2026. La suma corre en la Cámara desde el 23 de novi
 - 26 oct 2026 · CámaraCuenta oficio de la Comisión de Derechos Humanos y Pueblos Originarios mediante el cual solicita, en virtud del artículo 17 A de la ley orgánica del Congreso Nacional, recabar el acuerdo de la Sala para refundir los proyectos, iniciados en mensaje y moción, contenidos en los boletines N°s 18754-17 y 18331-17. Aprobado con consulta al Ejecutivo.
 - 28 oct 2026 · CámaraOficio de S.E. el Presidente de la República mediante el cual manifiesta su conformidad en orden a refundir los proyectos.(429-374)
 - 25 nov 2026 · 15:00Citado: Comisión de Derechos Humanos y Pueblos Originarios, CámaraSegún la citación publicada.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+9 nov 2026Derechos Humanos y Pueblos OriginariosTratado en la sesión. Sobre el particular, participaron de la sesión: 1. La presidenta de la Asociación Nacional de Defensoras y Defensores de Derechos Humanos; Daniela Aceituno Silva, quien asistió junto a los dirigentes Pablo Solar Jara y Selene Aguilera Jiménez. 2. La organización Mujeres, Memoria y Derechos Humanos de Arica, representada por Carolina Videla Osorio, quien participaron en forma telemática. 3. Asistieron en representación del INDH el jefe de la unidad de Protección, Legislación y Justicia, señor Sebastián Cabezas y el abogado Nicolás del Fierro. 4. Por la Asociación de Funcionarias y Funcionarios del Instituto Nacional de Derechos Humanos, asistió Daniela Fernández Romero, en calidad de oyente. 5. En representación del Ministerio de Justicia y Derechos Humanos asistieron el Jefe del Departamento de Análisis Normativo de la División de Protección, Mario Andrés Bustos Ponce y el asesor de Gabi
+4 nov 2026Derechos Humanos y Pueblos OriginariosTratado en la sesión. Para este objeto, asistieron: Por la sociedad Civil asisten: La Organización Mujeres de Zona de Sacrificio Quintero-Puchuncaví-Concón en Resistencia. La exposición estaría a cargo de su presidenta, Katta Alonso Raggio. La Corporación de Abogadas Feministas (CORAFEM). La exposición estaría a cargo de Sindy Salazar Pincheira, coordinadora de Incidencia de la organización. vía telemática. La Colectiva Justicia en Derechos Humanos. La exposición estará a cargo de Sindy Salazar Pincheira junto a la Presidenta de Colectiva Justicia en Derechos, Florencia Alvez, vía telemática *Asimismo, se acordó invitar, durante toda la tramitación de los proyectos de ley refundidos, a representantes del INDH y a una representante de la Asociación de Funcionarias y Funcionarios del Instituto Nacional de Derechos Humanos, en calidad de oyente. Ofrezco la palabra Por la Asociación de Funcionarias y Funcionarios
 ### Para conducir la discusión de la transparencia y el gobierno del Instituto Nacional de Derechos Humanos
 - 1Moción: Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas5 de junio de 2026. Fundamentos y texto del proyecto.
 - 2Tramitación del boletín 18331-17 (servicio web público del Senado)11 de noviembre de 2026. Etapa, comisión, urgencia, refundición y fechas.
@@ -4841,7 +5147,6 @@ Título oficialCrea el registro de actos vandálicos e incivilidades
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18341-25
-Mensaje del Presidente
 12 jun 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 15 días
@@ -4943,45 +5248,101 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18349-06.html
 
-Urgencias/Boletín 18349-06
+Urgencias/Boletín 18349-06SimpleVence en 2 díasAhora en la Cámara
+Título oficialModifica el Código Penal y el Código Procesal Penal para tipificar como delito el empleo de bienes de uso público o de libre acceso al público para habitar o pernoctar y establecerlo como un delito de flagrancia permanente
 ## Crea el delito de ocupar el espacio público para habitar o pernoctar y permite detener en flagrancia mientras dure la ocupación. Se tramita refundido con otra moción y tiene urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18349-06
+9 jun 2026, Cámara
+Primer trámite, Cámara
+Simple · Vence en 2 días
+169 días
 La moción dice que los municipios ven proliferar los rucos pese a sus esfuerzos por desocupar el espacio público.1 Sostiene que los delitos de usurpación no se aplican bien a estos casos, porque suelen ser ocupaciones parciales de bienes de uso común.1
 Crea un delito para quien ocupe, total o parcialmente, un bien público o de libre acceso para habitar o pernoctar.1 La pena sería presidio menor en su grado mínimo, de 61 a 540 días, y más alta si hay reincidencia.1 Exige que la ocupación obstaculice el uso normal del lugar por las demás personas.1
 Agrega un artículo nuevo al Código Penal, entre los delitos de usurpación.1 Modifica el artículo 134 del Código Procesal Penal para tratarlo como flagrancia permanente, lo que permite detener mientras dure la ocupación.1 El proyecto se tramita refundido con el boletín 18329-06, por acuerdo de la Sala del 8 de julio de 2026.34
 Afecta a quienes ocupan el espacio público para vivir o dormir, a las policías y a los municipios.1
 Es una moción parlamentaria. En su expediente no figura un informe financiero.4 La comisión dejó constancia de que el proyecto no requiere trámite de Hacienda.2
 El proyecto ingresó el 9 de junio de 2026 y se refundió con el boletín 18329-06.43 El 4 de septiembre de 2026, la Comisión de Gobierno Interior entregó su informe. Aprobó la idea de legislar por 10 votos a favor y 2 abstenciones.2 El proyecto tiene urgencia simple y está en primer trámite en la Cámara.4
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 2 días · 27 nov 2026. La simple corre en la Cámara desde el 28 de octubre de 2026.5
+2urgencias desde marzo de 2026
+1renovaciones
+28 oct 2026Renueva la simple · Cámara30 días
+13 jul 2026Pone urgencia simple · Cámara30 días
+- 9 jun 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
+- 16 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
+- 8 jul 2026 · CámaraCuenta, Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización (N° 18/1/2026), mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines 18329-06 y 18349-06. ACORDADO.
+- 8 jul 2026 · CámaraOficio N° 21371. Comunica que la Cámara de Diputados accedió a la solicitud para fusionar los proyectos de ley correspondientes a los boletines Nos. 18.329-06 y 18.349-06.
+- 4 sep 2026 · CámaraPrimer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 7 sep 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
 ### Para conducir la discusión de el delito de ocupar el espacio público para pernoctar
 - 1Moción: Modifica el Código Penal y el Código Procesal Penal para tipificar como delito el empleo de bienes de uso público o de libre acceso al público para habitar o pernoctar y establecerlo como un delito de flagrancia permanente2026-06-09. Texto de la moción.
 - 2Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional2026-09-04. Primer informe de comisión (proyectos refundidos).
 - 3Oficio N° 21371: Comunica que la Cámara de Diputados accedió a la solicitud para fusionar los proyectos de ley correspondientes a los boletines Nos. 18.329-06 y 18.349-06.2026-07-08. Refundición con el boletín 18329-06.
 - 4Tramitación del boletín 18349-06 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
+- 5Senado, ficha de tramitación del boletín 18349-06Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18349-06Consulta automática
+- 7Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18378-18
 
 URL: https://urgenciaskast.cl/p/18378-18.html
 
-Urgencias/Boletín 18378-18
+Urgencias/Boletín 18378-18SimpleVence en 28 díasAhora en la Cámara
+Título oficialFortalece el ejercicio de la responsabilidad parental
 ## Hace exigibles los deberes de los padres de guiar y supervisar a sus hijos, y crea un procedimiento en los tribunales de familia. La comisión despachó el proyecto. Tiene urgencia simple.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18378-18
+19 jun 2026, Cámara
+Primer trámite, Cámara
+Simple · Vence en 28 días
+159 días
 El mensaje dice que el Código Civil de 1855 trataba la relación entre padres e hijos como una autoridad paterna, de contenido moral.3 Explica que el derecho de familia fue cambiando hacia el interés superior del niño.3
 Reconoce el derecho de los niños a ser protegidos, guiados y orientados por sus padres, y el deber de ellos de hacerlo según la edad del hijo.1 Ese deber subsiste aunque el padre o la madre no viva con el hijo.1 Crea un procedimiento especial ante los tribunales de familia, preventivo y gradual, para corregir fallas en esos deberes.12
 Modifica el Código Civil, la ley de Tribunales de Familia y la Ley de Menores.1 Quien sea sancionado por un incumplimiento grave y reiterado no podrá demandar alimentos a su hijo ni heredarlo.1
 Afecta a padres y madres de niños y adolescentes, a sus hijos y a los tribunales de familia.1
 El informe financiero N° 122, del 8 de junio de 2026, dice que el proyecto no irrogará un mayor gasto fiscal.1 Un informe complementario, el N° 206, de agosto de 2026, mantuvo esa conclusión.2
 El proyecto ingresó el 19 de junio de 2026 y pasó a la Comisión de la Familia.5 El 17 de agosto de 2026 la comisión lo aprobó en general, por 8 votos a favor, 2 en contra y 2 abstenciones. El 19 de octubre despachó el proyecto.24 El 23 de octubre entregó su informe. Tiene urgencia simple desde el 28 de octubre, en primer trámite en la Cámara.5
+Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
+Vence en 28 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de noviembre de 2026.6
+12urgencias desde marzo de 2026
+10renovaciones
+1cambios de tipo
+23 nov 2026Renueva la simple · Cámara30 días
+28 oct 2026Cambia a simple · Cámara30 días
+20 oct 2026Renueva la suma · Cámara15 días
+5 oct 2026Renueva la suma · Cámara15 días
+21 sep 2026Renueva la suma · Cámara15 días
+7 sep 2026Renueva la suma · Cámara15 días
+2 sep 2026Renueva la suma · Cámara15 días
+17 ago 2026Renueva la suma · Cámara15 días
+3 ago 2026Renueva la suma · Cámara15 días
+3 ago 2026Renueva la suma · Cámara15 días
+6 jul 2026Renueva la suma · Cámara15 días
+22 jun 2026Pone urgencia suma · Cámara15 días
+- 22 jun 2026 · CámaraTexto del proyecto
+- 22 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de la Familia. Se remite el proyecto a la Corte Suprema.La Sala toma conocimiento del proyecto y lo envía a comisión.
+- 6 jul 2026 · CámaraOficio N° 21.359 a la Corte Suprema
+- 3 ago 2026 · CámaraCuenta, oficio N° 200-2026 de la Corte Suprema por el cual remite opinión acerca del proyecto (informe N° 28-2026).
+- 27 ago 2026 · CámaraS.E. el Presidente de la República formula indicaciones al proyecto. (148-374). Incluye informe financiero complementario N° 206/27.08.2026.
+- 23 oct 2026 · CámaraPrimer informe de comisión de la Familia.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
+- 26 oct 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+19 oct 2026la FamiliaDespachado por la comisión. Se despachó el proyecto de ley. Pasa a la Sala. Se designó diputado informante al señor Roberto Celedón. El proyecto tiene normas LOC. Participaron de la sesión el Ministro de Justicia y Derechos Humanos, señor Fernando Rabat, quien concurrió acompañado de los asesores, señora Camila Muñoz y señor Sebastián Schmoller, y de los abogados de la División Jurídica, señor Rodrigo Hernández, y señora Constanza Acevedo.
 ### Para conducir la discusión de el fortalecimiento de la responsabilidad parental
 - 1Mensaje: Fortalece el ejercicio de la responsabilidad parental2026-06-19. Informe financiero N° 122 y contenido del proyecto.
 - 2Informe de comisión · Primer informe de comisión de la Familia · Primer trámite constitucional2026-10-23. Primer informe de comisión.
 - 3Oficio N° : Texto del proyecto2026-06-22. Texto del mensaje.
 - 4Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-19. Resultado de la comisión.
 - 5Tramitación del boletín 18378-18 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
+- 6Senado, ficha de tramitación del boletín 18378-18Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 18378-18Consulta automática
+- 8Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18383-06
@@ -5019,7 +5380,6 @@ Título oficialFaculta a los establecimientos educacionales a implementar un mec
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18389-04
-Mensaje del Presidente
 23 jun 2026, Cámara
 Suma · Vence en 14 días
 155 días
@@ -5096,6 +5456,10 @@ Vence en 28 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de n
 - 22 jun 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 6 jul 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 25 nov 2026 · 15:00Citado: Comisión de Constitución, Legislación, Justicia y Reglamento, CámaraSegún la citación publicada.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+3 nov 2026Constitución, Legislación, Justicia y ReglamentoContinuó su estudio. Expuso el profesor de Derecho Público don Rodrigo Delaveau.
 ### Para conducir la discusión de este proyecto
 Fuentes
 - 1Senado, ficha de tramitación del boletín 18413-07Consulta automática. Etapas, trámites y urgencias.
@@ -5164,6 +5528,7 @@ Urgencia en espera. El proyecto pasó a el Senado después de la última urgenci
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+2 nov 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 19 oct 2026Futuro, Ciencias, Tecnología, Conocimiento e InnovaciónContinuó su estudio. En razón de lo anterior, la Comisión ha invitado a la ministra de Desarrollo Social y Familia, señora María Jesús Wulf Le May, y/o al subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. La Comisión continuó con la votación en particular del proyecto. Concurrió a la sesión el subsecretario de la Niñez, señor Marcelo Sánchez Ahumada. Lo acompañaron el coordinador legislativo del Ministerio de Desarrollo Social y Familia, señor Sebastián Sotomayor, y el asesor legislativo de la Subsecretaría de la Niñez, señor Roberto Astaburuaga.
 ### Para conducir la discusión de la protección de la infancia en entornos digitales
 - 1Senado, moción del boletín 18.415-18 (junio de 2026)2026-06-23. Antecedentes, idea matriz y articulado.
@@ -5267,7 +5632,6 @@ Urgencias/Boletín 18436-15SumaVence en 14 díasAhora en el Senado
 Título oficialModifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado
 ## Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.
 18436-15
-Mensaje del Presidente
 8 jul 2026, Cámara
 Suma · Vence en 14 días
 140 días
@@ -5366,7 +5730,6 @@ Urgencias/Boletín 18464-14SumaVence en 14 díasAhora en el Senado
 Título oficialModifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia
 ## Crea un procedimiento más rápido para regularizar la posesión de viviendas de personas afectadas por sismos y otras catástrofes. La Cámara lo aprobó y está en el Senado, con urgencia suma.
 18464-14
-Mensaje del Presidente
 15 jul 2026, Cámara
 Suma · Vence en 14 días
 133 días
@@ -5419,7 +5782,6 @@ Título oficialPerfecciona los mecanismos de adaptabilidad de la jornada de trab
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18478-13
-Mensaje del Presidente
 21 jul 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 6 días
@@ -5524,7 +5886,6 @@ Urgencias/Boletín 18521-07SimpleVence en 28 díasAhora en la CámaraCitado el 2
 ## Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas
 - 1. Resumen del proyecto
 18521-07
-Mensaje del Presidente
 3 ago 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 28 días
@@ -5559,6 +5920,7 @@ Vence en 28 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de n
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+4 nov 2026Constitución, Legislación, Justicia y ReglamentoContinuó su estudio. Expusieron los profesores de derecho constitucional doña Marisol Peña y don Diego Pardo, y el Decano de la Facultad de Química y Farmacia de la Universidad de Chile, don Pablo Richter.
 20 oct 2026Constitución, Legislación, Justicia y ReglamentoContinuó su estudio. Expusieron el General Director (S) de Carabineros don Enrique Monrás, el Jefe de Jurídica institucional de la Policía de Investigaciones, Prefecto Inspector (J) don Daniel Solís y el abogado asesor de la Unidad Especializada de Crimen Organizado y Drogas del Ministerio Público don Samuel Malamud.
 ### Para conducir la discusión de este proyecto
 Fuentes
@@ -5883,9 +6245,11 @@ Urgencia en espera. El proyecto pasó a el Senado después de la última urgenci
 - 17 nov 2026 · CámaraDiscusión general. Queda pendiente.La Sala discute la idea de legislar.
 - 25 nov 2026 · CámaraDiscusión general. Aprobado en general y particular a la vez.La Sala aprueba la idea de legislar y el texto completo en una sola votación.
 - 25 nov 2026 · CámaraOficio de ley a Cámara Revisora.La cámara de origen terminó y envía el proyecto a la otra cámara.
+- 25 nov 2026 · SenadoCuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+3 nov 2026Gobierno Interior, Nacionalidad, Ciudadanía y RegionalizaciónDespachado por la comisión. Luego de audiencia se votará en general y en particular. El Vicepresidente de la AChM y alcalde de San Ramón, Gustavo Toro, explicó el objetivo que persigue este proyecto de ley La Comisión despachó el PL y designó como informante al diputado Álvaro Ortiz.
 20 oct 2026Gobierno Interior, Nacionalidad, Ciudadanía y RegionalizaciónContinuó su estudio. La diputada Mora expuso los puntos de vista que originaron la presentación de esta moción.
 ### Para conducir la discusión de el plazo de las patentes municipales provisorias
 - 1Cámara, moción del boletín 18.576-06 (texto del proyecto)2026-08-06. Fundamentos y texto de la moción.
@@ -5936,7 +6300,6 @@ Título oficialModifica el Código Penal para ampliar el ámbito de aplicación 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18584-25
-Mensaje del Presidente
 17 ago 2026, Cámara
 Discusión inmediata · Vence en 5 días
 100 días
@@ -5989,7 +6352,6 @@ Título oficialModifica el Código Procesal Penal y la ley N°19.970, que crea e
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18585-25
-Mensaje del Presidente
 17 ago 2026, Cámara
 Discusión inmediata · Vence en 5 días
 100 días
@@ -6109,6 +6471,10 @@ Plazo vencido el 18 de noviembre de 2026. No figura una urgencia nueva en los da
 - 18 ago 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Seguridad CiudadanaLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 2 nov 2026 · CámaraPrimer informe de comisión de Seguridad Ciudadana.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 10 nov 2026 · CámaraCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+2 nov 2026Seguridad CiudadanaDespachado por la comisión. La Comisión despachó este proyecto, y designó informante al diputado Bernardo Salinas.
 ### Para conducir la discusión de la sanción de la extorsión territorial
 - 1Moción: Modifica el Código Penal y el Código Procesal Penal para sancionar la extorsión territorial y el cobro de protección2026-08-11. Texto de la moción.
 - 2Tramitación del boletín 18594-25 (servicio web público del Senado)2026-11-13. Etapa, urgencia y trámites.
@@ -6127,7 +6493,6 @@ Título oficialPerfecciona las normas sobre medidas cautelares en los procedimie
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18621-34
-Mensaje del Presidente
 31 ago 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 21 días
@@ -6157,6 +6522,7 @@ Vence en 21 días · 16 dic 2026. La simple corre en la Cámara desde el 16 de n
 #### Qué pasó en las comisiones de la Cámara
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
+4 nov 2026Mujeres y Equidad de GéneroTratado en la sesión. La Comisión escuchó las exposiciones de: - La Subsecretaria de la Mujer y Equidad de Género, doña Marcia Raphael Mora y del Jefe del Departamento de Reformas Legales de la, Subsecretaría de la Mujer y la Equidad de Género, don Lu-yen Chea, - La Coordinadora Legislativa y de Cumplimiento de AMUCH, doña Graciela Correa Gregoire, - La Presidenta de la Asociación Chilena de Magistrados y Magistradas, y de la Asociación Chilena de Magistradas, doña Mariela Hernández Acevedo - La Alcaldesa de Quilicura y Presidenta de la Comisión de Género y Equidad de la AChM, doña Paulina Bobadilla. - La Directora de la Comisión de Familias de ABOFEM, doña Bárbara Tiozzo Lyon
 21 oct 2026Mujeres y Equidad de GéneroContinuó su estudio. La Comisión continuó la discusión general del proyecto de ley, con la participación de la Subsecretaria de la Mujer y la Equidad de Género, señora Marcia Raphael Mora, y de doña Tatiana Torres, profesional del Departamento de Reformas Legales.
 ### Para conducir la discusión de las medidas cautelares en casos de violencia intrafamiliar y de género
 - 1Senado, mensaje 153-374 con su informe financiero N° 210 (31 de agosto de 2026)2026-08-31. Contenido resumido y efecto fiscal.
@@ -6291,7 +6657,6 @@ Título oficialReforma al mercado de capitales y financiamiento de la casa propi
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18643-05
-Mensaje del Presidente
 9 sep 2026, Cámara
 Discusión inmediata · Vence en 5 días
 Próxima citación
@@ -6358,7 +6723,6 @@ Título oficialModifica la Ley General de Urbanismo y Construcciones, con el obj
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18644-14
-Mensaje del Presidente
 21 sep 2026, Cámara
 Suma · Vence en 14 días
 65 días
@@ -6507,7 +6871,7 @@ Ver los proyectos con urgencia
 
 URL: https://urgenciaskast.cl/p/18702-05.html
 
-Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en la Cámara
+Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en el SenadoCitado el 25 nov 2026
 Título oficialLey de Presupuestos para el Sector Público correspondiente al año 2027
 ## Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.
 Revisión pendiente · piloto de prueba
@@ -6520,9 +6884,10 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 - 4. Cómo se habla del proyecto
 - 5. Plazo y tramitación
 18702-05
-Mensaje del Presidente
 30 sep 2026, Cámara
-Comisión mixta, Cámara
+Comisión mixta, Senado
+Próxima citación
+25 nov 2026, 10:02 · Sala de la Cámara
 56 días
 Análisis ampliado
 Esta ficha incluye el análisis ampliado. Además del resumen del proyecto, que sigue abajo, trae:
@@ -6694,7 +7059,6 @@ Bloque 5 · Hecho
 La Ley de Presupuestos no lleva urgencias. La Constitución (artículo 67) da al Congreso 60 días desde que el Presidente presenta el proyecto para despacharlo; si no lo despacha a tiempo, rige el proyecto presentado.
 Vence en 4 días: el 29 de noviembre de 2026. Fuente: Cámara de Diputadas y Diputados, citación a la sesión 93.ª especial (12 de noviembre de 2026): «El plazo final para el despacho de este proyecto de ley por el Congreso Nacional vence el 29.11.2026».
 En comisión mixta: ambas cámaras buscan un acuerdo.
-- 21 nov 2026 · SenadoOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
 - 23 nov 2026 · CámaraDiscusión única. Rechazadas las modificaciones.
 - 23 nov 2026 · CámaraCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 - 24 nov 2026 · CámaraOficio rechazo modificaciones a Cámara Revisora.
@@ -6702,6 +7066,9 @@ En comisión mixta: ambas cámaras buscan un acuerdo.
 - 25 nov 2026 · SenadoInforme de Comisión Mixta Comisión Mixta para Boletín N° 18702-05.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 - 25 nov 2026 · CámaraDiscusión informe de Comisión Mixta. Aprobado.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 - 25 nov 2026 · CámaraOficio aprobación de informe de Comisión Mixta a C. Revisora. Oficio N°21.807. Comunica al Senado la aprobación de la proposición de la Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 25 nov 2026 · SenadoCuenta oficio aprobación de informe de Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
+- 25 nov 2026 · 10:02Citado: Sala de la Cámara, CámaraSegún la citación publicada.
+- 25 nov 2026 · 16:16Citado: Sala del Senado, SenadoSegún la citación publicada.
 ### Para conducir la discusión de el presupuesto del Estado para 2027
 Fuentes · consultadas el 25 de noviembre de 2026
 - 1Emol, «Presupuesto 2027: Las seis claves del primer proyecto de Kast, los ruidos y las primeras batallas en el Congreso»11 de octubre de 2026. Variaciones por sector, plazos y primeras votaciones en subcomisiones.
@@ -6856,7 +7223,6 @@ Título oficialReforma el Instituto Nacional de Derechos Humanos
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18754-17
-Mensaje del Presidente
 19 oct 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 13 días
@@ -6985,7 +7351,6 @@ Título oficialModifica la ley N° 21.063, que crea el seguro para el acompañam
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18803-13
-Mensaje del Presidente
 27 oct 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 13 días
@@ -7049,7 +7414,6 @@ Título oficialProyecto de ley que modifica la ley Nº 19.856, que crea un siste
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18806-07
-Mensaje del Presidente
 27 oct 2026, Senado
 Primer trámite, Senado
 Discusión inmediata · Plazo vencido
@@ -7088,7 +7452,6 @@ Título oficialFomenta la industria de capital de riesgo, mediante la autorizaci
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18819-03
-Mensaje del Presidente
 28 oct 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 6 días
@@ -7108,6 +7471,10 @@ Vence en 6 días · 1 dic 2026. La suma corre en la Cámara desde el 16 de novie
 - 28 oct 2026 · CámaraIngreso de proyecto. Incluye IF N°261 28.10.26.El proyecto entra al Congreso.
 - 28 oct 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, y a la Comisión de Hacienda en lo que corresponda.La Sala toma conocimiento del proyecto y lo envía a comisión.
 - 28 oct 2026 · CámaraTexto del proyecto.
+#### Qué pasó en las comisiones de la Cámara
+Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
+FechaComisiónResultado
+3 nov 2026Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y TurismoContinuó su estudio. Se escuchó la exposición de las siguientes autoridades: El Ministro de Economía, Fomento y Turismo, señor Daniel Mas y el Subsecretario de Economía, señor Karlfranz Koehler, quienes asisten junto al Coordinador Legislativo, señor Juan Pablo Meier y a los asesores legislativos, señores Benjamín Rodríguez y Rodrigo García. El Vicepresidente Ejecutivo de Corfo, señor José Ignacio Mujica, la asesora, señora Ángeles Romo, quienes asistieron junto al jefe de gabinete del señor vicepresidente, señor Andrés Fuica.
 ### Para conducir la discusión de el aporte de CORFO a fondos de capital de riesgo
 - 1Oficio N° 220-374: texto del mensaje28 de octubre de 2026. Antecedentes del mensaje, con el diagnóstico del problema.
 - 2Pasajes del mensaje y del informe financiero N° 261 sobre costo fiscal28 de octubre de 2026. Costo fiscal y financiamiento.
@@ -7312,7 +7679,6 @@ Título oficialModifica el Código de Procedimiento Civil para mejorar el acceso
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18903-07
-Mensaje del Presidente
 23 nov 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 13 días
@@ -7380,7 +7746,6 @@ Título oficialModifica normas relativas al autocontrol en materia de pesaje res
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 8654-15
-Mensaje del Presidente
 30 oct 2012, Cámara
 Suma · Vence en 14 días
 Próxima citación
