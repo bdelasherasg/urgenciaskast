@@ -1541,39 +1541,17 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/16335-14.html
 
-Urgencias/Boletín 16335-14Discusión inmediataVotación terminadaAhora en la Cámara
-Título oficialRegula la prevención y mitigación de incendios forestales, y otras materias que indica
+Urgencias/Boletín 16335-14
 ## Regula la prevención y mitigación de incendios forestales y rurales con nuevos instrumentos de planificación y prevención. La Cámara y el Senado aprobaron el informe de la comisión mixta.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16335-14
-Mensaje del Presidente
-3 oct 2023, Cámara
-Trámite de finalización, Cámara
-Discusión inmediata · Votación terminada
-1149 días
 El mensaje dice que los megaincendios serán cada vez más frecuentes.1 Dice que la ley actual solo exige medidas de gestión forestal ante una corta de bosque, lo que deja un vacío en la prevención.1
 Busca crear nuevos instrumentos, y fortalecer los existentes, para reducir el riesgo de incendios forestales y rurales.1 Incorpora las zonas de interfaz urbano rural forestal en los planes reguladores, con medidas para manejar el paisaje.1
 El mensaje original tenía 39 artículos permanentes y 7 transitorios.1 La comisión mixta propuso cómo resolver las diferencias entre ambas cámaras sobre el texto.2
 Afecta a los planes reguladores y a las zonas de interfaz urbano rural forestal.1
 Un informe de la Comisión de Hacienda recoge un mayor gasto de $796.366 miles el primer año y de $607.334 miles en régimen, en pesos de 2023.5 Según el informe N° 288, las indicaciones de 2024 no irrogan mayor gasto.6
 La comisión mixta entregó su informe el 21 de octubre de 2026.4 La Cámara lo aprobó el 3 de noviembre, salvo el artículo 47 y el número 4 del artículo 48, que no alcanzaron el quórum.3 El Senado lo aprobó el 11 de noviembre y lo comunicó a la Cámara de origen.4
-Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene discusión inmediata, la más corta.
-El Congreso terminó de votar este proyecto. Está en el Trámite de finalización, por lo que la urgencia ya no fija plazos.7
-3urgencias desde marzo de 2026
-2renovaciones
-10 nov 2026Renueva la discusión inmediata · Senado6 días
-3 nov 2026Renueva la discusión inmediata · Cámara6 días
-28 oct 2026Pone urgencia discusión inmediata · Cámara6 días
-Trámite de finalización: el Congreso terminó de votarlo.
-- 26 oct 2026 · CámaraCuenta informe Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
-- 3 nov 2026 · CámaraDiscusión informe de Comisión Mixta. Aprobado.Una comisión con integrantes de ambas cámaras busca un acuerdo.
-- 3 nov 2026 · CámaraOficio aprobación de informe de Comisión Mixta a C. Revisora.Una comisión con integrantes de ambas cámaras busca un acuerdo.
-- 10 nov 2026 · SenadoCuenta oficio aprobación de informe de Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
-- 10 nov 2026 · SenadoDiscusión informe de Comisión Mixta. Queda pendiente Se solicita aplazamiento de la votaciónUna comisión con integrantes de ambas cámaras busca un acuerdo.
-- 11 nov 2026 · SenadoDiscusión informe de Comisión Mixta. AprobadoUna comisión con integrantes de ambas cámaras busca un acuerdo.
-- 11 nov 2026 · SenadoOficio aprobación de informe de Comisión Mixta a C.de Origen.Una comisión con integrantes de ambas cámaras busca un acuerdo.
-- 12 nov 2026 · CámaraCuenta oficio aprobación de informe de Comisión Mixta.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 ### Para conducir la discusión de la prevención y mitigación de incendios forestales
 - 1Cámara, mensaje del boletín 16.335-14 (texto del proyecto, 2023)2023-10-03. Antecedentes y contenido.
 - 2Informe de la Comisión Mixta (21 de octubre de 2026)2026-10-21. Proposición para resolver diferencias entre ambas cámaras.
@@ -1581,9 +1559,6 @@ Trámite de finalización: el Congreso terminó de votarlo.
 - 4Senado, tramitación del boletín 16.335-142026-11-10. Etapa y urgencias.
 - 5Senado, informe de la Comisión de Hacienda, segundo trámite (informe financiero citado, 29 de enero de 2024)2024-01-29. Gasto fiscal estimado.
 - 6Informe financiero complementario N° 288 (28 de octubre de 2024)2024-10-28. Indicaciones sin mayor gasto.
-- 7Senado, ficha de tramitación del boletín 16335-14Consulta automática. Etapas, trámites y urgencias.
-- 8Cámara de Diputadas y Diputados, tramitación del boletín 16335-14Consulta automática
-- 9Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16391-01
@@ -2718,31 +2693,38 @@ Ver los proyectos con urgencia
 URL: https://urgenciaskast.cl/p/17622-04.html
 
 Urgencias/Boletín 17622-04Sin plazo informadoAhora en el SenadoCitado el 25 nov 2026
-## Modifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educacional
-- 1. Resumen del proyecto
+Título oficialModifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educacional
+## Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17622-04
 17 jun 2025, Senado
 Primer trámite, Senado
 Próxima citación
 25 nov 2026, 12:30 · Comisión de Educación
 526 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que en Chile las clases se suspenden con facilidad y frecuencia.1 Menciona paros, cortes de agua, violencia y elecciones.1 Sostiene que perder clases daña a los estudiantes.1 Agrega que faltan reglas claras para exigir clases sin interrupciones.1
+Las clases de párvulos, básica y media solo podrían interrumpirse con permiso previo del Ministerio de Educación.1 Un reglamento, que es una norma que detalla la ley, fijaría las causas, plazos y condiciones del permiso.1 Los sostenedores, que administran colegios reconocidos por el Estado, deberían tener planes ante paros no autorizados.1 Se sancionaría no aplicarlos.1
+Agrega un artículo 10 bis a la Ley General de Educación.1 Promover, organizar o hacer un paro no autorizado dañaría gravemente la convivencia escolar.1 Por esos actos, directivos, profesores y asistentes podrían perder su cargo sin indemnización.1 A los estudiantes se les aplicarían el procedimiento y las medidas de la ley 21.128.1
+Afecta a estudiantes, padres, apoderados, profesores, asistentes de la educación, directivos y sostenedores.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó al Senado el 17 de junio de 2025 y está en primer trámite.2 El 18 de junio de 2025 pasó a la Comisión de Educación.2 La comisión citó para el 25 de noviembre de 2026 el inicio del debate sobre la idea general del proyecto.3
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-1
+4
 0urgencias desde marzo de 2026
 0renovaciones
 - 17 jun 2025 · SenadoIngreso de proyecto.El proyecto entra al Congreso.
 - 18 jun 2025 · SenadoCuenta de proyecto. Pasa a Comisión de EducaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 25 nov 2026 · 12:30Citado: Comisión de Educación, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17622-04Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17622-04Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la continuidad de las clases en los colegios
+Fuentes · consultadas el 25 de noviembre de 2026
+- 1Moción: Modifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educaciona2025-06-17. Fundamentos y texto de la moción. El texto está cortado.
+- 2Tramitación del boletín 17622-04 (servicio web público del Senado)2026-11-24. Etapa, comisión y trámites.
+- 3Senado, citaciones de comisiones2026-11-25. Citación de la Comisión de Educación para el 25 de noviembre de 2026.
+- 4Senado, ficha de tramitación del boletín 17622-04Consulta automática. Etapas, trámites y urgencias.
+- 5Cámara de Diputadas y Diputados, tramitación del boletín 17622-04Consulta automática
+- 6Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17628-13
 

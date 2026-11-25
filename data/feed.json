@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-25T05:36-03:00",
+ "actualizado": "2026-11-25T06:31-03:00",
  "conteos": {
   "urgencias_vigentes": 44,
   "discusion_inmediata": 9,
@@ -144,7 +144,7 @@
     {
      "boletin": "17622-04",
      "titulo": "Modifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educacional",
-     "sintesis": "",
+     "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
      "url": "https://urgenciaskast.cl/p/17622-04.html"
     }
    ]
@@ -222,6 +222,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "17622-04",
+   "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
+   "publicado": "2026-11-25",
+   "url": "https://urgenciaskast.cl/p/17622-04.html"
+  },
+  {
    "boletin": "17800-11",
    "sintesis": "Agrega al Código Sanitario reglas para que solo la especie jurel se venda con ese nombre y su envase informe especie y origen. Está en la Comisión de Salud de la Cámara.",
    "publicado": "2026-11-24",
@@ -250,12 +256,6 @@
    "sintesis": "Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
    "publicado": "2026-11-21",
    "url": "https://urgenciaskast.cl/p/17211-06.html"
-  },
-  {
-   "boletin": "17790-06",
-   "sintesis": "Busca proteger a las manipuladoras de alimentos en las licitaciones públicas: continuidad laboral, tope de raciones y retención de pagos para finiquitos. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
-   "publicado": "2026-11-21",
-   "url": "https://urgenciaskast.cl/p/17790-06.html"
   }
  ],
  "analisis": [
