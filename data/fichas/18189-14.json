@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18189-14",
   "nivel": "basica",
-  "sintesis": "Amplía hasta 2029 el plazo para regularizar viviendas sin recepción definitiva y sube los límites de superficie y avalúo. Está en el Senado, con urgencia suma, tras ser aprobado por su Comisión de Vivienda.",
+  "sintesis": "Amplía hasta 2029 el plazo para regularizar viviendas sin recepción definitiva y sube límites de superficie y avalúo. El Senado lo aprobó con cambios y volvió a la Cámara.",
   "materia": "la regularización de viviendas sin recepción definitiva",
   "resumen": {
     "problema": [
@@ -27,7 +27,7 @@
     ],
     "propone": [
       {
-        "texto": "El texto de la Cámara extiende hasta el 31 de diciembre de 2029 el plazo para regularizar.",
+        "texto": "Extiende hasta el 31 de diciembre de 2029 el plazo para regularizar.",
         "fuentes": [
           "f5"
         ]
@@ -39,9 +39,21 @@
         ]
       },
       {
-        "texto": "Las municipalidades podrán formar equipos que ayuden gratis a hogares vulnerables, adultos mayores y zonas rurales.",
+        "texto": "Según el Senado, las municipalidades podrán orientar y dar apoyo técnico, según su presupuesto.",
         "fuentes": [
-          "f5"
+          "f8"
+        ]
+      },
+      {
+        "texto": "Ese apoyo puede incluir ayuda para preparar los antecedentes.",
+        "fuentes": [
+          "f8"
+        ]
+      },
+      {
+        "texto": "Quien firme antecedentes técnicos de una solicitud no podrá resolverla.",
+        "fuentes": [
+          "f8"
         ]
       }
     ],
@@ -58,6 +70,19 @@
           "f5",
           "f2"
         ]
+      },
+      {
+        "texto": "El Senado quitó una exención de normas urbanísticas para viviendas de hasta 120 metros cuadrados.",
+        "fuentes": [
+          "f5",
+          "f8"
+        ]
+      },
+      {
+        "texto": "Además, fija en 400 metros cuadrados el límite para microempresas inofensivas.",
+        "fuentes": [
+          "f8"
+        ]
       }
     ],
     "afecta": [
@@ -68,9 +93,9 @@
         ]
       },
       {
-        "texto": "Las indicaciones del Presidente piden que el personal municipal oriente, pero no elabore ni certifique antecedentes.",
+        "texto": "También a las municipalidades, que podrían apoyarlos.",
         "fuentes": [
-          "f4"
+          "f8"
         ]
       }
     ],
@@ -90,21 +115,22 @@
     ],
     "estado": [
       {
-        "texto": "El proyecto está en segundo trámite en el Senado, con urgencia suma.",
+        "texto": "El 24 de noviembre de 2026 el Senado lo aprobó en general y en particular, con cambios.",
         "fuentes": [
-          "f7"
+          "f9",
+          "f8"
         ]
       },
       {
-        "texto": "El 19 de agosto la Cámara lo aprobó en general y en particular a la vez.",
+        "texto": "Ahora está en tercer trámite en la Cámara, para revisar esos cambios.",
         "fuentes": [
-          "f7"
+          "f9"
         ]
       },
       {
-        "texto": "El 7 de octubre la Comisión de Vivienda y Urbanismo del Senado lo informó y lo aprobó por unanimidad.",
+        "texto": "Tiene urgencia suma.",
         "fuentes": [
-          "f2"
+          "f9"
         ]
       }
     ]
@@ -112,6 +138,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "regularización de viviendas",
+    "viviendas sin recepción definitiva",
+    "regularizar casas hasta 2029",
+    "límites de superficie y avalúo",
+    "Comisión de Vivienda"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -147,17 +180,24 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18189",
       "fecha": "12 de noviembre de 2026",
       "nota": "Etapa, urgencia y trámites."
+    },
+    {
+      "id": "f8",
+      "titulo": "Oficio 380/SEC/26 del Senado a la Cámara con sus cambios (24 de noviembre de 2026)",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37539&tipodoc=ofic",
+      "fecha": "2026-11-24",
+      "nota": "Enmiendas del Senado."
+    },
+    {
+      "id": "f9",
+      "titulo": "Tramitación del boletín 18189-14 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18189",
+      "fecha": "2026-11-25",
+      "nota": "Etapas, fechas y urgencias."
     }
   ],
-  "consultado": "2026-11-13",
-  "publicado": "2026-11-13",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "regularización de viviendas",
-    "viviendas sin recepción definitiva",
-    "regularizar casas hasta 2029",
-    "límites de superficie y avalúo",
-    "Comisión de Vivienda"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
