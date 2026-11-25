@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18702-05",
   "nivel": "completa",
-  "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara rechazó parte de los cambios del Senado y ahora decide una Comisión Mixta.",
+  "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara aprobó el informe de la Comisión Mixta, ahora en el Senado.",
   "materia": "el presupuesto del Estado para 2027",
   "resumen": {
     "problema": [
@@ -80,10 +80,15 @@
         ]
       },
       {
-        "texto": "En toda la tramitación, la Cámara votó más veces sobre Salud (67), Vivienda (66) y Trabajo (42).",
+        "texto": "Hasta el 23, la Cámara votó más sobre Salud (67), Vivienda (66) y Trabajo (42).",
         "fuentes": [
           "f11"
         ]
+      },
+      {
+        "texto": "No se pudo revisar qué propone la Comisión Mixta.",
+        "fuentes": [],
+        "pendiente": true
       }
     ],
     "costo": [
@@ -114,28 +119,23 @@
     ],
     "estado": [
       {
-        "texto": "La Cámara aprobó el proyecto el 12 de noviembre.",
+        "texto": "El 25 de noviembre, la Comisión Mixta, de diputados y senadores, entregó su informe.",
         "fuentes": [
           "f10"
         ]
       },
       {
-        "texto": "El 19, el Senado lo aprobó con cambios.",
+        "texto": "Ese día, la Cámara lo aprobó por 113 votos contra 9.",
         "fuentes": [
-          "f10"
-        ]
-      },
-      {
-        "texto": "El 23, la Sala de la Cámara votó 41 veces: 31 aprobaciones y 10 rechazos.",
-        "fuentes": [
+          "f10",
           "f11"
         ]
       },
       {
-        "texto": "El 24 pasó a Comisión Mixta, de diputados y senadores, para resolver las diferencias.",
+        "texto": "Ahora lo ve la Sala del Senado.",
         "fuentes": [
           "f10",
-          "f15"
+          "f17"
         ]
       }
     ]
@@ -342,15 +342,15 @@
       "id": "f10",
       "titulo": "Senado, tramitación del boletín 18702-05 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-      "fecha": "24 de noviembre de 2026",
-      "nota": "Etapa y trámites, hasta la cuenta del rechazo de las modificaciones en el Senado."
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Etapa y trámites, hasta la llegada al Senado del informe de la Comisión Mixta aprobado por la Cámara."
     },
     {
       "id": "f11",
       "titulo": "Cámara de Diputadas y Diputados, votaciones de Sala del boletín 18702-05 (datos abiertos)",
       "url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXProyectoLey?prmNumeroBoletin=18702-05",
-      "fecha": "23 de noviembre de 2026",
-      "nota": "Votaciones de Sala de toda la tramitación, hasta el 23 de noviembre."
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Votaciones de Sala de toda la tramitación, hasta el 25 de noviembre."
     },
     {
       "id": "f13",
@@ -379,6 +379,13 @@
       "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37466&tipodoc=ofic",
       "fecha": "13 de noviembre de 2026",
       "nota": "Texto aprobado por la Cámara. La lectura está cortada."
+    },
+    {
+      "id": "f17",
+      "titulo": "Senado, sesiones de Sala (servicio web público)",
+      "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Sesión ordinaria 89, del 25 de noviembre, con el proyecto en tabla."
     }
   ],
   "consultado": "2026-11-25",
