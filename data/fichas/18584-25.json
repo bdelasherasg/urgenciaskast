@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18584-25",
   "nivel": "basica",
-  "sintesis": "Amplía el delito de interrumpir u obstaculizar la circulación y los servicios de transporte, que hoy se limita a la vía pública. Está en segundo trámite en el Senado, con urgencia suma.",
+  "sintesis": "Amplía el delito de interrumpir u obstaculizar la circulación y los servicios de transporte, que hoy se limita a la vía pública. Está en segundo trámite en el Senado, con discusión inmediata.",
   "materia": "la ampliación del delito de interrupción u obstaculización de la circulación y del transporte",
   "resumen": {
     "problema": [
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 10 de noviembre de 2026.",
+        "texto": "El 24 de noviembre de 2026, el Presidente le puso discusión inmediata, urgencia que reemplazó a la suma.",
         "fuentes": [
           "f9"
         ]
@@ -105,6 +105,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "obstaculizar el transporte",
+    "delito de interrumpir transporte",
+    "libre circulación en vías",
+    "servicios de transporte",
+    "bloqueos en vías públicas"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -131,19 +138,12 @@
       "id": "f9",
       "titulo": "Tramitación del boletín 18584-25 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18584",
-      "fecha": "2026-11-11",
+      "fecha": "2026-11-25",
       "nota": "Etapas y urgencias."
     }
   ],
-  "consultado": "2026-11-12",
-  "publicado": "2026-11-12",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "obstaculizar el transporte",
-    "delito de interrumpir transporte",
-    "libre circulación en vías",
-    "servicios de transporte",
-    "bloqueos en vías públicas"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
