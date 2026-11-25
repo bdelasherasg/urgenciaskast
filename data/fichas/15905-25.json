@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "15905-25",
   "nivel": "basica",
-  "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia suma.",
+  "sintesis": "Quita a Carabineros la tarea de notificar resoluciones judiciales en juicios civiles de mínima cuantía, juzgados de policía local y tribunales de familia. La Cámara lo aprobó; el Senado lo revisa, con urgencia simple.",
   "materia": "el fin de las notificaciones judiciales por Carabineros",
   "resumen": {
     "problema": [
@@ -92,8 +92,9 @@
         ]
       },
       {
-        "texto": "Tiene urgencia suma, que el Ejecutivo hizo presente de nuevo el 6 de octubre de 2026.",
+        "texto": "El 24 de noviembre de 2026, el Gobierno le puso urgencia simple, un plazo para tratarlo. Antes tenía urgencia suma.",
         "fuentes": [
+          "a1",
           "f4"
         ]
       }
@@ -137,10 +138,17 @@
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15905",
       "fecha": "2026-11-20",
       "nota": "Etapas y urgencias."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, tramitación del boletín 15905-25 (datos recogidos por la agenda del sitio)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15905",
+      "fecha": "2026-11-25",
+      "nota": "Urgencia simple hecha presente el 24 de noviembre de 2026."
     }
   ],
-  "consultado": "2026-11-21",
-  "publicado": "2026-11-21",
+  "consultado": "2026-11-25",
+  "publicado": "2026-11-25",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-21 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
