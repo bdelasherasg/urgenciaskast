@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "boletin": "18655-06",
+  "nivel": "basica",
+  "sintesis": "Permite a las municipalidades pedir a un juez que clausure por un tiempo inmuebles con infracciones repetidas que afectan al vecindario. Está en primer trámite en la Cámara.",
+  "materia": "la clausura temporal de inmuebles por problemas de convivencia",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que hoy los municipios solo pueden clausurar en casos limitados, como falta de patente o de permisos de obras.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quedan fuera problemas como fiestas nocturnas en barrios residenciales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El municipio podrá pedir la clausura al Juzgado de Policía Local tras tres o más infracciones a ordenanzas en tres meses, si afectan gravemente al barrio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La clausura durará de 15 a 90 días, y hasta 180 en casos agravados, como hallar armas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se preferirá cerrar solo una parte cuando baste.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 12 de la Ley de Municipalidades y agrega un artículo 12 bis.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sanciona con multa incumplir la clausura.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a propietarios, ocupantes, locales comerciales, vecinos, municipios y juzgados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre se pidió opinión a la Corte Suprema.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre, la Comisión de Gobierno Interior dejó su análisis para otra sesión.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "clausura de inmuebles municipios",
+    "ruidos molestos clausura",
+    "proyecto no más ruidos",
+    "incivilidades clausura temporal",
+    "fiestas en barrios residenciales municipios"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 18.695, orgánica constitucional de Municipalidades, con el objeto de facultar a dichas entidades para requerir la clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19340&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-21",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21.711: Solicita a la Corte Suprema su pronunciamiento en relación con el artículo 77 de la Constitución.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37501&tipodoc=ofic",
+      "fecha": "2026-11-02",
+      "nota": "Oficio a la Corte Suprema."
+    },
+    {
+      "id": "f3",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-03",
+      "nota": "Resultado de la sesión del 3 de noviembre."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18655-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18655",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
