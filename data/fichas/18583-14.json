@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "18583-14",
+  "nivel": "basica",
+  "sintesis": "Prohíbe exigir que las familias pertenezcan a un comité u otra organización para postular a programas de vivienda del Estado. Está en primer trámite en la Cámara.",
+  "materia": "la postulación individual a los programas de vivienda",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que en la práctica muchas familias necesitan integrar un comité de vivienda para obtener un subsidio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que eso implica cuotas y reuniones durante años, y que se han denunciado cobros indebidos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los Servicios de Vivienda y Urbanización, conocidos como Serviu, no podrán exigir pertenecer a una organización.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las familias podrán postular solas y directamente ante el Serviu.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las postulaciones en grupo seguirán permitidas si son voluntarias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un párrafo al artículo 28 del decreto ley 1.305, de 1975, del Ministerio de Vivienda.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción dice que hoy ninguna ley garantiza expresamente postular sin pertenecer a una organización.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las familias que postulan, a los Serviu y a los comités, cooperativas y fundaciones de vivienda.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 18 de agosto pasó a la Comisión de Vivienda y Desarrollo Urbano, que debe emitir el primer informe.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "postulación individual subsidio habitacional",
+    "comités de vivienda obligatorios",
+    "postular al subsidio sin comité",
+    "estafas subsidios de vivienda",
+    "DS49 postulación individual"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el decreto ley N°1.305, de 1975, para garantizar que las postulaciones a los programas habitacionales puedan realizarse de modo individual o colectivo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19273&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-07",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18583-14 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18583",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
