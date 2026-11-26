@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "boletin": "18721-06",
+  "nivel": "basica",
+  "sintesis": "Busca agilizar la patente municipal, el permiso para operar un negocio, sobre todo para micro y pequeñas empresas. Está en primer trámite en la Cámara.",
+  "materia": "la agilización de la patente municipal",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que solo el 25,7% de las personas microemprendedoras tiene patente o permiso municipal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que la ley actual limita lo que cada municipio puede hacer para acelerarla.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los municipios podrán publicar una matriz, o tabla, que diga qué actividades se admiten en cada propiedad y zona.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si la actividad está admitida, la patente provisoria se entregará de inmediato con una declaración jurada y otros antecedentes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Usar esa tabla será voluntario para cada municipio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 26 de la Ley de Rentas Municipales y crea un artículo 26 ter.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Trata la patente como permiso de funcionamiento bajo la ley 21.770, sobre autorizaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a micro y pequeñas empresas y a las municipalidades.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, en la Comisión de Gobierno Interior.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre, esa comisión continuó su estudio y escuchó al alcalde de Huechuraba.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "patente municipal micro y pequeña empresa",
+    "patente provisoria inmediata",
+    "agilizar patentes comerciales",
+    "formalización microemprendedores patente",
+    "modelo Huechuraba patente en línea"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el decreto ley Nº 3.063, de 1979, sobre Rentas Municipales, para agilizar el otorgamiento de la patente municipal a la micro y pequeña empresa",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19405&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-06",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-03",
+      "nota": "Resultado de la sesión del 3 de noviembre."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18721-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18721",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
