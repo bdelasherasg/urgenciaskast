@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "boletin": "15025-24",
+  "nivel": "basica",
+  "sintesis": "Sube las penas y multas por dañar o apropiarse de monumentos nacionales y aumenta el premio a quien denuncie. Está en primer trámite en la Cámara, aprobado en general en comisión.",
+  "materia": "las penas por dañar monumentos nacionales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción sostiene que dañar un bien cultural borra páginas de la historia nacional.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sus autores plantean que el Estado debe tener políticas más fuertes frente al vandalismo contra el patrimonio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Castiga el daño a monumentos con presidio menor (cárcel) en su grado más alto y multa de 100 a 400 UTM, una unidad que se reajusta cada mes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La multa consideraría si hay reincidencia (volver a delinquir), el daño y el costo de reparación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La apropiación de un monumento tendría multa de 100 a 400 UTM, además de la pena de cárcel que corresponda.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien denuncie recibiría el 80% de la multa.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea el artículo 486 bis en el Código Penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Reemplaza los artículos 38, 38 bis y 42 de la ley 17.288, de Monumentos Nacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, hoy el daño tiene multa de 50 a 200 UTM y el denunciante recibe el 20%.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes dañen o se apropien de monumentos nacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a quienes denuncien estas infracciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara y se discute junto a los proyectos 17710-24 y 18403-24.",
+        "fuentes": [
+          "f4",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre de 2026, la Comisión de Cultura, Artes y Comunicaciones aprobó en general (la idea central) la iniciativa.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Fijó plazo hasta el 9 de noviembre para proponer cambios.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "daño a monumentos nacionales",
+    "penas por vandalismo patrimonial",
+    "Ley de Monumentos Nacionales",
+    "rayados en patrimonio",
+    "multas por dañar monumentos"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Penal y la ley N°17.288, sobre monumentos nacionales, para agravar las penas por apropiación o destrucción de monumentos nacionales y promover su denuncia",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15532&tipodoc=mensaje_mocion",
+      "fecha": "2022-05-27",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21.511: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Cultura, Artes y Comunicaciones para refundir los proyectos de ley correspondientes a los boletines Nos 15.025-24, 17.710-24 y 18.403-24.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37042&tipodoc=ofic",
+      "fecha": "2026-08-18",
+      "nota": "Acuerdo de tratar juntos los tres proyectos."
+    },
+    {
+      "id": "f3",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-02",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 15025-24 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15025",
+      "fecha": "2026-11-25",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
