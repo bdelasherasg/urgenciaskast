@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "18702-05",
   "nivel": "completa",
-  "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara aprobó el informe de la Comisión Mixta, ahora en el Senado.",
+  "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara y el Senado aprobaron la propuesta de la Comisión Mixta.",
   "materia": "el presupuesto del Estado para 2027",
   "resumen": {
     "problema": [
@@ -114,23 +114,24 @@
     ],
     "estado": [
       {
-        "texto": "El 25 de noviembre, la Comisión Mixta, de diputados y senadores, entregó su informe.",
+        "texto": "El 25 de noviembre, la Comisión Mixta, de diputados y senadores, entregó su informe para resolver las diferencias.",
         "fuentes": [
           "f10"
         ]
       },
       {
-        "texto": "Ese día, la Cámara lo aprobó por 113 votos contra 9.",
+        "texto": "Ese día la Cámara lo aprobó por 113 votos contra 9, y luego también el Senado.",
         "fuentes": [
           "f10",
-          "f11"
+          "f11",
+          "f18",
+          "f19"
         ]
       },
       {
-        "texto": "Ahora lo ve la Sala del Senado.",
+        "texto": "El proyecto figura ahora en su trámite final en la Cámara.",
         "fuentes": [
-          "f10",
-          "f17"
+          "f10"
         ]
       }
     ]
@@ -337,8 +338,8 @@
       "id": "f10",
       "titulo": "Senado, tramitación del boletín 18702-05 (servicio web público)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-      "fecha": "25 de noviembre de 2026",
-      "nota": "Etapa y trámites, hasta la llegada al Senado del informe de la Comisión Mixta aprobado por la Cámara."
+      "fecha": "26 de noviembre de 2026",
+      "nota": "Etapa y trámites, hasta la aprobación del informe de la Comisión Mixta en ambas cámaras."
     },
     {
       "id": "f11",
@@ -376,15 +377,22 @@
       "nota": "Texto aprobado por la Cámara. La lectura está cortada."
     },
     {
-      "id": "f17",
-      "titulo": "Senado, sesiones de Sala (servicio web público)",
-      "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374",
+      "id": "f18",
+      "titulo": "Cámara de Diputadas y Diputados, oficio 21.807 que comunica la aprobación de la propuesta de la Comisión Mixta",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37547&tipodoc=ofic",
       "fecha": "25 de noviembre de 2026",
-      "nota": "Sesión ordinaria 89, del 25 de noviembre, con el proyecto en tabla."
+      "nota": "Aprobación en la Cámara."
+    },
+    {
+      "id": "f19",
+      "titulo": "Senado, oficio 386/SEC/26 que comunica la aprobación de la propuesta de la Comisión Mixta",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37550&tipodoc=ofic",
+      "fecha": "25 de noviembre de 2026",
+      "nota": "Aprobación en el Senado."
     }
   ],
-  "consultado": "2026-11-25",
-  "publicado": "2026-11-25",
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
