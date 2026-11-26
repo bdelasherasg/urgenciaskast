@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "boletin": "18537-06",
+  "nivel": "basica",
+  "sintesis": "Crea un delito para castigar matrimonios y uniones civiles simulados con el fin de obtener residencia u otros beneficios migratorios. Está en primer trámite en la Cámara.",
+  "materia": "los matrimonios y uniones civiles simulados con fines migratorios",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que algunas personas simulan matrimonios o uniones civiles para obtener residencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita que las solicitudes por unión civil de extranjeros en situación irregular subieron de 1.946 en 2024 a más de 4.200 en 2025.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que hoy solo hay sanciones administrativas, como rechazar el permiso.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Castiga con cárcel y multa a quienes participen en estas uniones falsas con fines migratorios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La multa va de 100 a 500 unidades tributarias mensuales, una medida en pesos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pone penas mayores si hay organización, habitualidad o intermediarios que ganan dinero con ello.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega el artículo 383 bis al Código Penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Modifica la Ley de Migración para que esta conducta quite la residencia o el beneficio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes se casen o unan de forma simulada, a quienes cobren o paguen por ello y a las agencias intermediarias.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, con urgencia simple. Se estudia junto con el boletín 18544-06.",
+        "fuentes": [
+          "f4",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre, la Comisión de Gobierno Interior escuchó al ministro de Justicia y acordó votar la idea de legislar en la próxima sesión.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "matrimonios simulados migrantes",
+    "acuerdo de unión civil falso residencia",
+    "novio de papel",
+    "matrimonios por conveniencia migratoria",
+    "unión civil con fines migratorios"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Tipifica la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19221&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-31",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21.579: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización para refundir los proyectos de ley correspondientes a los boletines Nos.  18.537-06 y 18.544-06.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37214&tipodoc=ofic",
+      "fecha": "2026-09-21",
+      "nota": "Acuerdo para tramitarlo junto con otra moción."
+    },
+    {
+      "id": "f3",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-03",
+      "nota": "Resultado de la sesión del 3 de noviembre."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18537-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18537",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas, urgencia e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
