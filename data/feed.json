@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-26T06:43-03:00",
+ "actualizado": "2026-11-26T13:57-03:00",
  "conteos": {
   "urgencias_vigentes": 46,
   "discusion_inmediata": 9,
   "vencen_7_dias": 12,
-  "citaciones_7_dias": 9
+  "citaciones_7_dias": 12
  },
  "proximos_vencimientos": [
   {
@@ -123,6 +123,34 @@
    "fecha": "2026-11-30",
    "hora": "15:30",
    "camara": "Senado",
+   "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+   "proyectos": [
+    {
+     "boletin": "12712-24",
+     "titulo": "Ley de Patrimonio Cultural",
+     "sintesis": "Cambia la Ley de Monumentos Nacionales por una Ley de Patrimonio Cultural, con un Consejo Nacional del Patrimonio Cultural. Está en segundo trámite en el Senado, en la Comisión de Cultura.",
+     "url": "https://urgenciaskast.cl/p/12712-24.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-30",
+   "hora": "15:30",
+   "camara": "Senado",
+   "organo": "Comisión de Hacienda",
+   "proyectos": [
+    {
+     "boletin": "18643-05",
+     "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
+     "sintesis": "Reforma el mercado de capitales para facilitar el crédito de vivienda, crea el Fondo Nacional para la Vivienda y un ahorro voluntario para la casa propia. Está en el Senado, con discusión inmediata.",
+     "url": "https://urgenciaskast.cl/p/18643-05.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-30",
+   "hora": "15:30",
+   "camara": "Senado",
    "organo": "Comisión de Minería y Energía",
    "proyectos": [
     {
@@ -144,6 +172,20 @@
      "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
      "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/14838-03.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-12-01",
+   "hora": "10:00",
+   "camara": "Senado",
+   "organo": "Comisión de Vivienda y Urbanismo",
+   "proyectos": [
+    {
+     "boletin": "18644-14",
+     "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
+     "sintesis": "Incluye las obras de Bomberos en la excepción de permisos municipales para facilitar la construcción de cuarteles y abre un plazo hasta 2029 para regularizar los existentes. Está en segundo trámite, en el Senado.",
+     "url": "https://urgenciaskast.cl/p/18644-14.html"
     }
    ]
   },
