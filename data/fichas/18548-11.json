@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "boletin": "18548-11",
+  "nivel": "basica",
+  "sintesis": "Obliga a que los médicos becados para zonas extremas cumplan su servicio público obligatorio solo en zonas extremas o territorios especiales. Está en primer trámite en el Senado.",
+  "materia": "el servicio obligatorio de médicos en zonas extremas",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que algunos médicos becados pagan las multas para no cumplir su período asistencial obligatorio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ese período es el tiempo que deben trabajar en el sistema público a cambio de la beca.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según los autores, así se van al sector privado o a las grandes ciudades, y los hospitales regionales quedan sin especialistas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los becados con fondos o cupos de zonas extremas solo podrían cumplir ese período en otra zona extrema o territorio especial.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Entre ellas se nombran Arica y Parinacota, Tarapacá, Aysén, Magallanes, Isla de Pascua, Juan Fernández y la provincia de Palena.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Negarse a cumplir en la zona de origen, sin permiso de traslado, sería un incumplimiento injustificado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega dos incisos, o párrafos, al artículo 12 de la ley 19.664, sobre profesionales de los Servicios de Salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El incumplimiento activaría la inhabilitación, una prohibición como castigo, que ya fija ese artículo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los médicos becados con cargo a fondos o cupos de zonas extremas o territorios especiales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según los fundamentos, busca resguardar la atención en esos lugares.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en el Senado, sin urgencia, desde su ingreso el 4 de agosto de 2026.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La Sala acordó que lo vea solo la Comisión Especial de Zonas Extremas y Territorios Especiales.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Esa comisión lo citó para el 2 de diciembre, para votar una indicación (un cambio propuesto) del gobierno.",
+        "fuentes": [
+          "a1"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "médicos en zonas extremas",
+    "período asistencial obligatorio",
+    "becas de especialidad médica",
+    "especialistas en regiones extremas",
+    "médicos devolución de beca"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 19.664, con el objeto de establecer la movilidad territorial exclusiva entre zonas extremas y territorios especiales del país para los médicos que deben cumplir su período asistencial obligatorio",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19230&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-04",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18548-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18548",
+      "fecha": "2026-11-25",
+      "nota": "Etapa y trámites."
+    },
+    {
+      "id": "a1",
+      "titulo": "Senado, citaciones de comisiones: Comisión Especial de Zonas Extremas y Territorios Especiales, 2 de diciembre de 2026",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-26",
+      "nota": "Citación para votar la indicación del Ejecutivo."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
