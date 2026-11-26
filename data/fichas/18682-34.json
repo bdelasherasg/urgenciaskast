@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "boletin": "18682-34",
+  "nivel": "basica",
+  "sintesis": "Aumenta el castigo a quien incumpla órdenes judiciales que protegen a víctimas de violencia intrafamiliar o contra las mujeres. Está en primer trámite en la Cámara.",
+  "materia": "el castigo por incumplir medidas de protección a víctimas de violencia",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que incumplir estas órdenes tiene la misma pena general que incumplir otras resoluciones de los jueces.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que es especialmente grave, porque las órdenes buscan evitar nueva violencia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Hoy la pena es reclusión menor, un tipo de cárcel, en grado medio a máximo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El proyecto la fija solo en grado máximo, el tramo más alto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Además agrega una multa de 5 a 30 unidades tributarias mensuales, una medida en pesos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un inciso, o párrafo, al artículo 240 del Código de Procedimiento Civil.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ajusta las leyes de violencia intrafamiliar, de violencia contra las mujeres y de Tribunales de Familia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes incumplan estas órdenes y a las víctimas que ellas protegen.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, en la Comisión de Mujeres y Equidad de Género.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "En noviembre se acordó tratarlo junto con un proyecto del Gobierno, el boletín 18621-34.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "quebrantamiento medidas cautelares violencia intrafamiliar",
+    "incumplimiento orden de alejamiento",
+    "penas por violar prohibición de acercamiento",
+    "desacato violencia contra las mujeres",
+    "medidas de protección víctimas VIF"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Fortalece la protección de las mujeres víctimas de violencia y de las víctimas de violencia intrafamiliar, agravando la sanción aplicable al quebrantamiento de resoluciones judiciales dictadas en su favor",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19359&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-07",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18682-34 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18682",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas, iniciativa y proyectos refundidos."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
