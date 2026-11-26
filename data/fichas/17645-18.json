@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "boletin": "17645-18",
+  "nivel": "basica",
+  "sintesis": "Da atención preferente a las embarazadas en trámites ante el Estado y prioridad en beneficios a ellas y a niños en programas de protección. Está en primer trámite en la Cámara.",
+  "materia": "la atención preferente a embarazadas y niños protegidos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las ayudas sociales se enfocan en familias de bajos ingresos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según sus autores, las embarazadas y los niños al cuidado del Estado son grupos frágiles que no reciben una atención propia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Las embarazadas tendrían atención preferente en trámites presenciales ante organismos del Estado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si lo piden, tendrían prioridad en beneficios sociales, becas y subsidios de vivienda.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También en las garantías explícitas de salud (GES, atenciones aseguradas por ley), hasta un año después del parto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los niños y adolescentes en programas de protección especializada tendrían prioridad en beneficios, becas y salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Al salir de esos programas, la tendrían en subsidios de vivienda.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea un derecho que, según los fundamentos, hoy existe en salud para otros grupos, como adultos mayores y personas con discapacidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a embarazadas, a niños y adolescentes en esos programas y a los organismos del Estado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Comisión de la Familia de la Cámara lo aprobó en general (la idea central) el 1 de diciembre de 2025.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Luego pasó a la Comisión de Desarrollo Social, que lo trató el 19 de octubre de 2026.",
+        "fuentes": [
+          "f6",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite, con urgencia simple.",
+        "fuentes": [
+          "f6"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "atención preferente a embarazadas",
+    "prioridad beneficios sociales embarazadas",
+    "niños en protección especializada",
+    "trámites preferentes embarazadas",
+    "egresados protección especializada vivienda"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece derecho de atención preferente para realizar trámites presenciales y de priorización en el otorgamiento de prestaciones y beneficios sociales, a personas que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18289&tipodoc=mensaje_mocion",
+      "fecha": "2025-06-17",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de la Familia · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27834&tipodoc=info",
+      "fecha": "2026-01-21",
+      "nota": "Primer informe de la Comisión de la Familia (leído parcialmente)."
+    },
+    {
+      "id": "f5",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-19",
+      "nota": "Registro de la sesión de la Comisión de Desarrollo Social."
+    },
+    {
+      "id": "f6",
+      "titulo": "Tramitación del boletín 17645-18 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17645",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
