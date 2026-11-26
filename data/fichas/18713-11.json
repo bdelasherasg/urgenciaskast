@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "boletin": "18713-11",
+  "nivel": "basica",
+  "sintesis": "Simplifica el permiso sanitario para negocios de bajo riesgo, como los que solo venden alimentos envasados sin refrigeración. Está en primer trámite en la Cámara.",
+  "materia": "la autorización sanitaria de negocios de bajo riesgo",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que obtener el informe sanitario demora en promedio 122 días en la Región Metropolitana.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que una vía más simple, creada en 2025, no funciona porque falta su reglamento, es decir, las normas que la detallan.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Exige permiso sanitario expreso solo a locales que elaboren o manipulen alimentos, o permitan consumirlos allí.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Deja fuera la sola venta de alimentos envasados que no necesitan frío.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Da seis meses para dictar el reglamento pendiente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el Código Sanitario y el DFL 1 de 1989 del Ministerio de Salud.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite que la autoridad regional de salud avise directamente al municipio, por medios electrónicos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a pequeños comercios de alimentos, municipios y oficinas regionales de salud.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 6 de octubre pasó a la Comisión de Gobierno Interior.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre, esa comisión continuó su estudio y escuchó al alcalde de Huechuraba.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "autorización sanitaria bajo riesgo",
+    "permiso sanitario almacenes",
+    "patente municipal informe sanitario",
+    "declaración jurada sanitaria comercio",
+    "venta de alimentos envasados permiso"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Decreto con Fuerza de Ley N°1, de 1989, del Ministerio de Salud, para activar y precisar el régimen de autorización sanitaria aplicable a actividades económicas de bajo riesgo",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19398&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-16",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21636: Comunica a la Comisión de Gobierno Interior el acuerdo de la Sala en orden a remitirle el proyecto de ley, originalmente asignado a la Comisión de Salud.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37302&tipodoc=ofic",
+      "fecha": "2026-10-06",
+      "nota": "Envío a la Comisión de Gobierno Interior."
+    },
+    {
+      "id": "f3",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-03",
+      "nota": "Resultado de la sesión del 3 de noviembre."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18713-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18713",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
