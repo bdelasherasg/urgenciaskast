@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "16962-01",
+  "nivel": "basica",
+  "sintesis": "Establece como deber del Estado proteger la fauna silvestre y evitar que sus especies se extingan. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
+  "materia": "la protección de la fauna silvestre",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción advierte graves amenazas a la fauna nativa y cita ataques de perros a huemules y pudúes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que la ley no fija un deber del Estado de proteger esa fauna, aunque es clave para conservar el medio ambiente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Declara que el Estado debe proteger la fauna silvestre.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los organismos competentes tendrían que tomar todas las medidas para cuidar las especies que la norma señala.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El Estado también debería evitar el riesgo de que las especies silvestres se extingan.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un inciso, o párrafo, al artículo 3 de la Ley de Caza, contenida en la ley 19.473.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Ajusta otro inciso del mismo artículo para que remita a los anteriores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los organismos del Estado a cargo de estas materias.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a las especies de fauna silvestre que la ley busca proteger.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Se tramita junto a los proyectos 18269-01 y 18400-01, y este es el principal.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre de 2026, la Comisión de Agricultura siguió la discusión en particular (artículo por artículo).",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "protección de la fauna silvestre",
+    "huemul ataques de perros",
+    "pudú atacado por perros",
+    "Ley de Caza reforma",
+    "especies nativas en peligro"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica cuerpos legales que indica para establecer, como deber del Estado, la protección de la fauna silvestre",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17576&tipodoc=mensaje_mocion",
+      "fecha": "2024-07-02",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 16962-01 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16962",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, refundición y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
