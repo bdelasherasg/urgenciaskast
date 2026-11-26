@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18309-14",
+  "nivel": "basica",
+  "sintesis": "Exige que las obras para reducir el impacto de proyectos inmobiliarios se hagan antes o junto con la construcción. Está en primer trámite en la Cámara, en la Comisión de Vivienda.",
+  "materia": "las medidas de mitigación de proyectos inmobiliarios",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las medidas de mitigación (obras para reducir el impacto de un proyecto) no se cumplen bien.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Apunta a fallas en la exigencia y la fiscalización.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a empresas que dividen o ajustan proyectos para evitarlas, como diseñar 99 viviendas cuando la regla rige desde 100.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El permiso de edificación dependería de cumplir antes, o al menos a la vez que la obra, las medidas de mitigación directa necesarias.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las medidas directas necesarias no podrían aplazarse con una caución, es decir, una garantía.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dividir, reducir o modificar un proyecto no permitiría evitarlas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica los artículos 116, 134 y 173 de la Ley General de Urbanismo y Construcciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega un artículo 173 bis, para medir el impacto total del proyecto.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes desarrollan proyectos inmobiliarios y a las autoridades que los revisan.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, busca proteger a las comunidades cercanas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 8 de junio de 2026 pasó a la Comisión de Vivienda y Desarrollo Urbano, donde espera su primer informe.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "medidas de mitigación inmobiliarias",
+    "mitigación vial de edificios",
+    "permiso de edificación mitigaciones",
+    "inmobiliarias fraccionan proyectos",
+    "Ley de Urbanismo mitigaciones"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la Ley General de Urbanismo y Construcciones para exigir la ejecución previa o simultánea de las medidas de mitigación directas en proyectos inmobiliarios",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18983&tipodoc=mensaje_mocion",
+      "fecha": "2026-05-31",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18309-14 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18309",
+      "fecha": "2026-11-25",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
