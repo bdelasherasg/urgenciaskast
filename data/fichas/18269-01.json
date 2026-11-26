@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "18269-01",
+  "nivel": "basica",
+  "sintesis": "Permite tomar medidas, como la captura, contra perros salvajes que atacan ganado, con denuncia previa. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
+  "materia": "el control de perros salvajes",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los perros ferales, que viven como salvajes y sin contacto humano, atacan personas, ganado y fauna.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita al Servicio Agrícola y Ganadero: entre 2012 y 2026 hubo 888 denuncias de ataques asociados a perros.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que la ley actual no distingue estos animales de los perros domésticos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Define los perros salvajes o ferales y los separa de las mascotas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quienes sufran ataques a sus animales de producción podrían usar en sus predios medidas como la captura, según un reglamento.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Antes deberían hacer una denuncia con pruebas, como fotos o informes veterinarios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea una ley especial sobre esta materia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "No habría responsabilidad penal por el delito del artículo 291 bis del Código Penal al defenderse, o defender a terceros o al ganado, de un ataque actual o inminente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a dueños o responsables de ganado y a comunidades rurales, en especial del sur.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Se tramita junto a los proyectos 16962-01 (el principal) y 18400-01.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre de 2026, la Comisión de Agricultura siguió la discusión en particular (artículo por artículo).",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "perros asilvestrados ganado",
+    "perros ferales",
+    "ataques de perros a ovejas",
+    "jaurías en zonas rurales",
+    "control de perros asilvestrados"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece medidas de prevención y control de riesgos asociados a perros salvajes o ferales, en la seguridad de las personas, el ganado y la fauna silvestre",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18948&tipodoc=mensaje_mocion",
+      "fecha": "2026-05-13",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18269-01 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18269",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, refundición y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
