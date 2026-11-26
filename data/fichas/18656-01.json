@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "boletin": "18656-01",
+  "nivel": "basica",
+  "sintesis": "Exige acreditar el origen legal de frutos secos con un sistema de trazabilidad, es decir, de seguimiento desde el campo. Está en primer trámite en la Cámara.",
+  "materia": "la trazabilidad de los frutos secos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que el robo de frutos secos preocupa a productores y exportadores.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita robos de camiones con cargas de nueces de alto valor.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Quienes elaboren, transporten, vendan o distribuyan frutos secos del campo deberán probar su origen legal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Incluye almendras, nueces, avellanas y castañas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La información podrá consultarse en un sistema electrónico, por ejemplo con un código QR.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea un sistema especial, además de las obligaciones de impuestos que ya existen.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Un reglamento, que dicta el Gobierno en un año, fijará desde qué cantidades se exigirá.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a elaboradores, transportistas, comerciantes y distribuidores de frutos secos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, con urgencia simple.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre, la Comisión de Agricultura continuó su estudio y escuchó a un representante de Odepa, la oficina de estudios agrarios.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "trazabilidad de frutos secos",
+    "robo de nueces",
+    "origen legal frutos secos",
+    "robo agrícola avellanas",
+    "robo de camiones con nueces"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece un sistema especial de trazabilidad aplicable a frutos secos, con el propósito de acreditar su origen legal con fines de seguridad",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19339&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-24",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la sesión del 20 de octubre."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18656-01 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18656",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas, urgencia e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
