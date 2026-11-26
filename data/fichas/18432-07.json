@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "boletin": "18432-07",
+  "nivel": "basica",
+  "sintesis": "Limita el delito de apremios ilegítimos, malos tratos que no llegan a ser tortura, a víctimas bajo custodia de un empleado público. Está en primer trámite en la Cámara.",
+  "materia": "el delito de apremios ilegítimos cometido por empleados públicos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley actual no exige que la víctima esté bajo custodia o control del funcionario.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que por eso se ha usado en casos muy distintos, como procedimientos policiales o controles del orden público.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Exige que la víctima esté bajo custodia del empleado público para que exista este delito.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El nuevo texto también menciona actuar en incumplimiento de los reglamentos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sanciona igual a quien conozca los hechos y no los detenga, pudiendo y teniendo autoridad para hacerlo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Reemplaza el primer párrafo del artículo 150 D del Código Penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, mantiene las penas más altas cuando la víctima es menor de edad o vulnerable, por ejemplo por vejez o enfermedad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a empleados públicos y a las personas que ellos tienen bajo custodia.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, en la Comisión de Constitución, con urgencia simple.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre, esa comisión continuó su estudio y escuchó a diputados autores de la moción.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "apremios ilegítimos",
+    "delito de apremios ilegítimos",
+    "artículo 150 D Código Penal",
+    "apremios ilegítimos carabineros custodia",
+    "tratos crueles funcionarios públicos"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código Penal para delimitar la aplicación del tipo penal de apremios ilegítimos u otros tratos crueles, inhumanos o degradantes, a conductas cometidas por empleados públicos respecto de personas bajo su custodia",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19117&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-25",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la sesión del 20 de octubre."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18432-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18432",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas, urgencia e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
