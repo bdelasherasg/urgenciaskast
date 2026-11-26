@@ -3169,20 +3169,23 @@ Ver los proyectos con urgencia
 URL: https://urgenciaskast.cl/p/17702-15.html
 
 Urgencias/Boletín 17702-15SumaPlazo vencidoAhora en el SenadoCitado el 2 dic 2026
-## Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos
-- 1. Resumen del proyecto
+Título oficialModifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos
+## Cambia las reglas contra las carreras no autorizadas y las maniobras peligrosas con vehículos, y sube sanciones. La Cámara lo aprobó y el Senado revisa indicaciones en segundo trámite.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17702-15
 14 jul 2025, Cámara
 Suma · Plazo vencido
 Próxima citación
 2 dic 2026, 09:00 · Comisión de Transportes y Telecomunicaciones
 500 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-Plazo vencido el 19 de agosto de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.1
+La moción dice que la ley actual exige probar que había una carrera o competencia no autorizada.1 Sostiene que eso es difícil de probar, que hay muy pocas condenas y que conductas peligrosas quedan sin castigo.1
+El texto aprobado por la Cámara sanciona moverse junto a otros vehículos, o uno tras otro, sobre la velocidad permitida.4 También sanciona derrapes y otras maniobras que puedan poner en peligro a terceros.4 Aumenta penas y multas.24 Considera agravante, es decir, motivo de mayor castigo, actuar cerca de colegios, centros de salud o lugares concurridos, en zonas urbanas o de baja velocidad.4
+Modifica la Ley de Tránsito.4 Agrega una multa al dueño de un vehículo que supere el límite en 60 kilómetros por hora, salvo excepciones.4 Permite instalar equipos automáticos de control en autopistas concesionadas, que son caminos a cargo de una empresa privada.4
+Afecta a conductores, dueños de vehículos y empresas concesionarias de caminos.4
+El informe financiero del 19 de noviembre dice que las nuevas indicaciones, o cambios propuestos, no generan mayor gasto fiscal.3 Explica que la fiscalización se hará con los presupuestos de cada institución.3
+El 2 de septiembre, el Senado aprobó en general el proyecto, en segundo trámite.5 El 23 de noviembre se registraron las indicaciones.5 La Comisión de Transportes del Senado citó para el 2 de diciembre para empezar a estudiarlas.6
+Plazo vencido el 19 de agosto de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.7
 6urgencias desde marzo de 2026
 4renovaciones
 1cambios de tipo
@@ -3201,11 +3204,18 @@ Plazo vencido el 19 de agosto de 2026. No figura una urgencia nueva en los datos
 - 23 nov 2026 · SenadoBoletín de indicaciones.
 - 23 nov 2026 · SenadoOficio N°IF 278-2026.
 - 2 dic 2026 · 09:00Citado: Comisión de Transportes y Telecomunicaciones, SenadoSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17702-15Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17702-15Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la conducción temeraria de vehículos
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos2025-07-14. Fundamentos de la moción.
+- 2Informe de comisión · Primer informe de comisión de Transportes y Telecomunicaciones · Segundo trámite constitucional2026-08-06. Primer informe de la comisión del Senado.
+- 3Oficio N° IF 278-2022026-11-23. Informe financiero complementario N° 278 y descripción de las indicaciones.
+- 4Oficio N° 209872026-01-13. Texto aprobado por la Cámara.
+- 5Tramitación del boletín 17702-15 (servicio web público del Senado)2026-11-26. Etapa, fechas y urgencia.
+- 6Senado, citaciones de comisiones2026-11-26. Citación del 2 de diciembre, según la agenda del sitio.
+- 7Senado, ficha de tramitación del boletín 17702-15Consulta automática. Etapas, trámites y urgencias.
+- 8Cámara de Diputadas y Diputados, tramitación del boletín 17702-15Consulta automática
+- 9Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17709-02
 
@@ -5788,6 +5798,28 @@ Vence en 13 días · 9 dic 2026. La suma corre en el Senado desde el 24 de novie
 - 5Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 18432-07
+
+URL: https://urgenciaskast.cl/p/18432-07.html
+
+Urgencias/Boletín 18432-07
+## Limita el delito de apremios ilegítimos, malos tratos que no llegan a ser tortura, a víctimas bajo custodia de un empleado público. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18432-07
+La moción dice que la ley actual no exige que la víctima esté bajo custodia o control del funcionario.1 Sostiene que por eso se ha usado en casos muy distintos, como procedimientos policiales o controles del orden público.1
+Exige que la víctima esté bajo custodia del empleado público para que exista este delito.1 El nuevo texto también menciona actuar en incumplimiento de los reglamentos.1 Sanciona igual a quien conozca los hechos y no los detenga, pudiendo y teniendo autoridad para hacerlo.1
+Reemplaza el primer párrafo del artículo 150 D del Código Penal.1 Según la moción, mantiene las penas más altas cuando la víctima es menor de edad o vulnerable, por ejemplo por vejez o enfermedad.1
+Afecta a empleados públicos y a las personas que ellos tienen bajo custodia.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, en la Comisión de Constitución, con urgencia simple.3 El 20 de octubre, esa comisión continuó su estudio y escuchó a diputados autores de la moción.2
+### Para conducir la discusión de el delito de apremios ilegítimos cometido por empleados públicos
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica el Código Penal para delimitar la aplicación del tipo penal de apremios ilegítimos u otros tratos crueles, inhumanos o degradantes, a conductas cometidas por empleados públicos respecto de personas bajo su custodia2026-06-25. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-20. Resultado de la sesión del 20 de octubre.
+- 3Tramitación del boletín 18432-07 (servicio web público del Senado)2026-11-25. Etapa, fechas, urgencia e iniciativa.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
 ## Boletín 18434-07
 
 URL: https://urgenciaskast.cl/p/18434-07.html
@@ -6015,19 +6047,22 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18507-04.html
 
 Urgencias/Boletín 18507-04Sin plazo informadoAhora en la Cámara
-## Incorpora la alfabetización en materias digitales y sobre inteligencia artificial en el curriculum educacional
-- 1. Resumen del proyecto
+Título oficialIncorpora la alfabetización en materias digitales y sobre inteligencia artificial en el curriculum educacional
+## Incorpora a los objetivos de la enseñanza básica y media aprender a programar y a entender la inteligencia artificial. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18507-04
 21 jul 2026, Cámara
 Primer trámite, Cámara
 128 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que la escuela no enseña a entender los sistemas digitales que influyen en la vida diaria.1 Sostiene que la enseñanza de programación depende de cada colegio y de sus recursos.1 Agrega que las niñas participan menos en ella.1
+Agrega como objetivo aprender a pensar en forma computacional, es decir, dividir problemas, reconocer patrones y ordenar pasos.1 También incluye programar y entender con mirada crítica los sistemas de inteligencia artificial.1 En la enseñanza media, agrega reconocer sus límites, riesgos y sesgos, que son errores que favorecen o perjudican a ciertos grupos.1
+Modifica los artículos 29 y 30 de la Ley General de Educación.1
+Afecta a los establecimientos reconocidos por el Estado y a sus estudiantes de básica y media.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara.3 El 3 de agosto, la Cámara acordó enviarlo a la Comisión de Futuro, Ciencias y Tecnología, en vez de la Comisión de Educación.23
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-1
+4
 0urgencias desde marzo de 2026
 0renovaciones
 - 21 jul 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
@@ -6035,11 +6070,15 @@ Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un 
 - 3 ago 2026 · CámaraA petición del diputado Cristian Tapia, la Sala acordó radicar el proyecto en la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación.
 - 4 ago 2026 · CámaraOficio N° 21429. Comunica a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación el acuerdo de la Sala, en orden remiti a ésta el proyecto de ley, correspondiente al boletín N° 18.507-04, inicialmente asignado a la Comisión de Educación.
 - 13 ago 2026 · CámaraEximido del trámite ante Comisión Derivado a Comisión de Ciencias y Tecnología
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18507-04Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18507-04Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la enseñanza de programación e inteligencia artificial en colegios
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Incorpora la alfabetización en materias digitales y sobre inteligencia artificial en el curriculum educacional2026-07-21. Fundamentos y texto de la moción.
+- 2Oficio N° 21429: Remitir a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación,el proyecto de ley, correspondiente al boletín N° 18.507-04, inicialmente asignado a la Comisión de Educación2026-08-04. Derivación a la Comisión de Futuro.
+- 3Tramitación del boletín 18507-04 (servicio web público del Senado)2026-11-25. Etapa, fechas e iniciativa.
+- 4Senado, ficha de tramitación del boletín 18507-04Consulta automática. Etapas, trámites y urgencias.
+- 5Cámara de Diputadas y Diputados, tramitación del boletín 18507-04Consulta automática
+- 6Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18509-35
 
@@ -6069,21 +6108,24 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18521-07.html
 
 Urgencias/Boletín 18521-07SimpleVence en 27 díasAhora en la Cámara
-## Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas
-- 1. Resumen del proyecto
+Título oficialModifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas
+## Reforma la Constitución para que altas autoridades se sometan a exámenes de drogas y dejen el cargo si dan positivo sin justificación médica. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18521-07
 Mensaje del Presidente
 3 ago 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 27 días
 115 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+El Gobierno dice que las leyes sobre control de drogas difieren en autoridades, frecuencia y consecuencias.2 Sostiene que no hay una norma común para estos cargos.2
+Obliga a hacerse exámenes al asumir y de forma periódica, con resultados públicos.12 Detectar drogas ilegales hará perder el cargo, salvo que un tratamiento médico lo justifique.12 Una ley de quórum calificado, que exige una mayoría especial, fijará los procedimientos.12
+Agrega normas al artículo 8 de la Constitución y crea un artículo 38 ter.12 Para cargos de confianza exclusiva del Presidente, el resultado positivo será incompatible con ejercerlos.12
+Alcanza al Presidente, ministros, parlamentarios, alcaldes, concejales y jefes de las Fuerzas Armadas y policías, entre otros.12
+Dato pendiente No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.
+Está en primer trámite en la Cámara, con urgencia simple, unido a dos mociones sobre la misma materia.4 El 4 de noviembre, la Comisión de Constitución continuó su estudio y escuchó a académicos expertos.3
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 27 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de noviembre de 2026.1
+Vence en 27 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de noviembre de 2026.5
 8urgencias desde marzo de 2026
 5renovaciones
 2cambios de tipo
@@ -6106,11 +6148,16 @@ Resultado de cada sesión en que se trató este proyecto, según lo informa la C
 FechaComisiónResultado
 4 nov 2026Constitución, Legislación, Justicia y ReglamentoContinuó su estudio. Expusieron los profesores de derecho constitucional doña Marisol Peña y don Diego Pardo, y el Decano de la Facultad de Química y Farmacia de la Universidad de Chile, don Pablo Richter.
 20 oct 2026Constitución, Legislación, Justicia y ReglamentoContinuó su estudio. Expusieron el General Director (S) de Carabineros don Enrique Monrás, el Jefe de Jurídica institucional de la Policía de Investigaciones, Prefecto Inspector (J) don Daniel Solís y el abogado asesor de la Unidad Especializada de Crimen Organizado y Drogas del Ministerio Público don Samuel Malamud.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18521-07Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18521-07Consulta automática
-- 3Texto del mensaje presidencialDocumento original del proyecto.
+### Para conducir la discusión de los exámenes de drogas a autoridades
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Mensaje: Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas2026-08-03. Mensaje: texto de la reforma propuesta.
+- 2Oficio N° : Texto del Mensaje.2026-08-04. Texto del mensaje, con fundamentos y articulado.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-04. Sesiones de la comisión.
+- 4Tramitación del boletín 18521-07 (servicio web público del Senado)2026-11-25. Etapa, fechas, urgencia y proyectos refundidos.
+- 5Senado, ficha de tramitación del boletín 18521-07Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18521-07Consulta automática
+- 7Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18525-06
 
@@ -6252,19 +6299,46 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18537-06.html
 
-Boletín 18537-06
-## Este proyecto no está en seguimiento
-No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el sitio del Senado.
-Ver los proyectos con urgencia
+Urgencias/Boletín 18537-06
+## Crea un delito para castigar matrimonios y uniones civiles simulados con el fin de obtener residencia u otros beneficios migratorios. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18537-06
+La moción dice que algunas personas simulan matrimonios o uniones civiles para obtener residencia.1 Cita que las solicitudes por unión civil de extranjeros en situación irregular subieron de 1.946 en 2024 a más de 4.200 en 2025.1 Sostiene que hoy solo hay sanciones administrativas, como rechazar el permiso.1
+Castiga con cárcel y multa a quienes participen en estas uniones falsas con fines migratorios.1 La multa va de 100 a 500 unidades tributarias mensuales, una medida en pesos.1 Pone penas mayores si hay organización, habitualidad o intermediarios que ganan dinero con ello.1
+Agrega el artículo 383 bis al Código Penal.1 Modifica la Ley de Migración para que esta conducta quite la residencia o el beneficio.1
+Afecta a quienes se casen o unan de forma simulada, a quienes cobren o paguen por ello y a las agencias intermediarias.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+Está en primer trámite en la Cámara, con urgencia simple. Se estudia junto con el boletín 18544-06.42 El 3 de noviembre, la Comisión de Gobierno Interior escuchó al ministro de Justicia y acordó votar la idea de legislar en la próxima sesión.3
+### Para conducir la discusión de los matrimonios y uniones civiles simulados con fines migratorios
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Tipifica la simulación al celebrar matrimonios o acuerdos de unión civil con fines migratorios2026-07-31. Fundamentos y texto de la moción.
+- 2Oficio N° 21.579: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización para refundir los proyectos de ley correspondientes a los boletines Nos. 18.537-06 y 18.544-06.2026-09-21. Acuerdo para tramitarlo junto con otra moción.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-03. Resultado de la sesión del 3 de noviembre.
+- 4Tramitación del boletín 18537-06 (servicio web público del Senado)2026-11-25. Etapa, fechas, urgencia e iniciativa.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18544-06
 
 URL: https://urgenciaskast.cl/p/18544-06.html
 
-Boletín 18544-06
-## Este proyecto no está en seguimiento
-No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el sitio del Senado.
-Ver los proyectos con urgencia
+Urgencias/Boletín 18544-06
+## Castiga los matrimonios y uniones civiles pactados solo para obtener residencia o beneficios del Estado, y a quienes lucran organizándolos. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18544-06
+La moción dice que no hay un delito que castigue directamente estas uniones falsas.1 Sostiene que pueden usarse para obtener residencia, evitar una expulsión o acceder a beneficios estatales.1 Aclara que no se debe presumir fraude en la mayoría de las parejas mixtas.1
+Castiga con cárcel de 541 días a tres años y multa a quienes se pongan de acuerdo para unirse solo con el fin de obtener residencia.1 Fija penas mayores para quien organice o facilite estas uniones para ganar dinero.1 También castiga hacerlo para obtener prestaciones, o pagos y beneficios, que no corresponden.1
+Agrega el artículo 384 bis al Código Penal y un nuevo numeral al artículo 470, sobre fraudes.1
+Afecta a los contrayentes, a los intermediarios y a organismos del Estado que entregan beneficios.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, con urgencia simple. Se estudia junto con el boletín 18537-06.3 El 3 de noviembre, la Comisión de Gobierno Interior escuchó al ministro de Justicia y acordó votar la idea de legislar en la próxima sesión.2
+### Para conducir la discusión de los matrimonios pactados para obtener residencia o beneficios estatales
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Sanciona la celebración de matrimonios y acuerdos de unión civil destinados a obtener beneficios estatales o residencia en el país2026-08-04. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-03. Resultado de la sesión del 3 de noviembre.
+- 3Tramitación del boletín 18544-06 (servicio web público del Senado)2026-11-25. Etapa, fechas, urgencia, iniciativa y proyectos refundidos.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18548-11
 
@@ -6496,28 +6570,34 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18583-14.html
 
 Urgencias/Boletín 18583-14Sin plazo informadoAhora en la Cámara
-## Modifica el decreto ley N°1.305, de 1975, para garantizar que las postulaciones a los programas habitacionales puedan realizarse de modo individual o colectivo
-- 1. Resumen del proyecto
+Título oficialModifica el decreto ley N°1.305, de 1975, para garantizar que las postulaciones a los programas habitacionales puedan realizarse de modo individual o colectivo
+## Prohíbe exigir que las familias pertenezcan a un comité u otra organización para postular a programas de vivienda del Estado. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18583-14
 7 ago 2026, Cámara
 Primer trámite, Cámara
 111 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que en la práctica muchas familias necesitan integrar un comité de vivienda para obtener un subsidio.1 Sostiene que eso implica cuotas y reuniones durante años, y que se han denunciado cobros indebidos.1
+Los Servicios de Vivienda y Urbanización, conocidos como Serviu, no podrán exigir pertenecer a una organización.1 Las familias podrán postular solas y directamente ante el Serviu.1 Las postulaciones en grupo seguirán permitidas si son voluntarias.1
+Agrega un párrafo al artículo 28 del decreto ley 1.305, de 1975, del Ministerio de Vivienda.1 La moción dice que hoy ninguna ley garantiza expresamente postular sin pertenecer a una organización.1
+Afecta a las familias que postulan, a los Serviu y a los comités, cooperativas y fundaciones de vivienda.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+Está en primer trámite en la Cámara.2 El 18 de agosto pasó a la Comisión de Vivienda y Desarrollo Urbano, que debe emitir el primer informe.2
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-1
+3
 0urgencias desde marzo de 2026
 0renovaciones
 - 7 ago 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 18 ago 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo UrbanoLa Sala toma conocimiento del proyecto y lo envía a comisión.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18583-14Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18583-14Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la postulación individual a los programas de vivienda
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica el decreto ley N°1.305, de 1975, para garantizar que las postulaciones a los programas habitacionales puedan realizarse de modo individual o colectivo2026-08-07. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18583-14 (servicio web público del Senado)2026-11-25. Etapa, fechas e iniciativa.
+- 3Senado, ficha de tramitación del boletín 18583-14Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18583-14Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18584-25
 
@@ -7006,37 +7086,79 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18649-14.html
 
 Urgencias/Boletín 18649-14Sin plazo informadoAhora en la Cámara
-## Prohíbe urbanizar o edificar en zonas con riesgo de inundación y establece sanciones por incumplimiento
-- 1. Resumen del proyecto
+Título oficialProhíbe urbanizar o edificar en zonas con riesgo de inundación y establece sanciones por incumplimiento
+## Prohíbe urbanizar y construir en zonas con riesgo de inundación, con multas y sanciones para quienes lo incumplan. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18649-14
 18 ago 2026, Cámara
 Primer trámite, Cámara
 100 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que se ha construido en terrenos que se inundan.1 Sostiene que hoy se puede edificar en áreas de riesgo si hay un estudio y obras de mitigación, que reducen el daño.1 Afirma que esa regla no ha sido suficiente.1
+Prohíbe urbanizar y edificar en toda zona identificada con riesgo de inundación, incluso con inundaciones en períodos de hasta diez años.1 Exceptúa obras de defensa o hidráulicas, y otras que no expongan a más personas.1 Impide dar permisos o recibir obras en esas zonas.1
+Reemplaza el artículo 97 del DFL 850, un decreto con fuerza de ley.1 Fija multas de 100 a 1.000 unidades tributarias mensuales, una medida en pesos.1 Si se repite la falta, no habrá nuevos permisos por diez años.1
+Afecta a propietarios, urbanizadores y constructoras, y a las Direcciones de Obras Municipales.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+Está en primer trámite en la Cámara.2 El 21 de septiembre pasó a la Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.2
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-1
+3
 0urgencias desde marzo de 2026
 0renovaciones
 - 18 ago 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 21 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.La Sala toma conocimiento del proyecto y lo envía a comisión.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18649-14Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18649-14Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la prohibición de construir en zonas con riesgo de inundación
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Prohíbe urbanizar o edificar en zonas con riesgo de inundación y establece sanciones por incumplimiento2026-08-18. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18649-14 (servicio web público del Senado)2026-11-25. Etapa, fechas e iniciativa.
+- 3Senado, ficha de tramitación del boletín 18649-14Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18649-14Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18655-06
 
 URL: https://urgenciaskast.cl/p/18655-06.html
 
-Boletín 18655-06
-## Este proyecto no está en seguimiento
-No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el sitio del Senado.
-Ver los proyectos con urgencia
+Urgencias/Boletín 18655-06
+## Permite a las municipalidades pedir a un juez que clausure por un tiempo inmuebles con infracciones repetidas que afectan al vecindario. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18655-06
+La moción dice que hoy los municipios solo pueden clausurar en casos limitados, como falta de patente o de permisos de obras.1 Quedan fuera problemas como fiestas nocturnas en barrios residenciales.1
+El municipio podrá pedir la clausura al Juzgado de Policía Local tras tres o más infracciones a ordenanzas en tres meses, si afectan gravemente al barrio.1 La clausura durará de 15 a 90 días, y hasta 180 en casos agravados, como hallar armas.1 Se preferirá cerrar solo una parte cuando baste.1
+Modifica el artículo 12 de la Ley de Municipalidades y agrega un artículo 12 bis.1 Sanciona con multa incumplir la clausura.1
+Afecta a propietarios, ocupantes, locales comerciales, vecinos, municipios y juzgados.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+Está en primer trámite en la Cámara.4 El 2 de noviembre se pidió opinión a la Corte Suprema.2 El 3 de noviembre, la Comisión de Gobierno Interior dejó su análisis para otra sesión.3
+### Para conducir la discusión de la clausura temporal de inmuebles por problemas de convivencia
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la ley N° 18.695, orgánica constitucional de Municipalidades, con el objeto de facultar a dichas entidades para requerir la clausura temporal de inmuebles que constituyan focos reiterados de incivilidades graves2026-08-21. Fundamentos y texto de la moción.
+- 2Oficio N° 21.711: Solicita a la Corte Suprema su pronunciamiento en relación con el artículo 77 de la Constitución.2026-11-02. Oficio a la Corte Suprema.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-03. Resultado de la sesión del 3 de noviembre.
+- 4Tramitación del boletín 18655-06 (servicio web público del Senado)2026-11-25. Etapa, fechas e iniciativa.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
+## Boletín 18656-01
+
+URL: https://urgenciaskast.cl/p/18656-01.html
+
+Urgencias/Boletín 18656-01
+## Exige acreditar el origen legal de frutos secos con un sistema de trazabilidad, es decir, de seguimiento desde el campo. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18656-01
+La moción dice que el robo de frutos secos preocupa a productores y exportadores.1 Cita robos de camiones con cargas de nueces de alto valor.1
+Quienes elaboren, transporten, vendan o distribuyan frutos secos del campo deberán probar su origen legal.1 Incluye almendras, nueces, avellanas y castañas.1 La información podrá consultarse en un sistema electrónico, por ejemplo con un código QR.1
+Crea un sistema especial, además de las obligaciones de impuestos que ya existen.1 Un reglamento, que dicta el Gobierno en un año, fijará desde qué cantidades se exigirá.1
+Afecta a elaboradores, transportistas, comerciantes y distribuidores de frutos secos.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, con urgencia simple.3 El 20 de octubre, la Comisión de Agricultura continuó su estudio y escuchó a un representante de Odepa, la oficina de estudios agrarios.2
+### Para conducir la discusión de la trazabilidad de los frutos secos
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Establece un sistema especial de trazabilidad aplicable a frutos secos, con el propósito de acreditar su origen legal con fines de seguridad2026-08-24. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-20. Resultado de la sesión del 20 de octubre.
+- 3Tramitación del boletín 18656-01 (servicio web público del Senado)2026-11-25. Etapa, fechas, urgencia e iniciativa.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18680-15
 
@@ -7065,30 +7187,36 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18682-34.html
 
 Urgencias/Boletín 18682-34Sin plazo informadoAhora en la Cámara
-## Fortalece la protección de las mujeres víctimas de violencia y de las víctimas de violencia intrafamiliar, agravando la sanción aplicable al quebrantamiento de resoluciones judiciales dictadas en su favor
-- 1. Resumen del proyecto
+Título oficialFortalece la protección de las mujeres víctimas de violencia y de las víctimas de violencia intrafamiliar, agravando la sanción aplicable al quebrantamiento de resoluciones judiciales dictadas en su favor
+## Aumenta el castigo a quien incumpla órdenes judiciales que protegen a víctimas de violencia intrafamiliar o contra las mujeres. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18682-34
 7 sep 2026, Cámara
 Primer trámite, Cámara
 80 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que incumplir estas órdenes tiene la misma pena general que incumplir otras resoluciones de los jueces.1 Sostiene que es especialmente grave, porque las órdenes buscan evitar nueva violencia.1
+Hoy la pena es reclusión menor, un tipo de cárcel, en grado medio a máximo.1 El proyecto la fija solo en grado máximo, el tramo más alto.1 Además agrega una multa de 5 a 30 unidades tributarias mensuales, una medida en pesos.1
+Agrega un inciso, o párrafo, al artículo 240 del Código de Procedimiento Civil.1 Ajusta las leyes de violencia intrafamiliar, de violencia contra las mujeres y de Tribunales de Familia.1
+Afecta a quienes incumplan estas órdenes y a las víctimas que ellas protegen.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+Está en primer trámite en la Cámara, en la Comisión de Mujeres y Equidad de Género.2 En noviembre se acordó tratarlo junto con un proyecto del Gobierno, el boletín 18621-34.2
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-1
+3
 0urgencias desde marzo de 2026
 0renovaciones
 - 7 sep 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 29 sep 2026 · CámaraCuenta de proyecto. Pasa a Comisión Mujeres y Equidad de GéneroLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 10 nov 2026 · CámaraCuenta, oficio de la Comisión de Mujeres y Equidad de Género mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en mensaje y moción, contenidos en los boletines Nºs 18621-34 y 18682-34, respectivamente. ACORDADO. Con consulta al Ejecutivo.
 - 16 nov 2026 · CámaraOficio de S.E. el Presidente de la República mediante el cual manifiesta su conformidad en orden a refundir los proyectos de ley iniciados, en mensaje y moción, contenidos en los boletines números 18621-34 y 18682-34. (463/374)
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18682-34Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18682-34Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de el castigo por incumplir medidas de protección a víctimas de violencia
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Fortalece la protección de las mujeres víctimas de violencia y de las víctimas de violencia intrafamiliar, agravando la sanción aplicable al quebrantamiento de resoluciones judiciales dictadas en su favor2026-09-07. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18682-34 (servicio web público del Senado)2026-11-25. Etapa, fechas, iniciativa y proyectos refundidos.
+- 3Senado, ficha de tramitación del boletín 18682-34Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18682-34Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18693-06
 
@@ -7105,7 +7233,7 @@ URL: https://urgenciaskast.cl/p/18702-05.html
 
 Urgencias/Boletín 18702-05Plazo constitucional · vence el 29 nov 2026Ahora en el Senado
 Título oficialLey de Presupuestos para el Sector Público correspondiente al año 2027
-## Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara aprobó el informe de la Comisión Mixta, ahora en el Senado.
+## Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara y el Senado aprobaron la propuesta de la Comisión Mixta.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 Antes de leer
@@ -7136,7 +7264,7 @@ El 23 de noviembre, la Cámara aprobó los cambios del Senado, salvo algunos.11 
 #### Gasto total y endeudamiento
 El gasto neto propuesto es de 105,8 billones de pesos.6 El Senado agregó un artículo para que el Presidente contraiga deuda por hasta 25.000 millones de dólares.10 Suma otros 600 millones de dólares.10 La Cámara aprobó ese artículo con 95 votos a favor.11
 #### En qué va
-El 25 de noviembre, la Comisión Mixta, de diputados y senadores, entregó su informe.7 Ese día, la Cámara lo aprobó por 113 votos contra 9.78 Ahora lo ve la Sala del Senado.713
+El 25 de noviembre, la Comisión Mixta, de diputados y senadores, entregó su informe para resolver las diferencias.7 Ese día la Cámara lo aprobó por 113 votos contra 9, y luego también el Senado.781314 El proyecto figura ahora en su trámite final en la Cámara.7
 Bloque 2
 ### El detalle, partida por partida
 Aquí mostramos, de forma oportuna y cómoda, lo que la Ley de Presupuestos 2026 fijó para cada partida y cuántas veces votó la Cámara en cada una. No es una auditoría ni reemplaza los documentos oficiales: es un punto de partida para ubicarse.
@@ -7299,24 +7427,25 @@ Trámite de finalización: el Congreso terminó de votarlo.
 - 25 nov 2026 · SenadoDiscusión informe de Comisión Mixta. AprobadoUna comisión con integrantes de ambas cámaras busca un acuerdo.
 - 25 nov 2026 · SenadoOficio aprobación de informe de Comisión Mixta a C.de Origen.Una comisión con integrantes de ambas cámaras busca un acuerdo.
 ### Para conducir la discusión de el presupuesto del Estado para 2027
-Fuentes · consultadas el 25 de noviembre de 2026
+Fuentes · consultadas el 26 de noviembre de 2026
 - 1Emol, «Presupuesto 2027: Las seis claves del primer proyecto de Kast, los ruidos y las primeras batallas en el Congreso»11 de octubre de 2026. Variaciones por sector, plazos y primeras votaciones en subcomisiones.
 - 2Emol, «Gremios empresariales valoran Presupuesto 2027, pero urgen que anuncios se traduzcan pronto en resultados»1 de octubre de 2026. Declaraciones de CPC, SNA y CChC.
 - 3T13, «Alcaldes de oficialismo y oposición rechazan proyecto de Ley Presupuestos 2027»20 de octubre de 2026. Comunicado del comité ejecutivo de la Asociación Chilena de Municipalidades.
 - 4El Desconcierto, «Paro nacional del 1 de octubre suma a la CUT, profesores y sindicatos por el Presupuesto 2027»28 de septiembre de 2026. Convocatoria de la Confech y organizaciones adherentes.
 - 5Emol, «Diálogo de sordos: Gobernadores piden rechazar el presupuesto para regiones tras reunión con Dipres»16 de octubre de 2026. Partida de gobiernos regionales y postura de Agorechi.
 - 6Mensaje presidencial: Ley de Presupuestos para el Sector Público correspondiente al año 202730 de septiembre de 2026. Contenido del articulado, gasto total, deuda y garantías.
-- 7Senado, tramitación del boletín 18702-05 (servicio web público)25 de noviembre de 2026. Etapa y trámites, hasta la llegada al Senado del informe de la Comisión Mixta aprobado por la Cámara.
+- 7Senado, tramitación del boletín 18702-05 (servicio web público)26 de noviembre de 2026. Etapa y trámites, hasta la aprobación del informe de la Comisión Mixta en ambas cámaras.
 - 8Cámara de Diputadas y Diputados, votaciones de Sala del boletín 18702-05 (datos abiertos)25 de noviembre de 2026. Votaciones de Sala de toda la tramitación, hasta el 25 de noviembre.
 - 9Dirección de Presupuestos, datos abiertos: Ley de Presupuestos Inicial y Vigente a Septiembre de 2026 del Gobierno Central - Ley Regular30 de octubre de 2026. Suma de los subtítulos de gasto a nivel nacional de la ley inicial, en pesos y dólares de 2026.
 - 10Senado, oficio 379/SEC/26 con las modificaciones al proyecto20 de noviembre de 2026. Cambios aprobados por el Senado. El texto está cortado.
 - 11Cámara de Diputadas y Diputados, oficio 21.783 sobre las enmiendas del Senado23 de noviembre de 2026. Enmiendas rechazadas e integrantes de la Comisión Mixta.
 - 12Cámara de Diputadas y Diputados, oficio 21.755 con el texto aprobado en primer trámite13 de noviembre de 2026. Texto aprobado por la Cámara. La lectura está cortada.
-- 13Senado, sesiones de Sala (servicio web público)25 de noviembre de 2026. Sesión ordinaria 89, del 25 de noviembre, con el proyecto en tabla.
-- 14Senado, ficha de tramitación del boletín 18702-05Consulta automática. Etapas, trámites y urgencias.
-- 15Cámara de Diputadas y Diputados, tramitación del boletín 18702-05Consulta automática
-- 16Texto del mensaje presidencialDocumento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+- 13Cámara de Diputadas y Diputados, oficio 21.807 que comunica la aprobación de la propuesta de la Comisión Mixta25 de noviembre de 2026. Aprobación en la Cámara.
+- 14Senado, oficio 386/SEC/26 que comunica la aprobación de la propuesta de la Comisión Mixta25 de noviembre de 2026. Aprobación en el Senado.
+- 15Senado, ficha de tramitación del boletín 18702-05Consulta automática. Etapas, trámites y urgencias.
+- 16Cámara de Diputadas y Diputados, tramitación del boletín 18702-05Consulta automática
+- 17Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18707-07
 
@@ -7355,19 +7484,46 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 
 URL: https://urgenciaskast.cl/p/18713-11.html
 
-Boletín 18713-11
-## Este proyecto no está en seguimiento
-No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el sitio del Senado.
-Ver los proyectos con urgencia
+Urgencias/Boletín 18713-11
+## Simplifica el permiso sanitario para negocios de bajo riesgo, como los que solo venden alimentos envasados sin refrigeración. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18713-11
+La moción dice que obtener el informe sanitario demora en promedio 122 días en la Región Metropolitana.1 Sostiene que una vía más simple, creada en 2025, no funciona porque falta su reglamento, es decir, las normas que la detallan.1
+Exige permiso sanitario expreso solo a locales que elaboren o manipulen alimentos, o permitan consumirlos allí.1 Deja fuera la sola venta de alimentos envasados que no necesitan frío.1 Da seis meses para dictar el reglamento pendiente.1
+Modifica el Código Sanitario y el DFL 1 de 1989 del Ministerio de Salud.1 Permite que la autoridad regional de salud avise directamente al municipio, por medios electrónicos.1
+Afecta a pequeños comercios de alimentos, municipios y oficinas regionales de salud.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+Está en primer trámite en la Cámara.4 El 6 de octubre pasó a la Comisión de Gobierno Interior.2 El 3 de noviembre, esa comisión continuó su estudio y escuchó al alcalde de Huechuraba.3
+### Para conducir la discusión de la autorización sanitaria de negocios de bajo riesgo
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica el Decreto con Fuerza de Ley N°1, de 1989, del Ministerio de Salud, para activar y precisar el régimen de autorización sanitaria aplicable a actividades económicas de bajo riesgo2026-09-16. Fundamentos y texto de la moción.
+- 2Oficio N° 21636: Comunica a la Comisión de Gobierno Interior el acuerdo de la Sala en orden a remitirle el proyecto de ley, originalmente asignado a la Comisión de Salud.2026-10-06. Envío a la Comisión de Gobierno Interior.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-03. Resultado de la sesión del 3 de noviembre.
+- 4Tramitación del boletín 18713-11 (servicio web público del Senado)2026-11-25. Etapa, fechas e iniciativa.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18721-06
 
 URL: https://urgenciaskast.cl/p/18721-06.html
 
-Boletín 18721-06
-## Este proyecto no está en seguimiento
-No tiene urgencia vigente ni figura en la agenda de las próximas dos semanas. Puede revisar su tramitación en el sitio del Senado.
-Ver los proyectos con urgencia
+Urgencias/Boletín 18721-06
+## Busca agilizar la patente municipal, el permiso para operar un negocio, sobre todo para micro y pequeñas empresas. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18721-06
+La moción dice que solo el 25,7% de las personas microemprendedoras tiene patente o permiso municipal.1 Sostiene que la ley actual limita lo que cada municipio puede hacer para acelerarla.1
+Los municipios podrán publicar una matriz, o tabla, que diga qué actividades se admiten en cada propiedad y zona.1 Si la actividad está admitida, la patente provisoria se entregará de inmediato con una declaración jurada y otros antecedentes.1 Usar esa tabla será voluntario para cada municipio.1
+Modifica el artículo 26 de la Ley de Rentas Municipales y crea un artículo 26 ter.1 Trata la patente como permiso de funcionamiento bajo la ley 21.770, sobre autorizaciones.1
+Afecta a micro y pequeñas empresas y a las municipalidades.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, en la Comisión de Gobierno Interior.3 El 3 de noviembre, esa comisión continuó su estudio y escuchó al alcalde de Huechuraba.2
+### Para conducir la discusión de la agilización de la patente municipal
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica el decreto ley Nº 3.063, de 1979, sobre Rentas Municipales, para agilizar el otorgamiento de la patente municipal a la micro y pequeña empresa2026-10-06. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-03. Resultado de la sesión del 3 de noviembre.
+- 3Tramitación del boletín 18721-06 (servicio web público del Senado)2026-11-25. Etapa, fechas e iniciativa.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18728-06
 

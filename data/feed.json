@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-26T15:28-03:00",
+ "actualizado": "2026-11-26T15:34-03:00",
  "conteos": {
   "urgencias_vigentes": 46,
   "discusion_inmediata": 9,
@@ -232,7 +232,7 @@
     {
      "boletin": "17702-15",
      "titulo": "Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos",
-     "sintesis": "",
+     "sintesis": "Cambia las reglas contra las carreras no autorizadas y las maniobras peligrosas con vehículos, y sube sanciones. La Cámara lo aprobó y el Senado revisa indicaciones en segundo trámite.",
      "url": "https://urgenciaskast.cl/p/17702-15.html"
     }
    ]
