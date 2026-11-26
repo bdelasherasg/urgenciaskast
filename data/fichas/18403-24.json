@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "boletin": "18403-24",
+  "nivel": "basica",
+  "sintesis": "Sube las penas y multas por dañar monumentos nacionales y aumenta el premio al denunciante que aporte pruebas suficientes. Está en primer trámite en la Cámara, aprobado en general en comisión.",
+  "materia": "las penas contra el daño a monumentos nacionales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que una protección débil puede hacer desaparecer o alterar los geoglifos, figuras antiguas trazadas en el terreno.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que importa subir las sanciones y también hacer más probable que se apliquen, con más incentivos a denunciar.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El daño a un monumento nacional tendría presidio menor (cárcel) en su grado más alto y multa de 200 UTM, una unidad que se reajusta cada mes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En caso de reincidencia, la multa podría duplicarse.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El denunciante recibiría el 35% de la multa si entrega antecedentes suficientes para probar la infracción y saber quién la cometió.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica los artículos 38 y 42 de la ley 17.288, de Monumentos Nacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Hoy el artículo 38 fija penas de grado medio a máximo y multa de 50 a 200 UTM.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El premio actual al denunciante es de 20%.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes dañen monumentos nacionales y a quienes denuncien esos daños.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara y se discute junto a los proyectos 15025-24 y 17710-24.",
+        "fuentes": [
+          "f5",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre de 2026, la Comisión de Cultura, Artes y Comunicaciones aprobó en general (la idea central) la iniciativa.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Fijó plazo hasta el 9 de noviembre para proponer cambios.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "daño a geoglifos",
+    "geoglifos de Tarapacá",
+    "penas por dañar monumentos nacionales",
+    "Ley de Monumentos Nacionales",
+    "patrimonio arqueológico dañado"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Aumenta penalidad en delitos contra monumentos nacionales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19079&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-17",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21.511: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Cultura, Artes y Comunicaciones para refundir los proyectos de ley correspondientes a los boletines Nos 15.025-24, 17.710-24 y 18.403-24.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37043&tipodoc=ofic",
+      "fecha": "2026-08-18",
+      "nota": "Acuerdo de tratar juntos los tres proyectos."
+    },
+    {
+      "id": "f4",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-02",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18403-24 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18403",
+      "fecha": "2026-11-25",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
