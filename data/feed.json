@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-25T18:33-03:00",
+ "actualizado": "2026-11-26T00:37-03:00",
  "conteos": {
   "urgencias_vigentes": 46,
   "discusion_inmediata": 9,
   "vencen_7_dias": 12,
-  "citaciones_7_dias": 22
+  "citaciones_7_dias": 9
  },
  "proximos_vencimientos": [
   {
@@ -60,70 +60,8 @@
  ],
  "agenda": [
   {
-   "fecha": "2026-11-25",
-   "hora": "08:30",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación",
-   "proyectos": [
-    {
-     "boletin": "17795-19",
-     "titulo": "Regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/17795-19.html"
-    },
-    {
-     "boletin": "18507-04",
-     "titulo": "Incorpora la alfabetización en materias digitales y sobre inteligencia artificial en el curriculum educacional",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/18507-04.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "09:30",
-   "camara": "Senado",
-   "organo": "Comisión de Recursos Hídricos, Desertificación y Sequía",
-   "proyectos": [
-    {
-     "boletin": "17877-33",
-     "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
-     "sintesis": "Modifica la ley de servicios sanitarios rurales para fortalecer los comités y cooperativas de agua potable rural. Está en primer trámite en el Senado, con urgencia simple.",
-     "url": "https://urgenciaskast.cl/p/17877-33.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "09:30",
-   "camara": "Senado",
-   "organo": "Comisión de Transportes y Telecomunicaciones",
-   "proyectos": [
-    {
-     "boletin": "18888-03",
-     "titulo": "Proyecto de ley que modifica el Código de Comercio para regular la renegociación de contratos de transporte ante alzas en el precio de los combustibles y establece normas de transparencia y acceso a precios preferenciales",
-     "sintesis": "Permite renegociar contratos de transporte de carga cuando suben mucho los combustibles y exige transparencia de precios. Moción del Senado de noviembre de 2026, que ve la Comisión de Transportes y Telecomunicaciones.",
-     "url": "https://urgenciaskast.cl/p/18888-03.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "10:02",
-   "camara": "Cámara de Diputados",
-   "organo": "Sala de la Cámara",
-   "proyectos": [
-    {
-     "boletin": "18702-05",
-     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-     "sintesis": "Fija ingresos y gastos del Estado para 2027, con un gasto neto propuesto de 105,8 billones de pesos. La Cámara aprobó el informe de la Comisión Mixta, ahora en el Senado.",
-     "url": "https://urgenciaskast.cl/p/18702-05.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "10:30",
+   "fecha": "2026-11-30",
+   "hora": "10:00",
    "camara": "Senado",
    "organo": "Comisión de Hacienda",
    "proyectos": [
@@ -136,8 +74,8 @@
    ]
   },
   {
-   "fecha": "2026-11-25",
-   "hora": "11:00",
+   "fecha": "2026-11-30",
+   "hora": "10:30",
    "camara": "Senado",
    "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
    "proyectos": [
@@ -150,92 +88,130 @@
    ]
   },
   {
-   "fecha": "2026-11-25",
-   "hora": "12:30",
+   "fecha": "2026-11-30",
+   "hora": "12:00",
    "camara": "Senado",
-   "organo": "Comisión de Educación",
+   "organo": "Comisión de Gobierno, Descentralización y Regionalización",
    "proyectos": [
     {
-     "boletin": "17622-04",
-     "titulo": "Modifica el decreto con fuerza de ley N° 2, de 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, con el objeto de asegurar la continuidad del servicio educacional",
-     "sintesis": "Exige autorización previa del Ministerio de Educación para interrumpir las clases de párvulos, básica y media, y sanciona paralizaciones no autorizadas. Está en primer trámite, en la Comisión de Educación del Senado.",
-     "url": "https://urgenciaskast.cl/p/17622-04.html"
+     "boletin": "17211-06",
+     "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de establecer los requisitos que indica, para las empresas que ofrecen el suministro de raciones alimenticias.",
+     "sintesis": "Exige a las empresas que venden raciones de comida al Estado acreditar patrimonio, dar una garantía para finiquitos y contratar un seguro de salud. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+     "url": "https://urgenciaskast.cl/p/17211-06.html"
+    },
+    {
+     "boletin": "17790-06",
+     "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección de las personas trabajadoras de empresas prestadoras de servicios de alimentación.",
+     "sintesis": "Busca proteger a las manipuladoras de alimentos en las licitaciones públicas: continuidad laboral, tope de raciones y retención de pagos para finiquitos. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+     "url": "https://urgenciaskast.cl/p/17790-06.html"
+    },
+    {
+     "boletin": "18020-06",
+     "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en materia de condiciones laborales del personal que se desempeña en la manipulación de alimentos",
+     "sintesis": "Permite incluir en los contratos de alimentación pública condiciones de infraestructura, un tope de 50 raciones por manipuladora e informes financieros. Está en primer trámite en el Senado, refundido con otros tres proyectos.",
+     "url": "https://urgenciaskast.cl/p/18020-06.html"
+    },
+    {
+     "boletin": "18338-06",
+     "titulo": "Modifica la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, con el objeto de fortalecer la protección laboral del personal que se desempeña en la manipulación de alimentos y asegurar la correcta prestación de dichos servicios",
+     "sintesis": "Permite sancionar a las empresas de alimentación pública que incumplan y excluye por cinco años a las que deban sueldos o finiquitos. Es el proyecto matriz de cuatro refundidos, en primer trámite en el Senado.",
+     "url": "https://urgenciaskast.cl/p/18338-06.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-25",
-   "hora": "12:30",
+   "fecha": "2026-11-30",
+   "hora": "15:30",
    "camara": "Senado",
-   "organo": "Comisión de Obras Públicas",
+   "organo": "Comisión de Minería y Energía",
    "proyectos": [
     {
-     "boletin": "8654-15",
-     "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
-     "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
-     "url": "https://urgenciaskast.cl/p/8654-15.html"
+     "boletin": "18821-08",
+     "titulo": "Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
+     "sintesis": "Facilita la conexión de cargadores de vehículos eléctricos a la red y su acceso a precios libres de energía. Está en primer trámite en el Senado, sin urgencia.",
+     "url": "https://urgenciaskast.cl/p/18821-08.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-25",
-   "hora": "12:30",
+   "fecha": "2026-12-01",
+   "hora": "09:30",
    "camara": "Senado",
-   "organo": "Comisión de Trabajo y Previsión Social",
+   "organo": "Comisión de Economía",
    "proyectos": [
     {
-     "boletin": "11929-13",
-     "titulo": "Modifica el Código del Trabajo para crear el contrato por horas.",
-     "sintesis": "Crea el contrato por horas en el Código del Trabajo, con hasta 120 horas al mes. Está en primer trámite en el Senado, con urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/11929-13.html"
+     "boletin": "14838-03",
+     "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
+     "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
+     "url": "https://urgenciaskast.cl/p/14838-03.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-25",
-   "hora": "12:30",
+   "fecha": "2026-12-01",
+   "hora": "10:30",
    "camara": "Senado",
-   "organo": "Comisión del Adulto Mayor y Discapacidad",
-   "proyectos": [
-    {
-     "boletin": "14744-35",
-     "titulo": "Modifica la ley N° 20.422, para establecer criterios que faciliten el acceso de las personas con discapacidad a los beneficios establecidos por ley",
-     "sintesis": "Agrega a la Ley de Discapacidad que el Estado procure dar acceso más rápido a los beneficios legales. La Cámara lo aprobó y está en segundo trámite en el Senado.",
-     "url": "https://urgenciaskast.cl/p/14744-35.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-11-25",
-   "hora": "15:00",
-   "camara": "Cámara de Diputados",
    "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
    "proyectos": [
     {
-     "boletin": "18413-07",
-     "titulo": "Modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/18413-07.html"
+     "boletin": "18258-07",
+     "titulo": "Modifica la ley N°18.415, orgánica constitucional de los estados de excepción, en materia de control de identidad y otros",
+     "sintesis": "Permite a las Fuerzas Armadas hacer controles de identidad y detenciones en flagrancia durante los estados de emergencia y catástrofe. La Cámara lo aprobó y está en el Senado, con urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/18258-07.html"
     },
     {
-     "boletin": "18521-07",
-     "titulo": "Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas",
-     "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/18521-07.html"
+     "boletin": "18764-07",
+     "titulo": "Sanciona la administración temeraria de los fondos de pensiones",
+     "sintesis": "Crea un delito para quienes, en una AFP, causan por imprudencia grave un perjuicio relevante a los fondos de pensiones. Está en primer trámite, en la Comisión de Constitución del Senado.",
+     "url": "https://urgenciaskast.cl/p/18764-07.html"
     }
    ]
   },
   {
-   "fecha": "2026-11-25",
-   "hora": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
+   "fecha": "2026-12-01",
+   "hora": "12:30",
+   "camara": "Senado",
+   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
    "proyectos": [
     {
-     "boletin": "18331-17",
-     "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
-     "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
-     "url": "https://urgenciaskast.cl/p/18331-17.html"
+     "boletin": "16553-12",
+     "titulo": "Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
+     "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/16553-12.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-12-02",
+   "hora": "09:00",
+   "camara": "Senado",
+   "organo": "Comisión de Transportes y Telecomunicaciones",
+   "proyectos": [
+    {
+     "boletin": "17702-15",
+     "titulo": "Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/17702-15.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-12-02",
+   "hora": "15:00",
+   "camara": "Senado",
+   "organo": "Comisión Especial de Zonas Extremas y Territorios Especiales",
+   "proyectos": [
+    {
+     "boletin": "17293-27",
+     "titulo": "Modifica la ley N° 21.255, que Establece el Estatuto Antártico Chileno, en materia de difusión del territorio antártico chileno y su representación cartográfica",
+     "sintesis": "Agrega a la ley del Estatuto Antártico que los mapas educativos y los usados ante organismos internacionales muestren la Antártica Chilena a la misma escala que el territorio continental. Está en primer trámite en el Senado.",
+     "url": "https://urgenciaskast.cl/p/17293-27.html"
+    },
+    {
+     "boletin": "18548-11",
+     "titulo": "Modifica la ley N° 19.664, con el objeto de establecer la movilidad territorial exclusiva entre zonas extremas y territorios especiales del país para los médicos que deben cumplir su período asistencial obligatorio",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18548-11.html"
     }
    ]
   }
