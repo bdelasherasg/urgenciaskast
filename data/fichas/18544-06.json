@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "boletin": "18544-06",
+  "nivel": "basica",
+  "sintesis": "Castiga los matrimonios y uniones civiles pactados solo para obtener residencia o beneficios del Estado, y a quienes lucran organizándolos. Está en primer trámite en la Cámara.",
+  "materia": "los matrimonios pactados para obtener residencia o beneficios estatales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que no hay un delito que castigue directamente estas uniones falsas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que pueden usarse para obtener residencia, evitar una expulsión o acceder a beneficios estatales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Aclara que no se debe presumir fraude en la mayoría de las parejas mixtas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Castiga con cárcel de 541 días a tres años y multa a quienes se pongan de acuerdo para unirse solo con el fin de obtener residencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Fija penas mayores para quien organice o facilite estas uniones para ganar dinero.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También castiga hacerlo para obtener prestaciones, o pagos y beneficios, que no corresponden.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega el artículo 384 bis al Código Penal y un nuevo numeral al artículo 470, sobre fraudes.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los contrayentes, a los intermediarios y a organismos del Estado que entregan beneficios.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, con urgencia simple. Se estudia junto con el boletín 18537-06.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre, la Comisión de Gobierno Interior escuchó al ministro de Justicia y acordó votar la idea de legislar en la próxima sesión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "matrimonios simulados beneficios estatales",
+    "acuerdo de unión civil por conveniencia",
+    "matrimonios falsos para obtener residencia",
+    "fraude con unión civil extranjeros",
+    "intermediarios matrimonios por residencia"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Sanciona la celebración de matrimonios y acuerdos de unión civil destinados a obtener beneficios estatales o residencia en el país",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19244&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-04",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-03",
+      "nota": "Resultado de la sesión del 3 de noviembre."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18544-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18544",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas, urgencia, iniciativa y proyectos refundidos."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
