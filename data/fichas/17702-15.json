@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "boletin": "17702-15",
+  "nivel": "basica",
+  "sintesis": "Cambia las reglas contra las carreras no autorizadas y las maniobras peligrosas con vehículos, y sube sanciones. La Cámara lo aprobó y el Senado revisa indicaciones en segundo trámite.",
+  "materia": "la conducción temeraria de vehículos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la ley actual exige probar que había una carrera o competencia no autorizada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que eso es difícil de probar, que hay muy pocas condenas y que conductas peligrosas quedan sin castigo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto aprobado por la Cámara sanciona moverse junto a otros vehículos, o uno tras otro, sobre la velocidad permitida.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "También sanciona derrapes y otras maniobras que puedan poner en peligro a terceros.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Aumenta penas y multas.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Considera agravante, es decir, motivo de mayor castigo, actuar cerca de colegios, centros de salud o lugares concurridos, en zonas urbanas o de baja velocidad.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley de Tránsito.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Agrega una multa al dueño de un vehículo que supere el límite en 60 kilómetros por hora, salvo excepciones.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Permite instalar equipos automáticos de control en autopistas concesionadas, que son caminos a cargo de una empresa privada.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a conductores, dueños de vehículos y empresas concesionarias de caminos.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero del 19 de noviembre dice que las nuevas indicaciones, o cambios propuestos, no generan mayor gasto fiscal.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Explica que la fiscalización se hará con los presupuestos de cada institución.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El 2 de septiembre, el Senado aprobó en general el proyecto, en segundo trámite.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "El 23 de noviembre se registraron las indicaciones.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "La Comisión de Transportes del Senado citó para el 2 de diciembre para empezar a estudiarlas.",
+        "fuentes": [
+          "f8"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "conducción temeraria",
+    "carreras clandestinas de autos",
+    "carreras no autorizadas",
+    "ley de tránsito derrapes",
+    "exceso de velocidad multa propietario"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18347&tipodoc=mensaje_mocion",
+      "fecha": "2025-07-14",
+      "nota": "Fundamentos de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Transportes y Telecomunicaciones · Segundo trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28190&tipodoc=info",
+      "fecha": "2026-08-06",
+      "nota": "Primer informe de la comisión del Senado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° IF 278-202",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37518&tipodoc=ofic",
+      "fecha": "2026-11-23",
+      "nota": "Informe financiero complementario N° 278 y descripción de las indicaciones."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 20987",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35686&tipodoc=ofic",
+      "fecha": "2026-01-13",
+      "nota": "Texto aprobado por la Cámara."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 17702-15 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17702",
+      "fecha": "2026-11-26",
+      "nota": "Etapa, fechas y urgencia."
+    },
+    {
+      "id": "f8",
+      "titulo": "Senado, citaciones de comisiones",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1",
+      "fecha": "2026-11-26",
+      "nota": "Citación del 2 de diciembre, según la agenda del sitio."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
