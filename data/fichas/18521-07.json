@@ -23,18 +23,21 @@
       {
         "texto": "Obliga a hacerse exámenes al asumir y de forma periódica, con resultados públicos.",
         "fuentes": [
+          "f1",
           "f3"
         ]
       },
       {
         "texto": "Detectar drogas ilegales hará perder el cargo, salvo que un tratamiento médico lo justifique.",
         "fuentes": [
+          "f1",
           "f3"
         ]
       },
       {
         "texto": "Una ley de quórum calificado, que exige una mayoría especial, fijará los procedimientos.",
         "fuentes": [
+          "f1",
           "f3"
         ]
       }
@@ -43,12 +46,14 @@
       {
         "texto": "Agrega normas al artículo 8 de la Constitución y crea un artículo 38 ter.",
         "fuentes": [
+          "f1",
           "f3"
         ]
       },
       {
         "texto": "Para cargos de confianza exclusiva del Presidente, el resultado positivo será incompatible con ejercerlos.",
         "fuentes": [
+          "f1",
           "f3"
         ]
       }
@@ -57,6 +62,7 @@
       {
         "texto": "Alcanza al Presidente, ministros, parlamentarios, alcaldes, concejales y jefes de las Fuerzas Armadas y policías, entre otros.",
         "fuentes": [
+          "f1",
           "f3"
         ]
       }
@@ -94,6 +100,13 @@
     "test de drogas ministros y alcaldes"
   ],
   "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19202&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-03",
+      "nota": "Mensaje: texto de la reforma propuesta."
+    },
     {
       "id": "f3",
       "titulo": "Oficio N° : Texto del Mensaje.",
