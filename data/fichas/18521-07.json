@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "boletin": "18521-07",
+  "nivel": "basica",
+  "sintesis": "Reforma la Constitución para que altas autoridades se sometan a exámenes de drogas y dejen el cargo si dan positivo sin justificación médica. Está en primer trámite en la Cámara.",
+  "materia": "los exámenes de drogas a autoridades",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El Gobierno dice que las leyes sobre control de drogas difieren en autoridades, frecuencia y consecuencias.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Sostiene que no hay una norma común para estos cargos.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Obliga a hacerse exámenes al asumir y de forma periódica, con resultados públicos.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Detectar drogas ilegales hará perder el cargo, salvo que un tratamiento médico lo justifique.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Una ley de quórum calificado, que exige una mayoría especial, fijará los procedimientos.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega normas al artículo 8 de la Constitución y crea un artículo 38 ter.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Para cargos de confianza exclusiva del Presidente, el resultado positivo será incompatible con ejercerlos.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Alcanza al Presidente, ministros, parlamentarios, alcaldes, concejales y jefes de las Fuerzas Armadas y policías, entre otros.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "No se pudo acceder al informe financiero del proyecto. Su costo fiscal queda como dato pendiente.",
+        "fuentes": [],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, con urgencia simple, unido a dos mociones sobre la misma materia.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 4 de noviembre, la Comisión de Constitución continuó su estudio y escuchó a académicos expertos.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "test de drogas autoridades",
+    "control de drogas parlamentarios",
+    "examen de drogas reforma constitucional",
+    "drogas cesación en el cargo",
+    "test de drogas ministros y alcaldes"
+  ],
+  "fuentes": [
+    {
+      "id": "f3",
+      "titulo": "Oficio N° : Texto del Mensaje.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36935&tipodoc=ofic",
+      "fecha": "2026-08-04",
+      "nota": "Texto del mensaje, con fundamentos y articulado."
+    },
+    {
+      "id": "f4",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-04",
+      "nota": "Sesiones de la comisión."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 18521-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18521",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas, urgencia y proyectos refundidos."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
