@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "boletin": "17710-24",
+  "nivel": "basica",
+  "sintesis": "Sube las multas por dañar monumentos nacionales, permite ordenar la reparación y agrava el castigo a reincidentes. Está en primer trámite en la Cámara, aprobado en general en comisión.",
+  "materia": "las sanciones por dañar sitios patrimoniales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que las sanciones actuales no han bastado para frenar los rayados en bienes patrimoniales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pone como ejemplo el vandalismo en Valparaíso y señala que limpiar esos daños es muy caro.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Sube la multa por dañar un monumento nacional a un rango de 100 a 300 UTM, una unidad que se reajusta cada mes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El tribunal podría ordenar al condenado reparar el daño con limpieza, restauración o reposición, en ciertos casos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien repita estos hechos o sea reincidente recibiría el grado máximo de la pena.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 38 de la ley 17.288, de Monumentos Nacionales, que hoy fija una multa de 50 a 200 UTM.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega dos artículos nuevos, 38 bis y 38 ter.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes causen daño a monumentos nacionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La reparación se haría bajo supervisión de la autoridad competente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara y se discute junto a los proyectos 15025-24 y 18403-24.",
+        "fuentes": [
+          "f5",
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 2 de noviembre de 2026, la Comisión de Cultura, Artes y Comunicaciones aprobó en general (la idea central) la iniciativa.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "Fijó plazo hasta el 9 de noviembre para proponer cambios.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "daño a sitios patrimoniales",
+    "rayados en edificios patrimoniales",
+    "vandalismo en Valparaíso",
+    "grafitis en patrimonio",
+    "Ley de Monumentos Nacionales"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 17.288, sobre Monumentos Nacionales, para aumentar y autorizar la sustitución de sanciones aplicables a personas que provoquen daños en sitios patrimoniales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18357&tipodoc=mensaje_mocion",
+      "fecha": "2025-07-15",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21.511: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Cultura, Artes y Comunicaciones para refundir los proyectos de ley correspondientes a los boletines Nos 15.025-24, 17.710-24 y 18.403-24.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37044&tipodoc=ofic",
+      "fecha": "2026-08-18",
+      "nota": "Acuerdo de tratar juntos los tres proyectos."
+    },
+    {
+      "id": "f4",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-02",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 17710-24 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17710",
+      "fecha": "2026-11-25",
+      "nota": "Etapa y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
