@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "14782-13",
   "nivel": "basica",
-  "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. La Cámara lo aprobó con cambios y ahora está en tercer trámite en el Senado.",
+  "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. El Congreso lo aprobó y el Senado lo envió al Presidente de la República.",
   "materia": "el derecho a sala cuna y su fondo de financiamiento",
   "resumen": {
     "problema": [
@@ -84,20 +84,20 @@
     ],
     "estado": [
       {
-        "texto": "El Senado aprobó el proyecto el 8 de septiembre de 2026.",
-        "fuentes": [
-          "f15"
-        ]
-      },
-      {
-        "texto": "El 18 de noviembre la Cámara lo aprobó con modificaciones, tras los informes de las comisiones de Trabajo y de Hacienda.",
+        "texto": "El 18 de noviembre, la Cámara aprobó el proyecto con cambios al texto del Senado.",
         "fuentes": [
           "f8",
           "f15"
         ]
       },
       {
-        "texto": "Desde el 19 de noviembre está en tercer trámite en el Senado, que revisa esos cambios. Tiene urgencia de discusión inmediata.",
+        "texto": "El 25 de noviembre, el Senado aprobó esos cambios en tercer trámite.",
+        "fuentes": [
+          "f15"
+        ]
+      },
+      {
+        "texto": "El 26 de noviembre envió el texto de la ley al Presidente de la República, para su aprobación.",
         "fuentes": [
           "f15"
         ]
@@ -161,12 +161,12 @@
       "id": "f15",
       "titulo": "Tramitación del boletín 14782-13 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14782",
-      "fecha": "2026-11-19",
-      "nota": "Etapa, fechas y urgencia."
+      "fecha": "2026-11-26",
+      "nota": "Etapa, fechas y urgencia. Los trámites del 25 y 26 de noviembre se leyeron del mismo servicio, según la copia del sitio actualizada el 26 de noviembre."
     }
   ],
-  "consultado": "2026-11-20",
-  "publicado": "2026-11-20",
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-20 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
