@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "boletin": "18507-04",
+  "nivel": "basica",
+  "sintesis": "Incorpora a los objetivos de la enseñanza básica y media aprender a programar y a entender la inteligencia artificial. Está en primer trámite en la Cámara.",
+  "materia": "la enseñanza de programación e inteligencia artificial en colegios",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la escuela no enseña a entender los sistemas digitales que influyen en la vida diaria.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que la enseñanza de programación depende de cada colegio y de sus recursos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que las niñas participan menos en ella.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Agrega como objetivo aprender a pensar en forma computacional, es decir, dividir problemas, reconocer patrones y ordenar pasos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También incluye programar y entender con mirada crítica los sistemas de inteligencia artificial.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la enseñanza media, agrega reconocer sus límites, riesgos y sesgos, que son errores que favorecen o perjudican a ciertos grupos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica los artículos 29 y 30 de la Ley General de Educación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los establecimientos reconocidos por el Estado y a sus estudiantes de básica y media.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 3 de agosto, la Cámara acordó enviarlo a la Comisión de Futuro, Ciencias y Tecnología, en vez de la Comisión de Educación.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "inteligencia artificial en el currículo",
+    "enseñanza de programación en colegios",
+    "alfabetización digital escolar",
+    "pensamiento computacional",
+    "inteligencia artificial en la sala de clases"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Incorpora la alfabetización en materias digitales y sobre inteligencia artificial en el curriculum educacional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19189&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-21",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 21429: Remitir a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación,el proyecto de ley, correspondiente al boletín N° 18.507-04, inicialmente asignado a la Comisión de Educación",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36936&tipodoc=ofic",
+      "fecha": "2026-08-04",
+      "nota": "Derivación a la Comisión de Futuro."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18507-04 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18507",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
