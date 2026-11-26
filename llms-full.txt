@@ -303,6 +303,7 @@ Título oficialLey de Patrimonio Cultural
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 12712-24
+Mensaje del Presidente
 17 jun 2019, Cámara
 Suma · Vence en 13 días
 2719 días
@@ -496,6 +497,7 @@ Título oficialEstablece un sistema de subvenciones para la modalidad educativa 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14309-04
+Mensaje del Presidente
 15 jun 2021, Cámara
 Comisión mixta, Senado
 Suma · Vence en 3 días
@@ -596,18 +598,22 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/14767-03.html
 
 Urgencias/Boletín 14767-03SumaVence en 14 díasAhora en el Senado
-## Modifica la ley N°17.336, sobre Propiedad Intelectual, con el objeto de regular las medidas tecnológicas de protección
-- 1. Resumen del proyecto
+Título oficialModifica la ley N°17.336, sobre Propiedad Intelectual, con el objeto de regular las medidas tecnológicas de protección
+## Castiga la venta de herramientas para burlar las protecciones digitales de obras con derechos de autor, y fija excepciones. Está en segundo trámite en el Senado, con urgencia suma.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14767-03
+Mensaje del Presidente
 22 dic 2021, Cámara
 Suma · Vence en 14 días
 1800 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-Vence en 14 días · 10 dic 2026. La suma corre en el Senado desde el 25 de noviembre de 2026.1
+El mensaje dice que tratados firmados por Chile obligan a sancionar a quien burle las protecciones digitales de las obras.1 Sostiene que la ley debe adaptarse al uso de internet para resguardar a autores y artistas.1
+El texto de la Cámara define las medidas tecnológicas de protección: sistemas que controlan el acceso a una obra o cuidan un derecho de autor.3 Vender con fines de lucro aparatos o servicios para burlarlas sería delito.3 Tendría pena baja de privación de libertad y multa de 50 a 800 UTM (unidades tributarias mensuales).3 Quien las burle a sabiendas respondería por los daños, y cometería delito si busca lucrar.3
+Modifica la ley 17.336, de Propiedad Intelectual.3 Agrega excepciones, como tener permiso del titular, usar obras sin protección vigente o reparar un bien propio.3 También amplía el permiso para estudiar programas internos de aparatos con ciertos fines.3
+Afecta a autores, artistas y otros titulares de derechos.1 También a quienes venden dispositivos o servicios para burlar protecciones, y a los usuarios que las burlen.3
+El informe financiero N° 113, de la Dirección de Presupuestos, del 29 de mayo de 2026, dice que no habrá mayor gasto fiscal.4 Las instituciones actuarían con su personal y recursos actuales.4
+La Cámara lo aprobó el 7 de julio de 2026.53 Está en segundo trámite en el Senado, donde la Comisión de Economía lo aprobó en general (la idea central) e informó el 8 de septiembre.25 El 25 de noviembre se dio cuenta de una urgencia suma.5
+Vence en 14 días · 10 dic 2026. La suma corre en el Senado desde el 25 de noviembre de 2026.6
 5urgencias desde marzo de 2026
 3renovaciones
 1cambios de tipo
@@ -624,11 +630,17 @@ Vence en 14 días · 10 dic 2026. La suma corre en el Senado desde el 25 de novi
 - 7 jul 2026 · SenadoCuenta de proyecto. Pasa a Comisión de EconomíaLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 8 sep 2026 · SenadoPrimer informe de comisión de Economía.La comisión entrega su primer informe: votó la idea de legislar y propone un texto.
 - 8 sep 2026 · SenadoCuenta de primer informe de comisión.La Sala recibe el informe de la comisión.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 14767-03Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 14767-03Consulta automática
-- 3Texto del mensaje presidencialDocumento original del proyecto.
+### Para conducir la discusión de las protecciones digitales de las obras
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Mensaje: Modifica la ley N°17.336, sobre Propiedad Intelectual, con el objeto de regular las medidas tecnológicas de protección2021-12-22. Fundamentos del mensaje.
+- 2Informe de comisión · Primer informe de comisión de Economía · Segundo trámite constitucional2026-09-08. Votación en general en la comisión del Senado.
+- 3Oficio N° 14767-032026-07-07. Texto aprobado por la Cámara.
+- 4Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (056-374). Incluye informe financiero N° 113/29.05.2026.2026-05-29. Informe financiero e indicaciones del Ejecutivo.
+- 5Tramitación del boletín 14767-03 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
+- 6Senado, ficha de tramitación del boletín 14767-03Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 14767-03Consulta automática
+- 8Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 14773-02
 
@@ -664,6 +676,7 @@ Título oficialEquipara el derecho de sala cuna para las trabajadoras, los traba
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14782-13
+Mensaje del Presidente
 4 ene 2022, Senado
 Tercer trámite, Cámara
 Discusión inmediata · En espera en la otra cámara
@@ -740,6 +753,7 @@ Título oficialRegula el desarrollo de plataformas de apuestas en línea
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 14838-03
+Mensaje del Presidente
 7 mar 2022, Cámara
 Suma · Plazo vencido
 Próxima citación
@@ -814,6 +828,29 @@ Fuentes · consultadas el 13 de noviembre de 2026
 - 6Cámara de Diputadas y Diputados, tramitación del boletín 14950-07Consulta automática
 - 7Texto del proyecto (moción)Documento original del proyecto.
 Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con lista de verificación.
+
+## Boletín 15025-24
+
+URL: https://urgenciaskast.cl/p/15025-24.html
+
+Urgencias/Boletín 15025-24
+## Sube las penas y multas por dañar o apropiarse de monumentos nacionales y aumenta el premio a quien denuncie. Está en primer trámite en la Cámara, aprobado en general en comisión.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+15025-24
+La moción sostiene que dañar un bien cultural borra páginas de la historia nacional.1 Sus autores plantean que el Estado debe tener políticas más fuertes frente al vandalismo contra el patrimonio.1
+Castiga el daño a monumentos con presidio menor (cárcel) en su grado más alto y multa de 100 a 400 UTM, una unidad que se reajusta cada mes.1 La multa consideraría si hay reincidencia (volver a delinquir), el daño y el costo de reparación.1 La apropiación de un monumento tendría multa de 100 a 400 UTM, además de la pena de cárcel que corresponda.1 Quien denuncie recibiría el 80% de la multa.1
+Crea el artículo 486 bis en el Código Penal.1 Reemplaza los artículos 38, 38 bis y 42 de la ley 17.288, de Monumentos Nacionales.1 Según la moción, hoy el daño tiene multa de 50 a 200 UTM y el denunciante recibe el 20%.1
+Afecta a quienes dañen o se apropien de monumentos nacionales.1 También a quienes denuncien estas infracciones.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+Está en primer trámite en la Cámara y se discute junto a los proyectos 17710-24 y 18403-24.42 El 2 de noviembre de 2026, la Comisión de Cultura, Artes y Comunicaciones aprobó en general (la idea central) la iniciativa.3 Fijó plazo hasta el 9 de noviembre para proponer cambios.3
+### Para conducir la discusión de las penas por dañar monumentos nacionales
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica el Código Penal y la ley N°17.288, sobre monumentos nacionales, para agravar las penas por apropiación o destrucción de monumentos nacionales y promover su denuncia2022-05-27. Fundamentos y texto de la moción.
+- 2Oficio N° 21.511: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Cultura, Artes y Comunicaciones para refundir los proyectos de ley correspondientes a los boletines Nos 15.025-24, 17.710-24 y 18.403-24.2026-08-18. Acuerdo de tratar juntos los tres proyectos.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-02. Resultado de la sesión de la comisión.
+- 4Tramitación del boletín 15025-24 (servicio web público del Senado)2026-11-25. Etapa y trámites.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 15047-11
 
@@ -1332,6 +1369,7 @@ Título oficialCrea el Subsistema de Inteligencia Económica y establece otras m
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 15975-25
+Mensaje del Presidente
 31 may 2023, Senado
 Comisión mixta, Senado
 Suma · Plazo vencido
@@ -1386,6 +1424,7 @@ Título oficialPara la protección de la infraestructura crítica del país
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16143-02
+Mensaje del Presidente
 2 ago 2023, Senado
 Primer trámite, Senado
 Suma · Vence en 13 días
@@ -1513,6 +1552,7 @@ Título oficialModifica la ley N° 19.968, que crea los Tribunales de Familia, y
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16286-07
+Mensaje del Presidente
 15 sep 2023, Senado
 Primer trámite, Senado
 Suma · Vence en 13 días
@@ -1706,6 +1746,7 @@ Título oficialModifica diversos cuerpos legales, con el objeto de fortalecer la
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16552-12
+Mensaje del Presidente
 10 ene 2024, Senado
 Segundo trámite, Cámara
 Suma · Vence en 13 días
@@ -1764,6 +1805,7 @@ Título oficialFortalece y mejora la eficacia de la fiscalización y el cumplimi
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16553-12
+Mensaje del Presidente
 10 ene 2024, Cámara
 Suma · Vence en 13 días
 Próxima citación
@@ -2170,6 +2212,30 @@ Fuentes · consultadas el 30 de octubre de 2026
 - 9Infobae, «Chile agiliza la expulsión de migrantes irregulares: el Congreso aprobó la ley surgida de un proyecto multipartidista»21 de octubre de 2026. Declaraciones del ministro Segpres.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-10-30 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 16858-15
+
+URL: https://urgenciaskast.cl/p/16858-15.html
+
+Urgencias/Boletín 16858-15
+## Regula la asignación de direcciones IP y obliga a las empresas de internet a entregar información a fiscales y policías. La Cámara lo aprobó en general y volvió a comisión.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+16858-15
+La moción dice que es clave obtener a tiempo los datos para investigar delitos en internet, como la explotación sexual de menores y ciertas estafas.1 La dirección IP, un número que identifica a un aparato conectado, ayuda a ubicar a los autores.1 En la comisión, su autora dijo que las empresas no responden de igual forma a los pedidos de datos.2
+La moción original obliga a las empresas de comunicación a dar a cada cliente una dirección IP única, ligada a su domicilio.1 Deberían responder en máximo veinte días los pedidos de información de fiscales o policías, y guardar secreto.1 Negarse o entorpecer la medida sería delito de desacato (desobedecer una orden).1
+La moción agrega los artículos 7 quinquies y 7 sexies a la ley 18.168, General de Telecomunicaciones.1 En la Sala se propusieron cambios sobre datos a registrar, conservación y plazos de entrega, que la comisión debe revisar.3
+Afecta a las empresas que dan servicios de comunicación y a sus clientes.1 También a la fiscalía y a las policías.1
+El informe de la comisión menciona el informe financiero N° 141, del 23 de junio de 2026, e indica que no hay trámite en Hacienda.2
+Dato pendiente Las fuentes no traen el contenido de ese informe.
+La Cámara lo aprobó en general (la idea central) el 5 de octubre de 2026.34 Volvió a la Comisión de Obras Públicas, Transportes y Telecomunicaciones para un segundo informe, en primer trámite.34 El 9 de noviembre se renovó la urgencia simple.4
+### Para conducir la discusión de las direcciones IP y la entrega de datos a la justicia
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la Ley General de Telecomunicaciones en materia de asignación de direcciones IP y deber de información de los proveedores de acceso a Internet2024-05-14. Fundamentos y texto original de la moción.
+- 2Informe de comisión · Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Primer trámite constitucional2026-07-10. Primer informe de comisión (leído parcialmente).
+- 3Oficio N° 21631: Remite el proyecto a segundo trámite reglamentario por haber sido objeto de indicaciones durante su discusión general.2026-10-05. Aprobación en general en Sala e indicaciones presentadas.
+- 4Tramitación del boletín 16858-15 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
 ## Boletín 16886-12
 
 URL: https://urgenciaskast.cl/p/16886-12.html
@@ -2234,6 +2300,28 @@ Fuentes · consultadas el 13 de noviembre de 2026
 - 5Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional2025-07-09. Pasajes sobre las funciones y el costo.
 - 6Tramitación del boletín 16888-06 (servicio web público del Senado)2026-11-13. Etapa y trámites.
 Revisada y aprobada por una persona del equipo de Lo Común el 2026-11-16, con lista de verificación.
+
+## Boletín 16962-01
+
+URL: https://urgenciaskast.cl/p/16962-01.html
+
+Urgencias/Boletín 16962-01
+## Establece como deber del Estado proteger la fauna silvestre y evitar que sus especies se extingan. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+16962-01
+La moción advierte graves amenazas a la fauna nativa y cita ataques de perros a huemules y pudúes.1 Sostiene que la ley no fija un deber del Estado de proteger esa fauna, aunque es clave para conservar el medio ambiente.1
+Declara que el Estado debe proteger la fauna silvestre.1 Los organismos competentes tendrían que tomar todas las medidas para cuidar las especies que la norma señala.1 El Estado también debería evitar el riesgo de que las especies silvestres se extingan.1
+Agrega un inciso, o párrafo, al artículo 3 de la Ley de Caza, contenida en la ley 19.473.1 Ajusta otro inciso del mismo artículo para que remita a los anteriores.1
+Afecta a los organismos del Estado a cargo de estas materias.1 También a las especies de fauna silvestre que la ley busca proteger.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, sin urgencia.3 Se tramita junto a los proyectos 18269-01 y 18400-01, y este es el principal.3 El 20 de octubre de 2026, la Comisión de Agricultura siguió la discusión en particular (artículo por artículo).2
+### Para conducir la discusión de la protección de la fauna silvestre
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica cuerpos legales que indica para establecer, como deber del Estado, la protección de la fauna silvestre2024-07-02. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-20. Resultado de la sesión de la comisión.
+- 3Tramitación del boletín 16962-01 (servicio web público del Senado)2026-11-25. Etapa, refundición y trámites.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16988-06
 
@@ -2766,6 +2854,7 @@ Título oficialOptimiza el mecanismo de sustentabilidad del Fondo para Diagnóst
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17567-11
+Mensaje del Presidente
 2 jun 2025, Cámara
 Suma · Plazo vencido
 542 días
@@ -2853,6 +2942,7 @@ Título oficialModifica el decreto ley N° 3.500, de 1980, en materia de seguro 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17628-13
+Mensaje del Presidente
 24 jun 2025, Senado
 Primer trámite, Senado
 Suma · Vence en 13 días
@@ -2985,6 +3075,29 @@ Fuentes · consultadas el 25 de noviembre de 2026
 - 11Texto del proyecto (moción)Documento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-25 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 17645-18
+
+URL: https://urgenciaskast.cl/p/17645-18.html
+
+Urgencias/Boletín 17645-18
+## Da atención preferente a las embarazadas en trámites ante el Estado y prioridad en beneficios a ellas y a niños en programas de protección. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+17645-18
+La moción dice que las ayudas sociales se enfocan en familias de bajos ingresos.1 Según sus autores, las embarazadas y los niños al cuidado del Estado son grupos frágiles que no reciben una atención propia.1
+Las embarazadas tendrían atención preferente en trámites presenciales ante organismos del Estado.1 Si lo piden, tendrían prioridad en beneficios sociales y becas, y además en subsidios de vivienda.1 En las garantías explícitas de salud (GES, atenciones aseguradas por ley), la prioridad duraría hasta un año después del parto.1 Los niños y adolescentes en programas de protección especializada tendrían prioridad en beneficios, becas y salud.1 Al salir de esos programas, la tendrían en subsidios de vivienda.1
+Crea un derecho que, según los fundamentos, hoy existe en salud para otros grupos, como adultos mayores y personas con discapacidad.1
+Afecta a embarazadas, a niños y adolescentes en esos programas y a los organismos del Estado.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+La Comisión de la Familia de la Cámara lo aprobó en general (la idea central) el 1 de diciembre de 2025.2 Luego pasó a la Comisión de Desarrollo Social, que lo trató el 19 de octubre de 2026.43 Está en primer trámite, con urgencia simple.4
+### Para conducir la discusión de la atención preferente a embarazadas y niños protegidos
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Establece derecho de atención preferente para realizar trámites presenciales y de priorización en el otorgamiento de prestaciones y beneficios sociales, a personas que indica2025-06-17. Fundamentos y texto de la moción.
+- 2Informe de comisión · Primer informe de comisión de la Familia · Primer trámite constitucional2026-01-21. Primer informe de la Comisión de la Familia (leído parcialmente).
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-19. Registro de la sesión de la Comisión de Desarrollo Social.
+- 4Tramitación del boletín 17645-18 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
 ## Boletín 17662-07
 
 URL: https://urgenciaskast.cl/p/17662-07.html
@@ -3114,13 +3227,36 @@ Fuentes · consultadas el 13 de noviembre de 2026
 - 4Tramitación del boletín 17709-02 (servicio web público del Senado)2026-11-13. Etapa y trámites.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 17710-24
+
+URL: https://urgenciaskast.cl/p/17710-24.html
+
+Urgencias/Boletín 17710-24
+## Sube las multas por dañar monumentos nacionales, permite ordenar la reparación y agrava el castigo a reincidentes. Está en primer trámite en la Cámara, aprobado en general en comisión.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+17710-24
+La moción dice que las sanciones actuales no han bastado para frenar los rayados en bienes patrimoniales.1 Pone como ejemplo el vandalismo en Valparaíso y señala que limpiar esos daños es muy caro.1
+Sube la multa por dañar un monumento nacional a un rango de 100 a 300 UTM, una unidad que se reajusta cada mes.1 El tribunal podría ordenar al condenado reparar el daño con limpieza, restauración o reposición, en ciertos casos.1 Quien repita estos hechos o sea reincidente recibiría el grado máximo de la pena.1
+Modifica el artículo 38 de la ley 17.288, de Monumentos Nacionales, que hoy fija una multa de 50 a 200 UTM.1 Agrega dos artículos nuevos, 38 bis y 38 ter.1
+Afecta a quienes causen daño a monumentos nacionales.1 La reparación se haría bajo supervisión de la autoridad competente.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+Está en primer trámite en la Cámara y se discute junto a los proyectos 15025-24 y 18403-24.42 El 2 de noviembre de 2026, la Comisión de Cultura, Artes y Comunicaciones aprobó en general (la idea central) la iniciativa.3 Fijó plazo hasta el 9 de noviembre para proponer cambios.3
+### Para conducir la discusión de las sanciones por dañar sitios patrimoniales
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la ley N° 17.288, sobre Monumentos Nacionales, para aumentar y autorizar la sustitución de sanciones aplicables a personas que provoquen daños en sitios patrimoniales2025-07-15. Fundamentos y texto de la moción.
+- 2Oficio N° 21.511: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Cultura, Artes y Comunicaciones para refundir los proyectos de ley correspondientes a los boletines Nos 15.025-24, 17.710-24 y 18.403-24.2026-08-18. Acuerdo de tratar juntos los tres proyectos.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-02. Resultado de la sesión de la comisión.
+- 4Tramitación del boletín 17710-24 (servicio web público del Senado)2026-11-25. Etapa y trámites.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
 ## Boletín 17737-14
 
 URL: https://urgenciaskast.cl/p/17737-14.html
 
 Urgencias/Boletín 17737-14SumaVence en 14 díasAhora en la Cámara
 Título oficialModifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia
-## Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y ahora la Cámara debe pronunciarse sobre ellos, en tercer trámite.
+## Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y la Cámara debe revisarlos, en tercer trámite y con urgencia suma.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17737-14
@@ -3129,11 +3265,11 @@ Tercer trámite, Cámara
 Suma · Vence en 14 días
 489 días
 La moción dice que las juntas de vecinos pueden emitir certificados de residencia, pero los condominios se rigen por otra ley que no lo contempla.1 Busca fortalecer la vida comunitaria y dar un trato más equitativo a quienes viven en distintas formas de organización territorial.1
-Faculta al administrador del condominio para emitir certificados de residencia a copropietarios, arrendatarios u ocupantes.3 El administrador tendría cinco días hábiles para emitirlo y debería revisar la identidad y la calidad del solicitante.3 Debería llevar un registro de los certificados emitidos, con nombre, unidad y fecha.3
-Agrega un numeral al artículo 20 de la ley 21.442, de copropiedad inmobiliaria.3 Quien entregue datos falsos para obtener el certificado tendría las penas del artículo 212 del Código Penal.3 El administrador deberá cumplir la ley 19.628, sobre protección de la vida privada.3
+Faculta al administrador del condominio para emitir certificados de residencia a copropietarios, arrendatarios u ocupantes.3 Tendría cinco días hábiles para emitirlo, revisando la identidad y calidad del solicitante y cuidando su vida privada, según la ley 19.628.3 Debería llevar un registro de los certificados emitidos, con nombre, unidad y fecha.3
+Agrega un numeral al artículo 20 de la ley 21.442, de copropiedad inmobiliaria.3 Quien entregue datos falsos para obtener el certificado tendría las penas del artículo 212 del Código Penal.3 El Senado quitó un artículo que daba seis meses para adaptar los reglamentos de copropiedad.34
 Afecta a administradores y comités de administración de condominios, y a sus residentes.3 El Ministerio de Vivienda podría complementar las reglas y hacer un formato tipo de certificado.3
 Es una moción parlamentaria. En su expediente no figura un informe financiero.5
-La Cámara aprobó el proyecto el 24 de marzo de 2026, en general y en particular a la vez.54 El 27 de octubre de 2026 el Senado lo aprobó con modificaciones, tras el informe unánime de su Comisión de Vivienda.32 El 28 de octubre de 2026 la Cámara recibió esas modificaciones. El proyecto está en tercer trámite y quedó para tabla.5
+La Cámara aprobó el proyecto el 24 de marzo de 2026, en general y en particular a la vez.54 El 27 de octubre de 2026 el Senado lo aprobó con modificaciones, tras el informe unánime de su Comisión de Vivienda.32 La Cámara recibió esos cambios el 28 de octubre. Los revisa en tercer trámite.5 El 25 de noviembre de 2026 se dio cuenta de una urgencia suma.5
 Vence en 14 días · 10 dic 2026. La suma corre en la Cámara desde el 25 de noviembre de 2026.6
 1urgencias desde marzo de 2026
 0renovaciones
@@ -3148,16 +3284,16 @@ Tercer trámite: la cámara de origen vota los cambios de la otra.
 - 27 oct 2026 · SenadoOficio modificaciones a Cámara de Origen.El proyecto vuelve a la cámara donde ingresó.
 - 28 oct 2026 · CámaraCuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
 ### Para conducir la discusión de los certificados de residencia en condominios
-Fuentes · consultadas el 13 de noviembre de 2026
+Fuentes · consultadas el 26 de noviembre de 2026
 - 1Moción: Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia2025-07-25. Fundamentos de la moción.
 - 2Informe de comisión · Primer informe de comisión de Vivienda y Urbanismo · Segundo trámite constitucional2026-07-10. Informe de la Comisión de Vivienda del Senado.
 - 3Oficio N° 352-262026-10-27. Modificaciones aprobadas por el Senado.
 - 4Oficio N° 211122026-03-24. Texto aprobado por la Cámara.
-- 5Tramitación del boletín 17737-14 (servicio web público del Senado)2026-11-13. Etapa y trámites.
+- 5Tramitación del boletín 17737-14 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
 - 6Senado, ficha de tramitación del boletín 17737-14Consulta automática. Etapas, trámites y urgencias.
 - 7Cámara de Diputadas y Diputados, tramitación del boletín 17737-14Consulta automática
 - 8Texto del proyecto (moción)Documento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17738-36
 
@@ -3211,20 +3347,23 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/17795-19.html
 
 Urgencias/Boletín 17795-19SimplePlazo vencidoAhora en la Cámara
-## Regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial
-- 1. Resumen del proyecto
+Título oficialRegula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial
+## Regula las imitaciones realistas de la imagen o voz de personas hechas con inteligencia artificial. La Cámara lo aprobó en general y volvió a comisión, con urgencia simple.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17795-19
 21 ago 2025, Cámara
 Primer trámite, Cámara
 Simple · Plazo vencido
 462 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que la inteligencia artificial permite imitar la imagen, el cuerpo o la voz de alguien sin su permiso.1 Esas imitaciones, llamadas «deepfakes», se han usado para videos sexuales falsos, fraudes y desinformación.1 Sostiene que Chile no tiene una norma específica.1
+La moción prohíbe crear, difundir o guardar imitaciones realistas sin permiso, salvo sátira, crítica o información sin daño grave.1 Las plataformas deberían retirarlas en 72 horas tras el aviso.1 El gobierno propuso cambios (una indicación): prohibir toda representación falsa pero creíble, etiquetar contenidos y multar con 5.000 a 10.000 UTM, unidades que se reajustan cada mes.4
+Crea una ley nueva que complementa la ley 19.628, de protección de la vida privada.1 La indicación del gobierno encarga las multas a la Agencia de Protección de Datos Personales.4
+Afecta a las personas imitadas, incluso fallecidas, y a las plataformas digitales.1
+El informe financiero N° 16, del 12 de enero de 2026, que acompaña los cambios del gobierno, señala que no habrá mayor gasto fiscal, según la comisión.25
+La Cámara lo aprobó en general (la idea central) el 22 de julio de 2026.35 Volvió a la Comisión de Futuro, Ciencias y Tecnología para un segundo informe, en primer trámite.35 El 26 de octubre se renovó la urgencia simple.5
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Plazo vencido el 25 de noviembre de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.1
+Plazo vencido el 25 de noviembre de 2026. No figura una urgencia nueva en los datos del Senado. Cuando el gobierno no renueva, el proyecto pierde prioridad en la tabla.6
 3urgencias desde marzo de 2026
 2renovaciones
 26 oct 2026Renueva la simple · Cámara30 días
@@ -3238,11 +3377,17 @@ Plazo vencido el 25 de noviembre de 2026. No figura una urgencia nueva en los da
 - 13 jul 2026 · CámaraDiscusión general. Queda pendiente.La Sala discute la idea de legislar.
 - 22 jul 2026 · CámaraDiscusión general. Aprobado en generalLa Sala aprueba la idea de legislar.
 - 22 jul 2026 · CámaraComunica a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación que la Sala aprobó en general el proyecto. Por haber sido objeto de indicaciones, se remiten los antecedentes para segundo informe reglamentario.La comisión revisó las indicaciones y entrega su segundo informe.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17795-19Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17795-19Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de las imitaciones digitales con inteligencia artificial
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial2025-08-21. Fundamentos y texto de la moción.
+- 2Informe de comisión · Primer informe de comisión de Ciencias y Tecnología · Primer trámite constitucional2026-04-06. Primer informe de comisión (leído parcialmente).
+- 3Oficio N° 21.419: Comunica a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación que la Sala aprobó en general el proyecto. Por haber sido objeto de indicaciones, que se adjuntan, se remiten los antecedentes para segundo informe reglamentario.,2026-07-22. Aprobación en general en Sala e indicaciones de diputados.
+- 4Oficio N° 287-373: Oficio del Presidente de la República (N° 287-373), mediante el cual formula indicación al proyecto. Se adjunta informe financiero N° 16/12.01.2026.2026-01-12. Indicación del Ejecutivo.
+- 5Tramitación del boletín 17795-19 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
+- 6Senado, ficha de tramitación del boletín 17795-19Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 17795-19Consulta automática
+- 8Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17800-11
 
@@ -3308,6 +3453,7 @@ Título oficialModifica la ley N° 20.998, con el propósito de modernizar y for
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17877-33
+Mensaje del Presidente
 1 oct 2025, Senado
 Primer trámite, Senado
 Simple · Vence en 28 días
@@ -3616,6 +3762,7 @@ Título oficialEstablece el reconocimiento, calificación y reparación, cuando 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18029-17
+Mensaje del Presidente
 24 dic 2025, Senado
 Primer trámite, Senado
 Suma · Vence en 13 días
@@ -3665,6 +3812,7 @@ Título oficialModifica la ley orgánica de la Dirección General del Territorio
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18072-02
+Mensaje del Presidente
 23 ene 2026, Senado
 Primer trámite, Senado
 Suma · Vence en 13 días
@@ -4000,6 +4148,7 @@ Título oficialModifica el Código Procesal Penal, para regular la continuidad d
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18208-25
+Mensaje del Presidente
 20 abr 2026, Senado
 Segundo trámite, Cámara
 Simple · Vence en 20 días
@@ -4442,6 +4591,7 @@ Título oficialEstablece un beneficio de compensación por la compra de pañales
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18255-31
+Mensaje del Presidente
 18 may 2026, Cámara
 Suma · Vence en 13 días
 192 días
@@ -4497,6 +4647,7 @@ Título oficialModifica la ley N°18.415, orgánica constitucional de los estado
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18258-07
+Mensaje del Presidente
 18 may 2026, Cámara
 Suma · Vence en 13 días
 Próxima citación
@@ -4569,6 +4720,28 @@ Fuentes · consultadas el 13 de noviembre de 2026
 - 3Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (107-374). Incluye informe financiero N° 173/17.07.2026.2026-07-17. Indicaciones del Presidente de la República e informe financiero N° 173.
 - 4Tramitación del boletín 18267-24 (servicio web público del Senado)2026-11-13. Etapa y trámites.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
+## Boletín 18269-01
+
+URL: https://urgenciaskast.cl/p/18269-01.html
+
+Urgencias/Boletín 18269-01
+## Permite tomar medidas, como la captura, contra perros salvajes que atacan ganado, con denuncia previa. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18269-01
+La moción dice que los perros ferales, que viven como salvajes y sin contacto humano, atacan personas, ganado y fauna.1 Cita al Servicio Agrícola y Ganadero: entre 2012 y 2026 hubo 888 denuncias de ataques asociados a perros.1 Sostiene que la ley actual no distingue estos animales de los perros domésticos.1
+Define los perros salvajes o ferales y los separa de las mascotas.1 Quienes sufran ataques a sus animales de producción podrían usar en sus predios medidas como la captura, según un reglamento.1 Antes deberían hacer una denuncia con pruebas, como fotos o informes veterinarios.1
+Crea una ley especial sobre esta materia.1 No habría responsabilidad penal por el delito del artículo 291 bis del Código Penal al defenderse, o defender a terceros o al ganado, de un ataque actual o inminente.1
+Afecta a dueños o responsables de ganado y a comunidades rurales, en especial del sur.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, sin urgencia.3 Se tramita junto a los proyectos 16962-01 (el principal) y 18400-01.3 El 20 de octubre de 2026, la Comisión de Agricultura siguió la discusión en particular (artículo por artículo).2
+### Para conducir la discusión de el control de perros salvajes
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Establece medidas de prevención y control de riesgos asociados a perros salvajes o ferales, en la seguridad de las personas, el ganado y la fauna silvestre2026-05-13. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-20. Resultado de la sesión de la comisión.
+- 3Tramitación del boletín 18269-01 (servicio web público del Senado)2026-11-25. Etapa, refundición y trámites.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18271-07
 
@@ -4692,6 +4865,7 @@ Título oficialModifica la ley N° 19.799, sobre documentos electrónicos, firma
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18286-03
+Mensaje del Presidente
 2 jun 2026, Cámara
 Discusión inmediata · En espera en la otra cámara
 177 días
@@ -4744,28 +4918,34 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18309-14.html
 
 Urgencias/Boletín 18309-14Sin plazo informadoAhora en la Cámara
-## Modifica la Ley General de Urbanismo y Construcciones para exigir la ejecución previa o simultánea de las medidas de mitigación directas en proyectos inmobiliarios
-- 1. Resumen del proyecto
+Título oficialModifica la Ley General de Urbanismo y Construcciones para exigir la ejecución previa o simultánea de las medidas de mitigación directas en proyectos inmobiliarios
+## Exige que las obras para reducir el impacto de proyectos inmobiliarios se hagan antes o junto con la construcción. Está en primer trámite en la Cámara, en la Comisión de Vivienda.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18309-14
 31 may 2026, Cámara
 Primer trámite, Cámara
 179 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que las medidas de mitigación (obras para reducir el impacto de un proyecto) no se cumplen bien.1 Apunta a fallas en la exigencia y la fiscalización.1 También a empresas que dividen o ajustan proyectos para evitarlas, como diseñar 99 viviendas cuando la regla rige desde 100.1
+El permiso de edificación dependería de cumplir antes, o al menos a la vez que la obra, las medidas de mitigación directa necesarias.1 Las medidas directas necesarias no podrían aplazarse con una caución, es decir, una garantía.1 Dividir, reducir o modificar un proyecto no permitiría evitarlas.1
+Modifica los artículos 116, 134 y 173 de la Ley General de Urbanismo y Construcciones.1 Agrega un artículo 173 bis, para medir el impacto total del proyecto.1
+Afecta a quienes desarrollan proyectos inmobiliarios y a las autoridades que los revisan.1 Según la moción, busca proteger a las comunidades cercanas.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+Está en primer trámite en la Cámara, sin urgencia.2 El 8 de junio de 2026 pasó a la Comisión de Vivienda y Desarrollo Urbano, donde espera su primer informe.2
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto.
-1
+3
 0urgencias desde marzo de 2026
 0renovaciones
 - 31 may 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 8 jun 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo UrbanoLa Sala toma conocimiento del proyecto y lo envía a comisión.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18309-14Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18309-14Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de las medidas de mitigación de proyectos inmobiliarios
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la Ley General de Urbanismo y Construcciones para exigir la ejecución previa o simultánea de las medidas de mitigación directas en proyectos inmobiliarios2026-05-31. Fundamentos y texto de la moción.
+- 2Tramitación del boletín 18309-14 (servicio web público del Senado)2026-11-25. Etapa y trámites.
+- 3Senado, ficha de tramitación del boletín 18309-14Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18309-14Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18314-07
 
@@ -4777,6 +4957,7 @@ Título oficialReforma la Constitución Política en materia de detención para 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18314-07
+Mensaje del Presidente
 8 jun 2026, Cámara
 Insistencia, Senado
 Discusión inmediata · Vence en 4 días
@@ -4836,6 +5017,7 @@ Título oficialAmplía las hipótesis de tráfico de migrantes y modifica los te
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18315-07
+Mensaje del Presidente
 8 jun 2026, Cámara
 Suma · En espera en la otra cámara
 171 días
@@ -5115,6 +5297,7 @@ Título oficialCrea el registro de actos vandálicos e incivilidades
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18341-25
+Mensaje del Presidente
 12 jun 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 14 días
@@ -5245,6 +5428,7 @@ Título oficialFortalece el ejercicio de la responsabilidad parental
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18378-18
+Mensaje del Presidente
 19 jun 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 27 días
@@ -5330,6 +5514,7 @@ Título oficialFaculta a los establecimientos educacionales a implementar un mec
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18389-04
+Mensaje del Presidente
 23 jun 2026, Cámara
 Suma · Vence en 13 días
 156 días
@@ -5377,25 +5562,73 @@ Vence en 13 días · 9 dic 2026. La suma corre en el Senado desde el 24 de novie
 - 9Texto del mensaje presidencialDocumento original del proyecto.
 Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
+## Boletín 18400-01
+
+URL: https://urgenciaskast.cl/p/18400-01.html
+
+Urgencias/Boletín 18400-01
+## Declara especie dañina e invasora a los perros asilvestrados y permite capturarlos y controlarlos bajo protocolos. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18400-01
+La moción dice que los perros y gatos sueltos o asilvestrados afectan la salud, la seguridad, la fauna y la ganadería.1 Cita un estudio según el cual en 2024 hubo más de 90.000 atenciones por mordeduras de animales, la mayoría de perros.1
+Define al perro asilvestrado como el que no tiene dueño conocido y se ha vuelto un peligro.1 Lo declara animal dañino, especie exótica invasora (extraña y que causa daño) y animal bravío, o salvaje.1 También define qué es el maltrato animal.1
+Agrega al artículo 291 bis del Código Penal, que según la moción castiga la crueldad animal, una excepción.1 Cubriría la captura, el control o el destino de estos perros, con protocolos técnicos y sanitarios, para proteger personas, salud, fauna o propiedad.1
+Afecta a los perros asilvestrados y a quienes apliquen las medidas.1 Según la moción, busca dar herramientas a personas e instituciones.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, sin urgencia.3 Se tramita junto a los proyectos 16962-01 (el principal) y 18269-01.3 El 20 de octubre de 2026, la Comisión de Agricultura siguió la discusión en particular (artículo por artículo).2
+### Para conducir la discusión de el control de perros asilvestrados
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Establece medidas a favor de la seguridad de las personas y la protección de la biodiversidad y la fauna local, por medio del control de los perros asilvestrados o ferales2026-06-16. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-10-20. Resultado de la sesión de la comisión.
+- 3Tramitación del boletín 18400-01 (servicio web público del Senado)2026-11-25. Etapa, refundición y trámites.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
+## Boletín 18403-24
+
+URL: https://urgenciaskast.cl/p/18403-24.html
+
+Urgencias/Boletín 18403-24
+## Sube las penas y multas por dañar monumentos nacionales y aumenta el premio al denunciante que aporte pruebas suficientes. Está en primer trámite en la Cámara, aprobado en general en comisión.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
+18403-24
+La moción dice que una protección débil puede hacer desaparecer o alterar los geoglifos, figuras antiguas trazadas en el terreno.1 Sostiene que importa subir las sanciones y también hacer más probable que se apliquen, con más incentivos a denunciar.1
+El daño a un monumento nacional tendría presidio menor (cárcel) en su grado más alto y multa de 200 UTM, una unidad que se reajusta cada mes.1 En caso de reincidencia, la multa podría duplicarse.1 El denunciante recibiría el 35% de la multa si entrega antecedentes suficientes para probar la infracción y saber quién la cometió.1
+Modifica los artículos 38 y 42 de la ley 17.288, de Monumentos Nacionales.1 Hoy el artículo 38 fija penas de grado medio a máximo y multa de 50 a 200 UTM.1 El premio actual al denunciante es de 20%.1
+Afecta a quienes dañen monumentos nacionales y a quienes denuncien esos daños.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+Está en primer trámite en la Cámara y se discute junto a los proyectos 15025-24 y 17710-24.42 El 2 de noviembre de 2026, la Comisión de Cultura, Artes y Comunicaciones aprobó en general (la idea central) la iniciativa.3 Fijó plazo hasta el 9 de noviembre para proponer cambios.3
+### Para conducir la discusión de las penas contra el daño a monumentos nacionales
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Aumenta penalidad en delitos contra monumentos nacionales2026-06-17. Fundamentos y texto de la moción.
+- 2Oficio N° 21.511: Comunica que la Cámara de Diputados accedió a la solicitud de la Comisión de Cultura, Artes y Comunicaciones para refundir los proyectos de ley correspondientes a los boletines Nos 15.025-24, 17.710-24 y 18.403-24.2026-08-18. Acuerdo de tratar juntos los tres proyectos.
+- 3Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-02. Resultado de la sesión de la comisión.
+- 4Tramitación del boletín 18403-24 (servicio web público del Senado)2026-11-25. Etapa y trámites.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+
 ## Boletín 18413-07
 
 URL: https://urgenciaskast.cl/p/18413-07.html
 
 Urgencias/Boletín 18413-07SimpleVence en 27 díasAhora en la Cámara
-## Modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales
-- 1. Resumen del proyecto
+Título oficialModifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales
+## Reescribe reglas de la Constitución sobre acusaciones constitucionales, con un requisito previo para acusar ministros. Está en primer trámite en la Cámara, con urgencia simple.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18413-07
 22 jun 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 27 días
 157 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
+La moción dice que la acusación constitucional, un proceso contra altas autoridades por infracciones graves, se usa cada vez más.1 Sostiene que muchas veces sirve como arma de disputa política.1 Quiere que vuelva a ser un recurso excepcional.1
+Para que la Cámara dé curso a una acusación haría falta el voto de la mayoría de los diputados en ejercicio.1 Las acusaciones deberían presentarlas al menos 20 diputados.1 Contra ministros, antes habría que haber usado otra atribución de la Cámara, fijada en el número 1, letra b), del mismo artículo.1 El acusado, salvo el Presidente, quedaría suspendido si la Cámara aprueba la acusación.1
+Reemplaza el número 2 del artículo 52 de la Constitución.1
+Afecta al Presidente, ministros, jueces superiores, el Contralor, generales, almirantes y autoridades regionales.1 También a la Cámara, que decide si da curso a la acusación.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.3
+Está en primer trámite en la Cámara, en la Comisión de Constitución.3 El 3 de noviembre de 2026 la comisión siguió su estudio y escuchó a un profesor de Derecho Público.2 El 23 de noviembre se renovó la urgencia simple.3
 Una Urgencia es un plazo que el Presidente fija a una cámara para despachar un proyecto. Este proyecto tiene urgencia simple, de treinta días.
-Vence en 27 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de noviembre de 2026.1
+Vence en 27 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de noviembre de 2026.4
 3urgencias desde marzo de 2026
 2renovaciones
 23 nov 2026Renueva la simple · Cámara30 días
@@ -5407,11 +5640,15 @@ Vence en 27 días · 23 dic 2026. La simple corre en la Cámara desde el 23 de n
 Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.
 FechaComisiónResultado
 3 nov 2026Constitución, Legislación, Justicia y ReglamentoContinuó su estudio. Expuso el profesor de Derecho Público don Rodrigo Delaveau.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18413-07Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18413-07Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de las acusaciones constitucionales
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales2026-06-22. Fundamentos y texto de la moción.
+- 2Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)2026-11-03. Resultado de la sesión de la comisión.
+- 3Tramitación del boletín 18413-07 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
+- 4Senado, ficha de tramitación del boletín 18413-07Consulta automática. Etapas, trámites y urgencias.
+- 5Cámara de Diputadas y Diputados, tramitación del boletín 18413-07Consulta automática
+- 6Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18414-18
 
@@ -5579,6 +5816,7 @@ Urgencias/Boletín 18436-15SumaVence en 13 díasAhora en el Senado
 Título oficialModifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado
 ## Exime a la Empresa de los Ferrocarriles del Estado de derechos municipales por sus obras ferroviarias y las declara obras del Estado que no necesitan permiso municipal. Está en el Senado.
 18436-15
+Mensaje del Presidente
 8 jul 2026, Cámara
 Suma · Vence en 13 días
 141 días
@@ -5677,6 +5915,7 @@ Urgencias/Boletín 18464-14SumaVence en 13 díasAhora en el Senado
 Título oficialModifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia
 ## Crea un procedimiento más rápido para regularizar la posesión de viviendas de personas afectadas por sismos y otras catástrofes. La Cámara lo aprobó y está en el Senado, con urgencia suma.
 18464-14
+Mensaje del Presidente
 15 jul 2026, Cámara
 Suma · Vence en 13 días
 134 días
@@ -5729,6 +5968,7 @@ Título oficialPerfecciona los mecanismos de adaptabilidad de la jornada de trab
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18478-13
+Mensaje del Presidente
 21 jul 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 5 días
@@ -5831,6 +6071,7 @@ Urgencias/Boletín 18521-07SimpleVence en 27 díasAhora en la Cámara
 ## Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas
 - 1. Resumen del proyecto
 18521-07
+Mensaje del Presidente
 3 ago 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 27 días
@@ -6206,20 +6447,20 @@ URL: https://urgenciaskast.cl/p/18576-06.html
 
 Urgencias/Boletín 18576-06SumaEn espera en la otra cámaraAhora en el Senado
 Título oficialModifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias
-## Amplía de dos a tres años la vigencia de las patentes municipales provisorias y de uno a dos años su extensión, para evitar el cierre de negocios en trámite de permisos. Está en primer trámite en la Cámara.
+## Amplía de dos a tres años la vigencia de las patentes municipales provisorias y de uno a dos años su extensión, para evitar el cierre de negocios que esperan permisos. Está en segundo trámite en el Senado.
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18576-06
 6 ago 2026, Cámara
 Suma · En espera en la otra cámara
 112 días
-La patente provisoria permite funcionar a un negocio mientras obtiene sus permisos.1 Si el plazo vence sin permisos, la patente caduca y el negocio debe cesar sus actividades de inmediato.1 Los autores dicen que el plazo legal es más corto que lo que demoran los trámites.1
-Sube de dos a tres años la vigencia de la patente provisoria.1 Amplía de uno a dos años la extensión que se puede pedir por una sola vez.1 Si el municipio no responde en treinta días al plan de trabajo, la extensión se entiende aprobada.1
-Modifica el artículo 26 de la Ley sobre Rentas Municipales.1 Reduce de sesenta a treinta días la anticipación para presentar el plan de trabajo.1 Sube de tres a cinco años el plazo máximo que puede dar la Dirección de Obras Municipales para corregir observaciones.1
-Afecta a los negocios con patente provisoria vigente cuando se publique la ley.1 Afecta a las municipalidades, que otorgan estas patentes.1
-Es una moción parlamentaria. En su expediente no figura un informe financiero.3
-La Comisión de Gobierno Interior aprobó la idea de legislar por unanimidad, según su informe del 10 de noviembre de 2026.2 El 11 de noviembre se dio cuenta del informe y el proyecto quedó para tabla.3 Tiene urgencia suma desde el 2 de noviembre.3
-Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 16 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.4
+La patente provisoria permite funcionar a un negocio mientras obtiene sus permisos.1 Si el plazo vence sin ellos, la patente caduca y el negocio debe cesar sus actividades de inmediato.1 Los autores dicen que el plazo legal es más corto que lo que demoran los trámites.1
+El texto que aprobó la Cámara sube de dos a tres años la vigencia de esta patente.3 Amplía de uno a dos años la extensión que se puede pedir por una sola vez.3 Si el municipio no responde en treinta días al plan de trabajo presentado para pedir la extensión, este se entiende aprobado.3
+Modifica el artículo 26 de la Ley sobre Rentas Municipales.3 Reduce de sesenta a treinta días la anticipación mínima para presentar ese plan.3 Sube de tres a cinco años el plazo máximo para cumplir las exigencias que señale la Dirección de Obras Municipales.32
+Los nuevos plazos regirían para las patentes provisorias vigentes cuando se publique la ley, contados desde su otorgamiento.3 También afecta a las municipalidades, que otorgan estas patentes.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+La Cámara lo aprobó en general y en particular el 25 de noviembre de 2026.43 Ese día pasó en segundo trámite al Senado, a su Comisión de Gobierno, Descentralización y Regionalización.4 La tramitación registra urgencia suma.4
+Urgencia en espera. El proyecto pasó a el Senado después de la última urgencia, del 16 de noviembre de 2026. El plazo se cuenta desde que esa cámara da cuenta de una urgencia; la ficha se actualizará cuando ocurra.5
 3urgencias desde marzo de 2026
 2renovaciones
 16 nov 2026Renueva la suma · Cámara15 días
@@ -6239,13 +6480,15 @@ FechaComisiónResultado
 3 nov 2026Gobierno Interior, Nacionalidad, Ciudadanía y RegionalizaciónDespachado por la comisión. Luego de audiencia se votará en general y en particular. El Vicepresidente de la AChM y alcalde de San Ramón, Gustavo Toro, explicó el objetivo que persigue este proyecto de ley La Comisión despachó el PL y designó como informante al diputado Álvaro Ortiz.
 20 oct 2026Gobierno Interior, Nacionalidad, Ciudadanía y RegionalizaciónContinuó su estudio. La diputada Mora expuso los puntos de vista que originaron la presentación de esta moción.
 ### Para conducir la discusión de el plazo de las patentes municipales provisorias
-- 1Cámara, moción del boletín 18.576-06 (texto del proyecto)2026-08-06. Fundamentos y texto de la moción.
-- 2Cámara, primer informe de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización2026-11-10. Idea matriz y votación en general.
-- 3Senado, tramitación del boletín 18.576-062026-11-12. Etapas y urgencias.
-- 4Senado, ficha de tramitación del boletín 18576-06Consulta automática. Etapas, trámites y urgencias.
-- 5Cámara de Diputadas y Diputados, tramitación del boletín 18576-06Consulta automática
-- 6Texto del proyecto (moción)Documento original del proyecto.
-Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-12 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
+Fuentes · consultadas el 26 de noviembre de 2026
+- 1Moción: Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias2026-08-06. Fundamentos y texto de la moción.
+- 2Informe de comisión · Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización · Primer trámite constitucional2026-11-10. Idea matriz, votación en general y texto vigente del artículo 26.
+- 3Oficio N° 21.8082026-11-25. Texto aprobado por la Cámara.
+- 4Tramitación del boletín 18576-06 (servicio web público del Senado)2026-11-25. Etapa, trámites y urgencias.
+- 5Senado, ficha de tramitación del boletín 18576-06Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18576-06Consulta automática
+- 7Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18583-14
 
@@ -6285,6 +6528,7 @@ Título oficialModifica el Código Penal para ampliar el ámbito de aplicación 
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18584-25
+Mensaje del Presidente
 17 ago 2026, Cámara
 Discusión inmediata · Vence en 4 días
 101 días
@@ -6337,6 +6581,7 @@ Título oficialModifica el Código Procesal Penal y la ley N°19.970, que crea e
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18585-25
+Mensaje del Presidente
 17 ago 2026, Cámara
 Discusión inmediata · Vence en 4 días
 101 días
@@ -6480,6 +6725,7 @@ Título oficialPerfecciona las normas sobre medidas cautelares en los procedimie
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18621-34
+Mensaje del Presidente
 31 ago 2026, Cámara
 Primer trámite, Cámara
 Simple · Vence en 20 días
@@ -6641,6 +6887,7 @@ Título oficialReforma al mercado de capitales y financiamiento de la casa propi
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18643-05
+Mensaje del Presidente
 9 sep 2026, Cámara
 Discusión inmediata · Vence en 4 días
 Próxima citación
@@ -6706,6 +6953,7 @@ Título oficialModifica la Ley General de Urbanismo y Construcciones, con el obj
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18644-14
+Mensaje del Presidente
 21 sep 2026, Cámara
 Suma · Vence en 13 días
 66 días
@@ -6863,6 +7111,7 @@ Las ciencias sociales estudian cómo actúan las personas, los grupos y las inst
 - 4. Cómo se habla del proyecto
 - 5. Plazo y tramitación
 18702-05
+Mensaje del Presidente
 30 sep 2026, Cámara
 Trámite de finalización, Senado
 57 días
@@ -7199,6 +7448,7 @@ Título oficialReforma el Instituto Nacional de Derechos Humanos
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18754-17
+Mensaje del Presidente
 19 oct 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 12 días
@@ -7331,6 +7581,7 @@ Título oficialModifica la ley N° 21.063, que crea el seguro para el acompañam
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18803-13
+Mensaje del Presidente
 27 oct 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 12 días
@@ -7394,6 +7645,7 @@ Título oficialProyecto de ley que modifica la ley Nº 19.856, que crea un siste
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18806-07
+Mensaje del Presidente
 27 oct 2026, Senado
 Primer trámite, Senado
 Discusión inmediata · Plazo vencido
@@ -7432,6 +7684,7 @@ Título oficialFomenta la industria de capital de riesgo, mediante la autorizaci
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18819-03
+Mensaje del Presidente
 28 oct 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 5 días
@@ -7676,6 +7929,7 @@ Título oficialModifica el Código de Procedimiento Civil para mejorar el acceso
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18903-07
+Mensaje del Presidente
 23 nov 2026, Cámara
 Primer trámite, Cámara
 Suma · Vence en 12 días
@@ -7744,6 +7998,7 @@ Título oficialModifica normas relativas al autocontrol en materia de pesaje res
 Revisión pendiente · piloto de prueba
 Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 8654-15
+Mensaje del Presidente
 30 oct 2012, Cámara
 Suma · Vence en 13 días
 5140 días
