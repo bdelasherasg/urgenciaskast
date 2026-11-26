@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18649-14",
+  "nivel": "basica",
+  "sintesis": "Prohíbe urbanizar y construir en zonas con riesgo de inundación, con multas y sanciones para quienes lo incumplan. Está en primer trámite en la Cámara.",
+  "materia": "la prohibición de construir en zonas con riesgo de inundación",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que se ha construido en terrenos que se inundan.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que hoy se puede edificar en áreas de riesgo si hay un estudio y obras de mitigación, que reducen el daño.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que esa regla no ha sido suficiente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Prohíbe urbanizar y edificar en toda zona identificada con riesgo de inundación, incluso con inundaciones en períodos de hasta diez años.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Exceptúa obras de defensa o hidráulicas, y otras que no expongan a más personas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Impide dar permisos o recibir obras en esas zonas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Reemplaza el artículo 97 del DFL 850, un decreto con fuerza de ley.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Fija multas de 100 a 1.000 unidades tributarias mensuales, una medida en pesos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si se repite la falta, no habrá nuevos permisos por diez años.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a propietarios, urbanizadores y constructoras, y a las Direcciones de Obras Municipales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 21 de septiembre pasó a la Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "construcción en zonas de inundación",
+    "prohibir edificar en zonas inundables",
+    "permisos de edificación riesgo de inundación",
+    "áreas de riesgo inundaciones urbanismo",
+    "urbanización en cauces"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Prohíbe urbanizar o edificar en zonas con riesgo de inundación y establece sanciones por incumplimiento",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19333&tipodoc=mensaje_mocion",
+      "fecha": "2026-08-18",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18649-14 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18649",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
