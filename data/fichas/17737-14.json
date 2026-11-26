@@ -2,7 +2,7 @@
   "version": 2,
   "boletin": "17737-14",
   "nivel": "basica",
-  "sintesis": "Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y ahora la Cámara debe pronunciarse sobre ellos, en tercer trámite.",
+  "sintesis": "Permite que el administrador de un condominio emita certificados de residencia. El Senado le hizo cambios y la Cámara debe revisarlos, en tercer trámite y con urgencia suma.",
   "materia": "los certificados de residencia en condominios",
   "resumen": {
     "problema": [
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "texto": "El administrador tendría cinco días hábiles para emitirlo y debería revisar la identidad y la calidad del solicitante.",
+        "texto": "Tendría cinco días hábiles para emitirlo, revisando la identidad y calidad del solicitante y cuidando su vida privada, según la ley 19.628.",
         "fuentes": [
           "f4"
         ]
@@ -53,9 +53,10 @@
         ]
       },
       {
-        "texto": "El administrador deberá cumplir la ley 19.628, sobre protección de la vida privada.",
+        "texto": "El Senado quitó un artículo que daba seis meses para adaptar los reglamentos de copropiedad.",
         "fuentes": [
-          "f4"
+          "f4",
+          "f5"
         ]
       }
     ],
@@ -97,7 +98,13 @@
         ]
       },
       {
-        "texto": "El 28 de octubre de 2026 la Cámara recibió esas modificaciones. El proyecto está en tercer trámite y quedó para tabla.",
+        "texto": "La Cámara recibió esos cambios el 28 de octubre. Los revisa en tercer trámite.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "El 25 de noviembre de 2026 se dio cuenta de una urgencia suma.",
         "fuentes": [
           "f6"
         ]
@@ -107,6 +114,13 @@
   "posiciones": [],
   "posiciones_sin_registro": "",
   "encuadre": {},
+  "busqueda_prensa": [
+    "certificados de residencia",
+    "administradores de condominios",
+    "Ley de Copropiedad Inmobiliaria",
+    "copropiedad inmobiliaria Chile",
+    "condominios en tercer trámite"
+  ],
   "fuentes": [
     {
       "id": "f1",
@@ -140,19 +154,12 @@
       "id": "f6",
       "titulo": "Tramitación del boletín 17737-14 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17737",
-      "fecha": "2026-11-13",
-      "nota": "Etapa y trámites."
+      "fecha": "2026-11-25",
+      "nota": "Etapa, trámites y urgencias."
     }
   ],
-  "consultado": "2026-11-13",
-  "publicado": "2026-11-13",
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-13 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.",
-  "busqueda_prensa": [
-    "certificados de residencia",
-    "administradores de condominios",
-    "Ley de Copropiedad Inmobiliaria",
-    "copropiedad inmobiliaria Chile",
-    "condominios en tercer trámite"
-  ]
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
