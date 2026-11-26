@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "boletin": "18413-07",
+  "nivel": "basica",
+  "sintesis": "Reescribe reglas de la Constitución sobre acusaciones constitucionales, con un requisito previo para acusar ministros. Está en primer trámite en la Cámara, con urgencia simple.",
+  "materia": "las acusaciones constitucionales",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la acusación constitucional, un proceso contra altas autoridades por infracciones graves, se usa cada vez más.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que muchas veces sirve como arma de disputa política.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quiere que vuelva a ser un recurso excepcional.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Para que la Cámara dé curso a una acusación haría falta el voto de la mayoría de los diputados en ejercicio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las acusaciones deberían presentarlas al menos 20 diputados.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Contra ministros, antes habría que haber usado otra atribución de la Cámara, fijada en el número 1, letra b), del mismo artículo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El acusado, salvo el Presidente, quedaría suspendido si la Cámara aprueba la acusación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Reemplaza el número 2 del artículo 52 de la Constitución.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta al Presidente, ministros, jueces superiores, el Contralor, generales, almirantes y autoridades regionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a la Cámara, que decide si da curso a la acusación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, en la Comisión de Constitución.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 3 de noviembre de 2026 la comisión siguió su estudio y escuchó a un profesor de Derecho Público.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 23 de noviembre se renovó la urgencia simple.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "acusación constitucional reforma",
+    "reforma acusaciones constitucionales",
+    "acusación constitucional requisitos",
+    "acusación constitucional contra ministros",
+    "reforma constitucional acusaciones"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la Constitución Política de la República en materia de admisibilidad y efectos de las acusaciones constitucionales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19103&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-22",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-11-03",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18413-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18413",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
