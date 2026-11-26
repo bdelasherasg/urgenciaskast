@@ -79,3 +79,53 @@ class SenadoSinRestosDePlantilla(unittest.TestCase):
     def test_un_marcador_suelto_tambien_se_descarta(self):
         self.assertEqual(agenda.a_lineas('<p>Materia real</p><p>%%CITACION_FECHA.COMINOMBRE%% []</p><p>--></p>'),
                          ['Materia real'])
+
+
+class SinSesionesRepetidas(unittest.TestCase):
+    """Cuando camara.cl o el Senado rechazan la lectura, la agenda conserva las comisiones anteriores, pero nunca
+    las sesiones de Sala: esas llegan siempre por su propia fuente. Antes se sumaba una copia en cada ejecución."""
+
+    def correr(self, veces, anterior):
+        import shutil
+        sala_xml = ('<r><Sesion><Id>4860</Id><Numero>100</Numero><Tipo>Ordinaria</Tipo><FechaInicio>2026-11-30T12:00:00</FechaInicio>'
+                    '<FechaTermino></FechaTermino><Estado>Citada</Estado></Sesion></r>')
+        carpeta = tempfile.mkdtemp()
+        rutas = {k: os.path.join(carpeta, k + '.json') for k in ('agenda', 'urgencias', 'citaciones', 'tabla', 'votaciones', 'especiales', 'resultados_senado')}
+        with open(rutas['agenda'], 'w', encoding='utf-8') as f:
+            json.dump(anterior, f)
+        respaldo = {k: getattr(agenda, k) for k in ('SALIDA', 'URGENCIAS', 'CITACIONES_ASISTIDAS', 'TABLA_SALA', 'VOTACIONES_SALA', 'ESPECIALES', 'RESULTADOS_SENADO')}
+        respaldo_a = (agenda.A.bajar, agenda.A.hoy_chile, agenda.A.en_paralelo)
+        agenda.SALIDA, agenda.URGENCIAS, agenda.CITACIONES_ASISTIDAS = rutas['agenda'], rutas['urgencias'], rutas['citaciones']
+        agenda.TABLA_SALA, agenda.VOTACIONES_SALA, agenda.ESPECIALES = rutas['tabla'], rutas['votaciones'], rutas['especiales']
+        agenda.RESULTADOS_SENADO = rutas['resultados_senado']
+        agenda.A.bajar = lambda url, *a, **k: sala_xml.encode() if 'retornarSesionesXAnno' in url else None
+        agenda.A.hoy_chile = lambda: dt.date(2026, 11, 26)
+        agenda.A.en_paralelo = lambda *a, **k: {}
+        try:
+            for _ in range(veces):
+                agenda.principal()
+            with open(rutas['agenda'], encoding='utf-8') as f:
+                return json.load(f)
+        finally:
+            for k, v in respaldo.items():
+                setattr(agenda, k, v)
+            agenda.A.bajar, agenda.A.hoy_chile, agenda.A.en_paralelo = respaldo_a
+            shutil.rmtree(carpeta)
+
+    def test_la_sala_no_se_duplica_cuando_fallan_las_comisiones(self):
+        sala = {'fecha': '2026-11-30', 'hora': '12:00', 'camara': 'Cámara de Diputados', 'organo': 'Sala de la Cámara', 'tipo': 'sala',
+                'numero': 100, 'boletines': [], 'materias': [], 'estado': 'citada'}
+        sala_senado = dict(sala, camara='Senado', organo='Sala del Senado', numero=90, fecha='2026-12-01', hora='15:00')
+        comision = {'fecha': '2026-12-01', 'hora': '10:00', 'horario': '10:00', 'camara': 'Senado', 'organo': 'Comisión de Hacienda',
+                    'boletines': ['18643-05'], 'materias': ['x'], 'estado': 'citada'}
+        salida = self.correr(3, {'sesiones': [sala, sala, sala_senado, comision], 'legislatura': 374})
+        salas = [s for s in salida['sesiones'] if s.get('tipo') == 'sala']
+        self.assertEqual(len([s for s in salas if s['camara'] == 'Cámara de Diputados']), 1)
+        self.assertEqual(len([s for s in salas if s['camara'] == 'Senado']), 1)   # su fuente no respondió: se conserva, una vez
+        self.assertEqual(len([s for s in salida['sesiones'] if s['organo'] == 'Comisión de Hacienda']), 1)
+
+    def test_una_sesion_de_sala_iniciada_con_atraso_no_se_cuenta_dos_veces(self):
+        import sala as S
+        citada = {'camara': 'Cámara de Diputados', 'organo': 'Sala de la Cámara', 'tipo': 'sala', 'numero': 98, 'fecha': '2026-11-24', 'hora': '10:00'}
+        iniciada = dict(citada, hora='10:02')
+        self.assertEqual(len(S.pasadas([iniciada], [citada], dt.date(2026, 11, 26))), 1)

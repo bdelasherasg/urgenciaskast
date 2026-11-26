@@ -255,6 +255,10 @@ def votaciones_por_partida(xml_proyecto, resultados):
 
 
 def clave_sesion(s):
+    """Identifica una sesión. Las de Sala con número se identifican por él, porque la hora de inicio cambia
+    cuando la sesión se celebra (citada a las 10:00, iniciada a las 10:02)."""
+    if s.get('tipo') == 'sala' and s.get('numero'):
+        return (s.get('camara', ''), 'sala', s.get('fecha', ''), s['numero'])
     return (s.get('camara', ''), s.get('organo', ''), s.get('fecha', ''), _inicio(s))
 
 

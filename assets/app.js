@@ -603,6 +603,19 @@
       est.push('<span class="chip">' + txt + '</span>');
     });
     $('#estado-fuentes').innerHTML = est.join('');
+    var plazos = (A.plazos_indicaciones || []).filter(function (x) { return x.fecha >= isoDe(hoy()); })
+      .sort(function (a, b) { return (a.fecha + a.hora).localeCompare(b.fecha + b.hora); });
+    if (plazos.length && !$('#plazos-indicaciones')) {
+      cont.insertAdjacentHTML('beforebegin', '<section class="vidrio plazos-ind" id="plazos-indicaciones"><h2>Plazos de ' + t('indicaciones', 'indicaciones') + ' en el Senado</h2>' +
+        '<p>Hasta cuándo se pueden presentar cambios al texto de cada proyecto, según lo publica el Senado.</p><ul>' +
+        plazos.map(function (x) {
+          var n = nombreProyecto(x.boletin, U, A, IDX);
+          var nombre = n.sintesis || n.oficial || x.materia;
+          var enlace = hayPagina(x.boletin, U, A, IDX) ? '<a href="' + BASE + 'p/' + esc(x.boletin) + '.html">' + esc(recortar(nombre, 140)) + '</a>' : esc(recortar(nombre, 140));
+          return '<li><b>' + esc(cuandoTxt(x.fecha).dia) + (x.hora ? ', ' + esc(x.hora) : '') + '</b> · ' + enlace + ' (boletín ' + esc(x.boletin) + ')' +
+            (x.donde ? '<br><small>' + esc(x.donde) + '</small>' : '') + '</li>';
+        }).join('') + '</ul></section>');
+    }
     $('#rango').textContent = 'Del ' + fLarga(A.desde) + ' al ' + fLarga(A.hasta);
     function pintar() {
       var q = (fT.value || '').toLowerCase().trim();
@@ -960,12 +973,15 @@
 
     indice.push('<li><a href="#fuentes">Fuentes</a></li>');
     var proxima = citas[0];
+    // Plazo para presentar indicaciones (cambios al texto) que publica el Senado.
+    var plazoInd = A ? (A.plazos_indicaciones || []).filter(function (x) { return x.boletin === b && x.fecha >= isoDe(hoy()); })[0] : null;
     var datos = '<dl>' +
       '<dt>Boletín</dt><dd>' + esc(b) + '</dd>' +
       (p ? '<dt>Origen</dt><dd>' + (mocion ? t('mocion', 'Moción parlamentaria') : t('mensaje', 'Mensaje del Presidente')) + '</dd>' : '') +
       (p && p.fecha_ingreso ? '<dt>Ingreso</dt><dd>' + esc(fCorta(p.fecha_ingreso)) + ', ' + esc(p.camara_origen === 'Senado' ? 'Senado' : 'Cámara') + '</dd>' : '') +
       (p ? '<dt>Etapa</dt><dd>' + esc(tramiteDe(p.etapa)) + (p.camara_actual ? ', ' + esc(camaraCorta(p.camara_actual)) : '') + '</dd>' : '') +
       (v.tipo ? '<dt>Urgencia</dt><dd>' + esc(v.tipo) + ' · ' + esc(e.corto) + '</dd>' : '') +
+      (plazoInd ? '<dt>Plazo de indicaciones</dt><dd>' + esc(fCorta(plazoInd.fecha)) + (plazoInd.hora ? ', ' + esc(plazoInd.hora) : '') + ' · Senado</dd>' : '') +
       (proxima ? '<dt>Próxima citación</dt><dd>' + esc(fCorta(proxima.fecha)) + (proxima.hora ? ', ' + esc(proxima.hora) : '') + ' · ' + esc(proxima.organo) + '</dd>' : '') +
       (p && p.dias_tramite != null ? '<dt>En trámite</dt><dd>' + p.dias_tramite + ' días</dd>' : '') +
       '</dl>';
@@ -1102,19 +1118,25 @@
       });
   }
 
-  /* ---------- resultados de comisiones de la Cámara ---------- */
-  // Los carga el equipo desde la página de resultados de camara.cl (data/resultados_camara.json).
+  /* ---------- resultados de comisiones ---------- */
+  // Cámara: los carga el equipo desde la página de resultados de camara.cl (data/resultados_camara.json).
+  // Senado: se leen solos desde las últimas sesiones de comisiones de tramitacion.senado.cl (data/resultados_senado.json).
   var RESULTADOS = [];
   function resultadosCamara(boletin) {
-    var lista = RESULTADOS.filter(function (x) { return (x.boletines || []).indexOf(boletin) >= 0; })
-      .sort(function (a, b) { return (b.fecha + (b.hora || '')).localeCompare(a.fecha + (a.hora || '')); }).slice(0, 12);
-    if (!lista.length) return '';
-    return '<h3>Qué pasó en las comisiones de la Cámara</h3>' +
-      '<p>Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.</p>' +
-      '<div class="tabla-caja"><table><thead><tr><th>Fecha</th><th>Comisión</th><th>Resultado</th></tr></thead><tbody>' +
-      lista.map(function (x) {
-        return '<tr><td>' + esc(fCorta(x.fecha)) + '</td><td>' + esc(String(x.organo || '').replace(/^Comisión de /, '')) + '</td><td><b>' + esc(x.hito || '') + '.</b> ' + esc(x.resultado || '') + '</td></tr>';
-      }).join('') + '</tbody></table></div>';
+    var propios = RESULTADOS.filter(function (x) { return (x.boletines || []).indexOf(boletin) >= 0; });
+    function tabla(lista, titulo, explica) {
+      lista = lista.sort(function (a, b) { return (b.fecha + (b.hora || '')).localeCompare(a.fecha + (a.hora || '')); }).slice(0, 12);
+      if (!lista.length) return '';
+      return '<h3>' + titulo + '</h3><p>' + explica + '</p>' +
+        '<div class="tabla-caja"><table><thead><tr><th>Fecha</th><th>Comisión</th><th>Resultado</th></tr></thead><tbody>' +
+        lista.map(function (x) {
+          return '<tr><td>' + esc(fCorta(x.fecha)) + '</td><td>' + esc(String(x.organo || '').replace(/^Comisión de /, '')) + '</td><td><b>' + esc(x.hito || '') + '.</b> ' + esc(x.resultado || '') + '</td></tr>';
+        }).join('') + '</tbody></table></div>';
+    }
+    return tabla(propios.filter(function (x) { return x.camara !== 'Senado'; }), 'Qué pasó en las comisiones de la Cámara',
+        'Resultado de cada sesión en que se trató este proyecto, según lo informa la Cámara de Diputadas y Diputados. Lo copia el equipo de Lo Común desde camara.cl.') +
+      tabla(propios.filter(function (x) { return x.camara === 'Senado'; }), 'Qué pasó en las comisiones del Senado',
+        'Lo tratado y lo acordado en cada sesión en que se vio este proyecto, tal como lo publica el Senado en su registro de sesiones de comisiones.');
   }
 
   /* ---------- formularios de contacto ----------
@@ -1203,9 +1225,11 @@
       pagina !== 'agenda' ? cargarOpc('data/resultados_camara.json') : Promise.resolve(null),
       pagina !== 'agenda' ? cargarOpc('data/votaciones_sala.json') : Promise.resolve(null),
       pagina === 'ficha' ? cargarOpc('data/presupuesto_vigente.json') : Promise.resolve(null),
-      pagina !== 'ficha' ? cargarOpc('data/erratas_citacion.json') : Promise.resolve(null)]).then(function (r) {
+      pagina !== 'ficha' ? cargarOpc('data/erratas_citacion.json') : Promise.resolve(null),
+      pagina !== 'agenda' ? cargarOpc('data/resultados_senado.json') : Promise.resolve(null)]).then(function (r) {
       var U = r[0], A = r[1], IDX = r[2] || {};
-      RESULTADOS = (r[3] && r[3].resultados) || [];
+      // Cámara: copiados por el equipo desde camara.cl. Senado: leídos solos desde tramitacion.senado.cl.
+      RESULTADOS = ((r[3] && r[3].resultados) || []).concat((r[7] && r[7].resultados) || []);
       VOTACIONES = (r[4] && r[4].votaciones) || [];
       VOTOS_PARTIDA = (r[4] && r[4].por_partida) || {};
       ESPECIALES = (A && A.especiales) || {};

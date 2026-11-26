@@ -23,6 +23,7 @@ import time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import actualizar as A  # noqa: E402
 import sala as S  # noqa: E402
+import senado_comisiones as SC  # noqa: E402
 
 RAIZ = A.RAIZ
 SALIDA = os.path.join(RAIZ, 'data', 'agenda.json')
@@ -34,6 +35,7 @@ DIAS_VIGENCIA_ASISTIDA = 21
 TABLA_SALA = os.path.join(RAIZ, 'data', 'tabla_sala.json')
 VOTACIONES_SALA = os.path.join(RAIZ, 'data', 'votaciones_sala.json')
 ESPECIALES = os.path.join(RAIZ, 'data', 'proyectos_especiales.json')
+RESULTADOS_SENADO = os.path.join(RAIZ, 'data', 'resultados_senado.json')
 
 URL_SENADO_CITACIONES = 'https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1'
 URL_CAMARA_CITACIONES = 'https://www.camara.cl/legislacion/comisiones/citaciones_semana.aspx?prmSemana={anno}-{semana:02d}'
@@ -332,6 +334,31 @@ def votaciones_de_sala(hoy, fuentes):
     fuentes['votaciones_camara'] = {'estado': 'ok', 'consultado': A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes'), 'grupos': len(resumen)}
 
 
+def comisiones_del_senado(hoy, fuentes):
+    """Resultados de las sesiones de comisiones del Senado (data/resultados_senado.json, acumulados 150 días) y plazos
+    de indicaciones vigentes. Si una página falla, se conserva lo anterior."""
+    ahora = A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes')
+    previos = leer_json(RESULTADOS_SENADO, {}).get('resultados', [])
+    nuevos = SC.parse_ultimas_sesiones(texto(A.bajar(SC.URL_ULTIMAS_SESIONES)))
+    if nuevos:
+        fuentes['resultados_senado'] = {'estado': 'ok', 'consultado': ahora, 'sesiones': len(nuevos), 'url': SC.URL_ULTIMAS_SESIONES}
+    else:
+        fuentes['resultados_senado'] = {'estado': 'sin_actualizar', 'detalle': 'Sin sesiones reconocibles; se conserva lo anterior.',
+                                        'url': SC.URL_ULTIMAS_SESIONES}
+    resultados = SC.fusionar(nuevos, previos, hoy)
+    if nuevos or not os.path.exists(RESULTADOS_SENADO):
+        with open(RESULTADOS_SENADO, 'w', encoding='utf-8') as f:
+            json.dump({'actualizado': A.ahora_chile().isoformat(timespec='minutes'), 'fuente': 'Senado, últimas sesiones de comisiones (tramitacion.senado.cl)',
+                       'url': SC.URL_ULTIMAS_SESIONES, 'resultados': resultados}, f, ensure_ascii=False, indent=1)
+    datos = A.bajar(SC.URL_PLAZOS_INDICACIONES)
+    if datos:
+        plazos = [p for p in SC.parse_plazos(texto(datos)) if p['fecha'] >= hoy.isoformat()]
+        fuentes['plazos_indicaciones'] = {'estado': 'ok', 'consultado': ahora, 'plazos': len(plazos), 'url': SC.URL_PLAZOS_INDICACIONES}
+        return plazos
+    fuentes['plazos_indicaciones'] = {'estado': 'sin_actualizar', 'url': SC.URL_PLAZOS_INDICACIONES}
+    return None
+
+
 def principal():
     hoy = A.hoy_chile()
     desde, hasta = hoy.isoformat(), (hoy + dt.timedelta(days=DIAS_VENTANA - 1)).isoformat()
@@ -345,10 +372,14 @@ def principal():
     datos = A.bajar(URL_SENADO_CITACIONES)
     nuevas = parse_senado(a_lineas(texto(datos))) if datos else []
     if nuevas:
+        # Subcomisiones de Presupuestos: página aparte, con el mismo formato; casi siempre vacía fuera de la temporada.
+        sub = parse_senado(a_lineas(texto(A.bajar(SC.URL_SUBCOMISIONES_PRESUPUESTO))))
+        vistas = {S.clave_sesion(s) for s in nuevas}
+        nuevas += [s for s in sub if S.clave_sesion(s) not in vistas]
         fuentes['senado'] = {'estado': 'ok', 'consultado': A.ahora_chile().replace(tzinfo=None).isoformat(timespec='minutes'), 'citaciones': len(nuevas), 'url': URL_SENADO_CITACIONES}
         sesiones += nuevas
     else:
-        prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Senado' and en_ventana(s, desde, hasta)]
+        prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Senado' and s.get('tipo') != 'sala' and en_ventana(s, desde, hasta)]
         sesiones += prev
         fuentes['senado'] = {'estado': 'sin_actualizar', 'detalle': '; '.join(A.errores[n_err:])[:300] or 'Sin citaciones reconocibles en la página.',
                              'conservadas': len(prev), 'url': URL_SENADO_CITACIONES}
@@ -377,7 +408,7 @@ def principal():
             fuentes['camara'] = {'estado': 'asistida', 'consultado': str(leido)[:16], 'citaciones': len(asistidas),
                                  'detalle': detalle, 'control': control, 'url': urls[0]}
         else:
-            prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Cámara de Diputados' and en_ventana(s, desde, hasta)]
+            prev = [s for s in anterior.get('sesiones', []) if s.get('camara') == 'Cámara de Diputados' and s.get('tipo') != 'sala' and en_ventana(s, desde, hasta)]
             sesiones += prev
             fuentes['camara'] = {'estado': 'sin_actualizar', 'detalle': detalle,
                                  'control': control, 'conservadas': len(prev), 'url': urls[0]}
@@ -386,7 +417,17 @@ def principal():
     sala, legislatura = sala_de_ambas_camaras(hoy, hasta, anterior, fuentes)
     sesiones += [s for s in sala if en_ventana(s, desde, hasta)]
 
-    sesiones = [s for s in sesiones if en_ventana(s, desde, hasta)]
+    # Las sesiones de Sala llegan solo por sala_de_ambas_camaras; las comisiones conservadas no las repiten.
+    vistas, unicas = set(), []
+    for s in sesiones:
+        if not en_ventana(s, desde, hasta):
+            continue
+        k = S.clave_sesion(s)
+        if k in vistas:
+            continue
+        vistas.add(k)
+        unicas.append(s)
+    sesiones = unicas
     especiales = leer_json(ESPECIALES, {})
     S.plazo_desde_tablas(especiales, leer_json(TABLA_SALA, {}).get('sesiones', []))
     S.asignar_especiales(sesiones, especiales)
@@ -396,6 +437,9 @@ def principal():
         s.setdefault('tipo', 'comision')
         s['actividad'] = S.actividad(s)
     votaciones_de_sala(hoy, fuentes)
+    plazos = comisiones_del_senado(hoy, fuentes)
+    if plazos is None:
+        plazos = [p for p in anterior.get('plazos_indicaciones', []) if p.get('fecha', '') >= desde]
 
     # Datos oficiales de cada boletín citado que no tiene urgencia vigente, y de los que se siguen siempre
     # (data/boletines_extra.txt): así tienen página y la tarea de borradores les hace ficha.
@@ -434,6 +478,7 @@ def principal():
         'sesiones': sesiones,
         'pasadas': ultimas,
         'probables': probables,
+        'plazos_indicaciones': plazos,
         'proyectos': proyectos,
         'seguidos': seguidos,
         'especiales': especiales,
