@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "boletin": "17795-19",
+  "nivel": "basica",
+  "sintesis": "Regula las imitaciones realistas de la imagen o voz de personas hechas con inteligencia artificial. La Cámara lo aprobó en general y volvió a comisión, con urgencia simple.",
+  "materia": "las imitaciones digitales con inteligencia artificial",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que la inteligencia artificial permite imitar la imagen, el cuerpo o la voz de alguien sin su permiso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Esas imitaciones, llamadas «deepfakes», se han usado para videos sexuales falsos, fraudes y desinformación.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que Chile no tiene una norma específica.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción prohíbe crear, difundir o guardar imitaciones realistas sin permiso, salvo sátira, crítica o información sin daño grave.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las plataformas deberían retirarlas en 72 horas tras el aviso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El gobierno propuso cambios (una indicación): prohibir toda representación falsa pero creíble, etiquetar contenidos y multar con 5.000 a 10.000 UTM, unidades que se reajustan cada mes.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Crea una ley nueva que complementa la ley 19.628, de protección de la vida privada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La indicación del gobierno encarga las multas a la Agencia de Protección de Datos Personales.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas imitadas, incluso fallecidas, y a las plataformas digitales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe financiero N° 16, del 12 de enero de 2026, que acompaña los cambios del gobierno, señala que no habrá mayor gasto fiscal, según la comisión.",
+        "fuentes": [
+          "f2",
+          "f5"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en general (la idea central) el 22 de julio de 2026.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      },
+      {
+        "texto": "Volvió a la Comisión de Futuro, Ciencias y Tecnología para un segundo informe, en primer trámite.",
+        "fuentes": [
+          "f3",
+          "f5"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre se renovó la urgencia simple.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "deepfake Chile",
+    "imitaciones con inteligencia artificial",
+    "videos falsos con IA",
+    "suplantación de voz e imagen",
+    "regulación de deepfakes"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18447&tipodoc=mensaje_mocion",
+      "fecha": "2025-08-21",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Ciencias y Tecnología · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27940&tipodoc=info",
+      "fecha": "2026-04-06",
+      "nota": "Primer informe de comisión (leído parcialmente)."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21.419: Comunica a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación que la Sala aprobó en general el proyecto. Por haber sido objeto de indicaciones, que se adjuntan, se remiten los antecedentes para segundo informe reglamentario.,",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=36922&tipodoc=ofic",
+      "fecha": "2026-07-22",
+      "nota": "Aprobación en general en Sala e indicaciones de diputados."
+    },
+    {
+      "id": "f4",
+      "titulo": "Oficio N° 287-373: Oficio del Presidente de la República (N° 287-373), mediante el cual formula indicación al proyecto. Se adjunta informe financiero N° 16/12.01.2026.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35670&tipodoc=ofic",
+      "fecha": "2026-01-12",
+      "nota": "Indicación del Ejecutivo."
+    },
+    {
+      "id": "f5",
+      "titulo": "Tramitación del boletín 17795-19 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17795",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
