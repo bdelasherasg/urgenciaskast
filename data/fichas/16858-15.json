@@ -1,0 +1,158 @@
+{
+  "version": 2,
+  "boletin": "16858-15",
+  "nivel": "basica",
+  "sintesis": "Regula la asignación de direcciones IP y obliga a las empresas de internet a entregar información a fiscales y policías. La Cámara lo aprobó en general y volvió a comisión.",
+  "materia": "las direcciones IP y la entrega de datos a la justicia",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que es clave obtener a tiempo los datos para investigar delitos en internet, como la explotación sexual de menores y ciertas estafas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La dirección IP, un número que identifica a un aparato conectado, ayuda a ubicar a los autores.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la comisión, su autora dijo que las empresas no responden de igual forma a los pedidos de datos.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "La moción original obliga a las empresas de comunicación a dar a cada cliente una dirección IP única, ligada a su domicilio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Deberían responder en máximo veinte días los pedidos de información de fiscales o policías, y guardar secreto.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Negarse o entorpecer la medida sería delito de desacato (desobedecer una orden).",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La moción agrega los artículos 7 quinquies y 7 sexies a la ley 18.168, General de Telecomunicaciones.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "En la Sala se propusieron cambios sobre datos a registrar, conservación y plazos de entrega, que la comisión debe revisar.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las empresas que dan servicios de comunicación y a sus clientes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También a la fiscalía y a las policías.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El informe de la comisión menciona el informe financiero N° 141, del 23 de junio de 2026, e indica que no hay trámite en Hacienda.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Las fuentes no traen el contenido de ese informe.",
+        "fuentes": [
+          "f2"
+        ],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara lo aprobó en general (la idea central) el 5 de octubre de 2026.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "Volvió a la Comisión de Obras Públicas, Transportes y Telecomunicaciones para un segundo informe, en primer trámite.",
+        "fuentes": [
+          "f3",
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 9 de noviembre se renovó la urgencia simple.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "direcciones IP delitos",
+    "dirección IP única",
+    "empresas de telecomunicaciones fiscalía",
+    "datos de usuarios internet investigación",
+    "delitos en línea contra menores"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la Ley General de Telecomunicaciones en materia de asignación de direcciones IP y deber de información de los proveedores de acceso a Internet",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17466&tipodoc=mensaje_mocion",
+      "fecha": "2024-05-14",
+      "nota": "Fundamentos y texto original de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Informe de comisión · Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones · Primer trámite constitucional",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28079&tipodoc=info",
+      "fecha": "2026-07-10",
+      "nota": "Primer informe de comisión (leído parcialmente)."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 21631: Remite el proyecto a segundo trámite reglamentario por haber sido objeto de indicaciones durante su discusión general.",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37320&tipodoc=ofic",
+      "fecha": "2026-10-05",
+      "nota": "Aprobación en general en Sala e indicaciones presentadas."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 16858-15 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16858",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, trámites y urgencias."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
