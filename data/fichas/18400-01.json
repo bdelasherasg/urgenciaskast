@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "boletin": "18400-01",
+  "nivel": "basica",
+  "sintesis": "Declara especie dañina e invasora a los perros asilvestrados y permite capturarlos y controlarlos bajo protocolos. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
+  "materia": "el control de perros asilvestrados",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que los perros y gatos sueltos o asilvestrados afectan la salud, la seguridad, la fauna y la ganadería.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cita un estudio según el cual en 2024 hubo más de 90.000 atenciones por mordeduras de animales, la mayoría de perros.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Define al perro asilvestrado como el que no tiene dueño conocido y se ha vuelto un peligro.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Lo declara animal dañino, especie exótica invasora (extraña y que causa daño) y animal bravío, o salvaje.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También define qué es el maltrato animal.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega al artículo 291 bis del Código Penal, que según la moción castiga la crueldad animal, una excepción.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cubriría la captura, el control o el destino de estos perros, con protocolos técnicos y sanitarios, para proteger personas, salud, fauna o propiedad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a los perros asilvestrados y a quienes apliquen las medidas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según la moción, busca dar herramientas a personas e instituciones.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f3"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara, sin urgencia.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "Se tramita junto a los proyectos 16962-01 (el principal) y 18269-01.",
+        "fuentes": [
+          "f3"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre de 2026, la Comisión de Agricultura siguió la discusión en particular (artículo por artículo).",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "perros asilvestrados",
+    "control de perros ferales",
+    "especie exótica invasora perros",
+    "mordeduras de perros Chile",
+    "perros y fauna nativa"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Establece medidas a favor de la seguridad de las personas y la protección de la biodiversidad y la fauna local, por medio del control de los perros asilvestrados o ferales",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19077&tipodoc=mensaje_mocion",
+      "fecha": "2026-06-16",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Resultados de las sesiones de comisiones de la Cámara de Diputadas y Diputados (camara.cl, copiados por el equipo)",
+      "url": "https://www.camara.cl/",
+      "fecha": "2026-10-20",
+      "nota": "Resultado de la sesión de la comisión."
+    },
+    {
+      "id": "f3",
+      "titulo": "Tramitación del boletín 18400-01 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18400",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, refundición y trámites."
+    }
+  ],
+  "consultado": "2026-11-26",
+  "publicado": "2026-11-26",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
