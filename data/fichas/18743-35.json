@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18743-35",
+  "nivel": "basica",
+  "sintesis": "Busca que los dibujos y símbolos que identifican a las personas mayores no asocien la vejez con discapacidad, dependencia o pérdida de autonomía. Está en primer trámite en la Cámara.",
+  "materia": "la representación gráfica de las personas mayores",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que se suele identificar a las personas mayores con figuras encorvadas, con bastón o con una limitación física.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que así se une la vejez con la fragilidad o la dependencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que la edad, por sí sola, no define cuánta autonomía tiene una persona.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Los símbolos que identifican a las personas mayores no podrán asociarlas con discapacidad, dependencia o pérdida de autonomía.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La regla cubre letreros y pictogramas, o dibujos informativos, en espacios y canales que atienden o informan al público.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se podrán seguir usando símbolos propios de la discapacidad, la dependencia, la movilidad reducida u otras necesidades de apoyo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Quien no cumpla tendrá la sanción que fija el último inciso, o párrafo, del artículo 5 de la ley.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega un artículo 5 bis a la ley 21.822, que es la Ley Integral de las Personas Mayores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las personas mayores y a los lugares y canales que atienden o informan al público.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción menciona el transporte, los comercios, los servicios públicos y los centros de salud.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre pasó a la Comisión de Personas Mayores y Discapacidad.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "representación gráfica personas mayores",
+    "señalética personas mayores",
+    "pictogramas adultos mayores",
+    "símbolo adulto mayor con bastón",
+    "estereotipos sobre la vejez"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica la ley N° 21.822, Ley Integral de las Personas Mayores y de promoción del envejecimiento digno, activo y saludable, para prevenir representaciones gráficas estereotipadas de las personas mayores",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19431&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-28",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18743-35 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18743",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-27",
+  "publicado": "2026-11-27",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-27 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
