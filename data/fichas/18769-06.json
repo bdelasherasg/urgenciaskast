@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18769-06",
+  "nivel": "basica",
+  "sintesis": "Busca obligar a los municipios a dar la patente provisoria, un permiso temporal para operar un negocio, en ciertos casos que hoy son voluntarios. Está en primer trámite en la Cámara.",
+  "materia": "las patentes municipales provisorias",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción dice que cada municipio decide si da la patente provisoria mientras se tramitan la autorización sanitaria u otros permisos especiales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Así, una misma actividad puede empezar en una comuna y no en la vecina.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que la demora golpea sobre todo a las micro y pequeñas empresas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Reemplazar la palabra «podrán» por «deberán», para que dar esos permisos sea obligatorio.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cumplidas las condiciones legales, quien la pida tendría derecho a obtenerla.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Se seguiría exigiendo que la actividad figure en la ordenanza, o norma local, y tenga autorización previa de la autoridad competente.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el artículo 26 de la Ley de Rentas Municipales, que regula las patentes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El texto de la norma propuesta ubica el cambio en el inciso, o párrafo, sexto. Los fundamentos lo ubican en el séptimo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La moción afirma que no cambian los resguardos sanitarios, urbanísticos ni de seguridad, ni las causas de caducidad.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las municipalidades y a quienes piden una patente provisoria para iniciar una actividad con permisos pendientes.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "Está en primer trámite en la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 26 de octubre pasó a la Comisión de Gobierno Interior.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "patente provisoria obligatoria",
+    "patentes provisorias municipios",
+    "patente municipal provisoria pymes",
+    "autorización sanitaria patente provisoria",
+    "negarse a otorgar patente provisoria"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Decreto Ley N° 3.063, de 1979, sobre rentas municipales, para establecer el carácter obligatorio del otorgamiento de patentes provisorias en los casos que indica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19462&tipodoc=mensaje_mocion",
+      "fecha": "2026-10-06",
+      "nota": "Fundamentos y texto de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18769-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18769",
+      "fecha": "2026-11-25",
+      "nota": "Etapa, fechas e iniciativa."
+    }
+  ],
+  "consultado": "2026-11-27",
+  "publicado": "2026-11-27",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-27 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
