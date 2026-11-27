@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-26T22:47-03:00",
- "desde": "2026-11-26",
- "hasta": "2026-12-09",
+ "actualizado": "2026-11-27T06:32-03:00",
+ "desde": "2026-11-27",
+ "hasta": "2026-12-10",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-26T22:47",
+   "consultado": "2026-11-27T06:31",
    "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -18,37 +18,37 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-26T22:47",
+   "consultado": "2026-11-27T06:31",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-26T22:47",
-   "sesiones": 9,
+   "consultado": "2026-11-27T06:31",
+   "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
   "tabla_sala": {
    "estado": "asistida",
-   "tablas": 8,
-   "creadas": 8,
+   "tablas": 6,
+   "creadas": 9,
    "sin_tabla": 7
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-26T22:47",
-   "grupos": 11
+   "consultado": "2026-11-27T06:32",
+   "grupos": 10
   },
   "resultados_senado": {
    "estado": "ok",
-   "consultado": "2026-11-26T22:47",
+   "consultado": "2026-11-27T06:32",
    "sesiones": 26,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=ultimas_sesiones"
   },
   "plazos_indicaciones": {
    "estado": "ok",
-   "consultado": "2026-11-26T22:47",
-   "plazos": 3,
+   "consultado": "2026-11-27T06:32",
+   "plazos": 2,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=sesionessala&ac=plazosIndicaciones"
   }
  },
@@ -506,95 +506,6 @@
   }
  ],
  "pasadas": [
-  {
-   "fecha": "2026-11-19",
-   "hora": "10:00",
-   "horario": "10:00 a 14:00",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Tabla cargada por el equipo desde senado.cl",
-   "tipo": "sala",
-   "numero": 84,
-   "clase": "Especial",
-   "tabla": "cargada",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
-     "boletines": [
-      "18702-05"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-19",
-   "hora": "10:16",
-   "horario": "10:16 a 14:22",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [
-    "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05)."
-   ],
-   "boletines": [
-    "18702-05"
-   ],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 85,
-   "clase": "Especial",
-   "tabla": "cargada",
-   "id_senado": "10327",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del día",
-     "texto": "Ley de Presupuestos para el Sector Público correspondiente al año 2027 (Boletín N° 18702-05).",
-     "boletines": [
-      "18702-05"
-     ],
-     "detalle": "",
-     "quorum": "Mayoría Simple"
-    }
-   ],
-   "tabla_leida": "2026-11-13T08:04",
-   "asistida": true,
-   "actividad": "Discusión"
-  },
-  {
-   "fecha": "2026-11-19",
-   "hora": "15:38",
-   "horario": "15:38 a 02:21",
-   "camara": "Senado",
-   "organo": "Sala del Senado",
-   "lugar": "",
-   "materias": [],
-   "boletines": [],
-   "estado": "citada",
-   "fuente": "Senado, servicio público de tramitación (sesiones de Sala)",
-   "tipo": "sala",
-   "numero": 86,
-   "clase": "Especial",
-   "tabla": "por_confirmar",
-   "id_senado": "10328",
-   "actividad": "Sala"
-  },
   {
    "fecha": "2026-11-23",
    "hora": "10:00",
@@ -1990,12 +1901,6 @@
  ],
  "probables": [
   {
-   "boletin": "16743-04",
-   "vence": "2026-11-26",
-   "tipo": "Discusión inmediata",
-   "camara": "Senado"
-  },
-  {
    "boletin": "14309-04",
    "vence": "2026-11-29",
    "tipo": "Suma",
@@ -2204,16 +2109,27 @@
    "vence": "2026-12-09",
    "tipo": "Suma",
    "camara": "Senado"
+  },
+  {
+   "boletin": "14767-03",
+   "vence": "2026-12-10",
+   "tipo": "Suma",
+   "camara": "Senado"
+  },
+  {
+   "boletin": "17737-14",
+   "vence": "2026-12-10",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
+  },
+  {
+   "boletin": "18341-25",
+   "vence": "2026-12-10",
+   "tipo": "Suma",
+   "camara": "Cámara de Diputados"
   }
  ],
  "plazos_indicaciones": [
-  {
-   "boletin": "18585-25",
-   "materia": "Modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales",
-   "fecha": "2026-11-26",
-   "hora": "12:00",
-   "donde": "Para presentar en secretaría"
-  },
   {
    "boletin": "18860-15",
    "materia": "Proyecto de ley que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño",
@@ -2290,7 +2206,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 3627
+   "dias_tramite": 3628
   },
   "14024-12": {
    "boletin": "14024-12",
@@ -2555,7 +2471,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 2137
+   "dias_tramite": 2138
   },
   "14744-35": {
    "boletin": "14744-35",
@@ -2629,7 +2545,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1813
+   "dias_tramite": 1814
   },
   "14782-13": {
    "boletin": "14782-13",
@@ -3050,7 +2966,7 @@
     "oficio": "475-374",
     "mixta": false
    },
-   "dias_tramite": 1787
+   "dias_tramite": 1788
   },
   "14838-03": {
    "boletin": "14838-03",
@@ -3632,7 +3548,7 @@
     "oficio": "65-374",
     "mixta": false
    },
-   "dias_tramite": 1725
+   "dias_tramite": 1726
   },
   "14950-07": {
    "boletin": "14950-07",
@@ -3718,7 +3634,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1667
+   "dias_tramite": 1668
   },
   "15241-11": {
    "boletin": "15241-11",
@@ -3768,7 +3684,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 1577
+   "dias_tramite": 1578
   },
   "15589-07": {
    "boletin": "15589-07",
@@ -4042,7 +3958,7 @@
     "oficio": "456-374",
     "mixta": false
    },
-   "dias_tramite": 1443
+   "dias_tramite": 1444
   },
   "15905-25": {
    "boletin": "15905-25",
@@ -4456,7 +4372,7 @@
     "oficio": "486-374",
     "mixta": false
    },
-   "dias_tramite": 1297
+   "dias_tramite": 1298
   },
   "15975-25": {
    "boletin": "15975-25",
@@ -5346,7 +5262,7 @@
     "oficio": "188-374",
     "mixta": true
    },
-   "dias_tramite": 1275
+   "dias_tramite": 1276
   },
   "16397-15": {
    "boletin": "16397-15",
@@ -5552,7 +5468,7 @@
     "oficio": "438-374",
     "mixta": false
    },
-   "dias_tramite": 1122
+   "dias_tramite": 1123
   },
   "16709-11": {
    "boletin": "16709-11",
@@ -5763,7 +5679,7 @@
     "oficio": "494-374",
     "mixta": false
    },
-   "dias_tramite": 967
+   "dias_tramite": 968
   },
   "16777-07": {
    "boletin": "16777-07",
@@ -5995,7 +5911,7 @@
     "oficio": "385-374",
     "mixta": false
    },
-   "dias_tramite": 947
+   "dias_tramite": 948
   },
   "16886-12": {
    "boletin": "16886-12",
@@ -6183,7 +6099,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 911
+   "dias_tramite": 912
   },
   "17196-17": {
    "boletin": "17196-17",
@@ -6227,7 +6143,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 766
+   "dias_tramite": 767
   },
   "17211-06": {
    "boletin": "17211-06",
@@ -6277,7 +6193,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 758
+   "dias_tramite": 759
   },
   "17293-27": {
    "boletin": "17293-27",
@@ -6321,7 +6237,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 716
+   "dias_tramite": 717
   },
   "17446-17": {
    "boletin": "17446-17",
@@ -6365,7 +6281,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 602
+   "dias_tramite": 603
   },
   "17622-04": {
    "boletin": "17622-04",
@@ -6409,7 +6325,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 527
+   "dias_tramite": 528
   },
   "17702-15": {
    "boletin": "17702-15",
@@ -6676,7 +6592,7 @@
     "oficio": "232-374",
     "mixta": false
    },
-   "dias_tramite": 500
+   "dias_tramite": 501
   },
   "17790-06": {
    "boletin": "17790-06",
@@ -6726,7 +6642,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 463
+   "dias_tramite": 464
   },
   "17795-19": {
    "boletin": "17795-19",
@@ -6919,7 +6835,7 @@
     "oficio": "406-374",
     "mixta": false
    },
-   "dias_tramite": 462
+   "dias_tramite": 463
   },
   "17877-33": {
    "boletin": "17877-33",
@@ -7151,7 +7067,7 @@
     "oficio": "487-374",
     "mixta": false
    },
-   "dias_tramite": 421
+   "dias_tramite": 422
   },
   "17981-35": {
    "boletin": "17981-35",
@@ -7322,7 +7238,7 @@
     "oficio": "494-374",
     "mixta": false
    },
-   "dias_tramite": 367
+   "dias_tramite": 368
   },
   "18020-06": {
    "boletin": "18020-06",
@@ -7372,7 +7288,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 345
+   "dias_tramite": 346
   },
   "18176-35": {
    "boletin": "18176-35",
@@ -7549,7 +7465,7 @@
     "oficio": "494-374",
     "mixta": false
    },
-   "dias_tramite": 226
+   "dias_tramite": 227
   },
   "18208-25": {
    "boletin": "18208-25",
@@ -7823,7 +7739,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 220
+   "dias_tramite": 221
   },
   "18271-07": {
    "boletin": "18271-07",
@@ -7939,7 +7855,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 197
+   "dias_tramite": 198
   },
   "18309-14": {
    "boletin": "18309-14",
@@ -7983,7 +7899,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 179
+   "dias_tramite": 180
   },
   "18329-06": {
    "boletin": "18329-06",
@@ -8105,7 +8021,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 174
+   "dias_tramite": 175
   },
   "18338-06": {
    "boletin": "18338-06",
@@ -8167,7 +8083,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 169
+   "dias_tramite": 170
   },
   "18349-06": {
    "boletin": "18349-06",
@@ -8264,7 +8180,7 @@
     "oficio": "426-374",
     "mixta": false
    },
-   "dias_tramite": 170
+   "dias_tramite": 171
   },
   "18378-18": {
    "boletin": "18378-18",
@@ -8503,7 +8419,7 @@
     "oficio": "478-374",
     "mixta": false
    },
-   "dias_tramite": 160
+   "dias_tramite": 161
   },
   "18413-07": {
    "boletin": "18413-07",
@@ -8589,7 +8505,7 @@
     "oficio": "478-374",
     "mixta": false
    },
-   "dias_tramite": 157
+   "dias_tramite": 158
   },
   "18507-04": {
    "boletin": "18507-04",
@@ -8651,7 +8567,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 128
+   "dias_tramite": 129
   },
   "18521-07": {
    "boletin": "18521-07",
@@ -8826,7 +8742,7 @@
     "oficio": "478-374",
     "mixta": false
    },
-   "dias_tramite": 115
+   "dias_tramite": 116
   },
   "18548-11": {
    "boletin": "18548-11",
@@ -8888,7 +8804,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 114
+   "dias_tramite": 115
   },
   "18554-36": {
    "boletin": "18554-36",
@@ -8950,7 +8866,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 113
+   "dias_tramite": 114
   },
   "18559-37": {
    "boletin": "18559-37",
@@ -9006,7 +8922,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 108
+   "dias_tramite": 109
   },
   "18574-25": {
    "boletin": "18574-25",
@@ -9066,7 +8982,7 @@
     "oficio": "439-374",
     "mixta": false
    },
-   "dias_tramite": 111
+   "dias_tramite": 112
   },
   "18583-14": {
    "boletin": "18583-14",
@@ -9110,7 +9026,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 111
+   "dias_tramite": 112
   },
   "18594-25": {
    "boletin": "18594-25",
@@ -9182,7 +9098,7 @@
     "oficio": "387-374",
     "mixta": false
    },
-   "dias_tramite": 107
+   "dias_tramite": 108
   },
   "18621-34": {
    "boletin": "18621-34",
@@ -9299,7 +9215,7 @@
     "oficio": "465-374",
     "mixta": false
    },
-   "dias_tramite": 87
+   "dias_tramite": 88
   },
   "18649-14": {
    "boletin": "18649-14",
@@ -9343,7 +9259,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 100
+   "dias_tramite": 101
   },
   "18682-34": {
    "boletin": "18682-34",
@@ -9399,7 +9315,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 80
+   "dias_tramite": 81
   },
   "18702-05": {
    "boletin": "18702-05",
@@ -9551,7 +9467,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 57
+   "dias_tramite": 58
   },
   "18764-07": {
    "boletin": "18764-07",
@@ -9595,7 +9511,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 36
+   "dias_tramite": 37
   },
   "18821-08": {
    "boletin": "18821-08",
@@ -9639,7 +9555,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 29
+   "dias_tramite": 30
   },
   "18850-06": {
    "boletin": "18850-06",
@@ -9683,7 +9599,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 22
+   "dias_tramite": 23
   },
   "18888-03": {
    "boletin": "18888-03",
@@ -9745,7 +9661,7 @@
     "estado": "sin_dato",
     "plazo_dias": null
    },
-   "dias_tramite": 13
+   "dias_tramite": 14
   }
  },
  "seguidos": [
