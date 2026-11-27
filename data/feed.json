@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-27T10:44-03:00",
+ "actualizado": "2026-11-27T20:30-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 8,
   "vencen_7_dias": 11,
-  "citaciones_7_dias": 28
+  "citaciones_7_dias": 35
  },
  "proximos_vencimientos": [
   {
@@ -121,6 +121,20 @@
   },
   {
    "fecha": "2026-11-30",
+   "hora": "15:00",
+   "camara": "Senado",
+   "organo": "Comisión de Minería y Energía",
+   "proyectos": [
+    {
+     "boletin": "18821-08",
+     "titulo": "Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
+     "sintesis": "Facilita la conexión de cargadores de vehículos eléctricos a la red y su acceso a precios libres de energía. Está en primer trámite en el Senado, sin urgencia.",
+     "url": "https://urgenciaskast.cl/p/18821-08.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-30",
    "hora": "15:30",
    "camara": "Senado",
    "organo": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
@@ -148,20 +162,6 @@
    ]
   },
   {
-   "fecha": "2026-11-30",
-   "hora": "15:30",
-   "camara": "Senado",
-   "organo": "Comisión de Minería y Energía",
-   "proyectos": [
-    {
-     "boletin": "18821-08",
-     "titulo": "Modifica la Ley General de Servicios Eléctricos para facilitar la conexión de infraestructura de recarga de vehículos eléctricos y su acceso al régimen de precios libres",
-     "sintesis": "Facilita la conexión de cargadores de vehículos eléctricos a la red y su acceso a precios libres de energía. Está en primer trámite en el Senado, sin urgencia.",
-     "url": "https://urgenciaskast.cl/p/18821-08.html"
-    }
-   ]
-  },
-  {
    "fecha": "2026-12-01",
    "hora": "09:30",
    "camara": "Senado",
@@ -172,6 +172,26 @@
      "titulo": "Regula el desarrollo de plataformas de apuestas en línea",
      "sintesis": "Regula las plataformas de apuestas en línea y encarga su supervisión a la Superintendencia de Casinos de Juego. Está en segundo trámite en el Senado, sin urgencia.",
      "url": "https://urgenciaskast.cl/p/14838-03.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-12-01",
+   "hora": "09:30",
+   "camara": "Senado",
+   "organo": "Comisión de Salud",
+   "proyectos": [
+    {
+     "boletin": "15047-11",
+     "titulo": "Modifica la ley N°20.850, que Crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos, para modificar la distribución del Fondo y lograr una mayor disponibilidad de recursos en beneficio de los pacientes",
+     "sintesis": "Sube el aporte fiscal anual al fondo de la Ley Ricarte Soto y cambia cómo se usa y se vigila. Ya fue aprobado por la Cámara y está en segundo trámite en el Senado, con urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/15047-11.html"
+    },
+    {
+     "boletin": "17567-11",
+     "titulo": "Optimiza el mecanismo de sustentabilidad del Fondo para Diagnósticos y Tratamientos de Alto Costo y modifica la ley N° 20.850, que crea un Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos",
+     "sintesis": "Cambia la Ley Ricarte Soto para dar más recursos y sustentabilidad al fondo de tratamientos de alto costo. La Cámara lo aprobó y está en segundo trámite en el Senado, con urgencia suma.",
+     "url": "https://urgenciaskast.cl/p/17567-11.html"
     }
    ]
   },
@@ -225,47 +245,15 @@
   },
   {
    "fecha": "2026-12-01",
-   "hora": "12:30",
+   "hora": "11:00",
    "camara": "Senado",
-   "organo": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+   "organo": "Comisión de Seguridad Pública",
    "proyectos": [
     {
-     "boletin": "16553-12",
-     "titulo": "Fortalece y mejora la eficacia de la fiscalización y el cumplimiento de la regulación ambiental a cargo de la Superintendencia del Medio Ambiente, y regula otras materias que indica",
-     "sintesis": "Da más facultades a la Superintendencia del Medio Ambiente para fiscalizar y sancionar, y fija reglas sobre ruidos. Está en segundo trámite en el Senado, con segundo informe de comisión y urgencia suma.",
-     "url": "https://urgenciaskast.cl/p/16553-12.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-12-01",
-   "hora": "15:00",
-   "camara": "Cámara de Diputados",
-   "organo": "Comisión de Agricultura, Silvicultura y Desarrollo Rural",
-   "proyectos": [
-    {
-     "boletin": "16962-01",
-     "titulo": "Modifica cuerpos legales que indica para establecer, como deber del Estado, la protección de la fauna silvestre",
-     "sintesis": "Establece como deber del Estado proteger la fauna silvestre y evitar que sus especies se extingan. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
-     "url": "https://urgenciaskast.cl/p/16962-01.html"
-    },
-    {
-     "boletin": "18269-01",
-     "titulo": "Establece medidas de prevención y control de riesgos asociados a perros salvajes o ferales, en la seguridad de las personas, el ganado y la fauna silvestre",
-     "sintesis": "Permite tomar medidas, como la captura, contra perros salvajes que atacan ganado, con denuncia previa. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
-     "url": "https://urgenciaskast.cl/p/18269-01.html"
-    },
-    {
-     "boletin": "18400-01",
-     "titulo": "Establece medidas a favor de la seguridad de las personas y la protección de la biodiversidad y la fauna local, por medio del control de los perros asilvestrados o ferales",
-     "sintesis": "Declara especie dañina e invasora a los perros asilvestrados y permite capturarlos y controlarlos bajo protocolos. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
-     "url": "https://urgenciaskast.cl/p/18400-01.html"
-    },
-    {
-     "boletin": "18720-01",
-     "titulo": "Modifica el Código de Comercio con el objeto de establecer un plazo perentorio para la inspección técnica presencial que deben realizar las compañías de seguro en caso de los siniestros agrícolas que se indican y consagrar una presunción legal en favor del asegurado",
+     "boletin": "18707-07",
+     "titulo": "Prohíbe la concesión de penas sustitutivas a las privativas o restrictivas de libertad respecto de los delitos que indica, con el objeto de asegurar el cumplimiento efectivo de las condenas",
      "sintesis": "",
-     "url": "https://urgenciaskast.cl/p/18720-01.html"
+     "url": "https://urgenciaskast.cl/p/18707-07.html"
     }
    ]
   }
