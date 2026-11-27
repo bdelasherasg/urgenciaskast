@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-26T16:49-03:00",
+ "actualizado": "2026-11-26T22:47-03:00",
  "desde": "2026-11-26",
  "hasta": "2026-12-09",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-26T16:48",
-   "citaciones": 16,
+   "consultado": "2026-11-26T22:47",
+   "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
   "camara": {
@@ -18,13 +18,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-26T16:48",
+   "consultado": "2026-11-26T22:47",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-26T16:48",
+   "consultado": "2026-11-26T22:47",
    "sesiones": 9,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -36,18 +36,18 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-26T16:48",
+   "consultado": "2026-11-26T22:47",
    "grupos": 11
   },
   "resultados_senado": {
    "estado": "ok",
-   "consultado": "2026-11-26T16:48",
+   "consultado": "2026-11-26T22:47",
    "sesiones": 26,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=ultimas_sesiones"
   },
   "plazos_indicaciones": {
    "estado": "ok",
-   "consultado": "2026-11-26T16:48",
+   "consultado": "2026-11-26T22:47",
    "plazos": 3,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=sesionessala&ac=plazosIndicaciones"
   }
@@ -317,6 +317,22 @@
    "fuente": "Senado, citaciones por fecha",
    "tipo": "comision",
    "actividad": "Audiencia"
+  },
+  {
+   "fecha": "2026-12-01",
+   "hora": "14:45",
+   "horario": "14:45 a 15:00",
+   "camara": "Senado",
+   "organo": "Comisión Revisora de Cuentas",
+   "lugar": "Sala N° 3 de Comisiones, Valparaíso",
+   "materias": [
+    "1.- Para constituirse, elegir presidente y adoptar los acuerdos que estime pertinentes."
+   ],
+   "boletines": [],
+   "estado": "citada",
+   "fuente": "Senado, citaciones por fecha",
+   "tipo": "comision",
+   "actividad": "Otra"
   },
   {
    "fecha": "2026-12-01",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T16:48-03:00",
+ "actualizado": "2026-11-26T22:47-03:00",
  "muestra": false,
  "inicio_gobierno": "2026-03-11",
  "niveles": [
@@ -2595,7 +2595,7 @@
    "camara_origen": "Cámara de Diputados",
    "urgencia_actual": "Discusión inmediata",
    "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Boletín de indicaciones de Seguridad Pública",
+   "subetapa": "Segundo informe de comisión de Seguridad Pública",
    "estado": "En tramitación",
    "urgencias": [
     {
@@ -2773,6 +2773,12 @@
     {
      "fecha": "2026-11-24",
      "descripcion": "Cuenta del Mensaje 483-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-26",
+     "descripcion": "Boletín de indicaciones .",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
     }
