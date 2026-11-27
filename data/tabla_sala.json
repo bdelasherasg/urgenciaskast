@@ -1,138 +1,7 @@
 {
- "actualizado": "2026-11-25T16:15",
+ "actualizado": "2026-11-27T10:35",
  "fuente": "Tablas de Sala de camara.cl y senado.cl, cargadas por el equipo en el panel",
  "sesiones": [
-  {
-   "camara": "Cámara de Diputados",
-   "numero": null,
-   "fecha": "2026-11-16",
-   "horario": "15:00 a 17:00",
-   "clase": "Ordinaria",
-   "fuente": "Tabla Semanal de la Cámara (PDF)",
-   "puntos": [
-    {
-     "orden": 1,
-     "seccion": "Orden del Día",
-     "texto": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diésel, y aliviar la carga financiera de las empresas de transporte de carga. Boletín Nº 18885-05.",
-     "boletines": [
-      "18885-05"
-     ],
-     "detalle": "Pendiente en C. de Hacienda · Mensaje · 1er. trámite constitucional · D. INMEDIATA (18.11.2026)",
-     "urgencia": {
-      "tipo": "Discusión inmediata",
-      "vence": "2026-11-18"
-     }
-    },
-    {
-     "orden": 2,
-     "seccion": "Orden del Día",
-     "texto": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado. Boletín Nº 18208-25(S).",
-     "boletines": [
-      "18208-25"
-     ],
-     "detalle": "Mensaje · 2º trámite constitucional · SUMA (17.11.2026) · Informante: Sra. Naveillán (Seguridad Ciudadana) · En tabla: 09.11.2026",
-     "urgencia": {
-      "tipo": "Suma",
-      "vence": "2026-11-17"
-     }
-    },
-    {
-     "orden": 3,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito os deportivo. Boletines N 17981-35(S) y 18176-35(S), refundidos.",
-     "boletines": [
-      "17981-35",
-      "18176-35"
-     ],
-     "detalle": "Mociones · 2° trámite constitucional · SIMPLE (25.11.2026) · Informante: Sra. Gazmuri (Personas Mayores y Discapacidad) · En tabla: 17.08.2026",
-     "urgencia": {
-      "tipo": "Simple",
-      "vence": "2026-11-25"
-     }
-    },
-    {
-     "orden": 4,
-     "seccion": "Orden del Día",
-     "texto": "Sanciona la ocupación de bienes nacionales de uso público mediante instalaciones precarias que sirven de base a la comisión os de delitos. Boletines N 18329-06 y 18349-06, refundidos.",
-     "boletines": [
-      "18329-06",
-      "18349-06"
-     ],
-     "detalle": "Mociones · 1er. trámite constitucional · SIMPLE (27.11.2026) · Informante: Sr. Olivares (Gobierno) · En tabla: 07.09.2026",
-     "urgencia": {
-      "tipo": "Simple",
-      "vence": "2026-11-27"
-     }
-    },
-    {
-     "orden": 5,
-     "seccion": "Orden del Día",
-     "texto": "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad. Boletín N° 16708-11(S).",
-     "boletines": [
-      "16708-11"
-     ],
-     "detalle": "Moción · 2° trámite constitucional · 2° trámite reglamentario · Informante: Sr. Arroyo (Segundo informe de la C. de Salud) · En tabla: 27.10.2026"
-    },
-    {
-     "orden": 6,
-     "seccion": "Orden del Día",
-     "texto": "Modifica la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, para extender su aplicación a los casos que indica y aumentar las sanciones por os incumplimiento. Boletines N 16593-06, 16888-06 y 16988-06, refundidos.",
-     "boletines": [
-      "16593-06",
-      "16888-06",
-      "16988-06"
-     ],
-     "detalle": "Mensaje y mociones · 1er. trámite constitucional · LOC · Informante: Sr. Bianchi (Hacienda) · Nota: rendido informe de la C. de Gobierno · En tabla: 04.05.2026"
-    },
-    {
-     "orden": 7,
-     "seccion": "Orden del Día",
-     "texto": "Dispone la obligación de publicar en los baños de los lugares de concurrencia de público, un aviso relativo a la prevención y denuncia de la violencia contra la mujer. Boletín N° 13529-34.",
-     "boletines": [
-      "13529-34"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informe de la C. de Mujeres · En tabla: 17.06.2026 · Discusión pendiente (09.09.2026)"
-    },
-    {
-     "orden": 8,
-     "seccion": "Orden del Día",
-     "texto": "Modifica diversos cuerpos legales para prohibir y sancionar la maternidad subrogada. Boletín N° 17337-07.",
-     "boletines": [
-      "17337-07"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Irarrázaval (De la Familia) · En tabla: 03.08.2026"
-    },
-    {
-     "orden": 9,
-     "seccion": "Orden del Día",
-     "texto": "Ordena la realización anual y aleatoria de controles de consumo de drogas para el personal de las fuerzas armadas y de orden y seguridad pública. Boletín N° 17709-02.",
-     "boletines": [
-      "17709-02"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · Informante: Sr. Brito (Defensa) · En tabla: 17.08.2026 · Nota: la comisión rechaza la idea de legislar"
-    },
-    {
-     "orden": 10,
-     "seccion": "Orden del Día",
-     "texto": "Modifica cuerpos legales que indica con el objeto de fortalecer la seguridad marítima y pesquera. Boletín N° 18198-15.",
-     "boletines": [
-      "18198-15"
-     ],
-     "detalle": "Moción · 1er. trámite constitucional · LOC · Informante: Sr. Guzmán (Pesca) · En tabla: 05.10.2026"
-    },
-    {
-     "orden": 11,
-     "seccion": "Orden del Día",
-     "texto": "Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria. Boletín N° 18334-10(S).",
-     "boletines": [
-      "18334-10"
-     ],
-     "detalle": "2° trámite constitucional · Informante: Sr. Venegas (RR.EE.) · En tabla: 04.11.2026"
-    }
-   ],
-   "cargado_por": "bernardo",
-   "leido": "2026-11-13T08:06"
-  },
   {
    "camara": "Cámara de Diputados",
    "numero": null,
@@ -721,7 +590,7 @@
     }
    ],
    "cargado_por": "bernardo",
-   "leido": "2026-11-25T16:15"
+   "leido": "2026-11-27T10:35"
   },
   {
    "camara": "Senado",
@@ -872,7 +741,7 @@
     }
    ],
    "cargado_por": "bernardo",
-   "leido": "2026-11-25T16:15"
+   "leido": "2026-11-27T10:35"
   },
   {
    "camara": "Cámara de Diputados",
@@ -899,7 +768,7 @@
    "camara": "Senado",
    "numero": 89,
    "fecha": "2026-11-25",
-   "horario": "16:00 a 20:00",
+   "horario": "16:16 a 21:04",
    "clase": "Ordinaria",
    "fuente": "Senado, Tabla semanal (copiada)",
    "puntos": [
@@ -938,7 +807,7 @@
     }
    ],
    "cargado_por": "bernardo",
-   "leido": "2026-11-25T16:15"
+   "leido": "2026-11-27T10:35"
   }
  ]
 }
