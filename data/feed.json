@@ -1,12 +1,12 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-27T09:22-03:00",
+ "actualizado": "2026-11-27T10:38-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 8,
   "vencen_7_dias": 11,
-  "citaciones_7_dias": 13
+  "citaciones_7_dias": 28
  },
  "proximos_vencimientos": [
   {
@@ -191,6 +191,20 @@
   },
   {
    "fecha": "2026-12-01",
+   "hora": "10:15",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Derechos Humanos y Pueblos Originarios",
+   "proyectos": [
+    {
+     "boletin": "18331-17",
+     "titulo": "Modifica la ley N° 20.405, del Instituto Nacional de Derechos Humanos, en materia de transparencia, responsabilidad institucional, gobierno corporativo y rendición de cuentas",
+     "sintesis": "Modifica la ley del Instituto Nacional de Derechos Humanos para cambiar su gobierno, su transparencia y su rendición de cuentas. Es una moción en primer trámite en la Cámara, con urgencia Suma.",
+     "url": "https://urgenciaskast.cl/p/18331-17.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-12-01",
    "hora": "10:30",
    "camara": "Senado",
    "organo": "Comisión de Constitución, Legislación, Justicia y Reglamento",
@@ -224,30 +238,34 @@
    ]
   },
   {
-   "fecha": "2026-12-02",
-   "hora": "09:00",
-   "camara": "Senado",
-   "organo": "Comisión de Transportes y Telecomunicaciones",
+   "fecha": "2026-12-01",
+   "hora": "15:00",
+   "camara": "Cámara de Diputados",
+   "organo": "Comisión de Agricultura, Silvicultura y Desarrollo Rural",
    "proyectos": [
     {
-     "boletin": "17702-15",
-     "titulo": "Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos",
-     "sintesis": "Cambia las reglas contra las carreras no autorizadas y las maniobras peligrosas con vehículos, y sube sanciones. La Cámara lo aprobó y el Senado revisa indicaciones en segundo trámite.",
-     "url": "https://urgenciaskast.cl/p/17702-15.html"
-    }
-   ]
-  },
-  {
-   "fecha": "2026-12-02",
-   "hora": "12:30",
-   "camara": "Senado",
-   "organo": "Comisión de Obras Públicas",
-   "proyectos": [
+     "boletin": "16962-01",
+     "titulo": "Modifica cuerpos legales que indica para establecer, como deber del Estado, la protección de la fauna silvestre",
+     "sintesis": "Establece como deber del Estado proteger la fauna silvestre y evitar que sus especies se extingan. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
+     "url": "https://urgenciaskast.cl/p/16962-01.html"
+    },
     {
-     "boletin": "8654-15",
-     "titulo": "Modifica normas relativas al autocontrol en materia de pesaje respecto a empresas generadoras de carga.",
-     "sintesis": "Cambia el autocontrol de pesaje de camiones en las empresas que generan carga, para proteger los caminos. Está en segundo trámite en el Senado, en su segundo informe de comisión.",
-     "url": "https://urgenciaskast.cl/p/8654-15.html"
+     "boletin": "18269-01",
+     "titulo": "Establece medidas de prevención y control de riesgos asociados a perros salvajes o ferales, en la seguridad de las personas, el ganado y la fauna silvestre",
+     "sintesis": "Permite tomar medidas, como la captura, contra perros salvajes que atacan ganado, con denuncia previa. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
+     "url": "https://urgenciaskast.cl/p/18269-01.html"
+    },
+    {
+     "boletin": "18400-01",
+     "titulo": "Establece medidas a favor de la seguridad de las personas y la protección de la biodiversidad y la fauna local, por medio del control de los perros asilvestrados o ferales",
+     "sintesis": "Declara especie dañina e invasora a los perros asilvestrados y permite capturarlos y controlarlos bajo protocolos. Está en primer trámite en la Cámara, en discusión en la Comisión de Agricultura.",
+     "url": "https://urgenciaskast.cl/p/18400-01.html"
+    },
+    {
+     "boletin": "18720-01",
+     "titulo": "Modifica el Código de Comercio con el objeto de establecer un plazo perentorio para la inspección técnica presencial que deben realizar las compañías de seguro en caso de los siniestros agrícolas que se indican y consagrar una presunción legal en favor del asegurado",
+     "sintesis": "",
+     "url": "https://urgenciaskast.cl/p/18720-01.html"
     }
    ]
   }
