@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-27T10:38-03:00",
+ "actualizado": "2026-11-27T10:44-03:00",
  "desde": "2026-11-27",
  "hasta": "2026-12-10",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-27T10:38",
+   "consultado": "2026-11-27T10:44",
    "citaciones": 17,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,36 +19,36 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-27T10:38",
+   "consultado": "2026-11-27T10:44",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-27T10:38",
+   "consultado": "2026-11-27T10:44",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
   "tabla_sala": {
    "estado": "asistida",
    "tablas": 6,
-   "creadas": 9,
+   "creadas": 8,
    "sin_tabla": 7
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-27T10:38",
+   "consultado": "2026-11-27T10:44",
    "grupos": 10
   },
   "resultados_senado": {
    "estado": "ok",
-   "consultado": "2026-11-27T10:38",
+   "consultado": "2026-11-27T10:44",
    "sesiones": 26,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=ultimas_sesiones"
   },
   "plazos_indicaciones": {
    "estado": "ok",
-   "consultado": "2026-11-27T10:38",
+   "consultado": "2026-11-27T10:44",
    "plazos": 2,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=sesionessala&ac=plazosIndicaciones"
   }
@@ -1736,7 +1736,7 @@
      }
     }
    ],
-   "tabla_leida": "2026-11-25T16:15",
+   "tabla_leida": "2026-11-27T10:35",
    "asistida": true,
    "actividad": "Discusión"
   },
@@ -1913,7 +1913,7 @@
      "boletin_senado": "S 2774-12"
     }
    ],
-   "tabla_leida": "2026-11-25T16:15",
+   "tabla_leida": "2026-11-27T10:35",
    "asistida": true,
    "actividad": "Discusión"
   },
@@ -2449,7 +2449,7 @@
      "quorum": "Mayoría Simple"
     }
    ],
-   "tabla_leida": "2026-11-25T16:15",
+   "tabla_leida": "2026-11-27T10:35",
    "asistida": true,
    "actividad": "Discusión"
   }
