@@ -49,7 +49,7 @@
       {
         "texto": "Modifica los artículos 203, 204 y 205 del Código del Trabajo.",
         "fuentes": [
-          "f8"
+          "f10"
         ]
       },
       {
@@ -71,14 +71,14 @@
       {
         "texto": "El informe financiero que acompaña las indicaciones del 30 de octubre estima un gasto fiscal de 11.044 millones de pesos el primer año y de 6.158 millones en régimen.",
         "fuentes": [
-          "f9",
-          "f11"
+          "f11",
+          "f13"
         ]
       },
       {
         "texto": "Incluye aportes fiscales al fondo en sus dos primeros años.",
         "fuentes": [
-          "f11"
+          "f13"
         ]
       }
     ],
@@ -86,20 +86,22 @@
       {
         "texto": "El 18 de noviembre, la Cámara aprobó el proyecto con cambios al texto del Senado.",
         "fuentes": [
-          "f8",
-          "f15"
+          "f10",
+          "f17"
         ]
       },
       {
         "texto": "El 25 de noviembre, el Senado aprobó esos cambios en tercer trámite.",
         "fuentes": [
-          "f15"
+          "f9",
+          "f17"
         ]
       },
       {
         "texto": "El 26 de noviembre envió el texto de la ley al Presidente de la República, para su aprobación.",
         "fuentes": [
-          "f15"
+          "f8",
+          "f17"
         ]
       }
     ]
@@ -138,35 +140,49 @@
     },
     {
       "id": "f8",
+      "titulo": "Oficio N° 389-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37552&tipodoc=ofic",
+      "fecha": "2026-11-26",
+      "nota": "Texto de la ley aprobada por el Congreso, enviado al Presidente de la República."
+    },
+    {
+      "id": "f9",
+      "titulo": "Oficio N° 388-26",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37551&tipodoc=ofic",
+      "fecha": "2026-11-25",
+      "nota": "Aprobación en el Senado de los cambios de la Cámara."
+    },
+    {
+      "id": "f10",
       "titulo": "Oficio N° 21.776",
       "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37516&tipodoc=ofic",
       "fecha": "2026-11-19",
       "nota": "Modificaciones de la Cámara al texto del Senado."
     },
     {
-      "id": "f9",
+      "id": "f11",
       "titulo": "Oficio N° : S.E. el Presidente de la República formula indicaciones al proyecto. (277-374). Incluye informe financiero sustitutivo N° 263/30.10.2026.",
       "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=37385&tipodoc=ofic",
       "fecha": "2026-11-02",
       "nota": "Indicaciones del Ejecutivo e informe financiero sustitutivo."
     },
     {
-      "id": "f11",
+      "id": "f13",
       "titulo": "Pasajes sobre costo fiscal en: Informe de comisión · Primer informe de comisión de Hacienda · Segundo trámite constitucional",
       "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=28408&tipodoc=info",
       "fecha": "2026-11-18",
       "nota": "Pasajes sobre costo fiscal."
     },
     {
-      "id": "f15",
+      "id": "f17",
       "titulo": "Tramitación del boletín 14782-13 (servicio web público del Senado)",
       "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14782",
       "fecha": "2026-11-26",
-      "nota": "Etapa, fechas y urgencia. Los trámites del 25 y 26 de noviembre se leyeron del mismo servicio, según la copia del sitio actualizada el 26 de noviembre."
+      "nota": "Etapa, fechas y urgencia."
     }
   ],
-  "consultado": "2026-11-26",
-  "publicado": "2026-11-26",
+  "consultado": "2026-11-27",
+  "publicado": "2026-11-27",
   "estado_revision": "pendiente",
-  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-26 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-27 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
 }
