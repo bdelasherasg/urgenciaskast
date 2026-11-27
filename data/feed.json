@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-27T06:31-03:00",
+ "actualizado": "2026-11-27T06:38-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 8,
@@ -254,6 +254,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "14782-13",
+   "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. El Congreso lo aprobó y el Senado lo envió al Presidente de la República.",
+   "publicado": "2026-11-27",
+   "url": "https://urgenciaskast.cl/p/14782-13.html"
+  },
+  {
    "boletin": "18743-35",
    "sintesis": "Busca que los dibujos y símbolos que identifican a las personas mayores no asocien la vejez con discapacidad, dependencia o pérdida de autonomía. Está en primer trámite en la Cámara.",
    "publicado": "2026-11-27",
@@ -270,12 +276,6 @@
    "sintesis": "Castiga la venta de herramientas para burlar las protecciones digitales de obras con derechos de autor, y fija excepciones. Está en segundo trámite en el Senado, con urgencia suma.",
    "publicado": "2026-11-26",
    "url": "https://urgenciaskast.cl/p/14767-03.html"
-  },
-  {
-   "boletin": "14782-13",
-   "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. El Congreso lo aprobó y el Senado lo envió al Presidente de la República.",
-   "publicado": "2026-11-26",
-   "url": "https://urgenciaskast.cl/p/14782-13.html"
   },
   {
    "boletin": "15025-24",
