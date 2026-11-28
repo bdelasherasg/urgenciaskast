@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "boletin": "18720-01",
+  "nivel": "basica",
+  "sintesis": "Propone dar a las aseguradoras 15 días para inspeccionar en terreno daños en cultivos; si no cumplen, se presume cierto lo declarado por el asegurado. Está en primer trámite en la Cámara.",
+  "materia": "los seguros para daños en cultivos",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto de parlamentarios, dice que las aseguradoras suelen demorar semanas o meses en inspeccionar los campos dañados.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que, con el tiempo, se pierden las pruebas del daño en los cultivos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que luego muchas veces se niega el pago porque no se puede probar la causa.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Fija un máximo de 15 días corridos para inspeccionar el campo, desde que se avisa el siniestro, es decir, el daño asegurado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Si la inspección no se hace por culpa de la compañía o de su evaluador, se presume cierto lo que declaró el asegurado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Entonces la compañía debe pagar, salvo que pruebe fraude o mala intención del asegurado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega el artículo 542 bis al Código de Comercio, la ley que regula, entre otras materias, los seguros.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a quienes aseguran cultivos, plantaciones o siembras, a las aseguradoras y a quienes evalúan los daños.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La moción dice que no busca causar gasto fiscal, porque solo regula contratos privados.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 21 de septiembre de 2026 a la Cámara de Diputadas y Diputados.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 6 de octubre pasó a la Comisión de Agricultura, Silvicultura y Desarrollo Rural.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite, a la espera del primer informe de esa comisión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "seguro agrícola siniestros",
+    "inspección de daños en cultivos",
+    "liquidación de seguros agrícolas",
+    "agricultores seguros contra heladas",
+    "proyecto de seguros agrícolas"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica el Código de Comercio con el objeto de establecer un plazo perentorio para la inspección técnica presencial que deben realizar las compañías de seguro en caso de los siniestros agrícolas que se indican y consagrar una presunción legal en favor del asegurado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19401&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-21",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18720-01 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18720",
+      "fecha": "2026-11-27",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
