@@ -1,0 +1,135 @@
+{
+  "version": 2,
+  "boletin": "18746-14",
+  "nivel": "basica",
+  "sintesis": "Propone dar más cuotas para pagar derechos municipales, liberar de cobros notariales y ajustar la ley de condominios en viviendas de interés público. Está en primer trámite en la Cámara.",
+  "materia": "las viviendas de interés público",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto de parlamentarios, dice que el costo de los trámites puede afectar los programas de viviendas de interés público.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que la ley de copropiedad, o de condominios, pide permisos municipales que otras leyes a veces no exigen a estas viviendas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Permite pagar los derechos municipales del permiso de obra en hasta 60 cuotas, cada dos o tres meses.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Todo debe estar pagado antes de la recepción definitiva, que es la aprobación municipal de la obra terminada.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Elimina los cobros de notarios, conservadores y archiveros en los trámites necesarios para entregar la propiedad a los beneficiarios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite que viviendas sin esos permisos, por mandato legal, entren al régimen de condominio con otros documentos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica la Ley General de Urbanismo y Construcciones, el Código Orgánico de Tribunales y la Ley 21.442 de copropiedad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los cambios sobre condominios también se aplicarían a proyectos anteriores que aún no tengan ese certificado.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a beneficiarios de programas de vivienda, proyectos habitacionales, municipios, notarios, conservadores y archiveros.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La moción afirma que no crea gasto público.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 28 de septiembre de 2026 a la Cámara de Diputadas y Diputados.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 20 de octubre pasó a la Comisión de Vivienda y Desarrollo Urbano.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite, a la espera del primer informe de esa comisión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "viviendas de interés público",
+    "copropiedad inmobiliaria viviendas sociales",
+    "aranceles notariales viviendas sociales",
+    "derechos municipales en cuotas",
+    "formalización de viviendas sociales"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Modifica leyes que indica con el objeto de hacer expedita la ejecución y formalización de viviendas de interés público y facilitar que estas se acojan al régimen de copropiedad inmobiliaria",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19428&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-28",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18746-14 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18746",
+      "fecha": "2026-11-27",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
