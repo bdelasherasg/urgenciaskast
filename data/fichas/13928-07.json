@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "boletin": "13928-07",
+  "nivel": "basica",
+  "sintesis": "Propone castigar en el Código Penal la difusión de imágenes íntimas sin permiso, el hostigamiento y otras conductas de violencia digital. La Cámara lo aprobó y está en el Senado.",
+  "materia": "los delitos de violencia digital",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto de parlamentarios, dice que las redes sociales ampliaron problemas como el acoso.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que difundir contenido íntimo sin permiso no ha tenido castigo.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "El texto de la Cámara castiga mostrar registros sexuales o íntimos obtenidos con permiso, pero que no debían exhibirse.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La pena sube si se difunden.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Castiga el hostigamiento: seguir o contactar con insistencia a alguien contra su voluntad, hasta poder dañar gravemente su vida privada o salud mental.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Castiga difundir datos para ubicar a una persona y facilitar que otros la hostiguen.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "Hay penas mayores, por ejemplo, si la víctima tiene menos de 14 años o el autor es o fue su pareja.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega artículos al Código Penal, la ley que fija delitos y penas.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "El delito de usar el nombre de otro pasa a incluir su identidad.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "La moción original proponía una ley aparte, con multas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a víctimas y autores de estas conductas.",
+        "fuentes": [
+          "f5"
+        ]
+      },
+      {
+        "texto": "En general, la justicia solo actuará si la víctima o su representante denuncia.",
+        "fuentes": [
+          "f5"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "La Cámara de Diputadas y Diputados lo aprobó el 8 de julio de 2024.",
+        "fuentes": [
+          "f5",
+          "f9"
+        ]
+      },
+      {
+        "texto": "En el Senado, la Comisión de la Mujer entregó su informe el 28 de octubre de 2025.",
+        "fuentes": [
+          "f9"
+        ]
+      },
+      {
+        "texto": "El proyecto pasó a la Comisión de Constitución, cuyo informe está pendiente.",
+        "fuentes": [
+          "f9"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "violencia digital",
+    "difusión de imágenes íntimas sin consentimiento",
+    "proyecto de violencia digital",
+    "ciberacoso y hostigamiento",
+    "difusión de datos personales para acosar"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Tipifica y sanciona la violencia digital",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=14490&tipodoc=mensaje_mocion",
+      "fecha": "2020-12-01",
+      "nota": "Fundamentos y texto original de la moción."
+    },
+    {
+      "id": "f5",
+      "titulo": "Oficio N° 19656",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33627&tipodoc=ofic",
+      "fecha": "2024-07-08",
+      "nota": "Texto aprobado por la Cámara y enviado al Senado."
+    },
+    {
+      "id": "f9",
+      "titulo": "Tramitación del boletín 13928-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=13928",
+      "fecha": "2026-11-27",
+      "nota": "Etapa, fechas y urgencias."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
