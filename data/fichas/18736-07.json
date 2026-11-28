@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "boletin": "18736-07",
+  "nivel": "basica",
+  "sintesis": "Propone interpretar la Constitución para que ciertas personas que perdieron la nacionalidad chilena puedan recuperarla con un trámite regulado por ley. Está en primer trámite en la Cámara.",
+  "materia": "la recuperación de la nacionalidad chilena",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto de parlamentarios, dice que hubo personas que debieron renunciar a la nacionalidad chilena porque otro país lo exigía.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También menciona casos previos a 2005, cuando nacionalizarse en otro país podía hacerla perder.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que recuperarla con una ley para cada persona es un camino exigente.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Cuenta al menos 23 proyectos de ese tipo hasta agosto de 2026.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Aclarar la regla constitucional que exige una ley para recuperar la nacionalidad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite cumplirla con una ley general que cree un trámite ante una autoridad, con requisitos fijos.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Alcanza a quienes la perdieron antes de la reforma de 2005 sin renuncia voluntaria.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Incluye a quienes renunciaron porque el país que los acogió lo imponía.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La moción plantea mantener el texto del artículo 11 de la Constitución y fijar cómo se entiende.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La nueva ley sobre el trámite debe aprobarse por mayoría de todos los diputados y senadores en ejercicio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a personas que perdieron la nacionalidad en esas situaciones y a la autoridad que revise sus casos.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 24 de septiembre de 2026 y el 19 de octubre pasó a la Comisión de Constitución de la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 25 de noviembre se acordó enviarlo a la Comisión de Gobierno Interior, como ella había pedido.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Está en primer trámite, a la espera del primer informe de esa comisión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "recuperar la nacionalidad chilena",
+    "rehabilitación de nacionalidad chilena",
+    "chilenos que renunciaron a nacionalidad",
+    "ley interpretativa sobre nacionalidad",
+    "doble nacionalidad chilenos en el extranjero"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Interpreta la Constitución Política de la República para fijar el sentido y alcance del inciso final del artículo 11",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19420&tipodoc=mensaje_mocion",
+      "fecha": "2026-09-24",
+      "nota": "Fundamentos e idea central de la moción."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18736-07 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18736",
+      "fecha": "2026-11-27",
+      "nota": "Etapa, fechas y comisiones."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
