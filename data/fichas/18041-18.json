@@ -1,0 +1,157 @@
+{
+  "version": 2,
+  "boletin": "18041-18",
+  "nivel": "basica",
+  "sintesis": "Propone prohibir cirugías y tratamientos hormonales en menores de 18 años que busquen afirmar su identificación con el sexo opuesto, con sanciones. Está en primer trámite en la Cámara.",
+  "materia": "las intervenciones hormonales y quirúrgicas en menores",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto de parlamentarios, sostiene que estas intervenciones pueden causar daños sin vuelta atrás.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Afirma que no hay pruebas científicas sólidas de sus beneficios.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Dice que muchas familias deciden bajo presión social y de profesionales.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Prohíbe cirugías y hormonas en menores de 18 años para afirmar su identificación con el otro sexo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Incluye el bloqueo puberal, que son remedios para frenar o atrasar la pubertad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También incluye la hormonación cruzada, que es dar hormonas propias del otro sexo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite tratamientos con otros fines, como los de pubertad precoz o de ciertas enfermedades.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Las lesiones causadas al infringir la ley se castigarían según el Código Penal.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los profesionales de la salud que infrinjan no podrían volver a ejercer.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El delito no prescribiría, es decir, se podría perseguir sin límite de tiempo.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Los afectados tendrían 50 años, desde que cumplan 18, para exigir una reparación civil.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a menores de 18 años, a sus familias y a profesionales de la salud.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f4"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 31 de diciembre de 2025 y está en primer trámite en la Cámara de Diputadas y Diputados.",
+        "fuentes": [
+          "f4"
+        ]
+      },
+      {
+        "texto": "El 7 de enero de 2026, la Sala acordó que lo vea primero la Comisión de Salud y luego la de Familia.",
+        "fuentes": [
+          "f2",
+          "f3",
+          "f4"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "intervenciones hormonales en menores",
+    "bloqueadores de pubertad Chile",
+    "cambio de sexo en menores",
+    "terapia hormonal menores trans",
+    "proyecto sobre niñez trans"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Prohíbe y sanciona la realización de intervenciones quirúrgicas u hormonales en menores de dieciocho años, que tengan por objeto afirmar su identificación con el sexo opuesto",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18702&tipodoc=mensaje_mocion",
+      "fecha": "2025-12-31",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 20970: Comunica a la Comisión de Salud asignación del proyecto como primera comisión técnica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35646&tipodoc=ofic",
+      "fecha": "2026-01-07",
+      "nota": "Asignación a la Comisión de Salud."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 20971: Comunica a la comisión de Familia asignación del proyecto como segunda comisión técnica",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35647&tipodoc=ofic",
+      "fecha": "2026-01-07",
+      "nota": "Asignación a la Comisión de Familia."
+    },
+    {
+      "id": "f4",
+      "titulo": "Tramitación del boletín 18041-18 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18041",
+      "fecha": "2026-11-27",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
