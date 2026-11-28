@@ -1500,28 +1500,38 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/16035-03.html
 
 Urgencias/Boletín 16035-03Sin plazo informadoAhora en la CámaraCitado el 2 dic 2026
-## Mejora la competencia y perfecciona el mercado del gas licuado
-- 1. Resumen del proyecto
+Título oficialMejora la competencia y perfecciona el mercado del gas licuado
+## Propone separar la venta mayorista y minorista de gas licuado, prohibir contratos de exclusividad y controlar la ubicación de los cilindros. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 16035-03
 Mensaje del Presidente
 19 jun 2023, Cámara
 2 dic 2026, 15:00 · Comisión de Minería y Energía
 1258 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+El mensaje del Gobierno cita un estudio de la Fiscalía Nacional Económica, que cuida la competencia.1 Según ese estudio, tres grandes empresas están en casi todo el país: Abastible, Gasco y Lipigas.1 Vio poca competencia, riesgo de que se coordinen y un posible efecto negativo en el precio.1
+Prohíbe que quien vende al por mayor participe en la venta al público, y al revés.1 Prohíbe los acuerdos de exclusividad o de trato preferente entre ambos niveles.1 Asegura envasado a los vendedores al público cuando haya capacidad disponible.1 Permite intercambiar cilindros y exige un sistema para seguir dónde están.1 Da 12 meses para separar legalmente ambos negocios y 18, ampliables en 6, para vender uno.1
+Modifica el decreto con fuerza de ley 1 de 1978, una norma con valor de ley sobre este mercado.1 Crea registros en que los vendedores deben inscribirse para operar.1
+Afecta a las empresas que distribuyen gas licuado y a sus clientes.1 La Superintendencia de Electricidad y Combustibles fiscalizará el sistema de cilindros.1
+El mensaje dice que el primer año la Superintendencia pagará el mayor gasto con su presupuesto.4 Hacienda podrá completarlo, y después se usarán las leyes de presupuestos.4
+Dato pendiente La tramitación registra un informe financiero, pero sus cifras quedan como dato pendiente.
+El proyecto ingresó el 19 de junio de 2023 y sigue en primer trámite en la Cámara.5 En mayo de 2024 se acordó que lo vea primero la Comisión de Minería y Energía y luego la de Economía.23
+6
 - 19 jun 2023 · CámaraOficio N° 18497. Comunica a la Comisión de Minería y Energía que conocerá el proyecto como segunda comisión técnica
 - 15 may 2024 · CámaraOficio N° 19496. Comunica a la Comisión de Economía que la Comisión de Minería y Energía conocerá el proyecto como primera comisión técnica, y la de Economía como segunda comisión
 - 15 may 2024 · CámaraOficio N° 19497. Comunica a la Comisión de Minería y Energía que conocerá el proyecto como primera comisión técnica, y la de Economía como segunda comisión
 - 2 dic 2026 · 15:00Citado: Comisión de Minería y Energía, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 16035-03Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 16035-03Consulta automática
-- 3Texto del mensaje presidencialDocumento original del proyecto.
+### Para conducir la discusión de la competencia en el mercado del gas licuado
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Mensaje: Mejora la competencia y perfecciona el mercado del gas licuado2023-06-19. Fundamentos y contenido del proyecto.
+- 2Oficio N° 19496: Comunica a la Comisión de Economía que la Comisión de Minería y Energía conocerá el proyecto como primera comisión técnica, y la de Economía como segunda comisión2024-05-15. Orden de las comisiones que revisan el proyecto.
+- 3Oficio N° 19497: Comunica a la Comisión de Minería y Energía que conocerá el proyecto como primera comisión técnica, y la de Economía como segunda comisión2024-05-15. Orden de las comisiones que revisan el proyecto.
+- 4Pasajes sobre costo fiscal en: Mensaje: Mejora la competencia y perfecciona el mercado del gas licuado2023-06-19. Pasajes sobre el gasto fiscal.
+- 5Tramitación del boletín 16035-03 (servicio web público del Senado)2026-11-27. Etapa, fechas, urgencias y mención del informe financiero.
+- 6Senado, ficha de tramitación del boletín 16035-03Consulta automática. Etapas, trámites y urgencias.
+- 7Cámara de Diputadas y Diputados, tramitación del boletín 16035-03Consulta automática
+- 8Texto del mensaje presidencialDocumento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 16143-02
 
@@ -2999,78 +3009,96 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/17543-06.html
 
 Urgencias/Boletín 17543-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a don Alex Pedro Zarzuri Cortés
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a don Alex Pedro Zarzuri Cortés
+## Busca devolver por ley la nacionalidad chilena a Alex Pedro Zarzuri Cortés, quien renunció a ella para obtener la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17543-06
 13 may 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 564 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que emigró a Alemania a fines de los años ochenta.1 Señala que renunció a la nacionalidad chilena para obtener la alemana, por exigencias de su trabajo académico.1 Agrega que mantiene fuertes vínculos con Chile.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Alex Pedro Zarzuri Cortés.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Alex Pedro Zarzuri Cortés.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 13 de mayo de 2025.2 El 15 de mayo de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 13 may 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 15 may 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17543-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17543-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Alex Pedro Zarzuri Cortés
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a don Alex Pedro Zarzuri Cortés2025-05-13. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17543-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17543-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17543-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17544-06
 
 URL: https://urgenciaskast.cl/p/17544-06.html
 
 Urgencias/Boletín 17544-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a don Mauricio Lobos Fernández
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a don Mauricio Lobos Fernández
+## Busca devolver por ley la nacionalidad chilena a Mauricio Lobos Fernández, quien renunció a ella para obtener la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17544-06
 13 may 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 564 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que emigró a Alemania a los 14 años, a fines de los años noventa.1 Señala que renunció a la nacionalidad chilena el 24 de abril de 2019 para obtener la alemana.1 Dice que la necesitaba para acceder a la seguridad social y que mantiene vínculos con Chile.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Mauricio Lobos Fernández.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Mauricio Lobos Fernández.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 13 de mayo de 2025.2 El 15 de mayo de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 13 may 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 15 may 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17544-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17544-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Mauricio Lobos Fernández
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a don Mauricio Lobos Fernández2025-05-13. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17544-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17544-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17544-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17551-06
 
 URL: https://urgenciaskast.cl/p/17551-06.html
 
 Urgencias/Boletín 17551-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a don Jorge Andrés Vergara Montero
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a don Jorge Andrés Vergara Montero
+## Busca devolver por ley la nacionalidad chilena a Jorge Andrés Vergara Montero, quien renunció a ella para obtener la neerlandesa. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17551-06
 14 may 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 563 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que emigró a los Países Bajos.1 Señala que renunció a la nacionalidad chilena el 23 de junio de 2021 para obtener la neerlandesa.1 Agrega que volvió a Chile y que, como turista, debe salir del país cada 90 días.1 Sostiene que necesita recuperarla para ejercer sus derechos como ciudadano.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Jorge Andrés Vergara Montero.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Jorge Andrés Vergara Montero.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 14 de mayo de 2025.2 El 15 de mayo de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 14 may 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 15 may 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17551-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17551-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Jorge Andrés Vergara Montero
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a don Jorge Andrés Vergara Montero2025-05-14. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17551-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17551-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17551-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17567-11
 
@@ -3335,52 +3363,64 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/17649-06.html
 
 Urgencias/Boletín 17649-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a doña Leila Andrea Georgi
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a doña Leila Andrea Georgi
+## Busca devolver por ley la nacionalidad chilena a Leila Andrea Georgi, quien renunció a ella para optar a la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17649-06
 18 jun 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 528 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que renunció a la nacionalidad chilena en 2021.1 Señala que la ley alemana no permitía tener dos nacionalidades, salvo en casos excepcionales.1 Agrega que ha seguido votando en elecciones presidenciales chilenas desde el extranjero y quiere reforzar su vínculo con Chile.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Leila Andrea Georgi.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Leila Andrea Georgi.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 18 de junio de 2025.2 El 2 de julio de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 18 jun 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 2 jul 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17649-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17649-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Leila Andrea Georgi
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a doña Leila Andrea Georgi2025-06-18. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17649-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17649-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17649-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17650-06
 
 URL: https://urgenciaskast.cl/p/17650-06.html
 
 Urgencias/Boletín 17650-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a doña Irma Braschkat
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a doña Irma Braschkat
+## Busca devolver por ley la nacionalidad chilena a Irma Braschkat, quien renunció a ella para obtener la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17650-06
 18 jun 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 528 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que nació en Talca y partió a Alemania a los 30 años.1 Señala que renunció en abril de 2018, porque Alemania limitaba la doble nacionalidad.1 Agrega que ese país la permitió sin excepción en junio de 2024 y que ella mantiene su vínculo con Chile.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Irma Braschkat.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Irma Braschkat.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 18 de junio de 2025.2 El 2 de julio de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 18 jun 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 2 jul 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17650-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17650-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Irma Braschkat
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a doña Irma Braschkat2025-06-18. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17650-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17650-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17650-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17662-07
 
@@ -3735,26 +3775,32 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/17803-06.html
 
 Urgencias/Boletín 17803-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a doña Alejandra Iglesias Rivera
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a doña Alejandra Iglesias Rivera
+## Busca devolver por ley la nacionalidad chilena a Alejandra Iglesias Rivera, quien renunció a ella para obtener la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17803-06
 26 ago 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 459 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que emigró a Alemania en 2003.1 Señala que en 2017 pidió la nacionalidad alemana, que entonces la obligaba a renunciar a la chilena.1 Agrega que hoy vive en España y que, como extranjera, no puede quedarse en Chile más de tres meses.1 Menciona problemas prácticos, como no poder abrir una cuenta bancaria en Chile.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Alejandra Iglesias Rivera.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Alejandra Iglesias Rivera.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 26 de agosto de 2025.2 El 2 de septiembre de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 26 ago 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 2 sep 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17803-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17803-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Alejandra Iglesias Rivera
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a doña Alejandra Iglesias Rivera2025-08-26. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17803-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17803-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17803-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17820-09
 
@@ -3806,26 +3852,32 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/17830-06.html
 
 Urgencias/Boletín 17830-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a doña Fabiola Evelyn Delgado Quinteros
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a doña Fabiola Evelyn Delgado Quinteros
+## Busca devolver por ley la nacionalidad chilena a Fabiola Evelyn Delgado Quinteros, quien renunció a ella para obtener la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17830-06
 8 sep 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 446 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que viajó a Alemania en 2000 y luego estudió allí.1 Señala que renunció en 2014, porque Alemania no permitía entonces la doble nacionalidad.1 Agrega que ese país la permitió en junio de 2024.1 Dice que su familia vive en Chile y que desea volver.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Fabiola Evelyn Delgado Quinteros.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Fabiola Evelyn Delgado Quinteros.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 8 de septiembre de 2025.2 El 10 de septiembre de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 8 sep 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 10 sep 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17830-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17830-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Fabiola Evelyn Delgado Quinteros
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a doña Fabiola Evelyn Delgado Quinteros2025-09-08. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17830-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17830-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17830-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17852-17
 
@@ -3935,26 +3987,32 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/17905-06.html
 
 Urgencias/Boletín 17905-06Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Rehabilita la nacionalidad chilena a doña Karen Parada Figueroa-Lange
-- 1. Resumen del proyecto
+Título oficialRehabilita la nacionalidad chilena a doña Karen Parada Figueroa-Lange
+## Busca devolver por ley la nacionalidad chilena a Karen Parada Figueroa-Lange, quien la perdió al obtener la alemana. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 17905-06
 7 oct 2025, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 417 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto presentado por parlamentarios, dice que viajó a Alemania en 1987 y se quedó a vivir.1 Señala que en 2009 obtuvo la nacionalidad alemana y perdió la chilena, porque Alemania no permitía tener ambas.1 Agrega que ese país lo permite desde junio de 2024.1 Dice que quiere vivir en Chile de forma permanente.1
+Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Karen Parada Figueroa-Lange.1
+La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.1 El proyecto tiene un solo artículo, que concede esa rehabilitación.1
+Afecta directamente a Karen Parada Figueroa-Lange.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó a la Cámara de Diputadas y Diputados el 7 de octubre de 2025.2 El 13 de octubre de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.2 La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 7 oct 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 13 oct 2025 · CámaraCuenta de proyecto. Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y RegionalizaciónLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 17905-06Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 17905-06Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la nacionalidad chilena de Karen Parada Figueroa-Lange
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Rehabilita la nacionalidad chilena a doña Karen Parada Figueroa-Lange2025-10-07. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 17905-06 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 17905-06Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 17905-06Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 17914-13
 
@@ -4246,29 +4304,37 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18041-18.html
 
 Urgencias/Boletín 18041-18Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Prohíbe y sanciona la realización de intervenciones quirúrgicas u hormonales en menores de dieciocho años, que tengan por objeto afirmar su identificación con el sexo opuesto
-- 1. Resumen del proyecto
+Título oficialProhíbe y sanciona la realización de intervenciones quirúrgicas u hormonales en menores de dieciocho años, que tengan por objeto afirmar su identificación con el sexo opuesto
+## Propone prohibir cirugías y tratamientos hormonales en menores de 18 años que busquen afirmar su identificación con el sexo opuesto, con sanciones. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18041-18
 31 dic 2025, Cámara
 1 dic 2026, 17:30 · Comisión de Salud
 332 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto de parlamentarios, sostiene que estas intervenciones pueden causar daños sin vuelta atrás.1 Afirma que no hay pruebas científicas sólidas de sus beneficios.1 Dice que muchas familias deciden bajo presión social y de profesionales.1
+Prohíbe cirugías y hormonas en menores de 18 años para afirmar su identificación con el otro sexo.1 Incluye el bloqueo puberal, que son remedios para frenar o atrasar la pubertad.1 También incluye la hormonación cruzada, que es dar hormonas propias del otro sexo.1 Permite tratamientos con otros fines, como los de pubertad precoz o de ciertas enfermedades.1
+Las lesiones causadas al infringir la ley se castigarían según el Código Penal.1 Los profesionales de la salud que infrinjan no podrían volver a ejercer.1 El delito no prescribiría, es decir, se podría perseguir sin límite de tiempo.1 Los afectados tendrían 50 años, desde que cumplan 18, para exigir una reparación civil.1
+Afecta a menores de 18 años, a sus familias y a profesionales de la salud.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.4
+El proyecto ingresó el 31 de diciembre de 2025 y está en primer trámite en la Cámara de Diputadas y Diputados.4 El 7 de enero de 2026, la Sala acordó que lo vea primero la Comisión de Salud y luego la de Familia.234
+5
 - 31 dic 2025 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 7 ene 2026 · CámaraCuenta de proyecto. Pasa a Comisión de la Familia.La Sala toma conocimiento del proyecto y lo envía a comisión.
 - 7 ene 2026 · CámaraA petición del diputado señor Manouchehri, la Sala acordó radicar el proyecto en la Comisión de Salud y, una vez despachado por ésta, remitirlo a la Comisión de Familia.
 - 7 ene 2026 · CámaraOficio N° 20970. Comunica a la Comisión de Salud asignación del proyecto como primera comisión técnica
 - 7 ene 2026 · CámaraOficio N° 20971. Comunica a la comisión de Familia asignación del proyecto como segunda comisión técnica
 - 1 dic 2026 · 17:30Citado: Comisión de Salud, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18041-18Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18041-18Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de las intervenciones hormonales y quirúrgicas en menores
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Prohíbe y sanciona la realización de intervenciones quirúrgicas u hormonales en menores de dieciocho años, que tengan por objeto afirmar su identificación con el sexo opuesto2025-12-31. Fundamentos y texto del proyecto.
+- 2Oficio N° 20970: Comunica a la Comisión de Salud asignación del proyecto como primera comisión técnica2026-01-07. Asignación a la Comisión de Salud.
+- 3Oficio N° 20971: Comunica a la comisión de Familia asignación del proyecto como segunda comisión técnica2026-01-07. Asignación a la Comisión de Familia.
+- 4Tramitación del boletín 18041-18 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 5Senado, ficha de tramitación del boletín 18041-18Consulta automática. Etapas, trámites y urgencias.
+- 6Cámara de Diputadas y Diputados, tramitación del boletín 18041-18Consulta automática
+- 7Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18072-02
 
@@ -6563,27 +6629,33 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18497-11.html
 
 Urgencias/Boletín 18497-11Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Dispone estándares de resistencia estructural, gestión de riesgos y mantención para las ambulancias terrestres
-- 1. Resumen del proyecto
+Título oficialDispone estándares de resistencia estructural, gestión de riesgos y mantención para las ambulancias terrestres
+## Propone exigir a las ambulancias nuevas resistencia ante choques, y a quienes trasladan pacientes, protocolos, mantención autorizada y conductores certificados. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18497-11
 20 jul 2026, Cámara
 1 dic 2026, 17:30 · Comisión de Salud
 131 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto de parlamentarios, cuenta que en junio de 2026 una enfermera murió en un choque de su ambulancia.1 Sostiene que Chile no exige un nivel de resistencia ante choques en la zona donde se atiende al paciente.1 También menciona riesgos para el personal, como el cansancio por largas jornadas.1
+Exige que esa zona, en ambulancias nuevas, resista al menos 10g, una fuerza de diez veces la gravedad.1 Pide sistemas certificados que sujeten muebles, equipos y personas.1 El certificado vence al terminar la vida útil del vehículo, que fijará un reglamento.1 Obliga a tener protocolos contra el cansancio, las infecciones y las lesiones al mover pacientes.1 Exige talleres autorizados y un certificado especial para conducir.1
+Agrega exigencias a las normas sanitarias y de tránsito actuales, sin reemplazarlas.1 Las ambulancias en uso podrán operar hasta el fin de su vida útil.1
+Afecta a instituciones públicas y privadas que trasladan pacientes, a su personal y a los conductores.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó el 20 de julio de 2026 y pasó a la Comisión de Salud de la Cámara.2 El 23 de noviembre de 2026 se aprobó refundirlo, es decir, unirlo, con el proyecto 18854-11.2 Sigue en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 20 jul 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 22 jul 2026 · CámaraCuenta de proyecto. Pasa a Comisión de SaludLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 23 nov 2026 · CámaraCuenta oficio de la Comisión de Salud mediante el cual solicita recabar el acuerdo de la Sala para refundir los proyectos, iniciados en moción, contenidos en los boletines Nºs 18497-11 y 18854-11. (271/10/2026). APROBADO.
 - 1 dic 2026 · 17:30Citado: Comisión de Salud, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18497-11Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18497-11Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la seguridad de las ambulancias
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Dispone estándares de resistencia estructural, gestión de riesgos y mantención para las ambulancias terrestres2026-07-20. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 18497-11 (servicio web público del Senado)2026-11-27. Etapa, fechas y proyectos refundidos.
+- 3Senado, ficha de tramitación del boletín 18497-11Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18497-11Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18507-04
 
@@ -8172,26 +8244,32 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18720-01.html
 
 Urgencias/Boletín 18720-01Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Modifica el Código de Comercio con el objeto de establecer un plazo perentorio para la inspección técnica presencial que deben realizar las compañías de seguro en caso de los siniestros agrícolas que se indican y consagrar una presunción legal en favor del asegurado
-- 1. Resumen del proyecto
+Título oficialModifica el Código de Comercio con el objeto de establecer un plazo perentorio para la inspección técnica presencial que deben realizar las compañías de seguro en caso de los siniestros agrícolas que se indican y consagrar una presunción legal en favor del asegurado
+## Propone dar a las aseguradoras 15 días para inspeccionar en terreno daños en cultivos; si no cumplen, se presume cierto lo declarado por el asegurado. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18720-01
 21 sep 2026, Cámara
 1 dic 2026, 15:00 · Comisión de Agricultura, Silvicultura y Desarrollo Rural
 68 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto de parlamentarios, dice que las aseguradoras suelen demorar semanas o meses en inspeccionar los campos dañados.1 Sostiene que, con el tiempo, se pierden las pruebas del daño en los cultivos.1 Agrega que luego muchas veces se niega el pago porque no se puede probar la causa.1
+Fija un máximo de 15 días corridos para inspeccionar el campo, desde que se avisa el siniestro, es decir, el daño asegurado.1 Si la inspección no se hace por culpa de la compañía o de su evaluador, se presume cierto lo que declaró el asegurado.1 Entonces la compañía debe pagar, salvo que pruebe fraude o mala intención del asegurado.1
+Agrega el artículo 542 bis al Código de Comercio, la ley que regula, entre otras materias, los seguros.1
+Afecta a quienes aseguran cultivos, plantaciones o siembras, a las aseguradoras y a quienes evalúan los daños.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2 La moción dice que no busca causar gasto fiscal, porque solo regula contratos privados.1
+El proyecto ingresó el 21 de septiembre de 2026 a la Cámara de Diputadas y Diputados.2 El 6 de octubre pasó a la Comisión de Agricultura, Silvicultura y Desarrollo Rural.2 Está en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 21 sep 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 6 oct 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo RuralLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 1 dic 2026 · 15:00Citado: Comisión de Agricultura, Silvicultura y Desarrollo Rural, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18720-01Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18720-01Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de los seguros para daños en cultivos
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Modifica el Código de Comercio con el objeto de establecer un plazo perentorio para la inspección técnica presencial que deben realizar las compañías de seguro en caso de los siniestros agrícolas que se indican y consagrar una presunción legal en favor del asegurado2026-09-21. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 18720-01 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 18720-01Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18720-01Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18721-06
 
@@ -8315,28 +8393,34 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18736-07.html
 
 Urgencias/Boletín 18736-07Sin plazo informadoAhora en la CámaraCitado el 1 dic 2026
-## Interpreta la Constitución Política de la República para fijar el sentido y alcance del inciso final del artículo 11
-- 1. Resumen del proyecto
+Título oficialInterpreta la Constitución Política de la República para fijar el sentido y alcance del inciso final del artículo 11
+## Propone interpretar la Constitución para que ciertas personas que perdieron la nacionalidad chilena puedan recuperarla con un trámite regulado por ley. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18736-07
 24 sep 2026, Cámara
 1 dic 2026, 15:00 · Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización
 65 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto de parlamentarios, dice que hubo personas que debieron renunciar a la nacionalidad chilena porque otro país lo exigía.1 También menciona casos previos a 2005, cuando nacionalizarse en otro país podía hacerla perder.1 Sostiene que recuperarla con una ley para cada persona es un camino exigente.1 Cuenta al menos 23 proyectos de ese tipo hasta agosto de 2026.1
+Aclarar la regla constitucional que exige una ley para recuperar la nacionalidad.1 Permite cumplirla con una ley general que cree un trámite ante una autoridad, con requisitos fijos.1 Alcanza a quienes la perdieron antes de la reforma de 2005 sin renuncia voluntaria.1 Incluye a quienes renunciaron porque el país que los acogió lo imponía.1
+La moción plantea mantener el texto del artículo 11 de la Constitución y fijar cómo se entiende.1 La nueva ley sobre el trámite debe aprobarse por mayoría de todos los diputados y senadores en ejercicio.1
+Afecta a personas que perdieron la nacionalidad en esas situaciones y a la autoridad que revise sus casos.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2
+El proyecto ingresó el 24 de septiembre de 2026 y el 19 de octubre pasó a la Comisión de Constitución de la Cámara.2 El 25 de noviembre se acordó enviarlo a la Comisión de Gobierno Interior, como ella había pedido.2 Está en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 24 sep 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 19 oct 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y ReglamentoLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 18 nov 2026 · CámaraCuenta, oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. (392/1/2026). RECHAZADO.
 - 25 nov 2026 · CámaraCuenta, oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. (397/1/2026). ACORDADO.
 - 1 dic 2026 · 15:00Citado: Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18736-07Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18736-07Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de la recuperación de la nacionalidad chilena
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Interpreta la Constitución Política de la República para fijar el sentido y alcance del inciso final del artículo 112026-09-24. Fundamentos e idea central de la moción.
+- 2Tramitación del boletín 18736-07 (servicio web público del Senado)2026-11-27. Etapa, fechas y comisiones.
+- 3Senado, ficha de tramitación del boletín 18736-07Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18736-07Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18743-35
 
@@ -8404,26 +8488,32 @@ Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automá
 URL: https://urgenciaskast.cl/p/18746-14.html
 
 Urgencias/Boletín 18746-14Sin plazo informadoAhora en la CámaraCitado el 2 dic 2026
-## Modifica leyes que indica con el objeto de hacer expedita la ejecución y formalización de viviendas de interés público y facilitar que estas se acojan al régimen de copropiedad inmobiliaria
-- 1. Resumen del proyecto
+Título oficialModifica leyes que indica con el objeto de hacer expedita la ejecución y formalización de viviendas de interés público y facilitar que estas se acojan al régimen de copropiedad inmobiliaria
+## Propone dar más cuotas para pagar derechos municipales, liberar de cobros notariales y ajustar la ley de condominios en viviendas de interés público. Está en primer trámite en la Cámara.
+Revisión pendiente · piloto de prueba
+Esta ficha la redactó un sistema automático a partir de documentos oficiales y prensa, y el equipo de Lo Común aún no la revisa. Cada oración enlaza a la fuente de donde sale: ante cualquier duda, vale lo que dice la fuente. Si encuentra un error, escríbanos a contacto@locomun.cl indicando el boletín.
 18746-14
 28 sep 2026, Cámara
 2 dic 2026, 15:00 · Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales
 61 días
-Bloque 1
-### Resumen en preparación
-Este proyecto todavía no tiene un Resumen estructurado. Lo publicamos cuando el borrador automático pasa la comprobación de fuentes y de legibilidad.
-Mientras tanto, puede leer el texto original del proyecto o los informes de la Asesoría Técnica Parlamentaria de la Biblioteca del Congreso.
-¿Necesita este análisis antes? Lo Común puede prepararlo para su equipo.
-1
+La moción, proyecto de parlamentarios, dice que el costo de los trámites puede afectar los programas de viviendas de interés público.1 Agrega que la ley de copropiedad, o de condominios, pide permisos municipales que otras leyes a veces no exigen a estas viviendas.1
+Permite pagar los derechos municipales del permiso de obra en hasta 60 cuotas, cada dos o tres meses.1 Todo debe estar pagado antes de la recepción definitiva, que es la aprobación municipal de la obra terminada.1 Elimina los cobros de notarios, conservadores y archiveros en los trámites necesarios para entregar la propiedad a los beneficiarios.1 Permite que viviendas sin esos permisos, por mandato legal, entren al régimen de condominio con otros documentos.1
+Modifica la Ley General de Urbanismo y Construcciones, el Código Orgánico de Tribunales y la Ley 21.442 de copropiedad.1 Los cambios sobre condominios también se aplicarían a proyectos anteriores que aún no tengan ese certificado.1
+Afecta a beneficiarios de programas de vivienda, proyectos habitacionales, municipios, notarios, conservadores y archiveros.1
+Es una moción parlamentaria. En su expediente no figura un informe financiero.2 La moción afirma que no crea gasto público.1
+El proyecto ingresó el 28 de septiembre de 2026 a la Cámara de Diputadas y Diputados.2 El 20 de octubre pasó a la Comisión de Vivienda y Desarrollo Urbano.2 Está en primer trámite, a la espera del primer informe de esa comisión.2
+3
 - 28 sep 2026 · CámaraIngreso de proyecto.El proyecto entra al Congreso.
 - 20 oct 2026 · CámaraCuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo UrbanoLa Sala toma conocimiento del proyecto y lo envía a comisión.
 - 2 dic 2026 · 15:00Citado: Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales, CámaraSegún la citación publicada.
-### Para conducir la discusión de este proyecto
-Fuentes
-- 1Senado, ficha de tramitación del boletín 18746-14Consulta automática. Etapas, trámites y urgencias.
-- 2Cámara de Diputadas y Diputados, tramitación del boletín 18746-14Consulta automática
-- 3Texto del proyecto (moción)Documento original del proyecto.
+### Para conducir la discusión de las viviendas de interés público
+Fuentes · consultadas el 28 de noviembre de 2026
+- 1Moción: Modifica leyes que indica con el objeto de hacer expedita la ejecución y formalización de viviendas de interés público y facilitar que estas se acojan al régimen de copropiedad inmobiliaria2026-09-28. Fundamentos y texto del proyecto.
+- 2Tramitación del boletín 18746-14 (servicio web público del Senado)2026-11-27. Etapa y fechas.
+- 3Senado, ficha de tramitación del boletín 18746-14Consulta automática. Etapas, trámites y urgencias.
+- 4Cámara de Diputadas y Diputados, tramitación del boletín 18746-14Consulta automática
+- 5Texto del proyecto (moción)Documento original del proyecto.
+Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente.
 
 ## Boletín 18754-17
 

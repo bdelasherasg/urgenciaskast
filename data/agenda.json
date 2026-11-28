@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-28T06:31-03:00",
+ "actualizado": "2026-11-28T06:37-03:00",
  "desde": "2026-11-28",
  "hasta": "2026-12-11",
  "fuentes": {
   "senado": {
    "estado": "ok",
-   "consultado": "2026-11-28T06:30",
+   "consultado": "2026-11-28T06:36",
    "citaciones": 24,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=citacionesComision&tipo_consulta=1"
   },
@@ -19,13 +19,13 @@
   },
   "sala_camara": {
    "estado": "ok",
-   "consultado": "2026-11-28T06:30",
+   "consultado": "2026-11-28T06:36",
    "sesiones": 6,
    "url": "https://opendata.camara.cl/camaradiputados/WServices/WSSala.asmx/retornarSesionesXAnno?prmAnno=2026"
   },
   "sala_senado": {
    "estado": "ok",
-   "consultado": "2026-11-28T06:30",
+   "consultado": "2026-11-28T06:36",
    "sesiones": 7,
    "url": "https://tramitacion.senado.cl/wspublico/sesiones.php?legislatura=374"
   },
@@ -37,18 +37,18 @@
   },
   "votaciones_camara": {
    "estado": "ok",
-   "consultado": "2026-11-28T06:30",
+   "consultado": "2026-11-28T06:36",
    "grupos": 9
   },
   "resultados_senado": {
    "estado": "ok",
-   "consultado": "2026-11-28T06:30",
+   "consultado": "2026-11-28T06:36",
    "sesiones": 26,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=comisiones&ac=ultimas_sesiones"
   },
   "plazos_indicaciones": {
    "estado": "ok",
-   "consultado": "2026-11-28T06:30",
+   "consultado": "2026-11-28T06:36",
    "plazos": 1,
    "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=sesionessala&ac=plazosIndicaciones"
   }
