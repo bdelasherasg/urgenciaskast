@@ -1,0 +1,176 @@
+{
+  "version": 2,
+  "boletin": "16035-03",
+  "nivel": "basica",
+  "sintesis": "Propone separar la venta mayorista y minorista de gas licuado, prohibir contratos de exclusividad y controlar la ubicación de los cilindros. Está en primer trámite en la Cámara.",
+  "materia": "la competencia en el mercado del gas licuado",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "El mensaje del Gobierno cita un estudio de la Fiscalía Nacional Económica, que cuida la competencia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Según ese estudio, tres grandes empresas están en casi todo el país: Abastible, Gasco y Lipigas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Vio poca competencia, riesgo de que se coordinen y un posible efecto negativo en el precio.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Prohíbe que quien vende al por mayor participe en la venta al público, y al revés.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Prohíbe los acuerdos de exclusividad o de trato preferente entre ambos niveles.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Asegura envasado a los vendedores al público cuando haya capacidad disponible.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Permite intercambiar cilindros y exige un sistema para seguir dónde están.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Da 12 meses para separar legalmente ambos negocios y 18, ampliables en 6, para vender uno.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Modifica el decreto con fuerza de ley 1 de 1978, una norma con valor de ley sobre este mercado.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Crea registros en que los vendedores deben inscribirse para operar.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a las empresas que distribuyen gas licuado y a sus clientes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "La Superintendencia de Electricidad y Combustibles fiscalizará el sistema de cilindros.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "El mensaje dice que el primer año la Superintendencia pagará el mayor gasto con su presupuesto.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "Hacienda podrá completarlo, y después se usarán las leyes de presupuestos.",
+        "fuentes": [
+          "f6"
+        ]
+      },
+      {
+        "texto": "La tramitación registra un informe financiero, pero sus cifras quedan como dato pendiente.",
+        "fuentes": [
+          "f7"
+        ],
+        "pendiente": true
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 19 de junio de 2023 y sigue en primer trámite en la Cámara.",
+        "fuentes": [
+          "f7"
+        ]
+      },
+      {
+        "texto": "En mayo de 2024 se acordó que lo vea primero la Comisión de Minería y Energía y luego la de Economía.",
+        "fuentes": [
+          "f2",
+          "f3"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "mercado del gas licuado",
+    "precio del gas licuado",
+    "proyecto de gas licuado",
+    "distribuidoras de gas competencia",
+    "trazabilidad de cilindros de gas"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Mensaje: Mejora la competencia y perfecciona el mercado del gas licuado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16576&tipodoc=mensaje_mocion",
+      "fecha": "2023-06-19",
+      "nota": "Fundamentos y contenido del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Oficio N° 19496: Comunica a la Comisión de Economía que la Comisión de Minería y Energía conocerá el proyecto como primera comisión técnica, y la de Economía como segunda comisión",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33354&tipodoc=ofic",
+      "fecha": "2024-05-15",
+      "nota": "Orden de las comisiones que revisan el proyecto."
+    },
+    {
+      "id": "f3",
+      "titulo": "Oficio N° 19497: Comunica a la Comisión de Minería y Energía que conocerá el proyecto como primera comisión técnica, y la de Economía como segunda comisión",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33355&tipodoc=ofic",
+      "fecha": "2024-05-15",
+      "nota": "Orden de las comisiones que revisan el proyecto."
+    },
+    {
+      "id": "f6",
+      "titulo": "Pasajes sobre costo fiscal en: Mensaje: Mejora la competencia y perfecciona el mercado del gas licuado",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16576&tipodoc=mensaje_mocion",
+      "fecha": "2023-06-19",
+      "nota": "Pasajes sobre el gasto fiscal."
+    },
+    {
+      "id": "f7",
+      "titulo": "Tramitación del boletín 16035-03 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16035",
+      "fecha": "2026-11-27",
+      "nota": "Etapa, fechas, urgencias y mención del informe financiero."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
