@@ -1,7 +1,7 @@
 {
  "sitio": "https://urgenciaskast.cl",
  "descripcion": "Resumen de Urgencias Kast para otros sitios de Lo Común. Se actualiza cada tres horas.",
- "actualizado": "2026-11-28T04:51-03:00",
+ "actualizado": "2026-11-28T06:30-03:00",
  "conteos": {
   "urgencias_vigentes": 45,
   "discusion_inmediata": 8,
@@ -260,6 +260,12 @@
  ],
  "fichas_recientes": [
   {
+   "boletin": "13928-07",
+   "sintesis": "Propone castigar en el Código Penal la difusión de imágenes íntimas sin permiso, el hostigamiento y otras conductas de violencia digital. La Cámara lo aprobó y está en el Senado.",
+   "publicado": "2026-11-28",
+   "url": "https://urgenciaskast.cl/p/13928-07.html"
+  },
+  {
    "boletin": "14782-13",
    "sintesis": "Extiende el derecho a sala cuna a todos los trabajadores con hijos menores de dos años y crea un fondo para financiarlo. El Congreso lo aprobó y el Senado lo envió al Presidente de la República.",
    "publicado": "2026-11-27",
@@ -288,12 +294,6 @@
    "sintesis": "Sube las penas y multas por dañar o apropiarse de monumentos nacionales y aumenta el premio a quien denuncie. Está en primer trámite en la Cámara, aprobado en general en comisión.",
    "publicado": "2026-11-26",
    "url": "https://urgenciaskast.cl/p/15025-24.html"
-  },
-  {
-   "boletin": "16858-15",
-   "sintesis": "Regula la asignación de direcciones IP y obliga a las empresas de internet a entregar información a fiscales y policías. La Cámara lo aprobó en general y volvió a comisión.",
-   "publicado": "2026-11-26",
-   "url": "https://urgenciaskast.cl/p/16858-15.html"
   }
  ],
  "analisis": [
