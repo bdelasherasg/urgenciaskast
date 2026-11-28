@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "boletin": "17649-06",
+  "nivel": "basica",
+  "sintesis": "Busca devolver por ley la nacionalidad chilena a Leila Andrea Georgi, quien renunció a ella para optar a la alemana. Está en primer trámite en la Cámara.",
+  "materia": "la nacionalidad chilena de Leila Andrea Georgi",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto presentado por parlamentarios, dice que renunció a la nacionalidad chilena en 2021.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Señala que la ley alemana no permitía tener dos nacionalidades, salvo en casos excepcionales.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Agrega que ha seguido votando en elecciones presidenciales chilenas desde el extranjero y quiere reforzar su vínculo con Chile.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Rehabilitar por ley, es decir, devolver, la nacionalidad chilena a Leila Andrea Georgi.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "La Constitución dice que quien perdió la nacionalidad solo puede recuperarla mediante una ley.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El proyecto tiene un solo artículo, que concede esa rehabilitación.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta directamente a Leila Andrea Georgi.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó a la Cámara de Diputadas y Diputados el 18 de junio de 2025.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 2 de julio de 2025 pasó a la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "La tramitación lo registra en primer trámite, a la espera del primer informe de esa comisión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "rehabilitación de nacionalidad chilena",
+    "recuperar la nacionalidad chilena",
+    "Leila Andrea Georgi nacionalidad",
+    "renuncia a la nacionalidad chilena"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Rehabilita la nacionalidad chilena a doña Leila Andrea Georgi",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18292&tipodoc=mensaje_mocion",
+      "fecha": "2025-06-18",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 17649-06 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17649",
+      "fecha": "2026-11-27",
+      "nota": "Etapa y fechas."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
