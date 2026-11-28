@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "boletin": "18497-11",
+  "nivel": "basica",
+  "sintesis": "Propone exigir a las ambulancias nuevas resistencia ante choques, y a quienes trasladan pacientes, protocolos, mantención autorizada y conductores certificados. Está en primer trámite en la Cámara.",
+  "materia": "la seguridad de las ambulancias",
+  "resumen": {
+    "problema": [
+      {
+        "texto": "La moción, proyecto de parlamentarios, cuenta que en junio de 2026 una enfermera murió en un choque de su ambulancia.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Sostiene que Chile no exige un nivel de resistencia ante choques en la zona donde se atiende al paciente.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "También menciona riesgos para el personal, como el cansancio por largas jornadas.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "propone": [
+      {
+        "texto": "Exige que esa zona, en ambulancias nuevas, resista al menos 10g, una fuerza de diez veces la gravedad.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Pide sistemas certificados que sujeten muebles, equipos y personas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "El certificado vence al terminar la vida útil del vehículo, que fijará un reglamento.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Obliga a tener protocolos contra el cansancio, las infecciones y las lesiones al mover pacientes.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Exige talleres autorizados y un certificado especial para conducir.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "cambia": [
+      {
+        "texto": "Agrega exigencias a las normas sanitarias y de tránsito actuales, sin reemplazarlas.",
+        "fuentes": [
+          "f1"
+        ]
+      },
+      {
+        "texto": "Las ambulancias en uso podrán operar hasta el fin de su vida útil.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "afecta": [
+      {
+        "texto": "Afecta a instituciones públicas y privadas que trasladan pacientes, a su personal y a los conductores.",
+        "fuentes": [
+          "f1"
+        ]
+      }
+    ],
+    "costo": [
+      {
+        "texto": "Es una moción parlamentaria. En su expediente no figura un informe financiero.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ],
+    "estado": [
+      {
+        "texto": "El proyecto ingresó el 20 de julio de 2026 y pasó a la Comisión de Salud de la Cámara.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "El 23 de noviembre de 2026 se aprobó refundirlo, es decir, unirlo, con el proyecto 18854-11.",
+        "fuentes": [
+          "f2"
+        ]
+      },
+      {
+        "texto": "Sigue en primer trámite, a la espera del primer informe de esa comisión.",
+        "fuentes": [
+          "f2"
+        ]
+      }
+    ]
+  },
+  "posiciones": [],
+  "posiciones_sin_registro": "",
+  "encuadre": {},
+  "busqueda_prensa": [
+    "seguridad de las ambulancias",
+    "Ley Susana ambulancias",
+    "accidente de ambulancia SAMU",
+    "ambulancias resistencia a choques",
+    "conductores de ambulancia certificación"
+  ],
+  "fuentes": [
+    {
+      "id": "f1",
+      "titulo": "Moción: Dispone estándares de resistencia estructural, gestión de riesgos y mantención para las ambulancias terrestres",
+      "url": "https://tramitacion.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19181&tipodoc=mensaje_mocion",
+      "fecha": "2026-07-20",
+      "nota": "Fundamentos y texto del proyecto."
+    },
+    {
+      "id": "f2",
+      "titulo": "Tramitación del boletín 18497-11 (servicio web público del Senado)",
+      "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18497",
+      "fecha": "2026-11-27",
+      "nota": "Etapa, fechas y proyectos refundidos."
+    }
+  ],
+  "consultado": "2026-11-28",
+  "publicado": "2026-11-28",
+  "estado_revision": "pendiente",
+  "revision": "Revisión pendiente. Piloto de prueba: esta ficha la redactó un sistema automático con fuentes públicas el 2026-11-28 y el equipo de Lo Común aún no la revisa. Cada dato enlaza a su fuente."
+}
